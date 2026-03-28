@@ -7,6 +7,7 @@ import { t } from "../../../i18n/translations.ts";
 import fs from "node:fs";
 import path from "node:path";
 
+
 /** timeline: {{% timeline %}}...markdown table...{{% /timeline %}}
  *  Wraps a markdown table in a styled timeline container. */
 export function timelineHandler(_args: string[], inner: string): string {

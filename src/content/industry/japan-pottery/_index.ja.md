@@ -146,30 +146,73 @@ mapName: "japan"
 
 ## 焼成プロセス
 
-{{% mermaid %}}
-graph TB
-  A["原料採取<br/>陶土・陶石"]-->B["精製・土練り<br/>鉄分除去・真空土練機"]
-  B-->C["成形<br/>ろくろ・型・手びねり"]
-  C-->D["乾燥<br/>自然乾燥・低温乾燥"]
-  D-->E["素焼き<br/>800℃前後"]
-  E-->F["釉薬がけ<br/>浸し・吹付・筆塗り"]
-  F-->G["下絵付け<br/>染付・鉄絵など"]
-  G-->H["本焼き<br/>1,100〜1,350℃"]
-  H-->I["上絵付け<br/>色絵・金彩（九谷・有田等）"]
-  I-->J["上絵焼き<br/>800℃前後"]
-  J-->K["仕上げ・検品<br/>完成品"]
-  style A fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
-  style B fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style C fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style D fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style E fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style F fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style G fill:#fef3c7,color:#92400e,stroke:#d97706
-  style H fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style I fill:#fef3c7,color:#92400e,stroke:#d97706
-  style J fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style K fill:#d1fae5,color:#065f46,stroke:#10b981
-{{% /mermaid %}}
+**素地づくり**
+
+<div class="process-flow">
+  <div class="process-step">
+    <span class="process-step__label">原料</span>
+    <span class="process-step__name">陶土・陶石</span>
+  </div>
+  <div class="process-arrow">→</div>
+  <div class="process-step">
+    <span class="process-step__label">精製</span>
+    <span class="process-step__name">土練り</span>
+    <span class="process-step__temp">鉄分除去</span>
+  </div>
+  <div class="process-arrow">→</div>
+  <div class="process-step">
+    <span class="process-step__label">成形</span>
+    <span class="process-step__name">ろくろ・型</span>
+  </div>
+  <div class="process-arrow">→</div>
+  <div class="process-step">
+    <span class="process-step__label">乾燥</span>
+    <span class="process-step__name">自然・低温</span>
+  </div>
+  <div class="process-arrow">→</div>
+  <div class="process-step">
+    <span class="process-step__label">素焼き</span>
+    <span class="process-step__name">焼き締め</span>
+    <span class="process-step__temp">800℃前後</span>
+  </div>
+</div>
+
+**焼成・絵付け**
+
+<div class="process-flow">
+  <div class="process-step">
+    <span class="process-step__label">釉薬がけ</span>
+    <span class="process-step__name">浸し・吹付</span>
+  </div>
+  <div class="process-arrow">→</div>
+  <div class="process-step" style="border-color:#d97706;background:#fffbeb;">
+    <span class="process-step__label">下絵付け</span>
+    <span class="process-step__name">染付・鉄絵</span>
+  </div>
+  <div class="process-arrow">→</div>
+  <div class="process-step">
+    <span class="process-step__label">本焼き</span>
+    <span class="process-step__name">焼成</span>
+    <span class="process-step__temp">1,100〜1,350℃</span>
+  </div>
+  <div class="process-arrow">→</div>
+  <div class="process-step" style="border-color:#d97706;background:#fffbeb;">
+    <span class="process-step__label">上絵付け</span>
+    <span class="process-step__name">色絵・金彩</span>
+    <span class="process-step__temp">九谷・有田等</span>
+  </div>
+  <div class="process-arrow">→</div>
+  <div class="process-step">
+    <span class="process-step__label">上絵焼き</span>
+    <span class="process-step__name">低温焼成</span>
+    <span class="process-step__temp">800℃前後</span>
+  </div>
+  <div class="process-arrow">→</div>
+  <div class="process-step" style="border-color:#10b981;background:#ecfdf5;">
+    <span class="process-step__label">完成</span>
+    <span class="process-step__name">仕上げ・検品</span>
+  </div>
+</div>
 
 ※上絵付け（色絵）を行わない産地（備前・信楽など）は本焼き後に仕上げとなります。
 
@@ -231,6 +274,6 @@ graph TB
 - **伝統継承産地**（備前・萩・信楽）：手仕事の技法を守りつつ、個性的な作品を国内外に発信
 
 {{% references %}}
-meti2022: 経済産業省「工業統計調査 品目別統計表（窯業・土石製品）」（2022年）<https://www.meti.go.jp/statistics/tyo/kougyo/>
-rokkoyo: 日本六古窯協議会「日本六古窯について」<https://www.nihon-rokkoyo.jp/>
+meti2022: 経済産業省「工業統計調査 品目別統計表（窯業・土石製品）」（2022年）<https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&metadata=1&data=1>
+rokkoyo: Six ancient kilns「日本六古窯について」<https://sixancientkilns.jp/about/>
 {{% /references %}}

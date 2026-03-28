@@ -151,8 +151,8 @@ weight: 20
 </div>
 
 {{% references %}}
-ibaraki2022: 茨城県企業局「鹿島臨海工業地帯の概要」（2022年）<https://www.pref.ibaraki.jp/>
-kant2021: 関東地方整備局鹿島港湾・空港整備事務所「鹿島港の現況」（2021年）<https://www.kanto.mlit.go.jp/>
-nipponsteel2023: 日本製鉄株式会社「有価証券報告書2023年度」（2023年）<https://www.nipponsteel.com/ir/library/>
-jisf2023: 日本鉄鋼連盟「鉄鋼統計要覧2023年版」（2023年）<https://www.jisf.or.jp/>
+ibaraki2022: 不毛の大地を甦らせた鹿島港の開発　<https://www.jcca.or.jp/infra70n/files/PJNO_08.pdf>
+kant2021: 鹿島港 Wikipedia <https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B3%B6%E6%B8%AF>
+nipponsteel2023: 日本製鉄 統合報告書 2024（2024年）<https://www.nipponsteel.com/common/secure/ir/library/pdf/nsc_jp_ir_2024_all.pdf>
+jisf2023: 日本鉄鋼連盟「「粗鋼生産」9000万トン割れに下方修正…需要環境厳しい鋼材、中国勢の影響度」（2023年）<https://newswitch.jp/p/38746>
 {{% /references %}}

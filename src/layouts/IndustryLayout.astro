@@ -641,25 +641,23 @@ const isMapPage = !!data.mapName;
     .mermaid-wrap {
       margin: 1.5rem 0;
       overflow-x: auto;
-    }
-    .mermaid-wrap .mermaid {
-      min-height: 120px;
       display: flex;
       justify-content: center;
+    }
+    .mermaid-wrap .mermaid {
+      min-height: 60px;
+      max-width: 600px;
+      width: 100%;
     }
     .mermaid-wrap svg {
       max-width: 100%;
       height: auto;
+      max-height: 520px;
     }
-    /* Loading placeholder before Mermaid renders */
     .mermaid:not([data-processed]) {
       background: rgba(30,58,95,0.04);
       border-radius: var(--ind-radius);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: var(--ind-muted);
-      font-size: 0.82rem;
+      min-height: 80px;
     }
 
     /* ---- Responsive ---- */
@@ -753,16 +751,20 @@ const isMapPage = !!data.mapName;
         '  startOnLoad: true,',
         '  theme: "base",',
         '  themeVariables: {',
-        '    primaryColor: "#1e3a5f",',
-        '    primaryTextColor: "#ffffff",',
-        '    primaryBorderColor: "#2d5282",',
-        '    lineColor: "#e07b20",',
-        '    secondaryColor: "#f0f4f8",',
-        '    tertiaryColor: "#fef3e2",',
+        '    primaryColor: "#dbeafe",',
+        '    primaryTextColor: "#1e3a5f",',
+        '    primaryBorderColor: "#3b82f6",',
+        '    lineColor: "#6b7280",',
+        '    secondaryColor: "#f3f4f6",',
+        '    secondaryTextColor: "#1f2937",',
+        '    secondaryBorderColor: "#9ca3af",',
+        '    tertiaryColor: "#d1fae5",',
+        '    tertiaryTextColor: "#065f46",',
+        '    tertiaryBorderColor: "#10b981",',
         '    edgeLabelBackground: "#ffffff",',
         '    clusterBkg: "#f0f4f8",',
         '    fontFamily: "Hiragino Sans, Hiragino Kaku Gothic ProN, Noto Sans JP, system-ui, sans-serif",',
-        '    fontSize: "13px"',
+        '    fontSize: "16px"',
         '  },',
         '  flowchart: { htmlLabels: true, curve: "basis" }',
         '});',

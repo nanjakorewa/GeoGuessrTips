@@ -150,5 +150,5 @@ mapName: "japan"
 | 室蘭コンビナート | 北海道室蘭市 | 製鉄 | 準備中 |
 
 {{% references %}}
-jpca2023: 日本石油化学工業協会. 「石油化学工業の現状」. 2023年. https://www.jpca.or.jp/
+jpca2023: みずほ産業調査 「石油化学工業の現状」. 2019年. https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1061_all.pdf
 {{% /references %}}

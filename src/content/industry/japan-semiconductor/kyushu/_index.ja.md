@@ -21,11 +21,6 @@ weight: 10
     <p class="stat-card__unit">%（スマートフォン向け・2023年）</p>
   </div>
   <div class="stat-card">
-    <p class="stat-card__label">九州半導体関連工場数</p>
-    <p class="stat-card__value">約150</p>
-    <p class="stat-card__unit">拠点（前後工程・材料・装置含む）</p>
-  </div>
-  <div class="stat-card">
     <p class="stat-card__label">TSMC熊本第2工場 稼働予定</p>
     <p class="stat-card__value">2027</p>
     <p class="stat-card__unit">年（6nm/4nmプロセス）</p>
@@ -36,24 +31,24 @@ weight: 10
 
 {{% mermaid %}}
 graph LR
-  A["シリコンウェーハ<br/>信越化学・SUMCO"]-->B["TSMC熊本（JASM）<br/>12/16/28nm"]
-  A-->C["ソニーセミコンダクタ<br/>熊本・合志・長崎"]
-  A-->D["ルネサス川尻<br/>車載マイコン"]
-  A-->D2["ルネサス大分<br/>ADAS向けSoC"]
-  B-->E["デンソー<br/>車載チップ"]
-  B-->F["ソニー<br/>家電・カメラ"]
-  C-->G["スマートフォン<br/>カメラモジュール"]
-  C-->H["車載カメラ<br/>監視カメラ"]
-  D-->I["自動車ECU<br/>産業機器"]
+  A["シリコンウェーハ\n信越化学・SUMCO"]-->B["TSMC熊本（JASM）\n12/16/28nm"]
+  A-->C["ソニーセミコンダクタ\n熊本・合志・長崎"]
+  A-->D["ルネサス川尻\n車載マイコン"]
+  A-->D2["ルネサス大分\nADAS向けSoC"]
+  B-->E["デンソー\n車載チップ"]
+  B-->F["ソニー\n家電・カメラ"]
+  C-->G["スマートフォン\nカメラモジュール"]
+  C-->H["車載カメラ\n監視カメラ"]
+  D-->I["自動車ECU\n産業機器"]
   D2-->I
-  J["製造装置・材料<br/>TEL九州・TOK"]-->B
+  J["製造装置・材料\nTEL九州・TOK"]-->B
   J-->C
   style A fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
   style J fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
-  style B fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style C fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style D fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style D2 fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
+  style B fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
+  style C fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
+  style D fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
+  style D2 fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
   style E fill:#d1fae5,color:#065f46,stroke:#10b981
   style F fill:#d1fae5,color:#065f46,stroke:#10b981
   style G fill:#d1fae5,color:#065f46,stroke:#10b981
@@ -171,7 +166,7 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 </div>
 
 {{% references %}}
-jasm2024: Japan Advanced Semiconductor Manufacturing株式会社「会社概要」（2024年）<https://www.japan-tsmc.com/>
-sony2023: ソニーグループ株式会社「有価証券報告書2023年度」（2023年）<https://www.sony.com/ja/SonyInfo/IR/>
-renesas2023: ルネサスエレクトロニクス株式会社「有価証券報告書2023年度」（2023年）<https://www.renesas.com/jp/ja/corporate/investor-relations>
+jasm2024: Japan Advanced Semiconductor Manufacturing株式会社「会社概要」（2024年）<https://www.tsmc.com/static/japanese/careers/jasm/index.html>
+sony2023: ソニーグループ株式会社「有価証券報告書2023年度」（2023年）<https://www.sony.com/ja/SonyInfo/IR/library/yu.html>
+renesas2023: ルネサスエレクトロニクス株式会社「有価証券報告書2023年度」（2023年）<https://www.renesas.com/ja/about/investor-relations/security?srsltid=AfmBOoo-ipgMc01_XY54gV4RGeJuVOOqqO9yMGm8F44UGtfe3Xg37ek3>
 {{% /references %}}

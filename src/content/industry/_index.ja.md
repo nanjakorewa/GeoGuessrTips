@@ -2,7 +2,7 @@
 title: "世界の産業地帯"
 subtitle: "国別・地域別の重化学工業コンビナートを解説"
 date: 2026-03-22
-description: "石油化学・製鉄・自動車など、世界各国の主要産業地帯を地域別に見る"
+description: "世界各国の主要産業地帯を地域別に見る"
 weight: 10
 type: "docs"
 card_image: "pipeline.jpg"
@@ -10,14 +10,12 @@ card_image: "pipeline.jpg"
 
 ## 世界の産業地帯とは
 
-重化学工業が湾岸・港湾周辺に集積した地域は、地域経済・雇用・国際競争力を左右する重要な産業インフラです。石油精製・石油化学・鉄鋼・自動車・造船など多業種が一体的に生産ネットワークを構築し、原材料と副産物を融通し合うことで効率化を図っています。
-
-このサイトでは、重化学工業のコンビナートから半導体クラスター・伝統工芸の産地まで、日本各地の産業集積を**生産規模・企業構成・歴史的背景・市場構造**という視点から掘り下げていきます。
+このセクションは、重化学工業のコンビナートから半導体クラスター・伝統工芸の産地まで、日本各地の産業集積を**企業構成・歴史的背景・市場構造**という視点から掘り下げてみるページです。そのため**ジオゲッサーとはあんまり関係ない内容が多いかも**しれません...。
 
 ## 掲載コンテンツ
 
 | 国・地域 | コンテンツ |
 | ------- | --------- |
-| [🇯🇵 日本のコンビナート](/industry/japan-combinat/) | 全国主要8地区の分布マップ + 3地区の詳細解説 |
-| [🇯🇵 日本の半導体産業集積地](/industry/japan-semiconductor/) | 九州・東北・三重・広島・関東・北海道の6地域を解説 |
-| [🇯🇵 日本の焼き物産地](/industry/japan-pottery/) | 六古窯から有田・九谷まで全国14産地の地図と一覧 |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本のコンビナート](/industry/japan-combinat/) | 全国主要8地区の分布マップ + 3地区の詳細解説 |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の半導体産業集積地](/industry/japan-semiconductor/) | 九州・東北・三重・広島・関東・北海道の6地域を解説 |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の焼き物産地](/industry/japan-pottery/) | 六古窯から有田・九谷まで全国14産地の地図と一覧 |

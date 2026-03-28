@@ -136,7 +136,6 @@ mapName: "japan"
 | 東北（岩手・北上） | 岩手県北上市 | NANDフラッシュメモリ（キオクシア北上工場）。※宮城PSMC計画は2024年末に提携解消で中止 | 準備中 |
 | 三重・四日市 | 三重県四日市市 | NANDフラッシュメモリ（キオクシア・ウェスタンデジタル） | 準備中 |
 | 広島（東広島） | 広島県東広島市 | DRAM・HBM（マイクロンメモリジャパン）。生成AI需要で高帯域幅メモリ（HBM）の最先端拠点 | 準備中 |
-| 関東（茨城・神奈川） | 茨城・神奈川 | 車載マイコン・R&D・材料（ルネサス・産総研） | 準備中 |
 | 北海道千歳 | 北海道千歳市 | 最先端ロジック2nm（ラピダス）。2025年にIIM-1試作ライン稼働、2027年量産目標 | 準備中 |
 
 ### パワー半導体
@@ -154,21 +153,21 @@ mapName: "japan"
 
 {{% mermaid %}}
 graph LR
-  A["シリコン原料"]-->B["シリコンウェーハ<br/>信越化学・SUMCO"]
-  B-->C["前工程<br/>露光・成膜・エッチング"]
-  C-->D["後工程<br/>封止・パッケージ"]
-  D-->E["最終製品<br/>スマートフォン・車載・AI"]
-  F["フォトレジスト<br/>JSR・信越・東京応化"]-->C
-  G["製造装置<br/>東京エレクトロン・キヤノン"]-->C
+  A["シリコン原料"]-->B["シリコンウェーハ\n信越化学・SUMCO"]
+  B-->C["前工程\n露光・成膜・エッチング"]
+  C-->D["後工程\n封止・パッケージ"]
+  D-->E["最終製品\nスマートフォン・車載・AI"]
+  F["フォトレジスト\nJSR・信越・東京応化"]-->C
+  G["製造装置\n東京エレクトロン・キヤノン"]-->C
   style A fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
   style F fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
   style G fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
-  style B fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style C fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style D fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
-  style E fill:#d1fae5,color:#065f46,stroke:#10b981
+  style B fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
+  style C fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
+  style D fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
+  style E fill:#d1fae5,color:#065f46,stroke:#10b981,stroke-width:2px
 {{% /mermaid %}}
 
 {{% references %}}
-meti2023: 経済産業省「半導体・デジタル産業戦略（改訂版）」（2023年）<https://www.meti.go.jp/policy/mono_info_service/joho/pdf/semiconductor_strategy.pdf>
+meti2023: 半導体・デジタル産業戦略の今後の方向性 <https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0014/handeji14-4.pdf>
 {{% /references %}}
