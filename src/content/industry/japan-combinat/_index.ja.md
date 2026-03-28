@@ -12,7 +12,7 @@ mapName: "japan"
   // コンビナートマーカー設定
   // 座標は japan.js の SVG座標系（645.8 × 700.4）に基づく
   var pins = [
-    { x: 462, y: 168, label: '室蘭', url: '/industry/japan-combinat/muroran/', ready: false,
+    { x: 482, y: 160, label: '室蘭', url: '/industry/japan-combinat/muroran/', ready: false,
       industry: '製鉄' },
     { x: 472, y: 428, label: '鹿島', url: '/industry/japan-combinat/kashima/', ready: true,
       industry: '鉄鋼・石油化学' },
