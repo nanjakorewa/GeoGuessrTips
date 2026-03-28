@@ -13,12 +13,14 @@ mapName: "japan"
   var pins = [
     { x: 490, y: 145, label: '北海道（千歳）', url: '/industry/japan-semiconductor/hokkaido/', ready: false,
       industry: 'ロジック半導体（ラピダス 2nm）' },
-    { x: 470, y: 295, label: '東北（岩手）', url: '/industry/japan-semiconductor/tohoku/', ready: false,
+    { x: 470, y: 295, label: '東北（岩手・北上）', url: '/industry/japan-semiconductor/tohoku/', ready: false,
       industry: 'NANDフラッシュ（キオクシア北上）' },
     { x: 449, y: 424, label: '関東（茨城）', url: '/industry/japan-semiconductor/kanto/', ready: false,
       industry: '車載マイコン・研究開発' },
     { x: 298, y: 487, label: '三重（四日市）', url: '/industry/japan-semiconductor/mie/', ready: false,
       industry: 'NANDフラッシュ（キオクシア）' },
+    { x: 200, y: 488, label: '広島（東広島）', url: '/industry/japan-semiconductor/hiroshima/', ready: false,
+      industry: 'DRAM・HBM（マイクロン）' },
     { x: 88, y: 558, label: '九州（熊本）', url: '/industry/japan-semiconductor/kyushu/', ready: true,
       industry: 'ロジック・CMOSイメージセンサー（TSMC・ソニー）' },
   ];
@@ -106,23 +108,23 @@ mapName: "japan"
 <div class="stat-grid">
   <div class="stat-card">
     <p class="stat-card__label">国内半導体生産額</p>
-    <p class="stat-card__value">約4兆</p>
-    <p class="stat-card__unit">円（2022年・経産省推計）</p>
+    <p class="stat-card__value">約6.5兆</p>
+    <p class="stat-card__unit">円（2025年度見込み・政府目標2030年15兆円）</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">主要産業集積地</p>
-    <p class="stat-card__value">5</p>
-    <p class="stat-card__unit">地域（九州・東北・三重・関東・北海道）</p>
+    <p class="stat-card__value">6</p>
+    <p class="stat-card__unit">地域（九州・東北・三重・広島・関東・北海道）</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">TSMC熊本第1工場</p>
     <p class="stat-card__value">月産5.5万</p>
-    <p class="stat-card__unit">枚（300mmウェーハ・2024年稼働）</p>
+    <p class="stat-card__unit">枚（300mm・2024年12月量産開始）</p>
   </div>
   <div class="stat-card">
-    <p class="stat-card__label">ラピダス 目標生産開始</p>
+    <p class="stat-card__label">ラピダス（北海道千歳）</p>
     <p class="stat-card__value">2027</p>
-    <p class="stat-card__unit">年（2nmプロセス・北海道千歳）</p>
+    <p class="stat-card__unit">年量産目標（2025年試作ライン稼働・EUV調整中）</p>
   </div>
 </div>
 
@@ -131,10 +133,22 @@ mapName: "japan"
 | 集積地 | 所在地 | 主な産業 | 詳細 |
 | ------ | ------ | -------- | ---- |
 | **九州半導体クラスター** | 熊本・大分・長崎 | ロジック・CMOSイメージセンサー（TSMC・ソニー・ルネサス） | [詳細 →](/industry/japan-semiconductor/kyushu/) |
-| 東北シリコンロード | 岩手・宮城 | NANDフラッシュメモリ（キオクシア・マイクロン） | 準備中 |
+| 東北（岩手・北上） | 岩手県北上市 | NANDフラッシュメモリ（キオクシア北上工場）。※宮城PSMC計画は2024年末に提携解消で中止 | 準備中 |
 | 三重・四日市 | 三重県四日市市 | NANDフラッシュメモリ（キオクシア・ウェスタンデジタル） | 準備中 |
+| 広島（東広島） | 広島県東広島市 | DRAM・HBM（マイクロンメモリジャパン）。生成AI需要で高帯域幅メモリ（HBM）の最先端拠点 | 準備中 |
 | 関東（茨城・神奈川） | 茨城・神奈川 | 車載マイコン・R&D・材料（ルネサス・産総研） | 準備中 |
-| 北海道千歳 | 北海道千歳市 | 最先端ロジック2nm（ラピダス・建設中） | 準備中 |
+| 北海道千歳 | 北海道千歳市 | 最先端ロジック2nm（ラピダス）。2025年にIIM-1試作ライン稼働、2027年量産目標 | 準備中 |
+
+### パワー半導体
+
+上記のロジック・メモリ集積地に加え、日本はパワー半導体でも世界的な競争力を維持しています。EV・再エネ向けの需要拡大により重要性が増しています。
+
+| 企業 | 主要拠点 | 製品 |
+| ---- | -------- | ---- |
+| ローム | 宮崎・福岡 | SiCパワーデバイス（EV向けインバーター） |
+| 三菱電機 | 福岡（パワーデバイス製作所） | IGBTモジュール（鉄道・産業機器） |
+| 富士電機 | 長野・北陸 | パワーモジュール（再エネ・産業向け） |
+| 東芝 | 石川（加賀） | パワーMOSFET・SiCデバイス |
 
 ## 半導体サプライチェーンの概要
 
@@ -146,13 +160,13 @@ graph LR
   D-->E["最終製品<br/>スマートフォン・車載・AI"]
   F["フォトレジスト<br/>JSR・信越・東京応化"]-->C
   G["製造装置<br/>東京エレクトロン・キヤノン"]-->C
-  style A fill:#374151,color:#fff,stroke:none
-  style F fill:#374151,color:#fff,stroke:none
-  style G fill:#374151,color:#fff,stroke:none
-  style B fill:#1e3a5f,color:#fff,stroke:#2d5282
-  style C fill:#1e3a5f,color:#fff,stroke:#2d5282
-  style D fill:#1e3a5f,color:#fff,stroke:#2d5282
-  style E fill:#065f46,color:#fff,stroke:none
+  style A fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
+  style F fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
+  style G fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
+  style B fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
+  style C fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
+  style D fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
+  style E fill:#d1fae5,color:#065f46,stroke:#10b981
 {{% /mermaid %}}
 
 {{% references %}}

@@ -19,5 +19,5 @@ card_image: "pipeline.jpg"
 | 国・地域 | コンテンツ |
 | ------- | --------- |
 | [🇯🇵 日本のコンビナート](/industry/japan-combinat/) | 全国主要8地区の分布マップ + 3地区の詳細解説 |
-| [🇯🇵 日本の半導体産業集積地](/industry/japan-semiconductor/) | 九州・東北・三重・北海道・関東の5地域を解説 |
+| [🇯🇵 日本の半導体産業集積地](/industry/japan-semiconductor/) | 九州・東北・三重・広島・関東・北海道の6地域を解説 |
 | [🇯🇵 日本の焼き物産地](/industry/japan-pottery/) | 六古窯から有田・九谷まで全国14産地の地図と一覧 |

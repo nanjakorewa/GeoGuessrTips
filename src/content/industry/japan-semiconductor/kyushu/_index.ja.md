@@ -13,7 +13,7 @@ weight: 10
   <div class="stat-card">
     <p class="stat-card__label">TSMC熊本第1工場 月産能力</p>
     <p class="stat-card__value">5.5万</p>
-    <p class="stat-card__unit">枚（300mmウェーハ・2024年2月稼働）</p>
+    <p class="stat-card__unit">枚（300mm・2024年12月量産開始）</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">ソニー CMOSセンサー世界シェア</p>
@@ -36,26 +36,29 @@ weight: 10
 
 {{% mermaid %}}
 graph LR
-  A["シリコンウェーハ<br/>信越化学・SUMCO"]-->B["TSMC熊本<br/>（JASM）<br/>12/16/28nm"]
-  A-->C["ソニーセミコンダクタ<br/>熊本工場<br/>CMOSセンサー"]
-  A-->D["ルネサス大分<br/>車載マイコン<br/>SoC"]
+  A["シリコンウェーハ<br/>信越化学・SUMCO"]-->B["TSMC熊本（JASM）<br/>12/16/28nm"]
+  A-->C["ソニーセミコンダクタ<br/>熊本・合志・長崎"]
+  A-->D["ルネサス川尻<br/>車載マイコン"]
+  A-->D2["ルネサス大分<br/>ADAS向けSoC"]
   B-->E["デンソー<br/>車載チップ"]
   B-->F["ソニー<br/>家電・カメラ"]
   C-->G["スマートフォン<br/>カメラモジュール"]
   C-->H["車載カメラ<br/>監視カメラ"]
   D-->I["自動車ECU<br/>産業機器"]
-  J["フォトレジスト<br/>TOK・住友化学"]-->B
+  D2-->I
+  J["製造装置・材料<br/>TEL九州・TOK"]-->B
   J-->C
-  style A fill:#374151,color:#fff,stroke:none
-  style J fill:#374151,color:#fff,stroke:none
-  style B fill:#1e3a5f,color:#fff,stroke:#2d5282
-  style C fill:#1e3a5f,color:#fff,stroke:#2d5282
-  style D fill:#1e3a5f,color:#fff,stroke:#2d5282
-  style E fill:#065f46,color:#fff,stroke:none
-  style F fill:#065f46,color:#fff,stroke:none
-  style G fill:#065f46,color:#fff,stroke:none
-  style H fill:#065f46,color:#fff,stroke:none
-  style I fill:#065f46,color:#fff,stroke:none
+  style A fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
+  style J fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
+  style B fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
+  style C fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
+  style D fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
+  style D2 fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6
+  style E fill:#d1fae5,color:#065f46,stroke:#10b981
+  style F fill:#d1fae5,color:#065f46,stroke:#10b981
+  style G fill:#d1fae5,color:#065f46,stroke:#10b981
+  style H fill:#d1fae5,color:#065f46,stroke:#10b981
+  style I fill:#d1fae5,color:#065f46,stroke:#10b981
 {{% /mermaid %}}
 
 ## TSMC熊本工場（JASM）
@@ -65,7 +68,7 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 | 項目 | 第1工場 | 第2工場（計画） |
 | ---- | ------- | -------------- |
 | 所在地 | 熊本県菊陽町 | 熊本県菊陽町（隣接） |
-| 稼働開始 | 2024年2月 | 2027年予定 |
+| 稼働開始 | 2024年2月開所、同年12月量産開始 | 2027年予定 |
 | プロセスノード | 12nm / 16nm / 28nm | 6nm / 4nm |
 | 月産能力 | 55,000枚（300mm） | 100,000枚（計画） |
 | 国家補助金 | 約4,760億円 | 約7,320億円（予定） |
@@ -80,14 +83,22 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 | 工場 | 所在地 | 主な製品 |
 | ---- | ------ | -------- |
 | 熊本テクノロジーセンター | 熊本県菊陽町 | 積層型CMOSセンサー（スマートフォン・車載） |
+| 合志市清水新工場 | 熊本県合志市 | イメージセンサー新工場（JASM隣接地）。車載用センサー増産に対応 |
 | 長崎テクノロジーセンター | 長崎県諫早市 | CMOSセンサー・ToFセンサー |
 | 大分TDセンター | 大分県大分市 | センサー後工程・試験 |
 
 ソニーの積層型センサー技術（Stacked CMOS）は、画素層と回路層を別々のウェーハで製造して貼り合わせるもので、高画質・高速読み出しを両立します。TSMC熊本工場との地理的近接により、ウェーハ調達・技術連携の効率化が期待されています。
 
-## ルネサスエレクトロニクス 大分工場
+## ルネサスエレクトロニクス — 九州2拠点体制
 
-ルネサスの大分工場は車載マイコン・SoC（System on Chip）の主力生産拠点です。300mmウェーハの前工程ラインを持ち、主に**ADAS（先進運転支援システム）**向けSoCを生産しています{{% cite "renesas2023" %}}。
+ルネサスは九州に2つの主力前工程拠点を持ち、車載マイコン・SoCの世界シェアトップクラスの製造基盤を形成しています{{% cite "renesas2023" %}}。
+
+| 工場 | 所在地 | 主な製品 |
+| ---- | ------ | -------- |
+| 川尻工場 | 熊本市南区 | 車載マイコン前工程（40nm/90nm中心）。世界シェアトップクラスの車載マイコン主力拠点 |
+| 大分工場 | 大分県大分市 | 300mmウェーハ前工程。ADAS向けSoC |
+
+川尻工場はJASM（TSMC）と同じ熊本クラスター内に位置し、技術連携の面でも重要な拠点です。
 
 ## 歴史的背景 — シリコンアイランド九州の形成
 
@@ -102,7 +113,7 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 | 2011 | 東日本大震災でルネサス那珂工場被災。九州の地理的分散立地が再評価 |
 | 2021 | 経産省が半導体・デジタル産業戦略を策定。TSMC誘致交渉が本格化 |
 | 2022 | JASM設立（2月）。熊本工場の建設着工（4月） |
-| 2024 | TSMC熊本第1工場竣工・量産開始（2月）。第2工場建設決定 |
+| 2024 | TSMC熊本第1工場開所式（2月）、12月に量産出荷開始。第2工場建設決定 |
 
 {{% /timeline %}}
 
@@ -130,14 +141,14 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 <tr>
 <td>ルネサスエレクトロニクス</td>
 <td>{{% minkabu 6723 %}}</td>
-<td>車載マイコン・SoC世界首位級。大分工場で300mm前工程を運営。JASM熊本工場の顧客でもある。2023年度に売上高1兆円超を達成。</td>
+<td>車載マイコン・SoC世界首位級。熊本・川尻工場（40nm/90nm車載マイコン主力）と大分工場（300mm ADAS向けSoC）の2拠点体制。JASM熊本工場の顧客でもある。</td>
 <td>{{% corplink "https://www.renesas.com/jp/ja/corporate/investor-relations" %}}</td>
 <td>{{% dividend "tokyo" "6723" %}}</td>
 </tr>
 <tr>
 <td>東京エレクトロン</td>
 <td>{{% minkabu 8035 %}}</td>
-<td>半導体製造装置世界第3位。成膜・エッチング・洗浄装置でJASM熊本工場にも装置を納入。2024年3月期の売上高は約2.4兆円。</td>
+<td>半導体製造装置世界第3位。熊本県合志市に開発・生産子会社「東京エレクトロン九州」を置き、世界シェア1位の塗布現像装置（コーター・デベロッパー）を製造。JASM熊本工場にも装置を納入。</td>
 <td>{{% corplink "https://www.tel.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8035" %}}</td>
 </tr>
@@ -151,7 +162,7 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 <tr>
 <td>SUMCO</td>
 <td>{{% minkabu 3436 %}}</td>
-<td>シリコンウェーハ専業で世界2位（シェア約26%）。佐賀県伊万里に主力工場を持ち、九州クラスターへのウェーハ供給で地理的優位性を持つ。</td>
+<td>シリコンウェーハ専業で世界2位（シェア約26%）。佐賀県伊万里地区を主力とし、2024〜2025年に新工場が相次ぎ稼働。JASMへの最短距離でのウェーハ供給体制を構築。</td>
 <td>{{% corplink "https://www.sumcosi.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3436" %}}</td>
 </tr>
