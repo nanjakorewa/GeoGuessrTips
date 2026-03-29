@@ -66,6 +66,7 @@ import {
   minkabuHandler,
   nasdaqHandler,
   ahrefsHandler,
+  corpTreemapHandler,
   amazoncardHandler,
   amazonLinksHandler,
 } from "./shortcodes/misc.ts";
@@ -138,6 +139,7 @@ function processAllShortcodes(text: string, lang: Language): string {
   result = processInlineShortcode(result, "dividend", dividendHandler);
   result = processInlineShortcode(result, "minkabu", minkabuHandler);
   result = processInlineShortcode(result, "nasdaq", nasdaqHandler);
+  result = processInlineShortcode(result, "corp-treemap", corpTreemapHandler);
 
   // rd and corp are inline but read from filesystem
   result = processInlineShortcode(result, "rd", (args) =>

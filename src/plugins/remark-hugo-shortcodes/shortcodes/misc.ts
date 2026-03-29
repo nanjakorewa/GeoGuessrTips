@@ -6,6 +6,7 @@ import { t } from "../../../i18n/translations.ts";
 
 import fs from "node:fs";
 import path from "node:path";
+import { companies, sectorColors, getCompanies } from "../../../data/industry-companies.ts";
 
 
 /** timeline: {{% timeline %}}...markdown table...{{% /timeline %}}
@@ -301,4 +302,39 @@ export function nasdaqHandler(args: string[]): string {
 /** ahrefs: {{% ahrefs %}}...{{% /ahrefs %}} → link list wrapper */
 export function ahrefsHandler(_args: string[], inner: string): string {
   return `<div class="ahrefs-list">\n\n${inner.trim()}\n\n</div>`;
+}
+
+/** corp-treemap: {{% corp-treemap "5020,5019,5021" %}}
+ *  Renders a treemap visualization + data table from company master data.
+ *  Deduplicates tickers automatically. */
+export function corpTreemapHandler(args: string[]): string {
+  const tickerStr = args[0] || "";
+  const tickers = tickerStr.split(",").map((t) => t.trim()).filter(Boolean);
+  const comps = getCompanies(tickers);
+  if (comps.length === 0) return "";
+
+  // Build JSON for client-side treemap
+  const treemapData = comps.map((c) => ({
+    t: c.ticker,
+    n: c.name,
+    s: c.sector,
+    v: c.marketCapTr,
+    c: sectorColors[c.sector] || "#6b7280",
+  }));
+
+  // Build sector legend
+  const sectors = [...new Set(comps.map((c) => c.sector))];
+  const legendHtml = sectors
+    .map((s) => {
+      const color = sectorColors[s] || "#6b7280";
+      return `<span class="treemap-legend__item"><span class="treemap-legend__color" style="background:${color}"></span>${s}</span>`;
+    })
+    .join("");
+
+  const treemapHtml = `<div class="corp-treemap-section">
+<div class="treemap-legend">${legendHtml}</div>
+<div class="corp-treemap" data-companies='${JSON.stringify(treemapData).replace(/'/g, "&#39;")}'></div>
+</div>`;
+
+  return treemapHtml;
 }

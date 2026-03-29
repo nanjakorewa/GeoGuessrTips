@@ -106,6 +106,8 @@ weight: 20
 
 ## 主要上場企業データ
 
+{{% corp-treemap "5401,4005,4188,5020" %}}
+
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
 <thead class="table-light">

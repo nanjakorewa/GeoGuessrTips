@@ -668,6 +668,72 @@ const isMapPage = !!data.mapName;
       .process-flow { flex-wrap: nowrap; }
     }
 
+    /* ---- Corp Treemap ---- */
+    .corp-treemap-section {
+      margin: 1.5rem 0;
+    }
+    .treemap-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+      font-size: 0.8rem;
+    }
+    .treemap-legend__item {
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      color: var(--ind-text);
+    }
+    .treemap-legend__color {
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      border-radius: 2px;
+    }
+    .corp-treemap {
+      width: 100%;
+      height: 320px;
+      border-radius: var(--ind-radius);
+      overflow: hidden;
+      position: relative;
+      background: #f9fafb;
+    }
+    .treemap-cell {
+      position: absolute;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      padding: 4px;
+      box-sizing: border-box;
+      cursor: default;
+      transition: filter 0.15s;
+      border: 1px solid rgba(255,255,255,0.3);
+    }
+    .treemap-cell:hover {
+      filter: brightness(1.12);
+    }
+    .treemap-cell__name {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+      text-align: center;
+      line-height: 1.2;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    }
+    .treemap-cell__cap {
+      font-size: 0.65rem;
+      color: rgba(255,255,255,0.85);
+      text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    }
+    .treemap-cell__sector {
+      font-size: 0.6rem;
+      color: rgba(255,255,255,0.7);
+      text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    }
+
     .ind-disclaimer {
       position: fixed;
       bottom: 0;
@@ -786,6 +852,130 @@ const isMapPage = !!data.mapName;
         '});',
       ].join('\n');
       document.head.appendChild(s);
+    })();
+  </script>
+
+  {/* Treemap: render corp-treemap elements */}
+  <script is:inline>
+    (function() {
+      var containers = document.querySelectorAll('.corp-treemap');
+      if (!containers.length) return;
+
+      // Squarify layout algorithm
+      function squarify(items, x, y, w, h) {
+        var rects = [];
+        if (!items.length || w <= 0 || h <= 0) return rects;
+        var total = items.reduce(function(s, i) { return s + i.v; }, 0);
+        if (total <= 0) return rects;
+        var remaining = items.slice().sort(function(a, b) { return b.v - a.v; });
+        layoutRow(remaining, [], x, y, w, h, total, rects);
+        return rects;
+      }
+
+      function layoutRow(remaining, row, x, y, w, h, total, rects) {
+        if (!remaining.length) {
+          placeRow(row, x, y, w, h, total, rects);
+          return;
+        }
+        if (!row.length) {
+          row.push(remaining.shift());
+          layoutRow(remaining, row, x, y, w, h, total, rects);
+          return;
+        }
+        var rowWithNext = row.concat([remaining[0]]);
+        if (worst(row, w, h, total) >= worst(rowWithNext, w, h, total)) {
+          row.push(remaining.shift());
+          layoutRow(remaining, row, x, y, w, h, total, rects);
+        } else {
+          var rowTotal = row.reduce(function(s, i) { return s + i.v; }, 0);
+          var frac = rowTotal / total;
+          var isWide = w >= h;
+          if (isWide) {
+            var rw = w * frac;
+            placeRow(row, x, y, rw, h, rowTotal, rects);
+            var newTotal = total - rowTotal;
+            layoutRow(remaining, [], x + rw, y, w - rw, h, newTotal, rects);
+          } else {
+            var rh = h * frac;
+            placeRow(row, x, y, w, rh, rowTotal, rects);
+            var newTotal2 = total - rowTotal;
+            layoutRow(remaining, [], x, y + rh, w, h - rh, newTotal2, rects);
+          }
+        }
+      }
+
+      function placeRow(row, x, y, w, h, rowTotal, rects) {
+        var isWide = w >= h;
+        var offset = 0;
+        for (var i = 0; i < row.length; i++) {
+          var frac = row[i].v / rowTotal;
+          var r = {};
+          if (isWide) {
+            r = { x: x, y: y + offset, w: w, h: h * frac, item: row[i] };
+            offset += h * frac;
+          } else {
+            r = { x: x + offset, y: y, w: w * frac, h: h, item: row[i] };
+            offset += w * frac;
+          }
+          rects.push(r);
+        }
+      }
+
+      function worst(row, w, h, total) {
+        var rowTotal = row.reduce(function(s, i) { return s + i.v; }, 0);
+        var isWide = w >= h;
+        var side = isWide ? w * (rowTotal / total) : h * (rowTotal / total);
+        var maxR = 0;
+        for (var i = 0; i < row.length; i++) {
+          var area = (isWide ? w * h : w * h) * (row[i].v / total);
+          var other = area / side;
+          var ratio = Math.max(side / other, other / side);
+          if (ratio > maxR) maxR = ratio;
+        }
+        return maxR;
+      }
+
+      containers.forEach(function(el) {
+        var data;
+        try { data = JSON.parse(el.getAttribute('data-companies')); } catch(e) { return; }
+        if (!data || !data.length) return;
+
+        var W = el.offsetWidth;
+        var H = el.offsetHeight;
+        var rects = squarify(data, 0, 0, W, H);
+
+        rects.forEach(function(r) {
+          var cell = document.createElement('div');
+          cell.className = 'treemap-cell';
+          cell.style.left = r.x + 'px';
+          cell.style.top = r.y + 'px';
+          cell.style.width = r.w + 'px';
+          cell.style.height = r.h + 'px';
+          cell.style.background = r.item.c;
+          cell.title = r.item.n + '（' + r.item.t + '）\n時価総額: 約' + r.item.v + '兆円\nセクター: ' + r.item.s;
+
+          var minDim = Math.min(r.w, r.h);
+          if (minDim > 40) {
+            var name = document.createElement('div');
+            name.className = 'treemap-cell__name';
+            name.textContent = r.item.n;
+            cell.appendChild(name);
+          }
+          if (minDim > 55) {
+            var cap = document.createElement('div');
+            cap.className = 'treemap-cell__cap';
+            cap.textContent = r.item.v + '兆円';
+            cell.appendChild(cap);
+          }
+          if (minDim > 70) {
+            var sector = document.createElement('div');
+            sector.className = 'treemap-cell__sector';
+            sector.textContent = r.item.s;
+            cell.appendChild(sector);
+          }
+          el.appendChild(cell);
+        });
+      });
     })();
   </script>
 
