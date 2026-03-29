@@ -712,9 +712,6 @@ const isMapPage = !!data.mapName;
         <h1>{data.title}</h1>
         {data.subtitle && <p>{data.subtitle}</p>}
       </div>
-      <div class="ind-map-header">
-        ★ クリックで各コンビナートの詳細へ
-      </div>
       <div class="ind-map-clamp" id="ind-map-clamp">
         <div class="ind-map-wrapper">
           <div id="world-map"></div>
@@ -723,10 +720,6 @@ const isMapPage = !!data.mapName;
       </div>
       <div class="ind-map-expand-wrap">
         <button class="ind-map-expand-btn" id="ind-map-expand-btn">地図を全体表示 ▼</button>
-      </div>
-      <div class="ind-map-legend">
-        <span><span style="color:#e74c3c; font-size:1rem;">★</span> 解説ページあり</span>
-        <span><span style="color:rgba(255,255,255,0.3); font-size:1rem;">☆</span> 準備中</span>
       </div>
     </section>
   )}
