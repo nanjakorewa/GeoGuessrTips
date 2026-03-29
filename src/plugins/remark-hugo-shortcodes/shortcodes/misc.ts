@@ -334,6 +334,7 @@ export function corpTreemapHandler(args: string[]): string {
   const treemapHtml = `<div class="corp-treemap-section">
 <div class="treemap-legend">${legendHtml}</div>
 <div class="corp-treemap" data-companies='${JSON.stringify(treemapData).replace(/'/g, "&#39;")}'></div>
+<p class="treemap-note">※ 面積は時価総額（概算）に比例しています。最新の株価を反映していない場合があります。</p>
 </div>`;
 
   return treemapHtml;

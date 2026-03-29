@@ -168,6 +168,13 @@ graph LR
   style E fill:#d1fae5,color:#065f46,stroke:#10b981,stroke-width:2px
 {{% /mermaid %}}
 
+## 関連企業の時価総額マップ
+
+半導体製造・装置・材料に関わる主要上場企業の時価総額を可視化しています。
+
+{{% corp-treemap "6758,6723,8035,4063,3436,6857,6963,6966,6258,6146,7735,6871,4185,4186" %}}
+
 {{% references %}}
 meti2023: 半導体・デジタル産業戦略の今後の方向性 <https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0014/handeji14-4.pdf>
+siiq2023: 九州地域半導体・エレクトロニクス分野関連企業マップ（九州半導体・エレクトロニクスイノベーション協議会、2023年）<https://siiq.or.jp/wp-content/uploads/2023/11/%E4%B9%9D%E5%B7%9E%E5%9C%B0%E5%9F%9F%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%BB%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E5%88%86%E9%87%8E%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%9E%E3%83%83%E3%83%97.pdf>
 {{% /references %}}

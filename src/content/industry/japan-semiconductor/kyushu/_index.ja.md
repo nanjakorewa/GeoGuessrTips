@@ -114,7 +114,7 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 
 ## 主要上場企業データ
 
-{{% corp-treemap "6758,6723,8035,4063,3436" %}}
+{{% corp-treemap "6758,6723,8035,4063,3436,6857,6963,6966,6258,6146,7735,6871" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
