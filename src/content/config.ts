@@ -201,6 +201,9 @@ const industryCollection = defineCollection({
     noindex: z.boolean().optional().default(false),
     seo_title: z.string().optional(),
     og_image: z.string().optional(),
+    highlightStates: z.array(z.string()).optional(),
+    highlightColor: z.string().optional(),
+    galleryDir: z.string().optional(),
   }),
 });
 

@@ -61,6 +61,19 @@ const lastmodDisplay = modifiedTime
 
 // Is map page (has JSMaps map)
 const isMapPage = !!data.mapName;
+
+// Gallery images (from galleryDir frontmatter)
+import fs from "node:fs";
+import nodePath from "node:path";
+let galleryImages: string[] = [];
+if (data.galleryDir) {
+  const dirPath = nodePath.resolve("public", "images", "industry", data.galleryDir);
+  if (fs.existsSync(dirPath)) {
+    galleryImages = fs.readdirSync(dirPath)
+      .filter((f: string) => /\.(jpg|jpeg|png|webp|gif|svg)$/i.test(f))
+      .map((f: string) => `/images/industry/${data.galleryDir}/${f}`);
+  }
+}
 ---
 
 <!DOCTYPE html>
@@ -668,6 +681,33 @@ const isMapPage = !!data.mapName;
       .process-flow { flex-wrap: nowrap; }
     }
 
+    /* ---- Gallery ---- */
+    .ind-gallery {
+      display: flex;
+      gap: 0.75rem;
+      overflow-x: auto;
+      padding: 1rem 2rem;
+      max-width: var(--ind-max-width);
+      margin: 0 auto;
+    }
+    .ind-gallery__item {
+      flex: 0 0 auto;
+      margin: 0;
+      border-radius: var(--ind-radius);
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+    }
+    .ind-gallery__item img {
+      display: block;
+      height: 200px;
+      width: auto;
+      object-fit: cover;
+    }
+    @media (max-width: 640px) {
+      .ind-gallery { padding: 0.75rem 1rem; }
+      .ind-gallery__item img { height: 150px; }
+    }
+
     /* ---- Corp Treemap ---- */
     .corp-treemap-section {
       margin: 1.5rem 0;
@@ -804,6 +844,17 @@ const isMapPage = !!data.mapName;
         {data.subtitle && <p class="ind-hero-sub">{data.subtitle}</p>}
         {lastmodDisplay && <p class="ind-hero-meta">最終更新: {lastmodDisplay}</p>}
       </div>
+    </div>
+  )}
+
+  {/* GALLERY (for pages with galleryDir) */}
+  {galleryImages.length > 0 && (
+    <div class="ind-gallery">
+      {galleryImages.map((src) => (
+        <figure class="ind-gallery__item">
+          <img src={src} alt="" loading="lazy" />
+        </figure>
+      ))}
     </div>
   )}
 
@@ -988,16 +1039,34 @@ const isMapPage = !!data.mapName;
   {/* JSMaps initialization */}
   {data.mapName && (
     <Fragment>
-      <script is:inline define:vars={{ mapName: data.mapName }}>
+      <script is:inline define:vars={{ mapName: data.mapName, highlightStates: data.highlightStates || null, highlightColor: data.highlightColor || "#e07b20" }}>
         $(function() {
-          $('#world-map').JSMaps({
+          var opts = {
             map: mapName,
             stateClickAction: 'text',
             displayAbbreviations: false,
             disableTooltip: true,
             selectElement: false,
             pinSize: 0,
-          });
+          };
+          // frontmatter で highlightStates が指定されている場合、該当県を色塗り
+          if (highlightStates && highlightStates.length) {
+            opts.onReady = function() {
+              setTimeout(function() {
+                var svg = document.querySelector('#world-map svg');
+                if (!svg) return;
+                var paths = svg.querySelectorAll('path[id]');
+                paths.forEach(function(p) {
+                  for (var i = 0; i < highlightStates.length; i++) {
+                    if (p.id && p.id.toLowerCase().replace(/[\s_-]/g,'') === highlightStates[i].toLowerCase().replace(/[\s_-]/g,'')) {
+                      p.style.fill = highlightColor;
+                    }
+                  }
+                });
+              }, 400);
+            };
+          }
+          $('#world-map').JSMaps(opts);
         });
       </script>
       <script is:inline src="/mp/jsmaps/jsmaps-libs.js"></script>
