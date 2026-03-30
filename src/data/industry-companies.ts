@@ -25,6 +25,8 @@ export const sectorColors: Record<string, string> = {
   "半導体": "#6366f1",
   "半導体材料": "#7c3aed",
   "半導体装置": "#0891b2",
+  "造船・重工": "#0e7490",
+  "海運": "#1d4ed8",
 };
 
 /** 企業マスター（ticker をキーに引く） */
@@ -273,6 +275,61 @@ export const companies: Record<string, Company> = {
     sector: "エネルギー",
     industry: "LPガス・水素",
     marketCapTr: 0.8,
+  },
+  // --- 造船・重工 ---
+  "7011": {
+    ticker: "7011",
+    name: "三菱重工業",
+    nameEn: "Mitsubishi Heavy Industries",
+    market: "tokyo",
+    sector: "造船・重工",
+    industry: "重工業・防衛・エネルギー",
+    marketCapTr: 8.0,
+  },
+  "7012": {
+    ticker: "7012",
+    name: "川崎重工業",
+    nameEn: "Kawasaki Heavy Industries",
+    market: "tokyo",
+    sector: "造船・重工",
+    industry: "重工業・防衛・二輪",
+    marketCapTr: 1.2,
+  },
+  "7003": {
+    ticker: "7003",
+    name: "三井E&Sホールディングス",
+    nameEn: "Mitsui E&S",
+    market: "tokyo",
+    sector: "造船・重工",
+    industry: "港湾クレーン・舶用エンジン",
+    marketCapTr: 0.35,
+  },
+  "9104": {
+    ticker: "9104",
+    name: "商船三井",
+    nameEn: "Mitsui O.S.K. Lines",
+    market: "tokyo",
+    sector: "海運",
+    industry: "外航海運・LNG船",
+    marketCapTr: 2.0,
+  },
+  "9101": {
+    ticker: "9101",
+    name: "日本郵船",
+    nameEn: "NYK Line",
+    market: "tokyo",
+    sector: "海運",
+    industry: "外航海運・コンテナ船",
+    marketCapTr: 2.2,
+  },
+  "7013": {
+    ticker: "7013",
+    name: "IHI",
+    nameEn: "IHI Corporation",
+    market: "tokyo",
+    sector: "造船・重工",
+    industry: "航空エンジン・エネルギー",
+    marketCapTr: 1.5,
   },
 };
 
