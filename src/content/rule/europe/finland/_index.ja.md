@@ -183,7 +183,7 @@ features:
 {{% tab "ピンを置く最適なポイント" %}}
 
 {{% notice tip %}}
-フィンランドなのは分かったもののどの地域が分からないとき、アーネコスキの直ぐ上にピンを指すと安定して点が取れるかも{{% ref "https://www.reddit.com/r/geoguessr/comments/vcus36/optimal_guess_in_each_country/" "Optimal guess in each country" %}}。アーネコスキのすぐ上にポイントがある。
+フィンランドなのは分かったもののどの地域が分からないとき、アーネコスキの直ぐ上にピンを指すと安定して点が取れる{{% ref "https://www.reddit.com/r/geoguessr/comments/vcus36/optimal_guess_in_each_country/" "Optimal guess in each country" %}}。この点にピンを置くと、答えがフィンランドでありフィンランド内の道がランダムに選ばれた場合に平均的に4300点以上取れることになる。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
