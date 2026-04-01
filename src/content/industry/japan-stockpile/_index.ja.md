@@ -272,6 +272,71 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 
 {{% corp-treemap "1605,5020,5019,5021,1662,8088,5009" %}}
 
+<div class="container-corp mt-5" id="corp-desc">
+<table class="table table-striped table-bordered">
+<thead class="table-light">
+<tr>
+<th class="col-width-2">企業</th>
+<th class="col-width-1">証券コード</th>
+<th class="col-width-7">事業概要・備蓄との関連</th>
+<th class="col-width-05">決算情報</th>
+<th class="col-width-05">配当履歴</th>
+</tr>
+</thead>
+<tbody class="corp-desc">
+<tr>
+<td>INPEX</td>
+<td>{{% minkabu 1605 %}}</td>
+<td>国内最大の石油・天然ガス開発企業。原油の上流開発で国家備蓄の供給源に直結。</td>
+<td>{{% corplink "https://www.inpex.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "1605" %}}</td>
+</tr>
+<tr>
+<td>ENEOSホールディングス</td>
+<td>{{% minkabu 5020 %}}</td>
+<td>国内最大の石油元売り。製油所で備蓄原油を精製し石油製品として供給。民間備蓄の最大の担い手。</td>
+<td>{{% corplink "https://www.hd.eneos.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5020" %}}</td>
+</tr>
+<tr>
+<td>出光興産</td>
+<td>{{% minkabu 5019 %}}</td>
+<td>国内第2位の石油元売り。民間備蓄義務を担う主要企業の一つ。</td>
+<td>{{% corplink "https://www.idemitsu.com/jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5019" %}}</td>
+</tr>
+<tr>
+<td>コスモエネルギーHD</td>
+<td>{{% minkabu 5021 %}}</td>
+<td>国内第3位の石油元売り。アブダビ国営石油（ADNOC）が筆頭株主で中東との関係が深い。</td>
+<td>{{% corplink "https://www.cosmo-energy.co.jp/ja/ir.html" %}}</td>
+<td>{{% dividend "tokyo" "5021" %}}</td>
+</tr>
+<tr>
+<td>石油資源開発（JAPEX）</td>
+<td>{{% minkabu 1662 %}}</td>
+<td>国内の石油・天然ガス開発を手がける。地下貯留技術はCCS事業にも展開。</td>
+<td>{{% corplink "https://www.japex.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "1662" %}}</td>
+</tr>
+<tr>
+<td>岩谷産業</td>
+<td>{{% minkabu 8088 %}}</td>
+<td>LPガス国内最大手。LPガス備蓄制度における民間備蓄の主要な担い手。水素ステーション事業も展開。</td>
+<td>{{% corplink "https://www.iwatani.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "8088" %}}</td>
+</tr>
+<tr>
+<td>富士石油</td>
+<td>{{% minkabu 5009 %}}</td>
+<td>袖ケ浦製油所（143千BD）を保有。旧アラビア石油の流れを汲む。</td>
+<td>{{% corplink "https://www.foc.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5009" %}}</td>
+</tr>
+</tbody>
+</table>
+</div>
+
 ## 備蓄インフラの将来 — GXとの接点
 
 既存の備蓄インフラは、カーボンニュートラル時代においても活用が検討されています。地下岩盤の大規模空洞は、将来的に**水素やアンモニア、CO2（CCS）**の貯蔵施設への転用が技術的に可能とされており、京葉コンビナートのGX推進協議会などで具体的な検討が進んでいます。石油備蓄基地が「化石燃料の貯蔵庫」から「次世代エネルギーのインフラ」へと役割を転換する可能性があります。

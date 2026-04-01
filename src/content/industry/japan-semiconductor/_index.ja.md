@@ -174,6 +174,92 @@ graph LR
 
 {{% corp-treemap "6758,6723,8035,4063,3436,6857,6963,6966,6258,6146,7735,6871,4185,4186" %}}
 
+<div class="container-corp mt-5" id="corp-desc">
+<table class="table table-striped table-bordered">
+<thead class="table-light">
+<tr>
+<th class="col-width-2">企業</th>
+<th class="col-width-1">証券コード</th>
+<th class="col-width-7">事業概要</th>
+<th class="col-width-05">決算情報</th>
+<th class="col-width-05">配当履歴</th>
+</tr>
+</thead>
+<tbody class="corp-desc">
+<tr>
+<td>ソニーグループ</td>
+<td>{{% minkabu 6758 %}}</td>
+<td>CMOSイメージセンサー世界首位（シェア約50%）。熊本・長崎に主力工場。JASM出資。</td>
+<td>{{% corplink "https://www.sony.com/ja/SonyInfo/IR/" %}}</td>
+<td>{{% dividend "tokyo" "6758" %}}</td>
+</tr>
+<tr>
+<td>東京エレクトロン</td>
+<td>{{% minkabu 8035 %}}</td>
+<td>半導体製造装置世界第3位。塗布現像装置で世界シェア1位。九州に開発・生産子会社。</td>
+<td>{{% corplink "https://www.tel.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "8035" %}}</td>
+</tr>
+<tr>
+<td>信越化学工業</td>
+<td>{{% minkabu 4063 %}}</td>
+<td>シリコンウェーハ世界首位（シェア約30%）。フォトレジストでも高シェア。</td>
+<td>{{% corplink "https://www.shinetsu.co.jp/jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4063" %}}</td>
+</tr>
+<tr>
+<td>アドバンテスト</td>
+<td>{{% minkabu 6857 %}}</td>
+<td>半導体テスト装置で世界首位級。AI半導体向けテスターの需要増で成長。</td>
+<td>{{% corplink "https://www.advantest.com/ja/investors/" %}}</td>
+<td>{{% dividend "tokyo" "6857" %}}</td>
+</tr>
+<tr>
+<td>ルネサスエレクトロニクス</td>
+<td>{{% minkabu 6723 %}}</td>
+<td>車載マイコン・SoC世界首位級。九州に川尻・大分の2拠点。</td>
+<td>{{% corplink "https://www.renesas.com/ja/about/investor-relations" %}}</td>
+<td>{{% dividend "tokyo" "6723" %}}</td>
+</tr>
+<tr>
+<td>ディスコ</td>
+<td>{{% minkabu 6146 %}}</td>
+<td>ダイシング・グラインディング装置で世界シェア約80%。精密加工装置の独占的企業。</td>
+<td>{{% corplink "https://www.disco.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6146" %}}</td>
+</tr>
+<tr>
+<td>SCREENホールディングス</td>
+<td>{{% minkabu 7735 %}}</td>
+<td>ウェーハ洗浄装置で世界シェア1位。コーター・デベロッパーも手がける。</td>
+<td>{{% corplink "https://www.screen.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "7735" %}}</td>
+</tr>
+<tr>
+<td>SUMCO</td>
+<td>{{% minkabu 3436 %}}</td>
+<td>シリコンウェーハ専業で世界2位（シェア約26%）。佐賀県伊万里に主力工場。</td>
+<td>{{% corplink "https://www.sumcosi.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3436" %}}</td>
+</tr>
+<tr>
+<td>ローム</td>
+<td>{{% minkabu 6963 %}}</td>
+<td>SiCパワー半導体でEV向けインバーター市場を開拓。九州に複数拠点。</td>
+<td>{{% corplink "https://www.rohm.co.jp/investor-relations" %}}</td>
+<td>{{% dividend "tokyo" "6963" %}}</td>
+</tr>
+<tr>
+<td>三井ハイテック</td>
+<td>{{% minkabu 6966 %}}</td>
+<td>リードフレーム世界大手。EV向けモーターコアが急成長。北九州に本社。</td>
+<td>{{% corplink "https://www.mitsui-high-tec.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6966" %}}</td>
+</tr>
+</tbody>
+</table>
+</div>
+
 {{% references %}}
 meti2023: 半導体・デジタル産業戦略の今後の方向性 <https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0014/handeji14-4.pdf>
 siiq2023: 九州地域半導体・エレクトロニクス分野関連企業マップ（九州半導体・エレクトロニクスイノベーション協議会、2023年）<https://siiq.or.jp/wp-content/uploads/2023/11/%E4%B9%9D%E5%B7%9E%E5%9C%B0%E5%9F%9F%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%BB%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E5%88%86%E9%87%8E%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%9E%E3%83%83%E3%83%97.pdf>

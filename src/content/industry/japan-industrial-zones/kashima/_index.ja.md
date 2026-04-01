@@ -94,7 +94,95 @@ galleryDir: "kashima"
 
 鹿島臨海工業地帯環境対策協議会の会員企業のうち、主要な上場企業を時価総額で可視化しています{{% cite "kakankyo" %}}。
 
-{{% corp-treemap "5401,4005,4188,5020,4063,5201,4631,4182,4118,3405,4452,6367,4523,4004,4088,4401" %}}
+{{% corp-treemap "5401,5411,5563,4088,4063,4188,4912,4368,4401,4118,5201,4182,3405,2004,4631,4452,2053,2060,7942,1332,4409,4463,4004,6331,4471,4914,4887,7981,4272,6367,4523,4043" %}}
+
+## 主要上場企業データ
+
+<div class="container-corp mt-5" id="corp-desc">
+<table class="table table-striped table-bordered">
+<thead class="table-light">
+<tr>
+<th class="col-width-2">企業</th>
+<th class="col-width-1">証券コード</th>
+<th class="col-width-7">事業概要・鹿島臨海との関連</th>
+<th class="col-width-05">決算情報</th>
+<th class="col-width-05">配当履歴</th>
+</tr>
+</thead>
+<tbody class="corp-desc">
+<tr>
+<td>日本製鉄</td>
+<td>{{% minkabu 5401 %}}</td>
+<td>鹿島製鉄所は2025年に1基体制へ集約。厚板・熱延が主力。5,370m³高炉は世界最大級。</td>
+<td>{{% corplink "https://www.nipponsteel.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5401" %}}</td>
+</tr>
+<tr>
+<td>信越化学工業</td>
+<td>{{% minkabu 4063 %}}</td>
+<td>鹿島に塩ビ樹脂・半導体シリコン関連拠点。シリコンウェーハ世界首位。</td>
+<td>{{% corplink "https://www.shinetsu.co.jp/jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4063" %}}</td>
+</tr>
+<tr>
+<td>三菱ケミカルグループ</td>
+<td>{{% minkabu 4188 %}}</td>
+<td>鹿島事業所でMMA（メタクリル酸メチル）等スペシャリティ化学品を生産。MMA世界シェア約30%。</td>
+<td>{{% corplink "https://www.mitsubishichem-hd.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4188" %}}</td>
+</tr>
+<tr>
+<td>ダイキン工業</td>
+<td>{{% minkabu 6367 %}}</td>
+<td>鹿島にフッ素化学品の生産拠点。空調世界首位。鹿島地区ではフッ素樹脂・フッ素ゴムを製造。</td>
+<td>{{% corplink "https://www.daikin.co.jp/investor/" %}}</td>
+<td>{{% dividend "tokyo" "6367" %}}</td>
+</tr>
+<tr>
+<td>花王</td>
+<td>{{% minkabu 4452 %}}</td>
+<td>鹿島工場で界面活性剤・化学品原料を生産。日用品大手としてだけでなくケミカル事業の拠点。</td>
+<td>{{% corplink "https://www.kao.com/jp/investor-relations/" %}}</td>
+<td>{{% dividend "tokyo" "4452" %}}</td>
+</tr>
+<tr>
+<td>AGC</td>
+<td>{{% minkabu 5201 %}}</td>
+<td>鹿島にガラス・電子材料の製造拠点。旧旭硝子。EUV用フォトマスクブランクスでも高シェア。</td>
+<td>{{% corplink "https://www.agc.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5201" %}}</td>
+</tr>
+<tr>
+<td>エーザイ</td>
+<td>{{% minkabu 4523 %}}</td>
+<td>鹿島事業所で医薬品原薬・製剤を生産。アルツハイマー治療薬「レカネマブ」で注目。</td>
+<td>{{% corplink "https://www.eisai.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4523" %}}</td>
+</tr>
+<tr>
+<td>レゾナック</td>
+<td>{{% minkabu 4004 %}}</td>
+<td>鹿島事業所で半導体材料・化学品を生産。旧昭和電工マテリアルズ。</td>
+<td>{{% corplink "https://www.resonac.com/jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4004" %}}</td>
+</tr>
+<tr>
+<td>DIC</td>
+<td>{{% minkabu 4631 %}}</td>
+<td>鹿島に印刷インキ・機能性化学品の生産拠点。旧大日本インキ化学工業。</td>
+<td>{{% corplink "https://www.dic-global.com/ja/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4631" %}}</td>
+</tr>
+<tr>
+<td>カネカ</td>
+<td>{{% minkabu 4118 %}}</td>
+<td>鹿島工場で機能性樹脂・発泡樹脂を生産。太陽電池バックシートや生分解性ポリマーにも展開。</td>
+<td>{{% corplink "https://www.kaneka.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4118" %}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## コンビナートの詳細
 

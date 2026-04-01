@@ -681,14 +681,25 @@ if (data.galleryDir) {
       .process-flow { flex-wrap: nowrap; }
     }
 
-    /* ---- Gallery ---- */
+    /* ---- Gallery (auto-scrolling marquee) ---- */
     .ind-gallery {
-      display: flex;
-      gap: 0.75rem;
-      overflow-x: auto;
-      padding: 1rem 2rem;
+      overflow: hidden;
+      padding: 1rem 0;
       max-width: var(--ind-max-width);
       margin: 0 auto;
+    }
+    .ind-gallery__track {
+      display: flex;
+      gap: 0.75rem;
+      width: max-content;
+      animation: gallery-scroll 30s linear infinite;
+    }
+    .ind-gallery:hover .ind-gallery__track {
+      animation-play-state: paused;
+    }
+    @keyframes gallery-scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
     }
     .ind-gallery__item {
       flex: 0 0 auto;
@@ -696,6 +707,7 @@ if (data.galleryDir) {
       border-radius: var(--ind-radius);
       overflow: hidden;
       box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+      cursor: pointer;
     }
     .ind-gallery__item img {
       display: block;
@@ -704,8 +716,28 @@ if (data.galleryDir) {
       object-fit: cover;
     }
     @media (max-width: 640px) {
-      .ind-gallery { padding: 0.75rem 1rem; }
       .ind-gallery__item img { height: 150px; }
+    }
+    /* Lightbox overlay */
+    .ind-lightbox {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      background: rgba(0,0,0,0.85);
+      align-items: center;
+      justify-content: center;
+      cursor: zoom-out;
+    }
+    .ind-lightbox.is-open {
+      display: flex;
+    }
+    .ind-lightbox img {
+      max-width: 92vw;
+      max-height: 90vh;
+      object-fit: contain;
+      border-radius: 6px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.4);
     }
 
     /* ---- Corp Treemap ---- */
@@ -847,14 +879,21 @@ if (data.galleryDir) {
     </div>
   )}
 
-  {/* GALLERY (for pages with galleryDir) */}
+  {/* GALLERY (for pages with galleryDir — duplicated for seamless loop) */}
   {galleryImages.length > 0 && (
     <div class="ind-gallery">
-      {galleryImages.map((src) => (
-        <figure class="ind-gallery__item">
-          <img src={src} alt="" loading="lazy" />
-        </figure>
-      ))}
+      <div class="ind-gallery__track">
+        {galleryImages.map((src) => (
+          <figure class="ind-gallery__item">
+            <img src={src} alt="" loading="lazy" />
+          </figure>
+        ))}
+        {galleryImages.map((src) => (
+          <figure class="ind-gallery__item" aria-hidden="true">
+            <img src={src} alt="" loading="lazy" />
+          </figure>
+        ))}
+      </div>
     </div>
   )}
 
@@ -877,6 +916,48 @@ if (data.galleryDir) {
   <aside class="ind-disclaimer">
     このページは開発中のコンテンツであり、間違った内容を含んでいる場合があります。そのような内容を見つけた場合は<a href="https://github.com/nanjakorewa/GeoGuessrTips/issues">こちら</a>にご報告いただけると大変助かります。
   </aside>
+
+  {/* Lightbox overlay */}
+  <div class="ind-lightbox" id="ind-lightbox">
+    <img src="" alt="" id="ind-lightbox-img" />
+  </div>
+
+  {/* Gallery: adjust animation speed based on content width */}
+  <script is:inline>
+    (function() {
+      var track = document.querySelector('.ind-gallery__track');
+      if (track) {
+        var items = track.children.length / 2;
+        var speed = Math.max(15, items * 6);
+        track.style.animationDuration = speed + 's';
+      }
+    })();
+  </script>
+
+  {/* Lightbox: click gallery images to enlarge */}
+  <script is:inline>
+    (function() {
+      var lb = document.getElementById('ind-lightbox');
+      var lbImg = document.getElementById('ind-lightbox-img');
+      if (!lb) return;
+      document.querySelectorAll('.ind-gallery__item img').forEach(function(img) {
+        img.addEventListener('click', function() {
+          lbImg.src = img.src;
+          lb.classList.add('is-open');
+        });
+      });
+      lb.addEventListener('click', function() {
+        lb.classList.remove('is-open');
+        lbImg.src = '';
+      });
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && lb.classList.contains('is-open')) {
+          lb.classList.remove('is-open');
+          lbImg.src = '';
+        }
+      });
+    })();
+  </script>
 
   {/* Mermaid: load only when diagrams exist on the page */}
   <script is:inline>

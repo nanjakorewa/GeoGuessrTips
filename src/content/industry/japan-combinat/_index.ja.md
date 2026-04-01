@@ -155,6 +155,78 @@ mapName: "japan"
 
 {{% corp-treemap "5020,5019,5021,5009,5411,4005,4188,5401,3407,7211" %}}
 
+<div class="container-corp mt-5" id="corp-desc">
+<table class="table table-striped table-bordered">
+<thead class="table-light">
+<tr>
+<th class="col-width-2">企業</th>
+<th class="col-width-1">証券コード</th>
+<th class="col-width-7">事業概要・コンビナートとの関連</th>
+<th class="col-width-05">決算情報</th>
+<th class="col-width-05">配当履歴</th>
+</tr>
+</thead>
+<tbody class="corp-desc">
+<tr>
+<td>ENEOSホールディングス</td>
+<td>{{% minkabu 5020 %}}</td>
+<td>国内最大の石油元売り。京葉・鹿島・水島の3コンビナートに製油所を保有し、ナフサをコンビナートに供給。</td>
+<td>{{% corplink "https://www.hd.eneos.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5020" %}}</td>
+</tr>
+<tr>
+<td>日本製鉄</td>
+<td>{{% minkabu 5401 %}}</td>
+<td>国内最大の鉄鋼メーカー。鹿島・君津に一貫製鉄所。鹿島は2025年に1基体制へ移行。</td>
+<td>{{% corplink "https://www.nipponsteel.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5401" %}}</td>
+</tr>
+<tr>
+<td>JFEホールディングス</td>
+<td>{{% minkabu 5411 %}}</td>
+<td>京葉（千葉）・水島に一貫製鉄所。自動車用ハイテン鋼板に強み。水島で電気炉転換に着手。</td>
+<td>{{% corplink "https://www.jfe-holdings.co.jp/investor/" %}}</td>
+<td>{{% dividend "tokyo" "5411" %}}</td>
+</tr>
+<tr>
+<td>三菱ケミカルグループ</td>
+<td>{{% minkabu 4188 %}}</td>
+<td>京葉・鹿島・水島の3コンビナートに拠点。MMA世界シェア約30%。石化事業は分社化済。</td>
+<td>{{% corplink "https://www.mitsubishichem-hd.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4188" %}}</td>
+</tr>
+<tr>
+<td>住友化学</td>
+<td>{{% minkabu 4005 %}}</td>
+<td>京葉（千葉）・鹿島に拠点。鹿島はエチレン停止後、機能性化学品に集約。</td>
+<td>{{% corplink "https://www.sumitomo-chem.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4005" %}}</td>
+</tr>
+<tr>
+<td>出光興産</td>
+<td>{{% minkabu 5019 %}}</td>
+<td>京葉に国内最大規模の千葉製油所（220千BD）。三井化学とエチレン装置統合で合意。</td>
+<td>{{% corplink "https://www.idemitsu.com/jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5019" %}}</td>
+</tr>
+<tr>
+<td>旭化成</td>
+<td>{{% minkabu 3407 %}}</td>
+<td>水島を発祥・主力拠点とする総合化学メーカー。LIBセパレーターで世界シェア30〜40%。</td>
+<td>{{% corplink "https://www.asahi-kasei.com/jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3407" %}}</td>
+</tr>
+<tr>
+<td>三菱自動車工業</td>
+<td>{{% minkabu 7211 %}}</td>
+<td>水島工場が国内唯一の軽自動車専用拠点。日産へのOEM供給が生産の大半。</td>
+<td>{{% corplink "https://www.mitsubishi-motors.com/jp/investors/" %}}</td>
+<td>{{% dividend "tokyo" "7211" %}}</td>
+</tr>
+</tbody>
+</table>
+</div>
+
 {{% references %}}
 jpca2023: みずほ産業調査 「石油化学工業の現状」. 2019年. https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1061_all.pdf
 {{% /references %}}

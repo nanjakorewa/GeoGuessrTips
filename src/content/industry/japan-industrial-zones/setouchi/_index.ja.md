@@ -117,7 +117,95 @@ galleryDir: "setouchi"
 
 瀬戸内工業地域に関連する主要上場企業の時価総額を可視化しています。
 
-{{% corp-treemap "5411,3407,7211,4188,5020,7012,7011,7003,7261,5406,5713,3880,4208,5108,4043,6501,4005,5019,4183" %}}
+{{% corp-treemap "5411,3407,7211,4188,5020,7012,7011,7003,7261,5406,5713,3880,4208,5108,4043,6501,4005,5019,4183,2897,6005,6310,5463,5401" %}}
+
+## 主要上場企業データ
+
+<div class="container-corp mt-5" id="corp-desc">
+<table class="table table-striped table-bordered">
+<thead class="table-light">
+<tr>
+<th class="col-width-2">企業</th>
+<th class="col-width-1">証券コード</th>
+<th class="col-width-7">事業概要・瀬戸内との関連</th>
+<th class="col-width-05">決算情報</th>
+<th class="col-width-05">配当履歴</th>
+</tr>
+</thead>
+<tbody class="corp-desc">
+<tr>
+<td>日立製作所</td>
+<td>{{% minkabu 6501 %}}</td>
+<td>下松（笠戸）事業所で鉄道車両を製造。英国・イタリア向け高速車両も手がける。</td>
+<td>{{% corplink "https://www.hitachi.co.jp/IR/" %}}</td>
+<td>{{% dividend "tokyo" "6501" %}}</td>
+</tr>
+<tr>
+<td>JFEホールディングス</td>
+<td>{{% minkabu 5411 %}}</td>
+<td>西日本製鉄所（水島・福山）は自動車用ハイテン鋼板の主力拠点。水島で大型電気炉への転換に着手。</td>
+<td>{{% corplink "https://www.jfe-holdings.co.jp/investor/" %}}</td>
+<td>{{% dividend "tokyo" "5411" %}}</td>
+</tr>
+<tr>
+<td>マツダ</td>
+<td>{{% minkabu 7261 %}}</td>
+<td>広島県安芸郡府中町に本社・本社工場。SKYACTIV技術で燃費性能を追求。ロータリーエンジンの伝統。</td>
+<td>{{% corplink "https://www.mazda.com/ja/investors/" %}}</td>
+<td>{{% dividend "tokyo" "7261" %}}</td>
+</tr>
+<tr>
+<td>ブリヂストン</td>
+<td>{{% minkabu 5108 %}}</td>
+<td>世界最大のタイヤメーカー。瀬戸内海沿岸に複数の生産拠点を保有。</td>
+<td>{{% corplink "https://www.bridgestone.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5108" %}}</td>
+</tr>
+<tr>
+<td>三菱重工業</td>
+<td>{{% minkabu 7011 %}}</td>
+<td>下関造船所で商船・艦艇を建造。神戸造船所では潜水艦を製造。</td>
+<td>{{% corplink "https://www.mhi.com/jp/finance/" %}}</td>
+<td>{{% dividend "tokyo" "7011" %}}</td>
+</tr>
+<tr>
+<td>住友金属鉱山</td>
+<td>{{% minkabu 5713 %}}</td>
+<td>新居浜が発祥の地（別子銅山）。現在はニッケル酸リチウム等のEV向け電池材料が成長。</td>
+<td>{{% corplink "https://www.smm.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5713" %}}</td>
+</tr>
+<tr>
+<td>神戸製鋼所</td>
+<td>{{% minkabu 5406 %}}</td>
+<td>鉄鋼・アルミ・機械の3本柱。加古川製鉄所が主力。自動車向けアルミ板で高シェア。</td>
+<td>{{% corplink "https://www.kobelco.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5406" %}}</td>
+</tr>
+<tr>
+<td>旭化成</td>
+<td>{{% minkabu 3407 %}}</td>
+<td>水島を発祥・主力拠点とする総合化学メーカー。LIBセパレーター（ハイポア）で世界シェア30〜40%。</td>
+<td>{{% corplink "https://www.asahi-kasei.com/jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3407" %}}</td>
+</tr>
+<tr>
+<td>三浦工業</td>
+<td>{{% minkabu 6005 %}}</td>
+<td>松山市に本社。小型貫流ボイラーで国内シェア約50%。水処理・食品機械にも展開。</td>
+<td>{{% corplink "https://www.miuraz.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6005" %}}</td>
+</tr>
+<tr>
+<td>トクヤマ</td>
+<td>{{% minkabu 4043 %}}</td>
+<td>周南市に本社工場。セメント・苛性ソーダ・多結晶シリコン。半導体用高純度品にも展開。</td>
+<td>{{% corplink "https://www.tokuyama.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4043" %}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## コンビナートの詳細
 

@@ -145,7 +145,7 @@ weight: 20
 <td>ENEOSホールディングス</td>
 <td>{{% minkabu 5020 %}}</td>
 <td>傘下の鹿島石油が鹿嶋市に製油所（180千BD）を保有。石油精製・石油化学の原料ナフサを鹿島コンビナートに供給。</td>
-<td>{{% corplink "https://www.eneos-hd.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.hd.eneos.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5020" %}}</td>
 </tr>
 </tbody>
