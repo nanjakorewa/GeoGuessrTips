@@ -18,6 +18,12 @@ flag: "Ibaraki.svg"
     </ul>
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">全域</h2>
+    <ul class="rule-list">
+    </ul>
+    {{% corp "asia/japan" "kanto/ibaraki" %}}
+</div>
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
@@ -36,27 +42,8 @@ flag: "Ibaraki.svg"
 <img src="2026-03-10-21-19-46.png" />
 </div>
 
-<ul class="corp-grid">
-<li><span class="cg-name"><a href="https://www.mcgc.com/ir/">三菱ケミカルグループ</a></span><span class="cg-code">{{% minkabu 4188 %}}</span><span class="cg-desc">エチレン・プロピレンを生成</span></li>
-<li><span class="cg-name"><a href="https://www.shinetsu.co.jp/ir/">信越化学工業</a></span><span class="cg-code">{{% minkabu 4063 %}}</span><span class="cg-desc">塩化ビニル樹脂を生成</span></li>
-<li><span class="cg-name"><a href="https://www.kao.com/jp/investor-relations/">花王</a></span><span class="cg-code">{{% minkabu 4452 %}}</span><span class="cg-desc">界面活性剤原料の供給先</span></li>
-<li><span class="cg-name"><a href="https://www.adeka.co.jp/ir/">ADEKA</a></span><span class="cg-code">{{% minkabu 4401 %}}</span><span class="cg-desc">界面活性剤原料の供給先</span></li>
-<li><span class="cg-name"><a href="https://www.toho-chem.co.jp/">東邦化学工業</a></span><span class="cg-code">{{% minkabu 4409 %}}</span><span class="cg-desc">界面活性剤原料の供給先</span></li>
-<li><span class="cg-name"><a href="https://www.nicca.co.jp/ir/">日華化学</a></span><span class="cg-code">{{% minkabu 4463 %}}</span><span class="cg-desc">界面活性剤原料の供給先</span></li>
-<li><span class="cg-name"><a href="https://www.agc.com/ir/">AGC</a></span><span class="cg-code">{{% minkabu 5201 %}}</span><span class="cg-desc">プロピレンオキサイドを生成</span></li>
-<li><span class="cg-name"><a href="https://www.kuraray.co.jp/ir">クラレ</a></span><span class="cg-code">{{% minkabu 3405 %}}</span><span class="cg-desc">イソプレン等を生成</span></li>
-<li><span class="cg-name"><a href="https://www.mgc.co.jp/ir/">三菱ガス化学</a></span><span class="cg-code">{{% minkabu 4182 %}}</span><span class="cg-desc">ポリカーボネートを生成</span></li>
-</ul>
-
 {{% /tab %}}
 {{% /tabs %}}
-
-<div class="main-desciption country-description">
-    <h2 class="section-title">全域</h2>
-    <ul class="rule-list">
-    </ul>
-    {{% corp "asia/japan" "kanto/ibaraki" %}}
-</div>
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>

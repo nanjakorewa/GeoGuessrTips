@@ -8,6 +8,111 @@ weight: 50
 mapName: "japan"
 ---
 
+<script>
+(function() {
+  var pins = [
+    // 四大工業地帯（オレンジ★）
+    { x: 410, y: 448, label: '京浜', url: '', ready: false,
+      note: '東京・横浜・川崎' },
+    { x: 318, y: 478, label: '中京', url: '', ready: false,
+      note: '名古屋・豊田・四日市' },
+    { x: 250, y: 472, label: '阪神', url: '', ready: false,
+      note: '大阪・神戸・堺' },
+    { x: 95, y: 518, label: '北九州', url: '', ready: false,
+      note: '北九州・大牟田' },
+    // 工業地域（ティール★）
+    { x: 472, y: 430, label: '鹿島臨海', url: '/industry/japan-industrial-zones/kashima/', ready: true,
+      note: '鹿嶋・神栖' },
+    { x: 445, y: 452, label: '京葉', url: '', ready: false,
+      note: '千葉・市原・君津' },
+    { x: 200, y: 490, label: '瀬戸内', url: '/industry/japan-industrial-zones/setouchi/', ready: true,
+      note: '倉敷・福山・周南・今治' },
+    { x: 345, y: 458, label: '東海', url: '', ready: false,
+      note: '富士・浜松・静岡' },
+    { x: 310, y: 410, label: '北陸', url: '', ready: false,
+      note: '富山・金沢・福井' },
+    { x: 430, y: 410, label: '関東内陸', url: '', ready: false,
+      note: '宇都宮・太田・前橋' },
+  ];
+
+  function addPins() {
+    var mapEl = document.getElementById('world-map');
+    if (!mapEl) return;
+    var svg = mapEl.querySelector('svg');
+    if (!svg) { setTimeout(addPins, 300); return; }
+
+    pins.forEach(function(pin) {
+      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+      g.setAttribute('class', 'kombinat-pin');
+      g.style.cursor = pin.ready ? 'pointer' : 'default';
+
+      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
+      titleEl.textContent = pin.label + '工業地帯 — ' + pin.note;
+      g.appendChild(titleEl);
+
+      var color = pin.ready ? '#e07b20' : 'rgba(255,255,255,0.35)';
+      var bgFill = pin.ready ? 'rgba(224,123,32,0.18)' : 'rgba(200,200,200,0.1)';
+      var strokeFill = pin.ready ? 'rgba(224,123,32,0.55)' : 'rgba(180,180,180,0.3)';
+      var labelBgFill = pin.ready ? 'rgba(154,82,10,0.85)' : 'rgba(50,50,50,0.5)';
+      var labelColor = pin.ready ? '#fff' : 'rgba(255,255,255,0.5)';
+
+      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      glow.setAttribute('cx', pin.x);
+      glow.setAttribute('cy', pin.y - 6);
+      glow.setAttribute('r', '12');
+      glow.setAttribute('fill', bgFill);
+      glow.setAttribute('stroke', strokeFill);
+      glow.setAttribute('stroke-width', '1.5');
+
+      var star = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      star.setAttribute('x', pin.x);
+      star.setAttribute('y', pin.y);
+      star.setAttribute('font-size', '18');
+      star.setAttribute('fill', color);
+      star.setAttribute('text-anchor', 'middle');
+      star.setAttribute('dominant-baseline', 'middle');
+      star.setAttribute('style', 'font-family:sans-serif; user-select:none;');
+      star.textContent = pin.ready ? '\u2605' : '\u2606';
+
+      var textLen = pin.label.length;
+      var bgW = textLen * 9 + 8;
+      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+      labelBg.setAttribute('x', pin.x - bgW / 2);
+      labelBg.setAttribute('y', pin.y + 6);
+      labelBg.setAttribute('width', bgW);
+      labelBg.setAttribute('height', '14');
+      labelBg.setAttribute('fill', labelBgFill);
+      labelBg.setAttribute('rx', '3');
+
+      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      label.setAttribute('x', pin.x);
+      label.setAttribute('y', pin.y + 16);
+      label.setAttribute('font-size', '9');
+      label.setAttribute('fill', labelColor);
+      label.setAttribute('text-anchor', 'middle');
+      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
+      label.textContent = pin.label;
+
+      g.appendChild(glow);
+      g.appendChild(star);
+      g.appendChild(labelBg);
+      g.appendChild(label);
+
+      if (pin.ready && pin.url) {
+        g.addEventListener('click', function() { window.location.href = pin.url; });
+      }
+      svg.appendChild(g);
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
+  } else {
+    setTimeout(addPins, 700);
+  }
+})();
+</script>
+
 ## 日本の工業地帯・工業地域とは
 
 日本の近代工業は、太平洋沿岸を中心に発展してきました。明治期から昭和にかけて形成された**四大工業地帯**（京浜・中京・阪神・北九州）に加え、高度経済成長期に開発された**工業地域**が「太平洋ベルト」と呼ばれる帯状の産業集積を形成しています。
