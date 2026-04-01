@@ -330,7 +330,7 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 <td>富士石油</td>
 <td>{{% minkabu 5009 %}}</td>
 <td>袖ケ浦製油所（143千BD）を保有。旧アラビア石油の流れを汲む。</td>
-<td>{{% corplink "https://www.foc.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.foc.co.jp/ja/ir.html" %}}</td>
 <td>{{% dividend "tokyo" "5009" %}}</td>
 </tr>
 </tbody>
