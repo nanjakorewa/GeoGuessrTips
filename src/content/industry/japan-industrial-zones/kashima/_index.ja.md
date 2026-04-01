@@ -96,8 +96,6 @@ galleryDir: "kashima"
 
 {{% corp-treemap "5401,5411,5563,4088,4063,4188,4912,4368,4401,4118,5201,4182,3405,2004,4631,4452,2053,2060,7942,1332,4409,4463,4004,6331,4471,4914,4887,7981,4272,6367,4523,4043" %}}
 
-## 主要上場企業データ
-
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
 <thead class="table-light">
@@ -179,6 +177,41 @@ galleryDir: "kashima"
 <td>鹿島工場で機能性樹脂・発泡樹脂を生産。太陽電池バックシートや生分解性ポリマーにも展開。</td>
 <td>{{% corplink "https://www.kaneka.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4118" %}}</td>
+</tr>
+<tr>
+<td>ニッスイ</td>
+<td>{{% minkabu 1332 %}}</td>
+<td>鹿島に医薬品工場・油脂工場を保有。高純度EPA（エイコサペンタエン酸）の医薬原料を製造し、国内外の製薬企業へ供給。水産大手だが鹿島ではファインケミカル事業を展開。</td>
+<td>{{% corplink "https://www.nissui.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "1332" %}}</td>
+</tr>
+<tr>
+<td>中部飼料</td>
+<td>{{% minkabu 2053 %}}</td>
+<td>鹿島工場（神栖市）で畜産・水産用の配合飼料を製造。鹿島港の穀物荷揚げ機能を活かした原料調達が立地の強み。</td>
+<td>{{% corplink "https://www.chubushiryo.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2053" %}}</td>
+</tr>
+<tr>
+<td>フィード・ワン</td>
+<td>{{% minkabu 2060 %}}</td>
+<td>鹿島飼料（神栖市）を通じて配合飼料を製造。国内唯一の有機JAS認証飼料の製造拠点を持つ。</td>
+<td>{{% corplink "https://www.feed-one.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2060" %}}</td>
+</tr>
+<tr>
+<td>日華化学</td>
+<td>{{% minkabu 4463 %}}</td>
+<td>鹿島工場（第1・第2）で非イオン界面活性剤・エステル化物を製造。コンビナートのパイプラインからEO（エチレンオキサイド）を直接調達できる立地を活かす。</td>
+<td>{{% corplink "https://www.nicca.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4463" %}}</td>
+</tr>
+<tr>
+<td>三菱化工機</td>
+<td>{{% minkabu 6331 %}}</td>
+<td>鹿島工場で化学プラント向け圧力容器・塔槽類を製造。水素発生装置や固液分離装置も手がけ、コンビナート内の設備メンテナンス需要にも対応。</td>
+<td>{{% corplink "https://www.kakoki.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6331" %}}</td>
 </tr>
 </tbody>
 </table>

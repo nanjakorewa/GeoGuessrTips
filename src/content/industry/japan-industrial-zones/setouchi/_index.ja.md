@@ -119,8 +119,6 @@ galleryDir: "setouchi"
 
 {{% corp-treemap "5411,3407,7211,4188,5020,7012,7011,7003,7261,5406,5713,3880,4208,5108,4043,6501,4005,5019,4183,2897,6005,6310,5463,5401" %}}
 
-## 主要上場企業データ
-
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
 <thead class="table-light">
