@@ -132,7 +132,7 @@ mapName: "japan"
 
 | 集積地 | 所在地 | 主な産業 | 詳細 |
 | ------ | ------ | -------- | ---- |
-| **九州半導体クラスター** | 熊本・大分・長崎 | ロジック・CMOSイメージセンサー（TSMC・ソニー・ルネサス） | [詳細 →](/industry/japan-semiconductor/kyushu/) |
+| **九州半導体クラスター** | 熊本・大分・長崎 | ロジック・CMOSイメージセンサー（TSMC・ソニー・ルネサス）{{% cite "siiq2023" %}} | [詳細 →](/industry/japan-semiconductor/kyushu/) |
 | 東北（岩手・北上） | 岩手県北上市 | NANDフラッシュメモリ（キオクシア北上工場）。※宮城PSMC計画は2024年末に提携解消で中止 | 準備中 |
 | 三重・四日市 | 三重県四日市市 | NANDフラッシュメモリ（キオクシア・ウェスタンデジタル） | 準備中 |
 | 広島（東広島） | 広島県東広島市 | DRAM・HBM（マイクロンメモリジャパン）。生成AI需要で高帯域幅メモリ（HBM）の最先端拠点 | 準備中 |
@@ -189,7 +189,7 @@ graph LR
 <tr>
 <td>ソニーグループ</td>
 <td>{{% minkabu 6758 %}}</td>
-<td>CMOSイメージセンサー世界首位（シェア約50%）。熊本・長崎に主力工場。JASM出資。</td>
+<td>CMOSイメージセンサー世界首位（シェア約50%）{{% cite "sony_ir" %}}。熊本・長崎に主力工場。JASM出資。</td>
 <td>{{% corplink "https://www.sony.com/ja/SonyInfo/IR/" %}}</td>
 <td>{{% dividend "tokyo" "6758" %}}</td>
 </tr>
@@ -203,7 +203,7 @@ graph LR
 <tr>
 <td>信越化学工業</td>
 <td>{{% minkabu 4063 %}}</td>
-<td>シリコンウェーハ世界首位（シェア約30%）。フォトレジストでも高シェア。</td>
+<td>シリコンウェーハ世界首位（シェア約30%）{{% cite "shinetsu_ir" %}}。フォトレジストでも高シェア。</td>
 <td>{{% corplink "https://www.shinetsu.co.jp/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4063" %}}</td>
 </tr>
@@ -224,7 +224,7 @@ graph LR
 <tr>
 <td>ディスコ</td>
 <td>{{% minkabu 6146 %}}</td>
-<td>ダイシング・グラインディング装置で世界シェア約80%。精密加工装置の独占的企業。</td>
+<td>ダイシング・グラインディング装置で世界シェア約80%{{% cite "disco_ir" %}}。精密加工装置の独占的企業。</td>
 <td>{{% corplink "https://www.disco.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6146" %}}</td>
 </tr>
@@ -238,7 +238,7 @@ graph LR
 <tr>
 <td>SUMCO</td>
 <td>{{% minkabu 3436 %}}</td>
-<td>シリコンウェーハ専業で世界2位（シェア約26%）。佐賀県伊万里に主力工場。</td>
+<td>シリコンウェーハ専業で世界2位（シェア約26%）{{% cite "sumco_ir" %}}。佐賀県伊万里に主力工場。</td>
 <td>{{% corplink "https://www.sumcosi.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3436" %}}</td>
 </tr>
@@ -267,4 +267,8 @@ meti_semi_strategy: 経済産業省「半導体・デジタル産業戦略（改
 meti_semi_plan: 経済産業省「認定特定半導体生産施設整備等計画について」<https://www.meti.go.jp/policy/mono_info_service/joho/laws/semiconductor/semiconductor_plan.html>
 meti_rapidus: 経済産業省「ポスト5G情報通信システム基盤強化研究開発事業（先端半導体製造技術の開発（委託））」<https://www.meti.go.jp/policy/mono_info_service/joho/post5g/pdf/240402_theme_01.pdf>
 meti_semi_ref: 経済産業省「参考資料（半導体）」（2024年12月）<https://www.meti.go.jp/press/2024/12/20241227006/20241227006-13.pdf>
+sony_ir: ソニーグループ株式会社「有価証券報告書・統合報告書」<https://www.sony.com/ja/SonyInfo/IR/library/yu.html>
+shinetsu_ir: 信越化学工業株式会社「Annual Report 2024」<https://www.shinetsu.co.jp/wp-content/uploads/2024/07/Annual-Report-2024-for-printing.pdf>
+disco_ir: 株式会社ディスコ「会社情報」<https://www.disco.co.jp/eg/corporate/history/index.html>
+sumco_ir: 株式会社SUMCO「IR情報」<https://www.sumcosi.com/ir/>
 {{% /references %}}

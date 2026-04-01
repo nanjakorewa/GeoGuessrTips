@@ -138,7 +138,7 @@ galleryDir: "shipbuilding"
   <div class="stat-card">
     <p class="stat-card__label">市場規模</p>
     <p class="stat-card__value">3.2兆</p>
-    <p class="stat-card__unit">円（売上高2.3兆円・2022年度）</p>
+    <p class="stat-card__unit">円（売上高2.3兆円・2022年度）{{% cite "meti2024" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">従業員数</p>
@@ -176,7 +176,7 @@ galleryDir: "shipbuilding"
 | 2022 | 18% | 30% | 44% | 1% |
 | 2024 | **8%** | 16% | **71%** | 2% |
 
-中国が2024年に受注シェア71%を占め、日本は8%まで縮小（単年受注量ベース）。中国のシェア拡大は、LNG船や大型コンテナ船の量産体制を確立したことが大きく、日本の船主が中国に発注する割合も約4割に達しています。
+中国が2024年に受注シェア71%を占め、日本は8%まで縮小（単年受注量ベース）。中国のシェア拡大は、LNG船や大型コンテナ船の量産体制を確立したことが大きく、日本の船主が中国に発注する割合も約4割に達しています{{% cite "mlit_ship_status" %}}。
 
 ## 商船建造と艦艇建造 — 二つの柱
 

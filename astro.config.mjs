@@ -22,6 +22,14 @@ export default defineConfig({
     ],
   },
 
+  vite: {
+    server: {
+      headers: {
+        "Cache-Control": "no-store",
+      },
+    },
+  },
+
   build: {
     format: "directory",
   },

@@ -1024,51 +1024,55 @@ if (data.galleryDir) {
     <img src="" alt="" id="ind-lightbox-img" />
   </div>
 
-  {/* Gallery: adjust animation speed based on content width */}
+  {/* Gallery + Lightbox initialization */}
   <script is:inline>
     (function() {
-      var track = document.querySelector('.ind-gallery__track');
-      if (track) {
-        var items = track.children.length / 2;
-        var speed = Math.max(15, items * 6);
-        track.style.animationDuration = speed + 's';
-      }
-    })();
-  </script>
+      function initGallery() {
+        // Animation speed
+        var track = document.querySelector('.ind-gallery__track');
+        if (track) {
+          var items = track.children.length / 2;
+          var speed = Math.max(15, items * 6);
+          track.style.animationDuration = speed + 's';
+        }
 
-  {/* Lightbox / link: click gallery images */}
-  <script is:inline>
-    (function() {
-      var lb = document.getElementById('ind-lightbox');
-      var lbImg = document.getElementById('ind-lightbox-img');
-      if (!lb) return;
-      // Prevent credit link clicks from triggering lightbox/navigation
-      document.querySelectorAll('.ind-gallery__credit a').forEach(function(a) {
-        a.addEventListener('click', function(e) { e.stopPropagation(); });
-      });
-      document.querySelectorAll('.ind-gallery__item').forEach(function(item) {
-        var link = item.getAttribute('data-link');
-        var img = item.querySelector('img');
-        if (!img) return;
-        img.addEventListener('click', function() {
-          if (link) {
-            window.location.href = link;
-          } else {
-            lbImg.src = img.src;
-            lb.classList.add('is-open');
-          }
+        // Lightbox
+        var lb = document.getElementById('ind-lightbox');
+        var lbImg = document.getElementById('ind-lightbox-img');
+        if (!lb) return;
+
+        // Prevent credit link clicks from triggering lightbox/navigation
+        document.querySelectorAll('.ind-gallery__credit a').forEach(function(a) {
+          a.addEventListener('click', function(e) { e.stopPropagation(); });
         });
-      });
+
+        document.querySelectorAll('.ind-gallery__item').forEach(function(item) {
+          var link = item.getAttribute('data-link');
+          var img = item.querySelector('img');
+          if (!img) return;
+          img.addEventListener('click', function() {
+            if (link) {
+              window.location.href = link;
+            } else {
+              lbImg.src = img.src;
+              lb.classList.add('is-open');
+            }
+          });
+        });
       lb.addEventListener('click', function() {
         lb.classList.remove('is-open');
         lbImg.src = '';
       });
-      document.addEventListener('keydown', function(e) {
-        if (e.key === 'Escape' && lb.classList.contains('is-open')) {
-          lb.classList.remove('is-open');
-          lbImg.src = '';
-        }
-      });
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && lb.classList.contains('is-open')) {
+            lb.classList.remove('is-open');
+            lbImg.src = '';
+          }
+        });
+      }
+
+      // Run immediately and also after a delay for dev HMR
+      initGallery();
     })();
   </script>
 
@@ -1186,13 +1190,17 @@ if (data.galleryDir) {
         return maxR;
       }
 
-      containers.forEach(function(el) {
+      function renderTreemap(el) {
         var data;
         try { data = JSON.parse(el.getAttribute('data-companies')); } catch(e) { return; }
         if (!data || !data.length) return;
 
+        // Clear previous render
+        el.innerHTML = '';
+
         var W = el.offsetWidth;
         var H = el.offsetHeight;
+        if (W <= 0 || H <= 0) return; // not yet laid out
         var rects = squarify(data, 0, 0, W, H);
 
         rects.forEach(function(r) {
@@ -1226,7 +1234,15 @@ if (data.galleryDir) {
           }
           el.appendChild(cell);
         });
-      });
+      }
+
+      // Render all treemaps, with retry for elements not yet laid out
+      function renderAll() {
+        containers.forEach(renderTreemap);
+      }
+      renderAll();
+      // Retry after a short delay in case layout wasn't ready
+      setTimeout(renderAll, 300);
     })();
   </script>
 
