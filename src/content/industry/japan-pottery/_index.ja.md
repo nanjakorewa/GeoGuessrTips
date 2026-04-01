@@ -122,12 +122,12 @@ mapName: "japan"
   <div class="stat-card">
     <p class="stat-card__label">美濃焼の国内シェア</p>
     <p class="stat-card__value">約50〜60</p>
-    <p class="stat-card__unit">%（和洋飲食器・2022年）</p>
+    <p class="stat-card__unit">%（和洋飲食器・2022年）{{% cite "meti2022" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">国内陶磁器出荷額</p>
     <p class="stat-card__value">約1,500</p>
-    <p class="stat-card__unit">億円（2022年・経産省）</p>
+    <p class="stat-card__unit">億円（2022年・経産省）{{% cite "meti2022" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">有田焼 磁器焼成開始</p>

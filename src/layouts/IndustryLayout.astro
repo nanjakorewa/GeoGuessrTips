@@ -62,16 +62,78 @@ const lastmodDisplay = modifiedTime
 // Is map page (has JSMaps map)
 const isMapPage = !!data.mapName;
 
-// Gallery images (from galleryDir frontmatter)
+// Gallery images (from galleryDir frontmatter, or aggregated for index pages)
 import fs from "node:fs";
 import nodePath from "node:path";
-let galleryImages: string[] = [];
+
+interface GalleryCredit {
+  text: string;
+  url?: string;
+}
+interface GalleryImage {
+  src: string;
+  link?: string;
+  credit?: GalleryCredit;
+}
+
+/** Load credits.json — supports both string and {text, url} values */
+function loadCredits(dirPath: string): Record<string, GalleryCredit> {
+  const creditsFile = nodePath.join(dirPath, "credits.json");
+  if (!fs.existsSync(creditsFile)) return {};
+  try {
+    const raw = JSON.parse(fs.readFileSync(creditsFile, "utf-8"));
+    const result: Record<string, GalleryCredit> = {};
+    for (const [k, v] of Object.entries(raw)) {
+      if (typeof v === "string") {
+        result[k] = { text: v };
+      } else if (v && typeof v === "object" && "text" in (v as any)) {
+        result[k] = v as GalleryCredit;
+      }
+    }
+    return result;
+  } catch { return {}; }
+}
+
+let galleryImages: GalleryImage[] = [];
+
 if (data.galleryDir) {
   const dirPath = nodePath.resolve("public", "images", "industry", data.galleryDir);
   if (fs.existsSync(dirPath)) {
+    const credits = loadCredits(dirPath);
     galleryImages = fs.readdirSync(dirPath)
       .filter((f: string) => /\.(jpg|jpeg|png|webp|gif|svg)$/i.test(f))
-      .map((f: string) => `/images/industry/${data.galleryDir}/${f}`);
+      .map((f: string) => ({
+        src: `/images/industry/${data.galleryDir}/${f}`,
+        credit: credits[f],
+      }));
+  }
+} else if (!data.mapName && entry.id && !entry.id.includes("/")) {
+  // Top-level index page only: aggregate from all subdirectories
+  const galleryDirMap: Record<string, string> = {
+    combinat: "/industry/japan-combinat/",
+    setouchi: "/industry/japan-industrial-zones/setouchi/",
+    shipbuilding: "/industry/japan-shipbuilding/",
+    kashima: "/industry/japan-industrial-zones/kashima/",
+  };
+  const baseDir = nodePath.resolve("public", "images", "industry");
+  if (fs.existsSync(baseDir)) {
+    const subdirs = fs.readdirSync(baseDir, { withFileTypes: true })
+      .filter((d: any) => d.isDirectory());
+    for (const sub of subdirs) {
+      const subPath = nodePath.join(baseDir, sub.name);
+      const link = galleryDirMap[sub.name] || undefined;
+      const credits = loadCredits(subPath);
+      const files = fs.readdirSync(subPath)
+        .filter((f: string) => /\.(jpg|jpeg|png|webp|gif|svg)$/i.test(f));
+      for (const f of files) {
+        galleryImages.push({ src: `/images/industry/${sub.name}/${f}`, link, credit: credits[f] });
+      }
+    }
+    // Shuffle (Fisher-Yates)
+    for (let i = galleryImages.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [galleryImages[i], galleryImages[j]] = [galleryImages[j], galleryImages[i]];
+    }
   }
 }
 ---
@@ -708,12 +770,38 @@ if (data.galleryDir) {
       overflow: hidden;
       box-shadow: 0 2px 8px rgba(0,0,0,0.12);
       cursor: pointer;
+      position: relative;
     }
     .ind-gallery__item img {
       display: block;
       height: 200px;
       width: auto;
       object-fit: cover;
+    }
+    .ind-gallery__credit {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 3px 8px;
+      font-size: 0.6rem;
+      color: rgba(255,255,255,0.85);
+      background: rgba(0,0,0,0.5);
+      opacity: 0;
+      transition: opacity 0.2s;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .ind-gallery__item:hover .ind-gallery__credit {
+      opacity: 1;
+    }
+    .ind-gallery__credit a {
+      color: rgba(255,255,255,0.9);
+      text-decoration: none;
+    }
+    .ind-gallery__credit a:hover {
+      text-decoration: underline;
     }
     @media (max-width: 640px) {
       .ind-gallery__item img { height: 150px; }
@@ -879,18 +967,32 @@ if (data.galleryDir) {
     </div>
   )}
 
-  {/* GALLERY (for pages with galleryDir — duplicated for seamless loop) */}
+  {/* GALLERY (duplicated for seamless loop) */}
   {galleryImages.length > 0 && (
     <div class="ind-gallery">
       <div class="ind-gallery__track">
-        {galleryImages.map((src) => (
-          <figure class="ind-gallery__item">
-            <img src={src} alt="" loading="lazy" />
+        {galleryImages.map((gi) => (
+          <figure class="ind-gallery__item" data-link={gi.link || ""}>
+            <img src={gi.src} alt="" loading="lazy" />
+            {gi.credit && (
+              <figcaption class="ind-gallery__credit">
+                {gi.credit.url
+                  ? <a href={gi.credit.url} target="_blank" rel="noopener noreferrer">{gi.credit.text}</a>
+                  : gi.credit.text}
+              </figcaption>
+            )}
           </figure>
         ))}
-        {galleryImages.map((src) => (
-          <figure class="ind-gallery__item" aria-hidden="true">
-            <img src={src} alt="" loading="lazy" />
+        {galleryImages.map((gi) => (
+          <figure class="ind-gallery__item" aria-hidden="true" data-link={gi.link || ""}>
+            <img src={gi.src} alt="" loading="lazy" />
+            {gi.credit && (
+              <figcaption class="ind-gallery__credit">
+                {gi.credit.url
+                  ? <a href={gi.credit.url} target="_blank" rel="noopener noreferrer">{gi.credit.text}</a>
+                  : gi.credit.text}
+              </figcaption>
+            )}
           </figure>
         ))}
       </div>
@@ -934,16 +1036,27 @@ if (data.galleryDir) {
     })();
   </script>
 
-  {/* Lightbox: click gallery images to enlarge */}
+  {/* Lightbox / link: click gallery images */}
   <script is:inline>
     (function() {
       var lb = document.getElementById('ind-lightbox');
       var lbImg = document.getElementById('ind-lightbox-img');
       if (!lb) return;
-      document.querySelectorAll('.ind-gallery__item img').forEach(function(img) {
+      // Prevent credit link clicks from triggering lightbox/navigation
+      document.querySelectorAll('.ind-gallery__credit a').forEach(function(a) {
+        a.addEventListener('click', function(e) { e.stopPropagation(); });
+      });
+      document.querySelectorAll('.ind-gallery__item').forEach(function(item) {
+        var link = item.getAttribute('data-link');
+        var img = item.querySelector('img');
+        if (!img) return;
         img.addEventListener('click', function() {
-          lbImg.src = img.src;
-          lb.classList.add('is-open');
+          if (link) {
+            window.location.href = link;
+          } else {
+            lbImg.src = img.src;
+            lb.classList.add('is-open');
+          }
         });
       });
       lb.addEventListener('click', function() {

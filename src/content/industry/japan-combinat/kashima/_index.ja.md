@@ -90,7 +90,7 @@ weight: 20
 
 {{% /timeline %}}
 
-国内粗鋼需要は2007年の約1.2億トンをピークに2022年は約8,900万トンまで縮小しています。高炉数の削減は製鉄業界全体で進んでいる構造転換の一部です{{% cite "jisf2023" %}}。
+国内粗鋼需要は2007年の約1.2億トンをピークに2022年は約8,900万トンまで縮小しています{{% cite "jisf_stats" %}}。高炉数の削減は製鉄業界全体で進んでいる構造転換の一部です。
 
 ## 石油化学・その他工業セクター
 
@@ -154,7 +154,7 @@ weight: 20
 
 {{% references %}}
 ibaraki2022: 不毛の大地を甦らせた鹿島港の開発　<https://www.jcca.or.jp/infra70n/files/PJNO_08.pdf>
-kant2021: 鹿島港 Wikipedia <https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B3%B6%E6%B8%AF>
+kant2021: 国土交通省 関東地方整備局「鹿島港の概要」<https://www.pa.ktr.mlit.go.jp/kashima/port/index.htm>
 nipponsteel2023: 日本製鉄 統合報告書 2024（2024年）<https://www.nipponsteel.com/common/secure/ir/library/pdf/nsc_jp_ir_2024_all.pdf>
-jisf2023: 日本鉄鋼連盟「「粗鋼生産」9000万トン割れに下方修正…需要環境厳しい鋼材、中国勢の影響度」（2023年）<https://newswitch.jp/p/38746>
+jisf_stats: 日本鉄鋼連盟「鉄鋼統計 生産・時系列」<https://www.jisf.or.jp/data/jikeiretsu/seisan.html>
 {{% /references %}}

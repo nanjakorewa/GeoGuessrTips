@@ -12,7 +12,7 @@ galleryDir: "setouchi"
 
 瀬戸内工業地域は、瀬戸内海沿岸の**岡山・広島・山口・愛媛・香川・兵庫**にまたがる広域工業地域です。穏やかな海象と臨海立地の利点を活かし、**石油化学・鉄鋼・造船・自動車・繊維**といった多様な重化学工業が集積しています。
 
-四大工業地帯（京浜・中京・阪神・北九州）を結ぶ「太平洋ベルト」の中間に位置し、原材料の輸入と製品の輸出の両方に適した立地です。特に**造船業**は瀬戸内海沿岸に国内建造量の7割以上が集中しており、「造船の海」とも呼ばれます。
+四大工業地帯（京浜・中京・阪神・北九州）を結ぶ「太平洋ベルト」の中間に位置し、原材料の輸入と製品の輸出の両方に適した立地です。特に**造船業**は瀬戸内海沿岸に国内建造量の7割以上が集中しており{{% cite "mlit_setouchi" %}}、「造船の海」とも呼ばれます。
 
 ## 基本データ
 
@@ -215,5 +215,5 @@ galleryDir: "setouchi"
 {{% references %}}
 meti_census: 経済産業省「工業統計調査」<https://www.meti.go.jp/statistics/tyo/kougyo/>
 okayama2023: 水島臨海工業地帯の現状 <https://www.pref.okayama.jp/uploaded/life/906116_9310850_misc.pdf>
-setouchi_wiki: 瀬戸内工業地域 — Wikipedia <https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%9F%9F>
+mlit_setouchi: 国土交通省「瀬戸内海沿岸の造船クラスター」<https://www.mlit.go.jp/maritime/content/001392208.pdf>
 {{% /references %}}

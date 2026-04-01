@@ -109,7 +109,7 @@ mapName: "japan"
   <div class="stat-card">
     <p class="stat-card__label">国内半導体生産額</p>
     <p class="stat-card__value">約6.5兆</p>
-    <p class="stat-card__unit">円（2025年度見込み・政府目標2030年15兆円）</p>
+    <p class="stat-card__unit">円（2025年度見込み・政府目標2030年15兆円）{{% cite "meti_semi_strategy" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">主要産業集積地</p>
@@ -119,12 +119,12 @@ mapName: "japan"
   <div class="stat-card">
     <p class="stat-card__label">TSMC熊本第1工場</p>
     <p class="stat-card__value">月産5.5万</p>
-    <p class="stat-card__unit">枚（300mm・2024年12月量産開始）</p>
+    <p class="stat-card__unit">枚（300mm・2024年12月量産開始）{{% cite "meti_semi_plan" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">ラピダス（北海道千歳）</p>
     <p class="stat-card__value">2027</p>
-    <p class="stat-card__unit">年量産目標（2025年試作ライン稼働・EUV調整中）</p>
+    <p class="stat-card__unit">年量産目標（2025年試作ライン稼働・EUV調整中）{{% cite "meti_rapidus" %}}</p>
   </div>
 </div>
 
@@ -140,7 +140,7 @@ mapName: "japan"
 
 ### パワー半導体
 
-上記のロジック・メモリ集積地に加え、日本はパワー半導体でも世界的な競争力を維持しています。EV・再エネ向けの需要拡大により重要性が増しています。
+上記のロジック・メモリ集積地に加え、日本はパワー半導体でも世界的な競争力を維持しています{{% cite "meti_semi_ref" %}}。EV・再エネ向けの需要拡大により重要性が増しています。
 
 | 企業 | 主要拠点 | 製品 |
 | ---- | -------- | ---- |
@@ -263,4 +263,8 @@ graph LR
 {{% references %}}
 meti2023: 半導体・デジタル産業戦略の今後の方向性 <https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0014/handeji14-4.pdf>
 siiq2023: 九州地域半導体・エレクトロニクス分野関連企業マップ（九州半導体・エレクトロニクスイノベーション協議会、2023年）<https://siiq.or.jp/wp-content/uploads/2023/11/%E4%B9%9D%E5%B7%9E%E5%9C%B0%E5%9F%9F%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%BB%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E5%88%86%E9%87%8E%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%9E%E3%83%83%E3%83%97.pdf>
+meti_semi_strategy: 経済産業省「半導体・デジタル産業戦略（改定案・概要版）」（2023年4月）<https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0008/3gaiyou.pdf>
+meti_semi_plan: 経済産業省「認定特定半導体生産施設整備等計画について」<https://www.meti.go.jp/policy/mono_info_service/joho/laws/semiconductor/semiconductor_plan.html>
+meti_rapidus: 経済産業省「ポスト5G情報通信システム基盤強化研究開発事業（先端半導体製造技術の開発（委託））」<https://www.meti.go.jp/policy/mono_info_service/joho/post5g/pdf/240402_theme_01.pdf>
+meti_semi_ref: 経済産業省「参考資料（半導体）」（2024年12月）<https://www.meti.go.jp/press/2024/12/20241227006/20241227006-13.pdf>
 {{% /references %}}

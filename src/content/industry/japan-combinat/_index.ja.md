@@ -5,6 +5,7 @@ date: 2026-03-22
 description: "日本全国の主要コンビナート8地区を地図で確認。エチレン生産能力・鉄鋼生産量・立地の経緯など、産業構造を深掘りする解説ページへのインデックス。"
 weight: 10
 mapName: "japan"
+galleryDir: "combinat"
 ---
 
 <script>
@@ -129,12 +130,12 @@ mapName: "japan"
   <div class="stat-card">
     <p class="stat-card__label">国内エチレン年産能力</p>
     <p class="stat-card__value">約630</p>
-    <p class="stat-card__unit">万トン（2022年）</p>
+    <p class="stat-card__unit">万トン（2022年）{{% cite "meti_ethylene2022" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">粗鋼生産量（日本全体）</p>
     <p class="stat-card__value">約8,900</p>
-    <p class="stat-card__unit">万トン（2022年）</p>
+    <p class="stat-card__unit">万トン（2022年）{{% cite "jisf_stats" %}}</p>
   </div>
 </div>
 
@@ -229,4 +230,6 @@ mapName: "japan"
 
 {{% references %}}
 jpca2023: みずほ産業調査 「石油化学工業の現状」. 2019年. https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1061_all.pdf
+meti_ethylene2022: 経済産業省「我が国の主要石油化学製品生産能力調査（令和4年12月末時点）」（2023年）<https://www.meti.go.jp/policy/mono_info_service/mono/chemistry/20230614seisannnouryokutyousa.pdf>
+jisf_stats: 日本鉄鋼連盟「鉄鋼統計 生産・時系列」<https://www.jisf.or.jp/data/jikeiretsu/seisan.html>
 {{% /references %}}

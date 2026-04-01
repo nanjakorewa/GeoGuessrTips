@@ -66,7 +66,7 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 | 稼働開始 | 2024年2月開所、同年12月量産開始 | 2027年予定 |
 | プロセスノード | 12nm / 16nm / 28nm | 6nm / 4nm |
 | 月産能力 | 55,000枚（300mm） | 100,000枚（計画） |
-| 国家補助金 | 約4,760億円 | 約7,320億円（予定） |
+| 国家補助金 | 約4,760億円{{% cite "meti_semi_plan" %}} | 約7,320億円（予定）{{% cite "meti_semi_plan" %}} |
 | 主な顧客 | ソニー・デンソー・ルネサス | 未公表 |
 
 熊本工場が生産する28nmプロセスは**成熟ノード**と呼ばれ、車載・産業機器・IoT向けに安定した需要があります。最先端の2nm以下と異なり、EUV露光装置を使わず既存のArFi露光で製造でき、設備投資を抑えつつ高い歩留まりを実現できます。
@@ -171,4 +171,6 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 jasm2024: Japan Advanced Semiconductor Manufacturing株式会社「会社概要」（2024年）<https://www.tsmc.com/static/japanese/careers/jasm/index.html>
 sony2023: ソニーグループ株式会社「有価証券報告書2023年度」（2023年）<https://www.sony.com/ja/SonyInfo/IR/library/yu.html>
 renesas2023: ルネサスエレクトロニクス株式会社「有価証券報告書2023年度」（2023年）<https://www.renesas.com/ja/about/investor-relations/security?srsltid=AfmBOoo-ipgMc01_XY54gV4RGeJuVOOqqO9yMGm8F44UGtfe3Xg37ek3>
+meti_semi_plan: 経済産業省「認定特定半導体生産施設整備等計画について」<https://www.meti.go.jp/policy/mono_info_service/joho/laws/semiconductor/semiconductor_plan.html>
+kyushu_meti: 九州経済産業局「半導体に関する最近の政策動向について」（2024年2月）<https://www.kyushu.meti.go.jp/seisaku/jyoho/oshirase/240228_1_1.pdf>
 {{% /references %}}

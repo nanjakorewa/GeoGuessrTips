@@ -126,7 +126,7 @@ mapName: "japan"
 
 ## 日本の石油・LPガス備蓄制度
 
-日本は原油の99.7%を輸入に依存しており、中東情勢の緊迫や海上輸送路の途絶に備えた**国家備蓄**はエネルギー安全保障の要です。1975年の石油備蓄法制定以降、全国に備蓄基地が整備され、2004年からはJOGMEC（独立行政法人エネルギー・金属鉱物資源機構）が一括管理しています{{% cite "jogmec2024" %}}。
+日本は原油の99.7%を輸入に依存しており{{% cite "enecho_oil_stats" %}}、中東情勢の緊迫や海上輸送路の途絶に備えた**国家備蓄**はエネルギー安全保障の要です。1975年の石油備蓄法制定以降、全国に備蓄基地が整備され、2004年からはJOGMEC（独立行政法人エネルギー・金属鉱物資源機構）が一括管理しています{{% cite "jogmec2024" %}}。
 
 備蓄は**国家備蓄**（政府が直接保有）・**民間備蓄**（石油会社に義務付け）・**産油国共同備蓄**の3層構造で運用されています{{% cite "enecho2026" %}}。内訳は時期により変動しますが、国家備蓄が約90〜110日分、民間備蓄が約70〜90日分で、合計約200日分以上を確保しています。IEA（国際エネルギー機関）の加盟国義務である90日分を大幅に上回る水準です。
 
@@ -350,4 +350,5 @@ mutsu: JOGMEC「むつ小川原国家石油備蓄基地」<https://www.jogmec.go
 shibushi: 志布志石油備蓄株式会社「施設概要」<https://www.shibushi.co.jp/facility/>
 jogmec_lpg: JOGMEC「石油ガス備蓄事業の概要」<https://www.jogmec.go.jp/content/300376575.pdf>
 jogmec_system: JOGMEC「備蓄の方式」<https://www.jogmec.go.jp/activities/stockpiling/oilgas/reserves/reserve-system.html>
+enecho_oil_stats: 資源エネルギー庁「石油備蓄の現況」<https://www.enecho.meti.go.jp/statistics/petroleum_and_lpgas/pl001/>
 {{% /references %}}
