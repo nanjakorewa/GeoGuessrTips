@@ -9,6 +9,9 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Aichi.svg"
+relatedIndustry:
+  - "/industry/japan-pottery/"
+  - "/industry/japan-combinat/"
 ---
 
 <div class="pref-tips">

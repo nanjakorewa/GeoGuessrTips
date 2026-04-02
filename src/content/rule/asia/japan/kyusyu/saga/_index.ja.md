@@ -8,6 +8,9 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Saga.svg"
+relatedIndustry:
+  - "/industry/japan-pottery/"
+  - "/industry/japan-semiconductor/kyushu/"
 ---
 
 <div class="pref-tips">

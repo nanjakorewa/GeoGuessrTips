@@ -140,6 +140,9 @@ const ruleCollection = defineCollection({
     Post: z.string().optional(),
     head: z.string().optional(),
 
+    // Related industry pages (cross-collection links)
+    relatedIndustry: z.array(z.string()).optional(),
+
     // Misc
     bgf: z.boolean().optional().default(false),
     author: z.string().optional(),

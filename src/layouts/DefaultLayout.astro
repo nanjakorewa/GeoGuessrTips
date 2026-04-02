@@ -188,6 +188,33 @@ const siblings = data.flag
     )
   : [];
 
+// --- Related industry pages ---
+const relatedIndustryLinks: { title: string; subtitle?: string; url: string }[] = [];
+if (data.relatedIndustry && data.relatedIndustry.length > 0) {
+  const industryEntries = await getCollection("industry");
+  for (const path of data.relatedIndustry) {
+    // path is like "/industry/japan-combinat/keiyo/" — strip leading/trailing slashes and "industry/"
+    const slug = path.replace(/^\/?(industry\/)?/, "").replace(/\/$/, "");
+    // Find matching entry in the industry collection (prefer same lang, fallback to ja)
+    const match = industryEntries.find((e: any) => {
+      const eSlug = extractSlugFromId(e.id);
+      const eLang = extractLangFromId(e.id);
+      return eSlug === slug && eLang === lang;
+    }) || industryEntries.find((e: any) => {
+      const eSlug = extractSlugFromId(e.id);
+      const eLang = extractLangFromId(e.id);
+      return eSlug === slug && eLang === "ja";
+    });
+    if (match) {
+      relatedIndustryLinks.push({
+        title: (match as any).data.title,
+        subtitle: (match as any).data.subtitle,
+        url: buildUrl("industry", slug, lang),
+      });
+    }
+  }
+}
+
 // --- Parent title for "Countries in ..." ---
 const slugParts = currentSlug.split("/");
 let parentTitle = "";
@@ -505,10 +532,32 @@ const lastmodDisplay = modifiedTime
                 )}
                 <slot />
 
+                {/* Related industry pages */}
+                {relatedIndustryLinks.length > 0 && (
+                  <div class="main-information">
+                    <h4 class="section-title">
+                      <i class="fas fa-industry"></i>
+                      {lang === "ja"
+                        ? " 関連する産業ページ"
+                        : " Related Industry Pages"}
+                    </h4>
+                    <ul class="info-list">
+                      {relatedIndustryLinks.map((link) => (
+                        <li>
+                          <a href={link.url}>
+                            {link.title}
+                            {link.subtitle && <span class="related-industry-subtitle"> — {link.subtitle}</span>}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+
                 {/* Related sites (country pages with flag) */}
                 {data.flag && !data.no_rel_site && (
                   <div class="main-information">
-                    <h4 class="section-title"><Fragment set:html={t("rel-site", lang)} /></h4>
+                    <h4 class="section-title"><i class="fas fa-book"></i> <Fragment set:html={t("rel-site", lang)} /></h4>
                     <ul class="info-list">
                       <li><a href={`https://ja.wikipedia.org/wiki/${data.title}`}>{data.title} (wikipedia)</a></li>
                       {data.plonkit && (

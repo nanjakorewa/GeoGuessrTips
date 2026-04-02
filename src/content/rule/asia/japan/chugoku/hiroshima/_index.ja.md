@@ -8,6 +8,10 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Hiroshima.svg"
+relatedIndustry:
+  - "/industry/japan-shipbuilding/"
+  - "/industry/japan-industrial-zones/setouchi/"
+  - "/industry/japan-semiconductor/"
 ---
 
 <div class="pref-tips">

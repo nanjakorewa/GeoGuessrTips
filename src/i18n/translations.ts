@@ -107,11 +107,11 @@ export const translations: Record<string, Record<Language, string>> = {
     pt: "Características do país / região",
   },
   "rel-site": {
-    ja: "関連ページ",
-    en: "Related Pages",
-    id: "Halaman Terkait",
-    es: "Related Pages",
-    pt: "Páginas relacionadas",
+    ja: "参考ページ",
+    en: "Reference Pages",
+    id: "Halaman Referensi",
+    es: "Páginas de referencia",
+    pt: "Páginas de referência",
   },
   "rule-of-distinguish": {
     ja: "の国や地域の判別ルール",

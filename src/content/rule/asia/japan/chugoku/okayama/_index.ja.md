@@ -8,6 +8,10 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Okayama.svg"
+relatedIndustry:
+  - "/industry/japan-combinat/mizushima/"
+  - "/industry/japan-industrial-zones/setouchi/"
+  - "/industry/japan-pottery/"
 ---
 
 <div class="pref-tips">

@@ -872,6 +872,12 @@ h2[id] {
   color: var(--primary-hover);
 }
 
+.related-industry-subtitle {
+  font-weight: 400;
+  font-size: 0.88em;
+  color: var(--text-muted, #6b7280);
+}
+
 .site-navbar {
   background: rgba(255, 252, 252, 0.92);
   border-bottom: 1px solid var(--border-soft);

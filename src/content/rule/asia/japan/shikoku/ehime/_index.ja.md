@@ -8,6 +8,11 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Ehime.svg"
+relatedIndustry:
+  - "/industry/japan-shipbuilding/"
+  - "/industry/japan-industrial-zones/setouchi/"
+  - "/industry/japan-stockpile/"
+  - "/industry/japan-pottery/"
 ---
 
 <div class="pref-tips">

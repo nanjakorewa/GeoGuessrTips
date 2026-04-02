@@ -9,6 +9,10 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Chiba.svg"
+relatedIndustry:
+  - "/industry/japan-combinat/keiyo/"
+  - "/industry/japan-food-combinat/"
+  - "/industry/japan-shipbuilding/"
 ---
 
 <div class="pref-tips">

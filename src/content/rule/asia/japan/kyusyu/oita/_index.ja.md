@@ -8,6 +8,9 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Oita.svg"
+relatedIndustry:
+  - "/industry/japan-semiconductor/kyushu/"
+  - "/industry/japan-combinat/"
 ---
 
 <div class="pref-tips">

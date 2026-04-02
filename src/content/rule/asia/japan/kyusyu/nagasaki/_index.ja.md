@@ -8,6 +8,10 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Nagasaki.svg"
+relatedIndustry:
+  - "/industry/japan-shipbuilding/"
+  - "/industry/japan-semiconductor/kyushu/"
+  - "/industry/japan-stockpile/"
 ---
 
 <div class="pref-tips">

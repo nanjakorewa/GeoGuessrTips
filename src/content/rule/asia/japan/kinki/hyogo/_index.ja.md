@@ -9,6 +9,10 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Hyogo.svg"
+relatedIndustry:
+  - "/industry/japan-shipbuilding/"
+  - "/industry/japan-industrial-zones/setouchi/"
+  - "/industry/japan-food-combinat/"
 ---
 
 <div class="pref-tips">

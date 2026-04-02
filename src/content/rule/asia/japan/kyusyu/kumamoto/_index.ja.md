@@ -9,6 +9,9 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Kumamoto.svg"
+relatedIndustry:
+  - "/industry/japan-semiconductor/kyushu/"
+  - "/industry/japan-semiconductor/"
 ---
 
 <div class="pref-tips">

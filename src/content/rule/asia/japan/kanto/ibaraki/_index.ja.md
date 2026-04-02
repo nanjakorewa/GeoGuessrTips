@@ -8,6 +8,10 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Ibaraki.svg"
+relatedIndustry:
+  - "/industry/japan-combinat/kashima/"
+  - "/industry/japan-industrial-zones/kashima/"
+  - "/industry/japan-stockpile/"
 ---
 
 <div class="pref-tips">
