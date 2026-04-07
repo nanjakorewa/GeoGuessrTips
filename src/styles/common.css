@@ -3419,3 +3419,13 @@ section.section-updates {
     font-size: 1rem;
   }
 }
+
+/* 11. Inline flag icons for country representations */
+.inline-flag {
+  display: inline-block;
+  vertical-align: -0.15em;
+  height: 1em;
+  width: auto;
+  margin: 0 0.15em;
+  border-radius: 1px;
+}

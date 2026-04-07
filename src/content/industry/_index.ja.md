@@ -52,10 +52,10 @@ card_image: "pipeline.jpg"
 | [🌍 世界の鉱業（メタル・マイニング）](/industry/world-mining/) | BHP・Rio Tinto・Vale・Glencoreなど資源メジャー、鉄鉱石・銅・リチウム・PGMの主要鉱山、LME価格指標 |
 | [🌍 世界の石油産業（上流・中流・下流）](/industry/world-oil/) | サウジアラムコ・ExxonMobil・ShellなどIOCとNOC、Vitol・Trafiguraなどトレーダー、Brent/WTI/Dubaiの油価指標 |
 | [🌍 世界の農産物・穀物トレード](/industry/world-agriculture/) | ABCD（Cargill・ADM・Bunge・LDC）+ COFCO、米コーンベルト・ブラジルセラード・黒海地域、CBOT先物 |
-| [🇿🇦 南アフリカの白金族・レアメタル鉱業](/industry/south-africa-mining/) | ブッシュフェルト火成岩体と世界プラチナ生産シェア約75%、Anglo American Platinum・Implatsなど主要企業 |
-| [🇹🇼 台湾の半導体産業](/industry/taiwan-semiconductor/) | TSMCを中心とする世界ファウンドリ約68%シェア、新竹・中部・南部の3大サイエンスパーク |
-| [🇹🇭 タイにおける日系企業の集積](/industry/thailand-japanese/) | 約6,000社の日系企業、Eastern Seaboard・EEC、トヨタ・いすゞ・ホンダなど自動車8社の工場群 |
-| [🇨🇱 チリの銅・リチウム鉱業](/industry/chile-mining/) | 世界最大の銅生産国（2024年550万トン）、Codelco・Escondida・Collahuasi、Salar de AtacamaのSQM/Albemarle |
+| [<img src="/flags/ZA.svg" alt="ZA" class="inline-flag" width="20" height="14" loading="lazy" /> 南アフリカの白金族・レアメタル鉱業](/industry/south-africa-mining/) | ブッシュフェルト火成岩体と世界プラチナ生産シェア約75%、Anglo American Platinum・Implatsなど主要企業 |
+| [<img src="/flags/TW.svg" alt="TW" class="inline-flag" width="20" height="14" loading="lazy" /> 台湾の半導体産業](/industry/taiwan-semiconductor/) | TSMCを中心とする世界ファウンドリ約68%シェア、新竹・中部・南部の3大サイエンスパーク |
+| [<img src="/flags/TH.svg" alt="TH" class="inline-flag" width="20" height="14" loading="lazy" /> タイにおける日系企業の集積](/industry/thailand-japanese/) | 約6,000社の日系企業、Eastern Seaboard・EEC、トヨタ・いすゞ・ホンダなど自動車8社の工場群 |
+| [<img src="/flags/CL.svg" alt="CL" class="inline-flag" width="20" height="14" loading="lazy" /> チリの銅・リチウム鉱業](/industry/chile-mining/) | 世界最大の銅生産国（2024年550万トン）、Codelco・Escondida・Collahuasi、Salar de AtacamaのSQM/Albemarle |
 
 ## 参考文献
 

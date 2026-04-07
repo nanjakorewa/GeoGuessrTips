@@ -201,7 +201,7 @@ galleryDir: "combinat"
 <tr>
 <td>旭化成</td>
 <td>{{% minkabu 3407 %}}</td>
-<td>水島を発祥・主力拠点とする総合化学メーカー。LIBセパレーターで世界シェア30〜40%。</td>
+<td>水島を発祥・主力拠点とする総合化学メーカー。LIBセパレーター（Hipore）の主要メーカーで、北米市場では約30%シェアを目標。</td>
 <td>{{% corplink "https://www.asahi-kasei.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3407" %}}</td>
 </tr>

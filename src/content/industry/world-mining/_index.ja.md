@@ -14,7 +14,7 @@ mapName: "world"
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">~2.17兆$</div><div class="stat-label">世界トップ50鉱山会社合計時価総額（2024年末）{{% cite "miningcom_top50" %}}}</div></div>
-<div class="stat-card"><div class="stat-num">~2.5億t</div><div class="stat-label">2024年 世界鉄鉱石生産量{{% cite "usgs_iron_ore_2025" %}}}</div></div>
+<div class="stat-card"><div class="stat-num">~25億t</div><div class="stat-label">2024年 世界鉄鉱石生産量{{% cite "usgs_iron_ore_2025" %}}}</div></div>
 <div class="stat-card"><div class="stat-num">~2,300万t</div><div class="stat-label">2024年 世界銅鉱石生産量{{% cite "copper_production_2024" %}}}</div></div>
 <div class="stat-card"><div class="stat-num">~120万t</div><div class="stat-label">2024年 世界リチウム生産量（炭酸リチウム換算）{{% cite "lithium_production_2024" %}}}</div></div>
 </div>

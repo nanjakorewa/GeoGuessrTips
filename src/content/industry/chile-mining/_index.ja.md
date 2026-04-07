@@ -153,7 +153,7 @@ mapName: "southAmerica"
 
 ### Codelco — 世界最大の銅生産企業
 
-**Codelco（Corporación Nacional del Cobre de Chile）**は1976年にピノチェト政権下で設立されたチリ国営銅会社で、Chuquicamata・El Teniente・Andina・Salvador・Ministro Hales・Radomiro Tomic・Gabriela Mistralの**8鉱山**を運営し、チリの銅生産の25〜30%、単独企業として世界最大級の銅生産者です。1971年のサルバドール・アジェンデ政権下で米系企業（Anaconda、Kennecott）の銅鉱山が国有化されたのが起源で、今もチリ政府100%所有です。近年は鉱床深度化と品位低下で生産が伸び悩み、2024年は**約132万8000トン**（自社操業分）または**約144万トン**（権益分を含む）を生産し、BHPと並ぶ世界最大級の銅生産企業として世界1位の座を維持しました{{% cite "miningweekly_codelco" %}}。
+**Codelco（Corporación Nacional del Cobre de Chile）**は1976年にピノチェト政権下で設立されたチリ国営銅会社で、Chuquicamata・El Teniente・Andina・Salvador・Ministro Hales・Radomiro Tomic・Gabriela Mistralの**7鉱業部門**を運営し、チリの銅生産の25〜30%、単独企業として世界最大級の銅生産者です。1971年のサルバドール・アジェンデ政権下で米系企業（Anaconda、Kennecott）の銅鉱山が国有化されたのが起源で、今もチリ政府100%所有です。近年は鉱床深度化と品位低下で生産が伸び悩み、2024年は**約132万8000トン**（自社操業分）または**約144万トン**（権益分を含む）を生産し、BHPと並ぶ世界最大級の銅生産企業として世界1位の座を維持しました{{% cite "miningweekly_codelco" %}}。
 
 ### 日本企業の関与
 
@@ -182,8 +182,8 @@ mapName: "southAmerica"
 
 | 企業 | 国 | チリ生産シェア | 概要 |
 | --- | --- | --- | --- |
-| **SQM（Sociedad Química y Minera de Chile）**| 🇨🇱 チリ | ~65% | 旧Soquimich、ピノチェト時代の婿ジュリオ・ポンセ・レロウ氏が支配。元々はナイトレート（硝石）会社でリチウム化合物・ヨウ素・カリ肥料も主要事業。NYSE: SQM{{% cite "sqm_company" %}} |
-| **Albemarle**| 🇺🇸 米国 | ~35% | 旧Rockwood Lithium買収（2015）。世界最大級のリチウム企業、米NC州本社。NYSE: ALB{{% cite "investingnews_lithium" %}} |
+| **SQM（Sociedad Química y Minera de Chile）**| <img src="/flags/CL.svg" alt="CL" class="inline-flag" width="20" height="14" loading="lazy" /> チリ | ~65% | 旧Soquimich、ピノチェト時代の婿ジュリオ・ポンセ・レロウ氏が支配。元々はナイトレート（硝石）会社でリチウム化合物・ヨウ素・カリ肥料も主要事業。NYSE: SQM{{% cite "sqm_company" %}} |
+| **Albemarle**| <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~35% | 旧Rockwood Lithium買収（2015）。世界最大級のリチウム企業、米NC州本社。NYSE: ALB{{% cite "investingnews_lithium" %}} |
 
 SQMはアタカマ操業から**2024年に201,000トンLCE（炭酸リチウム換算）**を生産し、世界のリチウム鉱山単一拠点としてトップ生産量を達成しました{{% cite "investingnews_lithium" %}}。
 

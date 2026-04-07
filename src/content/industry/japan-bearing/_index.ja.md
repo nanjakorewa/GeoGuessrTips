@@ -24,7 +24,7 @@ mapName: "japan"
 | 企業 | 設立 | 本社 | 特徴 |
 | --- | --- | --- | --- |
 | **NSK（日本精工、6471）**| 1916{{% cite "nsk_history" %}} | 東京・品川 | 国内最古、自動車向け輪軸受で世界トップ級。深溝玉軸受・テーパローラ・電動パワーステアリング（EPS）まで一貫 |
-| **NTN（6472）**| 1918（軸受製造開始）/ 1927{{% cite "ntn_history" %}}（NTN Mfg.設立） | 大阪・西区 | ドライブシャフト用CVJ（等速ジョイント）で世界トップ。自動車用ハブベアリング世界最大級 |
+| **NTN（6472）**| 1918（軸受製造開始）/ 1927{{% cite "ntn_history" %}}（NTN Mfg.設立） | 大阪・西区 | ドライブシャフト用CVJ（等速ジョイント）でGKNと並ぶ世界大手。自動車用ハブベアリング世界最大級 |
 | **JTEKT（6473）**| 2006{{% cite "jtekt_ir" %}}（光洋精工＋豊田工機合併）| 愛知・刈谷 | 旧光洋精工＋豊田工機の合併。トヨタグループ。EPS世界1位、テーパローラ・自動車用 |
 | **ミネベアミツミ（6479）**| 1951{{% cite "minebea_history" %}} | 長野・北佐久（軽井沢）/東京 | 小径ボールベアリング世界1位（HDD・小型モータ・OAレンジ）。家電・電子機器向けに圧倒的強み |
 | **NACHI不二越（6474）**| 1928{{% cite "nachi_history" %}} | 富山 | 工作機械主軸用・産業機械用、工具・ロボットも |
@@ -44,14 +44,14 @@ mapName: "japan"
 
 | メーカー | 国 | 強み |
 | --- | --- | --- |
-| **SKF** | 🇸🇪 スウェーデン（イエーテボリ） | 業界最古（1907年{{% cite "skf_history" %}}）、世界1位、産業機械・自動車 |
-| **Schaeffler**（旧FAG/INA含む）| 🇩🇪 ドイツ | 世界2位、自動車・産業機械、INAブランドも |
-| **NSK** | 🇯🇵 日本 | 世界3〜4位、自動車・EPS |
-| **NTN** | 🇯🇵 日本 | CVJ世界1位 |
-| **JTEKT** | 🇯🇵 日本 | EPS世界1位{{% cite "jtekt_eps" %}} |
-| **Timken** | 🇺🇸 米国 | テーパローラ世界トップ級 |
-| **Minebea Mitsumi** | 🇯🇵 日本 | 小径ベアリング世界1位 |
-| **C&U Group** / **ZWZ** | 🇨🇳 中国 | 中国最大級、低中価格帯 |
+| **SKF** | <img src="/flags/SE.svg" alt="SE" class="inline-flag" width="20" height="14" loading="lazy" /> スウェーデン（イエーテボリ） | 業界最古（1907年{{% cite "skf_history" %}}）、世界1位、産業機械・自動車 |
+| **Schaeffler**（旧FAG/INA含む）| <img src="/flags/DE.svg" alt="DE" class="inline-flag" width="20" height="14" loading="lazy" /> ドイツ | 世界2位、自動車・産業機械、INAブランドも |
+| **NSK** | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 日本 | 世界3〜4位、自動車・EPS |
+| **NTN** | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 日本 | CVJ・ハブベアリング世界大手 |
+| **JTEKT** | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 日本 | EPS世界1位{{% cite "jtekt_eps" %}} |
+| **Timken** | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | テーパローラ世界トップ級 |
+| **Minebea Mitsumi** | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 日本 | 小径ベアリング世界1位 |
+| **C&U Group** / **ZWZ** | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | 中国最大級、低中価格帯 |
 
 ## 日本でのベアリング工場の地理的特徴
 

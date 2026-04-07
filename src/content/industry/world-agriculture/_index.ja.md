@@ -23,11 +23,11 @@ mapName: "world"
 
 | 略称 | 企業 | 設立 | 本拠地 | 売上（概算）| 上場 |
 | --- | --- | --- | --- | --- | --- |
-| A | Archer Daniels Midland（ADM）| 1902 | 🇺🇸 イリノイ州シカゴ | ~$68B | NYSE: ADM |
-| B | Bunge Global SA | 1818 | 🇺🇸 ミネソタ州（スイス登録）| ~$60B | NYSE: BG |
-| C | Cargill | 1865 | 🇺🇸 ミネソタ州ミネアポリス | ~$160B | **非公開**（家族経営、米国最大の非公開企業）|
-| D | Louis Dreyfus Company（LDC）| 1851 | 🇳🇱 ロッテルダム | ~$56B | 非公開 |
-| C | COFCO International | 1949 | 🇨🇳 北京 | ~$70B | 非公開（国有）|
+| A | Archer Daniels Midland（ADM）| 1902 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> イリノイ州シカゴ | ~$68B | NYSE: ADM |
+| B | Bunge Global SA | 1818 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> ミネソタ州（スイス登録）| ~$60B | NYSE: BG |
+| C | Cargill | 1865 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> ミネソタ州ミネアポリス | ~$160B | **非公開**（家族経営、米国最大の非公開企業）|
+| D | Louis Dreyfus Company（LDC）| 1851 | <img src="/flags/NL.svg" alt="NL" class="inline-flag" width="20" height="14" loading="lazy" /> ロッテルダム | ~$56B | 非公開 |
+| C | COFCO International | 1949 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 北京 | ~$70B | 非公開（国有）|
 
 > **2024年Bunge × Viterra合併** : 2024年にBungeがGlencore傘下のViterraを買収し、合計売上で**Cargillに次ぐ世界2位** の穀物商社となりました。
 
@@ -37,11 +37,11 @@ mapName: "world"
 
 | 順位 | 生産国 | 生産量 | 輸出国 | 輸出量 |
 | --- | --- | --- | --- | --- |
-| 1 | 🇨🇳 中国 | ~1.4億t | 🇷🇺 ロシア | ~5,000万t |
-| 2 | 🇮🇳 インド | ~1.1億t | 🇺🇸 米国 | ~2,500万t |
-| 3 | 🇷🇺 ロシア | ~9,000万t | 🇨🇦 カナダ | ~2,500万t |
-| 4 | 🇺🇸 米国 | ~5,000万t | 🇫🇷 フランス（EU）| ~2,000万t |
-| 5 | 🇨🇦 カナダ | ~3,500万t | 🇦🇺 オーストラリア | ~2,000万t |
+| 1 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | ~1.4億t | <img src="/flags/RU.svg" alt="RU" class="inline-flag" width="20" height="14" loading="lazy" /> ロシア | ~5,000万t |
+| 2 | <img src="/flags/IN.svg" alt="IN" class="inline-flag" width="20" height="14" loading="lazy" /> インド | ~1.1億t | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~2,500万t |
+| 3 | <img src="/flags/RU.svg" alt="RU" class="inline-flag" width="20" height="14" loading="lazy" /> ロシア | ~9,000万t | <img src="/flags/CA.svg" alt="CA" class="inline-flag" width="20" height="14" loading="lazy" /> カナダ | ~2,500万t |
+| 4 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~5,000万t | <img src="/flags/FR.svg" alt="FR" class="inline-flag" width="20" height="14" loading="lazy" /> フランス（EU）| ~2,000万t |
+| 5 | <img src="/flags/CA.svg" alt="CA" class="inline-flag" width="20" height="14" loading="lazy" /> カナダ | ~3,500万t | <img src="/flags/AU.svg" alt="AU" class="inline-flag" width="20" height="14" loading="lazy" /> オーストラリア | ~2,000万t |
 
 ロシアは2010年代後半から世界最大の小麦輸出国となりました{{% cite "usda_psd" %}}。
 
@@ -51,11 +51,11 @@ mapName: "world"
 
 | 順位 | 国 | 役割 |
 | --- | --- | --- |
-| 1 | 🇺🇸 米国 | 世界最大の生産・輸出（コーンベルト：アイオワ・イリノイ・ネブラスカ）|
-| 2 | 🇨🇳 中国 | 最大の輸入国でもある |
-| 3 | 🇧🇷 ブラジル | サフリーニャ生産で輸出急増 |
-| 4 | 🇦🇷 アルゼンチン | パンパで生産・輸出 |
-| 5 | 🇺🇦 ウクライナ | 黒海経由でEU・中東向け輸出 |
+| 1 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | 世界最大の生産・輸出（コーンベルト：アイオワ・イリノイ・ネブラスカ）|
+| 2 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | 最大の輸入国でもある |
+| 3 | <img src="/flags/BR.svg" alt="BR" class="inline-flag" width="20" height="14" loading="lazy" /> ブラジル | サフリーニャ生産で輸出急増 |
+| 4 | <img src="/flags/AR.svg" alt="AR" class="inline-flag" width="20" height="14" loading="lazy" /> アルゼンチン | パンパで生産・輸出 |
+| 5 | <img src="/flags/UA.svg" alt="UA" class="inline-flag" width="20" height="14" loading="lazy" /> ウクライナ | 黒海経由でEU・中東向け輸出 |
 
 ### 大豆（Soybean）
 
@@ -63,10 +63,10 @@ mapName: "world"
 
 | 順位 | 生産国 | 生産量（24/25）| 主要産地 |
 | --- | --- | --- | --- |
-| 1 | 🇧🇷 ブラジル | ~1.7億t | マトグロッソ州、パラナ州 |
-| 2 | 🇺🇸 米国 | ~1.2億t | アイオワ、イリノイ、ミネソタ |
-| 3 | 🇦🇷 アルゼンチン | ~5,000万t | パンパ |
-| 4 | 🇨🇳 中国 | ~2,000万t | 東北三省 |
+| 1 | <img src="/flags/BR.svg" alt="BR" class="inline-flag" width="20" height="14" loading="lazy" /> ブラジル | ~1.7億t | マトグロッソ州、パラナ州 |
+| 2 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~1.2億t | アイオワ、イリノイ、ミネソタ |
+| 3 | <img src="/flags/AR.svg" alt="AR" class="inline-flag" width="20" height="14" loading="lazy" /> アルゼンチン | ~5,000万t | パンパ |
+| 4 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | ~2,000万t | 東北三省 |
 
 ブラジル・マトグロッソ州は2010年代以降急速にセラード（サバンナ）開発が進み{{% cite "jetro_agri" %}}、**単一州で米国全体の半分の大豆を生産** するまでに成長しました。
 

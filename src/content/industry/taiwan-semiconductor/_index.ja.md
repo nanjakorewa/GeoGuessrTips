@@ -147,8 +147,8 @@ mapName: "taiwan"
 | Fab 15 | 中部サイエンスパーク（台中）| 28〜10nm | 中部{{% cite "tsmc_fabs" %}} |
 | Fab 16 | 南京 | 16/12nm | 中国本土{{% cite "tsmc_fabs" %}} |
 | Fab 21 | 米国アリゾナ州フェニックス | N4/N3 | CHIPS法支援、N4は2024年Q4量産開始{{% cite "tsmc_arizona" %}}、N3は2027年後半量産予定{{% cite "tsmc_arizona" %}} |
-| Fab Kumamoto | 🇯🇵 熊本県菊陽町 | 28/22nm, 16/12nm | JASM{{% cite "jasm" %}}、ソニー・デンソー・トヨタ出資。第1工場2024年量産、第2工場建設中 |
-| Fab Dresden | 🇩🇪 ドイツ・ドレスデン | 28/22nm, 16/12nm | ESMC{{% cite "esmc" %}}、Bosch・Infineon・NXPと合弁 |
+| Fab Kumamoto | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 熊本県菊陽町 | 28/22nm, 16/12nm | JASM{{% cite "jasm" %}}、ソニー・デンソー・トヨタ出資。第1工場2024年量産、第2工場建設中 |
+| Fab Dresden | <img src="/flags/DE.svg" alt="DE" class="inline-flag" width="20" height="14" loading="lazy" /> ドイツ・ドレスデン | 28/22nm, 16/12nm | ESMC{{% cite "esmc" %}}、Bosch・Infineon・NXPと合弁 |
 
 ## 台湾の3大サイエンスパーク
 

@@ -40,21 +40,21 @@ mapName: "world"
 
 | 順位 | 企業 | 区分 | 本拠地 | 時価総額 | 上流生産（万b/d）| 製油能力（万b/d）|
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Saudi Aramco | NOC・統合 | 🇸🇦 サウジアラビア | ~$1.56T | ~1,200 | ~620 |
-| 2 | ExxonMobil | IOC・統合 | 🇺🇸 米国 | ~$500B超 | ~440 | ~440 |
-| 3 | Chevron | IOC・統合 | 🇺🇸 米国 | ~$250B | ~330 | ~180 |
-| 4 | Shell | IOC・統合 | 🇬🇧 英国 | ~$210B | ~280 | ~140 |
-| 5 | TotalEnergies | IOC・統合 | 🇫🇷 仏 | ~$135B | ~250 | ~190 |
-| 6 | PetroChina（中国石油）| NOC・統合 | 🇨🇳 中国 | ~$220B | ~440 | ~530 |
-| 7 | Sinopec（中国石化）| NOC・下流主体 | 🇨🇳 中国 | ~$95B | ~80 | ~600 |
-| 8 | BP | IOC・統合 | 🇬🇧 英国 | ~$110B | ~230 | ~170 |
-| 9 | Petrobras | NOC・上流主体 | 🇧🇷 ブラジル | ~$95B | ~270 | ~180 |
-| 10 | Eni | IOC・統合 | 🇮🇹 伊 | ~$55B | ~170 | ~50 |
-| 11 | Equinor | NOC・統合 | 🇳🇴 ノルウェー | ~$80B | ~200 | ~30 |
-| 12 | ConocoPhillips | 独立系E&P | 🇺🇸 米国 | ~$130B | ~190 | — |
-| 13 | EOG Resources | 独立系E&P | 🇺🇸 米国 | ~$70B | ~100 | — |
-| 14 | Marathon Petroleum | 下流専業 | 🇺🇸 米国 | ~$60B | — | ~300 |
-| 15 | Valero Energy | 下流専業 | 🇺🇸 米国 | ~$50B | — | ~320 |
+| 1 | Saudi Aramco | NOC・統合 | <img src="/flags/SA.svg" alt="SA" class="inline-flag" width="20" height="14" loading="lazy" /> サウジアラビア | ~$1.56T | ~1,200 | ~620 |
+| 2 | ExxonMobil | IOC・統合 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$500B超 | ~440 | ~440 |
+| 3 | Chevron | IOC・統合 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$250B | ~330 | ~180 |
+| 4 | Shell | IOC・統合 | <img src="/flags/GB.svg" alt="GB" class="inline-flag" width="20" height="14" loading="lazy" /> 英国 | ~$210B | ~280 | ~140 |
+| 5 | TotalEnergies | IOC・統合 | <img src="/flags/FR.svg" alt="FR" class="inline-flag" width="20" height="14" loading="lazy" /> 仏 | ~$135B | ~250 | ~190 |
+| 6 | PetroChina（中国石油）| NOC・統合 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | ~$220B | ~440 | ~530 |
+| 7 | Sinopec（中国石化）| NOC・下流主体 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | ~$95B | ~80 | ~600 |
+| 8 | BP | IOC・統合 | <img src="/flags/GB.svg" alt="GB" class="inline-flag" width="20" height="14" loading="lazy" /> 英国 | ~$110B | ~230 | ~170 |
+| 9 | Petrobras | NOC・上流主体 | <img src="/flags/BR.svg" alt="BR" class="inline-flag" width="20" height="14" loading="lazy" /> ブラジル | ~$95B | ~270 | ~180 |
+| 10 | Eni | IOC・統合 | <img src="/flags/IT.svg" alt="IT" class="inline-flag" width="20" height="14" loading="lazy" /> 伊 | ~$55B | ~170 | ~50 |
+| 11 | Equinor | NOC・統合 | <img src="/flags/NO.svg" alt="NO" class="inline-flag" width="20" height="14" loading="lazy" /> ノルウェー | ~$80B | ~200 | ~30 |
+| 12 | ConocoPhillips | 独立系E&P | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$130B | ~190 | — |
+| 13 | EOG Resources | 独立系E&P | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$70B | ~100 | — |
+| 14 | Marathon Petroleum | 下流専業 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$60B | — | ~300 |
+| 15 | Valero Energy | 下流専業 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$50B | — | ~320 |
 
 {{% cite "companiesmarketcap_oil" %}}（2025年中の概算）
 
@@ -64,17 +64,17 @@ mapName: "world"
 
 | NOC | 国 | 特徴 |
 | --- | --- | --- |
-| Saudi Aramco | 🇸🇦 サウジ | 世界最大、Ghawar超巨大油田保有、2019年IPO（株式の約2%） |
-| ADNOC | 🇦🇪 UAE | 上流〜下流〜海運〜石化を子会社IPOで分離上場 |
-| QatarEnergy | 🇶🇦 カタール | LNG世界最大級（North Field East/South拡張） |
-| KPC | 🇰🇼 クウェート | Burgan油田（世界2位） |
-| NIOC | 🇮🇷 イラン | 世界最大級埋蔵量だが制裁下 |
-| Petrobras | 🇧🇷 ブラジル | プレソルト深海油田で世界トップ級 |
-| Pemex | 🇲🇽 メキシコ | 過剰債務で財務危機 |
-| Sonatrach | 🇩🇿 アルジェリア | 欧州向けガスパイプライン |
-| NNPC | 🇳🇬 ナイジェリア | 2022年商業会社化 |
-| Equinor | 🇳🇴 ノルウェー | 国家67%所有、洋上風力にも展開 |
-| PetroChina/Sinopec/CNOOC | 🇨🇳 中国 | 中国3大、上場 |
+| Saudi Aramco | <img src="/flags/SA.svg" alt="SA" class="inline-flag" width="20" height="14" loading="lazy" /> サウジ | 世界最大、Ghawar超巨大油田保有、2019年IPO（株式の約2%） |
+| ADNOC | <img src="/flags/AE.svg" alt="AE" class="inline-flag" width="20" height="14" loading="lazy" /> UAE | 上流〜下流〜海運〜石化を子会社IPOで分離上場 |
+| QatarEnergy | <img src="/flags/QA.svg" alt="QA" class="inline-flag" width="20" height="14" loading="lazy" /> カタール | LNG世界最大級（North Field East/South拡張） |
+| KPC | <img src="/flags/KW.svg" alt="KW" class="inline-flag" width="20" height="14" loading="lazy" /> クウェート | Burgan油田（世界2位） |
+| NIOC | <img src="/flags/IR.svg" alt="IR" class="inline-flag" width="20" height="14" loading="lazy" /> イラン | 世界最大級埋蔵量だが制裁下 |
+| Petrobras | <img src="/flags/BR.svg" alt="BR" class="inline-flag" width="20" height="14" loading="lazy" /> ブラジル | プレソルト深海油田で世界トップ級 |
+| Pemex | <img src="/flags/MX.svg" alt="MX" class="inline-flag" width="20" height="14" loading="lazy" /> メキシコ | 過剰債務で財務危機 |
+| Sonatrach | <img src="/flags/DZ.svg" alt="DZ" class="inline-flag" width="20" height="14" loading="lazy" /> アルジェリア | 欧州向けガスパイプライン |
+| NNPC | <img src="/flags/NG.svg" alt="NG" class="inline-flag" width="20" height="14" loading="lazy" /> ナイジェリア | 2022年商業会社化 |
+| Equinor | <img src="/flags/NO.svg" alt="NO" class="inline-flag" width="20" height="14" loading="lazy" /> ノルウェー | 国家67%所有、洋上風力にも展開 |
+| PetroChina/Sinopec/CNOOC | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | 中国3大、上場 |
 
 ## 中流（Midstream）— 独立系トレーダー
 
@@ -95,14 +95,14 @@ mapName: "world"
 
 | 製油所/拠点 | 国 | 運営 | 能力 |
 | --- | --- | --- | --- |
-| Jamnagar Refinery | 🇮🇳 インド | Reliance Industries | ~124万b/d（世界最大級）{{% cite "jamnagar_wiki" %}} |
-| Paraguaná Refining Center | 🇻🇪 ベネズエラ | PDVSA | ~95万b/d（事実上一部停止） |
-| Ulsan Refinery | 🇰🇷 韓国 | SK Energy | ~84万b/d |
-| Yeosu Refinery | 🇰🇷 韓国 | GS Caltex | ~80万b/d |
-| Onsan Refinery | 🇰🇷 韓国 | S-Oil | ~67万b/d |
-| Ras Tanura | 🇸🇦 サウジ | Saudi Aramco | ~55万b/d |
-| Port Arthur | 🇺🇸 米国 | Motiva（Aramco子会社） | ~63万b/d |
-| Galveston Bay | 🇺🇸 米国 | Marathon | ~63万b/d |
+| Jamnagar Refinery | <img src="/flags/IN.svg" alt="IN" class="inline-flag" width="20" height="14" loading="lazy" /> インド | Reliance Industries | ~124万b/d（世界最大級）{{% cite "jamnagar_wiki" %}} |
+| Paraguaná Refining Center | <img src="/flags/VE.svg" alt="VE" class="inline-flag" width="20" height="14" loading="lazy" /> ベネズエラ | PDVSA | ~95万b/d（事実上一部停止） |
+| Ulsan Refinery | <img src="/flags/KR.svg" alt="KR" class="inline-flag" width="20" height="14" loading="lazy" /> 韓国 | SK Energy | ~84万b/d |
+| Yeosu Refinery | <img src="/flags/KR.svg" alt="KR" class="inline-flag" width="20" height="14" loading="lazy" /> 韓国 | GS Caltex | ~80万b/d |
+| Onsan Refinery | <img src="/flags/KR.svg" alt="KR" class="inline-flag" width="20" height="14" loading="lazy" /> 韓国 | S-Oil | ~67万b/d |
+| Ras Tanura | <img src="/flags/SA.svg" alt="SA" class="inline-flag" width="20" height="14" loading="lazy" /> サウジ | Saudi Aramco | ~55万b/d |
+| Port Arthur | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | Motiva（Aramco子会社） | ~63万b/d |
+| Galveston Bay | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | Marathon | ~63万b/d |
 
 ナフサや軽質ガスから石油化学（エチレン・プロピレン・芳香族）が作られ、SinopecやSABIC、Reliance、INEOS、Dow、ExxonMobil Chemical、TotalEnergiesなどが世界トップの石化メーカーです。
 
