@@ -116,7 +116,7 @@ mapName: "taiwan"
 
 ## なぜ台湾が半導体の中心なのか
 
-台湾は世界の**ファウンドリ（受託製造）**の**約65〜68%**を生産し、**最先端ノード（7nm以下）に限れば約90%**が台湾に集中しています{{% cite "trendforce_foundry" %}}。中核企業の**TSMC（台湾積体電路製造）**は世界ファウンドリシェア**約70%**（2025年）を持つ単独首位で、Apple、NVIDIA、AMD、Qualcomm、Broadcomなどの主要半導体ファブレス企業はすべてTSMCの主要顧客です。
+台湾は世界の<span style="font-weight:700">ファウンドリ（受託製造）</span>の<span style="font-weight:700">約65〜68%</span>を生産し、<span style="font-weight:700">最先端ノード（7nm以下）に限れば約90%</span>が台湾に集中しています{{% cite "trendforce_foundry" %}}。中核企業の<span style="font-weight:700">TSMC（台湾積体電路製造）</span>は世界ファウンドリシェア<span style="font-weight:700">約70%</span>（2025年）を持つ単独首位で、Apple、NVIDIA、AMD、Qualcomm、Broadcomなどの主要半導体ファブレス企業はすべてTSMCの主要顧客です。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">~68%</div><div class="stat-label">世界ファウンドリ生産シェア（台湾）</div></div>
@@ -127,7 +127,7 @@ mapName: "taiwan"
 
 ## TSMC — 世界の半導体製造の心臓部
 
-**TSMC（Taiwan Semiconductor Manufacturing Company、台湾積体電路製造）**は1987年に**モリス・チャン**博士によって設立された{{% cite "tsmc_ir" %}}世界初のピュアプレイ・ファウンドリです。それまで「半導体は設計と製造を一体で行う（IDM）」のが常識だった業界に「**製造専業**」というビジネスモデルを持ち込み、**ファブレス／ファウンドリ分業**という業界構造そのものを生み出しました。
+<span style="font-weight:700">TSMC（Taiwan Semiconductor Manufacturing Company、台湾積体電路製造）</span>は1987年に<span style="font-weight:700">モリス・チャン</span>博士によって設立された{{% cite "tsmc_ir" %}}世界初のピュアプレイ・ファウンドリです。それまで「半導体は設計と製造を一体で行う（IDM）」のが常識だった業界に「<span style="font-weight:700">製造専業</span>」というビジネスモデルを持ち込み、<span style="font-weight:700">ファブレス／ファウンドリ分業</span>という業界構造そのものを生み出しました。
 
 | 指標 | 値 |
 | --- | --- |
@@ -154,11 +154,11 @@ mapName: "taiwan"
 
 | サイエンスパーク | 設立 | 主要企業 | 強み |
 | --- | --- | --- | --- |
-| **新竹科学園区**（Hsinchu Science Park）| 1980{{% cite "hspc_about" %}} | TSMC本社・Fab12, UMC, MediaTek, Realtek, Macronix | 研究開発・本社機能・先端ノード |
-| **中部科学園区**（Central Taiwan Science Park）| 2003{{% cite "ctsp_about" %}} | TSMC Fab15, Micron台湾, AUO, Mediatek中部 | DRAM・先端ロジック |
-| **南部科学園区**（Southern Taiwan Science Park）| 1996{{% cite "stsp_about" %}} | TSMC Fab14/18, Innolux, Wistron, ASE | 先端ロジック量産・パネル |
+| <span style="font-weight:700">新竹科学園区</span>（Hsinchu Science Park）| 1980{{% cite "hspc_about" %}} | TSMC本社・Fab12, UMC, MediaTek, Realtek, Macronix | 研究開発・本社機能・先端ノード |
+| <span style="font-weight:700">中部科学園区</span>（Central Taiwan Science Park）| 2003{{% cite "ctsp_about" %}} | TSMC Fab15, Micron台湾, AUO, Mediatek中部 | DRAM・先端ロジック |
+| <span style="font-weight:700">南部科学園区</span>（Southern Taiwan Science Park）| 1996{{% cite "stsp_about" %}} | TSMC Fab14/18, Innolux, Wistron, ASE | 先端ロジック量産・パネル |
 
-新竹は「**台湾のシリコンバレー**」 と呼ばれ、隣接する**国立陽明交通大学** ・**国立清華大学** ・**ITRI（工業技術研究院）** {{% cite "itri_about" %}}との産学連携が強みです。
+新竹は「<span style="font-weight:700">台湾のシリコンバレー</span>」 と呼ばれ、隣接する<span style="font-weight:700">国立陽明交通大学</span> ・<span style="font-weight:700">国立清華大学</span> ・<span style="font-weight:700">ITRI（工業技術研究院）</span> {{% cite "itri_about" %}}との産学連携が強みです。
 
 ## 台湾の主要半導体企業
 
@@ -180,11 +180,11 @@ mapName: "taiwan"
 
 ## 装置・材料サプライヤーの台湾拠点
 
-世界の半導体製造装置メーカー（**ASML**, **Applied Materials**, **Lam Research**, **Tokyo Electron**, **KLA**）と材料メーカー（**Shin-Etsu**, **SUMCO**, **JSR**, **TOK**, **信越化学**, **Linde**）はすべて台湾に大規模な現地法人・サービス拠点を構えています。特にオランダの**ASML**は新竹・台南に研修センターを置き、EUV装置の現地サポート体制を強化しています。
+世界の半導体製造装置メーカー（<span style="font-weight:700">ASML</span>, <span style="font-weight:700">Applied Materials</span>, <span style="font-weight:700">Lam Research</span>, <span style="font-weight:700">Tokyo Electron</span>, <span style="font-weight:700">KLA</span>）と材料メーカー（<span style="font-weight:700">Shin-Etsu</span>, <span style="font-weight:700">SUMCO</span>, <span style="font-weight:700">JSR</span>, <span style="font-weight:700">TOK</span>, <span style="font-weight:700">信越化学</span>, <span style="font-weight:700">Linde</span>）はすべて台湾に大規模な現地法人・サービス拠点を構えています。特にオランダの<span style="font-weight:700">ASML</span>は新竹・台南に研修センターを置き、EUV装置の現地サポート体制を強化しています。
 
 ## 地政学リスクと「シリコン・シールド」
 
-台湾の半導体集中は世界経済の単一障害点であると同時に、**「シリコン・シールド」**として米中対立・両岸関係における台湾の戦略的重要性の根拠ともなっています。これに対し米国は**CHIPS法**（2022年、530億ドル）{{% cite "chips_act" %}}でTSMCのアリゾナ進出を支援、日本は**経済安全保障法**で熊本のJASM{{% cite "jasm" %}}に約1兆円規模の補助金を投じ、ドイツも**ESMC**の建設を補助しています。
+台湾の半導体集中は世界経済の単一障害点であると同時に、<span style="font-weight:700">「シリコン・シールド」</span>として米中対立・両岸関係における台湾の戦略的重要性の根拠ともなっています。これに対し米国は<span style="font-weight:700">CHIPS法</span>（2022年、530億ドル）{{% cite "chips_act" %}}でTSMCのアリゾナ進出を支援、日本は<span style="font-weight:700">経済安全保障法</span>で熊本のJASM{{% cite "jasm" %}}に約1兆円規模の補助金を投じ、ドイツも<span style="font-weight:700">ESMC</span>の建設を補助しています。
 
 ## 台湾半導体企業の時価総額マップ
 

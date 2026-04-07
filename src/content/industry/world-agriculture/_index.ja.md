@@ -10,7 +10,7 @@ mapName: "world"
 
 ## 世界の穀物トレードの概観
 
-世界の穀物・油糧種子貿易は**「ABCD」**と呼ばれる4大穀物商社（**A**rcher Daniels Midland、**B**unge、**C**argill、**L**ouis **D**reyfus Company）に加え、近年急成長した中国国営の**COFCO**を含めた5社が**世界貿易量の60〜70%**{{% cite "oxfam_grain_traders" %}}を扱うとされます{{% cite "farm_action_concentration" %}}。これらは農場〜内陸エレベーター〜輸出ターミナル〜海上輸送〜製粉/搾油〜家畜飼料/食品加工までバリューチェーンを垂直統合しています。
+世界の穀物・油糧種子貿易は<span style="font-weight:700">「ABCD」</span>と呼ばれる4大穀物商社（<span style="font-weight:700">A</span>rcher Daniels Midland、<span style="font-weight:700">B</span>unge、<span style="font-weight:700">C</span>argill、<span style="font-weight:700">L</span>ouis <span style="font-weight:700">D</span>reyfus Company）に加え、近年急成長した中国国営の<span style="font-weight:700">COFCO</span>を含めた5社が<span style="font-weight:700">世界貿易量の60〜70%</span>{{% cite "oxfam_grain_traders" %}}を扱うとされます{{% cite "farm_action_concentration" %}}。これらは農場〜内陸エレベーター〜輸出ターミナル〜海上輸送〜製粉/搾油〜家畜飼料/食品加工までバリューチェーンを垂直統合しています。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">~28億t</div><div class="stat-label">2024/25年度 世界穀物生産量（FAO）</div></div>
@@ -25,11 +25,11 @@ mapName: "world"
 | --- | --- | --- | --- | --- | --- |
 | A | Archer Daniels Midland（ADM）| 1902 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> イリノイ州シカゴ | ~$68B | NYSE: ADM |
 | B | Bunge Global SA | 1818 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> ミネソタ州（スイス登録）| ~$60B | NYSE: BG |
-| C | Cargill | 1865 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> ミネソタ州ミネアポリス | ~$160B | **非公開**（家族経営、米国最大の非公開企業）|
+| C | Cargill | 1865 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> ミネソタ州ミネアポリス | ~$160B | <span style="font-weight:700">非公開</span>（家族経営、米国最大の非公開企業）|
 | D | Louis Dreyfus Company（LDC）| 1851 | <img src="/flags/NL.svg" alt="NL" class="inline-flag" width="20" height="14" loading="lazy" /> ロッテルダム | ~$56B | 非公開 |
 | C | COFCO International | 1949 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 北京 | ~$70B | 非公開（国有）|
 
-> **2024年Bunge × Viterra合併** : 2024年にBungeがGlencore傘下のViterraを買収し、合計売上で**Cargillに次ぐ世界2位** の穀物商社となりました。
+> <span style="font-weight:700">2024年Bunge × Viterra合併</span> : 2024年にBungeがGlencore傘下のViterraを買収し、合計売上で<span style="font-weight:700">Cargillに次ぐ世界2位</span> の穀物商社となりました。
 
 ## 主要穀物の世界生産・輸出構造
 
@@ -47,7 +47,7 @@ mapName: "world"
 
 ### トウモロコシ（コーン、Maize）
 
-米中ブラジルが3大生産国で、世界生産の約**70%**を占めます{{% cite "usda_psd" %}}。**ブラジルのサフリーニャ（二期作）**は2010年代以降急増し{{% cite "jetro_agri" %}}、米国に次ぐ第2位の輸出国に。
+米中ブラジルが3大生産国で、世界生産の約<span style="font-weight:700">70%</span>を占めます{{% cite "usda_psd" %}}。<span style="font-weight:700">ブラジルのサフリーニャ（二期作）</span>は2010年代以降急増し{{% cite "jetro_agri" %}}、米国に次ぐ第2位の輸出国に。
 
 | 順位 | 国 | 役割 |
 | --- | --- | --- |
@@ -59,7 +59,7 @@ mapName: "world"
 
 ### 大豆（Soybean）
 
-ブラジル・米国・アルゼンチンの**南北米3か国** で世界生産の**約80%** {{% cite "usda_psd" %}}。中国が世界輸入量の**約60%** を占める最大バイヤーです{{% cite "fao_food_outlook" %}}。
+ブラジル・米国・アルゼンチンの<span style="font-weight:700">南北米3か国</span> で世界生産の<span style="font-weight:700">約80%</span> {{% cite "usda_psd" %}}。中国が世界輸入量の<span style="font-weight:700">約60%</span> を占める最大バイヤーです{{% cite "fao_food_outlook" %}}。
 
 | 順位 | 生産国 | 生産量（24/25）| 主要産地 |
 | --- | --- | --- | --- |
@@ -68,7 +68,7 @@ mapName: "world"
 | 3 | <img src="/flags/AR.svg" alt="AR" class="inline-flag" width="20" height="14" loading="lazy" /> アルゼンチン | ~5,000万t | パンパ |
 | 4 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | ~2,000万t | 東北三省 |
 
-ブラジル・マトグロッソ州は2010年代以降急速にセラード（サバンナ）開発が進み{{% cite "jetro_agri" %}}、**単一州で米国全体の半分の大豆を生産** するまでに成長しました。
+ブラジル・マトグロッソ州は2010年代以降急速にセラード（サバンナ）開発が進み{{% cite "jetro_agri" %}}、<span style="font-weight:700">単一州で米国全体の半分の大豆を生産</span> するまでに成長しました。
 
 ## 主要穀倉地帯マップ
 
@@ -113,14 +113,14 @@ CBOT（シカゴ商品取引所、現CME Group）は1848年設立で{{% cite "cb
 | 綿花 | 中国・インド・米国・ブラジル | 各~20% | Olam, Louis Dreyfus, Cargill |
 | ゴム | タイ・インドネシア・ベトナム | 合計~70% | Sinochem, Halcyon Agri, ブリヂストン |
 
-シンガポール拠点の**Olam International**は熱帯作物の専業トレーダーとしてコーヒー・カカオ・綿花・ナッツに強みを持ちます。
+シンガポール拠点の<span style="font-weight:700">Olam International</span>は熱帯作物の専業トレーダーとしてコーヒー・カカオ・綿花・ナッツに強みを持ちます。
 
 ## 食料安全保障と貿易摩擦
 
-- **2022年ロシアのウクライナ侵攻** で黒海回廊が一時封鎖、小麦・ヒマワリ油価格が高騰
-- **インドの輸出規制**: 2022年小麦、2023年米の輸出制限
-- **中国の戦略備蓄**: トウモロコシ・大豆・小麦で世界在庫の50%以上を保有との推計
-- **エルニーニョ／ラニーニャ**: 南米大豆作況・豪州小麦に大きく影響
+- <span style="font-weight:700">2022年ロシアのウクライナ侵攻</span> で黒海回廊が一時封鎖、小麦・ヒマワリ油価格が高騰
+- <span style="font-weight:700">インドの輸出規制</span>: 2022年小麦、2023年米の輸出制限
+- <span style="font-weight:700">中国の戦略備蓄</span>: トウモロコシ・大豆・小麦で世界在庫の50%以上を保有との推計
+- <span style="font-weight:700">エルニーニョ／ラニーニャ</span>: 南米大豆作況・豪州小麦に大きく影響
 
 ## 主要農業・穀物商社の時価総額マップ
 

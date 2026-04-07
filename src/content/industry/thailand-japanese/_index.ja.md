@@ -122,7 +122,7 @@ mapName: "thailand"
 
 ## なぜタイに日系企業が集まるのか
 
-タイは**東南アジア最大の日系企業集積地**で、JETROが把握する日系企業数は**約6,083社**にのぼります（2024年度調査）{{% cite "jetro_thailand_2024survey" %}}。タイの自動車産業は**「アジアのデトロイト」**と呼ばれ、年間生産台数は2023年に約184万台{{% cite "jetro_auto_production2023" %}}、2024年は中国EV競合と国内需要減で約147万台{{% cite "jetro_auto_production2024" %}}に低下しましたが、その大部分は日系8社が占めます。日系企業の集中は1970年代の繊維、80年代後半のプラザ合意後の電機・自動車進出に始まり、90年代の東部臨海開発（**Eastern Seaboard Development Programme**）と2010年代の**Eastern Economic Corridor (EEC)** {{% cite "eec_office" %}}で加速しました。
+タイは<span style="font-weight:700">東南アジア最大の日系企業集積地</span>で、JETROが把握する日系企業数は<span style="font-weight:700">約6,083社</span>にのぼります（2024年度調査）{{% cite "jetro_thailand_2024survey" %}}。タイの自動車産業は<span style="font-weight:700">「アジアのデトロイト」</span>と呼ばれ、年間生産台数は2023年に約184万台{{% cite "jetro_auto_production2023" %}}、2024年は中国EV競合と国内需要減で約147万台{{% cite "jetro_auto_production2024" %}}に低下しましたが、その大部分は日系8社が占めます。日系企業の集中は1970年代の繊維、80年代後半のプラザ合意後の電機・自動車進出に始まり、90年代の東部臨海開発（<span style="font-weight:700">Eastern Seaboard Development Programme</span>）と2010年代の<span style="font-weight:700">Eastern Economic Corridor (EEC)</span> {{% cite "eec_office" %}}で加速しました。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">~6,083社</div><div class="stat-label">タイの日系企業数（JETRO 2024年調査）</div></div>
@@ -144,11 +144,11 @@ mapName: "thailand"
 | スズキ | 2012 | ラヨーン | Swift、Carry |
 | ヒノ自動車 | 1964 | サムロン | トラック・バス |
 
-タイのピックアップトラック生産は世界トップ級で、特に**Hilux**と**D-MAX**は北米以外への輸出ハブとなっています。
+タイのピックアップトラック生産は世界トップ級で、特に<span style="font-weight:700">Hilux</span>と<span style="font-weight:700">D-MAX</span>は北米以外への輸出ハブとなっています。
 
 ## 東部臨海工業地帯（Eastern Seaboard）と EEC
 
-東部臨海開発はタイ政府が1980年代に策定した国家戦略で、**チョンブリ県・ラヨーン県・チャチェンサオ県** の3県沿岸を工業集積地として整備しました。レムチャバン港（コンテナ取扱量世界20位前後）と**マプタプット港** （石油化学・LNG）を二大ゲートウェイとし、内陸には以下のような大規模工業団地が並びます{{% cite "boi_thailand" %}}。
+東部臨海開発はタイ政府が1980年代に策定した国家戦略で、<span style="font-weight:700">チョンブリ県・ラヨーン県・チャチェンサオ県</span> の3県沿岸を工業集積地として整備しました。レムチャバン港（コンテナ取扱量世界20位前後）と<span style="font-weight:700">マプタプット港</span> （石油化学・LNG）を二大ゲートウェイとし、内陸には以下のような大規模工業団地が並びます{{% cite "boi_thailand" %}}。
 
 | 工業団地 | 県 | 主な入居 |
 | --- | --- | --- |
@@ -160,7 +160,7 @@ mapName: "thailand"
 | Laem Chabang Industrial Estate | チョンブリ | 完成車・港湾物流 |
 | Rojana Industrial Park（アユタヤ）| アユタヤ | ホンダ、日系電子部品 |
 
-2017年に発足した**EEC（Eastern Economic Corridor）** {{% cite "eec_office" %}}はこの3県を「次世代産業集積地」として再定義し、BOI（タイ投資委員会）による法人税最大15年免除、外国人雇用緩和、土地取得緩和などの恩典で**EV、スマートエレクトロニクス、ロボット、航空、医療** の10業種を呼び込んでいます。
+2017年に発足した<span style="font-weight:700">EEC（Eastern Economic Corridor）</span> {{% cite "eec_office" %}}はこの3県を「次世代産業集積地」として再定義し、BOI（タイ投資委員会）による法人税最大15年免除、外国人雇用緩和、土地取得緩和などの恩典で<span style="font-weight:700">EV、スマートエレクトロニクス、ロボット、航空、医療</span> の10業種を呼び込んでいます。
 
 ## 部品サプライヤー（ティア1〜2）
 
@@ -180,11 +180,11 @@ mapName: "thailand"
 
 ## 化学・素材
 
-マプタプットに集中する石油化学では**PTTグローバルケミカル** を核に、**三井化学** 、**住友化学** 、**宇部興産** 、**三菱ケミカル** 、**JSR** 、**カネカ** 、**東ソー** 、**ダイセル** などが進出しています{{% cite "boi_thailand" %}}。タイの石油化学はASEAN最大級で、ナフサクラッカー数基、エチレン生産能力で年間500万トン超を持ちます。
+マプタプットに集中する石油化学では<span style="font-weight:700">PTTグローバルケミカル</span> を核に、<span style="font-weight:700">三井化学</span> 、<span style="font-weight:700">住友化学</span> 、<span style="font-weight:700">宇部興産</span> 、<span style="font-weight:700">三菱ケミカル</span> 、<span style="font-weight:700">JSR</span> 、<span style="font-weight:700">カネカ</span> 、<span style="font-weight:700">東ソー</span> 、<span style="font-weight:700">ダイセル</span> などが進出しています{{% cite "boi_thailand" %}}。タイの石油化学はASEAN最大級で、ナフサクラッカー数基、エチレン生産能力で年間500万トン超を持ちます。
 
 ## 中国EVの台頭という新たな競争
 
-2020年代に入り、中国EVメーカーの**BYD・長城汽車（GWM）・上海汽車（MG）・哪吒（Neta）・GAC Aion**がタイに大型投資を発表し、ラヨーン県を中心に新工場を稼働させています{{% cite "nation_thailand_japan_ev" %}}。タイ自動車市場での日系メーカーのシェアは2024年時点で全体の76.7%ですが、乗用車に限定すると64.8%に低下しており、特に中国BEVメーカーが乗用車で18.8%のシェアを獲得しています{{% cite "jetro_thailand_auto_2024" %}}。
+2020年代に入り、中国EVメーカーの<span style="font-weight:700">BYD・長城汽車（GWM）・上海汽車（MG）・哪吒（Neta）・GAC Aion</span>がタイに大型投資を発表し、ラヨーン県を中心に新工場を稼働させています{{% cite "nation_thailand_japan_ev" %}}。タイ自動車市場での日系メーカーのシェアは2024年時点で全体の76.7%ですが、乗用車に限定すると64.8%に低下しており、特に中国BEVメーカーが乗用車で18.8%のシェアを獲得しています{{% cite "jetro_thailand_auto_2024" %}}。
 
 ## BOI（タイ投資委員会）恩典の概要
 

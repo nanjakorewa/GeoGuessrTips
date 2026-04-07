@@ -10,7 +10,7 @@ mapName: "japan"
 
 ## 日本のベアリング産業の概観
 
-ベアリング（軸受、Bearing）は回転体を支える機械要素部品で、自動車・産業機械・航空機・家電・小型モータなどあらゆる回転機械に不可欠な「**機械の米**」とも呼ばれる素材です。世界のベアリング市場は約50～150億ドル規模{{% cite "bearing_market_size" %}}で、上位8社（**SKF / Schaeffler / NSK / NTN / JTEKT / Timken / Minebea Mitsumi / NACHI不二越**）で世界の大半を占めますが、このうち**日本勢4社の合計世界シェアは約40%**{{% cite "jbia" %}}に達し、ドイツ・スウェーデン勢と並ぶベアリング大国です。
+ベアリング（軸受、Bearing）は回転体を支える機械要素部品で、自動車・産業機械・航空機・家電・小型モータなどあらゆる回転機械に不可欠な「<span style="font-weight:700">機械の米</span>」とも呼ばれる素材です。世界のベアリング市場は約50～150億ドル規模{{% cite "bearing_market_size" %}}で、上位8社（<span style="font-weight:700">SKF / Schaeffler / NSK / NTN / JTEKT / Timken / Minebea Mitsumi / NACHI不二越</span>）で世界の大半を占めますが、このうち<span style="font-weight:700">日本勢4社の合計世界シェアは約40%</span>{{% cite "jbia" %}}に達し、ドイツ・スウェーデン勢と並ぶベアリング大国です。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">~40%</div><div class="stat-label">日本ベアリング4社の世界シェア</div></div>
@@ -23,11 +23,11 @@ mapName: "japan"
 
 | 企業 | 設立 | 本社 | 特徴 |
 | --- | --- | --- | --- |
-| **NSK（日本精工、6471）**| 1916{{% cite "nsk_history" %}} | 東京・品川 | 国内最古、自動車向け輪軸受で世界トップ級。深溝玉軸受・テーパローラ・電動パワーステアリング（EPS）まで一貫 |
-| **NTN（6472）**| 1918（軸受製造開始）/ 1927{{% cite "ntn_history" %}}（NTN Mfg.設立） | 大阪・西区 | ドライブシャフト用CVJ（等速ジョイント）でGKNと並ぶ世界大手。自動車用ハブベアリング世界最大級 |
-| **JTEKT（6473）**| 2006{{% cite "jtekt_ir" %}}（光洋精工＋豊田工機合併）| 愛知・刈谷 | 旧光洋精工＋豊田工機の合併。トヨタグループ。EPS世界1位、テーパローラ・自動車用 |
-| **ミネベアミツミ（6479）**| 1951{{% cite "minebea_history" %}} | 長野・北佐久（軽井沢）/東京 | 小径ボールベアリング世界1位（HDD・小型モータ・OAレンジ）。家電・電子機器向けに圧倒的強み |
-| **NACHI不二越（6474）**| 1928{{% cite "nachi_history" %}} | 富山 | 工作機械主軸用・産業機械用、工具・ロボットも |
+| <span style="font-weight:700">NSK（日本精工、6471）</span>| 1916{{% cite "nsk_history" %}} | 東京・品川 | 国内最古、自動車向け輪軸受で世界トップ級。深溝玉軸受・テーパローラ・電動パワーステアリング（EPS）まで一貫 |
+| <span style="font-weight:700">NTN（6472）</span>| 1918（軸受製造開始）/ 1927{{% cite "ntn_history" %}}（NTN Mfg.設立） | 大阪・西区 | ドライブシャフト用CVJ（等速ジョイント）でGKNと並ぶ世界大手。自動車用ハブベアリング世界最大級 |
+| <span style="font-weight:700">JTEKT（6473）</span>| 2006{{% cite "jtekt_ir" %}}（光洋精工＋豊田工機合併）| 愛知・刈谷 | 旧光洋精工＋豊田工機の合併。トヨタグループ。EPS世界1位、テーパローラ・自動車用 |
+| <span style="font-weight:700">ミネベアミツミ（6479）</span>| 1951{{% cite "minebea_history" %}} | 長野・北佐久（軽井沢）/東京 | 小径ボールベアリング世界1位（HDD・小型モータ・OAレンジ）。家電・電子機器向けに圧倒的強み |
+| <span style="font-weight:700">NACHI不二越（6474）</span>| 1928{{% cite "nachi_history" %}} | 富山 | 工作機械主軸用・産業機械用、工具・ロボットも |
 
 ## 用途別の市場構造
 
@@ -37,21 +37,21 @@ mapName: "japan"
 | 産業機械（工作機械・建設機械）| ファナック、DMG森精機、コマツ | NSK、NTN、NACHI不二越 |
 | 航空機（ジェットエンジン用）| GE Aerospace、P&W、Rolls-Royce | NSK、NTN（THK） |
 | 鉄道車両 | JR各社、海外鉄道 | NSK、NTN |
-| 小径ベアリング（HDD・小型モータ）| 家電・OA・ロボット | **ミネベアミツミ（圧倒的）** |
+| 小径ベアリング（HDD・小型モータ）| 家電・OA・ロボット | <span style="font-weight:700">ミネベアミツミ（圧倒的）</span> |
 | 風力発電（主軸・増速機）| Vestas、Siemens Gamesa | NSK、NTN |
 
 ## 海外8大メーカーとの比較
 
 | メーカー | 国 | 強み |
 | --- | --- | --- |
-| **SKF** | <img src="/flags/SE.svg" alt="SE" class="inline-flag" width="20" height="14" loading="lazy" /> スウェーデン（イエーテボリ） | 業界最古（1907年{{% cite "skf_history" %}}）、世界1位、産業機械・自動車 |
-| **Schaeffler**（旧FAG/INA含む）| <img src="/flags/DE.svg" alt="DE" class="inline-flag" width="20" height="14" loading="lazy" /> ドイツ | 世界2位、自動車・産業機械、INAブランドも |
-| **NSK** | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 日本 | 世界3〜4位、自動車・EPS |
-| **NTN** | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 日本 | CVJ・ハブベアリング世界大手 |
-| **JTEKT** | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 日本 | EPS世界1位{{% cite "jtekt_eps" %}} |
-| **Timken** | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | テーパローラ世界トップ級 |
-| **Minebea Mitsumi** | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 日本 | 小径ベアリング世界1位 |
-| **C&U Group** / **ZWZ** | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | 中国最大級、低中価格帯 |
+| <span style="font-weight:700">SKF</span> | <img src="/flags/SE.svg" alt="SE" class="inline-flag" width="20" height="14" loading="lazy" /> スウェーデン（イエーテボリ） | 業界最古（1907年{{% cite "skf_history" %}}）、世界1位、産業機械・自動車 |
+| <span style="font-weight:700">Schaeffler</span>（旧FAG/INA含む）| <img src="/flags/DE.svg" alt="DE" class="inline-flag" width="20" height="14" loading="lazy" /> ドイツ | 世界2位、自動車・産業機械、INAブランドも |
+| <span style="font-weight:700">NSK</span> | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 日本 | 世界3〜4位、自動車・EPS |
+| <span style="font-weight:700">NTN</span> | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 日本 | CVJ・ハブベアリング世界大手 |
+| <span style="font-weight:700">JTEKT</span> | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 日本 | EPS世界1位{{% cite "jtekt_eps" %}} |
+| <span style="font-weight:700">Timken</span> | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | テーパローラ世界トップ級 |
+| <span style="font-weight:700">Minebea Mitsumi</span> | <img src="/flags/JP.svg" alt="JP" class="inline-flag" width="20" height="14" loading="lazy" /> 日本 | 小径ベアリング世界1位 |
+| <span style="font-weight:700">C&U Group</span> / <span style="font-weight:700">ZWZ</span> | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | 中国最大級、低中価格帯 |
 
 ## 日本でのベアリング工場の地理的特徴
 
@@ -65,14 +65,14 @@ mapName: "japan"
 | ミネベアミツミ | 軽井沢工場（長野）、白井マザー工場（千葉）、軽井沢の研究開発本部 | 長野/千葉 |
 | NACHI不二越 | 富山事業所、滑川事業所 | 富山 |
 
-ミネベアミツミの**軽井沢**事業所（長野県北佐久郡御代田町・軽井沢町）{{% cite "minebea_ir" %}}は国内のマザー工場で、敷地内に空港・専用病院・社員寮を備える独特の「企業城下町」を形成しています（世界最大の量産拠点はタイのバンパイン工場）。
+ミネベアミツミの<span style="font-weight:700">軽井沢</span>事業所（長野県北佐久郡御代田町・軽井沢町）{{% cite "minebea_ir" %}}は国内のマザー工場で、敷地内に空港・専用病院・社員寮を備える独特の「企業城下町」を形成しています（世界最大の量産拠点はタイのバンパイン工場）。
 
 ## なぜ日本がベアリングで強いのか
 
-- **工作機械精度**: 軸受製造は0.1μm単位の精度が必要で、日本の超精密研削盤・測定技術が支える
-- **鋼材**: 大同特殊鋼・愛知製鋼・山陽特殊製鋼など、軸受鋼の国内サプライチェーンが揃う
-- **自動車産業との相互発展**: トヨタ・ホンダ・日産の量産化と並走して品質向上
-- **HDD産業の遺産**: 1990〜2000年代{{% cite "meti_machine" %}}のHDD産業隆盛で小径ベアリングの需要が急拡大、ミネベアミツミが圧倒的シェアを確立
+- <span style="font-weight:700">工作機械精度</span>: 軸受製造は0.1μm単位の精度が必要で、日本の超精密研削盤・測定技術が支える
+- <span style="font-weight:700">鋼材</span>: 大同特殊鋼・愛知製鋼・山陽特殊製鋼など、軸受鋼の国内サプライチェーンが揃う
+- <span style="font-weight:700">自動車産業との相互発展</span>: トヨタ・ホンダ・日産の量産化と並走して品質向上
+- <span style="font-weight:700">HDD産業の遺産</span>: 1990〜2000年代{{% cite "meti_machine" %}}のHDD産業隆盛で小径ベアリングの需要が急拡大、ミネベアミツミが圧倒的シェアを確立
 
 ## 日本のベアリングメーカー時価総額マップ
 

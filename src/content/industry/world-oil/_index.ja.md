@@ -10,7 +10,7 @@ mapName: "world"
 
 ## 世界の石油産業の概観
 
-世界の石油産業は伝統的に**「上流（Upstream）」「中流（Midstream）」「下流（Downstream）」**の3層で語られます。垂直統合された巨大企業を「**インテグレーテッド・メジャー**」と呼び、ExxonMobil・Chevron・Shell・BP・TotalEnergies・Eniなどがこれに該当します。一方、産油国の国営石油会社（NOC: National Oil Company）はサウジアラムコ・ペトロブラス・ペメックス・PetroChinaなど、独立系（Independent）はEOG ResourcesやContinental Resourcesなどです。
+世界の石油産業は伝統的に<span style="font-weight:700">「上流（Upstream）」「中流（Midstream）」「下流（Downstream）」</span>の3層で語られます。垂直統合された巨大企業を「<span style="font-weight:700">インテグレーテッド・メジャー</span>」と呼び、ExxonMobil・Chevron・Shell・BP・TotalEnergies・Eniなどがこれに該当します。一方、産油国の国営石油会社（NOC: National Oil Company）はサウジアラムコ・ペトロブラス・ペメックス・PetroChinaなど、独立系（Independent）はEOG ResourcesやContinental Resourcesなどです。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">~1.05億b/d</div><div class="stat-label">2024年 世界石油需要（IEA）{{% cite "iea_oil2024" %}}、{{% cite "iea_oil2023" %}}</div></div>
@@ -34,7 +34,7 @@ mapName: "world"
   Chevron, Shell, BP, NOC各社    Glencore, Mercuria, Gunvor    Reliance, Marathon, ENEOS
 ```
 
-**インテグレーテッド・メジャー** は上流・中流・下流すべてを保有し、原油価格下落時は下流マージンの拡大で収益を補完できる「**ヘッジ構造**」 を持っています。一方、シェール革命以後の米独立系E&Pは上流専業で価格感応度が高い構造です。
+<span style="font-weight:700">インテグレーテッド・メジャー</span> は上流・中流・下流すべてを保有し、原油価格下落時は下流マージンの拡大で収益を補完できる「<span style="font-weight:700">ヘッジ構造</span>」 を持っています。一方、シェール革命以後の米独立系E&Pは上流専業で価格感応度が高い構造です。
 
 ## 主要石油企業の時価総額・規模比較
 
@@ -60,7 +60,7 @@ mapName: "world"
 
 ## NOC（国営石油会社）の重要性
 
-世界の確認原油埋蔵量の**約80%以上** はNOCがコントロールしています{{% cite "iea_oil2023" %}}。{{% cite "opec_asb" %}}、{{% cite "eia_intl" %}}
+世界の確認原油埋蔵量の<span style="font-weight:700">約80%以上</span> はNOCがコントロールしています{{% cite "iea_oil2023" %}}。{{% cite "opec_asb" %}}、{{% cite "eia_intl" %}}
 
 | NOC | 国 | 特徴 |
 | --- | --- | --- |
@@ -91,7 +91,7 @@ mapName: "world"
 
 ## 下流（Downstream）— 製油所と石油化学
 
-世界の製油所処理能力は**約1.03～1.04億b/d**{{% cite "eia_globalrefining" %}}{{% cite "opec_asb" %}}で、米国・中国・インド・ロシア・サウジが上位5か国です。**Reliance Industries**のJamnagar製油所（インド）は単一サイトで**~124万b/d**{{% cite "jamnagar_wiki" %}}と世界最大級です。
+世界の製油所処理能力は<span style="font-weight:700">約1.03～1.04億b/d</span>{{% cite "eia_globalrefining" %}}{{% cite "opec_asb" %}}で、米国・中国・インド・ロシア・サウジが上位5か国です。<span style="font-weight:700">Reliance Industries</span>のJamnagar製油所（インド）は単一サイトで<span style="font-weight:700">~124万b/d</span>{{% cite "jamnagar_wiki" %}}と世界最大級です。
 
 | 製油所/拠点 | 国 | 運営 | 能力 |
 | --- | --- | --- | --- |
@@ -118,7 +118,7 @@ mapName: "world"
 | TTF | ICE Endex | 欧州天然ガス | ICE |
 | JKM（Japan Korea Marker）| Platts | 北東アジアLNGスポット | ICE |
 
-サウジアラムコは毎月**OSP（Official Selling Price）**を発表し、Brent/Dubai差で長期契約価格を決めています。OPEC+は2016年以降、減産協調で油価形成に大きな影響力を持ち続けています。
+サウジアラムコは毎月<span style="font-weight:700">OSP（Official Selling Price）</span>を発表し、Brent/Dubai差で長期契約価格を決めています。OPEC+は2016年以降、減産協調で油価形成に大きな影響力を持ち続けています。
 
 ## 主要石油会社の時価総額マップ
 
