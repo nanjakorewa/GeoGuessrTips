@@ -141,7 +141,7 @@ mapName: "southAmerica"
 | --- | --- | --- | --- | --- |
 | **Escondida** | アントファガスタ州（標高3,100m）| BHP 57.5%, Rio Tinto 30%, JECO 12.5% | ~110〜120万t | 世界最大級の銅鉱山、JECOは三菱商事/三菱マテリアル/日鉱グループの合弁 |
 | **Collahuasi** | タラパカ州 | Anglo American 44%, Glencore 44%, JCR 12% | ~56万t | JCR=三井物産/JX金属の合弁 |
-| **El Teniente** | オイギンス州ランカグア近郊 | Codelco（国営）| ~46万t | 世界最大の地下銅鉱山、1819年から操業{{% cite "codelco" %}} |
+| **El Teniente** | オイギンス州ランカグア近郊 | Codelco（国営）| ~46万t | 世界最大の地下銅鉱山、1905年からBraden Copperにより本格操業開始{{% cite "codelco" %}} |
 | **Chuquicamata** | アントファガスタ州 | Codelco | ~32万t | 世界最大級の露天掘りから地下採鉱に転換 |
 | **Los Pelambres** | コキンボ州 | Antofagasta plc 60%, JX/丸紅 40% | ~30万t | ルクシック家のAntofagastaグループ |
 | **Los Bronces** | サンティアゴ近郊 | Anglo American 50.1%, Codelco 20%, 三菱29.5% | ~25万t | 大型再掘プロジェクト進行中 |
