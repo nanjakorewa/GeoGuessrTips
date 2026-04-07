@@ -13,17 +13,22 @@ weight: 10
   <div class="stat-card">
     <p class="stat-card__label">TSMC熊本第1工場 月産能力</p>
     <p class="stat-card__value">5.5万</p>
-    <p class="stat-card__unit">枚（300mm・2024年12月量産開始）</p>
+    <p class="stat-card__unit">枚（300mm・2024年12月量産開始）。国家補助金約4,760億円{{% cite "meti_semi_plan" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">ソニー CMOSセンサー世界シェア</p>
     <p class="stat-card__value">約50</p>
-    <p class="stat-card__unit">%（スマートフォン向け・2023年）</p>
+    <p class="stat-card__unit">%（スマートフォン向け・2023年）。熊本・長崎に主力工場{{% cite "sony2023" %}}</p>
+  </div>
+  <div class="stat-card">
+    <p class="stat-card__label">ルネサス 熊本・大分 月産能力</p>
+    <p class="stat-card__value">約100万</p>
+    <p class="stat-card__unit">ウェーハ枚数/月（車載マイコン・SoC）</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">TSMC熊本第2工場 稼働予定</p>
     <p class="stat-card__value">2027</p>
-    <p class="stat-card__unit">年（6nm/4nmプロセス）</p>
+    <p class="stat-card__unit">年（6nm/4nmプロセス・国家補助金約7,320億円）</p>
   </div>
 </div>
 

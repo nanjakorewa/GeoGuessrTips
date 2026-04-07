@@ -10,11 +10,13 @@ card_image: "pipeline.jpg"
 
 ## 世界の産業地帯とは
 
-このセクションは、重化学工業のコンビナートから半導体クラスター・伝統工芸の産地まで、日本各地の産業集積を**企業構成・歴史的背景・市場構造**という視点から掘り下げてみるページです。そのため**ジオゲッサーとはあんまり関係ない内容が多いかも**しれません。
+このセクションでは、重化学工業のコンビナートから半導体クラスター、伝統工芸の産地まで、日本各地の産業集積を**企業構成・歴史的背景・市場構造**という視点から少し深掘りしてみます。そのため、**ジオゲッサーとはあまり関係ない内容も多いかも**しれませんが、ご容赦ください。
+
+日本の製造業は太平洋沿岸に集中しており、関東（京浜・京葉・鹿島臨海）・中部（中京・東海）・関西（阪神）・九州（北九州）の主要工業地帯だけで国内の製造品出荷額等の約7割を占めています{{% cite "meti_industrial_census" %}}。
 
 ## 工業地域
 
-各国における『工業活動の集積がみられ、景観・機能の観点で工業活動が特筆される地域』をまとめています。
+各国における『工業活動の集積がみられ、景観・機能の観点で工業活動が特筆される地域』をまとめています。日本の工業は太平洋沿岸に集中し、四大工業地帯と6つの主要工業地域が「太平洋ベルト」を形成しています{{% cite "meti_industrial_census" %}}。
 
 | 国・地域 | コンテンツ |
 | ------- | --------- |
@@ -27,9 +29,19 @@ card_image: "pipeline.jpg"
 
 | 国・地域 | コンテンツ |
 | ------- | --------- |
-| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本のコンビナート](/industry/japan-combinat/) | 全国主要8地区の分布マップ + 3地区の詳細解説 |
-| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の半導体産業集積地](/industry/japan-semiconductor/) | 九州・東北・三重・広島・関東・北海道の6地域を解説 |
-| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の焼き物産地](/industry/japan-pottery/) | 六古窯から有田・九谷まで全国14産地の地図と一覧 |
-| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の石油・LPガス備蓄基地](/industry/japan-stockpile/) | 国家備蓄10基地＋LPガス5基地の全国マップと解説 |
-| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の造船業](/industry/japan-shipbuilding/) | 瀬戸内海クラスター・商船と艦艇の全国マップ |
-| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の食品コンビナート](/industry/japan-food-combinat/) | 千葉・京葉・神戸東部・泉佐野の4コンビナート |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本のコンビナート](/industry/japan-combinat/) | 全国主要8地区（エチレン生産能力計630万t/年）の分布マップ + 3地区の詳細解説 |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の半導体産業集積地](/industry/japan-semiconductor/) | 九州・東北・三重・広島・関東・北海道の6地域を解説。国内生産額約6.5兆円（2025年度見込み）{{% cite "meti_semi_vision" %}} |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の焼き物産地](/industry/japan-pottery/) | 六古窯から有田・九谷まで全国14産地。美濃焼の国内シェア約50〜60%{{% cite "meti_pottery_stats" %}} |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の石油・LPガス備蓄基地](/industry/japan-stockpile/) | 国家備蓄10基地（約4,000万kL）＋LPガス5基地（約150万トン）の全国マップと解説 |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の造船業](/industry/japan-shipbuilding/) | 瀬戸内海に国内建造量約70%が集中。世界シェアは8%（2024年）{{% cite "mlit_shipbuilding_stats" %}} |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の海運業](/industry/japan-shipping/) | 貿易量の99.6%は海上輸送。外航大手3社とONE、内航海運・主要港湾・ゼロエミ燃料転換を解説 |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の食品コンビナート](/industry/japan-food-combinat/) | 千葉・京葉・神戸東部・泉佐野の4コンビナート。千葉食品は日本最大規模（90ha） |
+
+## 参考文献
+
+{{% references %}}
+meti_industrial_census: 経済産業省「工業統計調査」<https://www.meti.go.jp/statistics/tyo/kougyo/>
+meti_semi_vision: 経済産業省「半導体デジタル産業戦略」（2023年4月）<https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/>
+meti_pottery_stats: 経済産業省「工業統計調査 品目別統計表（窯業・土石製品）」（2022年）<https://www.e-stat.go.jp/stat-search/database>
+mlit_shipbuilding_stats: 国土交通省 海事局「造船業の現状と課題」<https://www.mlit.go.jp/maritime/>
+{{% /references %}}

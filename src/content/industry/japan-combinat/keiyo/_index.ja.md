@@ -13,22 +13,22 @@ weight: 10
   <div class="stat-card">
     <p class="stat-card__label">エチレン年産能力</p>
     <p class="stat-card__value">約210</p>
-    <p class="stat-card__unit">万トン（国内1位・32%）{{% cite "chisou2015" %}}</p>
+    <p class="stat-card__unit">万トン（国内1位・32%）。世界的にも上位クラス{{% cite "chisou2015" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">原油処理能力（計）</p>
     <p class="stat-card__value">71.5</p>
-    <p class="stat-card__unit">万バレル/日（国内1位・18%）{{% cite "keiyo2025" %}}{{% cite "chisou2015" %}}</p>
+    <p class="stat-card__unit">万バレル/日（国内1位・18%）。日本の石油精製の約2割を担当{{% cite "keiyo2025" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">製造品出荷額</p>
     <p class="stat-card__value">約10兆</p>
-    <p class="stat-card__unit">億円規模（R4経済センサス・原油高を反映）{{% cite "chiba_keiyo" %}}</p>
+    <p class="stat-card__unit">円規模（2022年経済センサス）。千葉県全体の約60%{{% cite "chiba_keiyo" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">コンビナート面積</p>
     <p class="stat-card__value">約5,000</p>
-    <p class="stat-card__unit">ha（千葉市南部〜富津市の埋立地）{{% cite "chisou2015" %}}</p>
+    <p class="stat-card__unit">ha（千葉市南部〜富津市の埋立地）。日本最大級のコンビナート</p>
   </div>
 </div>
 

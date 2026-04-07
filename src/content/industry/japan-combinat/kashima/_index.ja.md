@@ -13,22 +13,22 @@ weight: 20
   <div class="stat-card">
     <p class="stat-card__label">高炉数（日本製鉄）</p>
     <p class="stat-card__value">1</p>
-    <p class="stat-card__unit">基（2025年より1基体制へ集約）</p>
+    <p class="stat-card__unit">基（2025年より1基体制へ集約）。第1高炉容積は5,370m³で世界最大級{{% cite "nipponsteel2023" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">粗鋼生産能力</p>
     <p class="stat-card__value">約400〜500</p>
-    <p class="stat-card__unit">万トン/年（2025年以降・1基体制）</p>
+    <p class="stat-card__unit">万トン/年（2025年以降・1基体制）。国内全体の約5〜6%を占める</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">鹿島港貨物取扱量</p>
     <p class="stat-card__value">約5,700</p>
-    <p class="stat-card__unit">万トン/年（2022年度）</p>
+    <p class="stat-card__unit">万トン/年（2022年度）。国内主要港の中で有数の規模{{% cite "mlit_kashima_port" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">工業地帯面積</p>
     <p class="stat-card__value">約3,260</p>
-    <p class="stat-card__unit">ha（計画区域全体）</p>
+    <p class="stat-card__unit">ha（計画区域全体）。関東地域の臨海工業地帯では最大</p>
   </div>
 </div>
 
@@ -157,6 +157,7 @@ weight: 20
 {{% references %}}
 ibaraki2022: 不毛の大地を甦らせた鹿島港の開発　<https://www.jcca.or.jp/infra70n/files/PJNO_08.pdf>
 kant2021: 国土交通省 関東地方整備局「鹿島港の概要」<https://www.pa.ktr.mlit.go.jp/kashima/port/index.htm>
+mlit_kashima_port: 国土交通省「全国港湾統計」<https://www.mlit.go.jp/maritime/content/001621452.pdf>
 nipponsteel2023: 日本製鉄 統合報告書 2024（2024年）<https://www.nipponsteel.com/common/secure/ir/library/pdf/nsc_jp_ir_2024_all.pdf>
 jisf_stats: 日本鉄鋼連盟「鉄鋼統計 生産・時系列」<https://www.jisf.or.jp/data/jikeiretsu/seisan.html>
 {{% /references %}}

@@ -115,9 +115,9 @@ galleryDir: "combinat"
 
 ## 日本のコンビナートとは
 
-「コンビナート（kombinat）」はロシア語に由来する語で、石油精製・石油化学・製鉄・電力などの施設が湾岸の埋立地に集積し、原材料・中間製品・エネルギーをパイプラインで融通し合う生産体系を指します。日本では1950〜70年代の**高度経済成長期**に、政府の「新産業都市」政策のもとで全国各地に建設されました。
+「コンビナート（kombinat）」はロシア語に由来する言葉で、石油精製・石油化学・製鉄・電力などの施設が湾岸の埋立地に集積して、原材料・中間製品・エネルギーをパイプラインで融通し合う生産体系です。日本では1950〜70年代の**高度経済成長期**に、政府の「新産業都市」政策のもとで全国各地に建設されました。コンビナート内の企業間でパイプラインを通じて物資を融通することで、輸送コストを年間数百億円単位で削減でき、CO₂排出削減にも役立っています。
 
-2023年時点で日本にはエチレンプラントを持つ石油化学コンビナートが**8地区**存在します{{% cite "jpca2023" %}}。鉄鋼については高炉を持つ一貫製鉄所が東日本・西日本各地に立地しています。
+2024年時点で日本にはエチレンプラントを持つ石油化学コンビナートが**8地区**あります{{% cite "jpca2023" %}}。これら8地区の合計エチレン生産能力は約630万トン/年（国内全体）で、世界的には日本の石化産業の競争力は材料・高機能品での強みへと転換しています{{% cite "jpca2025" %}}。鉄鋼については高炉を持つ一貫製鉄所が東日本・西日本各地に立地し、2024年時点で国内粗鋼生産能力は約1億5,000万トン/年を支えています{{% cite "jisf_stats" %}}。
 
 ## 主要コンビナート一覧
 
@@ -125,7 +125,7 @@ galleryDir: "combinat"
   <div class="stat-card">
     <p class="stat-card__label">石油化学コンビナート</p>
     <p class="stat-card__value">8</p>
-    <p class="stat-card__unit">地区（エチレンプラント保有）</p>
+    <p class="stat-card__unit">地区（エチレンプラント保有）{{% cite "jpca2023" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">国内エチレン年産能力</p>
@@ -229,7 +229,7 @@ galleryDir: "combinat"
 </div>
 
 {{% references %}}
+jisf_stats: 日本鉄鋼連盟「鉄鋼統計 生産・時系列」<https://www.jisf.or.jp/data/jikeiretsu/seisan.html>
 jpca2023: みずほ産業調査 「石油化学工業の現状」. 2019年. https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1061_all.pdf
 meti_ethylene2022: 経済産業省「我が国の主要石油化学製品生産能力調査（令和4年12月末時点）」（2023年）<https://www.meti.go.jp/policy/mono_info_service/mono/chemistry/20230614seisannnouryokutyousa.pdf>
-jisf_stats: 日本鉄鋼連盟「鉄鋼統計 生産・時系列」<https://www.jisf.or.jp/data/jikeiretsu/seisan.html>
 {{% /references %}}
