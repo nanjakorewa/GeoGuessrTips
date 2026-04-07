@@ -38,6 +38,9 @@ card_image: "pipeline.jpg"
 | [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の非鉄金属製錬](/industry/japan-nonferrous/) | 別子・足尾・日立・小坂の四大銅山と、東予・佐賀関・直島・小坂の現役製錬・E-Scrapリサイクル拠点 |
 | [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本のセメント工業](/industry/japan-cement/) | 太平洋・UBE三菱・住友大阪の3大グループ。秩父・津久見・宇部・苅田・苫小牧の主要産地と石灰石100%自給 |
 | [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の製紙・パルプ産業](/industry/japan-paper/) | 王子・日本製紙・大王・レンゴーの主要工場と、富士・苫小牧・四国中央市・八代・石巻の紙のまちクラスター |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の塗料業の分布](/industry/japan-paint/) | 日本ペイントHD・関西ペイント・大日本塗料の3大メーカー＋中国塗料（船舶用世界トップ級）。大阪集中の歴史的背景 |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の板ガラス・特殊ガラス産業](/industry/japan-glass/) | AGC・NSG・日本電気硝子の3大ガラスメーカー。EUV用マスクブランクスでも世界の中核 |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本のベアリング産業](/industry/japan-bearing/) | NSK・NTN・JTEKT・ミネベアミツミの4大メーカーで世界シェア約40%。CVJ・EPS・小径ベアリングで世界1位 |
 
 ## 世界の産業
 
@@ -46,6 +49,13 @@ card_image: "pipeline.jpg"
 | 地域 | コンテンツ |
 | ------- | --------- |
 | [🌍 世界の海運業](/industry/world-shipping/) | コンテナ船社トップ10、2025年新アライアンス、邦船3社とONE、コンテナリース、Baltic Dry Indexなど市況指標、IMO 2050ネットゼロ |
+| [🌍 世界の鉱業（メタル・マイニング）](/industry/world-mining/) | BHP・Rio Tinto・Vale・Glencoreなど資源メジャー、鉄鉱石・銅・リチウム・PGMの主要鉱山、LME価格指標 |
+| [🌍 世界の石油産業（上流・中流・下流）](/industry/world-oil/) | サウジアラムコ・ExxonMobil・ShellなどIOCとNOC、Vitol・Trafiguraなどトレーダー、Brent/WTI/Dubaiの油価指標 |
+| [🌍 世界の農産物・穀物トレード](/industry/world-agriculture/) | ABCD（Cargill・ADM・Bunge・LDC）+ COFCO、米コーンベルト・ブラジルセラード・黒海地域、CBOT先物 |
+| [🇿🇦 南アフリカの白金族・レアメタル鉱業](/industry/south-africa-mining/) | ブッシュフェルト火成岩体と世界プラチナ生産シェア約75%、Anglo American Platinum・Implatsなど主要企業 |
+| [🇹🇼 台湾の半導体産業](/industry/taiwan-semiconductor/) | TSMCを中心とする世界ファウンドリ約68%シェア、新竹・中部・南部の3大サイエンスパーク |
+| [🇹🇭 タイにおける日系企業の集積](/industry/thailand-japanese/) | 約6,000社の日系企業、Eastern Seaboard・EEC、トヨタ・いすゞ・ホンダなど自動車8社の工場群 |
+| [🇨🇱 チリの銅・リチウム鉱業](/industry/chile-mining/) | 世界最大の銅生産国（2024年550万トン）、Codelco・Escondida・Collahuasi、Salar de AtacamaのSQM/Albemarle |
 
 ## 参考文献
 
