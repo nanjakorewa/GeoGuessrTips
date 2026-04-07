@@ -1,0 +1,302 @@
+---
+title: "日本のセメント工業"
+subtitle: "石灰石100%自給 — 秩父・津久見・宇部・苅田・苫小牧の主要産地"
+date: 2026-04-07
+lastmod: 2026-04-07
+description: "日本のセメント工業を解説。太平洋セメント・UBE三菱セメント・住友大阪セメントの3大グループと、秩父・津久見・宇部・苅田・苫小牧などの主要産地、宇部興産専用道路、石灰石100%自給を一次資料に基づき整理。"
+weight: 37
+mapName: "japan"
+---
+
+<script>
+(function() {
+  // セメント工場/石灰石産地（グレー●）
+  var pins = [
+    { x: 510, y: 142, label: '苫小牧/上磯', type: 'cem',
+      note: '太平洋セメント上磯工場・苫小牧SS' },
+    { x: 463, y: 318, label: '大船渡', type: 'cem',
+      note: '太平洋セメント大船渡工場（岩手県）' },
+    { x: 432, y: 410, label: '秩父/熊谷', type: 'cem',
+      note: '太平洋セメント熊谷工場・武甲山石灰石（埼玉）' },
+    { x: 350, y: 425, label: '藤原', type: 'cem',
+      note: '太平洋セメント藤原工場（三重県いなべ市）' },
+    { x: 248, y: 478, label: '赤穂', type: 'cem',
+      note: '住友大阪セメント赤穂工場（兵庫県）' },
+    { x: 170, y: 510, label: '宇部', type: 'cem',
+      note: 'UBE三菱セメント 宇部・伊佐工場（山口県）' },
+    { x: 122, y: 538, label: '苅田', type: 'cem',
+      note: '太平洋・UBE三菱・麻生 3社が立地（福岡県）' },
+    { x: 134, y: 570, label: '津久見', type: 'cem',
+      note: '太平洋セメント大分工場・新津久見鉱山（大分県）' },
+  ];
+
+  function addPins() {
+    var mapEl = document.getElementById('world-map');
+    if (!mapEl) return;
+    var svg = mapEl.querySelector('svg');
+    if (!svg) { setTimeout(addPins, 300); return; }
+
+    pins.forEach(function(pin) {
+      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+      g.setAttribute('class', 'kombinat-pin');
+      g.style.cursor = 'default';
+
+      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
+      titleEl.textContent = pin.label + ' — ' + pin.note;
+      g.appendChild(titleEl);
+
+      var color = '#78716c';
+      var bgColor = 'rgba(120,113,108,0.18)';
+      var strokeColor = 'rgba(120,113,108,0.55)';
+
+      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      glow.setAttribute('cx', pin.x);
+      glow.setAttribute('cy', pin.y - 6);
+      glow.setAttribute('r', '10');
+      glow.setAttribute('fill', bgColor);
+      glow.setAttribute('stroke', strokeColor);
+      glow.setAttribute('stroke-width', '1.5');
+
+      var marker = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      marker.setAttribute('x', pin.x);
+      marker.setAttribute('y', pin.y);
+      marker.setAttribute('font-size', '14');
+      marker.setAttribute('fill', color);
+      marker.setAttribute('text-anchor', 'middle');
+      marker.setAttribute('dominant-baseline', 'middle');
+      marker.setAttribute('style', 'font-family:sans-serif; user-select:none;');
+      marker.textContent = '\u25CF';
+
+      var textLen = pin.label.length;
+      var bgW = textLen * 8 + 6;
+      var bgH = 13;
+
+      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+      labelBg.setAttribute('x', pin.x - bgW / 2);
+      labelBg.setAttribute('y', pin.y + 4);
+      labelBg.setAttribute('width', bgW);
+      labelBg.setAttribute('height', bgH);
+      labelBg.setAttribute('fill', 'rgba(68,64,60,0.85)');
+      labelBg.setAttribute('rx', '3');
+
+      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      label.setAttribute('x', pin.x);
+      label.setAttribute('y', pin.y + 13);
+      label.setAttribute('font-size', '8');
+      label.setAttribute('fill', '#fff');
+      label.setAttribute('text-anchor', 'middle');
+      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
+      label.textContent = pin.label;
+
+      g.appendChild(glow);
+      g.appendChild(marker);
+      g.appendChild(labelBg);
+      g.appendChild(label);
+      svg.appendChild(g);
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
+  } else {
+    setTimeout(addPins, 700);
+  }
+})();
+</script>
+
+## 日本のセメント工業とは
+
+セメントは、原料の**石灰石を約1,450℃のロータリーキルンで焼成**して製造する基礎素材で、コンクリートの主成分として土木・建築の根幹を支えています。日本のセメント工業の最大の特徴は、原料の石灰石を**ほぼ100%国内自給できる**ことです。日本にとって石灰石は、ほぼ唯一「自給可能な大規模地下資源」と位置付けられています{{% cite "cement_assoc_overview" %}}{{% cite "limestone_assoc" %}}。
+
+工場立地は、巨大な石灰石鉱山と一体になっているのが特徴で、**鉱山〜工場〜港湾**が短距離で連結されている景観を作り出します。秩父の武甲山、津久見の新津久見鉱山、宇部の伊佐鉱山、苅田の平尾台、藤原岳など、日本の代表的な石灰石産地はそのままセメント工業地でもあります。
+
+## 基本データ
+
+<div class="stat-grid">
+  <div class="stat-card">
+    <p class="stat-card__label">国内セメント生産量（2024年度）</p>
+    <p class="stat-card__value">約4,587</p>
+    <p class="stat-card__unit">万トン{{% cite "cement_assoc_supply" %}}</p>
+  </div>
+  <div class="stat-card">
+    <p class="stat-card__label">国内工場数</p>
+    <p class="stat-card__value">15社26</p>
+    <p class="stat-card__unit">工場（クリンカ生産能力 約4,706万t/年）{{% cite "cement_assoc_overview" %}}</p>
+  </div>
+  <div class="stat-card">
+    <p class="stat-card__label">石灰石自給率</p>
+    <p class="stat-card__value">100</p>
+    <p class="stat-card__unit">%（年産約1.3億トン）{{% cite "limestone_assoc" %}}</p>
+  </div>
+  <div class="stat-card">
+    <p class="stat-card__label">宇部興産専用道路</p>
+    <p class="stat-card__value">31.94</p>
+    <p class="stat-card__unit">km（私道として日本最長・UBE三菱セメント所有）</p>
+  </div>
+</div>
+
+## 国内3大グループ
+
+日本のセメント業界は、長い再編を経て**太平洋セメント・UBE三菱セメント・住友大阪セメント**の3大グループに集約されています{{% cite "cement_assoc_overview" %}}。3社で国内シェアの大半を占めます。
+
+| グループ | 主な工場 | 親会社・経緯 |
+| -------- | -------- | ------------ |
+| **太平洋セメント（5233）** | 上磯・大船渡・熊谷・藤原・大分（津久見）・苅田・敦賀 など | 1998年に秩父小野田と日本セメントが合併して発足。国内最大手{{% cite "taiheiyo_company" %}} |
+| **UBE三菱セメント** | 宇部・伊佐・苅田・黒崎・青森・上磯 など | 2022年4月に宇部興産（現UBE）と三菱マテリアルのセメント事業が統合して発足{{% cite "ube_mitsubishi" %}} |
+| **住友大阪セメント（5232）** | 赤穂・栃木佐野（旧高倉）・岐阜（春日）・八戸・四国 など | 1994年に住友セメントと大阪セメントが合併{{% cite "soc_company" %}} |
+
+その他、麻生セメント・敦賀セメント・明星セメント・トクヤマ・デンカなどの中堅企業もセメント事業を持っています。
+
+## 主要産地・クラスター
+
+| 産地 | 主な工場 | 石灰石鉱山・特徴 |
+| ---- | -------- | ------------ |
+| **秩父（埼玉）** | 太平洋セメント熊谷工場 | 武甲山。可採鉱量約4億トン。北斜面で大規模採掘が続く |
+| **大船渡（岩手）** | 太平洋セメント大船渡工場 | 主力工場の一つ。アジア・欧州への輸出基地 |
+| **津久見（大分）** | 太平洋セメント大分工場 | 新津久見鉱山（年産1,100万t、埋蔵量45億t規模）。国内最大級の石灰石生産地{{% cite "taiheiyo_company" %}} |
+| **宇部・伊佐（山口）** | UBE三菱セメント 宇部・伊佐工場 | 伊佐鉱山。クリンカ・石灰石を**宇部興産専用道路（31.94km）**で工場へ輸送 |
+| **苅田（福岡）** | 太平洋・UBE三菱・麻生セメントなど複数社が立地 | 平尾台カルストの石灰岩層を背景に複数社が並ぶ「セメント銀座」 |
+| **藤原（三重）** | 太平洋セメント藤原工場 | 藤原岳の石灰石を採掘する内陸工場。中部地方向け |
+| **赤穂（兵庫）** | 住友大阪セメント赤穂工場 | 瀬戸内海に面した大規模工場。生産能力約420万t/年{{% cite "soc_company" %}} |
+| **苫小牧／上磯（北海道）** | 太平洋セメント上磯工場 | 北海道唯一の大規模セメント工場。苫小牧サービスステーション経由で全道に供給 |
+
+## 宇部興産専用道路（私道日本最長）
+
+UBE三菱セメントが所有する**宇部伊佐専用道路**は、山口県美祢市の伊佐鉱山と宇部市の宇部セメント工場・宇部港を結ぶ全長**31.94km**の私道で、私道としては日本最長です。伊佐鉱山で採掘した石灰石とクリンカ（半製品）を、専用ダブルストレーラー（最大積載荷重約120t）で大量に運搬しています。一般車両は通行できず、道路交通法が適用されないため、独自の運用が行われています。
+
+セメント工業では、石灰石を低コストで運ぶための**専用道路・専用鉄道・専用船**が広く活用されており、宇部の専用道路はその象徴的な事例です。
+
+## 石灰石 — 日本で唯一の「自給できる大型地下資源」
+
+石灰石は日本でほぼ100%自給できる数少ない地下資源です{{% cite "limestone_assoc" %}}。年間約1.3億トン規模で採掘され、用途別の内訳はおおよそ次の通りです。
+
+<div class="process-flow">
+  <div class="process-step">
+    <span class="process-step__label">用途1</span>
+    <span class="process-step__name">セメント原料</span>
+    <span class="process-step__temp">約45〜50%</span>
+  </div>
+  <div class="process-arrow">＋</div>
+  <div class="process-step">
+    <span class="process-step__label">用途2</span>
+    <span class="process-step__name">骨材・砕石</span>
+    <span class="process-step__temp">約20〜25%</span>
+  </div>
+  <div class="process-arrow">＋</div>
+  <div class="process-step">
+    <span class="process-step__label">用途3</span>
+    <span class="process-step__name">製鉄・脱硫</span>
+    <span class="process-step__temp">約10〜15%</span>
+  </div>
+  <div class="process-arrow">＋</div>
+  <div class="process-step">
+    <span class="process-step__label">用途4</span>
+    <span class="process-step__name">化学・農業他</span>
+    <span class="process-step__temp">約15〜20%</span>
+  </div>
+</div>
+
+主要石灰石鉱山：武甲山（秩父）／新津久見鉱山（大分）／伊佐鉱山（山口）／藤原岳（三重）／平尾台周辺（福岡）／高知鳥形山（住友大阪セメント）など{{% cite "limestone_assoc" %}}。
+
+## セメント製造プロセス
+
+{{% mermaid %}}
+graph LR
+  A["石灰石採掘\n武甲山・伊佐・津久見"]-->B["原料調合\n(石灰石+粘土+珪石+鉄)"]
+  B-->C["ロータリーキルン\n約1,450℃で焼成"]
+  C-->D["クリンカ生成"]
+  D-->E["石膏添加・粉砕"]
+  E-->F["セメント製品\n(普通・早強・中庸熱・高炉)"]
+  G["副資材\n高炉スラグ・フライアッシュ\n廃棄物・廃タイヤ"]-->C
+  style A fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
+  style C fill:#fee2e2,color:#7f1d1d,stroke:#dc2626,stroke-width:2px
+  style F fill:#d1fae5,color:#065f46,stroke:#10b981,stroke-width:2px
+  style G fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
+{{% /mermaid %}}
+
+セメント工業は廃棄物・副産物の有効利用でも先行しており、**廃タイヤ・廃プラスチック・高炉スラグ・石炭灰（フライアッシュ）・下水汚泥**などを副資材として大量に受け入れる「静脈産業」の側面も持っています。
+
+## カーボンニュートラルへの取り組み
+
+セメント業界の CO2 排出は、日本の産業部門排出量の約4%を占めており、その内訳は石灰石の脱炭酸（プロセス由来）が約60%、化石燃料燃焼（エネルギー由来）が約40%です{{% cite "meti_cement_gx" %}}。
+
+- **省エネ・燃料代替**: 廃棄物由来の熱源・バイオマス燃料の利用
+- **混合セメント**: 高炉スラグ・フライアッシュ混合によるクリンカ比率削減
+- **CCUS**: 排ガスからの CO2 分離・回収・固定化（NEDO のグリーンイノベーション基金で実証進行）
+- **CO2 を吸収するコンクリート**（CO2-SUICOM 等）の研究開発
+
+## 関連企業の時価総額マップ
+
+国内3大グループと関連企業の時価総額を可視化しています。
+
+{{% corp-treemap "5233,5232,4208,5711,4061,4043" %}}
+
+<div class="container-corp mt-5" id="corp-desc">
+<table class="table table-striped table-bordered">
+<thead class="table-light">
+<tr>
+<th class="col-width-2">企業</th>
+<th class="col-width-1">証券コード</th>
+<th class="col-width-7">事業概要・セメントとの関連</th>
+<th class="col-width-05">決算情報</th>
+<th class="col-width-05">配当履歴</th>
+</tr>
+</thead>
+<tbody class="corp-desc">
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 国内3大セメント</td></tr>
+<tr>
+<td>太平洋セメント</td>
+<td>{{% minkabu 5233 %}}</td>
+<td>国内最大手。1998年に秩父小野田と日本セメントが合併して発足。津久見・大船渡など多数の主力工場{{% cite "taiheiyo_company" %}}。</td>
+<td>{{% corplink "https://www.taiheiyo-cement.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5233" %}}</td>
+</tr>
+<tr>
+<td>住友大阪セメント</td>
+<td>{{% minkabu 5232 %}}</td>
+<td>1994年に住友セメントと大阪セメントが合併。赤穂・栃木佐野などに大規模工場{{% cite "soc_company" %}}。</td>
+<td>{{% corplink "https://www.soc.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5232" %}}</td>
+</tr>
+<tr>
+<td>UBE</td>
+<td>{{% minkabu 4208 %}}</td>
+<td>旧宇部興産。2022年にセメント事業を切り出し、三菱マテリアルセメント事業と統合してUBE三菱セメントを発足{{% cite "ube_mitsubishi" %}}。化学・機械を主力に再編。</td>
+<td>{{% corplink "https://www.ube.co.jp/ube/jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4208" %}}</td>
+</tr>
+<tr>
+<td>三菱マテリアル</td>
+<td>{{% minkabu 5711 %}}</td>
+<td>旧セメント事業を2022年にUBEと統合。現在は銅・E-Scrap・電子材料が主力。</td>
+<td>{{% corplink "https://www.mmc.co.jp/corporate/ja/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5711" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ その他セメント・関連</td></tr>
+<tr>
+<td>デンカ</td>
+<td>{{% minkabu 4061 %}}</td>
+<td>新潟青海でアルミナセメント・特殊セメントを製造。電子材料・医薬も展開する総合化学。</td>
+<td>{{% corplink "https://www.denka.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4061" %}}</td>
+</tr>
+<tr>
+<td>トクヤマ</td>
+<td>{{% minkabu 4043 %}}</td>
+<td>山口県周南市を本拠地とする総合化学。徳山製造所でセメントを製造する一方、半導体用多結晶シリコンが主力。</td>
+<td>{{% corplink "https://www.tokuyama.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4043" %}}</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+{{% references %}}
+cement_assoc_overview: 一般社団法人セメント協会「セメント産業の概要」<https://www.jcassoc.or.jp/cement/1jpn/jc.html>
+cement_assoc_supply: 一般社団法人セメント協会「セメントの需給」<https://www.jcassoc.or.jp/cement/1jpn/jh1.html>
+limestone_assoc: 一般社団法人石灰石鉱業協会<https://www.limestone.gr.jp/>
+meti_cement_gx: 経済産業省「製造産業局 グリーンイノベーション基金 セメント分野」<https://www.meti.go.jp/policy/mono_info_service/mono/cement/>
+soc_company: 住友大阪セメント株式会社「会社情報」<https://www.soc.co.jp/company/>
+taiheiyo_company: 太平洋セメント株式会社「会社情報」<https://www.taiheiyo-cement.co.jp/company/>
+ube_mitsubishi: UBE三菱セメント株式会社「会社概要」<https://www.mu-cc.com/company/>
+{{% /references %}}
