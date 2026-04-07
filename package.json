@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ジオゲッサーのめもを記録するリポジトリ。[GeoGuessrのめも](https://geopinning.space/)のソースコードと画像です。",
   "scripts": {
-    "dev": "node scripts/copy-content-assets.js && astro dev",
+    "dev": "node scripts/copy-content-assets.js && node scripts/clean-cache.js && astro dev",
     "build": "node scripts/copy-content-assets.js && astro build && npx pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro"
