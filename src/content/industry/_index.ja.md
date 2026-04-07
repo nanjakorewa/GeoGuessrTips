@@ -39,6 +39,14 @@ card_image: "pipeline.jpg"
 | [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本のセメント工業](/industry/japan-cement/) | 太平洋・UBE三菱・住友大阪の3大グループ。秩父・津久見・宇部・苅田・苫小牧の主要産地と石灰石100%自給 |
 | [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の製紙・パルプ産業](/industry/japan-paper/) | 王子・日本製紙・大王・レンゴーの主要工場と、富士・苫小牧・四国中央市・八代・石巻の紙のまちクラスター |
 
+## 世界の産業
+
+日本以外の国や、世界全体を俯瞰するページです。
+
+| 地域 | コンテンツ |
+| ------- | --------- |
+| [🌍 世界の海運業](/industry/world-shipping/) | コンテナ船社トップ10、2025年新アライアンス、邦船3社とONE、コンテナリース、Baltic Dry Indexなど市況指標、IMO 2050ネットゼロ |
+
 ## 参考文献
 
 {{% references %}}
