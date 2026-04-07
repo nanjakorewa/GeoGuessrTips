@@ -341,6 +341,7 @@ mapName: "japan"
 </tr>
 </thead>
 <tbody class="corp-desc">
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ MLCC・フェライト・パワー半導体基板</td></tr>
 <tr>
 <td>京セラ</td>
 <td>{{% minkabu 6971 %}}</td>
@@ -351,7 +352,7 @@ mapName: "japan"
 <tr>
 <td>村田製作所</td>
 <td>{{% minkabu 6981 %}}</td>
-<td>チタン酸バリウム系セラミックスの焼結技術を基盤に創業。積層セラミックコンデンサ（MLCC）で世界シェア約40%の圧倒的首位です{{% cite "murata_history" %}}。</td>
+<td>チタン酸バリウム系セラミックスの焜結技術を基盤に創業。積層セラミックコンデンサ（MLCC）で世界シェア約40%の圧倒的首位です{{% cite "murata_history" %}}。</td>
 <td>{{% corplink "https://corporate.murata.com/ja-jp/ir" %}}</td>
 <td>{{% dividend "tokyo" "6981" %}}</td>
 </tr>
@@ -361,6 +362,21 @@ mapName: "japan"
 <td>磁性セラミックス「フェライト」の工業化企業として1935年に創業{{% cite "tdk_history" %}}。現在は電子部品・蓄電池（ATL）・センサーが収益の柱。</td>
 <td>{{% corplink "https://www.tdk.com/ja/ir" %}}</td>
 <td>{{% dividend "tokyo" "6762" %}}</td>
+</tr>
+<tr>
+<td>MARUWA</td>
+<td>{{% minkabu 5344 %}}</td>
+<td>瀬戸の窯業家・神戸家が創業。パワー半導体向けセラミック基板・窒化アルミニウム基板で高シェア{{% cite "maruwa_history" %}}。5G通信部品にも展開。</td>
+<td>{{% corplink "https://www.maruwa-g.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5344" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 森村グループ系セラミックス多角化（食器・衛生陶器・碍子・スパークプラグ）</td></tr>
+<tr>
+<td>ノリタケカンパニーリミテド</td>
+<td>{{% minkabu 5331 %}}</td>
+<td>1904年に森村組が設立した日本陶器が前身。洋食器「ノリタケチャイナ」に加え、工業用研削砥石・電子セラミック部品を製造{{% cite "morimura" %}}。</td>
+<td>{{% corplink "https://www.noritake.co.jp/company/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5331" %}}</td>
 </tr>
 <tr>
 <td>TOTO</td>
@@ -383,13 +399,7 @@ mapName: "japan"
 <td>{{% corplink "https://www.ngkntk.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5334" %}}</td>
 </tr>
-<tr>
-<td>ノリタケカンパニーリミテド</td>
-<td>{{% minkabu 5331 %}}</td>
-<td>1904年に森村組が設立した日本陶器が前身。洋食器「ノリタケチャイナ」に加え、工業用研削砥石・電子セラミック部品を製造{{% cite "morimura" %}}。</td>
-<td>{{% corplink "https://www.noritake.co.jp/company/ir/" %}}</td>
-<td>{{% dividend "tokyo" "5331" %}}</td>
-</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 窯業産地転換型（衛生陶器・タイル・ICパッケージ基板・DPF）</td></tr>
 <tr>
 <td>LIXIL</td>
 <td>{{% minkabu 5938 %}}</td>
@@ -403,13 +413,6 @@ mapName: "japan"
 <td>揖斐川の水力発電・カーバイド製造から出発し、セラミック技術を蓄積。現在の主力はICパッケージ基板（有機基板）とディーゼル排ガス浄化フィルター（DPF）の二本柱。DPFは欧州市場で高シェア{{% cite "ibiden_ir" %}}。</td>
 <td>{{% corplink "https://www.ibiden.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4062" %}}</td>
-</tr>
-<tr>
-<td>MARUWA</td>
-<td>{{% minkabu 5344 %}}</td>
-<td>瀬戸の窯業家・神戸家が創業。パワー半導体向けセラミック基板・窒化アルミニウム基板で高シェア{{% cite "maruwa_history" %}}。5G通信部品にも展開。</td>
-<td>{{% corplink "https://www.maruwa-g.com/ir/" %}}</td>
-<td>{{% dividend "tokyo" "5344" %}}</td>
 </tr>
 </tbody>
 </table>

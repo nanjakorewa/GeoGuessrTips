@@ -482,9 +482,11 @@ galleryDir: "shipping"
 
 ## 関連企業の時価総額マップ
 
-海運大手3社と、海運・港湾・物流に関連する主要上場企業の時価総額を可視化しています。
+海運大手3社に加え、**専業海運・港湾運送・倉庫・国際フォワーダー・総合物流**まで、海運バリューチェーンを構成する主要上場企業の時価総額を可視化しました。「船を動かす会社」「港で荷役する会社」「倉庫で保管する会社」「ドア・トゥ・ドアを仲介する会社」という4つの層で眺めると、海運業が単独では成立しない**分業ネットワーク**であることがよく分かります。
 
-{{% corp-treemap "9101,9104,9107,9110,9062,9364,9351,9368,9143" %}}
+{{% corp-treemap "9101,9104,9107,9110,9115,9119,9127,9130,9143,9147,9301,9302,9303,9304,9351,9357,9361,9364" %}}
+<!-- treemap v2: 18 companies -->
+
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -498,68 +500,136 @@ galleryDir: "shipping"
 </tr>
 </thead>
 <tbody class="corp-desc">
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 外航海運（大手3社）</td></tr>
 <tr>
 <td>日本郵船</td>
 <td>{{% minkabu 9101 %}}</td>
-<td>外航海運最大手。LNG船・自動車船・ONE出資。物流・不動産も手がける総合物流企業。</td>
+<td>外航海運最大手。LNG船・自動車船・ドライバルクまで全方位の船隊を運航。ONEの出資者でもあり、郵船ロジスティクスを通じた航空・海上フォワーディングも手掛ける総合物流企業です。</td>
 <td>{{% corplink "https://www.nyk.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9101" %}}</td>
 </tr>
 <tr>
 <td>商船三井</td>
 <td>{{% minkabu 9104 %}}</td>
-<td>LNG船の運航隻数で世界最大級。ドライバルク・タンカー・ONE出資。</td>
+<td>LNG船の運航隻数で世界最大級。ドライバルク・タンカーにも強く、子会社ダイビルを通じた不動産事業が海運市況と相関しない安定収益源となっています。</td>
 <td>{{% corplink "https://ir.mol.co.jp/ja/ir.html" %}}</td>
 <td>{{% dividend "tokyo" "9104" %}}</td>
 </tr>
 <tr>
 <td>川崎汽船</td>
 <td>{{% minkabu 9107 %}}</td>
-<td>自動車船に強み。ドライバルク・ONE出資。海洋資源・洋上風力にも参入。</td>
+<td>自動車船（PCC）で世界有数のシェアを持つほか、ドライバルク・LNG船・ONE出資を組み合わせた筋肉質経営が特徴。洋上風力や海洋資源にも参入しています。</td>
 <td>{{% corplink "https://www.kline.co.jp/ja/ir.html" %}}</td>
 <td>{{% dividend "tokyo" "9107" %}}</td>
 </tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 外航・専業海運（資源・エネルギー・ケミカル）</td></tr>
 <tr>
 <td>NSユナイテッド海運</td>
 <td>{{% minkabu 9110 %}}</td>
-<td>鉄鋼原料（鉄鉱石・石炭）の長距離輸送に強み。日本製鉄グループ。</td>
+<td>鉄鋼原料（鉄鉱石・石炭）の長距離輸送に強み。日本製鉄グループの専属色が濃く、長期用船契約を軸にした安定経営が特徴です。</td>
 <td>{{% corplink "https://www.nsuship.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9110" %}}</td>
 </tr>
 <tr>
-<td>日本通運（NIPPON EXPRESS HD）</td>
+<td>明治海運</td>
+<td>{{% minkabu 9115 %}}</td>
+<td>LNG船・自動車船・バルカーの運航と船舶貸渡を中核に据えた船主系海運会社。ホテル事業も併営し、神戸に本社を構える老舗です。</td>
+<td>{{% corplink "https://www.meiji-shipping.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "9115" %}}</td>
+</tr>
+<tr>
+<td>飯野海運</td>
+<td>{{% minkabu 9119 %}}</td>
+<td>ケミカルタンカー・LPG船を中心とする専業海運。東京・八重洲のオフィスビル賃貸も手掛ける「海運＋不動産」型の中堅です。</td>
+<td>{{% corplink "https://www.iino.co.jp/kaiun/ir/" %}}</td>
+<td>{{% dividend "tokyo" "9119" %}}</td>
+</tr>
+<tr>
+<td>玉井商船</td>
+<td>{{% minkabu 9127 %}}</td>
+<td>鉄鋼原料・セメントのバラ積み輸送に特化した中堅海運。石川島播磨系の船主として歴史があります。</td>
+<td>{{% corplink "https://www.tamai-ss.co.jp/" %}}</td>
+<td>{{% dividend "tokyo" "9127" %}}</td>
+</tr>
+<tr>
+<td>共栄タンカー</td>
+<td>{{% minkabu 9130 %}}</td>
+<td>原油タンカー・VLCCの運航に特化したENEOS系の専業タンカー会社。国内石油元売りの安定輸送を担います。</td>
+<td>{{% corplink "https://www.kyoeitanker.co.jp/" %}}</td>
+<td>{{% dividend "tokyo" "9130" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 総合物流・フォワーダー</td></tr>
+<tr>
+<td>SGホールディングス（佐川急便）</td>
+<td>{{% minkabu 9143 %}}</td>
+<td>国内宅配便2位の佐川急便を中核とする総合物流グループ。国際海上フォワーディングにも進出し、港湾～内陸輸送を一貫して担います。</td>
+<td>{{% corplink "https://www.sg-hldgs.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "9143" %}}</td>
+</tr>
+<tr>
+<td>NIPPON EXPRESS HD（日本通運）</td>
 <td>{{% minkabu 9147 %}}</td>
-<td>陸海空の総合物流。海上フォワーディング・内航RORO連携。</td>
+<td>陸・海・空の総合物流最大手の一角。国内フォワーダー首位で、海上フォワーディング取扱量は郵船ロジスティクスと並ぶ規模を持ちます。</td>
 <td>{{% corplink "https://www.nipponexpress-holdings.com/ja/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9147" %}}</td>
 </tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 倉庫・国際物流</td></tr>
+<tr>
+<td>三菱倉庫</td>
+<td>{{% minkabu 9301 %}}</td>
+<td>倉庫業界のリーダー格で、東京・横浜を中心に港湾倉庫と国際物流を展開。本社ビルをはじめとする不動産事業も収益源です。</td>
+<td>{{% corplink "https://www.mitsubishi-logistics.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "9301" %}}</td>
+</tr>
+<tr>
+<td>三井倉庫HD</td>
+<td>{{% minkabu 9302 %}}</td>
+<td>港湾運送と国際フォワーディングを両輪とする三井系物流。電機メーカー向けのサプライチェーン構築に強みを持ちます。</td>
+<td>{{% corplink "https://www.mitsui-soko.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "9302" %}}</td>
+</tr>
+<tr>
+<td>住友倉庫</td>
+<td>{{% minkabu 9303 %}}</td>
+<td>神戸港を中心に港湾倉庫と国際物流を展開する住友系倉庫。不動産賃貸事業も長年にわたり安定収益を生み出しています。</td>
+<td>{{% corplink "https://www.sumitomo-soko.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "9303" %}}</td>
+</tr>
+<tr>
+<td>澁澤倉庫</td>
+<td>{{% minkabu 9304 %}}</td>
+<td>渋沢栄一が創業した老舗倉庫会社。東京港・横浜港の港湾倉庫と国内物流ネットワークを軸に事業を展開しています。</td>
+<td>{{% corplink "https://www.shibusawa.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "9304" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 港湾運送・荷役（ステベ）</td></tr>
 <tr>
 <td>上組</td>
 <td>{{% minkabu 9364 %}}</td>
-<td>港湾運送最大手。神戸・大阪・名古屋・博多などで強い。</td>
+<td>港湾運送（ステベドア）最大手。神戸・大阪・名古屋・博多などの主要港で強力なシェアを持ち、コンテナ荷役から倉庫・内陸輸送まで一貫して担います。</td>
 <td>{{% corplink "https://www.kamigumi.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9364" %}}</td>
 </tr>
 <tr>
 <td>東洋埠頭</td>
 <td>{{% minkabu 9351 %}}</td>
-<td>港湾運送・倉庫業。東京港・横浜港で実績。</td>
+<td>東京港・横浜港を地盤とする港湾運送・倉庫会社。鋼材・穀物・プラントなど重量物荷役に強みを持ちます。</td>
 <td>{{% corplink "https://www.toyofuto.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9351" %}}</td>
 </tr>
 <tr>
-<td>住友倉庫</td>
-<td>{{% minkabu 9303 %}}</td>
-<td>港湾倉庫・国際物流。神戸港を中心に港湾運送事業を展開。</td>
-<td>{{% corplink "https://www.sumitomo-soko.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "9303" %}}</td>
+<td>名港海運</td>
+<td>{{% minkabu 9357 %}}</td>
+<td>名古屋港を地盤に、トヨタ系の自動車・自動車部品輸送を支える港湾運送会社。完成車輸出物流で重要な役割を果たしています。</td>
+<td>{{% corplink "https://www.meikokaiun.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "9357" %}}</td>
 </tr>
 <tr>
-<td>三井倉庫HD</td>
-<td>{{% minkabu 9302 %}}</td>
-<td>港湾運送・国際フォワーディング。三井系物流。</td>
-<td>{{% corplink "https://www.mitsui-soko.com/ir/" %}}</td>
-<td>{{% dividend "tokyo" "9302" %}}</td>
+<td>伏木海陸運送</td>
+<td>{{% minkabu 9361 %}}</td>
+<td>日本海側の伏木富山港を地盤とする港湾運送会社。対ロシア・北東アジアの貿易物流に強みを持っていました。</td>
+<td>{{% corplink "https://www.fkr.co.jp/" %}}</td>
+<td>{{% dividend "tokyo" "9361" %}}</td>
 </tr>
 </tbody>
 </table>
@@ -590,3 +660,4 @@ nyk_tf: 日本郵船「トランジション・ファイナンス事例」（202
 one_about: Ocean Network Express「Company Profile」<https://www.one-line.com/en/about-us>
 daily_cargo_nyk_log: Daily Cargo「日本郵船・物流事業＜24年3月期決算＞経常益52%減、航空・海上物量1桁減」（2024年5月）<https://www.daily-cargo.com/news/logistics/2024/05/161572/>
 {{% /references %}}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

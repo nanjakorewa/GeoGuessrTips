@@ -186,6 +186,7 @@ graph LR
 </tr>
 </thead>
 <tbody class="corp-desc">
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体デバイス（ロジック・イメージセンサー）</td></tr>
 <tr>
 <td>ソニーグループ</td>
 <td>{{% minkabu 6758 %}}</td>
@@ -194,12 +195,21 @@ graph LR
 <td>{{% dividend "tokyo" "6758" %}}</td>
 </tr>
 <tr>
-<td>東京エレクトロン</td>
-<td>{{% minkabu 8035 %}}</td>
-<td>半導体製造装置世界第3位。塗布現像装置で世界シェア1位。九州に開発・生産子会社。</td>
-<td>{{% corplink "https://www.tel.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "8035" %}}</td>
+<td>ルネサスエレクトロニクス</td>
+<td>{{% minkabu 6723 %}}</td>
+<td>車載マイコン・SoC世界首位級。九州に川尻・大分の2拠点。</td>
+<td>{{% corplink "https://www.renesas.com/ja/about/investor-relations" %}}</td>
+<td>{{% dividend "tokyo" "6723" %}}</td>
 </tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体デバイス（パワー半導体）</td></tr>
+<tr>
+<td>ローム</td>
+<td>{{% minkabu 6963 %}}</td>
+<td>SiCパワー半導体でEV向けインバーター市場を開拓。九州に複数拠点。</td>
+<td>{{% corplink "https://www.rohm.co.jp/investor-relations" %}}</td>
+<td>{{% dividend "tokyo" "6963" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体材料（シリコンウェーハ・フォトレジスト）</td></tr>
 <tr>
 <td>信越化学工業</td>
 <td>{{% minkabu 4063 %}}</td>
@@ -208,25 +218,19 @@ graph LR
 <td>{{% dividend "tokyo" "4063" %}}</td>
 </tr>
 <tr>
-<td>アドバンテスト</td>
-<td>{{% minkabu 6857 %}}</td>
-<td>半導体テスト装置で世界首位級。AI半導体向けテスターの需要増で成長。</td>
-<td>{{% corplink "https://www.advantest.com/ja/investors/" %}}</td>
-<td>{{% dividend "tokyo" "6857" %}}</td>
+<td>SUMCO</td>
+<td>{{% minkabu 3436 %}}</td>
+<td>シリコンウェーハ専業で世界2位（シェア約26%）{{% cite "sumco_ir" %}}。佐賀県伊万里に主力工場。</td>
+<td>{{% corplink "https://www.sumcosi.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3436" %}}</td>
 </tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体製造装置</td></tr>
 <tr>
-<td>ルネサスエレクトロニクス</td>
-<td>{{% minkabu 6723 %}}</td>
-<td>車載マイコン・SoC世界首位級。九州に川尻・大分の2拠点。</td>
-<td>{{% corplink "https://www.renesas.com/ja/about/investor-relations" %}}</td>
-<td>{{% dividend "tokyo" "6723" %}}</td>
-</tr>
-<tr>
-<td>ディスコ</td>
-<td>{{% minkabu 6146 %}}</td>
-<td>ダイシング・グラインディング装置で世界シェア約80%{{% cite "disco_ir" %}}。精密加工装置の独占的企業。</td>
-<td>{{% corplink "https://www.disco.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "6146" %}}</td>
+<td>東京エレクトロン</td>
+<td>{{% minkabu 8035 %}}</td>
+<td>半導体製造装置世界第3位。塗布現像装置で世界シェア1位。九州に開発・生産子会社。</td>
+<td>{{% corplink "https://www.tel.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "8035" %}}</td>
 </tr>
 <tr>
 <td>SCREENホールディングス</td>
@@ -235,20 +239,22 @@ graph LR
 <td>{{% corplink "https://www.screen.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7735" %}}</td>
 </tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 検査・計測・後工程装置</td></tr>
 <tr>
-<td>SUMCO</td>
-<td>{{% minkabu 3436 %}}</td>
-<td>シリコンウェーハ専業で世界2位（シェア約26%）{{% cite "sumco_ir" %}}。佐賀県伊万里に主力工場。</td>
-<td>{{% corplink "https://www.sumcosi.com/ir/" %}}</td>
-<td>{{% dividend "tokyo" "3436" %}}</td>
+<td>アドバンテスト</td>
+<td>{{% minkabu 6857 %}}</td>
+<td>半導体テスト装置で世界首位級。AI半導体向けテスターの需要増で成長。</td>
+<td>{{% corplink "https://www.advantest.com/ja/investors/" %}}</td>
+<td>{{% dividend "tokyo" "6857" %}}</td>
 </tr>
 <tr>
-<td>ローム</td>
-<td>{{% minkabu 6963 %}}</td>
-<td>SiCパワー半導体でEV向けインバーター市場を開拓。九州に複数拠点。</td>
-<td>{{% corplink "https://www.rohm.co.jp/investor-relations" %}}</td>
-<td>{{% dividend "tokyo" "6963" %}}</td>
+<td>ディスコ</td>
+<td>{{% minkabu 6146 %}}</td>
+<td>ダイシング・グラインディング装置で世界シェア約80%{{% cite "disco_ir" %}}。精密加工装置の独占的企業。</td>
+<td>{{% corplink "https://www.disco.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6146" %}}</td>
 </tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ パッケージング・部品</td></tr>
 <tr>
 <td>三井ハイテック</td>
 <td>{{% minkabu 6966 %}}</td>

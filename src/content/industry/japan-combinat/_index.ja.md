@@ -168,6 +168,7 @@ galleryDir: "combinat"
 </tr>
 </thead>
 <tbody class="corp-desc">
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 石油精製</td></tr>
 <tr>
 <td>ENEOSホールディングス</td>
 <td>{{% minkabu 5020 %}}</td>
@@ -176,19 +177,13 @@ galleryDir: "combinat"
 <td>{{% dividend "tokyo" "5020" %}}</td>
 </tr>
 <tr>
-<td>日本製鉄</td>
-<td>{{% minkabu 5401 %}}</td>
-<td>国内最大の鉄鋼メーカー。鹿島・君津に一貫製鉄所。鹿島は2025年に1基体制へ移行。</td>
-<td>{{% corplink "https://www.nipponsteel.com/ir/" %}}</td>
-<td>{{% dividend "tokyo" "5401" %}}</td>
+<td>出光興産</td>
+<td>{{% minkabu 5019 %}}</td>
+<td>京葉に国内最大規模の千葉製油所（220千BD）。三井化学とエチレン装置統合で合意。</td>
+<td>{{% corplink "https://www.idemitsu.com/jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5019" %}}</td>
 </tr>
-<tr>
-<td>JFEホールディングス</td>
-<td>{{% minkabu 5411 %}}</td>
-<td>京葉（千葉）・水島に一貫製鉄所。自動車用ハイテン鋼板に強み。水島で電気炉転換に着手。</td>
-<td>{{% corplink "https://www.jfe-holdings.co.jp/investor/" %}}</td>
-<td>{{% dividend "tokyo" "5411" %}}</td>
-</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 化学・誘導品</td></tr>
 <tr>
 <td>三菱ケミカルグループ</td>
 <td>{{% minkabu 4188 %}}</td>
@@ -204,19 +199,28 @@ galleryDir: "combinat"
 <td>{{% dividend "tokyo" "4005" %}}</td>
 </tr>
 <tr>
-<td>出光興産</td>
-<td>{{% minkabu 5019 %}}</td>
-<td>京葉に国内最大規模の千葉製油所（220千BD）。三井化学とエチレン装置統合で合意。</td>
-<td>{{% corplink "https://www.idemitsu.com/jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "5019" %}}</td>
-</tr>
-<tr>
 <td>旭化成</td>
 <td>{{% minkabu 3407 %}}</td>
 <td>水島を発祥・主力拠点とする総合化学メーカー。LIBセパレーターで世界シェア30〜40%。</td>
 <td>{{% corplink "https://www.asahi-kasei.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3407" %}}</td>
 </tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 鉄鋼</td></tr>
+<tr>
+<td>日本製鉄</td>
+<td>{{% minkabu 5401 %}}</td>
+<td>国内最大の鉄鋼メーカー。鹿島・君津に一貫製鉄所。鹿島は2025年に1基体制へ移行。</td>
+<td>{{% corplink "https://www.nipponsteel.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5401" %}}</td>
+</tr>
+<tr>
+<td>JFEホールディングス</td>
+<td>{{% minkabu 5411 %}}</td>
+<td>京葉（千葉）・水島に一貫製鉄所。自動車用ハイテン鋼板に強み。水島で電気炉転換に着手。</td>
+<td>{{% corplink "https://www.jfe-holdings.co.jp/investor/" %}}</td>
+<td>{{% dividend "tokyo" "5411" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 自動車</td></tr>
 <tr>
 <td>三菱自動車工業</td>
 <td>{{% minkabu 7211 %}}</td>

@@ -235,54 +235,13 @@ mapName: "japan"
 </tr>
 </thead>
 <tbody class="corp-desc">
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 製粉・製糖</td></tr>
 <tr>
 <td>日清製粉グループ本社</td>
 <td>{{% minkabu 2002 %}}</td>
 <td>国内製粉シェア約44%の最大手。千葉食品コンビナートに主力工場。千葉共同サイロの主要株主。</td>
 <td>{{% corplink "https://www.nisshin.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2002" %}}</td>
-</tr>
-<tr>
-<td>東洋水産</td>
-<td>{{% minkabu 2875 %}}</td>
-<td>「マルちゃん」ブランドの即席麺。神戸東部第4工区に工場。北米でも高シェア。</td>
-<td>{{% corplink "https://www.maruchan.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "2875" %}}</td>
-</tr>
-<tr>
-<td>山崎製パン</td>
-<td>{{% minkabu 2212 %}}</td>
-<td>製パン国内最大手。千葉食品コンビナートに生産拠点。</td>
-<td>{{% corplink "https://www.yamazakipan.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "2212" %}}</td>
-</tr>
-<tr>
-<td>ニチレイ</td>
-<td>{{% minkabu 2871 %}}</td>
-<td>冷凍食品・低温物流の大手。千葉食品・京葉食品の両コンビナートに拠点。</td>
-<td>{{% corplink "https://www.nichirei.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "2871" %}}</td>
-</tr>
-<tr>
-<td>サッポロホールディングス</td>
-<td>{{% minkabu 2501 %}}</td>
-<td>サッポロビール千葉工場が京葉食品コンビナート内に立地。ビアガーデンも併設。</td>
-<td>{{% corplink "https://www.sapporoholdings.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "2501" %}}</td>
-</tr>
-<tr>
-<td>キユーピー</td>
-<td>{{% minkabu 2809 %}}</td>
-<td>マヨネーズ国内シェア約65%。神戸東部第4工区・泉佐野の両コンビナートに工場。</td>
-<td>{{% corplink "https://www.kewpie.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "2809" %}}</td>
-</tr>
-<tr>
-<td>不二製油グループ本社</td>
-<td>{{% minkabu 2607 %}}</td>
-<td>植物性油脂・業務用チョコレート・大豆たんぱくの世界的企業。泉佐野食品コンビナートに本社。</td>
-<td>{{% corplink "https://www.fujioilholdings.com/ir/" %}}</td>
-<td>{{% dividend "tokyo" "2607" %}}</td>
 </tr>
 <tr>
 <td>ニップン</td>
@@ -292,18 +251,64 @@ mapName: "japan"
 <td>{{% dividend "tokyo" "2001" %}}</td>
 </tr>
 <tr>
+<td>DM三井製糖HD</td>
+<td>{{% minkabu 2109 %}}</td>
+<td>神戸東部第4工区に製糖工場。高さ30mの原糖倉庫が特徴的。</td>
+<td>{{% corplink "https://www.dm-misui.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2109" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 食用油・調味料</td></tr>
+<tr>
+<td>不二製油グループ本社</td>
+<td>{{% minkabu 2607 %}}</td>
+<td>植物性油脂・業務用チョコレート・大豆たんぱくの世界的企業。泉佐野食品コンビナートに本社。</td>
+<td>{{% corplink "https://www.fujioilholdings.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2607" %}}</td>
+</tr>
+<tr>
+<td>キユーピー</td>
+<td>{{% minkabu 2809 %}}</td>
+<td>マヨネーズ国内シェア約65%。神戸東部第4工区・泉佐野の両コンビナートに工場。</td>
+<td>{{% corplink "https://www.kewpie.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2809" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 製パン・菓子</td></tr>
+<tr>
+<td>山崎製パン</td>
+<td>{{% minkabu 2212 %}}</td>
+<td>製パン国内最大手。千葉食品コンビナートに生産拠点。</td>
+<td>{{% corplink "https://www.yamazakipan.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2212" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 乳製品・冷凍食品</td></tr>
+<tr>
+<td>ニチレイ</td>
+<td>{{% minkabu 2871 %}}</td>
+<td>冷凍食品・低温物流の大手。千葉食品・京葉食品の両コンビナートに拠点。</td>
+<td>{{% corplink "https://www.nichirei.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2871" %}}</td>
+</tr>
+<tr>
 <td>森永乳業</td>
 <td>{{% minkabu 2264 %}}</td>
 <td>京葉食品コンビナートに工場。乳製品・飲料・アイスクリーム。</td>
 <td>{{% corplink "https://www.morinagamilk.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2264" %}}</td>
 </tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ ビール・飲料・食品</td></tr>
 <tr>
-<td>DM三井製糖HD</td>
-<td>{{% minkabu 2109 %}}</td>
-<td>神戸東部第4工区に製糖工場。高さ30mの原糖倉庫が特徴的。</td>
-<td>{{% corplink "https://www.dm-misui.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "2109" %}}</td>
+<td>サッポロホールディングス</td>
+<td>{{% minkabu 2501 %}}</td>
+<td>サッポロビール千葉工場が京葉食品コンビナート内に立地。ビアガーデンも併設。</td>
+<td>{{% corplink "https://www.sapporoholdings.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2501" %}}</td>
+</tr>
+<tr>
+<td>東洋水産</td>
+<td>{{% minkabu 2875 %}}</td>
+<td>「マルちゃん」ブランドの即席麺。神戸東部第4工区に工場。北米でも高シェア。</td>
+<td>{{% corplink "https://www.maruchan.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2875" %}}</td>
 </tr>
 </tbody>
 </table>

@@ -32,6 +32,7 @@ public/sitemap.xml
 public/searchindex.json
 
 ## local build files
+temp/
 iframe/
 MEMO.md
 イラスト*.clip

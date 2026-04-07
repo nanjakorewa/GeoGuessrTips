@@ -284,6 +284,7 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 </tr>
 </thead>
 <tbody class="corp-desc">
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 石油開発・上流</td></tr>
 <tr>
 <td>INPEX</td>
 <td>{{% minkabu 1605 %}}</td>
@@ -291,6 +292,14 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 <td>{{% corplink "https://www.inpex.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "1605" %}}</td>
 </tr>
+<tr>
+<td>石油資源開発（JAPEX）</td>
+<td>{{% minkabu 1662 %}}</td>
+<td>国内の石油・天然ガス開発を手がける。地下貯留技術はCCS事業にも展開。</td>
+<td>{{% corplink "https://www.japex.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "1662" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 石油元売り</td></tr>
 <tr>
 <td>ENEOSホールディングス</td>
 <td>{{% minkabu 5020 %}}</td>
@@ -313,25 +322,19 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 <td>{{% dividend "tokyo" "5021" %}}</td>
 </tr>
 <tr>
-<td>石油資源開発（JAPEX）</td>
-<td>{{% minkabu 1662 %}}</td>
-<td>国内の石油・天然ガス開発を手がける。地下貯留技術はCCS事業にも展開。</td>
-<td>{{% corplink "https://www.japex.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "1662" %}}</td>
+<td>富士石油</td>
+<td>{{% minkabu 5009 %}}</td>
+<td>袖ケ浦製油所（143千BD）を保有。旧アラビア石油の流れを汲む。</td>
+<td>{{% corplink "https://www.foc.co.jp/ja/ir.html" %}}</td>
+<td>{{% dividend "tokyo" "5009" %}}</td>
 </tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ LPガス事業</td></tr>
 <tr>
 <td>岩谷産業</td>
 <td>{{% minkabu 8088 %}}</td>
 <td>LPガス国内最大手。LPガス備蓄制度における民間備蓄の主要な担い手。水素ステーション事業も展開。</td>
 <td>{{% corplink "https://www.iwatani.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8088" %}}</td>
-</tr>
-<tr>
-<td>富士石油</td>
-<td>{{% minkabu 5009 %}}</td>
-<td>袖ケ浦製油所（143千BD）を保有。旧アラビア石油の流れを汲む。</td>
-<td>{{% corplink "https://www.foc.co.jp/ja/ir.html" %}}</td>
-<td>{{% dividend "tokyo" "5009" %}}</td>
 </tr>
 </tbody>
 </table>
