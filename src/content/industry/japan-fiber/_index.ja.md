@@ -13,18 +13,18 @@ galleryDir: "japan-fiber"
 (function() {
   // [日本](/rule/asia/japan/)の繊維・炭素繊維工場（青●）
   var pins = [
-    { x: 190, y: 520, label: '松山', type: 'fiber',
-      note: '帝人 松山工場（愛媛県松山市）— 炭素繊維・CFRTP' },
-    { x: 180, y: 530, label: '三島', type: 'fiber',
-      note: '東レ 三島工場（静岡県） — 合成繊維' },
-    { x: 210, y: 515, label: '愛媛（イマバリ）', type: 'fiber',
-      note: '東レ 愛媛工場（愛媛県今治市）— 炭素繊維・TORAYCA' },
-    { x: 318, y: 478, label: '豊橋/豊田', type: 'fiber',
-      note: '三菱ケミカル 豊橋工場（愛知県豊橋市） — 炭素繊維' },
+    { x: 355, y: 478, label: '三島', type: 'fiber',
+      note: '帝人/東邦テナックス 三島事業所（静岡県三島市）— 炭素繊維・CFRTP / 東レ 三島工場 — 合成繊維' },
+    { x: 205, y: 520, label: '愛媛（松前）', type: 'fiber',
+      note: '東レ 愛媛工場（愛媛県伊予郡松前町）— 炭素繊維・TORAYCA' },
+    { x: 235, y: 510, label: '大竹', type: 'fiber',
+      note: '三菱ケミカル 大竹事業所（広島県大竹市）— 炭素繊維（Pyrofil）' },
+    { x: 318, y: 478, label: '豊橋', type: 'fiber',
+      note: '三菱ケミカル 豊橋事業所（愛知県豊橋市）— 炭素繊維' },
     { x: 127, y: 567, label: '延岡', type: 'fiber',
-      note: '旭化成 延岡工場（宮崎県延岡市） — 合成繊維・ポリエステル' },
+      note: '旭化成 延岡地区（宮崎県延岡市）— キュプラ（Bemberg）・合成繊維' },
     { x: 410, y: 448, label: '東京', type: 'fiber',
-      note: '東レ本社（千代田区） / 帝人本社（中央区）' },
+      note: '東レ本社（中央区日本橋） / 帝人東京本社（千代田区霞が関）' },
   ];
 
   function addPins() {
@@ -103,18 +103,18 @@ galleryDir: "japan-fiber"
 
 ## [日本](/rule/asia/japan/)の合成繊維・炭素繊維産業の概観
 
-[日本](/rule/asia/japan/)の繊維産業は、戦後の織機・紡糸技術革新により世界最大級の地位を確立しました。現在、[日本](/rule/asia/japan/)は<span style="font-weight:700">高性能繊維と炭素繊維複合材で世界をリード</span>し、とりわけ<span style="font-weight:700">炭素繊維（PAN系）の世界市場シェアの約50～60%を占める</span>{{% cite "toray_cf_market" %}}{{% cite "teijin_cf_capacity" %}}主要メーカーを擁しています。一方、ポリエステル・ナイロン・アクリルなどの一般合成繊維は1980年代以来、製造基盤が減少し、[中国](/rule/asia/china/)・[ベトナム](/rule/asia/vietnum/)・[インドネシア](/rule/asia/indonesia/)などへの生産シフトが進んでいます。
+[日本](/rule/asia/japan/)の繊維産業は、戦後の織機・紡糸技術革新により世界最大級の地位を確立しました。現在、[日本](/rule/asia/japan/)は<span style="font-weight:700">高性能繊維と炭素繊維複合材で世界をリード</span>し、とりわけ<span style="font-weight:700">炭素繊維（PAN系）の世界市場シェアの約50～60%を占める</span>{{% cite "toray_ir" %}}{{% cite "teijin_cf_capacity" %}}主要メーカーを擁しています。一方、ポリエステル・ナイロン・アクリルなどの一般合成繊維は1980年代以来、製造基盤が減少し、[中国](/rule/asia/china/)・[ベトナム](/rule/asia/vietnam/)・[インドネシア](/rule/asia/indonesia/)などへの生産シフトが進んでいます。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">3社</div><div class="stat-label">世界炭素繊維市場の50～60%を支配（東レ・帝人・三菱ケミカル）</div></div>
 <div class="stat-card"><div class="stat-num">13.5%</div><div class="stat-label">東レの全球炭素繊維市場シェア（世界1位）</div></div>
-<div class="stat-card"><div class="stat-num">1.3兆円</div><div class="stat-label">東レ—ボーイング787・777X向け供給契約総額（11年契約）</div></div>
+<div class="stat-card"><div class="stat-num">約1兆円</div><div class="stat-label">東レ—ボーイング787・777X向け長期供給契約規模（2014年10年契約、Reuters報道）</div></div>
 <div class="stat-card"><div class="stat-num">特化型素材</div><div class="stat-label">[日本](/rule/asia/japan/)の競争力：高強度PE・ポバール・アラミドTwaron</div></div>
 </div>
 
 ## 世界炭素繊維市場での[日本](/rule/asia/japan/)企業の支配力
 
-全球炭素繊維市場は2023年時点で約134.5億ドル規模{{% cite "cf_market_size" %}}。<span style="font-weight:700">PAN系炭素繊維（ポリアクリロニトリル系）の世界市場では、東レ（Zoltek含む）・帝人（Toho Tenax）・三菱ケミカルが北米・欧州の航空宇宙級炭素繊維の大半を供給</span>{{% cite "toray_cf_market" %}}しており、とりわけ航空機産業では[日本](/rule/asia/japan/)メーカーが圧倒的優位を保有しています。
+全球炭素繊維市場は2023年時点で約134.5億ドル規模{{% cite "cf_market_size" %}}。<span style="font-weight:700">PAN系炭素繊維（ポリアクリロニトリル系）の世界市場では、東レ（Zoltek含む）・帝人（Toho Tenax）・三菱ケミカルが北米・欧州の航空宇宙級炭素繊維の大半を供給</span>{{% cite "toray_ir" %}}しており、とりわけ航空機産業では[日本](/rule/asia/japan/)メーカーが圧倒的優位を保有しています。
 
 | メーカー | 国 | 特徴・用途 |
 | --- | --- | --- |
@@ -128,38 +128,38 @@ galleryDir: "japan-fiber"
 
 ### ボーイング787・777X向けの長期供給契約
 
-東レは2009年からボーイングの787 Dreamlinerに<span style="font-weight:700">TORAYCA 3900系エポキシプリプレグ</span>を独占供給しており{{% cite "boeing_toray" %}}{{% cite "boeing_contract_value" %}}、2020年に契約を延長。787・777X向けのプリプレグ総供給額は<span style="font-weight:700">1.3兆円（110億ドル）超</span>{{% cite "boeing_contract_value" %}}に達しており、この契約だけで東レの炭素繊維事業の売上の大きな柱を形成しています。787は<span style="font-weight:700">機体構造の約50%が複合材で構成</span>され、そのほぼすべてが東レの炭素繊維です。
+東レは長年ボーイングの787 Dreamlinerに<span style="font-weight:700">TORAYCA 3900系エポキシプリプレグ</span>を主要供給しており{{% cite "boeing_toray" %}}、2014年に787・777X向けの10年以上にわたる長期供給契約を締結しました。当時のReuters報道では契約総額は<span style="font-weight:700">約1兆円規模（おおむね80～100億ドル相当）</span>{{% cite "reuters_toray_boeing" %}}と伝えられ、東レの炭素繊維事業の柱を形成しています。787は<span style="font-weight:700">機体構造の約50%が複合材で構成</span>{{% cite "boeing_787_composite" %}}されており、TORAYCAが主要な構造材料として採用されています。
 
 ### 主要メーカーの工場立地と生産能力
 
 | 企業 | 工場所在地 | 用途・特徴 |
 | --- | --- | --- |
-| <span style="font-weight:700">東レ</span>（3402） | 愛媛県今治（TORAYCA）、三島（合成繊維）、South Carolina（新投資） | PAN系高強度、年間35,000MT超能力（Zoltek含む） |
-| <span style="font-weight:700">帝人</span>（3401） | 松山（Toho Tenax CFRTP試験工場）、各地 | 年間6,400～13,500MT能力、CFRTP量産化1分以下 |
-| <span style="font-weight:700">三菱ケミカル</span>（4188） | 豊橋（愛知県豊橋市 Tokai Plant）、Sacramento USA | 2025-2027年に倍増予定、スポーツ・航空向け高性能化 |
-| <span style="font-weight:700">旭化成</span>（3407） | 延岡（宮崎県）、その他 | ポリエステル・ポリアミド、合成繊維主体（高機能化） |
+| <span style="font-weight:700">東レ</span>（3402） | 愛媛県伊予郡松前町（愛媛工場：TORAYCA）、静岡県三島（三島工場：合成繊維）、米Zoltek各拠点、韓国亀尾 | PAN系高強度、全球生産能力 約54,600MT/年（2023年、Zoltek含む） |
+| <span style="font-weight:700">帝人</span>（3401） | 静岡県三島（東邦テナックス三島事業所：炭素繊維）、独Heinsberg、米Greenwood | 全球生産能力 約13,900MT/年、CFRTP量産技術を保有 |
+| <span style="font-weight:700">三菱ケミカル</span>（4188） | 広島県大竹（大竹事業所）、愛知県豊橋（豊橋事業所）、米Sacramento | Pyrofil/Grafilブランド、スポーツ・航空・産業向け |
+| <span style="font-weight:700">旭化成</span>（3407） | 宮崎県延岡（延岡地区）、その他 | キュプラ（Bemberg）、ポリアミド、合成繊維主体 |
 
 ## 合成繊維産業の構造変化：1980年代からの転換
 
 ### ポリエステル・ナイロン・アクリルの衰退
 
-[日本](/rule/asia/japan/)は1960～1980年代、ポリエステル・ナイロン・アクリルなどの汎用合成繊維で世界最大級の生産国でした。しかし<span style="font-weight:700">1980年代以降、低賃金国（[中国](/rule/asia/china/)・[ベトナム](/rule/asia/vietnum/)・[インドネシア](/rule/asia/indonesia/)）への生産シフト</span>が加速し、[日本](/rule/asia/japan/)国内の一般合成繊維生産能力は大幅に縮小されています。現在、[日本](/rule/asia/japan/)の主要メーカーは以下のような<span style="font-weight:700">高機能・高差別化繊維</span>へシフトしました：
+[日本](/rule/asia/japan/)は1960～1980年代、ポリエステル・ナイロン・アクリルなどの汎用合成繊維で世界最大級の生産国でした。しかし<span style="font-weight:700">1980年代以降、低賃金国（[中国](/rule/asia/china/)・[ベトナム](/rule/asia/vietnam/)・[インドネシア](/rule/asia/indonesia/)）への生産シフト</span>が加速し、[日本](/rule/asia/japan/)国内の一般合成繊維生産能力は大幅に縮小されています。現在、[日本](/rule/asia/japan/)の主要メーカーは以下のような<span style="font-weight:700">高機能・高差別化繊維</span>へシフトしました：
 
 - <span style="font-weight:700">炭素繊維（Carbon Fiber）</span> — 東レ・帝人・三菱ケミカル（航空・風力・スポーツ）
 - <span style="font-weight:700">アラミド繊維（Aramid）</span> — 帝人Twaron（防弾・保護服、DuPont Kevlar と競合）
 - <span style="font-weight:700">PVA（ポリビニルアルコール）</span> — クラレ（3405）世界シェア1位（フィルム・接着剤）
-- <span style="font-weight:700">超高強度ポリエチレン</span> — 帝人イザナス（Dyneema グループとの競争）
+- <span style="font-weight:700">超高強度ポリエチレン</span> — 東洋紡イザナス®（DSM/Avient Dyneema®との競争）
 - <span style="font-weight:700">Bemberg（キュプラ繊維）</span> — 旭化成（延岡）、高級ファッション向け
 
 ## 主要5社の比較：世代別シェア
 
 | 企業 | コード | 本社 | 時価総額 | 主力事業 |
 | --- | --- | --- | --- | --- |
-| <span style="font-weight:700">東レ</span> | 3402 | 東京 | 1.97T JPY | 炭素繊維・複合材（world #1）、ポリエステル |
-| <span style="font-weight:700">帝人</span> | 3401 | 東京 | 327.8B JPY | Twaron・アラミド、CFRTP、医療用繊維 |
-| <span style="font-weight:700">三菱ケミカルグループ</span> | 4188 | 東京 | 1.14T JPY | 炭素繊維（成長投資中）、化学品 |
-| <span style="font-weight:700">クラレ</span> | 3405 | 大阪 | ～3.66B USD | PVA・ポバール（global #1）、EVOH |
-| <span style="font-weight:700">旭化成</span> | 3407 | 東京 | ～1.59T JPY相当 | ポリエステル、Bemberg、医療繊維 |
+| <span style="font-weight:700">東レ</span> | 3402 | 東京（中央区日本橋） | 1.97T JPY | 炭素繊維・複合材（world #1）、ポリエステル |
+| <span style="font-weight:700">帝人</span> | 3401 | 大阪（北区中之島）／東京（千代田区霞が関） | 327.8B JPY | Twaron®アラミド、CFRTP、医療用繊維 |
+| <span style="font-weight:700">三菱ケミカルグループ</span> | 4188 | 東京（千代田区丸の内） | 1.14T JPY | 炭素繊維（成長投資中）、化学品 |
+| <span style="font-weight:700">クラレ</span> | 3405 | 岡山・倉敷（本店）／東京（大手町） | ～3.66B USD | PVA・ポバール（global #1）、EVOH |
+| <span style="font-weight:700">旭化成</span> | 3407 | 東京（千代田区有楽町） | ～1.59T JPY相当 | キュプラBemberg、ポリアミド、医療繊維 |
 
 ## 高性能繊維での[日本](/rule/asia/japan/)の競争上の優位
 
@@ -169,11 +169,11 @@ galleryDir: "japan-fiber"
 
 ### 帝人のTwaron — アラミド繊維での優位性
 
-帝人は<span style="font-weight:700">アラミド繊維Twaron（Toho Tenax傘下）</span>を製造し、DuPont Kevlarと世界市場を二分しています{{% cite "twaron_kevlar" %}}。Twaronは<span style="font-weight:700">若干の湿度耐性と成形性で優位</span>あり、特にヨーロッパ・[オランダ](/rule/europe/netherlands/)の市場シェアが高く、防弾衣料・保護服・航空機構造などで採用されています。
+帝人は<span style="font-weight:700">アラミド繊維Twaron®（オランダ子会社Teijin Aramid B.V.が製造）</span>を供給し、DuPont Kevlar®と世界市場を二分しています{{% cite "teijin_aramid" %}}。Twaronは生産拠点を[オランダ](/rule/europe/netherlands/)に置き、防弾衣料・保護服・光ファイバーケーブル補強材・航空機構造などで採用されています。炭素繊維事業の東邦テナックス（Toho Tenax）とは別組織です。
 
 ### 東レのボーイング787独占と世界市場での支配力
 
-東レの<span style="font-weight:700">世界炭素繊維市場シェア約13.5%（2023年）</span>{{% cite "toray_cf_market" %}}は、ボーイング787・777X向けの長期契約に支えられています。加えて、<span style="font-weight:700">Zoltek（[米国](/rule/n_america/usa/)、2014年買収）</span>を傘下に置き{{% cite "toray_zoltek_acquisition" %}}、North America向けの大口生産能力を有しており、2022年時点で全球炭素繊維生産能力は<span style="font-weight:700">57,770MT/年</span>{{% cite "toray_global_capacity" %}}に達しています。
+東レの<span style="font-weight:700">世界炭素繊維市場シェア約13.5%（2023年、売上ベース）</span>{{% cite "cf_market_size" %}}は、ボーイング787・777X向けの長期契約に支えられています。加えて、<span style="font-weight:700">Zoltek（[米国](/rule/n_america/usa/)、2014年買収）</span>を傘下に置き{{% cite "toray_zoltek_acquisition" %}}、産業用大口生産能力を有しており、2023年時点で全球炭素繊維生産能力は<span style="font-weight:700">約54,600MT/年（Zoltek含む）</span>{{% cite "toray_ir" %}}に達しています。
 
 ## 用途別市場分布と応用
 
@@ -192,7 +192,7 @@ galleryDir: "japan-fiber"
 
 - **世界PAN系炭素繊維市場で[日本](/rule/asia/japan/)メーカー支配度：50～60%**（東レ・帝人・三菱ケミカル連合）
 - **特化型高機能繊維での競争力**: アラミド（帝人Twaron）、PVA（クラレ）、超高強度PE、キュプラ
-- **生産拠点**: 愛媛・静岡・愛知・宮崎など、中部～九州の工業地帯に集中
+- **生産拠点**: 愛媛（松前）・静岡（三島）・広島（大竹）・愛知（豊橋）・宮崎（延岡）など、瀬戸内～中部～九州の工業地帯に分散
 - **川下産業との統合**: ボーイング、Vestas（風力）、自動車OEMとの深い供給契約構造
 
 ## なぜ[日本](/rule/asia/japan/)が高性能繊維で世界をリードするのか
@@ -231,15 +231,15 @@ galleryDir: "japan-fiber"
 ## 参考文献
 
 {{% references %}}
-toray_cf_market: Toray Industries「投資家向け情報」<https://www.toray.com/ir/>
-teijin_cf_capacity: Teijin Limited「IR情報」<https://www.teijin.com/>
-cf_market_size: GlobeNewswire「$13.45 Bn Carbon Fiber Global Market」<https://www.globenewswire.com/news-release/2025/11/17/3189181/0/en/13-45-Bn-Carbon-Fiber-Global-Market-Opportunities-and-Strategies-to-2034-Top-10-Players-Control-78-64-of-2023-Market-Led-by-Toray-Industries-at-13-50-Share.html>
-boeing_toray: Toray Composite Materials America「Boeing供給契約」<https://www.toraycma.com/toray-extends-comprehensive-agreement-with-boeing-to-supply-carbon-fiber-torayca-prepreg/>
-boeing_contract_value: Plastics Today「Toray $3 Billion Boeing Contract」<https://www.plasticstoday.com/toray-in-3-billion-deal-to-supply-carbon-fiber-composites-to-boeing>
-kuraray_pva: Fact MR「Polyvinyl Alcohol Market Global Analysis」<https://www.factmr.com/report/polyvinyl-alcohol-market>
-pva_market_size: DataBridge Market Research「Global PVA Market 2025-2035」<https://www.databridgemarketresearch.com/reports/global-polyvinyl-alcohol-pva-market>
-twaron_kevlar: AskDifference「Kevlar vs. Twaron」<https://www.askdifference.com/kevlar-vs-twaron/>
-toray_zoltek_acquisition: IndustryWeek「Toray Buys Zoltek」<https://www.industryweek.com/leadership/growth-strategies/article/21961307/toray-industries-to-buy-us-carbon-fiber-maker-zoltek-cos>
-toray_global_capacity: Carbon Fiber Material「Toray Global Capacity」<https://www.tchaintech.com/NDETAIL/Carbon-fiber-and-resin-production-capacity-of-Japan-Toray-Company>
-jcfa: 日本化学繊維協会「JCFA」<https://www.jcfa.gr.jp/>
+toray_ir: 東レ株式会社「IR資料室・統合報告書」<https://www.toray.co.jp/ir/library/annual/>
+teijin_cf_capacity: 帝人株式会社「統合報告書・IRライブラリー」<https://www.teijin.co.jp/ir/library/annual_report/>
+cf_market_size: GlobeNewswire「$13.45 Bn Carbon Fiber Global Market 2023」<https://www.globenewswire.com/news-release/2025/11/17/3189181/0/en/13-45-Bn-Carbon-Fiber-Global-Market-Opportunities-and-Strategies-to-2034-Top-10-Players-Control-78-64-of-2023-Market-Led-by-Toray-Industries-at-13-50-Share.html>
+boeing_toray: Toray Composite Materials America「Toray extends comprehensive agreement with Boeing」<https://www.toraycma.com/toray-extends-comprehensive-agreement-with-boeing-to-supply-carbon-fiber-torayca-prepreg/>
+reuters_toray_boeing: Reuters「Toray in long-term pact to supply Boeing with carbon fibre」(2014)<https://www.reuters.com/article/us-toray-ind-boeing-idUSKCN0I10JG20141012>
+boeing_787_composite: Boeing「787 Dreamliner by Design — Composites」<https://www.boeing.com/commercial/787/by-design/>
+kuraray_pva: 株式会社クラレ「PVAビジネス」<https://www.kuraray.co.jp/products/poval>
+pva_market_size: Grand View Research「Polyvinyl Alcohol Market Size Report」<https://www.grandviewresearch.com/industry-analysis/polyvinyl-alcohol-pva-market>
+teijin_aramid: Teijin Aramid B.V.「About Twaron」<https://www.teijinaramid.com/en/products/twaron/>
+toray_zoltek_acquisition: Toray Industries「Toray Completes Acquisition of Zoltek」(2014)<https://www.toray.com/global/news/details/20140218150001.html>
+jcfa: 日本化学繊維協会「統計・資料」<https://www.jcfa.gr.jp/>
 {{% /references %}}
