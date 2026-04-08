@@ -132,12 +132,12 @@ galleryDir: "japan-paper"
   <div class="stat-card">
     <p class="stat-card__label">四国中央市 紙関連出荷額</p>
     <p class="stat-card__value">約5,100</p>
-    <p class="stat-card__unit">億円（紙のまち[日本](/rule/asia/japan/)一・20年連続）{{% cite "shikokuchuo_paper" %}}</p>
+    <p class="stat-card__unit">億円（紙のまち日本一・20年連続）{{% cite "shikokuchuo_paper" %}}</p>
   </div>
   <div class="stat-card">
-    <p class="stat-card__label">主要4社</p>
-    <p class="stat-card__value">王子・[日本](/rule/asia/japan/)・大王・レンゴー</p>
-    <p class="stat-card__unit">国内シェアの大半を占める</p>
+    <p class="stat-card__label">国内主要メーカー</p>
+    <p class="stat-card__value">4社</p>
+    <p class="stat-card__unit">王子HD・日本製紙・大王製紙・レンゴーで国内シェアの大半</p>
   </div>
 </div>
 
@@ -281,14 +281,14 @@ galleryDir: "japan-paper"
 <tr>
 <td>北越コーポレーション</td>
 <td>{{% minkabu 3865 %}}</td>
-<td>新潟県長岡市本社。新潟工場を中核とした印刷・情報用紙・特殊紙・パッケージを展開。</td>
+<td>本社は東京都中央区日本橋本石町。主力の新潟工場（新潟県長岡市）を中核に、印刷・情報用紙・特殊紙・パッケージを展開。</td>
 <td>{{% corplink "https://www.hokuetsucorp.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3865" %}}</td>
 </tr>
 <tr>
 <td>中越パルプ工業</td>
 <td>{{% minkabu 3898 %}}</td>
-<td>新潟県新潟市本社。新潟工場を中核に、機械漉き和紙・特殊紙・古紙リサイクルに特化。小規模ながら国内中堅として位置付け。</td>
+<td>本社は富山県高岡市。高岡工場（富山県高岡市）と二塚工場（同）を中核に、印刷用紙・特殊紙・段ボール原紙・竹パルプなどを展開する国内中堅。</td>
 <td>{{% corplink "https://www.chuetsu-pulp.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3898" %}}</td>
 </tr>

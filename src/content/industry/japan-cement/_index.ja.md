@@ -13,8 +13,8 @@ galleryDir: "japan-cement"
 (function() {
   // セメント工場/石灰石産地（グレー●）
   var pins = [
-    { x: 510, y: 142, label: '苫小牧/上磯', type: 'cem',
-      note: '太平洋セメント上磯工場・苫小牧SS' },
+    { x: 510, y: 142, label: '上磯（北斗）', type: 'cem',
+      note: '太平洋セメント上磯工場（北海道北斗市）' },
     { x: 463, y: 318, label: '大船渡', type: 'cem',
       note: '太平洋セメント大船渡工場（岩手県）' },
     { x: 432, y: 410, label: '秩父/熊谷', type: 'cem',
@@ -26,7 +26,7 @@ galleryDir: "japan-cement"
     { x: 170, y: 510, label: '宇部', type: 'cem',
       note: 'UBE三菱セメント 宇部・伊佐工場（山口県）' },
     { x: 122, y: 538, label: '苅田', type: 'cem',
-      note: '太平洋・UBE三菱・麻生 3社が立地（福岡県）' },
+      note: 'UBE三菱セメント 九州工場（福岡県苅田町）' },
     { x: 134, y: 570, label: '津久見', type: 'cem',
       note: '太平洋セメント大分工場・新津久見鉱山（大分県）' },
   ];
@@ -115,14 +115,14 @@ galleryDir: "japan-cement"
 
 <div class="stat-grid">
   <div class="stat-card">
-    <p class="stat-card__label">国内セメント生産量（2024年度）</p>
-    <p class="stat-card__value">約4,587</p>
-    <p class="stat-card__unit">万トン{{% cite "cement_assoc_supply" %}}</p>
+    <p class="stat-card__label">国内セメント生産量（2024年）</p>
+    <p class="stat-card__value">約4,400</p>
+    <p class="stat-card__unit">万トン（セメント協会統計）{{% cite "cement_assoc_supply" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">国内工場数</p>
-    <p class="stat-card__value">15社26</p>
-    <p class="stat-card__unit">工場（クリンカ生産能力 約4,706万t/年）{{% cite "cement_assoc_overview" %}}</p>
+    <p class="stat-card__value">17社28</p>
+    <p class="stat-card__unit">工場（セメント協会 会員実績）{{% cite "cement_assoc_overview" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">石灰石自給率</p>
@@ -142,9 +142,9 @@ galleryDir: "japan-cement"
 
 | グループ | 主な工場 | 親会社・経緯 |
 | -------- | -------- | ------------ |
-| <span style="font-weight:700">太平洋セメント（5233）</span> | 上磯・大船渡・熊谷・藤原・大分（津久見）・苅田・敦賀 など | {{% cite "taiheiyo_company" %}}1998年に秩父小野田と日本セメントが合併して発足。国内最大手。 |
-| <span style="font-weight:700">UBE三菱セメント</span> | 宇部・伊佐・苅田・黒崎・青森・上磯 など | {{% cite "ube_mitsubishi" %}}2022年4月に宇部興産（現UBE）と三菱マテリアルのセメント事業が統合して発足。 |
-| <span style="font-weight:700">住友大阪セメント（5232）</span> | 赤穂・栃木佐野（旧高倉）・岐阜（春日）・八戸・四国 など | {{% cite "soc_company" %}}1994年に住友セメントと大阪セメントが合併。 |
+| <span style="font-weight:700">太平洋セメント（5233）</span> | 上磯・大船渡・熊谷・藤原・大分（津久見）・敦賀・重安・土佐 など | {{% cite "taiheiyo_company" %}}1998年10月に秩父小野田と日本セメントが合併して発足。国内最大手。 |
+| <span style="font-weight:700">UBE三菱セメント</span> | 宇部・伊佐（山口）・九州工場（苅田）・黒崎・青森・岩手・横瀬 など | {{% cite "ube_mitsubishi" %}}2022年4月に宇部興産（現UBE）と三菱マテリアルのセメント事業が統合して発足。 |
+| <span style="font-weight:700">住友大阪セメント（5232）</span> | 赤穂・栃木（佐野）・岐阜（春日）・八戸 など。鳥形山鉱山（高知）で石灰石を採掘 | {{% cite "soc_company" %}}1994年10月に住友セメントと大阪セメントが合併。 |
 
 その他、麻生セメント・敦賀セメント・明星セメント・トクヤマ・デンカなどの中堅企業もセメント事業を持っています。
 
@@ -154,12 +154,12 @@ galleryDir: "japan-cement"
 | ---- | -------- | ------------ |
 | <span style="font-weight:700">秩父（埼玉）</span> | 太平洋セメント熊谷工場 | 武甲山。可採鉱量約4億トン。北斜面で大規模採掘が続く |
 | <span style="font-weight:700">大船渡（岩手）</span> | 太平洋セメント大船渡工場 | 主力工場の一つ。アジア・欧州への輸出基地 |
-| <span style="font-weight:700">津久見（大分）</span> | 太平洋セメント大分工場 | {{% cite "taiheiyo_company" %}}新津久見鉱山（年産1,100万t、埋蔵量45億t規模）。国内最大級の石灰石生産地。 |
+| <span style="font-weight:700">津久見（大分）</span> | 太平洋セメント大分工場 | {{% cite "taiheiyo_company" %}}新津久見鉱山（年産約1,000万t規模）。国内最大級の石灰石生産地。 |
 | <span style="font-weight:700">宇部・伊佐（山口）</span> | UBE三菱セメント 宇部・伊佐工場 | 伊佐鉱山。クリンカ・石灰石を<span style="font-weight:700">宇部興産専用道路（31.94km）</span>{{% cite "ube_mitsubishi" %}}で工場へ輸送 |
-| <span style="font-weight:700">苅田（福岡）</span> | 太平洋・UBE三菱・麻生セメントなど複数社が立地 | 平尾台カルストの石灰岩層を背景に複数社が並ぶ「セメント銀座」 |
+| <span style="font-weight:700">苅田（福岡）</span> | UBE三菱セメント九州工場（旧・三菱マテリアル九州工場） | 平尾台カルストの石灰岩を背景に、苅田港を拠点とした北部九州のセメント積出基地 |
 | <span style="font-weight:700">藤原（三重）</span> | 太平洋セメント藤原工場 | 藤原岳の石灰石を採掘する内陸工場。中部地方向け |
-| <span style="font-weight:700">赤穂（兵庫）</span> | 住友大阪セメント赤穂工場 | {{%  cite "soc_company" %}}瀬戸内海に面した大規模工場。生産能力約420万t/年。 |
-| <span style="font-weight:700">苫小牧／上磯（北海道）</span> | 太平洋セメント上磯工場 | 北海道唯一の大規模セメント工場。苫小牧サービスステーション経由で全道に供給 |
+| <span style="font-weight:700">赤穂（兵庫）</span> | 住友大阪セメント赤穂工場 | {{%  cite "soc_company" %}}瀬戸内海（播磨灘）に面した大規模工場。セメント生産能力 約370万t/年。 |
+| <span style="font-weight:700">上磯（北海道北斗市）</span> | 太平洋セメント上磯工場 | 北海道唯一の大規模セメント工場。苫小牧サービスステーション（苫小牧市）経由で道央・道東へも供給 |
 
 ## 宇部興産専用道路（私道[日本](/rule/asia/japan/)最長）
 
@@ -219,7 +219,7 @@ graph LR
 
 ## カーボンニュートラルへの取り組み
 
-セメント業界の CO2 排出は、[日本](/rule/asia/japan/)の産業部門排出量の約4%を占めており、その内訳は石灰石の脱炭酸（プロセス由来）が約60%、化石燃料燃焼（エネルギー由来）が約40%です{{% cite "meti_cement_gx" %}}。
+セメント業界の CO2 排出は、[日本](/rule/asia/japan/)の総CO2排出量の約4%を占めており、その内訳は石灰石の脱炭酸（プロセス由来）が約60%、化石燃料燃焼（エネルギー由来）が約40%です{{% cite "meti_cement_gx" %}}。
 
 - <span style="font-weight:700">省エネ・燃料代替</span>: 廃棄物由来の熱源・バイオマス燃料の利用
 - <span style="font-weight:700">混合セメント</span>: 高炉スラグ・フライアッシュ混合によるクリンカ比率削減
@@ -230,7 +230,7 @@ graph LR
 
 国内3大グループと関連企業の時価総額を可視化しています。
 
-{{% corp-treemap "5233,5232,4208,5711,4061,4043,3945" %}}
+{{% corp-treemap "5233,5232,4208,5711,4061,4043" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -289,11 +289,11 @@ graph LR
 <td>{{% dividend "tokyo" "4043" %}}</td>
 </tr>
 <tr>
-<td>麻生セメント</td>
-<td>{{% minkabu 3945 %}}</td>
-<td>福岡県大牟田を本拠地とする総合化学・セメント。苅田工場でセメント製造。石炭・化学製品も手がける。</td>
-<td>{{% corplink "https://www.aso.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "3945" %}}</td>
+<td>麻生セメント（非上場）</td>
+<td>—</td>
+<td>福岡県飯塚市を本拠地とする麻生グループのセメント事業会社。主力は田川工場（福岡県田川市）。麻生グループは非上場で、証券コードは付与されていない。</td>
+<td>{{% corplink "https://www.aso-cement.jp/" %}}</td>
+<td>—</td>
 </tr>
 </tbody>
 </table>
@@ -308,7 +308,9 @@ limestone_assoc: 一般社団法人石灰石鉱業協会<https://www.limestone.g
 meti_cement_gx: 経済産業省「製造産業局 グリーンイノベーション基金 セメント分野」<https://www.meti.go.jp/policy/mono_info_service/mono/cement/>
 soc_company: 住友大阪セメント株式会社「会社情報」<https://www.soc.co.jp/company/>
 taiheiyo_company: 太平洋セメント株式会社「会社情報」<https://www.taiheiyo-cement.co.jp/company/>
-ube_mitsubishi: UBE三菱セメント株式会社「会社概要」<https://www.mu-cc.com/company/>
+ube_mitsubishi: UBE三菱セメント株式会社「会社概要・拠点一覧」<https://www.mu-cc.com/company/base.html>
+aso_cement: 麻生セメント株式会社「会社案内」<https://www.aso-cement.jp/company/>
+soc_ako: 住友大阪セメント株式会社「拠点・工場一覧」<https://www.soc.co.jp/company/locations/>
 nikkei_cement_2024: 日本経済新聞「セメント国内販売6年連続減 24年､工事見直し相次ぎ不振」<https://www.nikkei.com/article/DGXZQOUB240OZ0U5A120C2000000/>
 tsukumi_limestone: 大分太平洋鉱業株式会社「津久見の石灰鉱山」<https://oita-taiheiyo.sakura.ne.jp/>
 ube_road_jcassoc: 一般社団法人セメント協会「セメント・コンクリート No. 830, Apr. 2016」<https://www.jcassoc.or.jp/cement/4pdf/jg3_25.pdf>
