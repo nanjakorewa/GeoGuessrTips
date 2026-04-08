@@ -16,19 +16,19 @@ galleryDir: "japan-paper"
     { x: 510, y: 142, label: '苫小牧', type: 'paper',
       note: '王子製紙苫小牧工場（新聞用紙国内最大級）' },
     { x: 482, y: 230, label: '釧路', type: 'paper', above: true,
-      note: '[日本](/rule/asia/japan/)製紙釧路工場・王子マテリア釧路' },
+      note: '日本製紙釧路工場・王子マテリア釧路' },
     { x: 462, y: 218, label: '旭川', type: 'paper',
-      note: '[日本](/rule/asia/japan/)製紙旭川工場' },
+      note: '日本製紙旭川工場' },
     { x: 480, y: 350, label: '石巻', type: 'paper',
-      note: '[日本](/rule/asia/japan/)製紙石巻工場（書籍用紙約4割）' },
+      note: '日本製紙石巻工場（書籍用紙約4割）' },
     { x: 380, y: 460, label: '富士', type: 'paper',
       note: '富士・富士宮 製紙クラスター（70社超集積）' },
     { x: 195, y: 502, label: '四国中央', type: 'paper',
-      note: '大王製紙三島工場ほか（紙のまち[日本](/rule/asia/japan/)一）' },
+      note: '大王製紙三島工場ほか（紙のまち日本一）' },
     { x: 158, y: 502, label: '岩国', type: 'paper', above: true,
-      note: '[日本](/rule/asia/japan/)製紙岩国工場（1939年〜）' },
+      note: '日本製紙岩国工場（1939年〜）' },
     { x: 122, y: 580, label: '八代', type: 'paper',
-      note: '[日本](/rule/asia/japan/)製紙八代工場（九州唯一の多品種一貫生産）' },
+      note: '日本製紙八代工場（九州唯一の多品種一貫生産）' },
     { x: 78, y: 600, label: '日南', type: 'paper',
       note: '王子製紙日南工場' },
   ];
@@ -157,7 +157,7 @@ galleryDir: "japan-paper"
 | 呉工場 | 広島県呉市 | パルプ・板紙 |
 | 日南工場 | 宮崎県日南市 | クラフトパルプ |
 
-### [日本](/rule/asia/japan/)製紙（3863）
+### 日本製紙（3863）
 
 国内2位の総合製紙会社で、印刷・情報用紙・パッケージ・パルプを中核としています{{% cite "nipponpaper_factory" %}}。
 
@@ -184,14 +184,14 @@ galleryDir: "japan-paper"
 | ---- | ---- |
 | <span style="font-weight:700">富士・富士宮（静岡県）</span> | 全国紙生産量の約11%{{%cite "shizuoka_fuji_paper" %}}を占める一大集積地。約70社の製紙会社が立地し、富士山の伏流水を活用。紙・紙加工品出荷額は全国2位{{% cite "shizuoka_fuji_paper" %}} |
 | <span style="font-weight:700">苫小牧（北海道）</span> | 王子製紙苫小牧工場が立地。新聞用紙の国内最大級の供給拠点{{% cite "oji_network" %}} |
-| <span style="font-weight:700">四国中央市（愛媛県）</span> | 大王製紙三島工場・丸住製紙・リンテック・ユニ・チャームなどが集積。<span style="font-weight:700">紙関連製造品出荷額は約5,100億円超で[日本](/rule/asia/japan/)一</span>（20年連続）。書道用紙の全国シェア約7割{{% cite "shikokuchuo_paper" %}} |
-| <span style="font-weight:700">八代（熊本県）</span> | [日本](/rule/asia/japan/)製紙八代工場。球磨川の水を活用し、九州唯一の多品種一貫生産工場 |
-| <span style="font-weight:700">石巻（宮城県）</span> | [日本](/rule/asia/japan/)製紙石巻工場。書籍用紙の国内シェア約4割。東[日本](/rule/asia/japan/)大震災で大きな被害を受けたが復興 |
-| <span style="font-weight:700">岩国（山口県）</span> | [日本](/rule/asia/japan/)製紙岩国工場。1939年{{%cite "nipponpaper_factory" %}}操業の伝統工場。CNF（セルロースナノファイバー）の実証拠点 |
+| <span style="font-weight:700">四国中央市（愛媛県）</span> | 大王製紙三島工場・丸住製紙・リンテック・ユニ・チャームなどが集積。<span style="font-weight:700">紙関連製造品出荷額は約5,100億円超で日本一</span>（20年連続）。書道用紙の全国シェア約7割{{% cite "shikokuchuo_paper" %}} |
+| <span style="font-weight:700">八代（熊本県）</span> | 日本製紙八代工場。球磨川の水を活用し、九州唯一の多品種一貫生産工場 |
+| <span style="font-weight:700">石巻（宮城県）</span> | 日本製紙石巻工場。書籍用紙の国内シェア約4割。東日本大震災で大きな被害を受けたが復興 |
+| <span style="font-weight:700">岩国（山口県）</span> | 日本製紙岩国工場。1939年{{%cite "nipponpaper_factory" %}}操業の伝統工場。CNF（セルロースナノファイバー）の実証拠点 |
 
 ### 「紙のまち」四国中央市
 
-愛媛県四国中央市は、<span style="font-weight:700">紙関連製品の製造品出荷額が約5,100億円超で[日本](/rule/asia/japan/)一</span>を20年連続で維持している、文字通り[日本](/rule/asia/japan/)の紙の中心地です{{% cite "shikokuchuo_paper" %}}。市内には大王製紙三島工場をはじめ、丸住製紙、リンテック、ユニ・チャームなどの主要工場が立ち並びます。書道用紙の全国シェアは約7割に達し、ティッシュ・トイレットペーパーなど家庭紙の生産でも全国有数です。
+愛媛県四国中央市は、<span style="font-weight:700">紙関連製品の製造品出荷額が約5,100億円超で日本一</span>を20年連続で維持している、文字通り[日本](/rule/asia/japan/)の紙の中心地です{{% cite "shikokuchuo_paper" %}}。市内には大王製紙三島工場をはじめ、丸住製紙、リンテック、ユニ・チャームなどの主要工場が立ち並びます。書道用紙の全国シェアは約7割に達し、ティッシュ・トイレットペーパーなど家庭紙の生産でも全国有数です。
 
 ## 古紙リサイクルとサーキュラーエコノミー
 
@@ -225,10 +225,10 @@ galleryDir: "japan-paper"
 
 ## 産業の動向 — 段ボール・CNF・バイオマス
 
-- <span style="font-weight:700">段ボール・パッケージの拡大</span>: EC需要の拡大により段ボール原紙・包装用紙が成長分野に。レンゴー・王子・[日本](/rule/asia/japan/)製紙ともパッケージ分野を強化{{% cite "rengo_outline" %}}。
+- <span style="font-weight:700">段ボール・パッケージの拡大</span>: EC需要の拡大により段ボール原紙・包装用紙が成長分野に。レンゴー・王子・日本製紙ともパッケージ分野を強化{{% cite "rengo_outline" %}}。
 - <span style="font-weight:700">新聞・印刷用紙の縮小</span>: デジタル化とペーパーレス化により需要が減少。各社は工場の生産設備を統廃合し、輸出へシフト。王子製紙苫小牧工場のN-4マシンは2026年3月末停止予定{{% cite "oji_network" %}}。
-- <span style="font-weight:700">CNF（セルロースナノファイバー）</span>: [日本](/rule/asia/japan/)製紙岩国・石巻工場、大王製紙三島工場、王子HDで量産・研究開発が進む。樹脂強化材・化粧品・食品・医療材料への応用{{% cite "nipponpaper_cnf" %}}。
-- <span style="font-weight:700">バイオマス発電</span>: 製紙工程で生じる<span style="font-weight:700">黒液</span>（パルプ製造時の廃液）を燃焼してエネルギー回収する<span style="font-weight:700">「自家バイオマス発電」</span>は、[日本](/rule/asia/japan/)の製紙業界の標準的な取り組み。[日本](/rule/asia/japan/)製紙の勇払バイオマス発電所など、独立した発電事業も展開。
+- <span style="font-weight:700">CNF（セルロースナノファイバー）</span>: 日本製紙岩国・石巻工場、大王製紙三島工場、王子HDで量産・研究開発が進む。樹脂強化材・化粧品・食品・医療材料への応用{{% cite "nipponpaper_cnf" %}}。
+- <span style="font-weight:700">バイオマス発電</span>: 製紙工程で生じる<span style="font-weight:700">黒液</span>（パルプ製造時の廃液）を燃焼してエネルギー回収する<span style="font-weight:700">「自家バイオマス発電」</span>は、[日本](/rule/asia/japan/)の製紙業界の標準的な取り組み。日本製紙の勇払バイオマス発電所など、独立した発電事業も展開。
 
 ## 関連企業の時価総額マップ
 
@@ -252,28 +252,28 @@ galleryDir: "japan-paper"
 <tr>
 <td>王子ホールディングス</td>
 <td>{{% minkabu 3861 %}}</td>
-<td>国内最大手。苫小牧・米子・春日井・日南など主要工場多数。新聞用紙・板紙・パッケージ・パルプ・産業用素材{{% cite "oji_network" %}}。</td>
+<td>国内最大手。1998年に秩父小野田と日本セメントが合併して発足。苫小牧・米子・春日井・日南など全国に主要工場。新聞用紙・板紙・パッケージ・パルプ・産業用素材を総合展開{{% cite "oji_network" %}}。</td>
 <td>{{% corplink "https://www.ojiholdings.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3861" %}}</td>
 </tr>
 <tr>
-<td>[日本](/rule/asia/japan/)製紙</td>
+<td>日本製紙</td>
 <td>{{% minkabu 3863 %}}</td>
-<td>国内2位の総合製紙。石巻・富士・岩国・八代を主力工場とし、印刷・情報用紙・パッケージ・パルプ・CNFを展開{{% cite "nipponpaper_factory" %}}。</td>
+<td>国内2位の総合製紙メーカー。石巻（書籍用紙国内シェア約4割）・富士・岩国（CNF拠点）・八代を主力工場として印刷用紙・パッケージ・パルプ・CNFを展開{{% cite "nipponpaper_factory" %}}。</td>
 <td>{{% corplink "https://www.nipponpapergroup.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3863" %}}</td>
 </tr>
 <tr>
 <td>大王製紙</td>
 <td>{{% minkabu 3880 %}}</td>
-<td>国内3位。四国中央市三島工場が中核。エリエールブランドの衛生用紙でも国内大手{{% cite "daio_locations" %}}。</td>
+<td>国内3位。四国中央市三島工場が単一拠点としては国内最大級。エリエールブランドの衛生用紙・新聞用紙・段ボール原紙を展開する総合製紙メーカー{{% cite "daio_locations" %}}。</td>
 <td>{{% corplink "https://www.daio-paper.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3880" %}}</td>
 </tr>
 <tr>
 <td>レンゴー</td>
 <td>{{% minkabu 3941 %}}</td>
-<td>板紙・段ボール最大手（国内段ボールシェア約25%）。製紙5工場・段ボール25工場のネットワーク{{% cite "rengo_outline" %}}。</td>
+<td>板紙・段ボール最大手。国内段ボール市場でシェア約25%を占有。製紙工場5か所・段ボール工場25か所のネットワークを展開。EC需要拡大で成長基調{{% cite "rengo_outline" %}}。</td>
 <td>{{% corplink "https://www.rengo.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3941" %}}</td>
 </tr>
@@ -281,14 +281,14 @@ galleryDir: "japan-paper"
 <tr>
 <td>北越コーポレーション</td>
 <td>{{% minkabu 3865 %}}</td>
-<td>本社は東京都中央区日本橋本石町。主力の新潟工場（新潟県長岡市）を中核に、印刷・情報用紙・特殊紙・パッケージを展開。</td>
+<td>本社は東京都中央区日本橋本石町。新潟工場（新潟県長岡市）を中核に、印刷・情報用紙・特殊紙・パッケージを展開。国内製紙業界の主要プレイヤーとして紙のまちを支える。</td>
 <td>{{% corplink "https://www.hokuetsucorp.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3865" %}}</td>
 </tr>
 <tr>
 <td>中越パルプ工業</td>
 <td>{{% minkabu 3898 %}}</td>
-<td>本社は富山県高岡市。高岡工場（富山県高岡市）と二塚工場（同）を中核に、印刷用紙・特殊紙・段ボール原紙・竹パルプなどを展開する国内中堅。</td>
+<td>本社は富山県高岡市。高岡工場・二塚工場を中核に、印刷用紙・特殊紙・段ボール原紙・バイオマス発電を展開。竹パルプでも国内最大級の製造能力を持つ中堅製紙メーカー。</td>
 <td>{{% corplink "https://www.chuetsu-pulp.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3898" %}}</td>
 </tr>
