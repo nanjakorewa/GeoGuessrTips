@@ -11,7 +11,7 @@ galleryDir: "thailand-japanese"
 
 <script>
 (function() {
-  // タイの日系製造業集積（thailand マップ）
+  // [タイ](/rule/asia/thai/)の日系製造業集積（thailand マップ）
   var pins = [
     {
         "x": 148,
@@ -121,13 +121,13 @@ galleryDir: "thailand-japanese"
 })();
 </script>
 
-## なぜタイに日系企業が集まるのか
+## なぜ[タイ](/rule/asia/thai/)に日系企業が集まるのか
 
-タイは<span style="font-weight:700">東南アジア最大の日系企業集積地</span>で、JETROが把握する日系企業数は<span style="font-weight:700">約6,083社</span>にのぼります（2024年度調査）{{% cite "jetro_thailand_2024survey" %}}。タイの自動車産業は<span style="font-weight:700">「アジアのデトロイト」</span>と呼ばれ、年間生産台数は2023年に約184万台{{% cite "jetro_auto_production2023" %}}、2024年は中国EV競合と国内需要減で約147万台{{% cite "jetro_auto_production2024" %}}に低下しましたが、その大部分は日系8社が占めます。日系企業の集中は1970年代の繊維、80年代後半のプラザ合意後の電機・自動車進出に始まり、90年代の東部臨海開発（<span style="font-weight:700">Eastern Seaboard Development Programme</span>）と2010年代の<span style="font-weight:700">Eastern Economic Corridor (EEC)</span> {{% cite "eec_office" %}}で加速しました。
+[タイ](/rule/asia/thai/)は<span style="font-weight:700">東南アジア最大の日系企業集積地</span>で、JETROが把握する日系企業数は<span style="font-weight:700">約6,083社</span>にのぼります（2024年度調査）{{% cite "jetro_thailand_2024survey" %}}。[タイ](/rule/asia/thai/)の自動車産業は<span style="font-weight:700">「アジアのデトロイト」</span>と呼ばれ、年間生産台数は2023年に約184万台{{% cite "jetro_auto_production2023" %}}、2024年は[中国](/rule/asia/china/)EV競合と国内需要減で約147万台{{% cite "jetro_auto_production2024" %}}に低下しましたが、その大部分は日系8社が占めます。日系企業の集中は1970年代の繊維、80年代後半のプラザ合意後の電機・自動車進出に始まり、90年代の東部臨海開発（<span style="font-weight:700">Eastern Seaboard Development Programme</span>）と2010年代の<span style="font-weight:700">Eastern Economic Corridor (EEC)</span> {{% cite "eec_office" %}}で加速しました。
 
 <div class="stat-grid">
-<div class="stat-card"><div class="stat-num">~6,083社</div><div class="stat-label">タイの日系企業数（JETRO 2024年調査）</div></div>
-<div class="stat-card"><div class="stat-num">~150万台</div><div class="stat-label">タイ年間自動車生産（2024年、うち日系8割超）</div></div>
+<div class="stat-card"><div class="stat-num">~6,083社</div><div class="stat-label">[タイ](/rule/asia/thai/)の日系企業数（JETRO 2024年調査）</div></div>
+<div class="stat-card"><div class="stat-num">~150万台</div><div class="stat-label">[タイ](/rule/asia/thai/)年間自動車生産（2024年、うち日系8割超）</div></div>
 <div class="stat-card"><div class="stat-num">8社</div><div class="stat-label">日系完成車メーカーの進出数</div></div>
 <div class="stat-card"><div class="stat-num">EEC</div><div class="stat-label">3県（チョンブリ・ラヨーン・チャチェンサオ）の特別経済区</div></div>
 </div>
@@ -145,11 +145,11 @@ galleryDir: "thailand-japanese"
 | スズキ | 2012 | ラヨーン | Swift、Carry |
 | ヒノ自動車 | 1964 | サムロン | トラック・バス |
 
-タイのピックアップトラック生産は世界トップ級で、特に<span style="font-weight:700">Hilux</span>と<span style="font-weight:700">D-MAX</span>は北米以外への輸出ハブとなっています。
+[タイ](/rule/asia/thai/)のピックアップトラック生産は世界トップ級で、特に<span style="font-weight:700">Hilux</span>と<span style="font-weight:700">D-MAX</span>は北米以外への輸出ハブとなっています。
 
 ## 東部臨海工業地帯（Eastern Seaboard）と EEC
 
-東部臨海開発はタイ政府が1980年代に策定した国家戦略で、<span style="font-weight:700">チョンブリ県・ラヨーン県・チャチェンサオ県</span> の3県沿岸を工業集積地として整備しました。レムチャバン港（コンテナ取扱量世界20位前後）と<span style="font-weight:700">マプタプット港</span> （石油化学・LNG）を二大ゲートウェイとし、内陸には以下のような大規模工業団地が並びます{{% cite "boi_thailand" %}}。
+東部臨海開発は[タイ](/rule/asia/thai/)政府が1980年代に策定した国家戦略で、<span style="font-weight:700">チョンブリ県・ラヨーン県・チャチェンサオ県</span> の3県沿岸を工業集積地として整備しました。レムチャバン港（コンテナ取扱量世界20位前後）と<span style="font-weight:700">マプタプット港</span> （石油化学・LNG）を二大ゲートウェイとし、内陸には以下のような大規模工業団地が並びます{{% cite "boi_thailand" %}}。
 
 | 工業団地 | 県 | 主な入居 |
 | --- | --- | --- |
@@ -161,11 +161,11 @@ galleryDir: "thailand-japanese"
 | Laem Chabang Industrial Estate | チョンブリ | 完成車・港湾物流 |
 | Rojana Industrial Park（アユタヤ）| アユタヤ | ホンダ、日系電子部品 |
 
-2017年に発足した<span style="font-weight:700">EEC（Eastern Economic Corridor）</span> {{% cite "eec_office" %}}はこの3県を「次世代産業集積地」として再定義し、BOI（タイ投資委員会）による法人税最大15年免除、外国人雇用緩和、土地取得緩和などの恩典で<span style="font-weight:700">EV、スマートエレクトロニクス、ロボット、航空、医療</span> の10業種を呼び込んでいます。
+2017年に発足した<span style="font-weight:700">EEC（Eastern Economic Corridor）</span> {{% cite "eec_office" %}}はこの3県を「次世代産業集積地」として再定義し、BOI（[タイ](/rule/asia/thai/)投資委員会）による法人税最大15年免除、外国人雇用緩和、土地取得緩和などの恩典で<span style="font-weight:700">EV、スマートエレクトロニクス、ロボット、航空、医療</span> の10業種を呼び込んでいます。
 
 ## 部品サプライヤー（ティア1〜2）
 
-完成車8社の進出に伴い、日系の主要ティア1サプライヤーがすべてタイに展開しています。
+完成車8社の進出に伴い、日系の主要ティア1サプライヤーがすべて[タイ](/rule/asia/thai/)に展開しています。
 
 | カテゴリ | 主要日系企業 |
 | --- | --- |
@@ -173,21 +173,21 @@ galleryDir: "thailand-japanese"
 | 内装・シート | トヨタ紡織、テイ・エス テック、林テレンプ |
 | 樹脂・ゴム | 豊田合成、ブリヂストン、住友ゴム、横浜ゴム |
 | 鋳造・鍛造 | アイシン、リョービ、エフテック |
-| ベアリング | 日本精工（NSK）、NTN、ジェイテクト、ミネベアミツミ |
+| ベアリング | [日本](/rule/asia/japan/)精工（NSK）、NTN、ジェイテクト、ミネベアミツミ |
 | 半導体・電子部品 | ローム、村田製作所、京セラ、TDK、ミネベアミツミ |
-| 鉄鋼 | 日本製鉄（NS-SUS）、JFEスチール |
+| 鉄鋼 | [日本](/rule/asia/japan/)製鉄（NS-SUS）、JFEスチール |
 
-ミネベアミツミはタイに巨大な部品工場群を持ち、日系企業として国内最多級の従業員を雇用しています。
+ミネベアミツミは[タイ](/rule/asia/thai/)に巨大な部品工場群を持ち、日系企業として国内最多級の従業員を雇用しています。
 
 ## 化学・素材
 
-マプタプットに集中する石油化学では<span style="font-weight:700">PTTグローバルケミカル</span> を核に、<span style="font-weight:700">三井化学</span> 、<span style="font-weight:700">住友化学</span> 、<span style="font-weight:700">宇部興産</span> 、<span style="font-weight:700">三菱ケミカル</span> 、<span style="font-weight:700">JSR</span> 、<span style="font-weight:700">カネカ</span> 、<span style="font-weight:700">東ソー</span> 、<span style="font-weight:700">ダイセル</span> などが進出しています{{% cite "boi_thailand" %}}。タイの石油化学はASEAN最大級で、上流石油化学製品の年間生産能力は1,320万トン超、エチレン生産能力は年間450万トン超を持ちます。
+マプタプットに集中する石油化学では<span style="font-weight:700">PTTグローバルケミカル</span> を核に、<span style="font-weight:700">三井化学</span> 、<span style="font-weight:700">住友化学</span> 、<span style="font-weight:700">宇部興産</span> 、<span style="font-weight:700">三菱ケミカル</span> 、<span style="font-weight:700">JSR</span> 、<span style="font-weight:700">カネカ</span> 、<span style="font-weight:700">東ソー</span> 、<span style="font-weight:700">ダイセル</span> などが進出しています{{% cite "boi_thailand" %}}。[タイ](/rule/asia/thai/)の石油化学はASEAN最大級で、上流石油化学製品の年間生産能力は1,320万トン超、エチレン生産能力は年間450万トン超を持ちます。
 
-## 中国EVの台頭という新たな競争
+## [中国](/rule/asia/china/)EVの台頭という新たな競争
 
-2020年代に入り、中国EVメーカーの<span style="font-weight:700">BYD・長城汽車（GWM）・上海汽車（MG）・哪吒（Neta）・GAC Aion</span>がタイに大型投資を発表し、ラヨーン県を中心に新工場を稼働させています{{% cite "nation_thailand_japan_ev" %}}。タイ自動車市場での日系メーカーのシェアは2024年時点で全体の76.7%ですが、乗用車に限定すると64.8%に低下しており、特に中国BEVメーカーが乗用車で18.8%のシェアを獲得しています{{% cite "jetro_thailand_auto_2024" %}}。
+2020年代に入り、[中国](/rule/asia/china/)EVメーカーの<span style="font-weight:700">BYD・長城汽車（GWM）・上海汽車（MG）・哪吒（Neta）・GAC Aion</span>が[タイ](/rule/asia/thai/)に大型投資を発表し、ラヨーン県を中心に新工場を稼働させています{{% cite "nation_thailand_japan_ev" %}}。[タイ](/rule/asia/thai/)自動車市場での日系メーカーのシェアは2024年時点で全体の76.7%ですが、乗用車に限定すると64.8%に低下しており、特に[中国](/rule/asia/china/)BEVメーカーが乗用車で18.8%のシェアを獲得しています{{% cite "jetro_thailand_auto_2024" %}}。
 
-## BOI（タイ投資委員会）恩典の概要
+## BOI（[タイ](/rule/asia/thai/)投資委員会）恩典の概要
 
 | 恩典 | 内容 |
 | --- | --- |
@@ -197,16 +197,41 @@ galleryDir: "thailand-japanese"
 | 100%外資出資 | 製造業は原則可（一部業種制限）|
 | 土地所有 | 外国人投資家の工場用地所有を許可 |
 
-## 在タイ進出 主要日系企業の時価総額マップ（親会社ベース）
+## 在[タイ](/rule/asia/thai/)進出 主要日系企業の時価総額マップ（親会社ベース）
 
 <div class="corp-treemap-section">
 <div class="treemap-legend">
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#059669"></span>完成車</span>
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#6366f1"></span>部品・電装</span>
-<span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#6b7280"></span>タイヤ</span>
+<span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#6b7280"></span>[タイ](/rule/asia/thai/)ヤ</span>
 </div>
 <div class="corp-treemap" data-companies='[{"t":"7203","n":"\u30c8\u30e8\u30bf\u81ea\u52d5\u8eca","s":"\u5b8c\u6210\u8eca","v":50.0,"c":"#059669"},{"t":"6902","n":"\u30c7\u30f3\u30bd\u30fc","s":"\u90e8\u54c1","v":7.0,"c":"#6366f1"},{"t":"7267","n":"\u30db\u30f3\u30c0","s":"\u5b8c\u6210\u8eca","v":6.0,"c":"#059669"},{"t":"5108","n":"\u30d6\u30ea\u30b8\u30b9\u30c8\u30f3","s":"\u30bf\u30a4\u30e4","v":5.0,"c":"#6b7280"},{"t":"7269","n":"\u30b9\u30ba\u30ad","s":"\u5b8c\u6210\u8eca","v":3.0,"c":"#059669"},{"t":"7201","n":"\u65e5\u7523\u81ea\u52d5\u8eca","s":"\u5b8c\u6210\u8eca","v":2.0,"c":"#059669"},{"t":"7259","n":"\u30a2\u30a4\u30b7\u30f3","s":"\u90e8\u54c1","v":1.5,"c":"#6366f1"},{"t":"7202","n":"\u3044\u3059\u3056","s":"\u5b8c\u6210\u8eca","v":1.5,"c":"#059669"},{"t":"7261","n":"\u30de\u30c4\u30c0","s":"\u5b8c\u6210\u8eca","v":1.0,"c":"#059669"},{"t":"7211","n":"\u4e09\u83f1\u81ea\u52d5\u8eca","s":"\u5b8c\u6210\u8eca","v":0.7,"c":"#059669"},{"t":"6473","n":"\u30b8\u30a7\u30a4\u30c6\u30af\u30c8","s":"\u90e8\u54c1","v":0.4,"c":"#6366f1"},{"t":"7205","n":"\u65e5\u91ce\u81ea\u52d5\u8eca","s":"\u5b8c\u6210\u8eca","v":0.4,"c":"#059669"}]'></div>
-<p class="treemap-note">※ 親会社（東証）の時価総額。タイ現法は非上場のため日本本社で代替。</p>
+<p class="treemap-note">※ 親会社（東証）の時価総額。[タイ](/rule/asia/thai/)現法は非上場のため[日本](/rule/asia/japan/)本社で代替。</p>
+</div>
+
+<div class="container-corp mt-5" id="corp-desc">
+<table class="table table-striped table-bordered">
+<thead class="table-light"><tr>
+<th class="col-width-3">企業</th>
+<th class="col-width-2">ティッカー</th>
+<th class="col-width-3">事業</th>
+<th class="col-width-1">IR</th>
+<th class="col-width-1">配当履歴</th>
+</tr></thead>
+<tbody class="corp-desc">
+<tr><td>トヨタ自動車</td><td>7203</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=トヨタ自動車+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7203" %}}</td></tr>
+<tr><td>デンソー</td><td>6902</td><td>部品</td><td>{{% corplink "https://www.google.com/search?q=デンソー+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6902" %}}</td></tr>
+<tr><td>ホンダ</td><td>7267</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=ホンダ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7267" %}}</td></tr>
+<tr><td>ブリジストン</td><td>5108</td><td>[タイ](/rule/asia/thai/)ヤ</td><td>{{% corplink "https://www.google.com/search?q=ブリジストン+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "5108" %}}</td></tr>
+<tr><td>スズキ</td><td>7269</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=スズキ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7269" %}}</td></tr>
+<tr><td>日産自動車</td><td>7201</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=日産自動車+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7201" %}}</td></tr>
+<tr><td>アイシン</td><td>7259</td><td>部品</td><td>{{% corplink "https://www.google.com/search?q=アイシン+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7259" %}}</td></tr>
+<tr><td>いすざ</td><td>7202</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=いすざ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7202" %}}</td></tr>
+<tr><td>マツダ</td><td>7261</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=マツダ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7261" %}}</td></tr>
+<tr><td>三菱自動車</td><td>7211</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=三菱自動車+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7211" %}}</td></tr>
+<tr><td>ジェイテクト</td><td>6473</td><td>部品</td><td>{{% corplink "https://www.google.com/search?q=ジェイテクト+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6473" %}}</td></tr>
+<tr><td>日野自動車</td><td>7205</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=日野自動車+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7205" %}}</td></tr>
+</tbody></table>
 </div>
 
 ## 参考文献

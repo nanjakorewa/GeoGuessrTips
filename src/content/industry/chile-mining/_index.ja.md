@@ -11,7 +11,7 @@ galleryDir: "chile-mining"
 
 <script>
 (function() {
-  // チリの主要鉱山（southAmerica マップ）
+  // [チリ](/rule/cs_america/chile/)の主要鉱山（southAmerica マップ）
   var pins = [
     {
         "x": 132,
@@ -121,20 +121,20 @@ galleryDir: "chile-mining"
 })();
 </script>
 
-## なぜチリが鉱業大国なのか
+## なぜ[チリ](/rule/cs_america/chile/)が鉱業大国なのか
 
-チリ共和国は<span style="font-weight:700">世界最大の銅生産国</span>であり、2024年の銅生産量は<span style="font-weight:700">約550万トン</span>（前年比+4.9%）と、20年来の減少傾向を反転させて成長軌道に戻りました{{% cite "cochilco_2024" %}。世界の銅鉱山生産（約2,300万トン）のうち<span style="font-weight:700">約24%</span>{{% cite "usgs_mcs2025_copper" %}}を1か国で供給しており、第2位ペルー（約12%）、第3位コンゴ民主共和国（約10%）を大きく引き離しています。さらにチリは<span style="font-weight:700">世界最大の銅埋蔵量保有国</span>でもあり、確認埋蔵量の<span style="font-weight:700">約21.3%</span>が国内に集中しています{{% cite "usgs_mcs2025_copper" %}}。
+[チリ](/rule/cs_america/chile/)共和国は<span style="font-weight:700">世界最大の銅生産国</span>であり、2024年の銅生産量は<span style="font-weight:700">約550万トン</span>（前年比+4.9%）と、20年来の減少傾向を反転させて成長軌道に戻りました{{% cite "cochilco_2024" %}。世界の銅鉱山生産（約2,300万トン）のうち<span style="font-weight:700">約24%</span>{{% cite "usgs_mcs2025_copper" %}}を1か国で供給しており、第2位[ペルー](/rule/cs_america/peru/)（約12%）、第3位[コンゴ民主共和国](/rule/africa/rdc/)（約10%）を大きく引き離しています。さらに[チリ](/rule/cs_america/chile/)は<span style="font-weight:700">世界最大の銅埋蔵量保有国</span>でもあり、確認埋蔵量の<span style="font-weight:700">約21.3%</span>が国内に集中しています{{% cite "usgs_mcs2025_copper" %}}。
 
-加えてチリは<span style="font-weight:700">世界第2位のリチウム生産国</span> （1位はオーストラリア）で、アタカマ塩湖（Salar de Atacama）のかん水から世界の<span style="font-weight:700">約34%</span> ものリチウムが採れるとされ、隣接するアルゼンチン・ボリビアと合わせた<span style="font-weight:700">「リチウムトライアングル」</span> は世界リチウム資源の約56%を占めます{{% cite "fastmarkets_lithium_triangle" %}}。
+加えて[チリ](/rule/cs_america/chile/)は<span style="font-weight:700">世界第2位のリチウム生産国</span> （1位は[オーストラリア](/rule/oceania/australia/)）で、アタカマ塩湖（Salar de Atacama）のかん水から世界の<span style="font-weight:700">約34%</span> ものリチウムが採れるとされ、隣接する[アルゼンチン](/rule/cs_america/argentina/)・[ボ[リビア](/rule/africa/libya/)](/rule/cs_america/bolivia/)と合わせた<span style="font-weight:700">「リチウムトライアングル」</span> は世界リチウム資源の約56%を占めます{{% cite "fastmarkets_lithium_triangle" %}}。
 
 <div class="stat-grid">
-<div class="stat-card"><div class="stat-num">~550万t</div><div class="stat-label">2024年 チリ銅生産量（世界1位）</div></div>
+<div class="stat-card"><div class="stat-num">~550万t</div><div class="stat-label">2024年 [チリ](/rule/cs_america/chile/)銅生産量（世界1位）</div></div>
 <div class="stat-card"><div class="stat-num">~24%</div><div class="stat-label">世界銅鉱山生産シェア</div></div>
 <div class="stat-card"><div class="stat-num">~21.3%</div><div class="stat-label">世界銅埋蔵量シェア</div></div>
 <div class="stat-card"><div class="stat-num">~34%</div><div class="stat-label">アタカマ塩湖の世界リチウム供給シェア</div></div>
 </div>
 
-## チリの銅鉱業
+## [チリ](/rule/cs_america/chile/)の銅鉱業
 
 ### 主要銅鉱山
 
@@ -154,13 +154,13 @@ galleryDir: "chile-mining"
 
 ### Codelco — 世界最大の銅生産企業
 
-<span style="font-weight:700">Codelco（Corporación Nacional del Cobre de Chile）</span>は1976年にピノチェト政権下で設立されたチリ国営銅会社で、Chuquicamata・El Teniente・Andina・Salvador・Ministro Hales・Radomiro Tomic・Gabriela Mistralの<span style="font-weight:700">7鉱業部門</span>を運営し、チリの銅生産の25〜30%、単独企業として世界最大級の銅生産者です。1971年のサルバドール・アジェンデ政権下で米系企業（Anaconda、Kennecott）の銅鉱山が国有化されたのが起源で、今もチリ政府100%所有です。近年は鉱床深度化と品位低下で生産が伸び悩み、2024年は<span style="font-weight:700">約132.9万トン</span>（自社操業分）または<span style="font-weight:700">約144万トン</span>（権益分を含む）を生産し、BHPと並ぶ世界最大級の銅生産企業として世界1位の座を維持しました{{% cite "codelco_2024_results" %}}。
+<span style="font-weight:700">Codelco（Corporación Nacional del Cobre de Chile）</span>は1976年にピノチェト政権下で設立された[チリ](/rule/cs_america/chile/)国営銅会社で、Chuquicamata・El Teniente・Andina・Salvador・Ministro Hales・Radomiro Tomic・Gabriela Mistralの<span style="font-weight:700">7鉱業部門</span>を運営し、[チリ](/rule/cs_america/chile/)の銅生産の25〜30%、単独企業として世界最大級の銅生産者です。1971年のサルバドール・アジェンデ政権下で米系企業（Anaconda、Kennecott）の銅鉱山が国有化されたのが起源で、今も[チリ](/rule/cs_america/chile/)政府100%所有です。近年は鉱床深度化と品位低下で生産が伸び悩み、2024年は<span style="font-weight:700">約132.9万トン</span>（自社操業分）または<span style="font-weight:700">約144万トン</span>（権益分を含む）を生産し、BHPと並ぶ世界最大級の銅生産企業として世界1位の座を維持しました{{% cite "codelco_2024_results" %}}。
 
-### 日本企業の関与
+### [日本](/rule/asia/japan/)企業の関与
 
-チリの主要銅鉱山には日本の総合商社・非鉄製錬会社が広く出資しており、<span style="font-weight:700">邦船3社の海上輸送</span>と並ぶ「チリ → 日本」のサプライチェーンを形成しています。
+[チリ](/rule/cs_america/chile/)の主要銅鉱山には[日本](/rule/asia/japan/)の総合商社・非鉄製錬会社が広く出資しており、<span style="font-weight:700">邦船3社の海上輸送</span>と並ぶ「[チリ](/rule/cs_america/chile/) → [日本](/rule/asia/japan/)」のサプライチェーンを形成しています。
 
-| 日本側出資者 | 主な参画鉱山 |
+| [日本](/rule/asia/japan/)側出資者 | 主な参画鉱山 |
 | --- | --- |
 | 三菱商事・三菱マテリアル・日鉱（JECO）| Escondida（12.5%）|
 | 三井物産・JX金属（JCR）| Collahuasi（12%）|
@@ -169,28 +169,28 @@ galleryDir: "chile-mining"
 | 丸紅 | Los Pelambres、Centinela |
 | JX金属（旧パンパシフィック・カッパー）| Caserones（旧オペレータ、現Lundin）|
 
-東予製錬所（住友金属鉱山）、佐賀関製錬所（JX金属）、直島製錬所（三菱マテリアル）などはチリ産の銅精鉱を主要原料としており、日本の銅製錬産業はチリ依存度が高いと言えます。
+東予製錬所（住友金属鉱山）、佐賀関製錬所（JX金属）、直島製錬所（三菱マテリアル）などは[チリ](/rule/cs_america/chile/)産の銅精鉱を主要原料としており、[日本](/rule/asia/japan/)の銅製錬産業は[チリ](/rule/cs_america/chile/)依存度が高いと言えます。
 
-## チリのリチウム鉱業
+## [チリ](/rule/cs_america/chile/)のリチウム鉱業
 
 ### Salar de Atacama — 世界最大級のリチウムかん水資源
 
-リチウムは「<span style="font-weight:700">スポジュメン鉱石</span>」（豪州）と「<span style="font-weight:700">塩湖かん水</span>」（南米）の2系統で生産されますが、後者は太陽蒸発による低コスト生産が可能です{{% cite "usgs_mcs2025_li" %}}。<span style="font-weight:700">Salar de Atacama</span>は標高約2,300mのアンデス高地にある世界最大級の塩湖で、北はチュキカマタの銅鉱山地帯、東はボリビア国境のウユニ塩湖（Salar de Uyuni）に隣接します。
+リチウムは「<span style="font-weight:700">スポジュメン鉱石</span>」（豪州）と「<span style="font-weight:700">塩湖かん水</span>」（南米）の2系統で生産されますが、後者は太陽蒸発による低コスト生産が可能です{{% cite "usgs_mcs2025_li" %}}。<span style="font-weight:700">Salar de Atacama</span>は標高約2,300mのアンデス高地にある世界最大級の塩湖で、北はチュキカマタの銅鉱山地帯、東は[ボ[リビア](/rule/africa/libya/)](/rule/cs_america/bolivia/)国境のウユニ塩湖（Salar de Uyuni）に隣接します。
 
 ### SQMとAlbemarle
 
-チリのリチウム鉱区はチリ国家所有で、<span style="font-weight:700">CORFO（チリ生産振興公社）</span>から特別操業契約を得た2社のみが採掘できます。
+[チリ](/rule/cs_america/chile/)のリチウム鉱区は[チリ](/rule/cs_america/chile/)国家所有で、<span style="font-weight:700">CORFO（[チリ](/rule/cs_america/chile/)生産振興公社）</span>から特別操業契約を得た2社のみが採掘できます。
 
-| 企業 | 国 | チリ生産シェア | 概要 |
+| 企業 | 国 | [チリ](/rule/cs_america/chile/)生産シェア | 概要 |
 | --- | --- | --- | --- |
-| <span style="font-weight:700">SQM（Sociedad Química y Minera de Chile）</span>| <img src="/flags/CL.svg" alt="CL" class="inline-flag" width="20" height="14" loading="lazy" /> チリ | ~65% | 旧Soquimich、ピノチェト時代の婿ジュリオ・ポンセ・レロウ氏が支配。元々はナイトレート（硝石）会社でリチウム化合物・ヨウ素・カリ肥料も主要事業。NYSE: SQM{{% cite "sqm_company" %}} |
-| <span style="font-weight:700">Albemarle</span>| <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~35% | 旧Rockwood Lithium買収（2015）。世界最大級のリチウム企業、米NC州本社。NYSE: ALB{{% cite "investingnews_lithium" %}} |
+| <span style="font-weight:700">SQM（Sociedad Química y Minera de Chile）</span>| <img src="/flags/CL.svg" alt="CL" class="inline-flag" width="20" height="14" loading="lazy" /> [チリ](/rule/cs_america/chile/) | ~65% | 旧Soquimich、ピノチェト時代の婿ジュリオ・ポンセ・レロウ氏が支配。元々はナイトレート（硝石）会社でリチウム化合物・ヨウ素・カリ肥料も主要事業。NYSE: SQM{{% cite "sqm_company" %}} |
+| <span style="font-weight:700">Albemarle</span>| <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> [米国](/rule/n_america/usa/) | ~35% | 旧Rockwood Lithium買収（2015）。世界最大級のリチウム企業、米NC州本社。NYSE: ALB{{% cite "investingnews_lithium" %}} |
 
 SQMはアタカマ操業から<span style="font-weight:700">2024年に201,000トンLCE（炭酸リチウム換算）</span>を生産し、世界のリチウム鉱山単一拠点としてトップ生産量を達成しました{{% cite "investingnews_lithium" %}}。
 
-### チリの新リチウム戦略（2023年）
+### [チリ](/rule/cs_america/chile/)の新リチウム戦略（2023年）
 
-2023年4月、チリのボリッチ大統領は<span style="font-weight:700">「国家リチウム戦略」</span>を発表し、今後の新規リチウム開発はすべて<span style="font-weight:700">官民パートナーシップ</span>で行い、<span style="font-weight:700">Codelcoとチリ国営企業ENAMIが多数株を持つ形でのみ許可</span>するとしました。SQMとAlbemarleの既存契約はそれぞれ2030年・2043年まで有効ですが、2024年5月にSQMはCodelcoとのジョイントベンチャー協定（2025〜2060年）に合意。これによりCodelcoはアタカマ操業の50%以上を取得する見込みです。
+2023年4月、[チリ](/rule/cs_america/chile/)のボリッチ大統領は<span style="font-weight:700">「国家リチウム戦略」</span>を発表し、今後の新規リチウム開発はすべて<span style="font-weight:700">官民パートナーシップ</span>で行い、<span style="font-weight:700">Codelcoと[チリ](/rule/cs_america/chile/)国営企業ENAMIが多数株を持つ形でのみ許可</span>するとしました。SQMとAlbemarleの既存契約はそれぞれ2030年・2043年まで有効ですが、2024年5月にSQMはCodelcoとのジョイントベンチャー協定（2025〜2060年）に合意。これによりCodelcoはアタカマ操業の50%以上を取得する見込みです。
 
 ## アタカマ砂漠の鉱業ベルト
 
@@ -199,7 +199,7 @@ SQMはアタカマ操業から<span style="font-weight:700">2024年に201,000ト
                     │
    ┌────────────┼────────────┐
    │            │            │
- 銅鉱山ベルト    リチウム塩湖    国境（ペルー/ボリビア/アルゼンチン）
+ 銅鉱山ベルト    リチウム塩湖    国境（[ペルー](/rule/cs_america/peru/)/[ボ[リビア](/rule/africa/libya/)](/rule/cs_america/bolivia/)/[アルゼンチン](/rule/cs_america/argentina/)）
  ─────────     ─────────
  Chuquicamata   Salar de Atacama
  Escondida      Salar de Maricunga（開発中）
@@ -208,16 +208,16 @@ SQMはアタカマ操業から<span style="font-weight:700">2024年に201,000ト
  Centinela
 ```
 
-アントファガスタ・トコピジャ・メヒジョネスといった港湾は銅精鉱・銅カソード・リチウム化合物の輸出ハブで、ここから日本・中国・韓国・欧州へ船積みされます。
+アントファガスタ・トコピジャ・メヒジョネスといった港湾は銅精鉱・銅カソード・リチウム化合物の輸出ハブで、ここから[日本](/rule/asia/japan/)・[中国](/rule/asia/china/)・[韓国](/rule/asia/korea/)・欧州へ船積みされます。
 
 ## 産業上の特徴と課題
 
 - <span style="font-weight:700">水資源</span>: アタカマ砂漠は世界で最も乾燥した地域で、銅精鉱の浮選とリチウムかん水の蒸発の両方が水を大量消費。BHPは2018年にEscondidaで<span style="font-weight:700">海水淡水化</span>100%化を達成{{% cite "expomin_chile2024" %}}
-- <span style="font-weight:700">電力</span>: 標高3,000m級の鉱山操業には大量電力が必要。チリは2030年代後半までに鉱業電力の100%再エネ化を目指す
-- <span style="font-weight:700">コミュニティ</span>: アタカマ先住民（リカン・アンタイ、コヤなど）との対話が必須
+- <span style="font-weight:700">電力</span>: 標高3,000m級の鉱山操業には大量電力が必要。[チリ](/rule/cs_america/chile/)は2030年代後半までに鉱業電力の100%再エネ化を目指す
+- <span style="font-weight:700">コミュニティ</span>: アタカマ先住民（リカン・アン[タイ](/rule/asia/thai/)、コヤなど）との対話が必須
 - <span style="font-weight:700">国家主義</span>: 銅は1971年に国有化{{% cite "codelco" %}}、リチウムは2023年戦略で再び国家管理強化の流れ
 
-## チリ鉱業に関わる主要企業の時価総額マップ
+## [チリ](/rule/cs_america/chile/)鉱業に関わる主要企業の時価総額マップ
 
 <div class="corp-treemap-section">
 <div class="treemap-legend">
@@ -225,7 +225,32 @@ SQMはアタカマ操業から<span style="font-weight:700">2024年に201,000ト
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#10b981"></span>リチウム</span>
 </div>
 <div class="corp-treemap" data-companies='[{"t":"BHP","n":"BHP Group","s":"銅・多角化","v":21.0,"c":"#d97706"},{"t":"RIO","n":"Rio Tinto","s":"銅・多角化","v":16.5,"c":"#d97706"},{"t":"FCX","n":"Freeport-McMoRan","s":"銅","v":8.3,"c":"#d97706"},{"t":"SCCO","n":"Southern Copper","s":"銅","v":12.0,"c":"#d97706"},{"t":"GLEN.L","n":"Glencore","s":"銅・多角化","v":8.3,"c":"#d97706"},{"t":"AAL.L","n":"Anglo American","s":"銅・多角化","v":6.8,"c":"#d97706"},{"t":"TECK","n":"Teck Resources","s":"銅・多角化","v":3.8,"c":"#d97706"},{"t":"SQM","n":"SQM","s":"リチウム","v":2.25,"c":"#10b981"},{"t":"ALB","n":"Albemarle","s":"リチウム","v":1.5,"c":"#10b981"},{"t":"ANTO.L","n":"Antofagasta plc","s":"銅","v":3.0,"c":"#d97706"},{"t":"LUN.TO","n":"Lundin Mining","s":"銅","v":1.2,"c":"#d97706"},{"t":"KGH.WA","n":"KGHM","s":"銅","v":0.75,"c":"#d97706"}]'></div>
-<p class="treemap-note">※ 面積は時価総額（概算・1ドル=150円換算）に比例。Codelcoはチリ国営企業のため除外。</p>
+<p class="treemap-note">※ 面積は時価総額（概算・1ドル=150円換算）に比例。Codelcoは[チリ](/rule/cs_america/chile/)国営企業のため除外。</p>
+</div>
+
+<div class="container-corp mt-5" id="corp-desc">
+<table class="table table-striped table-bordered">
+<thead class="table-light"><tr>
+<th class="col-width-3">企業</th>
+<th class="col-width-2">ティッカー</th>
+<th class="col-width-3">事業</th>
+<th class="col-width-1">IR</th>
+<th class="col-width-1">配当履歴</th>
+</tr></thead>
+<tbody class="corp-desc">
+<tr><td>BHP Group</td><td>BHP</td><td>銅・多角化</td><td>{{% corplink "https://www.google.com/search?q=BHP Group+Investor+Relations" %}}</td><td>{{% dividend "other" "BHP" %}}</td></tr>
+<tr><td>Rio Tinto</td><td>RIO</td><td>銅・多角化</td><td>{{% corplink "https://www.google.com/search?q=Rio Tinto+Investor+Relations" %}}</td><td>{{% dividend "other" "RIO" %}}</td></tr>
+<tr><td>Freeport-McMoRan</td><td>FCX</td><td>銅</td><td>{{% corplink "https://www.google.com/search?q=Freeport-McMoRan+Investor+Relations" %}}</td><td>{{% dividend "other" "FCX" %}}</td></tr>
+<tr><td>Southern Copper</td><td>SCCO</td><td>銅</td><td>{{% corplink "https://www.google.com/search?q=Southern Copper+Investor+Relations" %}}</td><td>{{% dividend "other" "SCCO" %}}</td></tr>
+<tr><td>Glencore</td><td>GLEN.L</td><td>銅・多角化</td><td>{{% corplink "https://www.google.com/search?q=Glencore+Investor+Relations" %}}</td><td>{{% dividend "other" "GLEN.L" %}}</td></tr>
+<tr><td>Anglo American</td><td>AAL.L</td><td>銅・多角化</td><td>{{% corplink "https://www.google.com/search?q=Anglo American+Investor+Relations" %}}</td><td>{{% dividend "other" "AAL.L" %}}</td></tr>
+<tr><td>Teck Resources</td><td>TECK</td><td>銅・多角化</td><td>{{% corplink "https://www.google.com/search?q=Teck Resources+Investor+Relations" %}}</td><td>{{% dividend "other" "TECK" %}}</td></tr>
+<tr><td>SQM</td><td>SQM</td><td>リチウム</td><td>{{% corplink "https://www.google.com/search?q=SQM+Investor+Relations" %}}</td><td>{{% dividend "other" "SQM" %}}</td></tr>
+<tr><td>Albemarle</td><td>ALB</td><td>リチウム</td><td>{{% corplink "https://www.google.com/search?q=Albemarle+Investor+Relations" %}}</td><td>{{% dividend "other" "ALB" %}}</td></tr>
+<tr><td>Antofagasta plc</td><td>ANTO.L</td><td>銅</td><td>{{% corplink "https://www.google.com/search?q=Antofagasta plc+Investor+Relations" %}}</td><td>{{% dividend "other" "ANTO.L" %}}</td></tr>
+<tr><td>Lundin Mining</td><td>LUN.TO</td><td>銅</td><td>{{% corplink "https://www.google.com/search?q=Lundin Mining+Investor+Relations" %}}</td><td>{{% dividend "other" "LUN.TO" %}}</td></tr>
+<tr><td>KGHM</td><td>KGH.WA</td><td>銅</td><td>{{% corplink "https://www.google.com/search?q=KGHM+Investor+Relations" %}}</td><td>{{% dividend "other" "KGH.WA" %}}</td></tr>
+</tbody></table>
 </div>
 
 ## 参考文献

@@ -90,6 +90,10 @@ galleryDir: "kashima"
 | 石油化学 | 縮小傾向（エチレン停止） | 国内最大（エチレン210万t/年） |
 | 消費地 | 首都圏北東部 | 首都圏全域 |
 
+## コンビナートの詳細
+
+鹿島コンビナートの製鉄所・石化プラント・企業の個別詳細は[鹿島コンビナートのページ](/industry/japan-combinat/kashima/)をご覧ください。
+
 ## 関連企業の時価総額マップ
 
 鹿島臨海工業地帯環境対策協議会の会員企業のうち、主要な上場企業を時価総額で可視化しています{{% cite "kakankyo" %}}。
@@ -217,9 +221,7 @@ galleryDir: "kashima"
 </table>
 </div>
 
-## コンビナートの詳細
-
-鹿島コンビナートの製鉄所・石化プラント・企業の個別詳細は[鹿島コンビナートのページ](/industry/japan-combinat/kashima/)をご覧ください。
+## 参考文献
 
 {{% references %}}
 ibaraki2022: 不毛の大地を甦らせた鹿島港の開発 <https://www.jcca.or.jp/infra70n/files/PJNO_08.pdf>

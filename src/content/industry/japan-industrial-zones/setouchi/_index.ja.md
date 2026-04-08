@@ -113,6 +113,11 @@ galleryDir: "setouchi"
 
 {{% /timeline %}}
 
+## コンビナートの詳細
+
+- [水島コンビナート](/industry/japan-combinat/mizushima/) — 石油化学・製鉄・自動車の複合コンビナート
+- [日本の造船業](/industry/japan-shipbuilding/) — 瀬戸内海造船クラスターの詳細
+
 ## 関連企業の時価総額マップ
 
 瀬戸内工業地域に関連する主要上場企業の時価総額を可視化しています。
@@ -205,10 +210,7 @@ galleryDir: "setouchi"
 </table>
 </div>
 
-## コンビナートの詳細
-
-- [水島コンビナート](/industry/japan-combinat/mizushima/) — 石油化学・製鉄・自動車の複合コンビナート
-- [日本の造船業](/industry/japan-shipbuilding/) — 瀬戸内海造船クラスターの詳細
+## 参考文献
 
 {{% references %}}
 meti_census: 経済産業省「工業統計調査」<https://www.meti.go.jp/statistics/tyo/kougyo/>

@@ -105,11 +105,11 @@ galleryDir: "japan-cement"
 })();
 </script>
 
-## 日本のセメント工業とは
+## [日本](/rule/asia/japan/)のセメント工業とは
 
-セメントは、原料の<span style="font-weight:700">石灰石を約1,450℃のロータリーキルンで焼成</span>{{% cite "cement_assoc_overview" %}}して製造する基礎素材で、コンクリートの主成分として土木・建築の根幹を支えています。日本のセメント工業の最大の特徴は、原料の石灰石を<span style="font-weight:700">ほぼ100%国内自給できる</span>{{% cite "limestone_assoc" %}}ことです。日本にとって石灰石は、ほぼ唯一「自給可能な大規模地下資源」と位置付けられています{{% cite "cement_assoc_overview" %}}{{% cite "limestone_assoc" %}}。
+セメントは、原料の<span style="font-weight:700">石灰石を約1,450℃のロータリーキルンで焼成</span>{{% cite "cement_assoc_overview" %}}して製造する基礎素材で、コンクリートの主成分として土木・建築の根幹を支えています。[日本](/rule/asia/japan/)のセメント工業の最大の特徴は、原料の石灰石を<span style="font-weight:700">ほぼ100%国内自給できる</span>{{% cite "limestone_assoc" %}}ことです。[日本](/rule/asia/japan/)にとって石灰石は、ほぼ唯一「自給可能な大規模地下資源」と位置付けられています{{% cite "cement_assoc_overview" %}}{{% cite "limestone_assoc" %}}。
 
-工場立地は、巨大な石灰石鉱山と一体になっているのが特徴で、<span style="font-weight:700">鉱山〜工場〜港湾</span>が短距離で連結されている景観を作り出します。秩父の武甲山、津久見の新津久見鉱山、宇部の伊佐鉱山、苅田の平尾台、藤原岳など、日本の代表的な石灰石産地はそのままセメント工業地でもあります。
+工場立地は、巨大な石灰石鉱山と一体になっているのが特徴で、<span style="font-weight:700">鉱山〜工場〜港湾</span>が短距離で連結されている景観を作り出します。秩父の武甲山、津久見の新津久見鉱山、宇部の伊佐鉱山、苅田の平尾台、藤原岳など、[日本](/rule/asia/japan/)の代表的な石灰石産地はそのままセメント工業地でもあります。
 
 ## 基本データ
 
@@ -132,17 +132,17 @@ galleryDir: "japan-cement"
   <div class="stat-card">
     <p class="stat-card__label">宇部興産専用道路</p>
     <p class="stat-card__value">31.94</p>
-    <p class="stat-card__unit">km（私道として日本最長・UBE三菱セメント所有）</p>
+    <p class="stat-card__unit">km（私道として[日本](/rule/asia/japan/)最長・UBE三菱セメント所有）</p>
   </div>
 </div>
 
 ## 国内3大グループ
 
-日本のセメント業界は、長い再編を経て<span style="font-weight:700">太平洋セメント・UBE三菱セメント・住友大阪セメント</span>の3大グループに集約されています{{% cite "cement_assoc_overview" %}}。3社で国内シェアの大半を占めます。
+[日本](/rule/asia/japan/)のセメント業界は、長い再編を経て<span style="font-weight:700">太平洋セメント・UBE三菱セメント・住友大阪セメント</span>の3大グループに集約されています{{% cite "cement_assoc_overview" %}}。3社で国内シェアの大半を占めます。
 
 | グループ | 主な工場 | 親会社・経緯 |
 | -------- | -------- | ------------ |
-| <span style="font-weight:700">太平洋セメント（5233）</span> | 上磯・大船渡・熊谷・藤原・大分（津久見）・苅田・敦賀 など | {{% cite "taiheiyo_company" %}}1998年に秩父小野田と日本セメントが合併して発足。国内最大手。 |
+| <span style="font-weight:700">太平洋セメント（5233）</span> | 上磯・大船渡・熊谷・藤原・大分（津久見）・苅田・敦賀 など | {{% cite "taiheiyo_company" %}}1998年に秩父小野田と[日本](/rule/asia/japan/)セメントが合併して発足。国内最大手。 |
 | <span style="font-weight:700">UBE三菱セメント</span> | 宇部・伊佐・苅田・黒崎・青森・上磯 など | {{% cite "ube_mitsubishi" %}}2022年4月に宇部興産（現UBE）と三菱マテリアルのセメント事業が統合して発足。 |
 | <span style="font-weight:700">住友大阪セメント（5232）</span> | 赤穂・栃木佐野（旧高倉）・岐阜（春日）・八戸・四国 など | {{% cite "soc_company" %}}1994年に住友セメントと大阪セメントが合併。 |
 
@@ -161,15 +161,15 @@ galleryDir: "japan-cement"
 | <span style="font-weight:700">赤穂（兵庫）</span> | 住友大阪セメント赤穂工場 | {{%  cite "soc_company" %}}瀬戸内海に面した大規模工場。生産能力約420万t/年。 |
 | <span style="font-weight:700">苫小牧／上磯（北海道）</span> | 太平洋セメント上磯工場 | 北海道唯一の大規模セメント工場。苫小牧サービスステーション経由で全道に供給 |
 
-## 宇部興産専用道路（私道日本最長）
+## 宇部興産専用道路（私道[日本](/rule/asia/japan/)最長）
 
-UBE三菱セメントが所有する<span style="font-weight:700">宇部伊佐専用道路</span>は、{{%  cite "ube_mitsubishi" %}}山口県美祢市の伊佐鉱山と宇部市の宇部セメント工場・宇部港を結ぶ全長<span style="font-weight:700">31.94km</span>の私道で、私道としては日本最長です。伊佐鉱山で採掘した石灰石とクリンカ（半製品）を、専用ダブルストレーラー（最大積載荷重約120t）で大量に運搬しています。一般車両は通行できず、道路交通法が適用されないため、独自の運用が行われています。
+UBE三菱セメントが所有する<span style="font-weight:700">宇部伊佐専用道路</span>は、{{%  cite "ube_mitsubishi" %}}山口県美祢市の伊佐鉱山と宇部市の宇部セメント工場・宇部港を結ぶ全長<span style="font-weight:700">31.94km</span>の私道で、私道としては[日本](/rule/asia/japan/)最長です。伊佐鉱山で採掘した石灰石とクリンカ（半製品）を、専用ダブルストレーラー（最大積載荷重約120t）で大量に運搬しています。一般車両は通行できず、道路交通法が適用されないため、独自の運用が行われています。
 
 セメント工業では、石灰石を低コストで運ぶための<span style="font-weight:700">専用道路・専用鉄道・専用船</span>が広く活用されており、宇部の専用道路はその象徴的な事例です。
 
-## 石灰石 — 日本で唯一の「自給できる大型地下資源」
+## 石灰石 — [日本](/rule/asia/japan/)で唯一の「自給できる大型地下資源」
 
-石灰石は日本でほぼ100%自給できる数少ない地下資源です{{% cite "limestone_assoc" %}}。年間約1.3億トン規模で採掘され、{{%  cite "limestone_assoc" %}}用途別の内訳はおおよそ次の通りです。
+石灰石は[日本](/rule/asia/japan/)でほぼ100%自給できる数少ない地下資源です{{% cite "limestone_assoc" %}}。年間約1.3億トン規模で採掘され、{{%  cite "limestone_assoc" %}}用途別の内訳はおおよそ次の通りです。
 
 <div class="process-flow">
   <div class="process-step">
@@ -208,18 +208,18 @@ graph LR
   C-->D["クリンカ生成"]
   D-->E["石膏添加・粉砕"]
   E-->F["セメント製品\n(普通・早強・中庸熱・高炉)"]
-  G["副資材\n高炉スラグ・フライアッシュ\n廃棄物・廃タイヤ"]{{%  cite "cement_assoc_overview" %}}-->C
+  G["副資材\n高炉スラグ・フライアッシュ\n廃棄物・廃[タイ](/rule/asia/thai/)ヤ"]{{%  cite "cement_assoc_overview" %}}-->C
   style A fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
   style C fill:#fee2e2,color:#7f1d1d,stroke:#dc2626,stroke-width:2px
   style F fill:#d1fae5,color:#065f46,stroke:#10b981,stroke-width:2px
   style G fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
 {{% /mermaid %}}
 
-セメント工業は廃棄物・副産物の有効利用でも先行しており、{{%  cite "cement_assoc_overview" %}}<span style="font-weight:700">廃タイヤ・廃プラスチック・高炉スラグ・石炭灰（フライアッシュ）・下水汚泥</span>などを副資材として大量に受け入れる「静脈産業」の側面も持っています。
+セメント工業は廃棄物・副産物の有効利用でも先行しており、{{%  cite "cement_assoc_overview" %}}<span style="font-weight:700">廃[タイ](/rule/asia/thai/)ヤ・廃プラスチック・高炉スラグ・石炭灰（フライアッシュ）・下水汚泥</span>などを副資材として大量に受け入れる「静脈産業」の側面も持っています。
 
 ## カーボンニュートラルへの取り組み
 
-セメント業界の CO2 排出は、日本の産業部門排出量の約4%を占めており、その内訳は石灰石の脱炭酸（プロセス由来）が約60%、化石燃料燃焼（エネルギー由来）が約40%です{{% cite "meti_cement_gx" %}}。
+セメント業界の CO2 排出は、[日本](/rule/asia/japan/)の産業部門排出量の約4%を占めており、その内訳は石灰石の脱炭酸（プロセス由来）が約60%、化石燃料燃焼（エネルギー由来）が約40%です{{% cite "meti_cement_gx" %}}。
 
 - <span style="font-weight:700">省エネ・燃料代替</span>: 廃棄物由来の熱源・バイオマス燃料の利用
 - <span style="font-weight:700">混合セメント</span>: 高炉スラグ・フライアッシュ混合によるクリンカ比率削減
@@ -248,7 +248,7 @@ graph LR
 <tr>
 <td>太平洋セメント</td>
 <td>{{% minkabu 5233 %}}</td>
-<td>{{%  cite "taiheiyo_company" %}}国内最大手。1998年に秩父小野田と日本セメントが合併して発足。津久見・大船渡など多数の主力工場。</td>
+<td>{{%  cite "taiheiyo_company" %}}国内最大手。1998年に秩父小野田と[日本](/rule/asia/japan/)セメントが合併して発足。津久見・大船渡など多数の主力工場。</td>
 <td>{{% corplink "https://www.taiheiyo-cement.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5233" %}}</td>
 </tr>
@@ -298,6 +298,8 @@ graph LR
 </tbody>
 </table>
 </div>
+
+## 参考文献
 
 {{% references %}}
 cement_assoc_overview: 一般社団法人セメント協会「セメント産業の概要」<https://www.jcassoc.or.jp/cement/1jpn/jc.html>

@@ -113,11 +113,11 @@ galleryDir: "combinat"
 })();
 </script>
 
-## 日本のコンビナートとは
+## [日本](/rule/asia/japan/)のコンビナートとは
 
-「コンビナート（kombinat）」はロシア語に由来する言葉で、石油精製・石油化学・製鉄・電力などの施設が湾岸の埋立地に集積して、原材料・中間製品・エネルギーをパイプラインで融通し合う生産体系です。日本では1950〜70年代の<span style="font-weight:700">高度経済成長期</span>に、政府の「新産業都市」政策のもとで全国各地に建設されました。コンビナート内の企業間でパイプラインを通じて物資を融通することで、輸送コストを年間数百億円単位で削減でき、CO₂排出削減にも役立っています。
+「コンビナート（kombinat）」は[ロシア](/rule/asia/russia/)語に由来する言葉で、石油精製・石油化学・製鉄・電力などの施設が湾岸の埋立地に集積して、原材料・中間製品・エネルギーをパイプラインで融通し合う生産体系です。[日本](/rule/asia/japan/)では1950〜70年代の<span style="font-weight:700">高度経済成長期</span>に、政府の「新産業都市」政策のもとで全国各地に建設されました。コンビナート内の企業間でパイプラインを通じて物資を融通することで、輸送コストを年間数百億円単位で削減でき、CO₂排出削減にも役立っています。
 
-2024年時点で日本にはエチレンプラントを持つ石油化学コンビナートが<span style="font-weight:700">8地区</span>あります{{% cite "jpca2023" %}}。これら8地区の合計エチレン生産能力は約650万トン/年（国内全体）で、世界的には日本の石化産業の競争力は材料・高機能品での強みへと転換しています{{% cite "jpca2025" %}}。鉄鋼については高炉を持つ一貫製鉄所が東日本・西日本各地に立地し、2024年時点で国内粗鋼生産能力は約1億2,240万トン/年を支えています{{% cite "jisf_stats" %}}。
+2024年時点で[日本](/rule/asia/japan/)にはエチレンプラントを持つ石油化学コンビナートが<span style="font-weight:700">8地区</span>あります{{% cite "jpca2023" %}}。これら8地区の合計エチレン生産能力は約650万トン/年（国内全体）で、世界的には[日本](/rule/asia/japan/)の石化産業の競争力は材料・高機能品での強みへと転換しています{{% cite "jpca2025" %}}。鉄鋼については高炉を持つ一貫製鉄所が東[日本](/rule/asia/japan/)・西[日本](/rule/asia/japan/)各地に立地し、2024年時点で国内粗鋼生産能力は約1億2,240万トン/年を支えています{{% cite "jisf_stats" %}}。
 
 ## 主要コンビナート一覧
 
@@ -133,7 +133,7 @@ galleryDir: "combinat"
     <p class="stat-card__unit">万トン（2024年）{{% cite "meti_ethylene2024" %}}</p>
   </div>
   <div class="stat-card">
-    <p class="stat-card__label">粗鋼生産能力（日本全体）</p>
+    <p class="stat-card__label">粗鋼生産能力（[日本](/rule/asia/japan/)全体）</p>
     <p class="stat-card__value">約12,240</p>
     <p class="stat-card__unit">万トン（2024年）{{% cite "worldsteel2024" %}}</p>
   </div>
@@ -257,13 +257,13 @@ galleryDir: "combinat"
 <tr>
 <td>大阪ソーダ</td>
 <td>{{% minkabu 4046 %}}</td>
-<td>北日本・西日本のコンビナートに立地。塩素・アルカリ化学品・香料・医薬品中間体の製造。</td>
+<td>北[日本](/rule/asia/japan/)・西[日本](/rule/asia/japan/)のコンビナートに立地。塩素・アルカリ化学品・香料・医薬品中間体の製造。</td>
 <td>{{% corplink "https://www.osakasoda.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4046" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 鉄鋼</td></tr>
 <tr>
-<td>日本製鉄</td>
+<td>[日本](/rule/asia/japan/)製鉄</td>
 <td>{{% minkabu 5401 %}}</td>
 <td>国内最大の鉄鋼メーカー。鹿島・君津に一貫製鉄所。鹿島は2025年に1基体制へ移行。</td>
 <td>{{% corplink "https://www.nipponsteel.com/ir/" %}}</td>
@@ -287,6 +287,8 @@ galleryDir: "combinat"
 </tbody>
 </table>
 </div>
+
+## 参考文献
 
 {{% references %}}
 jisf_stats: 日本鉄鋼連盟「鉄鋼統計 生産・時系列」<https://www.jisf.or.jp/data/jikeiretsu/seisan.html>

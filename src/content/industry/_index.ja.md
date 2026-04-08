@@ -41,6 +41,9 @@ card_image: "pipeline.jpg"
 | [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の塗料業の分布](/industry/japan-paint/) | 日本ペイントHD・関西ペイント・大日本塗料の3大メーカー＋中国塗料（船舶用世界トップ級）。大阪集中の歴史的背景 |
 | [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の板ガラス・特殊ガラス産業](/industry/japan-glass/) | AGC・NSG・日本電気硝子の3大ガラスメーカー。EUV用マスクブランクスでも世界の中核 |
 | [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本のベアリング産業](/industry/japan-bearing/) | NSK・NTN・JTEKT・ミネベアミツミの4大メーカーで世界シェア約40%。CVJ・EPS・小径ベアリングで世界1位 |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の産業用ロボット産業](/industry/japan-robotics/) | FANUC・安川電機・川崎重工・三菱電機など、世界シェア約45%。忍野村・北九州・明石の主要拠点 |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本の合成繊維・炭素繊維産業](/industry/japan-fiber/) | 東レ・帝人・三菱ケミカルでPAN系炭素繊維の世界シェア約50〜60%。Boeing 787機体の約50%が炭素繊維複合材 |
+| [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="20" height="13" style="vertical-align:-2px"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> 日本のタイヤ産業](/industry/japan-tire/) | ブリヂストン（世界1〜2位）・住友ゴム・横浜ゴム・TOYO TIREの4社。久留米発祥のブリヂストンとFirestone買収史 |
 
 ## 世界の産業
 
@@ -56,6 +59,7 @@ card_image: "pipeline.jpg"
 | [<img src="/flags/TW.svg" alt="TW" class="inline-flag" width="20" height="14" loading="lazy" /> 台湾の半導体産業](/industry/taiwan-semiconductor/) | TSMCを中心とする世界ファウンドリ約68%シェア、新竹・中部・南部の3大サイエンスパーク |
 | [<img src="/flags/TH.svg" alt="TH" class="inline-flag" width="20" height="14" loading="lazy" /> タイにおける日系企業の集積](/industry/thailand-japanese/) | 約6,000社の日系企業、Eastern Seaboard・EEC、トヨタ・いすゞ・ホンダなど自動車8社の工場群 |
 | [<img src="/flags/CL.svg" alt="CL" class="inline-flag" width="20" height="14" loading="lazy" /> チリの銅・リチウム鉱業](/industry/chile-mining/) | 世界最大の銅生産国（2024年550万トン）、Codelco・Escondida・Collahuasi、Salar de AtacamaのSQM/Albemarle |
+| [🌍 世界の肥料市場（N・P・K）](/industry/world-fertilizer/) | 窒素・リン酸・カリの三大肥料。Nutrien・Mosaic・Yara・OCP、カナダ/ロシア/ベラルーシのカリ、モロッコのリン鉱石 |
 
 ## 参考文献
 

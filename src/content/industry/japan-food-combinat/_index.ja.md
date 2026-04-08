@@ -15,9 +15,9 @@ galleryDir: "japan-food-combinat"
     { x: 438, y: 450, label: '京葉食品', type: 'keiyo',
       note: '船橋市高瀬町。首都圏のキッチン' },
     { x: 448, y: 456, label: '千葉食品', type: 'chiba',
-      note: '千葉市美浜区。日本最大の食品コンビナート' },
+      note: '千葉市美浜区。[日本](/rule/asia/japan/)最大の食品コンビナート' },
     { x: 256, y: 478, label: '神戸東部第4工区', type: 'kobe',
-      note: '神戸市東灘区。日本初の食品コンビナート' },
+      note: '神戸市東灘区。[日本](/rule/asia/japan/)初の食品コンビナート' },
     { x: 240, y: 488, label: '泉佐野食品', type: 'izumisano',
       note: '泉佐野市。関空近接の食品基地' },
   ];
@@ -96,9 +96,9 @@ galleryDir: "japan-food-combinat"
 
 ## 食品コンビナートとは
 
-食品コンビナートは、港湾に面した埋立地に<span style="font-weight:700">製粉・製糖・製油・冷凍食品・菓子・飲料</span>などの食品製造企業が集積し、原料の輸入から加工・出荷までを効率的に行う食品工業の集積地です。石油化学コンビナートと同様に、共有インフラ（蒸気・排水処理・電力・サイロ）の共同利用によりコスト削減を図っています。全国4か所の食品コンビナートでは合計約{{% cite "cfc" %}}130社が操業し、日本国内の食品製造業従事者の約5〜6%を占める主要な食品生産基地となっています。
+食品コンビナートは、港湾に面した埋立地に<span style="font-weight:700">製粉・製糖・製油・冷凍食品・菓子・飲料</span>などの食品製造企業が集積し、原料の輸入から加工・出荷までを効率的に行う食品工業の集積地です。石油化学コンビナートと同様に、共有インフラ（蒸気・排水処理・電力・サイロ）の共同利用によりコスト削減を図っています。全国4か所の食品コンビナートでは合計約{{% cite "cfc" %}}130社が操業し、[日本](/rule/asia/japan/)国内の食品製造業従事者の約5〜6%を占める主要な食品生産基地となっています。
 
-日本の食品コンビナートは主に1960〜70年代の高度経済成長期に、増大する都市部の食料需要に応えるために整備されました。千葉地域の2つのコンビナート（千葉食品・京葉食品）は首都圏の食料需要の約40%を供給し、西日本の神戸・大阪の2コンビナートは関西～九州地域の食料供給を担っています。
+[日本](/rule/asia/japan/)の食品コンビナートは主に1960〜70年代の高度経済成長期に、増大する都市部の食料需要に応えるために整備されました。千葉地域の2つのコンビナート（千葉食品・京葉食品）は首都圏の食料需要の約40%を供給し、西[日本](/rule/asia/japan/)の神戸・大阪の2コンビナートは関西～九州地域の食料供給を担っています。
 
 ## 基本データ
 
@@ -109,12 +109,12 @@ galleryDir: "japan-food-combinat"
     <p class="stat-card__unit">か所（千葉2・兵庫1・大阪1）</p>
   </div>
   <div class="stat-card">
-    <p class="stat-card__label">日本最大・最古</p>
+    <p class="stat-card__label">[日本](/rule/asia/japan/)最大・最古</p>
     <p class="stat-card__value">千葉食品</p>
     <p class="stat-card__unit">コンビナート（1964年・90ha）</p>
   </div>
   <div class="stat-card">
-    <p class="stat-card__label">日本初の食品コンビナート</p>
+    <p class="stat-card__label">[日本](/rule/asia/japan/)初の食品コンビナート</p>
     <p class="stat-card__value">神戸東部</p>
     <p class="stat-card__unit">第4工区（1972年認定）</p>
   </div>
@@ -164,12 +164,12 @@ galleryDir: "japan-food-combinat"
 | ---- | ---- |
 | 所在地 | 千葉県千葉市美浜区新港 |
 | 面積 | 約{{% cite "cfc" %}}90ha（国内最大） |
-| 設立 | {{% cite "cfc" %}}1964年（日本最大・最古の食品工業団地） |
+| 設立 | {{% cite "cfc" %}}1964年（[日本](/rule/asia/japan/)最大・最古の食品工業団地） |
 | 入居企業 | {{% cite "cfc" %}}29社 |
 | 年間処理能力 | 小麦約{{% cite "cfc" %}}150万トン、砂糖約{{% cite "cfc" %}}80万トン、油脂約{{% cite "cfc" %}}100万トン |
 | 特徴 | 千葉共同サイロ（{{% cite "cfc" %}}253基・16.1万トン）で国内小麦消費の約{{% cite "cfc" %}}20%を取り扱います。1日平均処理量は小麦5,000トン以上です。 |
 
-主要入居企業: <span style="font-weight:700">日清製粉</span>（国内製粉シェア約{{% cite "cfc" %}}44%・最大手）・<span style="font-weight:700">山崎製パン</span>（製パン国内最大手）・<span style="font-weight:700">ニチレイ</span>（冷凍食品大手）・千葉製粉・不二製油・ミヨシ油脂・日本甜菜製糖・理研ビタミン
+主要入居企業: <span style="font-weight:700">日清製粉</span>（国内製粉シェア約{{% cite "cfc" %}}44%・最大手）・<span style="font-weight:700">山崎製パン</span>（製パン国内最大手）・<span style="font-weight:700">ニチレイ</span>（冷凍食品大手）・千葉製粉・不二製油・ミヨシ油脂・[日本](/rule/asia/japan/)甜菜製糖・理研ビタミン
 
 ### 京葉食品コンビナート{{% cite "kfc" %}}
 
@@ -190,7 +190,7 @@ galleryDir: "japan-food-combinat"
 | ---- | ---- |
 | 所在地 | 兵庫県神戸市東灘区深江浜町 |
 | 面積 | 約{{% cite "kobe_food" %}}56ha |
-| 設立 | {{% cite "kobe_food" %}}1972年（日本初の「食品コンビナート」認定）。神戸食品コンビナート協会が産業振興しています。 |
+| 設立 | {{% cite "kobe_food" %}}1972年（[日本](/rule/asia/japan/)初の「食品コンビナート」認定）。神戸食品コンビナート協会が産業振興しています。 |
 | 入居企業 | 約{{% cite "kobe_food" %}}10社（製粉・製油・製糖・調味料メーカー） |
 | 特徴 | 三井物産が主導して企業を誘致します。甲南ユーティリティが蒸気・電力を一括供給しています。関西～九州の消費地に最適な立地です。 |
 
@@ -206,7 +206,7 @@ galleryDir: "japan-food-combinat"
 | 入居企業 | {{% cite "izumisano" %}}55社（最多。多業種が集積しています） |
 | 特徴 | 関西国際空港に近接（距離約{{% cite "izumisano" %}}8km）しています。不二製油グループ本社の登記上本店所在地です。液体油脂・チョコレート・製粉が主要産業です。 |
 
-主要入居企業: <span style="font-weight:700">不二製油</span>（植物性油脂世界大手・本社所在・業務用チョコレート世界シェア約{{% cite "izumisano" %}}20%）・<span style="font-weight:700">キユーピー</span>泉佐野工場・<span style="font-weight:700">東洋製罐</span>大阪工場・鳥越製粉・関西製糖・日本ハム大阪工場
+主要入居企業: <span style="font-weight:700">不二製油</span>（植物性油脂世界大手・本社所在・業務用チョコレート世界シェア約{{% cite "izumisano" %}}20%）・<span style="font-weight:700">キユーピー</span>泉佐野工場・<span style="font-weight:700">東洋製罐</span>大阪工場・鳥越製粉・関西製糖・[日本](/rule/asia/japan/)ハム大阪工場
 
 ## 4コンビナートの比較
 
@@ -245,9 +245,9 @@ galleryDir: "japan-food-combinat"
 <td>{{% dividend "tokyo" "2002" %}}</td>
 </tr>
 <tr>
-<td>ニップン（旧：日本製粉）</td>
+<td>ニップン（旧：[日本](/rule/asia/japan/)製粉）</td>
 <td>{{% minkabu 2001 %}}</td>
-<td>製粉国内2位。神戸東部第4工区に神戸工場。冷凍食品「オーマイ」ブランド。※2021年4月に社名を日本製粉からニップンに変更。</td>
+<td>製粉国内2位。神戸東部第4工区に神戸工場。冷凍食品「オーマイ」ブランド。※2021年4月に社名を[日本](/rule/asia/japan/)製粉からニップンに変更。</td>
 <td>{{% corplink "https://www.nippn.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2001" %}}</td>
 </tr>
@@ -333,7 +333,7 @@ galleryDir: "japan-food-combinat"
 <td>{{% dividend "tokyo" "2802" %}}</td>
 </tr>
 <tr>
-<td>日本水産</td>
+<td>[日本](/rule/asia/japan/)水産</td>
 <td>{{% minkabu 1332 %}}</td>
 <td>水産食品大手。冷凍食品・練製品で国内有数。複数コンビナートで生産。</td>
 <td>{{% corplink "https://www.nippon-suisan.com/ir/" %}}</td>
@@ -349,7 +349,7 @@ galleryDir: "japan-food-combinat"
 <tr>
 <td>キッコーマン</td>
 <td>{{% minkabu 2801 %}}</td>
-<td>醤油・調味料の世界大手。日本の食卓を支える基本調味料メーカー。複数コンビナート関連。</td>
+<td>醤油・調味料の世界大手。[日本](/rule/asia/japan/)の食卓を支える基本調味料メーカー。複数コンビナート関連。</td>
 <td>{{% corplink "https://www.kikkoman.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2801" %}}</td>
 </tr>
@@ -370,6 +370,8 @@ galleryDir: "japan-food-combinat"
 </tbody>
 </table>
 </div>
+
+## 参考文献
 
 {{% references %}}
 cfc: 千葉食品コンビナート協議会「千葉食品コンビナートについて」<https://www.chiba-syokuhin.org/pages/17/>

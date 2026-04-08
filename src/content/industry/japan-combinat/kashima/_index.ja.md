@@ -183,6 +183,8 @@ galleryDir: "japan-combinat-kashima"
 </table>
 </div>
 
+## 参考文献
+
 {{% references %}}
 ibaraki2022: 不毛の大地を甦らせた鹿島港の開発　<https://www.jcca.or.jp/infra70n/files/PJNO_08.pdf>
 kant2021: 国土交通省 関東地方整備局「鹿島港の概要」<https://www.pa.ktr.mlit.go.jp/kashima/port/index.htm>

@@ -102,12 +102,12 @@ galleryDir: "japan-semiconductor"
 
 <figure>
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Silicon_Photonics_300mm_wafer.JPG?width=720" alt="300mmシリコンウェーハ" loading="lazy" />
-  <figcaption>300mmシリコンウェーハの一例。日本は信越化学とSUMCOで世界シェアの過半を占める。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Silicon_Photonics_300mm_wafer.JPG" target="_blank" rel="noopener noreferrer">Silicon Photonics 300mm wafer / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+  <figcaption>300mmシリコンウェーハの一例。[日本](/rule/asia/japan/)は信越化学とSUMCOで世界シェアの過半を占める。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Silicon_Photonics_300mm_wafer.JPG" target="_blank" rel="noopener noreferrer">Silicon Photonics 300mm wafer / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
 </figure>
 
-## 日本の半導体産業集積地とは
+## [日本](/rule/asia/japan/)の半導体産業集積地とは
 
-半導体製造では設計・材料・前工程・後工程の各段階が高度に専門化しており、企業が地理的に集積することでサプライチェーンの効率化が図られています。日本は<span style="font-weight:700">材料・製造装置</span>で世界的な競争力を持ちながら、2000年代以降はファブ（前工程製造）の国際競争力が低下してきました。日本の半導体産業は現在、材料（シリコンウェーハ・フォトレジスト・ガス）では世界シェア30〜50%を占め、製造装置では世界第2〜3位の地位を保有しています{{% cite "joga_material_survey" %}}{{% cite "meti_semi_ref" %}}。2021年以降の経済安全保障政策を契機に、TSMCの熊本誘致・ラピダス設立など国内製造能力の再建が進んでいます{{% cite "meti2023" %}}。
+半導体製造では設計・材料・前工程・後工程の各段階が高度に専門化しており、企業が地理的に集積することでサプライチェーンの効率化が図られています。[日本](/rule/asia/japan/)は<span style="font-weight:700">材料・製造装置</span>で世界的な競争力を持ちながら、2000年代以降はファブ（前工程製造）の国際競争力が低下してきました。[日本](/rule/asia/japan/)の半導体産業は現在、材料（シリコンウェーハ・フォトレジスト・ガス）では世界シェア30〜50%を占め、製造装置では世界第2〜3位の地位を保有しています{{% cite "joga_material_survey" %}}{{% cite "meti_semi_ref" %}}。2021年以降の経済安全保障政策を契機に、TSMCの熊本誘致・ラピダス設立など国内製造能力の再建が進んでいます{{% cite "meti2023" %}}。
 
 ## 基本データ
 
@@ -151,7 +151,7 @@ galleryDir: "japan-semiconductor"
 
 ### パワー半導体
 
-上記のロジック・メモリ集積地に加え、日本はパワー半導体でも世界的な競争力を維持しています{{% cite "meti_semi_ref" %}}{{% cite "meti2023" %}}。EV・再エネ向けの需要拡大により、その重要性が高まっています。
+上記のロジック・メモリ集積地に加え、[日本](/rule/asia/japan/)はパワー半導体でも世界的な競争力を維持しています{{% cite "meti_semi_ref" %}}{{% cite "meti2023" %}}。EV・再エネ向けの需要拡大により、その重要性が高まっています。
 
 | 企業 | 主要拠点 | 製品 |
 | ---- | -------- | ---- |
@@ -235,7 +235,7 @@ graph LR
 <td>{{% dividend "tokyo" "6702" %}}</td>
 </tr>
 <tr>
-<td>日本電気</td>
+<td>[日本](/rule/asia/japan/)電気</td>
 <td>{{% minkabu 5214 %}}</td>
 <td>LSI・光通信デバイスを展開。サーバー・ネットワーク向けの技術力が強み。</td>
 <td>{{% corplink "https://www.nec.com/ja/" %}}</td>
@@ -302,7 +302,7 @@ graph LR
 <td>{{% dividend "tokyo" "6920" %}}</td>
 </tr>
 <tr>
-<td>日本マイクロニクス</td>
+<td>[日本](/rule/asia/japan/)マイクロニクス</td>
 <td>{{% minkabu 6871 %}}</td>
 <td>プローブカード（テスト治具）で半導体テスト装置向けに供給。</td>
 <td>{{% corplink "https://www.nihon-micronics.co.jp/" %}}</td>
@@ -346,7 +346,7 @@ graph LR
 <td>{{% dividend "tokyo" "6556" %}}</td>
 </tr>
 <tr>
-<td>日本電産</td>
+<td>[日本](/rule/asia/japan/)電産</td>
 <td>{{% minkabu 6594 %}}</td>
 <td>小型モーター・精密機械で世界的企業。HDD・冷却ファン・EV向けモーターに強み。</td>
 <td>{{% corplink "https://www.nidec.com/ja/" %}}</td>
@@ -355,6 +355,8 @@ graph LR
 </tbody>
 </table>
 </div>
+
+## 参考文献
 
 {{% references %}}
 disco_ir: 株式会社ディスコ「会社情報」<https://www.disco.co.jp/eg/corporate/history/index.html>

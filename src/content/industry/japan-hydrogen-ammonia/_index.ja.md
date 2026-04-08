@@ -109,11 +109,11 @@ galleryDir: "japan-hydrogen-ammonia"
 })();
 </script>
 
-## 日本の水素・アンモニア戦略
+## [日本](/rule/asia/japan/)の水素・アンモニア戦略
 
 水素・アンモニアは、2050年カーボンニュートラル実現に向けた<span style="font-weight:700">GX（グリーントランスフォーメーション）戦略の中核燃料</span>として位置付けられています。経済産業省は2017年に世界初の国家水素戦略を策定し、2023年6月には「水素基本戦略」を改定して導入目標を大幅に引き上げました{{% cite "meti_h2strategy2023" %}}。脱炭素が困難な火力発電・製鉄・石油化学・重輸送・船舶などの分野で、化石燃料を水素・アンモニアに置き換えることが想定されています。
 
-日本は既存の港湾・パイプライン・大規模需要家（火力発電所・コンビナート）を活かしながら、海外からの輸入と国内製造を組み合わせた<span style="font-weight:700">「水素・アンモニア・サプライチェーン」</span>を構築しようとしています。豪州・中東・北米などとの国際協力も同時並行で進んでいます{{% cite "meti_h2strategy2023" %}}。
+[日本](/rule/asia/japan/)は既存の港湾・パイプライン・大規模需要家（火力発電所・コンビナート）を活かしながら、海外からの輸入と国内製造を組み合わせた<span style="font-weight:700">「水素・アンモニア・サプライチェーン」</span>を構築しようとしています。豪州・中東・北米などとの国際協力も同時並行で進んでいます{{% cite "meti_h2strategy2023" %}}。
 
 ## 基本データ
 
@@ -163,9 +163,9 @@ galleryDir: "japan-hydrogen-ammonia"
 <tr><td><strong>FH2R</strong></td><td>福島県浪江町（棚塩産業団地）</td><td>NEDO・東芝ESS・東北電力・岩谷産業</td><td>福島水素エネルギー研究フィールド。10MW級水電解装置{{% cite "nedo_fh2r" %}}と20MW{{% cite "nedo_fh2r" %}}の太陽光発電を組み合わせたグリーン水素製造実証（当時世界最大級）{{% cite "nedo_fh2r" %}}</td><td>2020</td></tr>
 <tr><td><strong>苫小牧</strong></td><td>北海道苫小牧市</td><td>北海道電力・出光興産・ENEOS など</td><td>苫小牧CCS実証{{% cite "meti_tomakomai_ccs" %}}（経産省・JOGMEC、2016〜）に隣接して、グリーン水素・ブルーアンモニア供給拠点を構想。CCS累計圧入量30万t超{{% cite "meti_tomakomai_ccs" %}}</td><td>2016〜</td></tr>
 <tr><td><strong>川崎臨海部</strong></td><td>神奈川県川崎市</td><td>レゾナック（旧昭和電工）他</td><td>使用済みプラスチック由来{{% cite "resonac_kawasaki" %}}の低炭素水素・アンモニアを製造。コンビナート内パイプラインで供給する千鳥町水素ネットワーク{{% cite "resonac_kawasaki" %}}</td><td>2003〜</td></tr>
-<tr><td><strong>周南コンビナート</strong></td><td>山口県周南市</td><td>出光興産・東ソー・トクヤマ・日本ゼオン</td><td>苛性ソーダ製造の副生水素を活用したカーボンフリーアンモニア供給網構想{{% cite "meti_ammonia_society" %}}。2030年以降{{% cite "meti_ammonia_society" %}}の大規模供給を計画{{% cite "meti_ammonia_society" %}}</td><td>構想中</td></tr>
+<tr><td><strong>周南コンビナート</strong></td><td>山口県周南市</td><td>出光興産・東ソー・トクヤマ・[日本](/rule/asia/japan/)ゼオン</td><td>苛性ソーダ製造の副生水素を活用したカーボンフリーアンモニア供給網構想{{% cite "meti_ammonia_society" %}}。2030年以降{{% cite "meti_ammonia_society" %}}の大規模供給を計画{{% cite "meti_ammonia_society" %}}</td><td>構想中</td></tr>
 <tr><td><strong>JERA碧南火力</strong></td><td>愛知県碧南市</td><td>JERA</td><td>石炭火力発電所でアンモニア20%{{%cite "jera_hekinan" %}}混焼の実証試験を実施{{% cite "jera_hekinan" %}}（2024年4月1日～6月26日）。2020年代後半{{% cite "jera_hekinan" %}}から商用運転を計画し、長期的にはアンモニア専焼化を目指す{{% cite "jera_hekinan" %}}</td><td>2024実証</td></tr>
-<tr><td><strong>大分九重</strong></td><td>大分県玖珠郡九重町</td><td>大林組</td><td>地熱発電を利用した日本初{{% cite "obayashi_kuju" %}}のグリーン水素製造・供給実証プラント{{% cite "obayashi_kuju" %}}</td><td>2021</td></tr>
+<tr><td><strong>大分九重</strong></td><td>大分県玖珠郡九重町</td><td>大林組</td><td>地熱発電を利用した[日本](/rule/asia/japan/)初{{% cite "obayashi_kuju" %}}のグリーン水素製造・供給実証プラント{{% cite "obayashi_kuju" %}}</td><td>2021</td></tr>
 <tr><td><strong>北九州響灘</strong></td><td>福岡県北九州市</td><td>福岡県・北九州市</td><td>洋上風力と組み合わせた響灘グリーン水素拠点構想{{% cite "fukuoka_h2" %}}。八幡東区東田地区では水素パイプライン実証{{%cite "fukuoka_h2" %}}（約1.2km）{{% cite "fukuoka_h2" %}}</td><td>2015〜</td></tr>
 </tbody>
 </table>
@@ -180,8 +180,8 @@ galleryDir: "japan-hydrogen-ammonia"
 | 大規模水素サプライチェーン構築 | 川崎重工業・ENEOS・岩谷産業 等 | 海外グリーン・ブルー水素の輸入と国内利用 |
 | 水電解装置の大規模化 | 旭化成・東芝ESS 等 | アルカリ／PEM水電解装置の量産化と大型化 |
 | 燃料アンモニア・サプライチェーン | JERA・IHI・三井物産 等 | 海外からの輸入と火力発電混焼 |
-| 製鉄プロセスでの水素活用 | 日本製鉄・JFE・神戸製鋼 | 高炉水素還元・水素直接還元製鉄 |
-| 次世代船舶（水素・アンモニア燃料） | 日本郵船・商船三井・川崎汽船 等 | ゼロエミッション船の実用化 |
+| 製鉄プロセスでの水素活用 | [日本](/rule/asia/japan/)製鉄・JFE・神戸製鋼 | 高炉水素還元・水素直接還元製鉄 |
+| 次世代船舶（水素・アンモニア燃料） | [日本](/rule/asia/japan/)郵船・商船三井・川崎汽船 等 | ゼロエミッション船の実用化 |
 
 出典: NEDO「グリーンイノベーション基金事業」{{% cite "nedo_gi_fund" %}}
 
@@ -194,7 +194,7 @@ graph LR
   B-->E["大規模需要家"]
   D-->E
   E-->F["火力発電\nJERA碧南・IHI"]
-  E-->G["製鉄\n日本製鉄・JFE・神戸製鋼"]
+  E-->G["製鉄\n[日本](/rule/asia/japan/)製鉄・JFE・神戸製鋼"]
   E-->H["コンビナート\n川崎・周南・大分"]
   E-->I["モビリティ\nFCV・FCバス・FC船"]
   style A fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
@@ -205,7 +205,7 @@ graph LR
 
 ## 国内水素ステーション
 
-燃料電池自動車（FCV）向けの<span style="font-weight:700">商用水素ステーション</span>は、首都圏・中京圏・関西圏・北部九州の4大需要地を中心に整備が進められています。最大手は<span style="font-weight:700">岩谷産業</span>で、国内に50か所超のステーションを運営しています{{% cite "iwatani_h2station" %}}。日本水素ステーションネットワーク合同会社（JHyM）には自動車・エネルギー・インフラ各社が参画しています。
+燃料電池自動車（FCV）向けの<span style="font-weight:700">商用水素ステーション</span>は、首都圏・中京圏・関西圏・北部九州の4大需要地を中心に整備が進められています。最大手は<span style="font-weight:700">岩谷産業</span>で、国内に50か所超のステーションを運営しています{{% cite "iwatani_h2station" %}}。[日本](/rule/asia/japan/)水素ステーションネットワーク合同会社（JHyM）には自動車・エネルギー・インフラ各社が参画しています。
 
 ## 歴史的経緯
 
@@ -223,6 +223,14 @@ graph LR
 | 2027 | JERA碧南火力でアンモニア混焼の商用運転開始予定 |
 
 {{% /timeline %}}
+
+## 国際サプライチェーン
+
+[日本](/rule/asia/japan/)は単独で必要量を製造できないため、海外との国際協力が前提となっています。
+
+- <span style="font-weight:700">豪州（HESC プロジェクト）</span>: ビクトリア州の褐炭から水素を製造し、液化して神戸へ輸送{{%cite "hesc" %}}。川崎重工・電源開発・岩谷産業・丸紅・住友商事・ENEOS などが参画{{% cite "hesc" %}}。
+- <span style="font-weight:700">中東（[UAE](/rule/middle_east/united_arab_emirates/)・サウジ）</span>: ブルーアンモニア{{%cite "meti_h2strategy2023" %}}（天然ガス改質＋CCS）の輸入。三井物産・三菱商事・伊藤忠商事が長期契約交渉。
+- <span style="font-weight:700">[米国](/rule/n_america/usa/)</span>: ルイジアナ州 Blue Point プロジェクトに JERA が出資{{%cite "jera_hekinan" %}}（年140万トン{{%cite "jera_hekinan" %}}のブルーアンモニア計画）{{% cite "jera_hekinan" %}}。
 
 ## 関連企業の時価総額マップ
 
@@ -326,7 +334,7 @@ graph LR
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 製鉄（水素還元）</td></tr>
 <tr>
-<td>日本製鉄</td>
+<td>[日本](/rule/asia/japan/)製鉄</td>
 <td>{{% minkabu 5401 %}}</td>
 <td>高炉水素還元・水素直接還元製鉄の実証を推進。グリーンイノベーション基金で「ハイドロゲンスチール」テーマに採択。</td>
 <td>{{% corplink "https://www.nipponsteel.com/ir/" %}}</td>
@@ -415,13 +423,7 @@ graph LR
 </table>
 </div>
 
-## 国際サプライチェーン
-
-日本は単独で必要量を製造できないため、海外との国際協力が前提となっています。
-
-- <span style="font-weight:700">豪州（HESC プロジェクト）</span>: ビクトリア州の褐炭から水素を製造し、液化して神戸へ輸送{{%cite "hesc" %}}。川崎重工・電源開発・岩谷産業・丸紅・住友商事・ENEOS などが参画{{% cite "hesc" %}}。
-- <span style="font-weight:700">中東（UAE・サウジ）</span>: ブルーアンモニア{{%cite "meti_h2strategy2023" %}}（天然ガス改質＋CCS）の輸入。三井物産・三菱商事・伊藤忠商事が長期契約交渉。
-- <span style="font-weight:700">米国</span>: ルイジアナ州 Blue Point プロジェクトに JERA が出資{{%cite "jera_hekinan" %}}（年140万トン{{%cite "jera_hekinan" %}}のブルーアンモニア計画）{{% cite "jera_hekinan" %}}。
+## 参考文献
 
 {{% references %}}
 fukuoka_h2: 福岡県「水素グリーン成長戦略」<https://www.pref.fukuoka.lg.jp/contents/suiso-greengrowth.html>
