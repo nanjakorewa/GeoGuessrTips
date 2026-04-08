@@ -19,19 +19,6 @@ mapName: "world"
 <div class="stat-card"><div class="stat-num">~120万t</div><div class="stat-label">2024年 世界リチウム生産量（炭酸リチウム換算）{{% cite "lithium_production_2024" %}}</div></div>
 </div>
 
-## 主要資源メジャーの時価総額マップ
-
-<div class="corp-treemap-section">
-<div class="treemap-legend">
-<span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#6b7280"></span>鉄鉱石・多角化</span>
-<span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#d97706"></span>銅・非鉄</span>
-<span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#fbbf24"></span>金</span>
-<span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#1f2937"></span>石炭</span>
-</div>
-<div class="corp-treemap" data-companies='[{"t":"BHP","n":"BHP Group","s":"鉄鉱石・多角化","v":21.0,"c":"#6b7280"},{"t":"RIO","n":"Rio Tinto","s":"鉄鉱石・多角化","v":16.5,"c":"#6b7280"},{"t":"601088","n":"China Shenhua","s":"石炭","v":14.3,"c":"#1f2937"},{"t":"SCCO","n":"Southern Copper","s":"銅・非鉄","v":12.0,"c":"#d97706"},{"t":"NEM","n":"Newmont","s":"金","v":9.0,"c":"#fbbf24"},{"t":"GLEN.L","n":"Glencore","s":"銅・非鉄","v":8.3,"c":"#d97706"},{"t":"FCX","n":"Freeport-McMoRan","s":"銅・非鉄","v":8.3,"c":"#d97706"},{"t":"VALE","n":"Vale","s":"鉄鉱石・多角化","v":6.8,"c":"#6b7280"},{"t":"AAL.L","n":"Anglo American","s":"鉄鉱石・多角化","v":6.8,"c":"#6b7280"},{"t":"GOLD","n":"Barrick Gold","s":"金","v":4.5,"c":"#fbbf24"},{"t":"AEM","n":"Agnico Eagle","s":"金","v":4.5,"c":"#fbbf24"},{"t":"TECK","n":"Teck Resources","s":"銅・非鉄","v":3.8,"c":"#d97706"},{"t":"AU","n":"AngloGold Ashanti","s":"金","v":2.3,"c":"#fbbf24"}]'></div>
-<p class="treemap-note">※ 面積は時価総額（概算・1ドル=150円換算）に比例。市況により大きく変動します。</p>
-</div>
-
 ## 主要資源メジャー
 
 | 順位 | 企業 | 本拠地 | 時価総額（概算）| 主力鉱物 |
@@ -49,7 +36,6 @@ mapName: "world"
 
 {{% cite "miningcom_top50" %}}（市況により大きく変動。2024年末頃の概算）
 
-> <span style="font-weight:700">2025年の業界再編</span>: Rio TintoがGlencoreへの統合提案、Anglo AmericanとTeckの合併合意など、メジャー間で大型M&Aが活発化しています。
 
 ## 主要鉱物別の産出国・主要鉱山
 
@@ -118,6 +104,41 @@ LMEは1877年設立の世界最古の金属取引所で、<span style="font-weig
 - <span style="font-weight:700">中国の中流支配</span>: リチウム・コバルト・ニッケル・レアアースの精錬では中国が60〜90%のシェア（IEA Critical Minerals Outlook 2024）{{% cite "iea_critical_minerals2024" %}}
 - <span style="font-weight:700">米IRA・EU CRMA</span>: 米国インフレ削減法（IRA）はEV補助金で「中国懸念企業（FEOC）」由来素材を排除、EUは2024年に重要原材料法（Critical Raw Materials Act, CRMA）を施行
 - <span style="font-weight:700">JOGMECの戦略備蓄</span>: 日本はレアメタル7鉱種について国家備蓄を保有
+
+## 資源メジャー再編史 ― 銅をめぐる30年の攻防
+
+鉄鉱石依存からの脱却と<span style="font-weight:700">電化・EV時代の銅争奪</span>を軸に、資源メジャーは絶えず合従連衡を繰り返してきました。以下は1990年代から2026年までの主要M&A・事件の時系列です。
+
+| 年 | 出来事 | 概要 |
+| --- | --- | --- |
+| 1990年代半ば | <span style="font-weight:700">住友商事「ミスター5%」事件</span> | トレーダー浜中泰男氏がLME銅価格を不正操作。 |
+| 1995年末 | <span style="font-weight:700">銅価格の急落</span> | 中国の増産で価格が暴落し、住友商事に約3,000億円の巨額損失。 |
+| 2001年 | <span style="font-weight:700">BHPがビリトンを買収</span> | 「BHP Billiton」誕生。鉄鉱石依存から脱却し、世界最大級の銅生産者へ。 |
+| 2006年 | <span style="font-weight:700">Freeport-McMoRanがPhelps Dodgeを買収</span> | 買収額250億ドル。一時BHPを抜き世界最大の銅生産者に。 |
+| 2007年 | <span style="font-weight:700">BHPによるRio Tinto買収提案（破談）</span> | 独占禁止法と金融危機の影響で実現せず。 |
+| 2013年 | <span style="font-weight:700">GlencoreがXstrataを買収</span> | 約900億ドルの巨額統合で、Glencoreが世界トップクラスのメジャーへ変貌。 |
+| 2023年 | <span style="font-weight:700">GlencoreがTeck Resourcesに買収提案</span> | スイスのGlencoreがカナダのTeckに225億ドルを提示するも、石炭事業の切り離し要求などで拒否される。 |
+| 2023年（3か月後） | <span style="font-weight:700">中東マネー参戦：サウジPIFがVale Base Metalsへ出資</span> | サウジアラビアのPIFがブラジルVale子会社の株式10%を取得。 |
+| 2023年（さらに5か月後） | <span style="font-weight:700">UAEがザンビア銅鉱山に出資</span> | UAEがザンビアの銅鉱山権益51%を取得。 |
+| 2024年 | <span style="font-weight:700">BHPによるAnglo American買収提案（拒否）</span> | 世界最大のBHPが490億ドルで提案するも、南ア資産切り離し方針への反発から資源ナショナリズム問題に発展。 |
+| 2025年9月 | <span style="font-weight:700">Anglo-Teckの誕生</span> | BHPの買収を逃れたAnglo Americanがカナダ・Teckと合併。インフラ共有によるコスト削減で世界トップ5の銅生産者へ浮上。 |
+| 2026年 | <span style="font-weight:700">銅価格が史上最高値を更新</span> | 日本の総合商社の株価も金属メジャーと並ぶ評価に到達。 |
+| 2026年 | <span style="font-weight:700">Rio TintoとGlencoreの合併計画（報道）</span> | 実現すれば時価総額2,000億ドル（約30兆円）超の世界最大メジャーが誕生する見込み。 |
+
+ 30年前の「鉄鉱石メジャー」中心の構図から、電化・EV・再エネを背景にした<span style="font-weight:700">銅中心の再編</span>へと軸足が移り、中東ソブリン・中国国有・カナダ系を巻き込んだグローバルな主導権争いが続いています。
+
+## 主要資源メジャーの時価総額マップ
+
+<div class="corp-treemap-section">
+<div class="treemap-legend">
+<span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#6b7280"></span>鉄鉱石・多角化</span>
+<span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#d97706"></span>銅・非鉄</span>
+<span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#fbbf24"></span>金</span>
+<span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#1f2937"></span>石炭</span>
+</div>
+<div class="corp-treemap" data-companies='[{"t":"BHP","n":"BHP Group","s":"鉄鉱石・多角化","v":21.0,"c":"#6b7280"},{"t":"RIO","n":"Rio Tinto","s":"鉄鉱石・多角化","v":16.5,"c":"#6b7280"},{"t":"601088","n":"China Shenhua","s":"石炭","v":14.3,"c":"#1f2937"},{"t":"SCCO","n":"Southern Copper","s":"銅・非鉄","v":12.0,"c":"#d97706"},{"t":"NEM","n":"Newmont","s":"金","v":9.0,"c":"#fbbf24"},{"t":"GLEN.L","n":"Glencore","s":"銅・非鉄","v":8.3,"c":"#d97706"},{"t":"FCX","n":"Freeport-McMoRan","s":"銅・非鉄","v":8.3,"c":"#d97706"},{"t":"VALE","n":"Vale","s":"鉄鉱石・多角化","v":6.8,"c":"#6b7280"},{"t":"AAL.L","n":"Anglo American","s":"鉄鉱石・多角化","v":6.8,"c":"#6b7280"},{"t":"GOLD","n":"Barrick Gold","s":"金","v":4.5,"c":"#fbbf24"},{"t":"AEM","n":"Agnico Eagle","s":"金","v":4.5,"c":"#fbbf24"},{"t":"TECK","n":"Teck Resources","s":"銅・非鉄","v":3.8,"c":"#d97706"},{"t":"AU","n":"AngloGold Ashanti","s":"金","v":2.3,"c":"#fbbf24"}]'></div>
+<p class="treemap-note">※ 面積は時価総額（概算・1ドル=150円換算）に比例。市況により大きく変動します。</p>
+</div>
 
 ## 参考文献
 

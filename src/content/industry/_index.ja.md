@@ -64,4 +64,4 @@ meti_industrial_census: 経済産業省「工業統計調査」<https://www.meti
 meti_semi_vision: 経済産業省「半導体デジタル産業戦略」（2023年4月）<https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/>
 meti_pottery_stats: 経済産業省「工業統計調査 品目別統計表（窯業・土石製品）」（2022年）<https://www.e-stat.go.jp/stat-search/database>
 mlit_shipbuilding_stats: 国土交通省 海事局「造船業の現状と課題」<https://www.mlit.go.jp/maritime/>
-{{% /references %}}                                                                                                                                                                                                                                                                                                                        
+{{% /references %}}
