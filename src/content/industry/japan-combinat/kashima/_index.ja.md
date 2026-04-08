@@ -126,58 +126,58 @@ galleryDir: "japan-combinat-kashima"
 <tr>
 <td>日本製鉄</td>
 <td>{{% minkabu 5401 %}}</td>
-<td>国内最大の鉄鋼メーカー。鹿島製鉄所は2025年に1基体制へ集約し厚板・熱延を生産。USスチール買収は2025年1月に米大統領令で不認可となり、法的手続きが継続。</td>
-<td>{{% corplink "https://www.nipponsteel.com/ir/library/" %}}</td>
+<td>国内最大の鉄鋼メーカー。鹿島製鉄所は2025年に1基体制へ集約し、5,370m³の世界最大級高炉で厚板・熱延・線材を生産。粗鋼年産能力は約400〜500万トン。USスチール買収は2025年1月に不認可となったが、法的手続きが継続中。</td>
+<td>{{% corplink "https://www.nipponsteel.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5401" %}}</td>
 </tr>
 <tr>
 <td>住友化学</td>
 <td>{{% minkabu 4005 %}}</td>
-<td>鹿島工場のエチレン装置は2024年に停止し、千葉工場へ集約。現在は農薬原体・半導体用高純度薬品など機能性化学品が中心。</td>
+<td>鹿島工場のエチレン装置は2024年に停止し、千葉工場へ集約。現在は農薬原体・半導体用高純度薬品など機能性化学品へシフト。石油化学からスペシャリティ化学品への事業転換が進行中。</td>
 <td>{{% corplink "https://www.sumitomo-chem.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4005" %}}</td>
 </tr>
 <tr>
 <td>三菱ケミカルグループ</td>
 <td>{{% minkabu 4188 %}}</td>
-<td>石油化学事業の分離・再編を経て、鹿島事業所はMMA（メタクリル酸メチル）等のスペシャリティ化学品に注力。MMA世界シェア約30%で首位。</td>
-<td>{{% corplink "https://www.mitsubishichem-hd.co.jp/ir/" %}}</td>
+<td>石油化学事業の分離・再編により、鹿島事業所ではMMA（メタクリル酸メチル）等のスペシャリティ化学品に特化。MMA世界シェアは約30%で業界首位。高機能素材領域で競争力を保有。</td>
+<td>{{% corplink "https://www.mcgc.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4188" %}}</td>
 </tr>
 <tr>
 <td>ENEOSホールディングス</td>
 <td>{{% minkabu 5020 %}}</td>
-<td>傘下の鹿島石油が鹿嶋市に製油所（180千BD）を保有。石油精製・石油化学の原料ナフサを鹿島コンビナートに供給。</td>
+<td>傘下の鹿島石油が鹿嶋市に製油所（180千BD）を保有し、ガソリン・灯油・ナフサを生産。石油精製・石油化学の原料供給で、鹿島コンビナートの中核を担う。国内最大の石油元売り。</td>
 <td>{{% corplink "https://www.hd.eneos.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5020" %}}</td>
 </tr>
 <tr>
 <td>信越化学工業</td>
 <td>{{% minkabu 4063 %}}</td>
-<td>鹿島に大規模な化学品生産拠点。ポリ塩化ビニル・シリコーン樹脂・電子材料で国内最大級。多くのコンビナートで戦略的に立地。</td>
-<td>{{% corplink "https://www.shinetsu.co.jp/ir/" %}}</td>
+<td>鹿島に大規模な化学品生産拠点を保有。ポリ塩化ビニル・シリコーン樹脂・半導体ウェーハで国内最大級。鹿島の塩ビ樹脂・半導体材料拠点として競争力を維持。</td>
+<td>{{% corplink "https://www.shinetsu.co.jp/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4063" %}}</td>
 </tr>
 <tr>
 <td>旭化成</td>
 <td>{{% minkabu 3407 %}}</td>
-<td>複数の工場を保有。LIBセパレーター・建材・医薬品・繊維で事業多角化。水島発祥だが全国展開。</td>
+<td>水島発祥だが全国複数拠点で展開。LIBセパレーター（ハイポア）・建材（ヘーベルハウス）・医薬品・繊維で事業多角化。EV向け電池材料事業が急成長領域。</td>
 <td>{{% corplink "https://www.asahi-kasei.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3407" %}}</td>
 </tr>
 <tr>
 <td>大阪ソーダ</td>
 <td>{{% minkabu 4046 %}}</td>
-<td>塩素・アルカリ化学品・香料・医薬品中間体を製造。北日本・西日本のコンビナート立地。</td>
+<td>塩素・アルカリ化学品（苛性ソーダ・塩素ガス）・香料・医薬品中間体を製造。複数のコンビナートに拠点を持ち、電解槽技術で業界での地位を確立。</td>
 <td>{{% corplink "https://www.osakasoda.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4046" %}}</td>
 </tr>
 <tr>
-<td>昭和電工（Resonac）</td>
-<td>{{% minkabu 4208 %}}</td>
-<td>複数のコンビナートに拠点。機能化学品・電子材料・エネルギーソリューション。2024年Resonac改称。</td>
-<td>{{% corplink "https://www.resonac.com/ja/" %}}</td>
-<td>{{% dividend "tokyo" "4208" %}}</td>
+<td>レゾナック</td>
+<td>{{% minkabu 4004 %}}</td>
+<td>複数のコンビナートに拠点を保有。半導体材料・機能化学品・電子材料で事業展開。2024年に昭和電工からResonacへリブランディング。</td>
+<td>{{% corplink "https://www.resonac.com/jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4004" %}}</td>
 </tr>
 </tbody>
 </table>

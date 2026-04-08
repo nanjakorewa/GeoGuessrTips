@@ -293,14 +293,14 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 <tr>
 <td>INPEX</td>
 <td>{{% minkabu 1605 %}}</td>
-<td>国内最大の石油・天然ガス開発企業。原油の上流開発で国家備蓄の供給源に直結。</td>
+<td>国内最大の石油・天然ガス開発企業。オーストラリア・インドネシア・東南アジアでの上流開発を主力。原油の安定供給を通じて国家備蓄の重要な供給源。</td>
 <td>{{% corplink "https://www.inpex.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "1605" %}}</td>
 </tr>
 <tr>
 <td>石油資源開発（JAPEX）</td>
 <td>{{% minkabu 1662 %}}</td>
-<td>国内の石油・天然ガス開発を手がける。地下貯留技術はCCS事業にも展開。</td>
+<td>国内の石油・天然ガス開発で第2位。秋田油田などの陸上資源開発に強み。地下貯留技術の知見はCCS（二酸化炭素回収・貯蔵）事業へも展開中。</td>
 <td>{{% corplink "https://www.japex.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "1662" %}}</td>
 </tr>
@@ -308,28 +308,28 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 <tr>
 <td>ENEOSホールディングス</td>
 <td>{{% minkabu 5020 %}}</td>
-<td>国内最大の石油元売り。製油所で備蓄原油を精製し石油製品として供給。民間備蓄の最大の担い手。</td>
+<td>国内最大の石油元売り。昭和シェル石油と統合（2022年）。製油所で備蓄原油を精製し石油製品を供給。民間備蓄制度の最大の担い手で約200万kLの備蓄を保有。</td>
 <td>{{% corplink "https://www.hd.eneos.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5020" %}}</td>
 </tr>
 <tr>
 <td>出光興産</td>
 <td>{{% minkabu 5019 %}}</td>
-<td>国内第2位の石油元売り。民間備蓄義務を担う主要企業の一つ。</td>
+<td>国内第2位の石油元売り。徳山製油所・昭和四日市製油所が主力製油所。民間備蓄制度における主要な責任企業として約150万kLの備蓄を保有。</td>
 <td>{{% corplink "https://www.idemitsu.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5019" %}}</td>
 </tr>
 <tr>
 <td>コスモエネルギーHD</td>
 <td>{{% minkabu 5021 %}}</td>
-<td>国内第3位の石油元売り。アブダビ国営石油（ADNOC）が筆頭株主で中東との関係が深い。</td>
+<td>国内第3位の石油元売り。阿部野製油所・四日市製油所を運営。UAE国営石油（ADNOC）が筆頭株主で中東との関係が深い。民間備蓄の重要な担い手。</td>
 <td>{{% corplink "https://www.cosmo-energy.co.jp/ja/ir.html" %}}</td>
 <td>{{% dividend "tokyo" "5021" %}}</td>
 </tr>
 <tr>
 <td>富士石油</td>
 <td>{{% minkabu 5009 %}}</td>
-<td>袖ケ浦製油所（143千BD）を保有。旧アラビア石油の流れを汲む。</td>
+<td>袖ケ浦製油所（143千BD）を唯一の製油拠点として保有。旧アラビア石油の流れを汲む独立系元売り。関東の石油製品供給を担う。</td>
 <td>{{% corplink "https://www.foc.co.jp/ja/ir.html" %}}</td>
 <td>{{% dividend "tokyo" "5009" %}}</td>
 </tr>
@@ -337,7 +337,7 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 <tr>
 <td>岩谷産業</td>
 <td>{{% minkabu 8088 %}}</td>
-<td>LPガス国内最大手。LPガス備蓄制度における民間備蓄の主要な担い手。水素ステーション事業も展開。</td>
+<td>LPガス国内最大手。国家LPガス備蓄制度の民間備蓄を担当する主要企業。水素ステーション・酸素・窒素などのガス販売も事業の柱。エネルギー総合企業。</td>
 <td>{{% corplink "https://www.iwatani.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8088" %}}</td>
 </tr>
@@ -345,21 +345,21 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 <tr>
 <td>三菱商事</td>
 <td>{{% minkabu 8058 %}}</td>
-<td>国際LNG・石油プロジェクトの主要投資家。備蓄原油の安定供給に関与。</td>
+<td>大手総合商社。国際LNG・石油プロジェクトの主要投資家としてオーストラリア・中東などでの権益を保有。備蓄原油の安定調達・供給ネットワークで重要な役割。</td>
 <td>{{% corplink "https://www.mitsubishicorp.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8058" %}}</td>
 </tr>
 <tr>
 <td>三井物産</td>
 <td>{{% minkabu 8031 %}}</td>
-<td>LNG・石油上流事業での国際協力。備蓄制度の供給源確保に関与。</td>
+<td>大手総合商社。LNG・石油の上流開発・中流・販売で国際的なプレゼンスを有する。オーストラリア・中東でのエネルギー権益保有で備蓄制度の供給源確保に関与。</td>
 <td>{{% corplink "https://www.mitsui.com/mgssi/en/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8031" %}}</td>
 </tr>
 <tr>
 <td>伊藤忠商事</td>
 <td>{{% minkabu 8001 %}}</td>
-<td>国際エネルギー事業・LNG調達の主要プレイヤー。石油備蓄の安定確保を支援。</td>
+<td>大手総合商社。国際エネルギー事業とLNG調達で主要プレイヤー。シェール石油・ガスプロジェクトにも参加。石油備蓄の安定供給確保を支援する。</td>
 <td>{{% corplink "https://www.itochu.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8001" %}}</td>
 </tr>

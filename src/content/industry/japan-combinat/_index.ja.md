@@ -172,28 +172,28 @@ galleryDir: "combinat"
 <tr>
 <td>ENEOSホールディングス</td>
 <td>{{% minkabu 5020 %}}</td>
-<td>国内最大の石油元売り。京葉・鹿島・水島の3コンビナートに製油所を保有し、ナフサをコンビナートに供給。</td>
+<td>国内最大の石油元売り。京葉・鹿島・水島の3コンビナートに製油所を保有し、ナフサをコンビナートに供給。傘下にJX金属・エネオスガスも展開。</td>
 <td>{{% corplink "https://www.hd.eneos.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5020" %}}</td>
 </tr>
 <tr>
 <td>出光興産</td>
 <td>{{% minkabu 5019 %}}</td>
-<td>京葉に国内最大規模の千葉製油所（220千BD）。三井化学とエチレン装置統合で合意。</td>
+<td>京葉に国内最大規模の千葉製油所（220千BD）を保有。2027年度をめどに三井化学とエチレン装置統合予定。昭和シェル合併後、国内第2位の元売り。</td>
 <td>{{% corplink "https://www.idemitsu.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5019" %}}</td>
 </tr>
 <tr>
-<td>コスモエネルギーホールディングス</td>
+<td>コスモエネルギーHD</td>
 <td>{{% minkabu 5021 %}}</td>
-<td>国内第3位の石油元売り。京葉に千葉製油所（175千BD）を保有。</td>
-<td>{{% corplink "https://www.cosmo-energy.co.jp/ja/ir.html" %}}</td>
+<td>国内第3位の石油元売り。アブダビ国営石油（ADNOC）が筆頭株主。京葉に千葉製油所（175千BD）を保有。</td>
+<td>{{% corplink "https://ceh.cosmo-oil.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5021" %}}</td>
 </tr>
 <tr>
 <td>富士石油</td>
 <td>{{% minkabu 5009 %}}</td>
-<td>京葉に袖ケ浦製油所（143千BD）を保有。旧アラビア石油系。</td>
+<td>京葉に袖ケ浦製油所（143千BD）を保有し、ガソリン・灯油・LPG・ナフサを生産。旧アラビア石油の流れを汲む。</td>
 <td>{{% corplink "https://www.foc.co.jp/ja/ir.html" %}}</td>
 <td>{{% dividend "tokyo" "5009" %}}</td>
 </tr>
@@ -201,63 +201,63 @@ galleryDir: "combinat"
 <tr>
 <td>三菱ケミカルグループ</td>
 <td>{{% minkabu 4188 %}}</td>
-<td>京葉・鹿島・水島の3コンビナートに拠点。MMA世界シェア約30%。石化事業は分社化済。</td>
-<td>{{% corplink "https://www.mitsubishichem-hd.co.jp/ir/" %}}</td>
+<td>京葉・鹿島・水島の3コンビナートに拠点。エチレン設備や石化事業は分社化済で機能化学品に注力。MMA（メタクリル酸メチル）で世界シェア約30%を占める。</td>
+<td>{{% corplink "https://www.mcgc.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4188" %}}</td>
 </tr>
 <tr>
 <td>住友化学</td>
 <td>{{% minkabu 4005 %}}</td>
-<td>京葉（千葉）・鹿島に拠点。鹿島はエチレン停止後、機能性化学品に集約。</td>
+<td>京葉（千葉）・鹿島に拠点を持つ総合化学大手。千葉工場はエチレン能力約57万t/年で、農薬・医薬品原体・半導体用材料も製造。鹿島はエチレン停止後、機能性化学品に集約。</td>
 <td>{{% corplink "https://www.sumitomo-chem.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4005" %}}</td>
 </tr>
 <tr>
 <td>旭化成</td>
 <td>{{% minkabu 3407 %}}</td>
-<td>水島を発祥・主力拠点とする総合化学メーカー。LIBセパレーター（Hipore）の主要メーカーで、北米市場では約30%シェアを目標。</td>
+<td>水島を発祥・主力拠点とする総合化学メーカー。エチレン・合成ゴム・LIBセパレーター（ハイポア）・建材・医薬品・繊維を展開。LIBセパレーターは重要成長領域。</td>
 <td>{{% corplink "https://www.asahi-kasei.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3407" %}}</td>
 </tr>
 <tr>
 <td>三井化学</td>
 <td>{{% minkabu 4005 %}}</td>
-<td>市原工場はエチレン能力55.5万t/年。ポリウレタン原料（MDI）・機能性樹脂に強み。2027年度に出光とエチレン装置統合予定。</td>
-<td>{{% corplink "https://jp.mitsuichemicals.com/" %}}</td>
+<td>市原工場（京葉）はエチレン能力約55.5万t/年。ポリウレタン原料（MDI）・機能性樹脂・EVバッテリー材料が主力。2027年度に出光とエチレン装置統合予定。</td>
+<td>{{% corplink "https://jp.mitsuichemicals.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4005" %}}</td>
 </tr>
 <tr>
 <td>クラレ</td>
 <td>{{% minkabu 3405 %}}</td>
-<td>水島を主力拠点とする機能性材料メーカー。PVA（ポリビニルアルコール）・接着樹脂で世界シェア上位。</td>
-<td>{{% corplink "https://www.kuraray.co.jp/ir/" %}}</td>
+<td>水島を主力拠点とする機能性材料メーカー。PVA（ポリビニルアルコール）・接着樹脂で世界シェア上位。偏光フィルム・セパレーター用材料などで革新素材を展開。</td>
+<td>{{% corplink "https://www.kuraray.co.jp/ir" %}}</td>
 <td>{{% dividend "tokyo" "3405" %}}</td>
 </tr>
 <tr>
 <td>信越化学工業</td>
 <td>{{% minkabu 4063 %}}</td>
-<td>鹿島に大規模生産拠点。化学品・半導体関連材料大手。ポリ塩化ビニル・シリコーン樹脂で国内最大級。</td>
-<td>{{% corplink "https://www.shinetsu.co.jp/ir/" %}}</td>
+<td>京葉・鹿島・水島など複数コンビナートに大規模生産拠点。ポリ塩化ビニル・シリコーン樹脂・半導体ウェーハで国内最大級。電子材料事業も急成長中。</td>
+<td>{{% corplink "https://www.shinetsu.co.jp/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4063" %}}</td>
 </tr>
 <tr>
-<td>昭和電工（Resonac）</td>
-<td>{{% minkabu 4208 %}}</td>
-<td>複数のコンビナートに拠点。機能化学品・電子材料・エネルギーソリューションに注力。2024年Resonac改称。</td>
-<td>{{% corplink "https://www.resonac.com/ja/" %}}</td>
-<td>{{% dividend "tokyo" "4208" %}}</td>
+<td>レゾナック</td>
+<td>{{% minkabu 4004 %}}</td>
+<td>複数のコンビナートに拠点を保有。半導体材料・機能化学品・電子材料の研究開発と製造。2024年にResonacとしてリブランディング。</td>
+<td>{{% corplink "https://www.resonac.com/ja/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4004" %}}</td>
 </tr>
 <tr>
 <td>トクヤマ</td>
 <td>{{% minkabu 4043 %}}</td>
-<td>周南コンビナートを主力。ポリ塩化ビニル・ジクロロメタン・シリカゲル製造。化学肥料事業も。</td>
+<td>周南コンビナート（山口県周南市）に本社工場を置く化学・セメント大手。ポリ塩化ビニル・苛性ソーダ・多結晶シリコンが主力。半導体用高純度品にも展開。</td>
 <td>{{% corplink "https://www.tokuyama.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4043" %}}</td>
 </tr>
 <tr>
 <td>大阪ソーダ</td>
 <td>{{% minkabu 4046 %}}</td>
-<td>北[日本](/rule/asia/japan/)・西[日本](/rule/asia/japan/)のコンビナートに立地。塩素・アルカリ化学品・香料・医薬品中間体の製造。</td>
+<td>複数のコンビナートに拠点。塩素・アルカリ化学品（苛性ソーダ・塩素ガス）・香料・医薬品中間体を製造。電解槽技術で競争力を有する。</td>
 <td>{{% corplink "https://www.osakasoda.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4046" %}}</td>
 </tr>
@@ -265,14 +265,14 @@ galleryDir: "combinat"
 <tr>
 <td>日本製鉄</td>
 <td>{{% minkabu 5401 %}}</td>
-<td>国内最大の鉄鋼メーカー。鹿島・君津に一貫製鉄所。鹿島は2025年に1基体制へ移行。</td>
+<td>国内最大の鉄鋼メーカー。鹿島・君津に一貫製鉄所を保有し、厚板・熱延・薄板を生産。鹿島は2025年に1基体制へ移行。粗鋼年産能力は国内全体の約40%を占める。</td>
 <td>{{% corplink "https://www.nipponsteel.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5401" %}}</td>
 </tr>
 <tr>
 <td>JFEホールディングス</td>
 <td>{{% minkabu 5411 %}}</td>
-<td>京葉（千葉）・水島に一貫製鉄所。自動車用ハイテン鋼板に強み。水島で電気炉転換に着手。</td>
+<td>京葉（千葉）・水島に一貫製鉄所を持つ国内第2位の鉄鋼メーカー。自動車用ハイテン鋼板が主力で、高張力化が進行中。水島で大型電気炉への転換に着手（2027年稼働予定）。</td>
 <td>{{% corplink "https://www.jfe-holdings.co.jp/investor/" %}}</td>
 <td>{{% dividend "tokyo" "5411" %}}</td>
 </tr>
@@ -280,7 +280,7 @@ galleryDir: "combinat"
 <tr>
 <td>三菱自動車工業</td>
 <td>{{% minkabu 7211 %}}</td>
-<td>水島工場が国内唯一の軽自動車専用拠点。日産へのOEM供給が生産の大半。</td>
+<td>水島工場が国内唯一の軽自動車専用拠点で、eKクロス・デリカミニなど軽SUV・軽ハイトワゴンを製造。日産へのOEM供給（デイズ・ルークス）が生産の約60〜70%を占める。</td>
 <td>{{% corplink "https://www.mitsubishi-motors.com/jp/investors/" %}}</td>
 <td>{{% dividend "tokyo" "7211" %}}</td>
 </tr>

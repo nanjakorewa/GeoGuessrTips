@@ -115,105 +115,105 @@ galleryDir: "kashima"
 <tr>
 <td>日本製鉄</td>
 <td>{{% minkabu 5401 %}}</td>
-<td>鹿島製鉄所は2025年に1基体制へ集約。厚板・熱延が主力。5,370m³高炉は世界最大級。</td>
+<td>国内最大の鉄鋼メーカー。鹿島製鉄所は2025年に1基体制へ集約し、5,370m³の世界最大級高炉で厚板・熱延・線材を生産。粗鋼年産能力は約400〜500万トン。</td>
 <td>{{% corplink "https://www.nipponsteel.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5401" %}}</td>
 </tr>
 <tr>
 <td>信越化学工業</td>
 <td>{{% minkabu 4063 %}}</td>
-<td>鹿島に塩ビ樹脂・半導体シリコン関連拠点。シリコンウェーハ世界首位。</td>
+<td>鹿島に塩ビ樹脂・半導体シリコン関連の大規模拠点。ポリ塩化ビニル・シリコーン樹脂・半導体ウェーハで国内最大級。シリコンウェーハは世界首位。</td>
 <td>{{% corplink "https://www.shinetsu.co.jp/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4063" %}}</td>
 </tr>
 <tr>
 <td>三菱ケミカルグループ</td>
 <td>{{% minkabu 4188 %}}</td>
-<td>鹿島事業所でMMA（メタクリル酸メチル）等スペシャリティ化学品を生産。MMA世界シェア約30%。</td>
-<td>{{% corplink "https://www.mitsubishichem-hd.co.jp/ir/" %}}</td>
+<td>鹿島事業所ではMMA（メタクリル酸メチル）等のスペシャリティ化学品に特化。MMA世界シェアは約30%で業界首位。高機能素材領域で競争力を保有。</td>
+<td>{{% corplink "https://www.mcgc.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4188" %}}</td>
 </tr>
 <tr>
 <td>ダイキン工業</td>
 <td>{{% minkabu 6367 %}}</td>
-<td>鹿島にフッ素化学品の生産拠点。空調世界首位。鹿島地区ではフッ素樹脂・フッ素ゴムを製造。</td>
+<td>空調・冷凍機で世界首位。鹿島にフッ素化学品の生産拠点を持ち、フッ素樹脂・フッ素ゴムを製造。高機能化学品で高シェアを維持。</td>
 <td>{{% corplink "https://www.daikin.co.jp/investor/" %}}</td>
 <td>{{% dividend "tokyo" "6367" %}}</td>
 </tr>
 <tr>
 <td>花王</td>
 <td>{{% minkabu 4452 %}}</td>
-<td>鹿島工場で界面活性剤・化学品原料を生産。日用品大手としてだけでなくケミカル事業の拠点。</td>
+<td>日用品大手だが鹿島工場ではケミカル事業を展開。界面活性剤・化学品原料を生産し、洗剤・シャンプー等の原料供給を担当。</td>
 <td>{{% corplink "https://www.kao.com/jp/investor-relations/" %}}</td>
 <td>{{% dividend "tokyo" "4452" %}}</td>
 </tr>
 <tr>
 <td>AGC</td>
 <td>{{% minkabu 5201 %}}</td>
-<td>鹿島にガラス・電子材料の製造拠点。旧旭硝子。EUV用フォトマスクブランクスでも高シェア。</td>
+<td>旧旭硝子。鹿島にガラス・電子材料の製造拠点を保有。EUV用フォトマスクブランクス・ディスプレイガラスで高シェアを占める。</td>
 <td>{{% corplink "https://www.agc.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5201" %}}</td>
 </tr>
 <tr>
 <td>エーザイ</td>
 <td>{{% minkabu 4523 %}}</td>
-<td>鹿島事業所で医薬品原薬・製剤を生産。アルツハイマー治療薬「レカネマブ」で注目。</td>
+<td>医薬大手。鹿島事業所では医薬品原薬・製剤を生産。アルツハイマー治療薬「レカネマブ」などの革新治療薬で注目。</td>
 <td>{{% corplink "https://www.eisai.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4523" %}}</td>
 </tr>
 <tr>
 <td>レゾナック</td>
 <td>{{% minkabu 4004 %}}</td>
-<td>鹿島事業所で半導体材料・化学品を生産。旧昭和電工マテリアルズ。</td>
+<td>鹿島事業所で半導体材料・化学品を生産。昭和電工マテリアルズより事業分割。半導体・電子機器向け機能材料で高成長領域。</td>
 <td>{{% corplink "https://www.resonac.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4004" %}}</td>
 </tr>
 <tr>
 <td>DIC</td>
 <td>{{% minkabu 4631 %}}</td>
-<td>鹿島に印刷インキ・機能性化学品の生産拠点。旧大日本インキ化学工業。</td>
+<td>旧大日本インキ化学工業。鹿島に印刷インキ・機能性化学品の生産拠点を保有。高付加価値化学品で競争力を保有。</td>
 <td>{{% corplink "https://www.dic-global.com/ja/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4631" %}}</td>
 </tr>
 <tr>
 <td>カネカ</td>
 <td>{{% minkabu 4118 %}}</td>
-<td>鹿島工場で機能性樹脂・発泡樹脂を生産。太陽電池バックシートや生分解性ポリマーにも展開。</td>
+<td>鹿島工場で機能性樹脂・発泡樹脂を生産。太陽電池バックシート・生分解性ポリマー・食品包装材などで高付加価値化学品を展開。</td>
 <td>{{% corplink "https://www.kaneka.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4118" %}}</td>
 </tr>
 <tr>
 <td>ニッスイ</td>
 <td>{{% minkabu 1332 %}}</td>
-<td>鹿島に医薬品工場・油脂工場を保有。高純度EPA（エイコサペンタエン酸）の医薬原料を製造し、国内外の製薬企業へ供給。水産大手だが鹿島ではファインケミカル事業を展開。</td>
+<td>水産大手。鹿島に医薬品工場・油脂工場を保有。高純度EPA（エイコサペンタエン酸）などの医薬原料をファインケミカル事業として国内外の製薬企業へ供給。</td>
 <td>{{% corplink "https://www.nissui.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "1332" %}}</td>
 </tr>
 <tr>
 <td>中部飼料</td>
 <td>{{% minkabu 2053 %}}</td>
-<td>鹿島工場（神栖市）で畜産・水産用の配合飼料を製造。鹿島港の穀物荷揚げ機能を活かした原料調達が立地の強み。</td>
+<td>飼料大手。鹿島工場（神栖市）で畜産・水産用の配合飼料を製造。鹿島港の穀物荷揚げ機能を活かした原料調達が立地の強み。</td>
 <td>{{% corplink "https://www.chubushiryo.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2053" %}}</td>
 </tr>
 <tr>
 <td>フィード・ワン</td>
 <td>{{% minkabu 2060 %}}</td>
-<td>鹿島飼料（神栖市）を通じて配合飼料を製造。国内唯一の有機JAS認証飼料の製造拠点を持つ。</td>
+<td>飼料製造大手。鹿島飼料（神栖市）を通じて配合飼料を製造。国内唯一の有機JAS認証飼料の製造拠点を持ち、高付加価値飼料で市場を開拓。</td>
 <td>{{% corplink "https://www.feed-one.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2060" %}}</td>
 </tr>
 <tr>
 <td>日華化学</td>
 <td>{{% minkabu 4463 %}}</td>
-<td>鹿島工場（第1・第2）で非イオン界面活性剤・エステル化物を製造。コンビナートのパイプラインからEO（エチレンオキサイド）を直接調達できる立地を活かす。</td>
+<td>鹿島工場（第1・第2）で非イオン界面活性剤・エステル化物を製造。コンビナート内のパイプラインからEO（エチレンオキサイド）を直接調達でき、コンビナート立地を活かす。</td>
 <td>{{% corplink "https://www.nicca.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4463" %}}</td>
 </tr>
 <tr>
 <td>三菱化工機</td>
 <td>{{% minkabu 6331 %}}</td>
-<td>鹿島工場で化学プラント向け圧力容器・塔槽類を製造。水素発生装置や固液分離装置も手がけ、コンビナート内の設備メンテナンス需要にも対応。</td>
+<td>化学機械メーカー。鹿島工場で化学プラント向け圧力容器・塔槽類・水素発生装置・固液分離装置を製造。コンビナート内の設備供給やメンテナンス需要に対応。</td>
 <td>{{% corplink "https://www.kakoki.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6331" %}}</td>
 </tr>

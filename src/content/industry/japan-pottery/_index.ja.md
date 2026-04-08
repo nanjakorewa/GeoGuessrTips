@@ -346,28 +346,28 @@ galleryDir: "japan-pottery"
 <tr>
 <td>京セラ</td>
 <td>{{% minkabu 6971 %}}</td>
-<td>稲盛和夫が「京都セラミック」として創業。ファインセラミックスから電子部品・太陽電池・半導体パッケージに展開。セラミックナイフでも知られる{{% cite "kyocera_ir" %}}。</td>
+<td>1959年に稲盛和夫が京都で「京都セラミック」として創業したファインセラミックス企業。ファインセラミックスから電子部品（積層セラミックコンデンサ）・太陽電池・半導体パッケージ・精密電子部品へ多角化。セラミックナイフ等の日用品でも知られ、電子部品が売上高の約30%を占める主力事業{{% cite "kyocera_ir" %}}。</td>
 <td>{{% corplink "https://www.kyocera.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6971" %}}</td>
 </tr>
 <tr>
 <td>村田製作所</td>
 <td>{{% minkabu 6981 %}}</td>
-<td>チタン酸バリウム系セラミックスの焜結技術を基盤に創業。積層セラミックコンデンサ（MLCC）で世界シェア約40%の圧倒的首位です{{% cite "murata_history" %}}。</td>
+<td>1944年創業。チタン酸バリウム系セラミックスの焼結技術を基盤に、積層セラミックコンデンサ（MLCC）で世界シェア約40%の圧倒的首位を占める電子部品企業。スマートフォン・通信機器・自動車向けで不可欠な受動部品で業界トップ。セラミック技術を活かし多くの電子デバイスで高シェア{{% cite "murata_history" %}}。</td>
 <td>{{% corplink "https://corporate.murata.com/ja-jp/ir" %}}</td>
 <td>{{% dividend "tokyo" "6981" %}}</td>
 </tr>
 <tr>
 <td>TDK</td>
 <td>{{% minkabu 6762 %}}</td>
-<td>磁性セラミックス「フェライト」の工業化企業として1935年に創業{{% cite "tdk_history" %}}。現在は電子部品・蓄電池（ATL）・センサーが収益の柱。</td>
+<td>1935年創業。磁性セラミックス「フェライト」の工業化に世界で初めて成功した電子部品大手。フェライトコア・インダクタなどの磁性部品で世界有数シェア。電子部品・蓄電池（ATL買収）・センサーが売上の主力で、スマートフォン・通信機器・自動車向け電子部品で高シェア{{% cite "tdk_history" %}}。</td>
 <td>{{% corplink "https://www.tdk.com/ja/ir" %}}</td>
 <td>{{% dividend "tokyo" "6762" %}}</td>
 </tr>
 <tr>
 <td>MARUWA</td>
 <td>{{% minkabu 5344 %}}</td>
-<td>瀬戸の窯業家・神戸家が創業。パワー半導体向けセラミック基板・窒化アルミニウム基板で高シェア{{% cite "maruwa_history" %}}。5G通信部品にも展開。</td>
+<td>1946年創業。瀬戸の窯業家・神戸家が伝統的な陶磁器技術を転換し、電子用セラミック基板製造へ。パワー半導体向けセラミック基板・窒化アルミニウム基板で世界有数シェア。5G通信部品・自動車向け高機能基板で競争力を発揮{{% cite "maruwa_history" %}}。</td>
 <td>{{% corplink "https://www.maruwa-g.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5344" %}}</td>
 </tr>
@@ -375,43 +375,43 @@ galleryDir: "japan-pottery"
 <tr>
 <td>ノリタケカンパニーリミテド</td>
 <td>{{% minkabu 5331 %}}</td>
-<td>1904年に森村組が設立した[日本](/rule/asia/japan/)陶器が前身。洋食器「ノリタケチャイナ」に加え、工業用研削砥石・電子セラミック部品を製造{{% cite "morimura" %}}。</td>
-<td>{{% corplink "https://www.noritake.co.jp/company/ir/" %}}</td>
+<td>1904年に森村組が設立した[日本](/rule/asia/japan/)陶器が前身。洋食器「ノリタケチャイナ」で世界的に知られ、工業用研削砥石・電子セラミック部品・パワー半導体関連製品へ展開。森村グループの食器からハイテク産業への転換を象徴する企業{{% cite "morimura" %}}。</td>
+<td>{{% corplink "https://www.noritake.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5331" %}}</td>
 </tr>
 <tr>
 <td>TOTO</td>
 <td>{{% minkabu 5332 %}}</td>
-<td>1917年に[日本](/rule/asia/japan/)陶器（現ノリタケ）から衛生陶器部門が独立して設立{{% cite "morimura" %}}。温水洗浄便座「ウォシュレット」で世界的に知られる。</td>
-<td>{{% corplink "https://jp.toto.com/company/ir/" %}}</td>
+<td>1917年に[日本](/rule/asia/japan/)陶器（現ノリタケ）から衛生陶器部門が独立。陶磁器製造技術を基盤に、温水洗浄便座「ウォシュレット」で世界的に知られる住宅設備大手。衛生陶器・タイル・水栓・建築設備で総合住宅メーカーのポジション{{% cite "morimura" %}}。</td>
+<td>{{% corplink "https://jp.toto.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5332" %}}</td>
 </tr>
 <tr>
 <td>日本ガイシ（NGK）</td>
 <td>{{% minkabu 5333 %}}</td>
-<td>1919年に[日本](/rule/asia/japan/)陶器の碍子部門が独立{{% cite "morimura" %}}。送電用セラミック碍子から出発し、NAS電池・DPF（排ガスフィルター）・半導体製造装置部品に展開。</td>
+<td>1919年に[日本](/rule/asia/japan/)陶器の碍子部門が独立した企業。送電用セラミック碍子（ポーセリン碍子）の大手メーカーから出発。現在はNAS電池・ディーゼルエンジン排ガス浄化フィルター（DPF）・半導体製造装置部品で多角化。窯業技術をエネルギー・環境分野に展開{{% cite "morimura" %}}。</td>
 <td>{{% corplink "https://www.ngk.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5333" %}}</td>
 </tr>
 <tr>
 <td>Niterra（旧[日本](/rule/asia/japan/)特殊陶業）</td>
 <td>{{% minkabu 5334 %}}</td>
-<td>1936年に日本ガイシからスパークプラグ部門が独立{{% cite "morimura" %}}。自動車用点火プラグ世界首位。近年はセラミックス技術を活かし医療機器・固体酸化物形燃料電池（SOFC）にも多角化。</td>
-<td>{{% corplink "https://www.ngkntk.co.jp/ir/" %}}</td>
+<td>1936年に日本ガイシからスパークプラグ部門が独立。自動車用点火プラグで世界首位のシェアを確保し、セラミックス焼成技術の高度な応用を実現。近年はセラミックス技術を活かし医療機器・固体酸化物形燃料電池（SOFC）・環境浄化部品へ多角化推進{{% cite "morimura" %}}。</td>
+<td>{{% corplink "https://www.niterra.com/ja/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5334" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 窯業産地転換型（衛生陶器・タイル・ICパッケージ基板・DPF）</td></tr>
 <tr>
 <td>LIXIL</td>
 <td>{{% minkabu 5938 %}}</td>
-<td>常滑焼の伝統を持つ伊奈製陶（INAX）を母体の一つとする住宅設備大手{{% cite "lixil_ir" %}}。衛生陶器・タイル・水回り設備。常滑に「INAXライブミュージアム」を運営。</td>
+<td>常滑焼の伝統を持つ伊奈製陶（INAX、1924年設立）を母体の一つとする住宅設備大手。衛生陶器・タイル・水栓・建築設備が主力。窯業産地の伝統技術をハイテク建材・水回り設備へ転換。常滑に「INAXライブミュージアム」を運営{{% cite "lixil_ir" %}}。</td>
 <td>{{% corplink "https://www.lixil.com/jp/investor/" %}}</td>
 <td>{{% dividend "tokyo" "5938" %}}</td>
 </tr>
 <tr>
 <td>イビデン</td>
 <td>{{% minkabu 4062 %}}</td>
-<td>揖斐川の水力発電・カーバイド製造から出発し、セラミック技術を蓄積。現在の主力はICパッケージ基板（有機基板）とディーゼル排ガス浄化フィルター（DPF）の二本柱。DPFは欧州市場で高シェア{{% cite "ibiden_ir" %}}。</td>
+<td>1912年創業。揖斐川の水力発電・カーバイド製造から出発し、セラミック技術を蓄積した電子・環境部品大手。ICパッケージ基板（有機基板が主力）とディーゼルエンジン排ガス浄化フィルター（DPF）が二本柱。DPFは欧州市場で高シェアを占める環境対応部品として重要{{% cite "ibiden_ir" %}}。</td>
 <td>{{% corplink "https://www.ibiden.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4062" %}}</td>
 </tr>
@@ -419,15 +419,15 @@ galleryDir: "japan-pottery"
 <tr>
 <td>HOYA</td>
 <td>{{% minkabu 7741 %}}</td>
-<td>光学・医療機器大手。EUVフォトマスク向けガラス基板で世界首位。セラミックス系材料も含む精密光学素子で高シェア。眼鏡レンズ・内視鏡等も展開。</td>
-<td>{{% corplink "https://www.hoya.co.jp/ir/" %}}</td>
+<td>光学・医療機器の世界大手。EUV露光用フォトマスク基板（合成石英ガラス）で世界首位シェア、先端半導体製造を支援。セラミックス系材料を含む精密光学素子で業界トップシェア。眼鏡レンズ・内視鏡・医療用ガラス製品で多角化。ガラス・セラミックス技術を活かした医療機器開発{{% cite "hoya_company" %}}。</td>
+<td>{{% corplink "https://www.hoya.com/ja/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7741" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 特殊ガラス・セラミックス</td></tr>
 <tr>
 <td>[日本](/rule/asia/japan/)電気硝子</td>
 <td>{{% minkabu 5214 %}}</td>
-<td>液晶ディスプレイ用ガラス基板で世界トップ級。ガラスファイバー・医薬用バイアルなど特殊ガラスに特化。セラミック材料技術を融合。</td>
+<td>1944年滋賀県大津市創業。液晶ディスプレイ用ガラス基板で世界トップ級（米Corning、台湾AvanStrateと競争）を確保し、ガラスファイバー・医薬用バイアル製造で特化。CRTブラウン管からディスプレイガラスへの産業転換を実現。セラミック材料技術と融合{{% cite "neg_company" %}}。</td>
 <td>{{% corplink "https://www.neg.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5214" %}}</td>
 </tr>
@@ -435,15 +435,15 @@ galleryDir: "japan-pottery"
 <tr>
 <td>太陽誘電</td>
 <td>{{% minkabu 8113 %}}</td>
-<td>セラミックコンデンサ・積層セラミック・誘電体材料の専業メーカー。村田製作所と並ぶ電子セラミックの大手。受動部品で世界的シェア。</td>
+<td>セラミックコンデンサ・積層セラミック・誘電体材料の専業メーカー。村田製作所と並ぶ電子セラミック分野の大手で、受動部品での世界的シェア確保。スマートフォン・通信機器・自動車向け高周波部品で重要なサプライヤー{{% cite "tosonyo_company" %}}。</td>
 <td>{{% corplink "https://www.tusonyo.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8113" %}}</td>
 </tr>
 <tr>
 <td>高周波熱錬</td>
 <td>{{% minkabu 2268 %}}</td>
-<td>セラミック・ガラス・硅酸塩材料の製造。電子セラミック・研磨材・サーマルマネジメント材料で特化。中堅ながら高機能材料供給。</td>
-<td>{{% corplink "https://www.koushuhatsuretsuren.com/ir/" %}}</td>
+<td>セラミック・ガラス・珪酸塩材料の製造企業。電子セラミック・研磨材・サーマルマネジメント材料で特化。中堅ながら高機能セラミック材料供給での競争力確保。半導体・電子部品業界での信頼性の高い素材メーカー{{% cite "koushuhatsuretsuren_company" %}}。</td>
+<td>{{% corplink "https://www.koushuhatsuretsuren.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2268" %}}</td>
 </tr>
 </tbody>

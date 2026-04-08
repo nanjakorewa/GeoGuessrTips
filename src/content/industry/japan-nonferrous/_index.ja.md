@@ -248,43 +248,43 @@ galleryDir: "japan-nonferrous"
 <tr>
 <td>住友金属鉱山</td>
 <td>{{% minkabu 5713 %}}</td>
-<td>住友グループ。東予製錬所（銅）・新居浜ニッケル工場・電池正極材（NCA/NMC）。海外資源開発でも世界有数{{% cite "smm_company" %}}。</td>
+<td>住友グループを代表する非鉄製錬企業。東予製錬所（銅年産45万t）と新居浜ニッケル工場を保有し、銅・亜鉛・ニッケルの国内主要供給者。電池正極材（NCA/NMC）でEV市場にも対応。海外の銅・金・銀・ニッケルプロジェクトでも世界的存在感を持つ{{% cite "smm_company" %}}。</td>
 <td>{{% corplink "https://www.smm.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5713" %}}</td>
 </tr>
 <tr>
 <td>三菱マテリアル</td>
 <td>{{% minkabu 5711 %}}</td>
-<td>直島製錬所を中核に、銅製錬と E-Scrap リサイクルで世界最大級。電子材料・加工事業も展開{{% cite "mmc_escrap" %}}。</td>
+<td>直島製錬所（香川県）を中核に、銅製錬とE-Scrapリサイクルで世界最大級の処理拠点を運営。グループ全体で年間16万トンのE-Scrap処理能力を有し、世界の都市鉱山リサイクルで指導的地位。電子材料・銅加工事業も展開し、複合産業体として非鉄精錬業界をリード{{% cite "mmc_escrap" %}}。</td>
 <td>{{% corplink "https://www.mmc.co.jp/corporate/ja/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5711" %}}</td>
 </tr>
 <tr>
 <td>JX金属</td>
 <td>{{% minkabu 5016 %}}</td>
-<td>2025年3月東証プライム上場（旧JX金属、ENEOSグループから分社化）。佐賀関・小名浜・玉野の銅製錬を子会社PPCで運営。スパッタリングターゲット世界シェア6割超{{% cite "jxnmm_about" %}}。</td>
-<td>{{% corplink "https://www.jx-nmm.com/" %}}</td>
+<td>2025年3月東証プライム上場（ENEOSグループから分社化）。傘下のパンパシフィック・カッパー（PPC）で佐賀関・玉野の銅製錬拠点（年産約65万t）を運営し、国内銅製錬の中核。スパッタリングターゲットで世界シェア6割超を占める電子材料大手としても位置付けられている{{% cite "jxnmm_about" %}}。</td>
+<td>{{% corplink "https://www.jx-nmm.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5016" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 亜鉛・鉛・電子部材</td></tr>
 <tr>
 <td>三井金属鉱業</td>
 <td>{{% minkabu 5706 %}}</td>
-<td>八戸製錬・神岡鉱業（亜鉛・鉛）。極薄銅箔（マイクロシン）で世界シェア首位。EV用銅箔も主力{{% cite "mitsui_kinzoku_business" %}}。</td>
+<td>八戸製錬（青森県）で国内有数の電気亜鉛年産を、神岡鉱業（岐阜県・旧鉱山由来）でリサイクル原料処理を展開。極薄銅箔（マイクロシン）で世界シェア首位を確保し、EV用銅箔でも主力メーカーの地位を保有。電子部品・金属加工で高付加価値事業を展開{{% cite "mitsui_kinzoku_business" %}}。</td>
 <td>{{% corplink "https://www.mitsui-kinzoku.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5706" %}}</td>
 </tr>
 <tr>
 <td>DOWAホールディングス</td>
 <td>{{% minkabu 5714 %}}</td>
-<td>小坂製錬・秋田製錬を中核に、リサイクル事業（環境管理・金属回収）と電子材料を展開。サーキュラーエコノミー型ビジネスモデル{{% cite "dowa_metalmine" %}}。</td>
-<td>{{% corplink "https://hd.dowa.co.jp/ja/ir/" %}}</td>
+<td>小坂製錬（秋田県）と秋田製錬（年産20万t超）を中核に展開。黒鉱（複雑硫化鉱）処理とE-Scrapリサイクルで世界的技術力を保有。環境管理・廃棄物処理とともに金属回収事業を統合し、サーキュラーエコノミー型ビジネスモデルで国内リサイクル業界を牽引{{% cite "dowa_metalmine" %}}。</td>
+<td>{{% corplink "https://www.dowa.co.jp/ja/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5714" %}}</td>
 </tr>
 <tr>
 <td>東邦亜鉛</td>
 <td>{{% minkabu 5707 %}}</td>
-<td>安中製錬所を中心とする亜鉛・鉛製錬。2024年12月発表の事業再生計画で亜鉛製錬撤退方針{{% cite "tohozinc_recovery" %}}。</td>
+<td>安中製錬所（群馬県）を中心とする亜鉛・鉛製錬企業。戦後の急速な経済成長期に国内亜鉛製錬の一翼を担ってきた。しかし2024年12月発表の事業再生計画により、採算性の課題から亜鉛製錬事業からの撤退を表明{{% cite "tohozinc_recovery" %}}。</td>
 <td>{{% corplink "https://www.toho-zinc.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5707" %}}</td>
 </tr>
@@ -292,21 +292,21 @@ galleryDir: "japan-nonferrous"
 <tr>
 <td>住友電気工業</td>
 <td>{{% minkabu 5802 %}}</td>
-<td>住友グループ。光ファイバー・電力ケーブル・自動車配線の大手。非鉄金属加工による高付加価値製品で世界的存在感{{% cite "sumitomo_electric" %}}。</td>
+<td>住友グループの電線・ケーブル大手。光ファイバー・電力ケーブル・自動車配線・電子部品で国際競争力を保有。銅やアルミなどの非鉄金属を加工した高機能材料・製品で世界市場で指導的地位を占める。エネルギー・モビリティ転換の主要サプライヤー{{% cite "sumitomo_electric" %}}。</td>
 <td>{{% corplink "https://www.sei.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5802" %}}</td>
 </tr>
 <tr>
 <td>古河電気工業</td>
 <td>{{% minkabu 5801 %}}</td>
-<td>古河グループ。光ファイバー・電力ケーブル・自動車部品・電子材料等幅広く展開。非鉄製錬から電線・加工品まで一貫生産{{% cite "furukawa_electric" %}}。</td>
+<td>古河グループの電線・ケーブル・電子材料大手。光ファイバー・電力ケーブル・自動車部品・プリント配線板で国際競争力を発揮。銅・アルミなどの非鉄金属の製錬・加工から電線・製品までの一貫生産体制を構築。スマートグリッド・自動運転向け製品開発を推進{{% cite "furukawa_electric" %}}。</td>
 <td>{{% corplink "https://www.furukawa.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5801" %}}</td>
 </tr>
 <tr>
 <td>富士クラレ（藤倉化成グループ）</td>
 <td>{{% minkabu 5803 %}}</td>
-<td>古河・富士電機系の電線・光ファイバー・電子部品メーカー。自動車配線・産業用ケーブルで高シェア{{% cite "fujikura_co" %}}。</td>
+<td>古河・富士電機系の電線・光ファイバー・電子部品メーカー。自動車配線・産業用ケーブルで国内有数のシェアを保有。高周波ケーブル、通信用光ファイバーなど高機能製品で市場リーダー。EV・自動運転向けの電子部品・配線システムで成長{{< cite "fujikura_co" %}}。</td>
 <td>{{% corplink "https://www.fujikura.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5803" %}}</td>
 </tr>
@@ -314,21 +314,14 @@ galleryDir: "japan-nonferrous"
 <tr>
 <td>[日本](/rule/asia/japan/)製線</td>
 <td>{{% minkabu 5996 %}}</td>
-<td>非鉄金属線・電線・鋼線の製造販売。銅線・アルミ線・ステンレス線等で国内有数。自動車・建設・電力向け{{% cite "nippon_seisen" %}}。</td>
+<td>非鉄金属線・電線・鋼線の製造販売で国内有数メーカー。銅線・アルミ線・ステンレス線など各種素材で高いシェアを保有。自動車・建設・電力・電子機器向けに多様な仕様で対応。自動車業界のEV化、脱炭素化に対応する機能線の開発を推進{{% cite "nippon_seisen" %}}。</td>
 <td>{{% corplink "https://www.nihonseisen.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5996" %}}</td>
 </tr>
 <tr>
-<td>三井金属鉱業</td>
-<td>{{% minkabu 5706 %}}</td>
-<td>八戸製錬・神岡鉱業（亜鉛・鉛）。極薄銅箔（マイクロシン）で世界シェア首位。EV用銅箔も主力{{% cite "mitsui_kinzoku_business" %}}。</td>
-<td>{{% corplink "https://www.mitsui-kinzoku.com/ir/" %}}</td>
-<td>{{% dividend "tokyo" "5706" %}}</td>
-</tr>
-<tr>
 <td>アサコ鍍金</td>
 <td>{{% minkabu 5133 %}}</td>
-<td>表面処理（めっき・化学処理）の大手。電子部品・自動車・建築部材向けに高機能めっき膜を供給{{% cite "asaco_plating" %}}。</td>
+<td>表面処理（めっき・化学処理）業界の大手メーカー。電子部品・自動車・建築部材向けに各種高機能めっき膜を供給。自動車の軽量化、EV化に対応した新素材（アルミ、マグネシウム）のめっき技術で市場をリード{{% cite "asaco_plating" %}}。</td>
 <td>{{% corplink "https://www.asaco-plating.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5133" %}}</td>
 </tr>

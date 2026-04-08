@@ -82,36 +82,36 @@ galleryDir: "japan-glass"
 <tr>
 <td>AGC</td>
 <td>{{% minkabu 5201 %}}</td>
-<td>世界1～2位のフロートガラスメーカー。建築用フロートガラス・自動車用ガラス・液晶ディスプレイ用ガラスから化学・電子材料まで幅広く展開。EUVマスクブランクスで世界有数{{% cite "agc_company" %}}。</td>
+<td>1907年創業、兵庫県尼崎発祥の多角化化学・ガラス大手。世界1～2位のフロートガラスメーカーで、建築用・自動車用ガラスから液晶ディスプレイ用ガラス基板、化学・電子材料まで展開。EUV露光用フォトマスク基板（合成石英ガラス）で世界的シェアを占める戦略的ポジション{{% cite "agc_company" %}}。</td>
 <td>{{% corplink "https://www.agc.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5201" %}}</td>
 </tr>
 <tr>
 <td>[日本](/rule/asia/japan/)板硝子（NSG）</td>
 <td>{{% minkabu 5202 %}}</td>
-<td>1918年創業。2006年に英Pilkington買収で世界トップ級に成長。建築用・自動車用ガラスの大手。現在は構造改革進行中{{% cite "nsg_company" %}}。</td>
-<td>{{% corplink "https://www.nsg.com/jp/" %}}</td>
+<td>1918年大阪創業のガラスメーカー。2006年に英国の世界的大手Pilkingtonを約6,160億円で買収し、一気に世界トップ級に成長（「小蛇が大蛇を呑む買収」）。建築用・自動車用フロートガラスの大手だが、買収後の財務負担から現在は構造改革を推進{{% cite "nsg_company" %}}。</td>
+<td>{{% corplink "https://www.nsg.com/jp/ir" %}}</td>
 <td>{{% dividend "tokyo" "5202" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 特殊ガラス・光学</td></tr>
 <tr>
 <td>[日本](/rule/asia/japan/)電気硝子</td>
 <td>{{% minkabu 5214 %}}</td>
-<td>液晶ディスプレイ用ガラス基板で世界トップ3。ガラスファイバー・医薬用バイアルなど特殊ガラスに特化。滋賀県大津市本社{{% cite "neg_company" %}}。</td>
+<td>1944年滋賀県大津市創業の特殊ガラスメーカー。液晶ディスプレイ用ガラス基板で世界トップ3（米Corning、台湾AvanStrateと競争）の地位を確保。ガラスファイバー、医薬・電子用ガラス管製造でも強みを持つ。CRTブラウン管ガラス時代からの技術蓄積を活かし高機能材料供給を実現{{% cite "neg_company" %}}。</td>
 <td>{{% corplink "https://www.neg.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5214" %}}</td>
 </tr>
 <tr>
 <td>HOYA</td>
 <td>{{% minkabu 7741 %}}</td>
-<td>光学・医療機器大手。EUVリソグラフィ向けフォトマスク基板（合成石英ガラス）で世界シェア首位。眼鏡レンズ・内視鏡等も展開{{% cite "hoya_company" %}}。</td>
-<td>{{% corplink "https://www.hoya.co.jp/ir/" %}}</td>
+<td>光学・医療機器の世界大手。EUV露光用フォトマスク基板（合成石英ガラス）で世界首位のシェアを確保し、先端半導体製造の重要な供給企業。眼鏡レンズ・内視鏡・精密光学素子で高い技術力。AGC・信越化学と並んで、EUVリソグラフィ支援産業の中核を担う{{% cite "hoya_company" %}}。</td>
+<td>{{% corplink "https://www.hoya.com/ja/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7741" %}}</td>
 </tr>
 <tr>
 <td>セントラルガラス</td>
 <td>{{% minkabu 5334 %}}</td>
-<td>自動車用ガラス・液晶用ガラス・光学ガラスの専業メーカー。中堅だが特殊ガラス分野で競争力を持つ。</td>
+<td>自動車用ガラス・液晶ディスプレイ用ガラス・光学ガラスを主力とする中堅ガラスメーカー。特殊ガラス分野での技術力を活かし、自動車サプライチェーンでのポジション確保。自動車メーカーのグローバル展開に対応した国内外での製造基盤で競争力を維持。</td>
 <td>{{% corplink "https://www.cgg.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5334" %}}</td>
 </tr>

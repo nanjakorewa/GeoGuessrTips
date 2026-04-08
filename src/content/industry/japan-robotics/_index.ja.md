@@ -229,13 +229,13 @@ galleryDir: "japan-robotics"
 <th class="col-width-1">配当履歴</th>
 </tr></thead>
 <tbody class="corp-desc">
-<tr><td>FANUC</td><td>6954</td><td>産業用ロボット</td><td>{{% corplink "https://www.google.com/search?q=FANUC+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6954" %}}</td></tr>
-<tr><td>安川電機</td><td>6506</td><td>ロボット・サーボ</td><td>{{% corplink "https://www.google.com/search?q=安川電機+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6506" %}}</td></tr>
-<tr><td>川崎重工</td><td>7012</td><td>ロボット・重機</td><td>{{% corplink "https://www.google.com/search?q=川崎重工+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7012" %}}</td></tr>
-<tr><td>三菱電機</td><td>6503</td><td>ロボット・産業機器</td><td>{{% corplink "https://www.google.com/search?q=三菱電機+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6503" %}}</td></tr>
-<tr><td>セイコーエプソン</td><td>6724</td><td>SCARA・プリンタ</td><td>{{% corplink "https://www.google.com/search?q=セイコーエプソン+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6724" %}}</td></tr>
-<tr><td>ハーモニックドライブ</td><td>6324</td><td>精密減速機</td><td>{{% corplink "https://www.google.com/search?q=ハーモニックドライブ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6324" %}}</td></tr>
-<tr><td>ニデック</td><td>6594</td><td>サーボモータ</td><td>{{% corplink "https://www.google.com/search?q=ニデック+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6594" %}}</td></tr>
+<tr><td>FANUC</td><td>6954</td><td>世界最大の産業用ロボット専業メーカー。多関節ロボット・CNC一体型ロボット・AI搭載協働ロボットなど高機能化による付加価値製品を展開。全球市場シェア約11%で世界3〜4位。自動車・電子機械・食品加工など多岐の産業に対応</td><td>{{% corplink "https://www.fanuc.co.jp/ja/ir/" %}}</td><td>{{% dividend "tokyo" "6954" %}}</td></tr>
+<tr><td>安川電機</td><td>6506</td><td>AC サーボモータ・駆動制御で世界トップクラスの製造企業。Motomanブランドのロボット製品（溶接・組立・搬送）を展開。サーボモータ出荷累計2,000万台の実績により、ロボット関節駆動の核となる部品産業で も圧倒的な競争力を保有</td><td>{{% corplink "https://www.yaskawa.co.jp/investor" %}}</td><td>{{% dividend "tokyo" "6506" %}}</td></tr>
+<tr><td>川崎重工</td><td>7012</td><td>日本初のロボット製造企業（1969年）。溶接・塗装・医療ロボットで高い実績を保有。精密機械加工分野での技術蓄積により、重工業との統合的な事業展開で競争力を維持</td><td>{{% corplink "https://www.khi.co.jp/ir/" %}}</td><td>{{% dividend "tokyo" "7012" %}}</td></tr>
+<tr><td>三菱電機</td><td>6503</td><td>コンパクト・高速SCARA ロボット世界トップシェア企業。パッケージング・食品機械向けの高精度ロボット・協働ロボット（MELFA-ASSISTA）で業界をリード。産業機器事業の一部として総合的なソリューション提供</td><td>{{% corplink "https://www.mitsubishielectric.co.jp/investors/" %}}</td><td>{{% dividend "tokyo" "6503" %}}</td></tr>
+<tr><td>セイコーエプソン</td><td>6724</td><td>世界SCARA ロボットシェア首位（50%以上）の企業。超小型・高速・高精度な SCARA 300+ シリーズにより精密電子部品・医療部品組立を支配。時計精密加工技術の応用で、競合他社との差別化を実現</td><td>{{% corplink "https://corporate.epson/ja/investors/" %}}</td><td>{{% dividend "tokyo" "6724" %}}</td></tr>
+<tr><td>ハーモニックドライブ</td><td>6324</td><td>波動歯車減速機は産業用ロボット関節用として世界標準。軽量・高精度・バックラッシュなしの特性により、ロボット関節駆動の不可欠な精密部品メーカー。ニッチ分野での圧倒的シェア保有</td><td>{{% corplink "https://www.hds.co.jp/ir/" %}}</td><td>{{% dividend "tokyo" "6324" %}}</td></tr>
+<tr><td>ニデック</td><td>6594</td><td>小型高精度モータ・精密機械の世界大手。HDD・冷却ファン向けモータから産業ロボット駆動部品まで多様な用途に対応。Zignear超高分解能エンコーダ技術でロボット位置決めと速度制御を支援</td><td>{{% corplink "https://www.nidec.com/jp/ir/" %}}</td><td>{{% dividend "tokyo" "6594" %}}</td></tr>
 </tbody></table>
 </div>
 

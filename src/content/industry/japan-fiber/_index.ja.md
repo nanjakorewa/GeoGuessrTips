@@ -220,11 +220,11 @@ galleryDir: "japan-fiber"
 <th class="col-width-1">配当履歴</th>
 </tr></thead>
 <tbody class="corp-desc">
-<tr><td>東レ</td><td>3402</td><td>炭素繊維・複合材</td><td>{{% corplink "https://www.google.com/search?q=東レ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "3402" %}}</td></tr>
-<tr><td>三菱ケミカルグループ</td><td>4188</td><td>化学品・炭素繊維</td><td>{{% corplink "https://www.google.com/search?q=三菱ケミカルグループ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "4188" %}}</td></tr>
-<tr><td>帝人</td><td>3401</td><td>CFRTP・アラミド</td><td>{{% corplink "https://www.google.com/search?q=帝人+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "3401" %}}</td></tr>
-<tr><td>旭化成</td><td>3407</td><td>合成繊維・医療</td><td>{{% corplink "https://www.google.com/search?q=旭化成+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "3407" %}}</td></tr>
-<tr><td>クラレ</td><td>3405</td><td>PVA・ポバール</td><td>{{% corplink "https://www.google.com/search?q=クラレ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "3405" %}}</td></tr>
+<tr><td>東レ</td><td>3402</td><td>世界炭素繊維市場シェア13.5%で世界1位。TORAYCA®で航空宇宙（ボーイング787独占供給）・風力・自動車向けに高強度複合材を供給。Zoltek傘下でグローバル生産能力約54,600MT/年を保有。</td><td>{{% corplink "https://www.toray.co.jp/ir/" %}}</td><td>{{% dividend "tokyo" "3402" %}}</td></tr>
+<tr><td>三菱ケミカルグループ</td><td>4188</td><td>炭素繊維（Pyrofil/Grafilブランド）で航空・スポーツ・産業向けに展開。大竹・豊橋工場を中心に生産。米Sacramento・アイチ工場拡張（2025-2027）で大幅増産投資中。</td><td>{{% corplink "https://www.mcgc.com/ir/" %}}</td><td>{{% dividend "tokyo" "4188" %}}</td></tr>
+<tr><td>帝人</td><td>3401</td><td>Toho Tenax®で高modulus炭素繊維を供給。アラミド繊維Twaron®（防弾・保護服）でDuPont Kevlar®と世界市場を二分。CFRTP量産技術に強み。世界炭素繊維生産能力約13,900MT/年。</td><td>{{% corplink "https://www.teijin.com/ir/" %}}</td><td>{{% dividend "tokyo" "3401" %}}</td></tr>
+<tr><td>旭化成</td><td>3407</td><td>キュプラ繊維（Bemberg®）で高級ファッション向けに世界最高品質を供給。延岡を中心にポリアミド・合成繊維も製造。医療用繊維・医薬事業も展開する総合化学企業。</td><td>{{% corplink "https://www.asahi-kasei.com/ir/" %}}</td><td>{{% dividend "tokyo" "3407" %}}</td></tr>
+<tr><td>クラレ</td><td>3405</td><td>ポバール（PVA）で世界シェア1位。フィルム・接着剤・繊維用途で圧倒的優位。EVOH樹脂も高機能包装向けで主力。2026-2035年PVA市場成長を牽引。</td><td>{{% corplink "https://www.kuraray.com/ir/" %}}</td><td>{{% dividend "tokyo" "3405" %}}</td></tr>
 </tbody></table>
 </div>
 

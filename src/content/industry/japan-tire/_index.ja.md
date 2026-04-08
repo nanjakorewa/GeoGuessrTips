@@ -244,10 +244,10 @@ EV向けタイヤは、<span style="font-weight:700">高い静粛性・転がり
 <th class="col-width-1">配当履歴</th>
 </tr></thead>
 <tbody class="corp-desc">
-<tr><td>ブリヂストン</td><td>5108</td><td>タイヤ・ゴム</td><td>{{% corplink "https://www.google.com/search?q=ブリヂストン+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "5108" %}}</td></tr>
-<tr><td>住友ゴム工業</td><td>5110</td><td>タイヤ・スポーツ</td><td>{{% corplink "https://www.google.com/search?q=住友ゴム工業+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "5110" %}}</td></tr>
-<tr><td>横浜ゴム</td><td>5101</td><td>タイヤ・自動車部品</td><td>{{% corplink "https://www.google.com/search?q=横浜ゴム+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "5101" %}}</td></tr>
-<tr><td>TOYO TIRE</td><td>5105</td><td>タイヤ・自動車部品</td><td>{{% corplink "https://www.google.com/search?q=TOYO TIRE+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "5105" %}}</td></tr>
+<tr><td>ブリヂストン</td><td>5108</td><td>世界1～2位のタイヤ・ゴム大手。乗用車・商用車向けタイヤから産業用ゴム製品まで幅広く展開。北米・欧州・東南アジアでの充実した製造基盤で、トヨタ・日産・ホンダなどのOEM向け納入を軸に、交換市場での重要な地位を確保。EV対応タイヤ「Turanza 6」など低転がり抵抗製品で競争力{{% cite "bridgestone_official" %}}。</td><td>{{% corplink "https://www.bridgestone.co.jp/ir/" %}}</td><td>{{% dividend "tokyo" "5108" %}}</td></tr>
+<tr><td>住友ゴム工業</td><td>5110</td><td>Dunlop・Falkenブランドで世界的に知られるタイヤメーカー。乗用車タイヤから商用車向けまで展開し、特にDunlop乗用車タイヤで欧州市場での存在感が強い。スポーツ用品事業も展開。白河・泉大津・名古屋・宮崎各工場で国内生産基盤を確保{{% cite "sumitomo_rubber_history" %}}。</td><td>{{% corplink "https://www.srigroup.co.jp/ir/" %}}</td><td>{{% dividend "tokyo" "5110" %}}</td></tr>
+<tr><td>横浜ゴム</td><td>5101</td><td>1917年創業の神奈川本社タイヤメーカー。乗用車・商用車・オフロードタイヤなど幅広い製品群。平塚本社隣接の大型工場を中核に、三島・三重・尾道での国内製造拠点で、アジア太平洋地域での市場開拓に注力。自動車部品事業も展開{{% cite "yokohama_founding" %}}。</td><td>{{% corplink "https://www.y-yokohama.com/ir/" %}}</td><td>{{% dividend "tokyo" "5101" %}}</td></tr>
+<tr><td>TOYO TIRE</td><td>5105</td><td>1945年創立のタイヤメーカー（2019年に社名変更）。乗用車タイヤ「Toyo Tires」、商用車タイヤ「Nitto」ブランドで市場展開。三重県桑名工場・宮城県仙台工場が主力生産拠点。東南アジア・北米での現地生産基盤を拡充し、グローバル市場での地位向上を推進{{% cite "toyo_tire_history" %}}。</td><td>{{% corplink "https://www.toyotires.co.jp/ir/" %}}</td><td>{{% dividend "tokyo" "5105" %}}</td></tr>
 </tbody></table>
 </div>
 

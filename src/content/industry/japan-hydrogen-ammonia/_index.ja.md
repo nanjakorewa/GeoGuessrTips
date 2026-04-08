@@ -254,21 +254,21 @@ graph LR
 <tr>
 <td>東京電力HD</td>
 <td>{{% minkabu 9501 %}}</td>
-<td>JERA（東電・中部電力50%出資）の親会社。火力発電のアンモニア混焼実証を推進。</td>
+<td>日本最大級の電力企業。JERAを通じて中部電力と共に火力発電事業を展開。碧南火力でのアンモニア混焼実証を主導し、2050年カーボンニュートラル実現に向けた水素・アンモニア利用を推進。</td>
 <td>{{% corplink "https://www.tepco.co.jp/about/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9501" %}}</td>
 </tr>
 <tr>
 <td>中部電力</td>
 <td>{{% minkabu 9502 %}}</td>
-<td>JERAの親会社（50%）。碧南火力のアンモニア混焼商用化を主導。</td>
+<td>中部地方の主要電力会社。JERA経由で東京電力と共に火力発電事業を運営。碧南火力（愛知県）でのアンモニア20%混焼実証から商用化への道を切り拓き、火力発電のクリーン化を主導。</td>
 <td>{{% corplink "https://www.chuden.co.jp/corporate/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9502" %}}</td>
 </tr>
 <tr>
 <td>関西電力</td>
 <td>{{% minkabu 9503 %}}</td>
-<td>水素サプライチェーン実証に参画。原子力由来の水素製造研究も推進。</td>
+<td>関西地方の主要電力会社。水素サプライチェーン実証に参画し、国内の水素導入拠点構想に貢献。原子力由来の水素製造（高温ガス炉からの熱利用）の研究開発も推進し、脱炭素化に向けた新しい水素製造方法の確立を目指す。</td>
 <td>{{% corplink "https://www.kepco.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9503" %}}</td>
 </tr>
@@ -276,14 +276,14 @@ graph LR
 <tr>
 <td>川崎重工業</td>
 <td>{{% minkabu 7012 %}}</td>
-<td>液化水素運搬船「すいそ ふろんてぃあ」を世界初開発{{%cite "hesc" %}}。神戸液化水素受入基地（Hy touch神戸）を運営{{% cite "khi_hytouch" %}}。大型液化水素運搬船の基本設計承認を取得{{% cite "khi_hytouch" %}}。</td>
+<td>水素サプライチェーンの中核的企業。豪州褐炭由来水素の液化水素運搬船「すいそ ふろんてぃあ」を世界初開発し、国際輸送実証を実施。神戸液化水素受入基地（Hy touch神戸）を運営し、日本の液化水素インフラの拠点を構築。次世代大型液化水素運搬船の基本設計承認も取得{{% cite "hesc" %}}{{%cite "khi_hytouch" %}}。</td>
 <td>{{% corplink "https://www.khi.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7012" %}}</td>
 </tr>
 <tr>
 <td>IHI</td>
 <td>{{% minkabu 7013 %}}</td>
-<td>アンモニア専焼バーナー・ガスタービンを開発。JERAと碧南火力の混焼実証を共同実施。</td>
+<td>重工業・エネルギー機器の大手メーカー。アンモニア専焼バーナー・アンモニア対応ガスタービンなど、脱炭素燃料対応の次世代発電機器を開発。JERAとの共同で碧南火力のアンモニア混焼実証を実施し、火力発電の脱炭素化への技術実装を主導。</td>
 <td>{{% corplink "https://www.ihi.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7013" %}}</td>
 </tr>
@@ -291,14 +291,14 @@ graph LR
 <tr>
 <td>ENEOSホールディングス</td>
 <td>{{% minkabu 5020 %}}</td>
-<td>国内最大の石油元売り。中央技術研究所を中心に水素キャリアMCH{{%cite "meti_h2strategy2023" %}}（メチルシクロヘキサン）方式を開発{{%cite "meti_h2strategy2023" %}}。トヨタ「Woven City」に水素を供給。</td>
+<td>国内最大の石油・エネルギー企業。中央技術研究所を中心に水素キャリア（MCH：メチルシクロヘキサン）方式を開発し、液体による水素輸送技術で国際競争力を保有。トヨタ「Woven City」への水素供給でも実績を持つ。脱炭素エネルギーへの転換を推進{{%cite "meti_h2strategy2023" %}}。</td>
 <td>{{% corplink "https://www.hd.eneos.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5020" %}}</td>
 </tr>
 <tr>
 <td>出光興産</td>
 <td>{{% minkabu 5019 %}}</td>
-<td>苫小牧{{%cite "meti_tomakomai_ccs" %}}でのグリーン水素・ブルーアンモニア構想を推進{{% cite "meti_tomakomai_ccs" %}}。徳山事業所{{%cite "meti_ammonia_society" %}}でのカーボンフリーアンモニア供給網に参画{{% cite "meti_ammonia_society" %}}。</td>
+<td>国内主要石油企業。北海道苫小牧でのグリーン水素・ブルーアンモニア供給拠点構想を推進し、CCS実証事業と連携{{%cite "meti_tomakomai_ccs" %}}。山口県徳山事業所でのカーボンフリーアンモニア供給網構想にも参画{{%cite "meti_ammonia_society" %}}。化石燃料から水素・アンモニアへの経営転換を加速。</td>
 <td>{{% corplink "https://www.idemitsu.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5019" %}}</td>
 </tr>
@@ -306,7 +306,7 @@ graph LR
 <tr>
 <td>岩谷産業</td>
 <td>{{% minkabu 8088 %}}</td>
-<td>国内水素ステーション最大手（約50か所）{{% cite "iwatani_h2station" %}}。市原・堺・周南で液化水素を製造。FH2Rにも参画。</td>
+<td>ガス・液化ガス供給の大手企業。国内水素ステーション最大手として約50か所の商用ステーション網を運営し、燃料電池自動車（FCV）の普及に貢献{{%cite "iwatani_h2station" %}}。市原・堺・周南で液化水素を製造。福島のFH2Rにも参画し、グリーン水素製造から供給まで一貫体制を構築。</td>
 <td>{{% corplink "https://www.iwatani.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8088" %}}</td>
 </tr>
@@ -314,21 +314,21 @@ graph LR
 <tr>
 <td>レゾナック・ホールディングス</td>
 <td>{{% minkabu 4004 %}}</td>
-<td>川崎事業所{{%cite "resonac_kawasaki" %}}で使用済みプラスチックを原料に低炭素水素・アンモニアを製造{{%cite "resonac_kawasaki" %}}（2003年〜の長期実績）{{% cite "resonac_kawasaki" %}}。</td>
-<td>{{% corplink "https://www.resonac.com/jp/ir" %}}</td>
+<td>化学・素材の大手企業。川崎臨海事業所で使用済みプラスチック（廃プラ）を原料に低炭素水素・アンモニアを製造（2003年〜の長期実績）{{%cite "resonac_kawasaki" %}}。ケミカルリサイクルで循環経済を実現しながら水素社会への貢献を推進。千鳥町水素ネットワークの中核{{%cite "resonac_kawasaki" %}}。</td>
+<td>{{% corplink "https://www.resonac.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4004" %}}</td>
 </tr>
 <tr>
 <td>旭化成</td>
 <td>{{% minkabu 3407 %}}</td>
-<td>大型アルカリ水電解装置を開発{{%cite "nedo_gi_fund" %}}。グリーンイノベーション基金{{%cite "nedo_gi_fund" %}}で水電解の大規模化テーマに採択{{% cite "nedo_gi_fund" %}}。</td>
+<td>化学・素材の大手企業。大型アルカリ水電解装置を開発し、グリーン水素製造の中核機器メーカーとして位置付けられている{{%cite "nedo_gi_fund" %}}。NEDOのグリーンイノベーション基金で水電解装置の大規模化テーマに採択され、2030年以降の本格展開に向けた研究開発を推進{{%cite "nedo_gi_fund" %}}。</td>
 <td>{{% corplink "https://www.asahi-kasei.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3407" %}}</td>
 </tr>
 <tr>
 <td>東ソー</td>
 <td>{{% minkabu 4042 %}}</td>
-<td>苛性ソーダ製造の副生水素を活用{{%cite "meti_ammonia_society" %}}。周南コンビナート{{%cite "meti_ammonia_society" %}}のカーボンフリーアンモニア構想に参画{{% cite "meti_ammonia_society" %}}。</td>
+<td>化学業界の大手企業。苛性ソーダ（水酸化ナトリウム）製造プロセスから発生する副生水素を活用し、低炭素化学製品供給を推進{{%cite "meti_ammonia_society" %}}。山口県周南コンビナートでのカーボンフリーアンモニア供給網構想に出光、トクヤマとともに参画し、化学業界の脱炭素化を牽引{{%cite "meti_ammonia_society" %}}。</td>
 <td>{{% corplink "https://www.tosoh.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4042" %}}</td>
 </tr>
@@ -336,35 +336,35 @@ graph LR
 <tr>
 <td>日本製鉄</td>
 <td>{{% minkabu 5401 %}}</td>
-<td>高炉水素還元・水素直接還元製鉄の実証を推進。グリーンイノベーション基金で「ハイドロゲンスチール」テーマに採択。</td>
+<td>世界有数の製鉄企業。高炉水素還元製鉄（水素を還元剤として活用）と水素直接還元製鉄（DRI+EAF）の実証を推進。NEDOのグリーンイノベーション基金で「ハイドロゲンスチール」テーマに採択され、2030年代での本格展開に向けた技術開発を推進。脱炭素製鉄の中核企業。</td>
 <td>{{% corplink "https://www.nipponsteel.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5401" %}}</td>
 </tr>
 <tr>
 <td>住友化学</td>
 <td>{{% minkabu 4005 %}}</td>
-<td>グリーンイノベーション基金で水電解・低温アンモニア合成に採択。アンモニア関連技術開発を推進。</td>
+<td>化学業界の大手。NEDOのグリーンイノベーション基金で水電解装置の開発と低温アンモニア合成技術に採択され、脱炭素水素・アンモニア製造技術の確立を推進。アンモニア関連触媒・材料開発でも国内外で競争力を保有。</td>
 <td>{{% corplink "https://www.sumitomo-chem.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4005" %}}</td>
 </tr>
 <tr>
 <td>三菱ケミカル</td>
 <td>{{% minkabu 4188 %}}</td>
-<td>水素・アンモニア関連の機能化学品開発。複数コンビナートでの供給ネットワーク。</td>
+<td>化学業界の大手企業。水素・アンモニア利用に向けた機能化学品・触媒・材料の開発を推進。複数のコンビナートでの供給ネットワークを保有し、エネルギー転換期における化学業界の課題解決を主導。</td>
 <td>{{% corplink "https://www.mitsubishichem-hd.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4188" %}}</td>
 </tr>
 <tr>
 <td>信越化学工業</td>
 <td>{{% minkabu 4063 %}}</td>
-<td>PVC・ソーダ製造の副生水素活用。水電解関連材料の開発・製造。</td>
+<td>化学業界の大手企業。塩化ビニル（PVC）・ソーダ製造の副生水素を活用した低炭素化学品製造を推進。水電解装置の関連部材・材料の開発・製造でも重要な役割を担い、脱炭素水素社会への貢献を実現。</td>
 <td>{{% corplink "https://www.shinetsu.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4063" %}}</td>
 </tr>
 <tr>
 <td>大阪ソーダ</td>
 <td>{{% minkabu 4046 %}}</td>
-<td>塩素・アルカリ化学の副生水素活用。アンモニア関連構想への参画。</td>
+<td>化学業界の企業。塩素・アルカリ化学（苛性ソーダ・塩素）製造プロセスから発生する副生水素を活用し、低炭素化学製品供給を推進。アンモニア関連の構想・事業開発にも参画し、脱炭素化学業界への転換に貢献。</td>
 <td>{{% corplink "https://www.osakasoda.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4046" %}}</td>
 </tr>
@@ -372,21 +372,21 @@ graph LR
 <tr>
 <td>トヨタ自動車</td>
 <td>{{% minkabu 7203 %}}</td>
-<td>MIRAIなど燃料電池車（FCV）の開発・販売。Woven Cityで水素社会実験。商用FCV（水素トラック）も開発中。</td>
+<td>自動車業界の世界最大手。燃料電池車（FCV）「MIRAI」などの開発・販売で水素社会の実現を先導。静岡県の「Woven City」で水素社会の実験都市を実現。商用FCV（水素トラック）の開発も進め、乗用車から商用車まで全領域での水素活用を推進。</td>
 <td>{{% corplink "https://www.toyota.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7203" %}}</td>
 </tr>
 <tr>
 <td>本田技工業</td>
 <td>{{% minkabu 7267 %}}</td>
-<td>クラリティ・フューエル・セルなど燃料電池車の開発。次世代FCV・商用ソリューション開発を推進。</td>
+<td>自動車・バイクの大手メーカー。「クラリティ・フューエル・セル」など燃料電池車（FCV）の開発・販売を推進。次世代FCVの研究開発と商用向けFCソリューション開発に積極投資。トヨタと並ぶFCV技術のリーダー企業として水素社会構築に貢献。</td>
 <td>{{% corplink "https://www.honda.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7267" %}}</td>
 </tr>
 <tr>
 <td>日野自動車</td>
 <td>{{% minkabu 7205 %}}</td>
-<td>水素燃料電池トラック・バスの開発。大型商用車向けの水素社会対応を推進。</td>
+<td>商用車業界の大手メーカー。水素燃料電池トラック・バスの開発・販売を推進し、大型商用車向けの水素社会対応を主導。トラック・バス・専用車など商用車全領域での脱炭素化実現を目指し、物流業界の低炭素化を支援。</td>
 <td>{{% corplink "https://www.hino.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7205" %}}</td>
 </tr>
@@ -394,28 +394,28 @@ graph LR
 <tr>
 <td>三井物産</td>
 <td>{{% minkabu 8031 %}}</td>
-<td>国際水素・アンモニア協力の主要プレイヤー。豪州・中東プロジェクトに参画。</td>
+<td>大手総合商社。国際水素・アンモニアサプライチェーン構築の主要プレイヤー。豪州のブルーアンモニア・水素プロジェクト、中東のブルーアンモニア供給契約交渉など国際協力を主導。脱炭素エネルギーのグローバル取引で市場をリード。</td>
 <td>{{% corplink "https://www.mitsui.com/mgssi/en/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8031" %}}</td>
 </tr>
 <tr>
 <td>三菱商事</td>
 <td>{{% minkabu 8058 %}}</td>
-<td>JERA経由で水素・アンモニア事業に参画。国際プロジェクト推進。</td>
+<td>大手総合商社。JERA経由での水素・アンモニア事業展開と国際プロジェクト推進が中核。長期LNG取引先との関係を活用して水素・アンモニア供給契約を構築。ブルーアンモニア、グリーン水素の国際サプライチェーン構築で商社としてのリーダー地位を確立。</td>
 <td>{{% corplink "https://www.mitsubishicorp.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8058" %}}</td>
 </tr>
 <tr>
 <td>伊藤忠商事</td>
 <td>{{% minkabu 8001 %}}</td>
-<td>国際水素・アンモニアサプライチェーン事業展開。中東・豪州プロジェクト参画。</td>
+<td>大手総合商社。国際水素・アンモニアサプライチェーン事業の展開を推進。中東（UAE・サウジ）のブルーアンモニア長期供給契約交渉、豪州のグリーン水素プロジェクト参画など、脱炭素エネルギーの国際取引で市場開拓を加速。</td>
 <td>{{% corplink "https://www.itochu.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8001" %}}</td>
 </tr>
 <tr>
 <td>電源開発（J-Power）</td>
 <td>{{% minkabu 9513 %}}</td>
-<td>HESC プロジェクトで豪州水素製造・輸送に参画。国内水素供給の中核を担当。</td>
+<td>大手電力企業。HESC（豪州褐炭由来水素）プロジェクトで豪州からの液化水素製造・海上輸送に参画し、国内液化水素受入基地での運用を担当。国内の水素供給インフラ構築の中核企業として、長期エネルギーセキュリティの確保に貢献。</td>
 <td>{{% corplink "https://www.jpower.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9513" %}}</td>
 </tr>

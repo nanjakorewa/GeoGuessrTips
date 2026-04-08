@@ -151,43 +151,43 @@ galleryDir: "japan-paint"
 <tr>
 <td>日本ペイントHD</td>
 <td>{{% minkabu 4612 %}}</td>
-<td>1881年創業の[日本](/rule/asia/japan/)最古の塗料メーカー。東京・大阪二本社制。世界4位の塗料企業。自動車OEM・建築・船舶向け幅広展開{{% cite "nipponpaint_hd" %}}。</td>
-<td>{{% corplink "https://www.nipponpaint-holdings.com/company/outline/" %}}</td>
+<td>1881年創業の[日本](/rule/asia/japan/)最古の塗料メーカー。東京・大阪二本社制で世界4位の塗料企業。自動車OEM・建築・工業・船舶用塗料で業界トップシェアを維持し、グローバル戦略により[オーストラリア](/rule/oceania/australia/)DuluxGroup等を買収して多角化。連結売上約1.4〜1.7兆円規模{{% cite "nipponpaint_hd" %}}。</td>
+<td>{{% corplink "https://www.nipponpaint-holdings.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4612" %}}</td>
 </tr>
 <tr>
 <td>関西ペイント</td>
 <td>{{% minkabu 4613 %}}</td>
-<td>1918年創業。大阪本社。世界8位。自動車OEM・補修塗料に強み。尼崎事業所が国内最大級の製造拠点{{% cite "kansai_paint" %}}。</td>
-<td>{{% corplink "https://www.kansai.co.jp/company/overview/" %}}</td>
+<td>1918年創業の大阪本社・総合塗料メーカー。世界8位で自動車OEM塗料・補修塗料に強み。尼崎事業所が国内最大級の製造拠点。インド・トルコ・南アフリカ・東南アジアでの存在感が業界内で大きく、国内外での建築・自動車・工業用塗料で競争力を持つ{{% cite "kansai_paint" %}}。</td>
+<td>{{% corplink "https://www.kansai.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4613" %}}</td>
 </tr>
 <tr>
 <td>大日本塗料</td>
 <td>{{% minkabu 4611 %}}</td>
-<td>1929年創業。大阪本社。重防食・建材用塗料の最大手。橋梁・タンク・プラント等インフラ向け{{% cite "dnt_company" %}}。</td>
-<td>{{% corplink "https://www.dnt.co.jp/company/about/" %}}</td>
+<td>1929年創業の大阪本社メーカー。重防食・建材用塗料では国内最大手で、橋梁・タンク・プラント・鉄構造物などの社会インフラ向けに高い実績を誇る。栃木県小山市工場が重防食塗料の主力拠点で、業界内での技術的地位が確立している{{% cite "dnt_company" %}}。</td>
+<td>{{% corplink "https://www.dnt.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4611" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 特化型・中堅メーカー</td></tr>
 <tr>
 <td>中国塗料</td>
 <td>{{% minkabu 4617 %}}</td>
-<td>広島県大竹市発祥。船底防汚塗料で世界トップ3。海外売上高比率が高い独立系メーカー{{% cite "chugoku_marine" %}}。</td>
-<td>{{% corplink "https://www.cmp.co.jp/company/" %}}</td>
+<td>広島県大竹市発祥の独立系塗料メーカー。船底防汚塗料（アンチファウリング）で世界トップ3に位置し、海外売上比率が高いのが特徴。CMP・日本ペイントマリンと並んで、[日本](/rule/asia/japan/)は世界の船舶塗料供給の中核を担う{{% cite "chugoku_marine" %}}。</td>
+<td>{{% corplink "https://www.chugoku-paint.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4617" %}}</td>
 </tr>
 <tr>
 <td>エスケー化研</td>
 <td>{{% minkabu 4628 %}}</td>
-<td>大阪府茨木市本社。建築用塗料・外壁仕上げ材で国内シェア高。中堅ながら確実な市場ポジション。</td>
-<td>{{% corplink "https://www.sk-kaken.co.jp/company/" %}}</td>
+<td>大阪府茨木市本社の中堅塗料メーカー。建築用塗料・外壁仕上げ材で国内トップクラスのシェアを有し、特に日本住宅市場での確実な市場ポジション。高耐久性塗料・防藻・防カビ材料で業界内で一定の評価を持つ。</td>
+<td>{{% corplink "https://www.sk-kaken.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4628" %}}</td>
 </tr>
 <tr>
 <td>DIC</td>
 <td>{{% minkabu 5106 %}}</td>
-<td>東京都中央区本社。化学・塗料・顔料の総合企業。高機能塗料・印刷インク等に多角展開。</td>
+<td>東京都中央区本社の化学・塗料・顔料の総合企業。高機能塗料・印刷インク・カラーマテリアルを主力事業とし、自動車OEM・建築・電子部品向けの高付加価値製品で競争力を発揮。グローバル展開により差別化された塗料・顔料で市場地位を確保{{% cite "dic_company" %}}。</td>
 <td>{{% corplink "https://www.dic.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5106" %}}</td>
 </tr>

@@ -248,28 +248,28 @@ graph LR
 <tr>
 <td>太平洋セメント</td>
 <td>{{% minkabu 5233 %}}</td>
-<td>{{%  cite "taiheiyo_company" %}}国内最大手。1998年に秩父小野田と日本セメントが合併して発足。津久見・大船渡など多数の主力工場。</td>
+<td>{{%  cite "taiheiyo_company" %}}国内最大手。1998年に秩父小野田と日本セメントが合併して発足。上磯・大船渡・津久見・熊谷・藤原など全国に主力工場を配置。セメント・生コン・骨材・資源・環境(廃棄物リサイクル)・エネルギー事業を展開する建材・環境総合メーカー。</td>
 <td>{{% corplink "https://www.taiheiyo-cement.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5233" %}}</td>
 </tr>
 <tr>
 <td>住友大阪セメント</td>
 <td>{{% minkabu 5232 %}}</td>
-<td>{{%  cite "soc_company" %}}1994年に住友セメントと大阪セメントが合併。赤穂・栃木佐野などに大規模工場。</td>
+<td>{{%  cite "soc_company" %}}1994年に住友セメントと大阪セメントが合併。赤穂・栃木佐野・高知など全国に製造拠点。セメント・骨材・建設用素材を展開する独立系セメント大手。</td>
 <td>{{% corplink "https://www.soc.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5232" %}}</td>
 </tr>
 <tr>
 <td>UBE</td>
 <td>{{% minkabu 4208 %}}</td>
-<td>{{%  cite "ube_mitsubishi" %}}旧宇部興産。2022年にセメント事業を切り出し、三菱マテリアルセメント事業と統合してUBE三菱セメントを発足。化学・機械を主力に再編。</td>
+<td>{{%  cite "ube_mitsubishi" %}}旧宇部興産。2022年にセメント事業を切り出し、三菱マテリアルセメント事業と統合してUBE三菱セメントを発足。現在は化学・機械・精密材料を主力に再編し、分散グループ化を推進。</td>
 <td>{{% corplink "https://www.ube.co.jp/ube/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4208" %}}</td>
 </tr>
 <tr>
 <td>三菱マテリアル</td>
 <td>{{% minkabu 5711 %}}</td>
-<td>旧セメント事業を2022年にUBEと統合。現在は銅・E-Scrap・電子材料が主力。</td>
+<td>セメント事業を2022年にUBEと統合。現在は銅製錬・E-Scrap処理・電子部品材料・太陽光パネル向け多結晶シリコン製造が主力の非鉄・機能材メーカー。</td>
 <td>{{% corplink "https://www.mmc.co.jp/corporate/ja/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5711" %}}</td>
 </tr>
@@ -277,14 +277,14 @@ graph LR
 <tr>
 <td>デンカ</td>
 <td>{{% minkabu 4061 %}}</td>
-<td>新潟青海でアルミナセメント・特殊セメントを製造。電子材料・医薬も展開する総合化学。</td>
+<td>新潟青海でアルミナセメント・特殊セメント・ホワイトセメントを製造。電子材料・医薬・医療用品も展開する総合化学メーカー。防爆技術・セメント熱源の有効利用を特徴とする。</td>
 <td>{{% corplink "https://www.denka.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4061" %}}</td>
 </tr>
 <tr>
 <td>トクヤマ</td>
 <td>{{% minkabu 4043 %}}</td>
-<td>山口県周南市を本拠地とする総合化学。徳山製造所でセメントを製造する一方、半導体用多結晶シリコンが主力。</td>
+<td>山口県周南市を本拠地とする総合化学。徳山製造所でセメント・アルミナを製造する一方、半導体用多結晶シリコン・電子材料を主力とする化学企業。</td>
 <td>{{% corplink "https://www.tokuyama.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4043" %}}</td>
 </tr>

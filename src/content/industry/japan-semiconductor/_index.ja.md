@@ -201,58 +201,58 @@ graph LR
 <tr>
 <td>ソニーグループ</td>
 <td>{{% minkabu 6758 %}}</td>
-<td>CMOSイメージセンサー世界首位（シェア約50%）{{% cite "sony_ir" %}}。熊本・長崎に主力工場。JASM出資。</td>
+<td>CMOSイメージセンサーで世界首位（シェア約50%）{{% cite "sony_ir" %}}。熊本県菊陽町・合志市・長崎県諫早市・大分県に主力工場を保有し、スマートフォン・車載カメラ向けの高精度積層型センサーを供給。TSMC熊本工場（JASM）へ約6%出資し、ウェーハ調達を確保。半導体トップメーカーとしての地位確立</td>
 <td>{{% corplink "https://www.sony.com/ja/SonyInfo/IR/" %}}</td>
 <td>{{% dividend "tokyo" "6758" %}}</td>
 </tr>
 <tr>
 <td>ルネサスエレクトロニクス</td>
 <td>{{% minkabu 6723 %}}</td>
-<td>車載マイコン・SoC世界首位級。九州に川尻・大分の2拠点。</td>
-<td>{{% corplink "https://www.renesas.com/ja/about/investor-relations" %}}</td>
+<td>車載マイコン・SoC世界首位級の設計製造企業。熊本県熊本市南区川尻工場（40nm/90nm車載マイコン主力）、大分県大分市工場（300mm ADAS向けSoC）の2拠点でロジック製造を展開。TSMC熊本との地理的近接による技術連携が強み</td>
+<td>{{% corplink "https://www.renesas.com/jp/ja/about/investor-relations" %}}</td>
 <td>{{% dividend "tokyo" "6723" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体デバイス（パワー半導体・その他）</td></tr>
 <tr>
 <td>ローム</td>
 <td>{{% minkabu 6963 %}}</td>
-<td>SiCパワー半導体でEV向けインバーター市場を開拓。九州に複数拠点。</td>
-<td>{{% corplink "https://www.rohm.co.jp/investor-relations" %}}</td>
+<td>SiC（シリコンカーバイド）パワー半導体でEV向けインバーター・パワーコンディショナー市場を開拓。京都本社のほか、宮崎・福岡に九州拠点を保有し、パワーデバイス製造の重要生産基地として機能</td>
+<td>{{% corplink "https://www.rohm.co.jp/ir" %}}</td>
 <td>{{% dividend "tokyo" "6963" %}}</td>
 </tr>
 <tr>
 <td>東芝</td>
 <td>{{% minkabu 6502 %}}</td>
-<td>NAND型フラッシュメモリで世界的存在感。パワー半導体・CPU・SSD事業も展開。</td>
-<td>{{% corplink "https://www.global.toshiba/en/" %}}</td>
+<td>NAND型フラッシュメモリ開発の歴史を持つ総合電機企業。パワーMOSFET・SiCデバイス、CPU・SSD事業を展開。石川県加賀市にパワーデバイス製造拠点を保有し、次世代電子機器向けの重要企業</td>
+<td>{{% corplink "https://www.toshiba.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6502" %}}</td>
 </tr>
 <tr>
 <td>富士通</td>
 <td>{{% minkabu 6702 %}}</td>
-<td>LSI・マイクロプロセッサ設計。サーバー・HPC向けプロセッサで知見を活用。</td>
-<td>{{% corplink "https://www.fujitsu.com/jp/" %}}</td>
+<td>LSI・マイクロプロセッサ設計企業。サーバー・HPC向けプロセッサで業界的な知見を活用。Spark64アーキテクチャなど独自技術で大規模ディータセンター向け高性能チップを展開</td>
+<td>{{% corplink "https://global.fujitsu/ja-jp/ir" %}}</td>
 <td>{{% dividend "tokyo" "6702" %}}</td>
 </tr>
 <tr>
 <td>[日本](/rule/asia/japan/)電気</td>
 <td>{{% minkabu 5214 %}}</td>
-<td>LSI・光通信デバイスを展開。サーバー・ネットワーク向けの技術力が強み。</td>
-<td>{{% corplink "https://www.nec.com/ja/" %}}</td>
+<td>LSI・光通信デバイス開発企業。サーバー・ネットワーク機器向けプロセッサで技術的な優位性を保持。通信インフラの高度化に伴う需要増加で成長基盤を整備</td>
+<td>{{% corplink "https://www.nec.com/ja/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5214" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体材料（シリコンウェーハ・フォトレジスト）</td></tr>
 <tr>
 <td>信越化学工業</td>
 <td>{{% minkabu 4063 %}}</td>
-<td>シリコンウェーハ世界首位（シェア約30%）{{% cite "shinetsu_ir" %}}。フォトレジストでも高シェア。</td>
+<td>シリコンウェーハ世界首位（シェア約30%）{{% cite "shinetsu_ir" %}}。300mm・450mmウェーハの大型化・高品質化で TSMC・ソニーなど最先端メーカーへ供給。フォトレジストでも世界的シェアを保有し、半導体製造の基盤素材を支配</td>
 <td>{{% corplink "https://www.shinetsu.co.jp/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4063" %}}</td>
 </tr>
 <tr>
 <td>SUMCO</td>
 <td>{{% minkabu 3436 %}}</td>
-<td>シリコンウェーハ専業で世界2位（シェア約26%）{{% cite "sumco_ir" %}}。佐賀県伊万里に主力工場。</td>
+<td>シリコンウェーハ専業で世界2位（シェア約26%）{{% cite "sumco_ir" %}}。佐賀県伊万里地区を主力生産地とし、2024〜2025年に新工場が相次ぎ稼働。TSMC熊本工場への最短距離でのウェーハ納入体制を構築し、九州半導体クラスター発展の重要な部品供給企業</td>
 <td>{{% corplink "https://www.sumcosi.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3436" %}}</td>
 </tr>
@@ -260,14 +260,14 @@ graph LR
 <tr>
 <td>東京エレクトロン</td>
 <td>{{% minkabu 8035 %}}</td>
-<td>半導体製造装置世界第3位。塗布現像装置で世界シェア1位。九州に開発・生産子会社。</td>
+<td>半導体製造装置世界第3位。塗布現像装置で世界シェア1位。熊本県合志市に開発・生産子会社「東京エレクトロン九州」を置き、JASM熊本工場向けに最先端装置を納入。九州半導体クラスターの装置産業を代表する存在</td>
 <td>{{% corplink "https://www.tel.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8035" %}}</td>
 </tr>
 <tr>
 <td>SCREENホールディングス</td>
 <td>{{% minkabu 7735 %}}</td>
-<td>ウェーハ洗浄装置で世界シェア1位。コーター・デベロッパーも手がける。</td>
+<td>ウェーハ洗浄装置で世界シェア1位の製造装置企業。コーター・デベロッパー装置も手がけ、半導体前工程装置の「裏方」として不可欠な地位を保有。EUV露光対応装置への需要増加で成長基盤を強化</td>
 <td>{{% corplink "https://www.screen.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7735" %}}</td>
 </tr>
@@ -275,58 +275,58 @@ graph LR
 <tr>
 <td>平田機工</td>
 <td>{{% minkabu 6258 %}}</td>
-<td>搬送装置・自動化設備で半導体工場向けソリューションを提供。</td>
-<td>{{% corplink "https://www.hirata.jp/" %}}</td>
+<td>生産ライン全体の設計・製造を行う機械製造企業。半導体・自動車・パネル産業向けの搬送装置・自動化設備で高度なシステムソリューションを提供。熊本本社の立地から九州半導体クラスター発展への地の利も大きい</td>
+<td>{{% corplink "https://www.hirata.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6258" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 検査・計測・後工程装置</td></tr>
 <tr>
 <td>アドバンテスト</td>
 <td>{{% minkabu 6857 %}}</td>
-<td>半導体テスト装置で世界首位級。AI半導体向けテスターの需要増で成長。</td>
-<td>{{% corplink "https://www.advantest.com/ja/investors/" %}}</td>
+<td>半導体テスト装置で世界首位級の企業。生成AI・HBM向けメモリテスター、ロジック向けテスト機の需要急増で急成長。テスト工程の重要性が高まる中、競争力の強化が加速</td>
+<td>{{% corplink "https://www.advantest.com/ja/investors" %}}</td>
 <td>{{% dividend "tokyo" "6857" %}}</td>
 </tr>
 <tr>
 <td>ディスコ</td>
 <td>{{% minkabu 6146 %}}</td>
-<td>ダイシング・グラインディング装置で世界シェア約80%{{% cite "disco_ir" %}}。精密加工装置の独占的企業。</td>
-<td>{{% corplink "https://www.disco.co.jp/ir/" %}}</td>
+<td>ダイシング・グラインディング装置で世界シェア約80%{{% cite "disco_ir" %}}。半導体後工程の精密加工分野で圧倒的な独占的地位を確保。微細化・3D IC化に対応する高精度装置開発で技術的優位を維持</td>
+<td>{{% corplink "https://www.disco.co.jp/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6146" %}}</td>
 </tr>
 <tr>
-<td>Lasertec</td>
+<td>レーザーテック</td>
 <td>{{% minkabu 6920 %}}</td>
-<td>半導体検査・計測装置で世界トップシェア。EUV露光の検査装置も提供。</td>
-<td>{{% corplink "https://www.lasertec.co.jp/" %}}</td>
+<td>半導体ウェーハ検査・計測装置で世界トップシェアの企業。微細化・EUV露光対応の検査装置で革新的技術を展開。次世代チップの不良検出において競争力を確保し、歩留まり向上に貢献</td>
+<td>{{% corplink "https://www.lasertec.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6920" %}}</td>
 </tr>
 <tr>
 <td>日本マイクロニクス</td>
 <td>{{% minkabu 6871 %}}</td>
-<td>プローブカード（テスト治具）で半導体テスト装置向けに供給。</td>
-<td>{{% corplink "https://www.nihon-micronics.co.jp/" %}}</td>
+<td>プローブカード（半導体テスト用高精密治具）の世界3位メーカー。メモリ向けプローブカードで約33%のシェアを確保。テスト装置メーカーと連携し、半導体品質保証の重要な位置づけを確保</td>
+<td>{{% corplink "https://www.mjc.co.jp/en/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6871" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体材料（フォトレジスト・その他）</td></tr>
 <tr>
 <td>JSR</td>
 <td>{{% minkabu 4185 %}}</td>
-<td>フォトレジストで世界的シェア。露光技術の進化に伴う高度な製品開発で競争力を維持。</td>
-<td>{{% corplink "https://www.jsr.co.jp/" %}}</td>
+<td>フォトレジスト・電子材料で世界的シェアを保有する化学企業。EUV露光対応の次世代レジスト開発で業界をリード。電子材料事業による付加価値の高い製品展開で競争力を強化</td>
+<td>{{% corplink "https://www.jsr.co.jp/jsr_e/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4185" %}}</td>
 </tr>
 <tr>
 <td>東京応化工業</td>
 <td>{{% minkabu 4186 %}}</td>
-<td>フォトレジスト・ケミカルス供給。EUV用材料の開発で注力。</td>
-<td>{{% corplink "https://www.tokyo-ohka.co.jp/" %}}</td>
+<td>フォトレジスト・半導体用ケミカルス供給の重要企業。EUV露光用高精度レジスト開発に注力し、次世代チップ製造での技術的なポジション強化。川崎本社から全球顧客へ最先端材料を供給</td>
+<td>{{% corplink "https://www.tok.co.jp/eng" %}}</td>
 <td>{{% dividend "tokyo" "4186" %}}</td>
 </tr><tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ パッケージング・部品</td></tr>
 <tr>
 <td>三井ハイテック</td>
 <td>{{% minkabu 6966 %}}</td>
-<td>リードフレーム世界大手。EV向けモーターコアが急成長。北九州に本社。</td>
+<td>リードフレーム（半導体パッケージング用金属部品）で世界大手。EV向けモーターコア製造が急成長。北九州本社の立地から九州半導体・電子機器産業の重要なパッケージング・部品サプライヤーとしての役割を担当</td>
 <td>{{% corplink "https://www.mitsui-high-tec.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6966" %}}</td>
 </tr>
@@ -334,22 +334,22 @@ graph LR
 <tr>
 <td>村田製作所</td>
 <td>{{% minkabu 8564 %}}</td>
-<td>積層セラミックコンデンサで世界首位。センサー・無線モジュールも展開。半導体の需要変動に連動。</td>
-<td>{{% corplink "https://www.murata.com/" %}}</td>
+<td>積層セラミックコンデンサで世界首位（シェア40%以上）のメーカー。センサー・無線モジュール・高周波デバイスで多様なエレクトロニクス企業に供給。AI・5G・EV向けの電子部品需要で成長基盤を強化</td>
+<td>{{% corplink "https://corporate.murata.com/ja-jp/ir" %}}</td>
 <td>{{% dividend "tokyo" "8564" %}}</td>
 </tr>
 <tr>
 <td>TDK</td>
 <td>{{% minkabu 6556 %}}</td>
-<td>フェライト・センサー・電源モジュールで世界的競争力。スマートフォン・自動車向け部品が主要。</td>
-<td>{{% corplink "https://www.tdk.com/ja/" %}}</td>
+<td>フェライト・センサー・電源モジュールで世界的な競争力を保有。スマートフォン・自動車・IoT向けの電子部品で多岐の顧客層に供給。HDD減衰に伴うタービンモーター向けから、EV・自動運転向け高機能部品への展開を強化</td>
+<td>{{% corplink "https://www.tdk.com/ja/ir/index.html" %}}</td>
 <td>{{% dividend "tokyo" "6556" %}}</td>
 </tr>
 <tr>
-<td>[日本](/rule/asia/japan/)電産</td>
+<td>ニデック</td>
 <td>{{% minkabu 6594 %}}</td>
-<td>小型モーター・精密機械で世界的企業。HDD・冷却ファン・EV向けモーターに強み。</td>
-<td>{{% corplink "https://www.nidec.com/ja/" %}}</td>
+<td>小型モーター・精密機械で世界的企業。HDD冷却ファン・カメラモーターからEV駆動モーター向け高機能製品へ事業をシフト。超小型・高効率・高品質の製品開発で業界をリード</td>
+<td>{{% corplink "https://www.nidec.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6594" %}}</td>
 </tr>
 </tbody>

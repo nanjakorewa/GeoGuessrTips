@@ -92,11 +92,11 @@ galleryDir: "japan-bearing"
 <th class="col-width-1">配当履歴</th>
 </tr></thead>
 <tbody class="corp-desc">
-<tr><td>ミネベアミツミ</td><td>6479</td><td>総合</td><td>{{% corplink "https://www.google.com/search?q=ミネベアミツミ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6479" %}}</td></tr>
-<tr><td>NSK</td><td>6471</td><td>ベアリング</td><td>{{% corplink "https://www.google.com/search?q=NSK+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6471" %}}</td></tr>
-<tr><td>ジェイテクト</td><td>6473</td><td>ステアリング・ベアリング</td><td>{{% corplink "https://www.google.com/search?q=ジェイテクト+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6473" %}}</td></tr>
-<tr><td>NTN</td><td>6472</td><td>ベアリング</td><td>{{% corplink "https://www.google.com/search?q=NTN+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6472" %}}</td></tr>
-<tr><td>不二越</td><td>6474</td><td>ベアリング・工具</td><td>{{% corplink "https://www.google.com/search?q=不二越+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6474" %}}</td></tr>
+<tr><td>ミネベアミツミ</td><td>6479</td><td>小径ボールベアリング・小型モータ・電子部品の世界大手メーカー。HDD・OA機器・ロボット向けに圧倒的シェアを保有。軽井沢を中心にグローバル展開。</td><td>{{% corplink "https://www.minebeamitsumi.com/corp/ir/" %}}</td><td>{{% dividend "tokyo" "6479" %}}</td></tr>
+<tr><td>NSK</td><td>6471</td><td>国内最古級のベアリングメーカー。自動車向け輪軸受で世界トップ級の地位を占める。ディープグルーブボールベアリングからEPSまで一貫製造。</td><td>{{% corplink "https://www.nsk.com/jp/ir/" %}}</td><td>{{% dividend "tokyo" "6471" %}}</td></tr>
+<tr><td>ジェイテクト</td><td>6473</td><td>光洋精工と豊田工機の合併で発足。トヨタグループに属し、電動パワーステアリング（EPS）で世界シェア1位。テーパローラ・ハブベアリングも主力。</td><td>{{% corplink "https://www.jtekt.co.jp/ir/" %}}</td><td>{{% dividend "tokyo" "6473" %}}</td></tr>
+<tr><td>NTN</td><td>6472</td><td>ドライブシャフト用CVJ（等速ジョイント）でGKNと並ぶ世界大手。自動車用ハブベアリングは世界最大級シェアを有する総合ベアリングメーカー。</td><td>{{% corplink "https://www.ntnglobal.com/ja/ir/" %}}</td><td>{{% dividend "tokyo" "6472" %}}</td></tr>
+<tr><td>不二越</td><td>6474</td><td>工作機械主軸用・産業機械向けベアリングが主力。工具・ロボット事業も展開する総合機械メーカー。富山を中心に多角化を推進。</td><td>{{% corplink "https://www.nachi-fujikoshi.co.jp/ir/" %}}</td><td>{{% dividend "tokyo" "6474" %}}</td></tr>
 </tbody></table>
 </div>
 
