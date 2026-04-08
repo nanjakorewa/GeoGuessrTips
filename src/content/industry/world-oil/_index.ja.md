@@ -6,6 +6,7 @@ lastmod: 2026-04-07
 description: "世界の石油産業を上流（探鉱・生産）・中流（パイプライン・LNG・トレーディング）・下流（精製・石化・小売）の3層で解説。サウジアラムコ・ExxonMobil・Shellなど国際石油メジャー、NOC、Vitol/Trafiguraなどトレーダー、Brent/WTI/Dubaiの油価指標までを整理。"
 weight: 27
 mapName: "world"
+galleryDir: "world-oil"
 ---
 
 ## 世界の石油産業の概観
@@ -13,8 +14,8 @@ mapName: "world"
 世界の石油産業は伝統的に<span style="font-weight:700">「上流（Upstream）」「中流（Midstream）」「下流（Downstream）」</span>の3層で語られます。垂直統合された巨大企業を「<span style="font-weight:700">インテグレーテッド・メジャー</span>」と呼び、ExxonMobil・Chevron・Shell・BP・TotalEnergies・Eniなどがこれに該当します。一方、産油国の国営石油会社（NOC: National Oil Company）はサウジアラムコ・ペトロブラス・ペメックス・PetroChinaなど、独立系（Independent）はEOG ResourcesやContinental Resourcesなどです。
 
 <div class="stat-grid">
-<div class="stat-card"><div class="stat-num">~1.05億b/d</div><div class="stat-label">2024年 世界石油需要（IEA）{{% cite "iea_oil2024" %}}、{{% cite "iea_oil2023" %}}</div></div>
-<div class="stat-card"><div class="stat-num">~1.56兆$</div><div class="stat-label">サウジアラムコ時価総額（世界1位）{{% cite "companiesmarketcap_oil" %}}}</div></div>
+<div class="stat-card"><div class="stat-num">~1.037億b/d</div><div class="stat-label">2024年 世界石油需要（IEA）{{% cite "iea_oil2024" %}}、{{% cite "iea_oil2023" %}}</div></div>
+<div class="stat-card"><div class="stat-num">~1.66兆$</div><div class="stat-label">サウジアラムコ時価総額（世界1位）{{% cite "companiesmarketcap_oil" %}}}</div></div>
 <div class="stat-card"><div class="stat-num">~1億b/d</div><div class="stat-label">世界製油所処理能力{{% cite "eia_globalrefining" %}}、{{% cite "opec_asb" %}}</div></div>
 <div class="stat-card"><div class="stat-num">3</div><div class="stat-label">主要油価指標（Brent/WTI/Dubai）</div></div>
 </div>
@@ -40,19 +41,19 @@ mapName: "world"
 
 | 順位 | 企業 | 区分 | 本拠地 | 時価総額 | 上流生産（万b/d）| 製油能力（万b/d）|
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Saudi Aramco | NOC・統合 | <img src="/flags/SA.svg" alt="SA" class="inline-flag" width="20" height="14" loading="lazy" /> サウジアラビア | ~$1.56T | ~1,200 | ~620 |
-| 2 | ExxonMobil | IOC・統合 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$500B超 | ~440 | ~440 |
-| 3 | Chevron | IOC・統合 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$250B | ~330 | ~180 |
-| 4 | Shell | IOC・統合 | <img src="/flags/GB.svg" alt="GB" class="inline-flag" width="20" height="14" loading="lazy" /> 英国 | ~$210B | ~280 | ~140 |
-| 5 | TotalEnergies | IOC・統合 | <img src="/flags/FR.svg" alt="FR" class="inline-flag" width="20" height="14" loading="lazy" /> 仏 | ~$135B | ~250 | ~190 |
-| 6 | PetroChina（中国石油）| NOC・統合 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | ~$220B | ~440 | ~530 |
-| 7 | Sinopec（中国石化）| NOC・下流主体 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | ~$95B | ~80 | ~600 |
-| 8 | BP | IOC・統合 | <img src="/flags/GB.svg" alt="GB" class="inline-flag" width="20" height="14" loading="lazy" /> 英国 | ~$110B | ~230 | ~170 |
-| 9 | Petrobras | NOC・上流主体 | <img src="/flags/BR.svg" alt="BR" class="inline-flag" width="20" height="14" loading="lazy" /> ブラジル | ~$95B | ~270 | ~180 |
-| 10 | Eni | IOC・統合 | <img src="/flags/IT.svg" alt="IT" class="inline-flag" width="20" height="14" loading="lazy" /> 伊 | ~$55B | ~170 | ~50 |
-| 11 | Equinor | NOC・統合 | <img src="/flags/NO.svg" alt="NO" class="inline-flag" width="20" height="14" loading="lazy" /> ノルウェー | ~$80B | ~200 | ~30 |
-| 12 | ConocoPhillips | 独立系E&P | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$130B | ~190 | — |
-| 13 | EOG Resources | 独立系E&P | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$70B | ~100 | — |
+| 1 | Saudi Aramco | NOC・統合 | <img src="/flags/SA.svg" alt="SA" class="inline-flag" width="20" height="14" loading="lazy" /> サウジアラビア | ~$1.66T | ~1,030 | ~620 |
+| 2 | ExxonMobil | IOC・統合 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$500B超 | ~320 | ~440 |
+| 3 | Chevron | IOC・統合 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$250B | ~198 | ~180 |
+| 4 | Shell | IOC・統合 | <img src="/flags/GB.svg" alt="GB" class="inline-flag" width="20" height="14" loading="lazy" /> 英国 | ~$210B | ~118 | ~140 |
+| 5 | TotalEnergies | IOC・統合 | <img src="/flags/FR.svg" alt="FR" class="inline-flag" width="20" height="14" loading="lazy" /> 仏 | ~$135B | ~140 | ~190 |
+| 6 | PetroChina（中国石油）| NOC・統合 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | ~$220B | ~258 | ~530 |
+| 7 | Sinopec（中国石化）| NOC・下流主体 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | ~$95B | ~70 | ~600 |
+| 8 | BP | IOC・統合 | <img src="/flags/GB.svg" alt="GB" class="inline-flag" width="20" height="14" loading="lazy" /> 英国 | ~$110B | ~107 | ~170 |
+| 9 | Petrobras | NOC・上流主体 | <img src="/flags/BR.svg" alt="BR" class="inline-flag" width="20" height="14" loading="lazy" /> ブラジル | ~$95B | ~220 | ~180 |
+| 10 | Eni | IOC・統合 | <img src="/flags/IT.svg" alt="IT" class="inline-flag" width="20" height="14" loading="lazy" /> 伊 | ~$55B | ~107 | ~50 |
+| 11 | Equinor | NOC・統合 | <img src="/flags/NO.svg" alt="NO" class="inline-flag" width="20" height="14" loading="lazy" /> ノルウェー | ~$80B | ~139 | ~30 |
+| 12 | ConocoPhillips | 独立系E&P | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$130B | ~120 | — |
+| 13 | EOG Resources | 独立系E&P | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$70B | ~106 | — |
 | 14 | Marathon Petroleum | 下流専業 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$60B | — | ~300 |
 | 15 | Valero Energy | 下流専業 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~$50B | — | ~320 |
 
@@ -91,11 +92,11 @@ mapName: "world"
 
 ## 下流（Downstream）— 製油所と石油化学
 
-世界の製油所処理能力は<span style="font-weight:700">約1.03～1.04億b/d</span>{{% cite "eia_globalrefining" %}}{{% cite "opec_asb" %}}で、米国・中国・インド・ロシア・サウジが上位5か国です。<span style="font-weight:700">Reliance Industries</span>のJamnagar製油所（インド）は単一サイトで<span style="font-weight:700">~124万b/d</span>{{% cite "jamnagar_wiki" %}}と世界最大級です。
+世界の製油所処理能力は<span style="font-weight:700">約1.03～1.04億b/d</span>{{% cite "eia_globalrefining" %}}{{% cite "opec_asb" %}}で、米国・中国・インド・ロシア・サウジが上位5か国です。<span style="font-weight:700">Reliance Industries</span>のJamnagar製油所（インド）は単一サイトで<span style="font-weight:700">~140万b/d</span>{{% cite "jamnagar_wiki" %}}と世界最大級です。
 
 | 製油所/拠点 | 国 | 運営 | 能力 |
 | --- | --- | --- | --- |
-| Jamnagar Refinery | <img src="/flags/IN.svg" alt="IN" class="inline-flag" width="20" height="14" loading="lazy" /> インド | Reliance Industries | ~124万b/d（世界最大級）{{% cite "jamnagar_wiki" %}} |
+| Jamnagar Refinery | <img src="/flags/IN.svg" alt="IN" class="inline-flag" width="20" height="14" loading="lazy" /> インド | Reliance Industries | ~140万b/d（世界最大級）{{% cite "jamnagar_wiki" %}} |
 | Paraguaná Refining Center | <img src="/flags/VE.svg" alt="VE" class="inline-flag" width="20" height="14" loading="lazy" /> ベネズエラ | PDVSA | ~95万b/d（事実上一部停止） |
 | Ulsan Refinery | <img src="/flags/KR.svg" alt="KR" class="inline-flag" width="20" height="14" loading="lazy" /> 韓国 | SK Energy | ~84万b/d |
 | Yeosu Refinery | <img src="/flags/KR.svg" alt="KR" class="inline-flag" width="20" height="14" loading="lazy" /> 韓国 | GS Caltex | ~80万b/d |
@@ -128,7 +129,7 @@ mapName: "world"
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#1f2937"></span>NOC（国営石油）</span>
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#6b7280"></span>独立系・精製</span>
 </div>
-<div class="corp-treemap" data-companies='[{"t":"2222.SR","n":"Saudi Aramco","s":"NOC","v":234.0,"c":"#1f2937"},{"t":"XOM","n":"ExxonMobil","s":"IOC","v":75.0,"c":"#d97706"},{"t":"CVX","n":"Chevron","s":"IOC","v":37.5,"c":"#d97706"},{"t":"601857","n":"PetroChina","s":"NOC","v":33.0,"c":"#1f2937"},{"t":"SHEL","n":"Shell","s":"IOC","v":31.5,"c":"#d97706"},{"t":"TTE","n":"TotalEnergies","s":"IOC","v":20.3,"c":"#d97706"},{"t":"COP","n":"ConocoPhillips","s":"独立系","v":19.5,"c":"#6b7280"},{"t":"BP","n":"BP","s":"IOC","v":16.5,"c":"#d97706"},{"t":"PBR","n":"Petrobras","s":"NOC","v":14.3,"c":"#1f2937"},{"t":"600028","n":"Sinopec","s":"NOC","v":14.3,"c":"#1f2937"},{"t":"EQNR","n":"Equinor","s":"NOC","v":12.0,"c":"#1f2937"},{"t":"EOG","n":"EOG Resources","s":"独立系","v":10.5,"c":"#6b7280"},{"t":"MPC","n":"Marathon Petroleum","s":"独立系","v":9.0,"c":"#6b7280"},{"t":"E","n":"Eni","s":"IOC","v":8.3,"c":"#d97706"},{"t":"VLO","n":"Valero","s":"独立系","v":7.5,"c":"#6b7280"}]'></div>
+<div class="corp-treemap" data-companies='[{"t":"2222.SR","n":"Saudi Aramco","s":"NOC","v":234.0,"c":"#1f2937"},{"t":"XOM","n":"ExxonMobil","s":"IOC","v":75.0,"c":"#d97706"},{"t":"CVX","n":"Chevron","s":"IOC","v":37.5,"c":"#d97706"},{"t":"601857","n":"PetroChina","s":"NOC","v":33.0,"c":"#1f2937"},{"t":"SHEL","n":"Shell","s":"IOC","v":31.5,"c":"#d97706"},{"t":"TTE","n":"TotalEnergies","s":"IOC","v":20.3,"c":"#d97706"},{"t":"COP","n":"ConocoPhillips","s":"独立系","v":19.5,"c":"#6b7280"},{"t":"BP","n":"BP","s":"IOC","v":16.5,"c":"#d97706"},{"t":"PBR","n":"Petrobras","s":"NOC","v":14.3,"c":"#1f2937"},{"t":"600028","n":"Sinopec","s":"NOC","v":14.3,"c":"#1f2937"},{"t":"EQNR","n":"Equinor","s":"NOC","v":12.0,"c":"#1f2937"},{"t":"EOG","n":"EOG Resources","s":"独立系","v":10.5,"c":"#6b7280"},{"t":"MPC","n":"Marathon Petroleum","s":"精製","v":9.0,"c":"#6b7280"},{"t":"E","n":"Eni","s":"IOC","v":8.3,"c":"#d97706"},{"t":"VLO","n":"Valero","s":"精製","v":7.5,"c":"#6b7280"},{"t":"DVN","n":"Devon Energy","s":"独立系","v":7.5,"c":"#6b7280"},{"t":"MRO","n":"Marathon Oil","s":"独立系","v":2.25,"c":"#6b7280"},{"t":"PSX","n":"Phillips 66","s":"精製","v":5.25,"c":"#6b7280"},{"t":"DINO","n":"HF Sinclair","s":"精製","v":2.1,"c":"#6b7280"},{"t":"HES","n":"Hess","s":"独立系","v":4.5,"c":"#6b7280"},{"t":"CTRA","n":"Coterra","s":"独立系","v":1.35,"c":"#6b7280"},{"t":"FANG","n":"Diamondback","s":"独立系","v":2.1,"c":"#6b7280"},{"t":"OVV","n":"Ovintiv","s":"独立系","v":1.8,"c":"#6b7280"},{"t":"WMB","n":"Williams","s":"中流","v":3.75,"c":"#9ca3af"},{"t":"KMI","n":"Kinder Morgan","s":"中流","v":2.55,"c":"#9ca3af"},{"t":"EPD","n":"Enterprise Products","s":"中流","v":2.25,"c":"#9ca3af"},{"t":"LNG","n":"Cheniere","s":"LNG","v":1.95,"c":"#9ca3af"}]'></div>
 <p class="treemap-note">※ 面積は時価総額（概算・1ドル=150円換算）に比例。Vitol・Trafiguraなどの非上場トレーダーは除外。</p>
 </div>
 
@@ -141,7 +142,7 @@ iea_oil2023: IEA「World Energy Outlook 2024 — Oil」<https://www.iea.org/repo
 opec_asb: OPEC「Annual Statistical Bulletin 2024」<https://www.opec.org/opec_web/en/publications/202.htm>
 eia_intl: U.S. EIA「International Energy Statistics」<https://www.eia.gov/international/data/world>
 eia_globalrefining: U.S. EIA「Outlook on Global Refining to 2028」<https://www.eia.gov/analysis/pdfpages/globalrefiningoutlook.php>
-jamnagar_wiki: Wikipedia「Jamnagar refinery」<https://en.wikipedia.org/wiki/Jamnagar_refinery>
+jamnagar_wiki: Reliance Industries「Oil to Chemical Segment」<https://www.ril.com/businesses/energy/refining-marketing>
 vitol_2024: Vitol「2024 volumes and review」<https://www.vitol.com/vitol-2024-volumes-and-review/>
 trafigura_2024: Trafigura「2024 Annual Results」<https://www.trafigura.com/news-and-insights/press-releases/2024/trafigura-publishes-2024-annual-results/>
 jogmec_oil: JOGMEC「石油・天然ガス資源情報」<https://oilgas-info.jogmec.go.jp/>

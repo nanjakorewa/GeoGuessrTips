@@ -6,6 +6,7 @@ lastmod: 2026-04-07
 description: "日本のセメント工業を解説。太平洋セメント・UBE三菱セメント・住友大阪セメントの3大グループと、秩父・津久見・宇部・苅田・苫小牧などの主要産地、宇部興産専用道路、石灰石100%自給を一次資料に基づき整理。"
 weight: 37
 mapName: "japan"
+galleryDir: "japan-cement"
 ---
 
 <script>
@@ -229,7 +230,7 @@ graph LR
 
 国内3大グループと関連企業の時価総額を可視化しています。
 
-{{% corp-treemap "5233,5232,4208,5711,4061,4043" %}}
+{{% corp-treemap "5233,5232,4208,5711,4061,4043,3945" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -287,6 +288,13 @@ graph LR
 <td>{{% corplink "https://www.tokuyama.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4043" %}}</td>
 </tr>
+<tr>
+<td>麻生セメント</td>
+<td>{{% minkabu 3945 %}}</td>
+<td>福岡県大牟田を本拠地とする総合化学・セメント。苅田工場でセメント製造。石炭・化学製品も手がける。</td>
+<td>{{% corplink "https://www.aso.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3945" %}}</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -300,7 +308,7 @@ soc_company: 住友大阪セメント株式会社「会社情報」<https://www.
 taiheiyo_company: 太平洋セメント株式会社「会社情報」<https://www.taiheiyo-cement.co.jp/company/>
 ube_mitsubishi: UBE三菱セメント株式会社「会社概要」<https://www.mu-cc.com/company/>
 nikkei_cement_2024: 日本経済新聞「セメント国内販売6年連続減 24年､工事見直し相次ぎ不振」<https://www.nikkei.com/article/DGXZQOUB240OZ0U5A120C2000000/>
-wikipedia_ube_road: Wikipedia「宇部伊佐専用道路」<https://ja.wikipedia.org/wiki/%E5%AE%87%E9%83%A8%E4%BC%8A%E4%BD%90%E5%B0%82%E7%94%A8%E9%81%93%E8%B7%AF>
 tsukumi_limestone: 大分太平洋鉱業株式会社「津久見の石灰鉱山」<https://oita-taiheiyo.sakura.ne.jp/>
-wikipedia_bukousan: Wikipedia「武甲山」<https://ja.wikipedia.org/wiki/%E6%AD%A6%E7%94%B2%E5%B1%B1>
+ube_road_jcassoc: 一般社団法人セメント協会「セメント・コンクリート No. 830, Apr. 2016」<https://www.jcassoc.or.jp/cement/4pdf/jg3_25.pdf>
+bukousan_taiheiyo: 秩父太平洋セメント株式会社「事業案内」<https://www.ct-cement.co.jp/business/>
 {{% /references %}}

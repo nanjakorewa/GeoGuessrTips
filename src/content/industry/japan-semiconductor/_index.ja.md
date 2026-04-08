@@ -6,6 +6,7 @@ lastmod: 2026-03-25
 description: "日本の半導体産業集積地を解説。九州・東北・三重・北海道・関東の主要クラスターとTSMC・キオクシア・ラピダスなど最新動向をデータとともに整理。"
 weight: 10
 mapName: "japan"
+galleryDir: "japan-semiconductor"
 ---
 
 <script>
@@ -99,6 +100,11 @@ mapName: "japan"
 })();
 </script>
 
+<figure>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Silicon_Photonics_300mm_wafer.JPG?width=720" alt="300mmシリコンウェーハ" loading="lazy" />
+  <figcaption>300mmシリコンウェーハの一例。日本は信越化学とSUMCOで世界シェアの過半を占める。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Silicon_Photonics_300mm_wafer.JPG" target="_blank" rel="noopener noreferrer">Silicon Photonics 300mm wafer / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
+
 ## 日本の半導体産業集積地とは
 
 半導体製造では設計・材料・前工程・後工程の各段階が高度に専門化しており、企業が地理的に集積することでサプライチェーンの効率化が図られています。日本は<span style="font-weight:700">材料・製造装置</span>で世界的な競争力を持ちながら、2000年代以降はファブ（前工程製造）の国際競争力が低下してきました。日本の半導体産業は現在、材料（シリコンウェーハ・フォトレジスト・ガス）では世界シェア30〜50%を占め、製造装置では世界第2〜3位の地位を保有しています{{% cite "joga_material_survey" %}}{{% cite "meti_semi_ref" %}}。2021年以降の経済安全保障政策を契機に、TSMCの熊本誘致・ラピダス設立など国内製造能力の再建が進んでいます{{% cite "meti2023" %}}。
@@ -127,6 +133,11 @@ mapName: "japan"
     <p class="stat-card__unit">年量産目標（2025年試作ライン稼働・EUV調整中）{{% cite "meti_rapidus" %}}</p>
   </div>
 </div>
+
+<figure>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/JASM_Kumamoto.JPG?width=720" alt="JASM (TSMC熊本第1工場) 外観" loading="lazy" />
+  <figcaption>熊本県菊陽町のJASM (Japan Advanced Semiconductor Manufacturing)。TSMC・ソニー・デンソー・トヨタ出資の合弁で、2024年12月に量産を開始した九州半導体クラスターの中核拠点。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:JASM_Kumamoto.JPG" target="_blank" rel="noopener noreferrer">JASM Kumamoto / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
 
 ## 主要集積地一覧
 
@@ -172,7 +183,7 @@ graph LR
 
 半導体製造・装置・材料に関わる主要上場企業の時価総額を可視化しています。
 
-{{% corp-treemap "6758,6723,8035,4063,3436,6857,6963,6966,6258,6146,7735,6871,4185,4186" %}}
+{{% corp-treemap "6758,6723,8035,4063,3436,6857,6963,6966,6258,6146,7735,6871,4185,4186,6920,6594,6556,8564,6502,6702,5214" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -201,13 +212,34 @@ graph LR
 <td>{{% corplink "https://www.renesas.com/ja/about/investor-relations" %}}</td>
 <td>{{% dividend "tokyo" "6723" %}}</td>
 </tr>
-<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体デバイス（パワー半導体）</td></tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体デバイス（パワー半導体・その他）</td></tr>
 <tr>
 <td>ローム</td>
 <td>{{% minkabu 6963 %}}</td>
 <td>SiCパワー半導体でEV向けインバーター市場を開拓。九州に複数拠点。</td>
 <td>{{% corplink "https://www.rohm.co.jp/investor-relations" %}}</td>
 <td>{{% dividend "tokyo" "6963" %}}</td>
+</tr>
+<tr>
+<td>東芝</td>
+<td>{{% minkabu 6502 %}}</td>
+<td>NAND型フラッシュメモリで世界的存在感。パワー半導体・CPU・SSD事業も展開。</td>
+<td>{{% corplink "https://www.global.toshiba/en/" %}}</td>
+<td>{{% dividend "tokyo" "6502" %}}</td>
+</tr>
+<tr>
+<td>富士通</td>
+<td>{{% minkabu 6702 %}}</td>
+<td>LSI・マイクロプロセッサ設計。サーバー・HPC向けプロセッサで知見を活用。</td>
+<td>{{% corplink "https://www.fujitsu.com/jp/" %}}</td>
+<td>{{% dividend "tokyo" "6702" %}}</td>
+</tr>
+<tr>
+<td>日本電気</td>
+<td>{{% minkabu 5214 %}}</td>
+<td>LSI・光通信デバイスを展開。サーバー・ネットワーク向けの技術力が強み。</td>
+<td>{{% corplink "https://www.nec.com/ja/" %}}</td>
+<td>{{% dividend "tokyo" "5214" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体材料（シリコンウェーハ・フォトレジスト）</td></tr>
 <tr>
@@ -239,6 +271,14 @@ graph LR
 <td>{{% corplink "https://www.screen.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7735" %}}</td>
 </tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体製造装置（搬送・その他）</td></tr>
+<tr>
+<td>平田機工</td>
+<td>{{% minkabu 6258 %}}</td>
+<td>搬送装置・自動化設備で半導体工場向けソリューションを提供。</td>
+<td>{{% corplink "https://www.hirata.jp/" %}}</td>
+<td>{{% dividend "tokyo" "6258" %}}</td>
+</tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 検査・計測・後工程装置</td></tr>
 <tr>
 <td>アドバンテスト</td>
@@ -254,13 +294,63 @@ graph LR
 <td>{{% corplink "https://www.disco.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6146" %}}</td>
 </tr>
-<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ パッケージング・部品</td></tr>
+<tr>
+<td>Lasertec</td>
+<td>{{% minkabu 6920 %}}</td>
+<td>半導体検査・計測装置で世界トップシェア。EUV露光の検査装置も提供。</td>
+<td>{{% corplink "https://www.lasertec.co.jp/" %}}</td>
+<td>{{% dividend "tokyo" "6920" %}}</td>
+</tr>
+<tr>
+<td>日本マイクロニクス</td>
+<td>{{% minkabu 6871 %}}</td>
+<td>プローブカード（テスト治具）で半導体テスト装置向けに供給。</td>
+<td>{{% corplink "https://www.nihon-micronics.co.jp/" %}}</td>
+<td>{{% dividend "tokyo" "6871" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体材料（フォトレジスト・その他）</td></tr>
+<tr>
+<td>JSR</td>
+<td>{{% minkabu 4185 %}}</td>
+<td>フォトレジストで世界的シェア。露光技術の進化に伴う高度な製品開発で競争力を維持。</td>
+<td>{{% corplink "https://www.jsr.co.jp/" %}}</td>
+<td>{{% dividend "tokyo" "4185" %}}</td>
+</tr>
+<tr>
+<td>東京応化工業</td>
+<td>{{% minkabu 4186 %}}</td>
+<td>フォトレジスト・ケミカルス供給。EUV用材料の開発で注力。</td>
+<td>{{% corplink "https://www.tokyo-ohka.co.jp/" %}}</td>
+<td>{{% dividend "tokyo" "4186" %}}</td>
+</tr><tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ パッケージング・部品</td></tr>
 <tr>
 <td>三井ハイテック</td>
 <td>{{% minkabu 6966 %}}</td>
 <td>リードフレーム世界大手。EV向けモーターコアが急成長。北九州に本社。</td>
 <td>{{% corplink "https://www.mitsui-high-tec.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6966" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 電子部品（コンデンサ・センサー・モーター）</td></tr>
+<tr>
+<td>村田製作所</td>
+<td>{{% minkabu 8564 %}}</td>
+<td>積層セラミックコンデンサで世界首位。センサー・無線モジュールも展開。半導体の需要変動に連動。</td>
+<td>{{% corplink "https://www.murata.com/" %}}</td>
+<td>{{% dividend "tokyo" "8564" %}}</td>
+</tr>
+<tr>
+<td>TDK</td>
+<td>{{% minkabu 6556 %}}</td>
+<td>フェライト・センサー・電源モジュールで世界的競争力。スマートフォン・自動車向け部品が主要。</td>
+<td>{{% corplink "https://www.tdk.com/ja/" %}}</td>
+<td>{{% dividend "tokyo" "6556" %}}</td>
+</tr>
+<tr>
+<td>日本電産</td>
+<td>{{% minkabu 6594 %}}</td>
+<td>小型モーター・精密機械で世界的企業。HDD・冷却ファン・EV向けモーターに強み。</td>
+<td>{{% corplink "https://www.nidec.com/ja/" %}}</td>
+<td>{{% dividend "tokyo" "6594" %}}</td>
 </tr>
 </tbody>
 </table>

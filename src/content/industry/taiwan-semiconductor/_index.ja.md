@@ -6,6 +6,7 @@ lastmod: 2026-04-07
 description: "台湾の半導体産業を解説。TSMCを中心とする世界最大のファウンドリ集積、新竹・南部・中部の3大サイエンスパーク、UMC・聯発科（MediaTek）・日月光（ASE）・ASML台湾など主要企業、地政学リスクとファウンドリの世界シェアを整理。"
 weight: 32
 mapName: "taiwan"
+galleryDir: "taiwan-semiconductor"
 ---
 
 <script>
@@ -194,7 +195,7 @@ mapName: "taiwan"
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#0891b2"></span>ファブレス</span>
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#6b7280"></span>OSAT・EMS・パネル</span>
 </div>
-<div class="corp-treemap" data-companies='[{"t":"TSM","n":"TSMC","s":"\u30d5\u30a1\u30a6\u30f3\u30c9\u30ea","v":150.0,"c":"#6366f1"},{"t":"2317.TW","n":"Hon Hai (Foxconn)","s":"EMS","v":12.0,"c":"#6b7280"},{"t":"2454.TW","n":"MediaTek","s":"\u30d5\u30a1\u30d6\u30ec\u30b9","v":10.5,"c":"#0891b2"},{"t":"UMC","n":"UMC","s":"\u30d5\u30a1\u30a6\u30f3\u30c9\u30ea","v":3.75,"c":"#6366f1"},{"t":"ASX","n":"ASE Technology","s":"OSAT","v":3.75,"c":"#6b7280"},{"t":"3034.TW","n":"Novatek","s":"\u30d5\u30a1\u30d6\u30ec\u30b9","v":2.25,"c":"#0891b2"},{"t":"2379.TW","n":"Realtek","s":"\u30d5\u30a1\u30d6\u30ec\u30b9","v":1.5,"c":"#0891b2"},{"t":"5347.TW","n":"Vanguard","s":"\u30d5\u30a1\u30a6\u30f3\u30c9\u30ea","v":1.2,"c":"#6366f1"},{"t":"2408.TW","n":"Nanya Tech","s":"DRAM","v":0.75,"c":"#6366f1"},{"t":"3481.TW","n":"Innolux","s":"\u30d1\u30cd\u30eb","v":0.45,"c":"#6b7280"},{"t":"2409.TW","n":"AUO","s":"\u30d1\u30cd\u30eb","v":0.45,"c":"#6b7280"}]'></div>
+<div class="corp-treemap" data-companies='[{"t":"TSM","n":"TSMC","s":"ファウンドリ","v":150.0,"c":"#6366f1"},{"t":"2317.TW","n":"Hon Hai (Foxconn)","s":"EMS","v":12.0,"c":"#6b7280"},{"t":"2454.TW","n":"MediaTek","s":"ファブレス","v":10.5,"c":"#0891b2"},{"t":"UMC","n":"UMC","s":"ファウンドリ","v":3.75,"c":"#6366f1"},{"t":"ASX","n":"ASE Technology","s":"OSAT","v":3.75,"c":"#6b7280"},{"t":"3034.TW","n":"Novatek","s":"ファブレス","v":2.25,"c":"#0891b2"},{"t":"HIMX","n":"Himax","s":"ファブレス","v":0.6,"c":"#0891b2"},{"t":"SIMO","n":"Silicon Motion","s":"ファブレス","v":0.6,"c":"#0891b2"},{"t":"2379.TW","n":"Realtek","s":"ファブレス","v":1.5,"c":"#0891b2"},{"t":"5347.TW","n":"Vanguard","s":"ファウンドリ","v":1.2,"c":"#6366f1"},{"t":"2408.TW","n":"Nanya Tech","s":"DRAM","v":0.75,"c":"#6366f1"},{"t":"3481.TW","n":"Innolux","s":"パネル","v":0.45,"c":"#6b7280"},{"t":"2409.TW","n":"AUO","s":"パネル","v":0.45,"c":"#6b7280"}]'></div>
 <p class="treemap-note">※ 面積は時価総額（概算・1ドル=150円換算）に比例。</p>
 </div>
 

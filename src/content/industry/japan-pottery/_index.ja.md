@@ -6,6 +6,7 @@ lastmod: 2026-03-25
 description: "日本全国の主要な焼き物産地を解説。六古窯・美濃・有田・九谷など30か所以上の産地を地図と一覧で整理。陶器と磁器の違い、産地ごとの特徴も解説。"
 weight: 20
 mapName: "japan"
+galleryDir: "japan-pottery"
 ---
 
 <script>
@@ -327,7 +328,7 @@ mapName: "japan"
 
 窯業・セラミックス技術に由来する主要上場企業の時価総額を可視化しています。
 
-{{% corp-treemap "6971,6981,6762,5332,5333,5334,5331,5938,4062,5344" %}}
+{{% corp-treemap "6971,6981,6762,5332,5333,5334,5331,5938,4062,5344,7741,5214,2268,8113" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -413,6 +414,37 @@ mapName: "japan"
 <td>揖斐川の水力発電・カーバイド製造から出発し、セラミック技術を蓄積。現在の主力はICパッケージ基板（有機基板）とディーゼル排ガス浄化フィルター（DPF）の二本柱。DPFは欧州市場で高シェア{{% cite "ibiden_ir" %}}。</td>
 <td>{{% corplink "https://www.ibiden.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4062" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 光学・医療関連</td></tr>
+<tr>
+<td>HOYA</td>
+<td>{{% minkabu 7741 %}}</td>
+<td>光学・医療機器大手。EUVフォトマスク向けガラス基板で世界首位。セラミックス系材料も含む精密光学素子で高シェア。眼鏡レンズ・内視鏡等も展開。</td>
+<td>{{% corplink "https://www.hoya.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "7741" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 特殊ガラス・セラミックス</td></tr>
+<tr>
+<td>日本電気硝子</td>
+<td>{{% minkabu 5214 %}}</td>
+<td>液晶ディスプレイ用ガラス基板で世界トップ級。ガラスファイバー・医薬用バイアルなど特殊ガラスに特化。セラミック材料技術を融合。</td>
+<td>{{% corplink "https://www.neg.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5214" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 磁性・電子セラミック材料</td></tr>
+<tr>
+<td>太陽誘電</td>
+<td>{{% minkabu 8113 %}}</td>
+<td>セラミックコンデンサ・積層セラミック・誘電体材料の専業メーカー。村田製作所と並ぶ電子セラミックの大手。受動部品で世界的シェア。</td>
+<td>{{% corplink "https://www.tusonyo.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "8113" %}}</td>
+</tr>
+<tr>
+<td>高周波熱錬</td>
+<td>{{% minkabu 2268 %}}</td>
+<td>セラミック・ガラス・硅酸塩材料の製造。電子セラミック・研磨材・サーマルマネジメント材料で特化。中堅ながら高機能材料供給。</td>
+<td>{{% corplink "https://www.koushuhatsuretsuren.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2268" %}}</td>
 </tr>
 </tbody>
 </table>

@@ -6,6 +6,7 @@ lastmod: 2026-04-08
 description: "チリの鉱業を解説。世界の銅生産で約24%（2024年541万トン）を占める世界最大の銅産国としての地位、Codelco・BHP Escondida・Collahuasiなど主要鉱山、SQMとAlbemarleが操業するSalar de Atacamaのリチウム生産、リチウムトライアングルとチリ国家リチウム戦略までを整理。"
 weight: 37
 mapName: "southAmerica"
+galleryDir: "chile-mining"
 ---
 
 <script>
@@ -122,14 +123,14 @@ mapName: "southAmerica"
 
 ## なぜチリが鉱業大国なのか
 
-チリ共和国は<span style="font-weight:700">世界最大の銅生産国</span>であり、2024年の銅生産量は<span style="font-weight:700">約541万トン</span>（前年比+4.9%）と、20年来の減少傾向を反転させて成長軌道に戻りました{{% cite "expomin_chile2024" %}}。世界の銅鉱山生産（約2,200万トン）のうち<span style="font-weight:700">約24%</span>{{% cite "plusmining_2024" %}}を1か国で供給しており、第2位ペルー（約12%）、第3位コンゴ民主共和国（約10%）を大きく引き離しています。さらにチリは<span style="font-weight:700">世界最大の銅埋蔵量保有国</span>でもあり、確認埋蔵量の<span style="font-weight:700">約21%</span>が国内に集中しています。
+チリ共和国は<span style="font-weight:700">世界最大の銅生産国</span>であり、2024年の銅生産量は<span style="font-weight:700">約550万トン</span>（前年比+4.9%）と、20年来の減少傾向を反転させて成長軌道に戻りました{{% cite "cochilco_2024" %}。世界の銅鉱山生産（約2,300万トン）のうち<span style="font-weight:700">約24%</span>{{% cite "usgs_mcs2025_copper" %}}を1か国で供給しており、第2位ペルー（約12%）、第3位コンゴ民主共和国（約10%）を大きく引き離しています。さらにチリは<span style="font-weight:700">世界最大の銅埋蔵量保有国</span>でもあり、確認埋蔵量の<span style="font-weight:700">約21.3%</span>が国内に集中しています{{% cite "usgs_mcs2025_copper" %}}。
 
-加えてチリは<span style="font-weight:700">世界第2位のリチウム生産国</span> （1位はオーストラリア）で、アタカマ塩湖（Salar de Atacama）のかん水から世界の<span style="font-weight:700">約34%</span> ものリチウムが採れるとされ、隣接するアルゼンチン・ボリビアと合わせた<span style="font-weight:700">「リチウムトライアングル」</span> は世界リチウム資源の50%以上を占めます{{% cite "fastmarkets_lithium_triangle" %}}。
+加えてチリは<span style="font-weight:700">世界第2位のリチウム生産国</span> （1位はオーストラリア）で、アタカマ塩湖（Salar de Atacama）のかん水から世界の<span style="font-weight:700">約34%</span> ものリチウムが採れるとされ、隣接するアルゼンチン・ボリビアと合わせた<span style="font-weight:700">「リチウムトライアングル」</span> は世界リチウム資源の約56%を占めます{{% cite "fastmarkets_lithium_triangle" %}}。
 
 <div class="stat-grid">
-<div class="stat-card"><div class="stat-num">~541万t</div><div class="stat-label">2024年 チリ銅生産量（世界1位）</div></div>
+<div class="stat-card"><div class="stat-num">~550万t</div><div class="stat-label">2024年 チリ銅生産量（世界1位）</div></div>
 <div class="stat-card"><div class="stat-num">~24%</div><div class="stat-label">世界銅鉱山生産シェア</div></div>
-<div class="stat-card"><div class="stat-num">~21%</div><div class="stat-label">世界銅埋蔵量シェア</div></div>
+<div class="stat-card"><div class="stat-num">~21.3%</div><div class="stat-label">世界銅埋蔵量シェア</div></div>
 <div class="stat-card"><div class="stat-num">~34%</div><div class="stat-label">アタカマ塩湖の世界リチウム供給シェア</div></div>
 </div>
 
@@ -153,7 +154,7 @@ mapName: "southAmerica"
 
 ### Codelco — 世界最大の銅生産企業
 
-<span style="font-weight:700">Codelco（Corporación Nacional del Cobre de Chile）</span>は1976年にピノチェト政権下で設立されたチリ国営銅会社で、Chuquicamata・El Teniente・Andina・Salvador・Ministro Hales・Radomiro Tomic・Gabriela Mistralの<span style="font-weight:700">7鉱業部門</span>を運営し、チリの銅生産の25〜30%、単独企業として世界最大級の銅生産者です。1971年のサルバドール・アジェンデ政権下で米系企業（Anaconda、Kennecott）の銅鉱山が国有化されたのが起源で、今もチリ政府100%所有です。近年は鉱床深度化と品位低下で生産が伸び悩み、2024年は<span style="font-weight:700">約132万8000トン</span>（自社操業分）または<span style="font-weight:700">約144万トン</span>（権益分を含む）を生産し、BHPと並ぶ世界最大級の銅生産企業として世界1位の座を維持しました{{% cite "miningweekly_codelco" %}}。
+<span style="font-weight:700">Codelco（Corporación Nacional del Cobre de Chile）</span>は1976年にピノチェト政権下で設立されたチリ国営銅会社で、Chuquicamata・El Teniente・Andina・Salvador・Ministro Hales・Radomiro Tomic・Gabriela Mistralの<span style="font-weight:700">7鉱業部門</span>を運営し、チリの銅生産の25〜30%、単独企業として世界最大級の銅生産者です。1971年のサルバドール・アジェンデ政権下で米系企業（Anaconda、Kennecott）の銅鉱山が国有化されたのが起源で、今もチリ政府100%所有です。近年は鉱床深度化と品位低下で生産が伸び悩み、2024年は<span style="font-weight:700">約132.9万トン</span>（自社操業分）または<span style="font-weight:700">約144万トン</span>（権益分を含む）を生産し、BHPと並ぶ世界最大級の銅生産企業として世界1位の座を維持しました{{% cite "codelco_2024_results" %}}。
 
 ### 日本企業の関与
 
@@ -223,20 +224,17 @@ SQMはアタカマ操業から<span style="font-weight:700">2024年に201,000ト
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#d97706"></span>銅・多角化</span>
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#10b981"></span>リチウム</span>
 </div>
-<div class="corp-treemap" data-companies='[{"t":"BHP","n":"BHP Group","s":"\u92dc\u30fb\u591a\u89d2\u5316","v":21.0,"c":"#d97706"},{"t":"RIO","n":"Rio Tinto","s":"\u92dc\u30fb\u591a\u89d2\u5316","v":16.5,"c":"#d97706"},{"t":"GLEN.L","n":"Glencore","s":"\u92dc\u30fb\u591a\u89d2\u5316","v":8.3,"c":"#d97706"},{"t":"AAL.L","n":"Anglo American","s":"\u92dc\u30fb\u591a\u89d2\u5316","v":6.8,"c":"#d97706"},{"t":"ANTO.L","n":"Antofagasta plc","s":"\u92dc","v":3.0,"c":"#d97706"},{"t":"SQM","n":"SQM","s":"\u30ea\u30c1\u30a6\u30e0","v":2.25,"c":"#10b981"},{"t":"ALB","n":"Albemarle","s":"\u30ea\u30c1\u30a6\u30e0","v":1.5,"c":"#10b981"},{"t":"LUN.TO","n":"Lundin Mining","s":"\u92dc","v":1.2,"c":"#d97706"},{"t":"KGH.WA","n":"KGHM","s":"\u92dc","v":0.75,"c":"#d97706"}]'></div>
+<div class="corp-treemap" data-companies='[{"t":"BHP","n":"BHP Group","s":"銅・多角化","v":21.0,"c":"#d97706"},{"t":"RIO","n":"Rio Tinto","s":"銅・多角化","v":16.5,"c":"#d97706"},{"t":"FCX","n":"Freeport-McMoRan","s":"銅","v":8.3,"c":"#d97706"},{"t":"SCCO","n":"Southern Copper","s":"銅","v":12.0,"c":"#d97706"},{"t":"GLEN.L","n":"Glencore","s":"銅・多角化","v":8.3,"c":"#d97706"},{"t":"AAL.L","n":"Anglo American","s":"銅・多角化","v":6.8,"c":"#d97706"},{"t":"TECK","n":"Teck Resources","s":"銅・多角化","v":3.8,"c":"#d97706"},{"t":"SQM","n":"SQM","s":"リチウム","v":2.25,"c":"#10b981"},{"t":"ALB","n":"Albemarle","s":"リチウム","v":1.5,"c":"#10b981"},{"t":"ANTO.L","n":"Antofagasta plc","s":"銅","v":3.0,"c":"#d97706"},{"t":"LUN.TO","n":"Lundin Mining","s":"銅","v":1.2,"c":"#d97706"},{"t":"KGH.WA","n":"KGHM","s":"銅","v":0.75,"c":"#d97706"}]'></div>
 <p class="treemap-note">※ 面積は時価総額（概算・1ドル=150円換算）に比例。Codelcoはチリ国営企業のため除外。</p>
 </div>
 
 ## 参考文献
 
 {{% references %}}
-expomin_chile2024: Expomin「Chilean copper production breaks downward trend and closes 2024 with 4.9% growth」<https://www.expomin.cl/en/chilean-copper-production-breaks-downward-trend-and-closes-2024-with-4-9-growth/>
-plusmining_2024: PlusMining「Chile's share in the global copper market drops from 30% to 24% in a decade」<https://plusmining.com/en/2025/02/24/chiles-share-in-the-global-copper-market-drops-from-30-to-24-in-a-decade/>
+cochilco_2024: Cochilco（Comisión Chilena del Cobre）「Chilean copper production breaks downward trend and closes 2024 with 4.9% growth」<https://www.cochilco.cl/>
+usgs_mcs2025_copper: USGS「Mineral Commodity Summaries 2025 — Copper」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-copper.pdf>
 fastmarkets_lithium_triangle: Fastmarkets「The Lithium Triangle」<https://www.fastmarkets.com/insights/the-lithium-triangle-three-countries-control-more-than-50-of-global-resources/>
-investingnews_lithium: Investing News Network「Top Lithium Producers」<https://investingnews.com/daily/resource-investing/battery-metals-investing/lithium-investing/top-lithium-producers/>
 codelco_2024_results: Codelco「December 2024 Results」<https://www.codelco.com/sites/site/docs/20240426/20240426181050/operational_and_financial_report_december_31_2024.pdf>
-miningweekly_codelco: Mining Weekly「Codelco extends reign as top copper producer as BHP challenges」<https://www.miningweekly.com/article/codelco-extends-reign-as-top-copper-producer-as-bhp-challenges-2025-03-31>
-cochilco: Cochilco（Comisión Chilena del Cobre）<https://www.cochilco.cl/>
 codelco: Codelco「About Us」<https://www.codelco.com/en/>
 sqm_company: SQM「Investor Information」<https://ir.sqm.com/>
 usgs_mcs2025_li: USGS「Mineral Commodity Summaries 2025 — Lithium」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-lithium.pdf>

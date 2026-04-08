@@ -6,6 +6,7 @@ lastmod: 2026-03-30
 description: "京浜・中京・阪神・北九州の四大工業地帯から、京葉・瀬戸内・鹿島臨海・東海・北陸・関東内陸の工業地域まで、日本の製造業の地理的構造を解説。"
 weight: 50
 mapName: "japan"
+galleryDir: "japan-industrial-zones"
 ---
 
 <script>
@@ -143,7 +144,7 @@ mapName: "japan"
 
 | 工業地帯 | 中心都市 | 主な産業 | 詳細 |
 | -------- | -------- | -------- | ---- |
-| <span style="font-weight:700">京浜工業地帯</span> | 東京・横浜・川崎 | 出版印刷・機械・化学・食品 | かつては国内最大だが、現在は全国シェア約8%まで低下{{% cite "meti_keihinkogyo" %}} |
+| <span style="font-weight:700">京浜工業地帯</span> | 東京・横浜・川崎 | 出版印刷・機械・化学・食品 | かつては国内最大（戦後～1990年代）だが、現在は全国5位、全国シェア約5%{{% cite "meti_keihinkogyo" %}} |
 | <span style="font-weight:700">中京工業地帯</span> | 名古屋・豊田・四日市 | 自動車・機械・石油化学 | 自動車産業が牽引。国内製造品出荷額1位{{% cite "meti_chukyo" %}} |
 | <span style="font-weight:700">阪神工業地帯</span> | 大阪・神戸・堺 | 金属・化学・機械・繊維 | 近畿地域の産業基盤です。阪神淡路大震災後の再編を経験しました。 |
 | <span style="font-weight:700">北九州工業地帯</span> | 北九州・大牟田 | 鉄鋼・化学（近年は衰退傾向） | かつての重工業中心地です。現在は産業転換が進行中です。 |
@@ -160,7 +161,7 @@ mapName: "japan"
 | <span style="font-weight:700">関東内陸工業地域</span> | 宇都宮・太田・前橋 | 自動車部品・電気機械・食品 | 準備中 |
 
 {{% references %}}
-meti_census: 経済産業省「工業統計調査」<https://www.meti.go.jp/statistics/tyo/kougyo/>
-meti_chukyo: 経済産業省「中京工業地帯の産業構造」<https://www.meti.go.jp/statistics/tyo/kougyo/>
-meti_keihinkogyo: 経済産業省「京浜工業地帯の概要」<https://www.meti.go.jp/statistics/tyo/kougyo/>
+meti_census: 経済産業省「2023年経済構造実態調査」<https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html>
+meti_chukyo: 経済産業省「2023年経済構造実態調査二次集計結果」愛知県製造品出荷額58兆218億円<https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf>
+meti_keihinkogyo: 経済産業省「2023年経済構造実態調査」神奈川県製造品出荷額18兆2318億円（全国5位、シェア5.0%）<https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf>
 {{% /references %}}

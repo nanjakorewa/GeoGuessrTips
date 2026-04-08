@@ -6,6 +6,7 @@ lastmod: 2026-04-07
 description: "日本の製紙・パルプ産業を解説。王子HD・日本製紙・大王製紙・レンゴーの主要工場と、富士・苫小牧・四国中央市・八代・石巻・岩国の主要産地、古紙利用率世界トップクラスのリサイクル体制を一次資料に基づき整理。"
 weight: 38
 mapName: "japan"
+galleryDir: "japan-paper"
 ---
 
 <script>
@@ -113,7 +114,7 @@ mapName: "japan"
 
 製紙・パルプは、<span style="font-weight:700">大量の水・木材繊維・電力</span>を必要とする典型的な装置産業です。日本の製紙工場は、豊富な水（河川）と港湾を持つ地域に集中して立地しており、富士市・苫小牧・四国中央市・八代・石巻・岩国などが代表的な紙のまちとして知られています。
 
-日本の紙・板紙生産量は中国・米国に次ぐ<span style="font-weight:700">世界第3位級</span>{{% cite "jpa_supply_demand" %}}で、2007年頃の約3,200万トンをピークに、印刷・新聞用紙の需要減少を背景に縮小傾向にあります。一方で、EC需要を背景に<span style="font-weight:700">段ボール原紙・板紙</span>は底堅く推移しており、業界全体としては<span style="font-weight:700">「印刷・情報用紙の縮小と段ボール・パッケージへのシフト」</span>が大きなトレンドとなっています{{% cite "jpa_supply_demand" %}}。
+日本の紙・板紙生産量は中国・米国に次ぐ<span style="font-weight:700">世界第3位級</span>{{% cite "jpa_supply_demand" %}}で、2007年頃の約3,200万トンをピークに、印刷・新聞用紙の需要減少を背景に縮小傾向にあります。一方で、EC需要を背景に<span style="font-weight:700">段ボール原紙・板紙</span>は底堅く推移しており、業界全体としては<span style="font-weight:700">「印刷・情報用紙の縮小と段ボール・パッケージへのシフト」</span>が大きなトレンドとなっています{{% cite "jpa_supply_demand" %}}。2023年の生産量は約2,200万トン（21.99百万トン）です。
 
 ## 基本データ
 
@@ -194,7 +195,7 @@ mapName: "japan"
 
 ## 古紙リサイクルとサーキュラーエコノミー
 
-日本の古紙利用率は<span style="font-weight:700">65%超</span> と世界トップクラスで、特に板紙（段ボール用紙など）では<span style="font-weight:700">95%前後</span> {{% cite "jpa_recycle" %}}にまで達しています{{% cite "jpa_recycle" %}}。これは、自治体・古紙問屋・製紙メーカーが連携した日本独自の回収システムによるものです。
+日本の古紙利用率は<span style="font-weight:700">66.6%（2024年）</span>で世界トップクラスであり、特に板紙（段ボール用紙など）では<span style="font-weight:700">95%前後</span> {{% cite "jpa_recycle" %}}にまで達しています{{% cite "jpa_recycle" %}}。これは、自治体・古紙問屋・製紙メーカーが連携した日本独自の回収システムによるものです。
 
 <div class="process-flow">
   <div class="process-step">
@@ -233,7 +234,7 @@ mapName: "japan"
 
 国内主要4社と関連企業の時価総額を可視化しています。
 
-{{% corp-treemap "3861,3863,3880,3941,3865" %}}
+{{% corp-treemap "3861,3863,3880,3941,3865,3898" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -283,6 +284,13 @@ mapName: "japan"
 <td>新潟県長岡市本社。新潟工場を中核とした印刷・情報用紙・特殊紙・パッケージを展開。</td>
 <td>{{% corplink "https://www.hokuetsucorp.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3865" %}}</td>
+</tr>
+<tr>
+<td>中越パルプ工業</td>
+<td>{{% minkabu 3898 %}}</td>
+<td>新潟県新潟市本社。新潟工場を中核に、機械漉き和紙・特殊紙・古紙リサイクルに特化。小規模ながら国内中堅として位置付け。</td>
+<td>{{% corplink "https://www.chuetsu-pulp.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3898" %}}</td>
 </tr>
 </tbody>
 </table>

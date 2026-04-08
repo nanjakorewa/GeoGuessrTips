@@ -6,6 +6,7 @@ lastmod: 2026-04-07
 description: "タイにある約6,000社の日系企業を解説。アセアン最大の自動車生産国を支えるトヨタ・ホンダ・いすゞ・日産・三菱などの完成車メーカーと、東部臨海工業地帯（Eastern Seaboard）に集中する部品サプライヤー、BOI恩典制度、近年の中国EVの台頭までを整理。"
 weight: 33
 mapName: "thailand"
+galleryDir: "thailand-japanese"
 ---
 
 <script>
@@ -180,7 +181,7 @@ mapName: "thailand"
 
 ## 化学・素材
 
-マプタプットに集中する石油化学では<span style="font-weight:700">PTTグローバルケミカル</span> を核に、<span style="font-weight:700">三井化学</span> 、<span style="font-weight:700">住友化学</span> 、<span style="font-weight:700">宇部興産</span> 、<span style="font-weight:700">三菱ケミカル</span> 、<span style="font-weight:700">JSR</span> 、<span style="font-weight:700">カネカ</span> 、<span style="font-weight:700">東ソー</span> 、<span style="font-weight:700">ダイセル</span> などが進出しています{{% cite "boi_thailand" %}}。タイの石油化学はASEAN最大級で、ナフサクラッカー数基、エチレン生産能力で年間500万トン超を持ちます。
+マプタプットに集中する石油化学では<span style="font-weight:700">PTTグローバルケミカル</span> を核に、<span style="font-weight:700">三井化学</span> 、<span style="font-weight:700">住友化学</span> 、<span style="font-weight:700">宇部興産</span> 、<span style="font-weight:700">三菱ケミカル</span> 、<span style="font-weight:700">JSR</span> 、<span style="font-weight:700">カネカ</span> 、<span style="font-weight:700">東ソー</span> 、<span style="font-weight:700">ダイセル</span> などが進出しています{{% cite "boi_thailand" %}}。タイの石油化学はASEAN最大級で、上流石油化学製品の年間生産能力は1,320万トン超、エチレン生産能力は年間450万トン超を持ちます。
 
 ## 中国EVの台頭という新たな競争
 

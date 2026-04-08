@@ -117,7 +117,7 @@ galleryDir: "combinat"
 
 「コンビナート（kombinat）」はロシア語に由来する言葉で、石油精製・石油化学・製鉄・電力などの施設が湾岸の埋立地に集積して、原材料・中間製品・エネルギーをパイプラインで融通し合う生産体系です。日本では1950〜70年代の<span style="font-weight:700">高度経済成長期</span>に、政府の「新産業都市」政策のもとで全国各地に建設されました。コンビナート内の企業間でパイプラインを通じて物資を融通することで、輸送コストを年間数百億円単位で削減でき、CO₂排出削減にも役立っています。
 
-2024年時点で日本にはエチレンプラントを持つ石油化学コンビナートが<span style="font-weight:700">8地区</span>あります{{% cite "jpca2023" %}}。これら8地区の合計エチレン生産能力は約630万トン/年（国内全体）で、世界的には日本の石化産業の競争力は材料・高機能品での強みへと転換しています{{% cite "jpca2025" %}}。鉄鋼については高炉を持つ一貫製鉄所が東日本・西日本各地に立地し、2024年時点で国内粗鋼生産能力は約1億5,000万トン/年を支えています{{% cite "jisf_stats" %}}。
+2024年時点で日本にはエチレンプラントを持つ石油化学コンビナートが<span style="font-weight:700">8地区</span>あります{{% cite "jpca2023" %}}。これら8地区の合計エチレン生産能力は約650万トン/年（国内全体）で、世界的には日本の石化産業の競争力は材料・高機能品での強みへと転換しています{{% cite "jpca2025" %}}。鉄鋼については高炉を持つ一貫製鉄所が東日本・西日本各地に立地し、2024年時点で国内粗鋼生産能力は約1億2,240万トン/年を支えています{{% cite "jisf_stats" %}}。
 
 ## 主要コンビナート一覧
 
@@ -129,13 +129,13 @@ galleryDir: "combinat"
   </div>
   <div class="stat-card">
     <p class="stat-card__label">国内エチレン年産能力</p>
-    <p class="stat-card__value">約630</p>
-    <p class="stat-card__unit">万トン（2022年）{{% cite "meti_ethylene2022" %}}</p>
+    <p class="stat-card__value">約650</p>
+    <p class="stat-card__unit">万トン（2024年）{{% cite "meti_ethylene2024" %}}</p>
   </div>
   <div class="stat-card">
-    <p class="stat-card__label">粗鋼生産量（日本全体）</p>
-    <p class="stat-card__value">約8,900</p>
-    <p class="stat-card__unit">万トン（2022年）{{% cite "jisf_stats" %}}</p>
+    <p class="stat-card__label">粗鋼生産能力（日本全体）</p>
+    <p class="stat-card__value">約12,240</p>
+    <p class="stat-card__unit">万トン（2024年）{{% cite "worldsteel2024" %}}</p>
   </div>
 </div>
 
@@ -154,7 +154,7 @@ galleryDir: "combinat"
 
 解説済みコンビナート（京葉・鹿島・水島）に関連する主要上場企業の時価総額を可視化しています。同一企業が複数のコンビナートに立地する場合も1回のみ表示されます。
 
-{{% corp-treemap "5020,5019,5021,5009,5411,4005,4188,5401,3407,7211" %}}
+{{% corp-treemap "5020,5019,5021,5009,5411,4005,4188,5401,3407,7211,4463,4204,4185,4191,4185,6701,5012,3880,4206,5110" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -183,6 +183,20 @@ galleryDir: "combinat"
 <td>{{% corplink "https://www.idemitsu.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5019" %}}</td>
 </tr>
+<tr>
+<td>コスモエネルギーホールディングス</td>
+<td>{{% minkabu 5021 %}}</td>
+<td>国内第3位の石油元売り。京葉に千葉製油所（175千BD）を保有。</td>
+<td>{{% corplink "https://www.cosmo-energy.co.jp/ja/ir.html" %}}</td>
+<td>{{% dividend "tokyo" "5021" %}}</td>
+</tr>
+<tr>
+<td>富士石油</td>
+<td>{{% minkabu 5009 %}}</td>
+<td>京葉に袖ケ浦製油所（143千BD）を保有。旧アラビア石油系。</td>
+<td>{{% corplink "https://www.foc.co.jp/ja/ir.html" %}}</td>
+<td>{{% dividend "tokyo" "5009" %}}</td>
+</tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 化学・誘導品</td></tr>
 <tr>
 <td>三菱ケミカルグループ</td>
@@ -204,6 +218,48 @@ galleryDir: "combinat"
 <td>水島を発祥・主力拠点とする総合化学メーカー。LIBセパレーター（Hipore）の主要メーカーで、北米市場では約30%シェアを目標。</td>
 <td>{{% corplink "https://www.asahi-kasei.com/jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3407" %}}</td>
+</tr>
+<tr>
+<td>三井化学</td>
+<td>{{% minkabu 4005 %}}</td>
+<td>市原工場はエチレン能力55.5万t/年。ポリウレタン原料（MDI）・機能性樹脂に強み。2027年度に出光とエチレン装置統合予定。</td>
+<td>{{% corplink "https://jp.mitsuichemicals.com/" %}}</td>
+<td>{{% dividend "tokyo" "4005" %}}</td>
+</tr>
+<tr>
+<td>クラレ</td>
+<td>{{% minkabu 3405 %}}</td>
+<td>水島を主力拠点とする機能性材料メーカー。PVA（ポリビニルアルコール）・接着樹脂で世界シェア上位。</td>
+<td>{{% corplink "https://www.kuraray.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3405" %}}</td>
+</tr>
+<tr>
+<td>信越化学工業</td>
+<td>{{% minkabu 4063 %}}</td>
+<td>鹿島に大規模生産拠点。化学品・半導体関連材料大手。ポリ塩化ビニル・シリコーン樹脂で国内最大級。</td>
+<td>{{% corplink "https://www.shinetsu.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4063" %}}</td>
+</tr>
+<tr>
+<td>昭和電工（Resonac）</td>
+<td>{{% minkabu 4208 %}}</td>
+<td>複数のコンビナートに拠点。機能化学品・電子材料・エネルギーソリューションに注力。2024年Resonac改称。</td>
+<td>{{% corplink "https://www.resonac.com/ja/" %}}</td>
+<td>{{% dividend "tokyo" "4208" %}}</td>
+</tr>
+<tr>
+<td>トクヤマ</td>
+<td>{{% minkabu 4043 %}}</td>
+<td>周南コンビナートを主力。ポリ塩化ビニル・ジクロロメタン・シリカゲル製造。化学肥料事業も。</td>
+<td>{{% corplink "https://www.tokuyama.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4043" %}}</td>
+</tr>
+<tr>
+<td>大阪ソーダ</td>
+<td>{{% minkabu 4046 %}}</td>
+<td>北日本・西日本のコンビナートに立地。塩素・アルカリ化学品・香料・医薬品中間体の製造。</td>
+<td>{{% corplink "https://www.osakasoda.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4046" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 鉄鋼</td></tr>
 <tr>
@@ -236,4 +292,7 @@ galleryDir: "combinat"
 jisf_stats: 日本鉄鋼連盟「鉄鋼統計 生産・時系列」<https://www.jisf.or.jp/data/jikeiretsu/seisan.html>
 jpca2023: みずほ産業調査 「石油化学工業の現状」. 2019年. https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1061_all.pdf
 meti_ethylene2022: 経済産業省「我が国の主要石油化学製品生産能力調査（令和4年12月末時点）」（2023年）<https://www.meti.go.jp/policy/mono_info_service/mono/chemistry/20230614seisannnouryokutyousa.pdf>
+meti_ethylene2024: 経済産業省「主要石油化学製品生産能力」（2024年）
+jpca2025: 石油化学工業協会「石油化学製品の生産」<https://www.jpca.or.jp/statistics/annual/seisan.html>
+worldsteel2024: World Steel Association「Global crude steel production capacity」（2024年）
 {{% /references %}}

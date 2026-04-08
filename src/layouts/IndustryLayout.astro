@@ -352,13 +352,42 @@ if (data.galleryDir) {
 
     /* ---- Page hero (for detail pages without map) ---- */
     .ind-hero {
-      background: linear-gradient(135deg, var(--ind-primary) 0%, #2d5282 100%);
+      background:
+        radial-gradient(circle at 85% 20%, rgba(224,123,32,0.18), transparent 55%),
+        radial-gradient(circle at 15% 80%, rgba(255,255,255,0.08), transparent 50%),
+        linear-gradient(135deg, var(--ind-primary) 0%, #2d5282 60%, #3a6296 100%);
       color: #fff;
-      padding: 2.5rem 1.5rem 2rem;
+      padding: 3rem 1.5rem 2.5rem;
+      position: relative;
+      overflow: hidden;
+      border-bottom: 3px solid var(--ind-accent);
     }
+    .ind-hero::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(255,255,255,0.04) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.04) 1px, transparent 1px);
+      background-size: 28px 28px;
+      pointer-events: none;
+      mask-image: radial-gradient(ellipse at center, black 30%, transparent 80%);
+    }
+    .ind-hero-inner { position: relative; z-index: 1; }
     .ind-hero-inner {
       max-width: 860px;
       margin: 0 auto;
+      position: relative;
+      z-index: 1;
+    }
+    .ind-hero h1::before {
+      content: "";
+      display: block;
+      width: 42px;
+      height: 3px;
+      background: var(--ind-accent);
+      margin-bottom: 0.85rem;
+      border-radius: 2px;
     }
     .ind-hero h1 {
       font-size: clamp(1.5rem, 4vw, 2.2rem);
@@ -406,19 +435,28 @@ if (data.galleryDir) {
 
     /* ---- Article typography ---- */
     .ind-article h2 {
-      font-size: 1.35rem;
+      font-size: 1.4rem;
       font-weight: 700;
       color: var(--ind-primary);
-      border-left: 4px solid var(--ind-accent);
-      padding-left: 0.75rem;
-      margin: 2.5rem 0 1rem;
+      padding: 0.35rem 0 0.35rem 0.95rem;
+      margin: 2.75rem 0 1.1rem;
+      position: relative;
+      border-left: 5px solid var(--ind-accent);
+      background: linear-gradient(90deg, rgba(224,123,32,0.08), transparent 70%);
+      border-radius: 0 var(--ind-radius) var(--ind-radius) 0;
     }
     .ind-article h3 {
-      font-size: 1.1rem;
-      font-weight: 600;
-      color: var(--ind-text);
-      margin: 1.75rem 0 0.75rem;
+      font-size: 1.12rem;
+      font-weight: 700;
+      color: var(--ind-primary);
+      margin: 1.85rem 0 0.75rem;
+      padding-left: 0.6rem;
+      border-left: 3px solid var(--ind-primary);
     }
+    [data-theme="dark"] .ind-article h2 {
+      background: linear-gradient(90deg, rgba(224,123,32,0.14), transparent 70%);
+    }
+    [data-theme="dark"] .ind-article h3 { color: #d8d5d0; border-left-color: var(--ind-accent); }
     .ind-article h4 {
       font-size: 0.95rem;
       font-weight: 600;
@@ -444,14 +482,30 @@ if (data.galleryDir) {
 
     /* ---- Code blocks (for ASCII diagrams etc.) ---- */
     .ind-article pre {
-      background: #1a2535;
+      background:
+        linear-gradient(180deg, #1f2c40 0%, #16202f 100%);
       color: #e2e8f0;
       border-radius: var(--ind-radius);
-      padding: 1rem 1.25rem;
+      padding: 1.15rem 1.35rem;
       overflow-x: auto;
       font-size: 0.82rem;
-      line-height: 1.6;
-      margin: 1rem 0 1.5rem;
+      line-height: 1.65;
+      margin: 1.25rem 0 1.75rem;
+      border: 1px solid #2a3a52;
+      border-left: 4px solid var(--ind-accent);
+      box-shadow: 0 6px 16px -8px rgba(15,23,42,0.4), inset 0 1px 0 rgba(255,255,255,0.04);
+      position: relative;
+    }
+    .ind-article pre::before {
+      content: "◆ Diagram";
+      position: absolute;
+      top: 0.5rem;
+      right: 0.85rem;
+      font-size: 0.62rem;
+      color: rgba(224,123,32,0.7);
+      letter-spacing: 0.08em;
+      font-family: 'SFMono-Regular', monospace;
+      pointer-events: none;
     }
     .ind-article code {
       font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', monospace;
@@ -471,19 +525,25 @@ if (data.galleryDir) {
       border-collapse: collapse;
       width: 100%;
       margin: 1rem 0 1.5rem;
-      border-radius: var(--ind-radius);
-      overflow: hidden;
+      border-radius: 0;
       box-shadow: var(--ind-shadow);
+    }
+    .ind-article table,
+    .ind-article .table {
+      border: 1px solid var(--ind-border);
+      box-shadow: 0 4px 12px -4px rgba(15,23,42,0.12), 0 2px 4px -2px rgba(15,23,42,0.06);
     }
     .ind-article table th,
     .ind-article .table th {
-      background: var(--ind-primary);
+      background: linear-gradient(180deg, #2d5282 0%, var(--ind-primary) 100%);
       color: #fff;
-      padding: 0.6rem 0.85rem;
+      padding: 0.7rem 0.9rem;
       text-align: left;
-      font-weight: 600;
+      font-weight: 700;
       font-size: 0.82rem;
-      letter-spacing: 0.02em;
+      letter-spacing: 0.03em;
+      border-bottom: 2px solid var(--ind-accent);
+      white-space: nowrap;
     }
     .ind-article table td,
     .ind-article .table td {
@@ -587,30 +647,51 @@ if (data.galleryDir) {
     .stat-card {
       background: var(--ind-surface);
       border: 1px solid var(--ind-border);
-      border-radius: var(--ind-radius);
-      padding: 1rem 1.25rem;
+      border-radius: 0;
+      padding: 1.1rem 1.3rem;
       box-shadow: var(--ind-shadow);
+      position: relative;
+      overflow: hidden;
+      transition: transform 0.18s ease, box-shadow 0.18s ease;
     }
-    .stat-card__label {
-      font-size: 0.75rem;
+    .stat-card::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0;
+      width: 4px; height: 100%;
+      background: linear-gradient(180deg, var(--ind-accent), #c66417);
+    }
+    .stat-card:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--ind-shadow-md);
+    }
+    .stat-card__label,
+    .stat-card .stat-label {
+      font-size: 0.78rem;
       font-weight: 600;
       color: var(--ind-muted);
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      margin: 0 0 0.25rem;
+      letter-spacing: 0.02em;
+      margin: 0.35rem 0 0;
+      line-height: 1.5;
+      text-transform: none;
     }
-    .stat-card__value {
+    .stat-card__value,
+    .stat-card .stat-num {
       font-size: 1.6rem;
       font-weight: 700;
       color: var(--ind-primary);
       line-height: 1.2;
       margin: 0;
+      display: block;
     }
     .stat-card__unit {
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       color: var(--ind-muted);
-      margin: 0;
+      margin: 0.25rem 0 0;
+      line-height: 1.5;
     }
+    [data-theme="dark"] .stat-card .stat-num,
+    [data-theme="dark"] .stat-card__value { color: #f1c27a; }
 
     /* ---- Process flow diagram ---- */
     .process-flow {
@@ -623,14 +704,19 @@ if (data.galleryDir) {
       padding-bottom: 0.5rem;
     }
     .process-step {
-      background: var(--ind-surface);
+      background: linear-gradient(180deg, #ffffff 0%, #f1f5f9 100%);
       border: 1px solid var(--ind-border);
-      border-radius: var(--ind-radius);
-      padding: 0.6rem 0.9rem;
+      border-radius: 0;
+      padding: 0.7rem 1rem;
       text-align: center;
       min-width: 110px;
       box-shadow: var(--ind-shadow);
       flex-shrink: 0;
+      transition: transform 0.15s;
+    }
+    .process-step:hover { transform: translateY(-2px); }
+    [data-theme="dark"] .process-step {
+      background: linear-gradient(180deg, #2a2e33 0%, #22262a 100%);
     }
     .process-step__label {
       font-size: 0.7rem;
@@ -651,9 +737,10 @@ if (data.galleryDir) {
       color: var(--ind-muted);
     }
     .process-arrow {
-      padding: 0 0.4rem;
-      color: var(--ind-muted);
-      font-size: 1.2rem;
+      padding: 0 0.5rem;
+      color: var(--ind-accent);
+      font-size: 1.4rem;
+      font-weight: 700;
       flex-shrink: 0;
     }
 
@@ -728,10 +815,66 @@ if (data.galleryDir) {
 
     /* ---- Mermaid diagrams ---- */
     .mermaid-wrap {
-      margin: 1.5rem 0;
+      margin: 1.75rem 0;
       overflow-x: auto;
       display: flex;
       justify-content: center;
+      background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+      border: 1px solid var(--ind-border);
+      border-radius: var(--ind-radius);
+      padding: 1.25rem 1rem;
+      box-shadow: var(--ind-shadow);
+    }
+    [data-theme="dark"] .mermaid-wrap {
+      background: linear-gradient(180deg, #22262a 0%, #1e2226 100%);
+    }
+    /* SVG figures inside articles — only block-level standalone SVGs */
+    .ind-article figure > svg,
+    .ind-article p > svg:only-child {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.25rem auto;
+      background: #fff;
+      border: 1px solid var(--ind-border);
+      border-radius: var(--ind-radius);
+      padding: 0.75rem;
+      box-shadow: var(--ind-shadow);
+    }
+    [data-theme="dark"] .ind-article figure > svg,
+    [data-theme="dark"] .ind-article p > svg:only-child {
+      background: #f8fafc;
+    }
+    /* Inline SVGs (e.g. flag icons inside table cells / links) stay inline */
+    .ind-article a svg,
+    .ind-article td svg,
+    .ind-article th svg,
+    .ind-article li > svg {
+      display: inline-block;
+      vertical-align: -2px;
+      background: none;
+      border: none;
+      padding: 0;
+      margin: 0;
+      box-shadow: none;
+    }
+    /* Figure captions for images */
+    .ind-article figure {
+      margin: 1.5rem 0;
+      text-align: center;
+    }
+    .ind-article figure img {
+      max-width: 100%;
+      height: auto;
+      border-radius: var(--ind-radius);
+      box-shadow: var(--ind-shadow-md);
+      border: 1px solid var(--ind-border);
+    }
+    .ind-article figure figcaption {
+      font-size: 0.78rem;
+      color: var(--ind-muted);
+      margin-top: 0.5rem;
+      font-style: italic;
     }
     .mermaid-wrap .mermaid {
       min-height: 60px;
@@ -1204,10 +1347,46 @@ if (data.galleryDir) {
         return maxR;
       }
 
+      function ensureLegend(el, data) {
+        // Find parent .corp-treemap-section (or parent element)
+        var section = el.closest ? el.closest('.corp-treemap-section') : null;
+        var host = section || el.parentNode;
+        if (!host) return;
+        // If a legend already exists in the host, do nothing
+        if (host.querySelector && host.querySelector('.treemap-legend')) return;
+        // Build unique sector→color pairs preserving first-seen order
+        var seen = {};
+        var pairs = [];
+        for (var i = 0; i < data.length; i++) {
+          var s = data[i].s || '';
+          var c = data[i].c || '#9ca3af';
+          var key = s + '|' + c;
+          if (!seen[key]) { seen[key] = true; pairs.push({ s: s, c: c }); }
+        }
+        if (!pairs.length) return;
+        var legend = document.createElement('div');
+        legend.className = 'treemap-legend';
+        for (var j = 0; j < pairs.length; j++) {
+          var item = document.createElement('span');
+          item.className = 'treemap-legend__item';
+          var sw = document.createElement('span');
+          sw.className = 'treemap-legend__color';
+          sw.style.background = pairs[j].c;
+          item.appendChild(sw);
+          item.appendChild(document.createTextNode(pairs[j].s));
+          legend.appendChild(item);
+        }
+        // Insert legend before the treemap element
+        host.insertBefore(legend, el);
+      }
+
       function renderTreemap(el) {
         var data;
         try { data = JSON.parse(el.getAttribute('data-companies')); } catch(e) { return; }
         if (!data || !data.length) return;
+
+        // Auto-inject legend if missing
+        ensureLegend(el, data);
 
         // Clear previous render
         el.innerHTML = '';

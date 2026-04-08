@@ -6,6 +6,7 @@ lastmod: 2026-04-01
 description: "日本の食品コンビナート4か所を解説。京葉・千葉・神戸東部・泉佐野の立地・歴史・入居企業を紹介。"
 weight: 60
 mapName: "japan"
+galleryDir: "japan-food-combinat"
 ---
 
 <script>
@@ -193,7 +194,7 @@ mapName: "japan"
 | 入居企業 | 約{{% cite "kobe_food" %}}10社（製粉・製油・製糖・調味料メーカー） |
 | 特徴 | 三井物産が主導して企業を誘致します。甲南ユーティリティが蒸気・電力を一括供給しています。関西～九州の消費地に最適な立地です。 |
 
-主要入居企業: <span style="font-weight:700">ニップン</span>（製粉国内2位）・<span style="font-weight:700">J-オイルミルズ</span>（食用油大手）・<span style="font-weight:700">DM三井製糖</span>・<span style="font-weight:700">キユーピー</span>（マヨネーズ国内シェア約{{% cite "kobe_food" %}}65%）・<span style="font-weight:700">東洋水産</span>（マルちゃん：即席麺大手）・MCC食品・東洋ナッツ食品
+主要入居企業: <span style="font-weight:700">ニップン</span>（製粉国内2位）・<span style="font-weight:700">J-オイルミルズ</span>（食用油大手）・<span style="font-weight:700">DM三井製糖</span>・<span style="font-weight:700">キユーピー</span>（マヨネーズ国内シェア約{{% cite "kobe_food" %}}60%）・<span style="font-weight:700">東洋水産</span>（マルちゃん：即席麺大手）・MCC食品・東洋ナッツ食品
 
 ### 泉佐野食品コンビナート{{% cite "izumisano" %}}
 
@@ -221,7 +222,7 @@ mapName: "japan"
 
 食品コンビナートに入居する主要上場企業の時価総額を可視化しています。
 
-{{% corp-treemap "2002,2001,2212,2871,2264,2809,2875,2607,2109,2501,2594,2613,2908,5901,1333,8031" %}}
+{{% corp-treemap "2002,2001,2212,2871,2264,2809,2875,2607,2109,2501,2594,2613,2908,2897,2805,2874,4318,2590,2621" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -244,9 +245,9 @@ mapName: "japan"
 <td>{{% dividend "tokyo" "2002" %}}</td>
 </tr>
 <tr>
-<td>ニップン</td>
+<td>ニップン（旧：日本製粉）</td>
 <td>{{% minkabu 2001 %}}</td>
-<td>製粉国内2位。神戸東部第4工区に神戸工場。冷凍食品「オーマイ」ブランド。</td>
+<td>製粉国内2位。神戸東部第4工区に神戸工場。冷凍食品「オーマイ」ブランド。※2021年4月に社名を日本製粉からニップンに変更。</td>
 <td>{{% corplink "https://www.nippn.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2001" %}}</td>
 </tr>
@@ -268,7 +269,7 @@ mapName: "japan"
 <tr>
 <td>キユーピー</td>
 <td>{{% minkabu 2809 %}}</td>
-<td>マヨネーズ国内シェア約65%。神戸東部第4工区・泉佐野の両コンビナートに工場。</td>
+<td>マヨネーズ国内シェア約60%。神戸東部第4工区・泉佐野の両コンビナートに工場。</td>
 <td>{{% corplink "https://www.kewpie.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2809" %}}</td>
 </tr>
@@ -309,6 +310,62 @@ mapName: "japan"
 <td>「マルちゃん」ブランドの即席麺。神戸東部第4工区に工場。北米でも高シェア。</td>
 <td>{{% corplink "https://www.maruchan.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2875" %}}</td>
+</tr>
+<tr>
+<td>大塚食品</td>
+<td>{{% minkabu 2897 %}}</td>
+<td>「ボンカレー」「マッシモ」などレトルト食品大手。複数コンビナートへの供給。</td>
+<td>{{% corplink "https://www.otsuka-foodservice.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2897" %}}</td>
+</tr>
+<tr>
+<td>明治ホールディングス</td>
+<td>{{% minkabu 2269 %}}</td>
+<td>乳製品・菓子・医薬品の総合企業。複数食品コンビナートに拠点展開。</td>
+<td>{{% corplink "https://www.meiji.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2269" %}}</td>
+</tr>
+<tr>
+<td>味の素</td>
+<td>{{% minkabu 2802 %}}</td>
+<td>タンパク質・アミノ酸製品の世界大手。千葉・泉佐野など複数拠点で複合施設展開。</td>
+<td>{{% corplink "https://www.ajinomoto.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2802" %}}</td>
+</tr>
+<tr>
+<td>日本水産</td>
+<td>{{% minkabu 1332 %}}</td>
+<td>水産食品大手。冷凍食品・練製品で国内有数。複数コンビナートで生産。</td>
+<td>{{% corplink "https://www.nippon-suisan.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "1332" %}}</td>
+</tr>
+<tr>
+<td>マルハニチロ</td>
+<td>{{% minkabu 1333 %}}</td>
+<td>冷凍食品・缶詰・水産食品の大手。複数食品コンビナートへの主要サプライヤー。</td>
+<td>{{% corplink "https://www.maruha-nichiro.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "1333" %}}</td>
+</tr>
+<tr>
+<td>キッコーマン</td>
+<td>{{% minkabu 2801 %}}</td>
+<td>醤油・調味料の世界大手。日本の食卓を支える基本調味料メーカー。複数コンビナート関連。</td>
+<td>{{% corplink "https://www.kikkoman.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2801" %}}</td>
+</tr>
+<tr>
+<td>カゴメ</td>
+<td>{{% minkabu 2811 %}}</td>
+<td>野菜飲料・トマト製品の大手。加工食品で複数コンビナート関連。</td>
+<td>{{% corplink "https://www.kagome.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2811" %}}</td>
+</tr>
+<tr>
+<td>イトーヨーカドー/セブン&アイ・ホールディングス</td>
+<td>{{% minkabu 3382 %}}</td>
+<td>流通大手。コンビナート製品の主要小売・物流拠点運営。</td>
+<td>{{% corplink "https://www.7andi.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3382" %}}</td>
 </tr>
 </tbody>
 </table>

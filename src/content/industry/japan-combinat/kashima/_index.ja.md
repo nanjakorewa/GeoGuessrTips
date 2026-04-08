@@ -5,6 +5,7 @@ date: 2026-03-22
 lastmod: 2026-03-22
 description: "茨城県鹿嶋市・神栖市の鹿島臨海工業地帯を詳解。日本製鉄鹿島製鉄所の高炉生産能力・掘込港湾「鹿島港」の物流規模・国家プロジェクトとして建設された経緯など。"
 weight: 20
+galleryDir: "japan-combinat-kashima"
 ---
 
 ## 基本データ
@@ -108,7 +109,7 @@ weight: 20
 
 ## 関連企業の時価総額マップ
 
-{{% corp-treemap "5401,4005,4188,5020,4463" %}}
+{{% corp-treemap "5401,4188,4005,5020,4063,3407,4046,4208" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -149,6 +150,34 @@ weight: 20
 <td>傘下の鹿島石油が鹿嶋市に製油所（180千BD）を保有。石油精製・石油化学の原料ナフサを鹿島コンビナートに供給。</td>
 <td>{{% corplink "https://www.hd.eneos.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5020" %}}</td>
+</tr>
+<tr>
+<td>信越化学工業</td>
+<td>{{% minkabu 4063 %}}</td>
+<td>鹿島に大規模な化学品生産拠点。ポリ塩化ビニル・シリコーン樹脂・電子材料で国内最大級。多くのコンビナートで戦略的に立地。</td>
+<td>{{% corplink "https://www.shinetsu.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4063" %}}</td>
+</tr>
+<tr>
+<td>旭化成</td>
+<td>{{% minkabu 3407 %}}</td>
+<td>複数の工場を保有。LIBセパレーター・建材・医薬品・繊維で事業多角化。水島発祥だが全国展開。</td>
+<td>{{% corplink "https://www.asahi-kasei.com/jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3407" %}}</td>
+</tr>
+<tr>
+<td>大阪ソーダ</td>
+<td>{{% minkabu 4046 %}}</td>
+<td>塩素・アルカリ化学品・香料・医薬品中間体を製造。北日本・西日本のコンビナート立地。</td>
+<td>{{% corplink "https://www.osakasoda.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4046" %}}</td>
+</tr>
+<tr>
+<td>昭和電工（Resonac）</td>
+<td>{{% minkabu 4208 %}}</td>
+<td>複数のコンビナートに拠点。機能化学品・電子材料・エネルギーソリューション。2024年Resonac改称。</td>
+<td>{{% corplink "https://www.resonac.com/ja/" %}}</td>
+<td>{{% dividend "tokyo" "4208" %}}</td>
 </tr>
 </tbody>
 </table>

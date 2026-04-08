@@ -6,6 +6,7 @@ lastmod: 2026-04-07
 description: "日本の板ガラス・特殊ガラス産業を解説。AGC（旧旭硝子）・日本板硝子（NSG）・日本電気硝子（NEG）の3大メーカーと、フロート板ガラス・自動車用ガラス・液晶ディスプレイ用ガラスの製造拠点・市場構造を整理。"
 weight: 35
 mapName: "japan"
+galleryDir: "japan-glass"
 ---
 
 ## 日本の板ガラス産業の概観
@@ -14,7 +15,7 @@ mapName: "japan"
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">3社</div><div class="stat-label">3大メーカー（AGC・NSG・NEG）</div></div>
-<div class="stat-card"><div class="stat-num">2.07兆円{{% cite "agc_fy2024" %}}</div><div class="stat-label">AGC連結売上（2024年12月期）</div></div>
+<div class="stat-card"><div class="stat-num">2.10兆円{{% cite "agc_fy2024" %}}</div><div class="stat-label">AGC連結売上（2024年12月期）</div></div>
 <div class="stat-card"><div class="stat-num">8,325億円{{% cite "nsg_fy2024" %}}</div><div class="stat-label">NSG連結売上（2024年3月期）</div></div>
 <div class="stat-card"><div class="stat-num">2006{{% cite "nsg_company" %}}</div><div class="stat-label">NSGが英Pilkington買収（"小蛇が大蛇を呑む"）</div></div>
 </div>
@@ -59,8 +60,63 @@ mapName: "japan"
 ## 日本のガラスメーカー時価総額マップ
 
 <div class="corp-treemap-section">
-<div class="corp-treemap" data-companies='[{"t":"5201","n":"AGC","s":"\u30ac\u30e9\u30b9","v":1.2,"c":"#0891b2"},{"t":"5214","n":"\u65e5\u672c\u96fb\u6c17\u785d\u5b50","s":"\u7279\u6b8a\u30ac\u30e9\u30b9","v":0.3,"c":"#0891b2"},{"t":"5202","n":"NSG\uff08\u65e5\u672c\u677f\u785d\u5b50\uff09","s":"\u30ac\u30e9\u30b9","v":0.05,"c":"#0891b2"}]'></div>
-<p class="treemap-note">※ HOYA（7741）は光学・医療が主体のため別。</p>
+<div class="corp-treemap" data-companies='[{"t":"5201","n":"AGC","s":"ガラス","v":1.2,"c":"#0891b2"},{"t":"7741","n":"HOYA","s":"光学・医療","v":0.8,"c":"#06b6d4"},{"t":"5214","n":"日本電気硝子","s":"特殊ガラス","v":0.3,"c":"#0891b2"},{"t":"5202","n":"NSG","s":"ガラス","v":0.05,"c":"#0891b2"},{"t":"5334","n":"セントラルガラス","s":"特殊ガラス","v":0.088,"c":"#0891b2"}]'></div>
+<p class="treemap-note">※ HOYAは光学・医療機器が主体だが、フォトマスク向けガラス基板の戦略的位置付けから含む。</p>
+</div>
+
+## 関連企業の時価総額マップと企業情報
+
+<div class="container-corp mt-5" id="corp-desc">
+<table class="table table-striped table-bordered">
+<thead class="table-light">
+<tr>
+<th class="col-width-2">企業</th>
+<th class="col-width-1">証券コード</th>
+<th class="col-width-7">事業概要</th>
+<th class="col-width-05">決算情報</th>
+<th class="col-width-05">配当履歴</th>
+</tr>
+</thead>
+<tbody class="corp-desc">
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 板ガラス・フロートガラス大手</td></tr>
+<tr>
+<td>AGC</td>
+<td>{{% minkabu 5201 %}}</td>
+<td>世界1～2位のフロートガラスメーカー。建築用フロートガラス・自動車用ガラス・液晶ディスプレイ用ガラスから化学・電子材料まで幅広く展開。EUVマスクブランクスで世界有数{{% cite "agc_company" %}}。</td>
+<td>{{% corplink "https://www.agc.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5201" %}}</td>
+</tr>
+<tr>
+<td>日本板硝子（NSG）</td>
+<td>{{% minkabu 5202 %}}</td>
+<td>1918年創業。2006年に英Pilkington買収で世界トップ級に成長。建築用・自動車用ガラスの大手。現在は構造改革進行中{{% cite "nsg_company" %}}。</td>
+<td>{{% corplink "https://www.nsg.com/jp/" %}}</td>
+<td>{{% dividend "tokyo" "5202" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 特殊ガラス・光学</td></tr>
+<tr>
+<td>日本電気硝子</td>
+<td>{{% minkabu 5214 %}}</td>
+<td>液晶ディスプレイ用ガラス基板で世界トップ3。ガラスファイバー・医薬用バイアルなど特殊ガラスに特化。滋賀県大津市本社{{% cite "neg_company" %}}。</td>
+<td>{{% corplink "https://www.neg.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5214" %}}</td>
+</tr>
+<tr>
+<td>HOYA</td>
+<td>{{% minkabu 7741 %}}</td>
+<td>光学・医療機器大手。EUVリソグラフィ向けフォトマスク基板（合成石英ガラス）で世界シェア首位。眼鏡レンズ・内視鏡等も展開{{% cite "hoya_company" %}}。</td>
+<td>{{% corplink "https://www.hoya.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "7741" %}}</td>
+</tr>
+<tr>
+<td>セントラルガラス</td>
+<td>{{% minkabu 5334 %}}</td>
+<td>自動車用ガラス・液晶用ガラス・光学ガラスの専業メーカー。中堅だが特殊ガラス分野で競争力を持つ。</td>
+<td>{{% corplink "https://www.cgg.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "5334" %}}</td>
+</tr>
+</tbody>
+</table>
 </div>
 
 ## 参考文献

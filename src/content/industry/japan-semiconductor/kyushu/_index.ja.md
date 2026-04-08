@@ -5,6 +5,7 @@ date: 2026-03-25
 lastmod: 2026-03-25
 description: "熊本を中心とする九州半導体クラスターを詳解。TSMC熊本工場（JASM）の生産規模・ソニーCMOSイメージセンサー・ルネサス大分・歴史的経緯と主要上場企業データ。"
 weight: 10
+galleryDir: "japan-semiconductor-kyushu"
 ---
 
 ## 基本データ

@@ -6,6 +6,7 @@ lastmod: 2026-03-29
 description: "日本の国家石油備蓄基地10か所とLPガス備蓄基地5か所を解説。地上タンク・地下岩盤・洋上貯蔵の3方式と、各基地の備蓄量・所在地・貯蔵方式を地図付きで整理。"
 weight: 30
 mapName: "japan"
+galleryDir: "japan-stockpile"
 ---
 
 <script>
@@ -136,7 +137,7 @@ mapName: "japan"
   <div class="stat-card">
     <p class="stat-card__label">国家石油備蓄基地</p>
     <p class="stat-card__value">10</p>
-    <p class="stat-card__unit">か所（合計約4,000万kL）{{% cite "jogmec_oil_method" %}}</p>
+    <p class="stat-card__unit">か所（合計約4,600万kL）{{% cite "jogmec_oil_method" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">国家LPガス備蓄基地</p>
@@ -181,7 +182,7 @@ mapName: "japan"
   </div>
 </div>
 
-地上タンクに比べ、<span style="font-weight:700">地震に極めて強く火災リスクが低い</span>ことが最大の利点です。2011年の東日本大震災でも久慈基地（岩手県）は被害を受けず、地下備蓄の耐災害性が実証されました。また地上の土地を有効活用でき、景観への影響も少ないという特徴があります{{% cite "jogmec_system" %}}。
+地上タンクに比べ、<span style="font-weight:700">地震に極めて強く火災リスクが低い</span>ことが最大の利点です。2011年の東日本大震災では久慈基地（岩手県）で排水タンクが流出し１基のスラッジタンクが傾斜するなど表面施設に被害が生じましたが、地下岩盤部分は損傷を受けず、地下備蓄の耐災害性が実証されました。また地上の土地を有効活用でき、景観への影響も少ないという特徴があります{{% cite "jogmec_system" %}}。
 
 ## 国家石油備蓄基地（10か所）
 
@@ -263,14 +264,14 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 
 国家備蓄は「貯めておくだけ」ではなく、実際に危機時に放出された実績があります。
 
-- <span style="font-weight:700">2011年 東日本大震災</span>: 製油所の被災により供給が逼迫しました。政府は民間備蓄義務日数を70日から45日に引き下げ、事実上の備蓄放出を実施しました。また久慈基地（水封式地下岩盤）は震度5強の揺れにも被害なく、地下備蓄の耐震性が実証されました。
+- <span style="font-weight:700">2011年 東日本大震災</span>: 製油所の被災により供給が逼迫しました。政府は民間備蓄義務日数を70日から45日に引き下げ、事実上の備蓄放出を実施しました。久慈基地（水封式地下岩盤）では排水タンクの流出やスラッジタンクの傾斜などの表面施設被害が生じましたが、地下岩盤部分は損傷なく、地下備蓄の耐災害性が実証されました。
 - <span style="font-weight:700">2022年 ウクライナ情勢</span>: ロシアのウクライナ侵攻に伴う原油価格高騰を受け、IEA加盟国と協調して日本は国家備蓄から約1,500万バレルを放出しました{{% cite "meti_release2022" %}}。これは日本のエネルギー安全保障政策における大きな転換点となりました。
 
 ## 関連企業の時価総額マップ
 
 石油・LPガスの備蓄制度に関連する上流開発・元売り・LPガス企業の時価総額を可視化しています。
 
-{{% corp-treemap "1605,5020,5019,5021,1662,8088,5009" %}}
+{{% corp-treemap "1605,5020,5019,5021,1662,8088,5009,8001,8031,8058" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -335,6 +336,28 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 <td>LPガス国内最大手。LPガス備蓄制度における民間備蓄の主要な担い手。水素ステーション事業も展開。</td>
 <td>{{% corplink "https://www.iwatani.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8088" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 商社（国際LNG・石油調達）</td></tr>
+<tr>
+<td>三菱商事</td>
+<td>{{% minkabu 8058 %}}</td>
+<td>国際LNG・石油プロジェクトの主要投資家。備蓄原油の安定供給に関与。</td>
+<td>{{% corplink "https://www.mitsubishicorp.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "8058" %}}</td>
+</tr>
+<tr>
+<td>三井物産</td>
+<td>{{% minkabu 8031 %}}</td>
+<td>LNG・石油上流事業での国際協力。備蓄制度の供給源確保に関与。</td>
+<td>{{% corplink "https://www.mitsui.com/mgssi/en/ir/" %}}</td>
+<td>{{% dividend "tokyo" "8031" %}}</td>
+</tr>
+<tr>
+<td>伊藤忠商事</td>
+<td>{{% minkabu 8001 %}}</td>
+<td>国際エネルギー事業・LNG調達の主要プレイヤー。石油備蓄の安定確保を支援。</td>
+<td>{{% corplink "https://www.itochu.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "8001" %}}</td>
 </tr>
 </tbody>
 </table>

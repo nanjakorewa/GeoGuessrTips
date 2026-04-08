@@ -6,6 +6,7 @@ lastmod: 2026-04-07
 description: "世界の農産物トレードを俯瞰。Cargill・ADM・Bunge・Louis Dreyfus（ABCD）と中国COFCO、米コーンベルト・ブラジルマトグロッソ・黒海・豪州など主要穀倉地帯、シカゴ商品取引所（CBOT）の小麦・大豆・コーン先物までを解説。"
 weight: 28
 mapName: "world"
+galleryDir: "world-agriculture"
 ---
 
 ## 世界の穀物トレードの概観
@@ -29,21 +30,21 @@ mapName: "world"
 | D | Louis Dreyfus Company（LDC）| 1851 | <img src="/flags/NL.svg" alt="NL" class="inline-flag" width="20" height="14" loading="lazy" /> ロッテルダム | ~$56B | 非公開 |
 | C | COFCO International | 1949 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 北京 | ~$70B | 非公開（国有）|
 
-> <span style="font-weight:700">2024年Bunge × Viterra合併</span> : 2024年にBungeがGlencore傘下のViterraを買収し、合計売上で<span style="font-weight:700">Cargillに次ぐ世界2位</span> の穀物商社となりました。
+> <span style="font-weight:700">2025年6月Bunge × Viterra合併完了</span> : BungeがGlencore傘下のViterraを買収する契約は2023年6月に合意され、2025年6月16日に完了しました。この合併により、合計売上で<span style="font-weight:700">Cargillに次ぐ世界2位</span> の穀物商社となりました。
 
 ## 主要穀物の世界生産・輸出構造
 
 ### 小麦（Wheat）
 
-| 順位 | 生産国 | 生産量 | 輸出国 | 輸出量 |
+| 順位 | 生産国 | 生産量（2024/25） | 輸出国 | 輸出量（2024/25推定） |
 | --- | --- | --- | --- | --- |
-| 1 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | ~1.4億t | <img src="/flags/RU.svg" alt="RU" class="inline-flag" width="20" height="14" loading="lazy" /> ロシア | ~5,000万t |
+| 1 | <img src="/flags/CN.svg" alt="CN" class="inline-flag" width="20" height="14" loading="lazy" /> 中国 | ~1.4億t | <img src="/flags/RU.svg" alt="RU" class="inline-flag" width="20" height="14" loading="lazy" /> ロシア | ~2,940万t |
 | 2 | <img src="/flags/IN.svg" alt="IN" class="inline-flag" width="20" height="14" loading="lazy" /> インド | ~1.1億t | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~2,500万t |
-| 3 | <img src="/flags/RU.svg" alt="RU" class="inline-flag" width="20" height="14" loading="lazy" /> ロシア | ~9,000万t | <img src="/flags/CA.svg" alt="CA" class="inline-flag" width="20" height="14" loading="lazy" /> カナダ | ~2,500万t |
+| 3 | <img src="/flags/RU.svg" alt="RU" class="inline-flag" width="20" height="14" loading="lazy" /> ロシア | ~8.15億t | <img src="/flags/CA.svg" alt="CA" class="inline-flag" width="20" height="14" loading="lazy" /> カナダ | ~2,500万t |
 | 4 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> 米国 | ~5,000万t | <img src="/flags/FR.svg" alt="FR" class="inline-flag" width="20" height="14" loading="lazy" /> フランス（EU）| ~2,000万t |
 | 5 | <img src="/flags/CA.svg" alt="CA" class="inline-flag" width="20" height="14" loading="lazy" /> カナダ | ~3,500万t | <img src="/flags/AU.svg" alt="AU" class="inline-flag" width="20" height="14" loading="lazy" /> オーストラリア | ~2,000万t |
 
-ロシアは2010年代後半から世界最大の小麦輸出国となりました{{% cite "usda_psd" %}}。
+ロシアは2010年代後半から世界最大の小麦輸出国となりました{{% cite "usda_psd" %}}。ただし、2024/25年度はロシアの輸出が制限されており、2月-6月期は輸出割当が1,060万tに大幅削減されています{{% cite "usda_wheat_outlook_2025" %}}。
 
 ### トウモロコシ（コーン、Maize）
 
@@ -129,7 +130,7 @@ CBOT（シカゴ商品取引所、現CME Group）は1848年設立で{{% cite "cb
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#059669"></span>穀物・油糧</span>
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#d97706"></span>砂糖・パーム</span>
 </div>
-<div class="corp-treemap" data-companies='[{"t":"ADM","n":"ADM","s":"\u7a40\u7269","v":4.2,"c":"#059669"},{"t":"F34.SI","n":"Wilmar International","s":"\u30d1\u30fc\u30e0","v":2.7,"c":"#d97706"},{"t":"BG","n":"Bunge","s":"\u7a40\u7269","v":2.3,"c":"#059669"},{"t":"BARN.SW","n":"Barry Callebaut","s":"\u30ab\u30ab\u30aa","v":1.2,"c":"#d97706"},{"t":"4197.KL","n":"Sime Darby Plant.","s":"\u30d1\u30fc\u30e0","v":0.75,"c":"#d97706"},{"t":"CSAN3","n":"Cosan","s":"\u7802\u7cd6","v":0.75,"c":"#d97706"},{"t":"RAIZ4","n":"Ra\u00edzen","s":"\u7802\u7cd6","v":0.75,"c":"#d97706"},{"t":"O39.SI","n":"Olam Group","s":"\u7a40\u7269","v":0.45,"c":"#059669"},{"t":"E5H.SI","n":"Golden Agri","s":"\u30d1\u30fc\u30e0","v":0.3,"c":"#d97706"}]'></div>
+<div class="corp-treemap" data-companies='[{"t":"DE","n":"Deere","s":"農機","v":7.5,"c":"#065f46"},{"t":"ADM","n":"ADM","s":"穀物","v":4.2,"c":"#059669"},{"t":"BG","n":"Bunge","s":"穀物","v":2.3,"c":"#059669"},{"t":"AGCO","n":"AGCO","s":"農機","v":1.8,"c":"#065f46"},{"t":"F34.SI","n":"Wilmar International","s":"パーム","v":2.7,"c":"#d97706"},{"t":"CTVA","n":"Corteva","s":"種子・農薬","v":1.5,"c":"#10b981"},{"t":"CNH","n":"CNH Industrial","s":"農機","v":1.2,"c":"#065f46"},{"t":"BARN.SW","n":"Barry Callebaut","s":"カカオ","v":1.2,"c":"#d97706"},{"t":"MOS","n":"Mosaic","s":"肥料","v":1.05,"c":"#78716c"},{"t":"TSN","n":"Tyson Foods","s":"畜産食品","v":1.05,"c":"#f59e0b"},{"t":"CF","n":"CF Industries","s":"肥料","v":0.9,"c":"#78716c"},{"t":"4197.KL","n":"Sime Darby Plant.","s":"パーム","v":0.75,"c":"#d97706"},{"t":"CSAN3","n":"Cosan","s":"砂糖","v":0.75,"c":"#d97706"},{"t":"RAIZ4","n":"Raízen","s":"砂糖","v":0.75,"c":"#d97706"},{"t":"FMC","n":"FMC Corp","s":"農薬","v":0.6,"c":"#10b981"},{"t":"CAG","n":"Conagra","s":"食品","v":0.6,"c":"#f59e0b"},{"t":"GIS","n":"General Mills","s":"食品","v":0.6,"c":"#f59e0b"},{"t":"DAR","n":"Darling Ingredients","s":"副産物","v":0.45,"c":"#78716c"},{"t":"O39.SI","n":"Olam Group","s":"穀物","v":0.45,"c":"#059669"},{"t":"CALM","n":"Cal-Maine","s":"鶏卵","v":0.3,"c":"#f59e0b"},{"t":"E5H.SI","n":"Golden Agri","s":"パーム","v":0.3,"c":"#d97706"},{"t":"LNN","n":"Lindsay","s":"灌漑","v":0.2,"c":"#065f46"}]'></div>
 <p class="treemap-note">※ 面積は時価総額（概算・1ドル=150円換算）。Cargill・Louis Dreyfus・COFCO Internationalは非上場のため除外。</p>
 </div>
 
@@ -140,12 +141,13 @@ oxfam_grain_traders: Oxfam「Cereal Secrets: The world's largest grain traders a
 cme_grains: CME Group「Grains and Oilseeds Overview」<https://www.cmegroup.com/markets/agriculture/grains.html>
 fao_food_outlook: FAO「Food Outlook」<https://www.fao.org/giews/reports/food-outlook/en/>
 usda_psd: USDA FAS「Production, Supply and Distribution Database」<https://apps.fas.usda.gov/psdonline/>
+usda_wheat_outlook_2025: USDA ERS「Wheat Outlook: March 2025」<https://ers.usda.gov/sites/default/files/_laserfiche/outlooks/111138/WHS-25c.pdf>
 jetro_agri: JETRO「世界の農林水産物貿易」<https://www.jetro.go.jp/world/reports/>
 farm_action_concentration: Farm Action「Agricultural System Concentration Data」<https://farmaction.us/wp-content/uploads/2024/08/Farm-Action-Concentration-Data_8.20.24.pdf>
-bunge_wikipedia: Wikipedia「Bunge Global」<https://en.wikipedia.org/wiki/Bunge_Global>
+bunge_viterra_completion: Bunge「Bunge and Viterra Complete Merger to Create Premier Global Agribusiness Solutions Company」<https://bunge.com/Press-Releases/Bunge-and-Viterra-Complete-Merger-to-Create-Premier-Global-Agribusiness-Solutions-Company>
 bunge_switzerland: Bunge「Bunge Completes Move of Place of Incorporation to Switzerland」<https://investors.bunge.com/news-and-events/press-releases/2023/01-11-2023-132451677>
 adm_chicago: ADM「ADM Opens Global Headquarters and Customer Center in Chicago」<https://investors.adm.com/news/news-details/2014/ADM-Opens-Global-Headquarters-and-Customer-Center-in-Chicago/default.aspx>
-cargill_revenue_2024: Milling Middle East & Africa Magazine「Cargill reports US$160B in revenue for fiscal 2024 amid market challenges」<https://millingmea.com/cargill-reports-us160b-in-revenue-for-fiscal-2024-amid-market-challenges/>
+cargill_revenue_2024: Cargill「2024 Annual Report」<https://www.cargill.com/doc/1432263180474/2024-annual-report.pdf>
 cbot_history: CME Group「History of CME Group」<https://www.cmegroup.com/ja/about/history-of-cme-group.html>
-china_wheat_production: 日本外務省「小麦の生産量の多い国」<https://www.mofa.go.jp/mofaj/kids/ranking/wheat.html>
+faostat: FAO「FAOSTAT — Food and Agriculture Statistics」<https://www.fao.org/faostat/>
 {{% /references %}}

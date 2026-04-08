@@ -1,22 +1,23 @@
 ---
 title: "日本のベアリング（軸受）産業"
-subtitle: "NSK・NTN・JTEKT・ミネベアミツミ — 世界シェア4割の精密機械産業"
+subtitle: "NSK・NTN・JTEKT・ミネベアミツミ — 高精度でグローバル競争力を持つ精密機械産業"
 date: 2026-04-07
 lastmod: 2026-04-07
-description: "日本のベアリング（軸受）産業を解説。NSK・NTN・JTEKT・ミネベアミツミの4大メーカーで世界シェア約40%を占める精密機械産業の構造、SKF・Schaefflerなど海外大手との比較、自動車・産業機械・航空・小型モータ向けの市場分布を整理。"
+description: "日本のベアリング（軸受）産業を解説。NSK・NTN・JTEKT・ミネベアミツミの4大メーカーによる高精度・高性能ベアリングの製造基盤、SKF・Schaefflerなど海外大手との比較、自動車・産業機械・航空・小型モータ向けの市場分布を整理。"
 weight: 36
 mapName: "japan"
+galleryDir: "japan-bearing"
 ---
 
 ## 日本のベアリング産業の概観
 
-ベアリング（軸受、Bearing）は回転体を支える機械要素部品で、自動車・産業機械・航空機・家電・小型モータなどあらゆる回転機械に不可欠な「<span style="font-weight:700">機械の米</span>」とも呼ばれる素材です。世界のベアリング市場は約50～150億ドル規模{{% cite "bearing_market_size" %}}で、上位8社（<span style="font-weight:700">SKF / Schaeffler / NSK / NTN / JTEKT / Timken / Minebea Mitsumi / NACHI不二越</span>）で世界の大半を占めますが、このうち<span style="font-weight:700">日本勢4社の合計世界シェアは約40%</span>{{% cite "jbia" %}}に達し、ドイツ・スウェーデン勢と並ぶベアリング大国です。
+ベアリング（軸受、Bearing）は回転体を支える機械要素部品で、自動車・産業機械・航空機・家電・小型モータなどあらゆる回転機械に不可欠な「<span style="font-weight:700">機械の米</span>」とも呼ばれる素材です。世界のベアリング市場は約140～160億ドル規模{{% cite "bearing_market_size" %}}で、上位8社（<span style="font-weight:700">SKF / Schaeffler / NSK / NTN / JTEKT / Timken / Minebea Mitsumi / NACHI不二越</span>）で世界の大半を占めます。日本はベアリング製造技術で世界的に高い評価を受け、特にNSK・NTN・JTEKTなどが自動車・産業機械・航空宇宙分野で国際競争力を有するベアリング大国です。
 
 <div class="stat-grid">
-<div class="stat-card"><div class="stat-num">~40%</div><div class="stat-label">日本ベアリング4社の世界シェア</div></div>
 <div class="stat-card"><div class="stat-num">4社</div><div class="stat-label">主要4社（NSK・NTN・JTEKT・ミネベアミツミ）</div></div>
-<div class="stat-card"><div class="stat-num">50～150億USD</div><div class="stat-label">世界ベアリング市場規模（2025年推計）</div></div>
+<div class="stat-card"><div class="stat-num">140～160億USD</div><div class="stat-label">世界ベアリング市場規模（2025-2026年推計）</div></div>
 <div class="stat-card"><div class="stat-num">8</div><div class="stat-label">世界8大ベアリングメーカー（うち日本4社）</div></div>
+<div class="stat-card"><div class="stat-num">高精度</div><div class="stat-label">日本の国際競争力</div></div>
 </div>
 
 ## 主要4社の比較
@@ -25,7 +26,7 @@ mapName: "japan"
 | --- | --- | --- | --- |
 | <span style="font-weight:700">NSK（日本精工、6471）</span>| 1916{{% cite "nsk_history" %}} | 東京・品川 | 国内最古、自動車向け輪軸受で世界トップ級。深溝玉軸受・テーパローラ・電動パワーステアリング（EPS）まで一貫 |
 | <span style="font-weight:700">NTN（6472）</span>| 1918（軸受製造開始）/ 1927{{% cite "ntn_history" %}}（NTN Mfg.設立） | 大阪・西区 | ドライブシャフト用CVJ（等速ジョイント）でGKNと並ぶ世界大手。自動車用ハブベアリング世界最大級 |
-| <span style="font-weight:700">JTEKT（6473）</span>| 2006{{% cite "jtekt_ir" %}}（光洋精工＋豊田工機合併）| 愛知・刈谷 | 旧光洋精工＋豊田工機の合併。トヨタグループ。EPS世界1位、テーパローラ・自動車用 |
+| <span style="font-weight:700">JTEKT（6473）</span>| 2006{{% cite "jtekt_ir" %}}（光洋精工＋豊田工機合併）| 愛知・刈谷 | 光洋精工（Koyo Seiko）と豊田工機（Toyoda Machine Works）の合併。トヨタグループ。EPS世界1位、テーパローラ・自動車用 |
 | <span style="font-weight:700">ミネベアミツミ（6479）</span>| 1951{{% cite "minebea_history" %}} | 長野・北佐久（軽井沢）/東京 | 小径ボールベアリング世界1位（HDD・小型モータ・OAレンジ）。家電・電子機器向けに圧倒的強み |
 | <span style="font-weight:700">NACHI不二越（6474）</span>| 1928{{% cite "nachi_history" %}} | 富山 | 工作機械主軸用・産業機械用、工具・ロボットも |
 
@@ -77,7 +78,7 @@ mapName: "japan"
 ## 日本のベアリングメーカー時価総額マップ
 
 <div class="corp-treemap-section">
-<div class="corp-treemap" data-companies='[{"t":"6479","n":"\u30df\u30cd\u30d9\u30a2\u30df\u30c4\u30df","s":"\u7dcf\u5408","v":1.0,"c":"#6366f1"},{"t":"6471","n":"NSK","s":"\u30d9\u30a2\u30ea\u30f3\u30b0","v":0.5,"c":"#6366f1"},{"t":"6473","n":"\u30b8\u30a7\u30a4\u30c6\u30af\u30c8","s":"\u30b9\u30c6\u30a2\u30ea\u30f3\u30b0\u30fb\u30d9\u30a2\u30ea\u30f3\u30b0","v":0.4,"c":"#6366f1"},{"t":"6472","n":"NTN","s":"\u30d9\u30a2\u30ea\u30f3\u30b0","v":0.15,"c":"#6366f1"},{"t":"6474","n":"\u4e0d\u4e8c\u8d8a","s":"\u30d9\u30a2\u30ea\u30f3\u30b0\u30fb\u5de5\u5177","v":0.1,"c":"#6366f1"}]'></div>
+<div class="corp-treemap" data-companies='[{"t":"6479","n":"ミネベアミツミ","s":"総合","v":1.0,"c":"#6366f1"},{"t":"6471","n":"NSK","s":"ベアリング","v":0.5,"c":"#6366f1"},{"t":"6473","n":"ジェイテクト","s":"ステアリング・ベアリング","v":0.4,"c":"#6366f1"},{"t":"6472","n":"NTN","s":"ベアリング","v":0.15,"c":"#6366f1"},{"t":"6474","n":"不二越","s":"ベアリング・工具","v":0.1,"c":"#6366f1"}]'></div>
 <p class="treemap-note">※ ミネベアミツミは小型モータ・電子部品も含む連結時価総額。</p>
 </div>
 

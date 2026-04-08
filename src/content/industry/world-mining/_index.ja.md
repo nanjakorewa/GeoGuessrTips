@@ -6,6 +6,7 @@ lastmod: 2026-04-07
 description: "世界の鉱業を俯瞰。BHP・Rio Tinto・Vale・Glencoreなどの資源メジャー、鉄鉱石・銅・リチウム・コバルト・ニッケル・PGMの主要産出国、Pilbara鉄鉱石ベンチマーク、LME価格指標、サプライチェーンの地政学までを解説。"
 weight: 26
 mapName: "world"
+galleryDir: "world-mining"
 ---
 
 ## 世界の鉱業の概観
@@ -46,20 +47,20 @@ mapName: "world"
 | 鉱山 | 国 | 運営企業 | 備考 |
 | --- | --- | --- | --- |
 | Pilbara鉱床群 | 豪州・西オーストラリア州 | Rio Tinto, BHP, FMG | 世界の海上輸出の約半分 |
-| Carajás | ブラジル・パラ州 | Vale | 世界最高品位（66%以上）、全長892kmの鉄道EFC{{% cite "carajas_railway" %}} |
+| Carajás | ブラジル・パラ州 | Vale | 世界最高品位級（65%前後）、Vale運営の鉄道EFC（カラジャス〜ポンタ・ダ・マデイラ港、約892km）で輸送{{% cite "vale_efc" %}} |
 | Hamersley | 豪州・WA | Rio Tinto | 17鉱山の集合体 |
 | Simandou | ギニア | Rio Tinto / Winning Consortium | 2025〜開発、未開発世界最大の高品位鉱床 |
 | 司家営 | 中国・河北 | 河鋼集団 | 国内最大級だが品位低い |
 
 ### 銅（Copper）
 
-電化・EV化で需要が急増中。世界生産の<span style="font-weight:700">約28%</span>をチリが{{% cite "copper_production_2024" %}}、約10%をペルー、約10%をDR Congoが占めます。
+電化・EV化で需要が急増中。USGS Mineral Commodity Summaries 2025によれば2024年の世界銅鉱石生産量は約2,300万tで、世界生産の<span style="font-weight:700">約23%</span>をチリが{{% cite "usgs_copper_2025" %}}、約12%をペルー、約13%をDR Congoが占めます。
 
 | 鉱山 | 国 | 運営企業 | 年産（概算）|
 | --- | --- | --- | --- |
-| Escondida | チリ | BHP（57.5%）, Rio Tinto（30%）, JECO（12.5%）| ~128万t/年（世界最大、2024年）{{% cite "escondida_production" %}}
+| Escondida | チリ | BHP（57.5%）, Rio Tinto（30%）, JECO（12.5%）| 世界最大の銅鉱山。BHPのFY25ガイダンスは1,845〜2,045kt（暦年2024年下期は644kt）{{% cite "bhp_op_review" %}}
 | Collahuasi | チリ | Anglo American, Glencore, JCR | ~63万t/年 |
-| Grasberg | インドネシア | Freeport-McMoRan, MIND ID | ~68万t/年（金併産、2023年）{{% cite "grasberg_mine" %}}
+| Grasberg | インドネシア | Freeport-McMoRan, MIND ID | 2023年の銅生産量は約680kt（金併産）{{% cite "fcx_2023" %}}
 | Cerro Verde | ペルー | Freeport-McMoRan, 住友商事/住友金属鉱山 | ~45万t/年 |
 | Las Bambas | ペルー | MMG（中国五鉱）| ~40万t/年 |
 | Kamoa-Kakula | DR Congo | Ivanhoe Mines, Zijin | 世界最高品位級（>5%）|
@@ -80,11 +81,11 @@ EV電池の正極材主原料。<span style="font-weight:700">「リチウムト
 
 ### コバルト・ニッケル
 
-EV電池のコバルトは<span style="font-weight:700">DR Congoが世界生産の約70%</span>{{% cite "cobalt_drc" %}}, ニッケルは<span style="font-weight:700">インドネシアが急伸して世界生産の約50%</span>{{% cite "nickel_indonesia" %}}に達しました。Glencore（DR Congo）と中国系企業（Tsingshanなど）が主要プレイヤーです。
+EV電池のコバルトは<span style="font-weight:700">DR Congoが世界生産の約74%</span>{{% cite "usgs_cobalt_2025" %}}、ニッケルは<span style="font-weight:700">インドネシアが急伸して世界生産の約60%</span>{{% cite "usgs_nickel_2025" %}}に達しました。Glencore（DR Congo）と中国系企業（Tsingshanなど）が主要プレイヤーです。
 
 ### 白金族金属（PGM: Pt, Pd, Rh）
 
-自動車触媒・水素電解槽の重要金属。プラチナは<span style="font-weight:700">南アフリカが世界生産の約75%</span>{{% cite "platinum_southafrica" %}}, パラジウムは<span style="font-weight:700">ロシア（Norilsk Nickel）が約40%</span>を握ります。詳細は別ページ「[南アフリカのPGM・レアメタル](/industry/south-africa-mining/)」を参照。
+自動車触媒・水素電解槽の重要金属。プラチナは<span style="font-weight:700">南アフリカが世界生産の約7割</span>{{% cite "usgs_pgm_2025" %}}、パラジウムは<span style="font-weight:700">ロシア（Norilsk Nickel）が約4割</span>{{% cite "usgs_pgm_2025" %}}を握ります。詳細は別ページ「[南アフリカのPGM・レアメタル](/industry/south-africa-mining/)」を参照。
 
 ## 鉄鉱石・銅・リチウム価格指標
 
@@ -111,19 +112,16 @@ LMEは1877年設立の世界最古の金属取引所で、<span style="font-weig
 
 | 年 | 出来事 | 概要 |
 | --- | --- | --- |
-| 1990年代半ば | <span style="font-weight:700">住友商事「ミスター5%」事件</span> | トレーダー浜中泰男氏がLME銅価格を不正操作。 |
-| 1995年末 | <span style="font-weight:700">銅価格の急落</span> | 中国の増産で価格が暴落し、住友商事に約3,000億円の巨額損失。 |
+| 1995年末 | <span style="font-weight:700">銅価格の急落</span> | 中国の増産で価格が暴落、住友商事に約2,800億円の巨額損失。 |
 | 2001年 | <span style="font-weight:700">BHPがビリトンを買収</span> | 「BHP Billiton」誕生。鉄鉱石依存から脱却し、世界最大級の銅生産者へ。 |
 | 2006年 | <span style="font-weight:700">Freeport-McMoRanがPhelps Dodgeを買収</span> | 買収額250億ドル。一時BHPを抜き世界最大の銅生産者に。 |
 | 2007年 | <span style="font-weight:700">BHPによるRio Tinto買収提案（破談）</span> | 独占禁止法と金融危機の影響で実現せず。 |
-| 2013年 | <span style="font-weight:700">GlencoreがXstrataを買収</span> | 約900億ドルの巨額統合で、Glencoreが世界トップクラスのメジャーへ変貌。 |
-| 2023年 | <span style="font-weight:700">GlencoreがTeck Resourcesに買収提案</span> | スイスのGlencoreがカナダのTeckに225億ドルを提示するも、石炭事業の切り離し要求などで拒否される。 |
-| 2023年（3か月後） | <span style="font-weight:700">中東マネー参戦：サウジPIFがVale Base Metalsへ出資</span> | サウジアラビアのPIFがブラジルVale子会社の株式10%を取得。 |
-| 2023年（さらに5か月後） | <span style="font-weight:700">UAEがザンビア銅鉱山に出資</span> | UAEがザンビアの銅鉱山権益51%を取得。 |
+| 2013年 | <span style="font-weight:700">GlencoreがXstrataを買収</span> | 約620億ドル（株式交換）規模の大型統合で、Glencoreが世界トップクラスのメジャーへ変貌{{% cite "glencore_xstrata" %}}。 |
+| 2023年 | <span style="font-weight:700">中東マネー参戦：サウジPIFがVale Base Metalsへ出資</span> | サウジアラビアのPIFがブラジルVale子会社の株式10%を取得。 |
+| 2023年 | <span style="font-weight:700">UAEがザンビア銅鉱山に出資</span> | UAEがザンビアの銅鉱山権益51%を取得。 |
 | 2024年 | <span style="font-weight:700">BHPによるAnglo American買収提案（拒否）</span> | 世界最大のBHPが490億ドルで提案するも、南ア資産切り離し方針への反発から資源ナショナリズム問題に発展。 |
-| 2025年9月 | <span style="font-weight:700">Anglo-Teckの誕生</span> | BHPの買収を逃れたAnglo Americanがカナダ・Teckと合併。インフラ共有によるコスト削減で世界トップ5の銅生産者へ浮上。 |
+| 2025年9月 | <span style="font-weight:700">Anglo-Teck合併合意</span> | BHPの買収を逃れたAnglo Americanがカナダ・Teckと「対等合併」で合意（2025年9月9日発表、12月に株主承認）。クロージングは12〜18か月後を予定し、世界トップ5の銅生産者となる見込み{{% cite "angloteck_merger" %}}。 |
 | 2026年 | <span style="font-weight:700">銅価格が史上最高値を更新</span> | 日本の総合商社の株価も金属メジャーと並ぶ評価に到達。 |
-| 2026年 | <span style="font-weight:700">Rio TintoとGlencoreの合併計画（報道）</span> | 実現すれば時価総額2,000億ドル（約30兆円）超の世界最大メジャーが誕生する見込み。 |
 
  30年前の「鉄鉱石メジャー」中心の構図から、電化・EV・再エネを背景にした<span style="font-weight:700">銅中心の再編</span>へと軸足が移り、中東ソブリン・中国国有・カナダ系を巻き込んだグローバルな主導権争いが続いています。
 
@@ -136,7 +134,7 @@ LMEは1877年設立の世界最古の金属取引所で、<span style="font-weig
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#fbbf24"></span>金</span>
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#1f2937"></span>石炭</span>
 </div>
-<div class="corp-treemap" data-companies='[{"t":"BHP","n":"BHP Group","s":"鉄鉱石・多角化","v":21.0,"c":"#6b7280"},{"t":"RIO","n":"Rio Tinto","s":"鉄鉱石・多角化","v":16.5,"c":"#6b7280"},{"t":"601088","n":"China Shenhua","s":"石炭","v":14.3,"c":"#1f2937"},{"t":"SCCO","n":"Southern Copper","s":"銅・非鉄","v":12.0,"c":"#d97706"},{"t":"NEM","n":"Newmont","s":"金","v":9.0,"c":"#fbbf24"},{"t":"GLEN.L","n":"Glencore","s":"銅・非鉄","v":8.3,"c":"#d97706"},{"t":"FCX","n":"Freeport-McMoRan","s":"銅・非鉄","v":8.3,"c":"#d97706"},{"t":"VALE","n":"Vale","s":"鉄鉱石・多角化","v":6.8,"c":"#6b7280"},{"t":"AAL.L","n":"Anglo American","s":"鉄鉱石・多角化","v":6.8,"c":"#6b7280"},{"t":"GOLD","n":"Barrick Gold","s":"金","v":4.5,"c":"#fbbf24"},{"t":"AEM","n":"Agnico Eagle","s":"金","v":4.5,"c":"#fbbf24"},{"t":"TECK","n":"Teck Resources","s":"銅・非鉄","v":3.8,"c":"#d97706"},{"t":"AU","n":"AngloGold Ashanti","s":"金","v":2.3,"c":"#fbbf24"}]'></div>
+<div class="corp-treemap" data-companies='[{"t":"BHP","n":"BHP Group","s":"鉄鉱石・多角化","v":21.0,"c":"#6b7280"},{"t":"RIO","n":"Rio Tinto","s":"鉄鉱石・多角化","v":16.5,"c":"#6b7280"},{"t":"SCCO","n":"Southern Copper","s":"銅・非鉄","v":12.0,"c":"#d97706"},{"t":"601088","n":"China Shenhua","s":"石炭","v":14.3,"c":"#1f2937"},{"t":"NEM","n":"Newmont","s":"金","v":9.0,"c":"#fbbf24"},{"t":"GLEN.L","n":"Glencore","s":"銅・非鉄","v":8.3,"c":"#d97706"},{"t":"FCX","n":"Freeport-McMoRan","s":"銅・非鉄","v":8.3,"c":"#d97706"},{"t":"VALE","n":"Vale","s":"鉄鉱石・多角化","v":6.8,"c":"#6b7280"},{"t":"AAL.L","n":"Anglo American","s":"鉄鉱石・多角化","v":6.8,"c":"#6b7280"},{"t":"TECK","n":"Teck Resources","s":"銅・非鉄","v":3.8,"c":"#d97706"},{"t":"GOLD","n":"Barrick Gold","s":"金","v":4.5,"c":"#fbbf24"},{"t":"AEM","n":"Agnico Eagle","s":"金","v":4.5,"c":"#fbbf24"},{"t":"AU","n":"AngloGold Ashanti","s":"金","v":2.3,"c":"#fbbf24"},{"t":"AA","n":"Alcoa","s":"アルミ","v":2.1,"c":"#d97706"},{"t":"CLF","n":"Cleveland-Cliffs","s":"鉄鉱石","v":1.65,"c":"#6b7280"},{"t":"NUE","n":"Nucor","s":"鉄鋼","v":4.5,"c":"#9ca3af"},{"t":"STLD","n":"Steel Dynamics","s":"鉄鋼","v":2.25,"c":"#9ca3af"},{"t":"X","n":"US Steel","s":"鉄鋼","v":0.75,"c":"#9ca3af"},{"t":"CMC","n":"Commercial Metals","s":"鉄鋼","v":1.8,"c":"#9ca3af"},{"t":"HL","n":"Hecla","s":"銀・金","v":0.3,"c":"#fbbf24"},{"t":"CDE","n":"Coeur","s":"銀・金","v":0.2,"c":"#fbbf24"},{"t":"RGLD","n":"Royal Gold","s":"金","v":0.75,"c":"#fbbf24"},{"t":"WPM","n":"Wheaton Precious","s":"銀・金","v":1.5,"c":"#fbbf24"},{"t":"FNV","n":"Franco-Nevada","s":"金","v":2.25,"c":"#fbbf24"},{"t":"MP","n":"MP Materials","s":"レアース","v":0.9,"c":"#10b981"},{"t":"ALB","n":"Albemarle","s":"リチウム","v":1.5,"c":"#10b981"},{"t":"SQM","n":"SQM","s":"リチウム","v":2.25,"c":"#10b981"},{"t":"CENX","n":"Century Aluminum","s":"アルミ","v":0.15,"c":"#d97706"}]'></div>
 <p class="treemap-note">※ 面積は時価総額（概算・1ドル=150円換算）に比例。市況により大きく変動します。</p>
 </div>
 
@@ -149,12 +147,14 @@ iea_critical_minerals2024: IEA「Global Critical Minerals Outlook 2024」<https:
 jogmec_metal: JOGMEC「金属資源情報」<https://mric.jogmec.go.jp/>
 usgs_mcs2025: USGS「Mineral Commodity Summaries 2025」<https://pubs.usgs.gov/periodicals/mcs2025/>
 usgs_iron_ore_2025: USGS「Iron Ore - Mineral Commodity Summaries 2025」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-iron-ore.pdf>
-copper_production_2024: Statista「Copper mine production worldwide total 2024」<https://www.statista.com/statistics/254839/copper-production-by-country/>
-lithium_production_2024: Benchmark Mineral Intelligence「In Charts: Lithium's million tonne year」<https://source.benchmarkminerals.com/article/in-charts-lithiums-million-tonne-year>
-carajas_railway: National Geographic「To carry iron to the world, Brazil's 500-mile rail disrupted countless lives」<https://www.nationalgeographic.com/history/article/to-carry-iron-to-the-world-brazils-500-mile-rail-disrupted-countless-lives>
-escondida_production: Statista「Copper production of Escondida in Chile 2023」<https://www.statista.com/statistics/795528/chile-copper-production-of-escondida/>
-grasberg_mine: Wikipedia「Grasberg mine」<https://en.wikipedia.org/wiki/Grasberg_mine>
-cobalt_drc: Our World in Data「Most of the world's cobalt is mined in the Democratic Republic of Congo, but refined in China」<https://ourworldindata.org/data-insights/most-of-the-worlds-cobalt-is-mined-in-the-democratic-republic-of-congo-but-refined-in-china>
-nickel_indonesia: Wikipedia「Nickel mining in Indonesia」<https://en.wikipedia.org/wiki/Nickel_mining_in_Indonesia>
-platinum_southafrica: Statista「Platinum mine production in South Africa 2010-2024」<https://www.statista.com/statistics/1015227/platinum-production-south-africa/>
+usgs_copper_2025: USGS「Copper - Mineral Commodity Summaries 2025」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-copper.pdf>
+usgs_lithium_2025: USGS「Lithium - Mineral Commodity Summaries 2025」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-lithium.pdf>
+usgs_cobalt_2025: USGS「Cobalt - Mineral Commodity Summaries 2025」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-cobalt.pdf>
+usgs_nickel_2025: USGS「Nickel - Mineral Commodity Summaries 2025」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-nickel.pdf>
+usgs_pgm_2025: USGS「Platinum-Group Metals - Mineral Commodity Summaries 2025」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-platinum-group.pdf>
+vale_efc: Vale / VLI「Carajás Railway (EFC)」<https://www.vli-logistica.com.br/en/ativos-mapa/carajas-railway-efc/>
+bhp_op_review: BHP「Operational review for the half year ended 31 December 2024」<https://www.bhp.com/-/media/documents/media/reports-and-presentations/2025/250121_bhpoperationalreviewforthehalfyearended31december2024.pdf>
+fcx_2023: Freeport-McMoRan「Fourth-Quarter and Year Ended 2023 Results」<https://mms.businesswire.com/media/20240123350644/en/2007704/1/FCX_240124_4Q_2023_Earnings_Release.pdf>
+glencore_xstrata: European Commission「Case M.6541 Glencore/Xstrata」<https://ec.europa.eu/competition/mergers/cases/decisions/m6541_7449_2.pdf>
+angloteck_merger: Anglo American「Anglo American and Teck to combine through a merger of equals (9 Sep 2025)」<https://www.angloamerican.com/media/press-releases/2025/09-09-2025>
 {{% /references %}}

@@ -6,6 +6,7 @@ lastmod: 2026-04-07
 description: "日本の水素・アンモニア拠点を解説。神戸液化水素受入基地、福島FH2R、苫小牧CCS連携、周南カーボンフリーアンモニア構想、JERA碧南火力混焼など主要拠点を一次資料に基づき整理。"
 weight: 35
 mapName: "japan"
+galleryDir: "japan-hydrogen-ammonia"
 ---
 
 <script>
@@ -227,7 +228,7 @@ graph LR
 
 水素・アンモニアサプライチェーンに関わる主要上場企業の時価総額を可視化しています。
 
-{{% corp-treemap "9501,9502,9503,7012,5020,5019,8088,4004,4063,4023,7011,5631" %}}
+{{% corp-treemap "9501,9502,9503,7012,7013,5020,5019,8088,4004,4063,3407,4042,5401,4005,4188,4063,4046" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -327,9 +328,88 @@ graph LR
 <tr>
 <td>日本製鉄</td>
 <td>{{% minkabu 5401 %}}</td>
-<td>高炉水素還元・水素直接還元製鉄の実証を推進{{%cite "nedo_gi_fund" %}}。グリーンイノベーション基金{{%cite "nedo_gi_fund" %}}で「ハイドロゲンスチール」テーマに採択{{% cite "nedo_gi_fund" %}}。</td>
+<td>高炉水素還元・水素直接還元製鉄の実証を推進。グリーンイノベーション基金で「ハイドロゲンスチール」テーマに採択。</td>
 <td>{{% corplink "https://www.nipponsteel.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5401" %}}</td>
+</tr>
+<tr>
+<td>住友化学</td>
+<td>{{% minkabu 4005 %}}</td>
+<td>グリーンイノベーション基金で水電解・低温アンモニア合成に採択。アンモニア関連技術開発を推進。</td>
+<td>{{% corplink "https://www.sumitomo-chem.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4005" %}}</td>
+</tr>
+<tr>
+<td>三菱ケミカル</td>
+<td>{{% minkabu 4188 %}}</td>
+<td>水素・アンモニア関連の機能化学品開発。複数コンビナートでの供給ネットワーク。</td>
+<td>{{% corplink "https://www.mitsubishichem-hd.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4188" %}}</td>
+</tr>
+<tr>
+<td>信越化学工業</td>
+<td>{{% minkabu 4063 %}}</td>
+<td>PVC・ソーダ製造の副生水素活用。水電解関連材料の開発・製造。</td>
+<td>{{% corplink "https://www.shinetsu.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4063" %}}</td>
+</tr>
+<tr>
+<td>大阪ソーダ</td>
+<td>{{% minkabu 4046 %}}</td>
+<td>塩素・アルカリ化学の副生水素活用。アンモニア関連構想への参画。</td>
+<td>{{% corplink "https://www.osakasoda.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "4046" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 自動車・輸送（水素燃料電池）</td></tr>
+<tr>
+<td>トヨタ自動車</td>
+<td>{{% minkabu 7203 %}}</td>
+<td>MIRAIなど燃料電池車（FCV）の開発・販売。Woven Cityで水素社会実験。商用FCV（水素トラック）も開発中。</td>
+<td>{{% corplink "https://www.toyota.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "7203" %}}</td>
+</tr>
+<tr>
+<td>本田技工業</td>
+<td>{{% minkabu 7267 %}}</td>
+<td>クラリティ・フューエル・セルなど燃料電池車の開発。次世代FCV・商用ソリューション開発を推進。</td>
+<td>{{% corplink "https://www.honda.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "7267" %}}</td>
+</tr>
+<tr>
+<td>日野自動車</td>
+<td>{{% minkabu 7205 %}}</td>
+<td>水素燃料電池トラック・バスの開発。大型商用車向けの水素社会対応を推進。</td>
+<td>{{% corplink "https://www.hino.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "7205" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 商社・エネルギー（国際サプライチェーン）</td></tr>
+<tr>
+<td>三井物産</td>
+<td>{{% minkabu 8031 %}}</td>
+<td>国際水素・アンモニア協力の主要プレイヤー。豪州・中東プロジェクトに参画。</td>
+<td>{{% corplink "https://www.mitsui.com/mgssi/en/ir/" %}}</td>
+<td>{{% dividend "tokyo" "8031" %}}</td>
+</tr>
+<tr>
+<td>三菱商事</td>
+<td>{{% minkabu 8058 %}}</td>
+<td>JERA経由で水素・アンモニア事業に参画。国際プロジェクト推進。</td>
+<td>{{% corplink "https://www.mitsubishicorp.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "8058" %}}</td>
+</tr>
+<tr>
+<td>伊藤忠商事</td>
+<td>{{% minkabu 8001 %}}</td>
+<td>国際水素・アンモニアサプライチェーン事業展開。中東・豪州プロジェクト参画。</td>
+<td>{{% corplink "https://www.itochu.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "8001" %}}</td>
+</tr>
+<tr>
+<td>電源開発（J-Power）</td>
+<td>{{% minkabu 9513 %}}</td>
+<td>HESC プロジェクトで豪州水素製造・輸送に参画。国内水素供給の中核を担当。</td>
+<td>{{% corplink "https://www.jpower.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "9513" %}}</td>
 </tr>
 </tbody>
 </table>
