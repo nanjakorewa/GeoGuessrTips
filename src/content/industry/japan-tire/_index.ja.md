@@ -117,12 +117,12 @@ galleryDir: "japan-tire"
 
 ## [日本](/rule/asia/japan/)のタイヤ産業の概観
 
-タイヤは、自動車・トラック・バス・建設機械・航空機など、あらゆる乗り物の<span style="font-weight:700">回転駆動力を支える最重要部品</span>です。世界のタイヤ市場は約143～151億ドル規模{{% cite "tire_market_2024_2025" %}}で、上位10社（<span style="font-weight:700">Michelin / Bridgestone / Goodyear / Continental / Sumitomo Rubber / Pirelli / Hankook / Yokohama / ZC Rubber / Maxxis</span>）で世界の大半を占めます。[日本](/rule/asia/japan/)はタイヤ製造で世界的に高い評価を受け、特にブリヂストンが世界1～2位{{% cite "tire_business_top75" %}}、住友ゴム工業（Dunlop・Falken）が世界5位{{% cite "tire_business_top75" %}}、横浜ゴムが世界8位{{% cite "tire_business_top75" %}}、東洋ゴムも国際競争力を有する<span style="font-weight:700">タイヤ大国</span>です。
+タイヤは、自動車・トラック・バス・建設機械・航空機など、あらゆる乗り物の<span style="font-weight:700">回転駆動力を支える最重要部品</span>です。世界のタイヤ市場は約143～151億ドル規模{{% cite "tire_market_2024_2025" %}}で、上位10社（<span style="font-weight:700">Michelin / Bridgestone / Goodyear / Continental / Sumitomo Rubber / Pirelli / Hankook / Yokohama / ZC Rubber / Maxxis</span>）で世界の大半を占めます。[日本](/rule/asia/japan/)はタイヤ製造で世界的に高い評価を受け、特にブリヂストンが世界2位{{% cite "tire_business_michelin_2024" %}}、住友ゴム工業（Dunlop・Falken）が世界5位{{% cite "tire_business_top75" %}}、横浜ゴムが世界8位{{% cite "tire_business_top75" %}}、東洋ゴムも国際競争力を有する<span style="font-weight:700">タイヤ大国</span>です。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">4社</div><div class="stat-label">主要タイヤメーカー（ブリヂストン・住友ゴム・横浜ゴム・東洋ゴム）</div></div>
 <div class="stat-card"><div class="stat-num">143～151億USD</div><div class="stat-label">世界タイヤ市場規模（2024-2025年）</div></div>
-<div class="stat-card"><div class="stat-num">世界1～2位</div><div class="stat-label">ブリヂストンの世界順位{{% cite "tire_business_michelin_2024" %}}</div></div>
+<div class="stat-card"><div class="stat-num">世界2位</div><div class="stat-label">ブリヂストンの世界順位{{% cite "tire_business_michelin_2024" %}}</div></div>
 <div class="stat-card"><div class="stat-num">EV市場36.3億USD</div><div class="stat-label">EV向けタイヤ市場（2025年）成長中{{% cite "ev_tire_market_2025" %}}</div></div>
 </div>
 
@@ -147,7 +147,7 @@ galleryDir: "japan-tire"
 
 | 企業 | 設立 | 本社 | 株式コード | 特徴 |
 | --- | --- | --- | --- | --- |
-| <span style="font-weight:700">ブリヂストン</span> | 1931{{% cite "bridgestone_history" %}} | 東京・中央区 | 5108 | 1931年3月1日、石橋正二郎が福岡県久留米市で創立{{% cite "bridgestone_official" %}}。世界1～2位。1988年米Firestone買収で急成長{{% cite "bridgestone_firestone_1988" %}}。時価総額約30.3億ドル{{% cite "bridgestone_marketcap_2026" %}} |
+| <span style="font-weight:700">ブリヂストン</span> | 1931{{% cite "bridgestone_history" %}} | 東京・中央区 | 5108 | 1931年3月1日、石橋正二郎が福岡県久留米市で創立{{% cite "bridgestone_official" %}}。世界2位。1988年米Firestone買収で急成長{{% cite "bridgestone_firestone_1988" %}}。時価総額約30.3億ドル{{% cite "bridgestone_marketcap_2026" %}} |
 | <span style="font-weight:700">住友ゴム工業</span> | 1909（住友グループ）/ 1944{{% cite "sumitomo_rubber_history" %}}（独立法人化） | 神戸・中央区 | 5110 | Dunlop・Falkenブランド展開。2025年にDunlop欧州・北米事業を$7.01億で再買収{{% cite "sumitomo_dunlop_2025" %}}、世界5位の地位を強化 |
 | <span style="font-weight:700">横浜ゴム</span> | 1917{{% cite "yokohama_founding" %}} | 平塚・神奈川県 | 5101 | 1917年創立、乗用車OEM向けの高性能タイヤに特化。Avid・BluEarth等プレミアムブランド |
 | <span style="font-weight:700">東洋ゴム / TOYO TIRE</span> | 1945（東洋ゴム工業）/ 2019{{% cite "toyo_tire_history" %}}（東洋ゴム→TOYO TIRE改名） | 伊丹・兵庫県 | 5105 | 創立1945年（戦後）、Toyo Tires・Nittoブランド。軽量・高性能タイヤで OEM/交換市場両対応 |
@@ -215,7 +215,7 @@ EV向けタイヤは、<span style="font-weight:700">高い静粛性・転がり
 
 ## グローバル市場における[日本](/rule/asia/japan/)メーカーの位置
 
-ブリヂストンは世界市場で<span style="font-weight:700">Michelin とシェア1～2位を競う</span>{{% cite "tire_business_michelin_2024" %}}主要プレイヤーです。2024年時点で、Michelin売上28.3億ドル、ブリヂストン推定26.6億ドルと、両社の競争は激化しています。
+ブリヂストンは世界市場で<span style="font-weight:700">Michelinに次ぐ2位</span>{{% cite "tire_business_michelin_2024" %}}の主要プレイヤーです。2024年時点で、Michelin売上28.3億ドル、ブリヂストン推定26.6億ドルと、両社の競争は激化しています。
 
 [日本](/rule/asia/japan/)4社の世界市場シェアを合算すると、世界タイヤ市場全体の約12～15%を占め、独立した地域大手として機能しています。
 
