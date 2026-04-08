@@ -206,7 +206,7 @@ galleryDir: "japan-food-combinat"
 | 入居企業 | {{% cite "izumisano" %}}55社（最多。多業種が集積しています） |
 | 特徴 | 関西国際空港に近接（距離約{{% cite "izumisano" %}}8km）しています。不二製油グループ本社の登記上本店所在地です。液体油脂・チョコレート・製粉が主要産業です。 |
 
-主要入居企業: <span style="font-weight:700">不二製油</span>（植物性油脂世界大手・本社所在・業務用チョコレート世界シェア約{{% cite "izumisano" %}}20%）・<span style="font-weight:700">キユーピー</span>泉佐野工場・<span style="font-weight:700">東洋製罐</span>大阪工場・鳥越製粉・関西製糖・[日本](/rule/asia/japan/)ハム大阪工場
+主要入居企業: <span style="font-weight:700">不二製油</span>（植物性油脂世界大手・本社所在・業務用チョコレート世界シェア約{{% cite "izumisano" %}}20%）・<span style="font-weight:700">キユーピー</span>泉佐野工場・<span style="font-weight:700">東洋製罐</span>大阪工場・鳥越製粉・関西製糖・日本ハム大阪工場
 
 ## 4コンビナートの比較
 

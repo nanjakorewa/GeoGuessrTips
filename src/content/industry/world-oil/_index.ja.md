@@ -111,13 +111,13 @@ galleryDir: "world-oil"
 | LR2 / LR1（Long Range）| 60,000〜120,000t | 製品 ~60万バレル | ナフサ・ガソリン・軽油 |
 | MR（Medium Range）| 25,000〜55,000t | 製品 ~30万バレル | 域内製品輸送の主力 |
 
-タンカー運航の世界最大手は<span style="font-weight:700">Frontline（[ノルウェー](/rule/europe/norway/)）</span>、<span style="font-weight:700">Euronav/CMB.TECH（[ベルギー](/rule/europe/belgium/)）</span>、<span style="font-weight:700">DHT Holdings</span>、<span style="font-weight:700">Teekay</span>、<span style="font-weight:700">商船三井（MOL）</span>、<span style="font-weight:700">[日本](/rule/asia/japan/)郵船（NYK）</span>、<span style="font-weight:700">川崎汽船（K LINE）</span>などで、邦船3社はVLCC保有数で世界有数です{{% cite "mol_annual" %}}{{% cite "nyk_annual" %}}。スポット運賃は<span style="font-weight:700">WS（Worldscale）</span>で指標化され、Baltic Exchangeが公表しています。
+タンカー運航の世界最大手は<span style="font-weight:700">Frontline（[ノルウェー](/rule/europe/norway/)）</span>、<span style="font-weight:700">Euronav/CMB.TECH（[ベルギー](/rule/europe/belgium/)）</span>、<span style="font-weight:700">DHT Holdings</span>、<span style="font-weight:700">Teekay</span>、<span style="font-weight:700">商船三井（MOL）</span>、<span style="font-weight:700">日本郵船（NYK）</span>、<span style="font-weight:700">川崎汽船（K LINE）</span>などで、邦船3社はVLCC保有数で世界有数です{{% cite "mol_annual" %}}{{% cite "nyk_annual" %}}。スポット運賃は<span style="font-weight:700">WS（Worldscale）</span>で指標化され、Baltic Exchangeが公表しています。
 
 ### LNG船・LNGチェーン
 
 LNG（液化天然ガス）は−162℃まで冷却して体積を約1/600に圧縮し、極低温モス型/メンブレン型タンクを持つ専用LNG船で輸送されます。輸送能力の主力は<span style="font-weight:700">Q-Flex（21万m³級）</span>および<span style="font-weight:700">Q-Max（26.6万m³級）</span>で、[カタール](/rule/middle_east/qatar/)が2000年代後半に投入しました。標準的な大型船は17.4〜18万m³級です。世界のLNG貿易量は2024年で<span style="font-weight:700">約4億トン/年</span>{{% cite "iea_gas2024" %}}です。
 
-船主世界大手は<span style="font-weight:700">GasLog</span>、<span style="font-weight:700">Flex LNG</span>、<span style="font-weight:700">Maran Gas</span>、<span style="font-weight:700">商船三井（世界最大のLNG船隊の一つ）</span>、<span style="font-weight:700">[日本](/rule/asia/japan/)郵船</span>、<span style="font-weight:700">Nakilat（[カタール](/rule/middle_east/qatar/)国営）</span>などです。[日本](/rule/asia/japan/)の大手海運3社はLNG長期輸送契約を多数保有しています{{% cite "mol_annual" %}}。
+船主世界大手は<span style="font-weight:700">GasLog</span>、<span style="font-weight:700">Flex LNG</span>、<span style="font-weight:700">Maran Gas</span>、<span style="font-weight:700">商船三井（世界最大のLNG船隊の一つ）</span>、<span style="font-weight:700">日本郵船</span>、<span style="font-weight:700">Nakilat（[カタール](/rule/middle_east/qatar/)国営）</span>などです。[日本](/rule/asia/japan/)の大手海運3社はLNG長期輸送契約を多数保有しています{{% cite "mol_annual" %}}。
 
 ### FSRU（浮体式LNG貯蔵再ガス化設備）
 

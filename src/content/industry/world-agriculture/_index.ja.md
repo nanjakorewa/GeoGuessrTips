@@ -110,9 +110,9 @@ CBOT（シカゴ商品取引所、現CME Group）は1848年設立で{{% cite "cb
 | パーム油 | [インドネシア](/rule/asia/indonesia/)・[マレーシア](/rule/asia/malaysia/) | 合計~85% | Wilmar International, Sime Darby, Golden Agri-Resources |
 | 砂糖 | [ブラジル](/rule/cs_america/brazil/)・[インド](/rule/asia/india/)・[タイ](/rule/asia/thai/) | [ブラジル](/rule/cs_america/brazil/)~20% | Raízen, Cosan, Wilmar |
 | コーヒー | [ブラジル](/rule/cs_america/brazil/)・[ベトナム](/rule/asia/vietnum/)・[コロンビア](/rule/cs_america/colombia/) | [ブラジル](/rule/cs_america/brazil/)~35% | Neumann, Volcafe, ECOM |
-| カカオ | [コートジボワール](/rule/africa/cotedIvoire/)・[ガーナ](/rule/africa/ghana/)・[[インド](/rule/asia/india/)ネシア](/rule/asia/indonesia/) | 西アフリカ~65% | Barry Callebaut, Cargill Cocoa, Olam |
+| カカオ | [コートジボワール](/rule/africa/cotedIvoire/)・[ガーナ](/rule/africa/ghana/)・[インドネシア](/rule/asia/indonesia/) | 西アフリカ~65% | Barry Callebaut, Cargill Cocoa, Olam |
 | 綿花 | [中国](/rule/asia/china/)・[インド](/rule/asia/india/)・[米国](/rule/n_america/usa/)・[ブラジル](/rule/cs_america/brazil/) | 各~20% | Olam, Louis Dreyfus, Cargill |
-| ゴム | [タイ](/rule/asia/thai/)・[[インド](/rule/asia/india/)ネシア](/rule/asia/indonesia/)・[ベトナム](/rule/asia/vietnum/) | 合計~70% | Sinochem, Halcyon Agri, ブリヂストン |
+| ゴム | [タイ](/rule/asia/thai/)・[インドネシア](/rule/asia/indonesia/)・[ベトナム](/rule/asia/vietnum/) | 合計~70% | Sinochem, Halcyon Agri, ブリヂストン |
 
 [シンガポール](/rule/asia/singapore/)拠点の<span style="font-weight:700">Olam International</span>は熱帯作物の専業トレーダーとしてコーヒー・カカオ・綿花・ナッツに強みを持ちます。
 

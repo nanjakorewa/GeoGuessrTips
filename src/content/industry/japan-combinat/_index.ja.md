@@ -263,7 +263,7 @@ galleryDir: "combinat"
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 鉄鋼</td></tr>
 <tr>
-<td>[日本](/rule/asia/japan/)製鉄</td>
+<td>日本製鉄</td>
 <td>{{% minkabu 5401 %}}</td>
 <td>国内最大の鉄鋼メーカー。鹿島・君津に一貫製鉄所。鹿島は2025年に1基体制へ移行。</td>
 <td>{{% corplink "https://www.nipponsteel.com/ir/" %}}</td>

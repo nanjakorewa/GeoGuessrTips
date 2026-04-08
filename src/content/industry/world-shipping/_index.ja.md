@@ -52,11 +52,11 @@ galleryDir: "world-shipping"
 
 ## [日本](/rule/asia/japan/)の海運プレゼンス
 
-[日本](/rule/asia/japan/)の外航海運は<span style="font-weight:700">[日本](/rule/asia/japan/)郵船（NYK）・商船三井（MOL）・川崎汽船（K Line）</span>の3社が中核で、いずれも世界トップクラスの自動車船・LNG船・ばら積み船船隊を擁しています。コンテナ部門は{{% cite "one_company" %}}2017年に3社が統合して<span style="font-weight:700">ONE（Ocean Network Express）</span>を設立し、2018年4月から営業開始しました。出資比率はNYK 38%、MOL 31%、K Line 31%で、本社機能は[シンガポール](/rule/asia/singapore/)、運営拠点は[香港](/rule/asia/hongkong/)にあります。
+[日本](/rule/asia/japan/)の外航海運は<span style="font-weight:700">日本郵船（NYK）・商船三井（MOL）・川崎汽船（K Line）</span>の3社が中核で、いずれも世界トップクラスの自動車船・LNG船・ばら積み船船隊を擁しています。コンテナ部門は{{% cite "one_company" %}}2017年に3社が統合して<span style="font-weight:700">ONE（Ocean Network Express）</span>を設立し、2018年4月から営業開始しました。出資比率はNYK 38%、MOL 31%、K Line 31%で、本社機能は[シンガポール](/rule/asia/singapore/)、運営拠点は[香港](/rule/asia/hongkong/)にあります。
 
 | 邦船3社 | 強み | 主な事業 |
 | --- | --- | --- |
-| [日本](/rule/asia/japan/)郵船 | 自動車専用船・LNG船・ドライバルク | NYKグループ全体で約800隻の運航。2050年GHGネットゼロを公約 |
+| 日本郵船 | 自動車専用船・LNG船・ドライバルク | NYKグループ全体で約800隻の運航。2050年GHGネットゼロを公約 |
 | 商船三井 | LNG・タンカー・FSRU・洋上風力支援船 | 「BLUE ACTION 2035」でグリーン投資2兆円規模 |
 | 川崎汽船 | ばら積み船・自動車船 | LNG燃料自動車船の早期投入で先行 |
 
@@ -168,7 +168,7 @@ BDIは{{% cite "baltic_exchange_bdi" %}}2008年5月に<span style="font-weight:7
 <tr><td>Matson</td><td>[米国](/rule/n_america/usa/)（NYSE MATX）</td><td>約$5.2B / 0.78兆円</td><td>米西岸〜ハワイ・グアム・アジア</td><td><a href="https://finance.yahoo.com/quote/MATX" target="_blank" rel="noopener">Yahoo Finance (MATX)</a></td></tr>
 <tr><td>ONE（Ocean Network Express、非上場）</td><td>[シンガポール](/rule/asia/singapore/)</td><td>NYK/MOL/K Line出資</td><td>世界6位、邦船3社統合</td><td>—</td></tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 邦船3社（自動車船・LNG・ばら積み中心）</td></tr>
-<tr><td>[日本](/rule/asia/japan/)郵船（NYK）</td><td>東京（TSE 9101）</td><td>約2.5兆円</td><td>自動車船・LNG船・ばら積み船で世界トップ級</td><td>{{% corplink "https://www.nyk.com/ir/" %}}</td></tr>
+<tr><td>日本郵船（NYK）</td><td>東京（TSE 9101）</td><td>約2.5兆円</td><td>自動車船・LNG船・ばら積み船で世界トップ級</td><td>{{% corplink "https://www.nyk.com/ir/" %}}</td></tr>
 <tr><td>商船三井（MOL）</td><td>東京（TSE 9104）</td><td>約1.8兆円</td><td>LNG船世界最大級、洋上風力支援にも展開</td><td>{{% corplink "https://www.mol.co.jp/ir/" %}}</td></tr>
 <tr><td>川崎汽船（K Line）</td><td>東京（TSE 9107）</td><td>約1.5兆円</td><td>自動車船・ばら積み船・LNG燃料船で先行</td><td>{{% corplink "https://www.kline.co.jp/ja/ir.html" %}}</td></tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ タンカー・ガス輸送</td></tr>

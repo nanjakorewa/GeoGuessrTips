@@ -68,7 +68,7 @@ galleryDir: "world-mining"
 
 ### リチウム（Lithium）
 
-EV電池の正極材主原料。<span style="font-weight:700">「リチウムトライアングル（[チリ](/rule/cs_america/chile/)・[ボ[リビア](/rule/africa/libya/)](/rule/cs_america/bolivia/)・[アルゼンチン](/rule/cs_america/argentina/)の塩湖）」</span> と<span style="font-weight:700">豪州ピルガングーラなどのスポジュメン鉱床</span> が二大供給源で、[中国](/rule/asia/china/)が精錬・変換の中流を握ります。
+EV電池の正極材主原料。<span style="font-weight:700">「リチウムトライアングル（[チリ](/rule/cs_america/chile/)・[ボリビア](/rule/cs_america/bolivia/)・[アルゼンチン](/rule/cs_america/argentina/)の塩湖）」</span> と<span style="font-weight:700">豪州ピルガングーラなどのスポジュメン鉱床</span> が二大供給源で、[中国](/rule/asia/china/)が精錬・変換の中流を握ります。
 
 | 拠点 | 国 | 形態 | 主要企業 |
 | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ EV電池の正極材主原料。<span style="font-weight:700">「リチウムト
 
 ### コバルト・ニッケル
 
-EV電池のコバルトは<span style="font-weight:700">DR Congoが世界生産の約74%</span>{{% cite "usgs_cobalt_2025" %}}、ニッケルは<span style="font-weight:700">[[インド](/rule/asia/india/)ネシア](/rule/asia/indonesia/)が急伸して世界生産の約60%</span>{{% cite "usgs_nickel_2025" %}}に達しました。Glencore（DR Congo）と[中国](/rule/asia/china/)系企業（Tsingshanなど）が主要プレイヤーです。
+EV電池のコバルトは<span style="font-weight:700">DR Congoが世界生産の約74%</span>{{% cite "usgs_cobalt_2025" %}}、ニッケルは<span style="font-weight:700">[インドネシア](/rule/asia/indonesia/)が急伸して世界生産の約60%</span>{{% cite "usgs_nickel_2025" %}}に達しました。Glencore（DR Congo）と[中国](/rule/asia/china/)系企業（Tsingshanなど）が主要プレイヤーです。
 
 ### 白金族金属（PGM: Pt, Pd, Rh）
 

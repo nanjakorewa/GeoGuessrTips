@@ -302,7 +302,7 @@ graph LR
 <td>{{% dividend "tokyo" "6920" %}}</td>
 </tr>
 <tr>
-<td>[日本](/rule/asia/japan/)マイクロニクス</td>
+<td>日本マイクロニクス</td>
 <td>{{% minkabu 6871 %}}</td>
 <td>プローブカード（テスト治具）で半導体テスト装置向けに供給。</td>
 <td>{{% corplink "https://www.nihon-micronics.co.jp/" %}}</td>

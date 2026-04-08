@@ -142,7 +142,7 @@ galleryDir: "japan-cement"
 
 | グループ | 主な工場 | 親会社・経緯 |
 | -------- | -------- | ------------ |
-| <span style="font-weight:700">太平洋セメント（5233）</span> | 上磯・大船渡・熊谷・藤原・大分（津久見）・苅田・敦賀 など | {{% cite "taiheiyo_company" %}}1998年に秩父小野田と[日本](/rule/asia/japan/)セメントが合併して発足。国内最大手。 |
+| <span style="font-weight:700">太平洋セメント（5233）</span> | 上磯・大船渡・熊谷・藤原・大分（津久見）・苅田・敦賀 など | {{% cite "taiheiyo_company" %}}1998年に秩父小野田と日本セメントが合併して発足。国内最大手。 |
 | <span style="font-weight:700">UBE三菱セメント</span> | 宇部・伊佐・苅田・黒崎・青森・上磯 など | {{% cite "ube_mitsubishi" %}}2022年4月に宇部興産（現UBE）と三菱マテリアルのセメント事業が統合して発足。 |
 | <span style="font-weight:700">住友大阪セメント（5232）</span> | 赤穂・栃木佐野（旧高倉）・岐阜（春日）・八戸・四国 など | {{% cite "soc_company" %}}1994年に住友セメントと大阪セメントが合併。 |
 
@@ -208,14 +208,14 @@ graph LR
   C-->D["クリンカ生成"]
   D-->E["石膏添加・粉砕"]
   E-->F["セメント製品\n(普通・早強・中庸熱・高炉)"]
-  G["副資材\n高炉スラグ・フライアッシュ\n廃棄物・廃[タイ](/rule/asia/thai/)ヤ"]{{%  cite "cement_assoc_overview" %}}-->C
+  G["副資材\n高炉スラグ・フライアッシュ\n廃棄物・廃タイヤ"]{{%  cite "cement_assoc_overview" %}}-->C
   style A fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
   style C fill:#fee2e2,color:#7f1d1d,stroke:#dc2626,stroke-width:2px
   style F fill:#d1fae5,color:#065f46,stroke:#10b981,stroke-width:2px
   style G fill:#f3f4f6,color:#1f2937,stroke:#9ca3af
 {{% /mermaid %}}
 
-セメント工業は廃棄物・副産物の有効利用でも先行しており、{{%  cite "cement_assoc_overview" %}}<span style="font-weight:700">廃[タイ](/rule/asia/thai/)ヤ・廃プラスチック・高炉スラグ・石炭灰（フライアッシュ）・下水汚泥</span>などを副資材として大量に受け入れる「静脈産業」の側面も持っています。
+セメント工業は廃棄物・副産物の有効利用でも先行しており、{{%  cite "cement_assoc_overview" %}}<span style="font-weight:700">廃タイヤ・廃プラスチック・高炉スラグ・石炭灰（フライアッシュ）・下水汚泥</span>などを副資材として大量に受け入れる「静脈産業」の側面も持っています。
 
 ## カーボンニュートラルへの取り組み
 
@@ -248,7 +248,7 @@ graph LR
 <tr>
 <td>太平洋セメント</td>
 <td>{{% minkabu 5233 %}}</td>
-<td>{{%  cite "taiheiyo_company" %}}国内最大手。1998年に秩父小野田と[日本](/rule/asia/japan/)セメントが合併して発足。津久見・大船渡など多数の主力工場。</td>
+<td>{{%  cite "taiheiyo_company" %}}国内最大手。1998年に秩父小野田と日本セメントが合併して発足。津久見・大船渡など多数の主力工場。</td>
 <td>{{% corplink "https://www.taiheiyo-cement.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5233" %}}</td>
 </tr>

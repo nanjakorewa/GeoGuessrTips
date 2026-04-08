@@ -31,7 +31,7 @@ galleryDir: "japan-pottery"
     { x: 153, y: 524, label: '砥部（愛媛）', above: false,
       note: '白磁に藍色の絵付け。伊予の磁器' },
     { x: 76, y: 542, label: '有田（佐賀）', above: true,
-      note: '[日本](/rule/asia/japan/)磁器発祥地。1616年に磁器焼成成功' },
+      note: '日本磁器発祥地。1616年に磁器焼成成功' },
   ];
 
   function addPins() {
@@ -270,7 +270,7 @@ galleryDir: "japan-pottery"
 
 かつて産地の主力は<span style="font-weight:700">問屋・窯元システム</span>（窯元が素地を製造し、絵付師・問屋が流通を担う分業体制）でした。現代は次のような変化が起きているんです：
 
-- <span style="font-weight:700">工業化産地</span>（美濃・瀬戸・常滑）：機械成形・トンネル窯で大量生産。飲食店向け業務用食器・[タイ](/rule/asia/thai/)ル・衛生陶器に注力
+- <span style="font-weight:700">工業化産地</span>（美濃・瀬戸・常滑）：機械成形・トンネル窯で大量生産。飲食店向け業務用食器・タイル・衛生陶器に注力
 - <span style="font-weight:700">作家産地</span>（笠間・益子・清水）：個人作家の工房が集積。陶芸教室・ギャラリーが観光資源に
 - <span style="font-weight:700">伝統継承産地</span>（備前・萩・信楽）：手仕事の技法を守りつつ、個性的な作品を国内外に発信
 
@@ -321,7 +321,7 @@ galleryDir: "japan-pottery"
 
 こちらは伝統的な窯業産地の技術・人材が直接的に近代産業へ転換したケースなんです。これらの企業は地域の陶磁器産業の衰退に対応し、ハイテク分野での新たな成長を実現していきました。
 
-- <span style="font-weight:700">LIXIL</span>（旧INAX）：常滑焼の伝統を持つ伊奈製陶（1924年設立）が衛生陶器・[タイ](/rule/asia/thai/)ルに展開{{% cite "lixil_ir" %}}。現在はTOSTEMと統合し住宅設備大手に。温水洗浄便座「ウォシュレット」で世界的に知られる
+- <span style="font-weight:700">LIXIL</span>（旧INAX）：常滑焼の伝統を持つ伊奈製陶（1924年設立）が衛生陶器・タイルに展開{{% cite "lixil_ir" %}}。現在はTOSTEMと統合し住宅設備大手に。温水洗浄便座「ウォシュレット」で世界的に知られる
 - <span style="font-weight:700">MARUWA</span>（1946年創業）：瀬戸の窯業家・神戸家が電子用セラミック基板に転換{{% cite "maruwa_history" %}}。パワー半導体向けセラミック基板で世界有数のシェア。5G通信部品にも展開
 
 ## 関連企業の時価総額マップ
@@ -387,7 +387,7 @@ galleryDir: "japan-pottery"
 <td>{{% dividend "tokyo" "5332" %}}</td>
 </tr>
 <tr>
-<td>[日本](/rule/asia/japan/)ガイシ（NGK）</td>
+<td>日本ガイシ（NGK）</td>
 <td>{{% minkabu 5333 %}}</td>
 <td>1919年に[日本](/rule/asia/japan/)陶器の碍子部門が独立{{% cite "morimura" %}}。送電用セラミック碍子から出発し、NAS電池・DPF（排ガスフィルター）・半導体製造装置部品に展開。</td>
 <td>{{% corplink "https://www.ngk.co.jp/ir/" %}}</td>
@@ -396,15 +396,15 @@ galleryDir: "japan-pottery"
 <tr>
 <td>Niterra（旧[日本](/rule/asia/japan/)特殊陶業）</td>
 <td>{{% minkabu 5334 %}}</td>
-<td>1936年に[日本](/rule/asia/japan/)ガイシからスパークプラグ部門が独立{{% cite "morimura" %}}。自動車用点火プラグ世界首位。近年はセラミックス技術を活かし医療機器・固体酸化物形燃料電池（SOFC）にも多角化。</td>
+<td>1936年に日本ガイシからスパークプラグ部門が独立{{% cite "morimura" %}}。自動車用点火プラグ世界首位。近年はセラミックス技術を活かし医療機器・固体酸化物形燃料電池（SOFC）にも多角化。</td>
 <td>{{% corplink "https://www.ngkntk.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5334" %}}</td>
 </tr>
-<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 窯業産地転換型（衛生陶器・[タイ](/rule/asia/thai/)ル・ICパッケージ基板・DPF）</td></tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 窯業産地転換型（衛生陶器・タイル・ICパッケージ基板・DPF）</td></tr>
 <tr>
 <td>LIXIL</td>
 <td>{{% minkabu 5938 %}}</td>
-<td>常滑焼の伝統を持つ伊奈製陶（INAX）を母体の一つとする住宅設備大手{{% cite "lixil_ir" %}}。衛生陶器・[タイ](/rule/asia/thai/)ル・水回り設備。常滑に「INAXライブミュージアム」を運営。</td>
+<td>常滑焼の伝統を持つ伊奈製陶（INAX）を母体の一つとする住宅設備大手{{% cite "lixil_ir" %}}。衛生陶器・タイル・水回り設備。常滑に「INAXライブミュージアム」を運営。</td>
 <td>{{% corplink "https://www.lixil.com/jp/investor/" %}}</td>
 <td>{{% dividend "tokyo" "5938" %}}</td>
 </tr>

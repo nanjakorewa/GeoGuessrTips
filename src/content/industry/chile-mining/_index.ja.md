@@ -125,7 +125,7 @@ galleryDir: "chile-mining"
 
 [チリ](/rule/cs_america/chile/)共和国は<span style="font-weight:700">世界最大の銅生産国</span>であり、2024年の銅生産量は<span style="font-weight:700">約550万トン</span>（前年比+4.9%）と、20年来の減少傾向を反転させて成長軌道に戻りました{{% cite "cochilco_2024" %}。世界の銅鉱山生産（約2,300万トン）のうち<span style="font-weight:700">約24%</span>{{% cite "usgs_mcs2025_copper" %}}を1か国で供給しており、第2位[ペルー](/rule/cs_america/peru/)（約12%）、第3位[コンゴ民主共和国](/rule/africa/rdc/)（約10%）を大きく引き離しています。さらに[チリ](/rule/cs_america/chile/)は<span style="font-weight:700">世界最大の銅埋蔵量保有国</span>でもあり、確認埋蔵量の<span style="font-weight:700">約21.3%</span>が国内に集中しています{{% cite "usgs_mcs2025_copper" %}}。
 
-加えて[チリ](/rule/cs_america/chile/)は<span style="font-weight:700">世界第2位のリチウム生産国</span> （1位は[オーストラリア](/rule/oceania/australia/)）で、アタカマ塩湖（Salar de Atacama）のかん水から世界の<span style="font-weight:700">約34%</span> ものリチウムが採れるとされ、隣接する[アルゼンチン](/rule/cs_america/argentina/)・[ボ[リビア](/rule/africa/libya/)](/rule/cs_america/bolivia/)と合わせた<span style="font-weight:700">「リチウムトライアングル」</span> は世界リチウム資源の約56%を占めます{{% cite "fastmarkets_lithium_triangle" %}}。
+加えて[チリ](/rule/cs_america/chile/)は<span style="font-weight:700">世界第2位のリチウム生産国</span> （1位は[オーストラリア](/rule/oceania/australia/)）で、アタカマ塩湖（Salar de Atacama）のかん水から世界の<span style="font-weight:700">約34%</span> ものリチウムが採れるとされ、隣接する[アルゼンチン](/rule/cs_america/argentina/)・[ボリビア](/rule/cs_america/bolivia/)と合わせた<span style="font-weight:700">「リチウムトライアングル」</span> は世界リチウム資源の約56%を占めます{{% cite "fastmarkets_lithium_triangle" %}}。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">~550万t</div><div class="stat-label">2024年 [チリ](/rule/cs_america/chile/)銅生産量（世界1位）</div></div>
@@ -175,7 +175,7 @@ galleryDir: "chile-mining"
 
 ### Salar de Atacama — 世界最大級のリチウムかん水資源
 
-リチウムは「<span style="font-weight:700">スポジュメン鉱石</span>」（豪州）と「<span style="font-weight:700">塩湖かん水</span>」（南米）の2系統で生産されますが、後者は太陽蒸発による低コスト生産が可能です{{% cite "usgs_mcs2025_li" %}}。<span style="font-weight:700">Salar de Atacama</span>は標高約2,300mのアンデス高地にある世界最大級の塩湖で、北はチュキカマタの銅鉱山地帯、東は[ボ[リビア](/rule/africa/libya/)](/rule/cs_america/bolivia/)国境のウユニ塩湖（Salar de Uyuni）に隣接します。
+リチウムは「<span style="font-weight:700">スポジュメン鉱石</span>」（豪州）と「<span style="font-weight:700">塩湖かん水</span>」（南米）の2系統で生産されますが、後者は太陽蒸発による低コスト生産が可能です{{% cite "usgs_mcs2025_li" %}}。<span style="font-weight:700">Salar de Atacama</span>は標高約2,300mのアンデス高地にある世界最大級の塩湖で、北はチュキカマタの銅鉱山地帯、東は[ボリビア](/rule/cs_america/bolivia/)国境のウユニ塩湖（Salar de Uyuni）に隣接します。
 
 ### SQMとAlbemarle
 
@@ -199,7 +199,7 @@ SQMはアタカマ操業から<span style="font-weight:700">2024年に201,000ト
                     │
    ┌────────────┼────────────┐
    │            │            │
- 銅鉱山ベルト    リチウム塩湖    国境（[ペルー](/rule/cs_america/peru/)/[ボ[リビア](/rule/africa/libya/)](/rule/cs_america/bolivia/)/[アルゼンチン](/rule/cs_america/argentina/)）
+ 銅鉱山ベルト    リチウム塩湖    国境（[ペルー](/rule/cs_america/peru/)/[ボリビア](/rule/cs_america/bolivia/)/[アルゼンチン](/rule/cs_america/argentina/)）
  ─────────     ─────────
  Chuquicamata   Salar de Atacama
  Escondida      Salar de Maricunga（開発中）
@@ -214,7 +214,7 @@ SQMはアタカマ操業から<span style="font-weight:700">2024年に201,000ト
 
 - <span style="font-weight:700">水資源</span>: アタカマ砂漠は世界で最も乾燥した地域で、銅精鉱の浮選とリチウムかん水の蒸発の両方が水を大量消費。BHPは2018年にEscondidaで<span style="font-weight:700">海水淡水化</span>100%化を達成{{% cite "expomin_chile2024" %}}
 - <span style="font-weight:700">電力</span>: 標高3,000m級の鉱山操業には大量電力が必要。[チリ](/rule/cs_america/chile/)は2030年代後半までに鉱業電力の100%再エネ化を目指す
-- <span style="font-weight:700">コミュニティ</span>: アタカマ先住民（リカン・アン[タイ](/rule/asia/thai/)、コヤなど）との対話が必須
+- <span style="font-weight:700">コミュニティ</span>: アタカマ先住民（リカン・アンタイ、コヤなど）との対話が必須
 - <span style="font-weight:700">国家主義</span>: 銅は1971年に国有化{{% cite "codelco" %}}、リチウムは2023年戦略で再び国家管理強化の流れ
 
 ## [チリ](/rule/cs_america/chile/)鉱業に関わる主要企業の時価総額マップ

@@ -13,21 +13,21 @@ galleryDir: "japan-robotics"
 (function() {
   // 主要ロボット企業本社・R&D拠点（青●）
   var pins = [
-    { x: 410, y: 360, label: '忍野村/富士吉田', type: 'robot',
+    { x: 395, y: 458, label: '忍野村/富士吉田', type: 'robot',
       note: 'FANUC本社・製造拠点（山梨県南都留郡）' },
-    { x: 390, y: 450, label: '行方', type: 'robot',
+    { x: 445, y: 440, label: '筑波', type: 'robot',
       note: 'FANUC筑波R&D（茨城県）' },
-    { x: 135, y: 540, label: '北九州', type: 'robot',
+    { x: 95, y: 518, label: '北九州', type: 'robot',
       note: '安川電機本社・ロボット事業（福岡県北九州市）' },
-    { x: 248, y: 468, label: '赤穂/姫路', type: 'robot',
+    { x: 218, y: 475, label: '赤穂/姫路', type: 'robot',
       note: '川崎重工ロボット事業（兵庫県）' },
     { x: 318, y: 478, label: '名古屋', type: 'robot',
       note: '三菱電機ロボット事業本部（愛知県）' },
-    { x: 340, y: 500, label: '刈谷', type: 'robot',
+    { x: 330, y: 488, label: '刈谷', type: 'robot',
       note: 'デンソーウェーブロボット製造（愛知県）' },
-    { x: 318, y: 420, label: '松本', type: 'robot',
+    { x: 350, y: 428, label: '松本', type: 'robot',
       note: 'エプソン（セイコーエプソン）SCARA製造（長野県）' },
-    { x: 370, y: 390, label: '大宮', type: 'robot',
+    { x: 405, y: 430, label: '大宮', type: 'robot',
       note: 'ハーモニックドライブシステムズ精密減速機（埼玉県）' },
   ];
 
@@ -112,10 +112,10 @@ galleryDir: "japan-robotics"
 2024年に[日本](/rule/asia/japan/)国内では<span style="font-weight:700">44,500台のロボットが導入</span>{{% cite "ifr_japan_2024" %}}され、稼働中のロボット数は450,500台に達しています。一方、[日本](/rule/asia/japan/)ロボット工業会（JARA）統計では、2024年の受注額が前年比1.3%減の832.1億円、生産額が12.4%減の781.1億円、出荷額が10.6%減の825.2億円を記録しています{{% cite "jara_2024" %}}。
 
 <div class="stat-grid">
-<div class="stat-card"><div class="stat-num">45～46%</div><div class="stat-label">[日本](/rule/asia/japan/)の全球産業用ロボット製造シェア</div></div>
+<div class="stat-card"><div class="stat-num">45～46%</div><div class="stat-label"><a href="/rule/asia/japan/">日本</a>の全球産業用ロボット製造シェア</div></div>
 <div class="stat-card"><div class="stat-num">544,000台</div><div class="stat-label">2024年の全球ロボット稼働数</div></div>
-<div class="stat-card"><div class="stat-num">44,500台</div><div class="stat-label">2024年の[日本](/rule/asia/japan/)国内导入台数</div></div>
-<div class="stat-card"><div class="stat-num">FANUC・安川電機・川崎重工・三菱電機</div><div class="stat-label">[日本](/rule/asia/japan/)のロボット産業の中核4社</div></div>
+<div class="stat-card"><div class="stat-num">44,500台</div><div class="stat-label">2024年の<a href="/rule/asia/japan/">日本</a>国内導入台数</div></div>
+<div class="stat-card"><div class="stat-num">FANUC・安川電機・川崎重工・三菱電機</div><div class="stat-label"><a href="/rule/asia/japan/">日本</a>のロボット産業の中核4社</div></div>
 </div>
 
 ## 世界トップ4とそれ以降のグローバル競争構図
@@ -144,7 +144,7 @@ galleryDir: "japan-robotics"
 
 | 企業 | 記号 | 本社 | 主な製品・特徴 |
 | --- | --- | --- | --- |
-| <span style="font-weight:700">デンソーウェーブ</span> | 親会社：デンソー（6202） | 愛知県刈谷市 | <span style="font-weight:700">COBOTTA協働ロボット</span>：人間と共存可能な小型安全ロボット。4、5、6軸[タイ](/rule/asia/thai/)プ、組立・機械加工向け{{% cite "denso_wave" %}} |
+| <span style="font-weight:700">デンソーウェーブ</span> | 親会社：デンソー（6202） | 愛知県刈谷市 | <span style="font-weight:700">COBOTTA協働ロボット</span>：人間と共存可能な小型安全ロボット。4、5、6軸タイプ、組立・機械加工向け{{% cite "denso_wave" %}} |
 | <span style="font-weight:700">セイコーエプソン</span> | 6724{{% cite "epson_stock" %}} | 長野県松本市 | <span style="font-weight:700">世界SCARA ロボットシェア首位</span>{{% cite "epson_scara" %}}。超小型・高速・高精度な SCARA 300+ モデル、精密電子部品・医療部品の組立向け |
 | <span style="font-weight:700">NACHI不二越</span> | 6474 | 富山県 | 工作機械主軸ベアリング、産業機械用ロボット（SRA5D、SRA3D） |
 
