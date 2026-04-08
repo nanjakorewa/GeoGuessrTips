@@ -177,7 +177,139 @@ galleryDir: "thailand-japanese"
 | 半導体・電子部品 | ローム、村田製作所、京セラ、TDK、ミネベアミツミ |
 | 鉄鋼 | 日本製鉄（NS-SUS）、JFEスチール |
 
-ミネベアミツミは[タイ](/rule/asia/thai/)に巨大な部品工場群を持ち、日系企業として国内最多級の従業員を雇用しています。
+ミネベアミツミは[タイ](/rule/asia/thai/)に巨大な部品工場群を持ち、日系企業として国内最多級の従業員を雇用しています。矢崎総業（Yazaki Corporation Thailand）はワイヤーハーネスの大手サプライヤーとして単独で<span style="font-weight:700">5万人以上</span>を雇用し、在タイ日系企業のなかで最大級の労働力を抱えています{{% cite "personnel_consultant_2025" %}}。住友電装（Sumitomo Electric Wiring Systems Thailand）も配線システムで自動車サプライチェーンを支えています。
+
+## 家電メーカー
+
+バンコク近郊・アユタヤ・チョンブリには日系家電メーカーの工場が集積し、ASEAN域内および欧米・中東への輸出ハブとして稼働しています。省エネ型冷蔵庫・エアコン・洗濯機の生産が中心です{{% cite "personnel_consultant_2025" %}}。
+
+| 企業 | 現地法人名 | 主な事業 |
+| --- | --- | --- |
+| パナソニック | Panasonic Thailand | 白物家電・電池・電装部品 |
+| 日立製作所 | Hitachi Industrial Technology Thailand | 産業用機器・インバータ・エアコン |
+| 三菱電機 | Mitsubishi Electric Consumer Products Thailand | エアコン・冷蔵庫・扇風機 |
+| シャープ | Sharp Appliances Thailand | 冷蔵庫・洗濯機・空気清浄機 |
+
+## 機械・産業機器
+
+精密機械・金属加工・産業用ロボット分野では日系メーカーの技術力が厚い信頼を得ており、自動車・電子部品工場向けの設備需要を取り込んでいます{{% cite "personnel_consultant_2025" %}}。
+
+| 企業 | 現地法人名 | 分野 |
+| --- | --- | --- |
+| 牧野フライス製作所 | Makino Thailand | マシニングセンタ・放電加工機 |
+| オークマ | Okuma Techno (Thailand) | CNC工作機械 |
+| ファナック | FANUC (Thailand) | 産業用ロボット・CNC |
+| コマツ | Bangkok Komatsu Sales | 建設機械・鉱山機械 |
+
+## ゼネコン・建設
+
+日系ゼネコンは耐震・防音・省エネ設計を強みとし、日系工場・オフィスビル・商業施設の設計施工を数多く手掛けています。2025年のミャンマー地震時には大林組設計施設の耐震性が注目されました{{% cite "personnel_consultant_2025" %}}。
+
+| 企業 | 現地法人名 |
+| --- | --- |
+| 大林組 | Thai Obayashi Corporation |
+| 清水建設 | Shimizu Corporation (Thailand) |
+| 竹中工務店 | Takenaka Corporation (Thailand) |
+| 前田建設工業 | Thai Maeda Corporation |
+
+## パッケージ・紙器
+
+製造業集積地のタイでは梱包資材の需要が高く、日系の段ボール・紙器・印刷・金属缶メーカーが多数展開しています{{% cite "personnel_consultant_2025" %}}。
+
+| 企業 | 現地法人名 |
+| --- | --- |
+| レンゴー | Thai Containers Group |
+| 王子ホールディングス | OJI Paper Thailand |
+| 大日本印刷 | Dai Nippon Printing (Thailand) |
+| 東洋製罐グループ | Toyo Seikan (Thailand) |
+
+## 物流・運輸
+
+日系メーカーの在タイ拠点を支える国際輸送・倉庫・通関・フォワーディング事業で、日系物流企業が港湾・空港周辺に拠点を構えています{{% cite "personnel_consultant_2025" %}}。
+
+| 企業 | 現地法人名 |
+| --- | --- |
+| 日本通運 | Nippon Express Logistics (Thailand) |
+| ヤマト運輸 | Yamato Unyu Thailand |
+| センコー | SENKO Thailand |
+| 近鉄エクスプレス | Kintetsu World Express Thailand |
+| 鈴与 | Suzuyo Thailand |
+| 日新 | Siam Nistrans |
+
+## 商社
+
+5大総合商社はいずれも[タイ](/rule/asia/thai/)に大型の現地法人を構え、卸売・資源取引・インフラ開発・工業団地運営まで幅広く事業を展開しています{{% cite "personnel_consultant_2025" %}}。
+
+| 企業 | 現地法人名 |
+| --- | --- |
+| 三菱商事 | Mitsubishi Company (Thailand) / Thai-MC |
+| 伊藤忠商事 | ITOCHU (Thailand) / ITOCHU Enterprise (Thailand) |
+| 住友商事 | Sumitomo Corporation Thailand |
+| 三井物産 | Mitsui & Co. (Thailand) |
+| 丸紅 | Marubeni Thailand |
+
+## 電力・インフラ
+
+発電事業への投資、電力技術支援、ガス供給、鉄道・高速道路事業の技術協力を通じて、タイのインフラ整備や脱炭素政策にも貢献しています{{% cite "personnel_consultant_2025" %}}。
+
+| 企業 | 現地法人名 |
+| --- | --- |
+| 東京電力HD | TEPCO Energy Partner International (Thailand) |
+| 三井エネルギー資源開発 | Siam Moeco Ltd |
+| 大阪ガス | Osaka Gas Thailand |
+| 関西電力 | Kansai Energy Solutions (Thailand) |
+| JR貨物 | Japan Freight Railway Company, Bangkok Representative Office |
+| 首都高速道路 | Shutoko International Thailand |
+
+## 食品・飲料メーカー
+
+日清食品はタイ人向けに「トムヤムクン味」などローカルテイストのカップ麺を展開し、味の素は調味料市場でトップブランドの地位を築いています{{% cite "personnel_consultant_2025" %}}。
+
+| 企業 | 現地法人名 | 主な製品 |
+| --- | --- | --- |
+| 味の素 | Ajinomoto Thailand | うま味調味料・冷凍食品・飲料 |
+| 日清食品 | Nissin Thailand | 即席麺（トムヤムクン味など） |
+| キユーピー | Kewpie Thailand | マヨネーズ・ドレッシング |
+| ハウス食品 | House Osotspa Foods | カレー・レトルト食品 |
+
+## 外食チェーン
+
+日系外食チェーンは手頃な価格と安心感のある味でタイ都市部の若年層・ファミリー層に広く支持され、ショッピングモールを中心に多店舗展開しています{{% cite "personnel_consultant_2025" %}}。
+
+| ブランド | 運営主体 |
+| --- | --- |
+| CoCo壱番屋 | ICHIBANYA MIDWEST ASIA / Tana Group International（FC） |
+| スシロー | Sushiro GH (Thailand) |
+| やよい軒 | MK Interfood（FC） |
+| 8番らーめん | Thai-Hachiban |
+| 吉野家 | Central Group（FC） |
+| 博多一風堂 | FOODXCITE（ライセンス） |
+
+## 小売・生活雑貨
+
+日系小売企業は「高品質・合理的価格」ポジショニングでタイの都市部中間層に人気を博しています{{% cite "personnel_consultant_2025" %}}。
+
+| 企業 | 現地法人名 |
+| --- | --- |
+| ユニクロ | UNIQLO Thailand |
+| 無印良品 | MUJI Thailand |
+| ダイソー | DAISO Thailand |
+| イオン | AEON Thailand |
+| 三越伊勢丹 | Mitsukoshi Isetan Thailand |
+| ニトリ | Nitori Thailand |
+| マツモトキヨシ | Central & Matsumoto Kiyoshi |
+
+## アニメ・ゲーム・エンタメ
+
+アニメ・ゲーム・キャラクター関連事業を通じて若年層を中心に日本文化を浸透させており、バンコクを中心にカラオケ・メイドカフェ・専門店が展開されています{{% cite "personnel_consultant_2025" %}}。
+
+| ブランド | 概要 |
+| --- | --- |
+| Manekineko Thailand | カラオケまねきねこ |
+| AnimateBKK | アニメイト |
+| めいどりーみんタイランド MBK店 | メイドカフェ |
+| G&LDH | 芸能事務所LDH × タイGMM Musicの合弁 |
+| KADOKAWA Amarin | 角川書店 × タイ出版社アマリンの合弁 |
 
 ## 化学・素材
 
