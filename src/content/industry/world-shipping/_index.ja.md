@@ -159,7 +159,7 @@ BDIは{{% cite "baltic_exchange_bdi" %}}2008年5月に<span style="font-weight:7
 <tr><td>MSC（非上場）</td><td>[スイス](/rule/europe/switzerland/)（ジュネーブ）</td><td>非開示</td><td>世界1位コンテナ船社、家族経営</td><td>—</td></tr>
 <tr><td>CMA CGM（非上場）</td><td>[フランス](/rule/europe/france/)（マルセイユ）</td><td>非開示</td><td>世界3位、CEVA Logistics・Bolloré傘下</td><td>—</td></tr>
 <tr><td>COSCO Shipping Holdings</td><td>[中国](/rule/asia/china/)（HK 1919 / SH 601919）</td><td>約$25B / 3.8兆円</td><td>世界4位、国有、OOCL傘下</td><td>—</td></tr>
-<tr><td>Hapag-Lloyd</td><td>[ドイツ](/rule/europe/germany/)（フランクフルト HLAG）</td><td>約$24B / 3.6兆円</td><td>世界5位、Maerskと"Gemini"提携</td><td>—</td></tr>
+<tr><td>Hapag-Lloyd</td><td>[ドイツ](/rule/europe/germany/)（ハンブルク HLAG）</td><td>約$24B / 3.6兆円</td><td>世界5位、Maerskと"Gemini"提携</td><td>—</td></tr>
 <tr><td>Evergreen Marine</td><td>[台湾](/rule/asia/taiwan/)（TWSE 2603）</td><td>約$15B / 2.3兆円</td><td>世界7位、Ever Givenで知名</td><td>—</td></tr>
 <tr><td>HMM</td><td>[韓国](/rule/asia/korea/)（KRX 011200）</td><td>約$11B / 1.65兆円</td><td>世界8位、24,000TEU級保有</td><td>—</td></tr>
 <tr><td>Yang Ming</td><td>[台湾](/rule/asia/taiwan/)（TWSE 2609）</td><td>約$5B / 0.75兆円</td><td>世界9位、政府筆頭株主</td><td>—</td></tr>

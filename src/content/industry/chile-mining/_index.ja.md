@@ -3,7 +3,7 @@ title: "チリの銅・リチウム鉱業"
 subtitle: "アタカマ砂漠 — 世界最大の銅生産国とリチウムトライアングル"
 date: 2026-04-08
 lastmod: 2026-04-08
-description: "チリの鉱業を解説。世界の銅生産で約24%（2024年541万トン）を占める世界最大の銅産国としての地位、Codelco・BHP Escondida・Collahuasiなど主要鉱山、SQMとAlbemarleが操業するSalar de Atacamaのリチウム生産、リチウムトライアングルとチリ国家リチウム戦略までを整理。"
+description: "チリの鉱業を解説。世界の銅生産で約24%（2024年約550万トン）を占める世界最大の銅産国としての地位、Codelco・BHP Escondida・Collahuasiなど主要鉱山、SQMとAlbemarleが操業するSalar de Atacamaのリチウム生産、リチウムトライアングルとチリ国家リチウム戦略までを整理。"
 weight: 37
 mapName: "southAmerica"
 galleryDir: "chile-mining"

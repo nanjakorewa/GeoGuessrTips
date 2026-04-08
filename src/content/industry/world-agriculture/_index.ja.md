@@ -152,7 +152,7 @@ CBOT（シカゴ商品取引所、現CME Group）は1848年設立で{{% cite "cb
 <tr><td>Corteva</td><td>CTVA</td><td>種子・農薬</td><td>{{% corplink "https://www.google.com/search?q=Corteva+Investor+Relations" %}}</td><td>{{% dividend "other" "CTVA" %}}</td></tr>
 <tr><td>CNH Industrial</td><td>CNH</td><td>農機</td><td>{{% corplink "https://www.google.com/search?q=CNH Industrial+Investor+Relations" %}}</td><td>{{% dividend "other" "CNH" %}}</td></tr>
 <tr><td>Barry Callebaut</td><td>BARN.SW</td><td>カカオ</td><td>{{% corplink "https://www.google.com/search?q=Barry Callebaut+Investor+Relations" %}}</td><td>{{% dividend "other" "BARN.SW" %}}</td></tr>
-<tr><td>Mosaic</td><td>MOS</td><td>肥料</td><td>{{% corplink "https://www.google.com/search?q=Mosaic+Investor+Relations" %}}</td><td>{{% dividend "other" "MOS" %}}</td></tr>
+<tr><td>Mosaic（タンパ）</td><td>MOS</td><td>肥料</td><td>{{% corplink "https://www.google.com/search?q=Mosaic+Investor+Relations" %}}</td><td>{{% dividend "other" "MOS" %}}</td></tr>
 <tr><td>Tyson Foods</td><td>TSN</td><td>畜産食品</td><td>{{% corplink "https://www.google.com/search?q=Tyson Foods+Investor+Relations" %}}</td><td>{{% dividend "other" "TSN" %}}</td></tr>
 <tr><td>CF Industries</td><td>CF</td><td>肥料</td><td>{{% corplink "https://www.google.com/search?q=CF Industries+Investor+Relations" %}}</td><td>{{% dividend "other" "CF" %}}</td></tr>
 <tr><td>Sime Darby Plant.</td><td>4197.KL</td><td>パーム</td><td>{{% corplink "https://www.google.com/search?q=Sime Darby Plant.+Investor+Relations" %}}</td><td>{{% dividend "other" "4197.KL" %}}</td></tr>

@@ -14,16 +14,10 @@ galleryDir: "taiwan-semiconductor"
   // [台湾](/rule/asia/taiwan/)の主要半導体クラスター（taiwan マップ）
   var pins = [
     {
-        "x": 313,
-        "y": 95,
-        "label": "Taipei",
-        "note": "TSMC 本社・台北市"
-    },
-    {
         "x": 240,
         "y": 150,
         "label": "Hsinchu",
-        "note": "新竹サイエンスパーク（TSMC F12 等）"
+        "note": "新竹サイエンスパーク（TSMC本社・Fab12等）"
     },
     {
         "x": 227,
