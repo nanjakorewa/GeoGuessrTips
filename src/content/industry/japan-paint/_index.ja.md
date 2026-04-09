@@ -104,7 +104,7 @@ galleryDir: "japan-paint"
 
 ## 船舶用塗料 — 「中国塗料」が世界トップ級
 
-<span style="font-weight:700">中国塗料（4617）</span>{{% cite "chugoku_marine" %}}は社名の「[中国](/rule/asia/china/)」は[中国](/rule/asia/china/)地方（広島）を指し、広島県大竹市発祥の独立系塗料メーカーです。船底防汚塗料（アンチファウリング）で世界トップ3（CMP / 日本ペイントマリン NPMC / Hempel / Jotun / AkzoNobel）に入る存在で、海外売上比率が高い[日本](/rule/asia/japan/)の塗料メーカーの代表例です。日本ペイントマリン（神戸）と合わせ、[日本](/rule/asia/japan/)は世界の船舶塗料供給の中核を担います。
+<span style="font-weight:700">中国塗料（4617）</span>{{% cite "chugoku_marine" %}}は社名の「[中国](/rule/asia/china/)」は[中国](/rule/asia/china/)地方（広島）を指し、広島県大竹市発祥の独立系塗料メーカーです。船底防汚塗料（アンチファウリング）で世界トップ3（CMP / 日本ペイントマリン NPMC / Hempel / Jotun / AkzoNobel）に入る存在で、海外売上比率が高い日本の塗料メーカーの代表例です。日本ペイントマリン（神戸）と合わせ、日本は世界の船舶塗料供給の中核を担います。
 
 ## 主要中堅メーカー
 
@@ -151,7 +151,7 @@ galleryDir: "japan-paint"
 <tr>
 <td>日本ペイントHD</td>
 <td>{{% minkabu 4612 %}}</td>
-<td>1881年創業の[日本](/rule/asia/japan/)最古の塗料メーカー。東京・大阪二本社制で世界4位の塗料企業。自動車OEM・建築・工業・船舶用塗料で業界トップシェアを維持し、グローバル戦略により[オーストラリア](/rule/oceania/australia/)DuluxGroup等を買収して多角化。連結売上約1.4〜1.7兆円規模{{% cite "nipponpaint_hd" %}}。</td>
+<td>1881年創業の日本最古の塗料メーカー。東京・大阪二本社制で世界4位の塗料企業。自動車OEM・建築・工業・船舶用塗料で業界トップシェアを維持し、グローバル戦略により[オーストラリア](/rule/oceania/australia/)DuluxGroup等を買収して多角化。連結売上約1.4〜1.7兆円規模{{% cite "nipponpaint_hd" %}}。</td>
 <td>{{% corplink "https://www.nipponpaint-holdings.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4612" %}}</td>
 </tr>
@@ -173,7 +173,7 @@ galleryDir: "japan-paint"
 <tr>
 <td>中国塗料</td>
 <td>{{% minkabu 4617 %}}</td>
-<td>広島県大竹市発祥の独立系塗料メーカー。船底防汚塗料（アンチファウリング）で世界トップ3に位置し、海外売上比率が高いのが特徴。CMP・日本ペイントマリンと並んで、[日本](/rule/asia/japan/)は世界の船舶塗料供給の中核を担う{{% cite "chugoku_marine" %}}。</td>
+<td>広島県大竹市発祥の独立系塗料メーカー。船底防汚塗料（アンチファウリング）で世界トップ3に位置し、海外売上比率が高いのが特徴。CMP・日本ペイントマリンと並んで、日本は世界の船舶塗料供給の中核を担う{{% cite "chugoku_marine" %}}。</td>
 <td>{{% corplink "https://www.chugoku-paint.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4617" %}}</td>
 </tr>

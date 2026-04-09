@@ -116,7 +116,7 @@ galleryDir: "japan-pottery"
 
 <div class="stat-grid">
   <div class="stat-card">
-    <p class="stat-card__label">[日本](/rule/asia/japan/)六古窯</p>
+    <p class="stat-card__label">日本六古窯</p>
     <p class="stat-card__value">6</p>
     <p class="stat-card__unit">か所（常滑・瀬戸・越前・信楽・丹波・備前）</p>
   </div>
@@ -133,7 +133,7 @@ galleryDir: "japan-pottery"
   <div class="stat-card">
     <p class="stat-card__label">有田焼 磁器焼成開始</p>
     <p class="stat-card__value">1616</p>
-    <p class="stat-card__unit">年（李参平が[日本](/rule/asia/japan/)初の磁器を焼成）</p>
+    <p class="stat-card__unit">年（李参平が日本初の磁器を焼成）</p>
   </div>
 </div>
 
@@ -285,7 +285,7 @@ galleryDir: "japan-pottery"
 <div class="process-flow">
   <div class="process-step">
     <span class="process-step__label">1904年</span>
-    <span class="process-step__name">[日本](/rule/asia/japan/)陶器</span>
+    <span class="process-step__name">日本陶器</span>
     <span class="process-step__temp">洋食器</span>
   </div>
   <div class="process-arrow">→</div>
@@ -297,13 +297,13 @@ galleryDir: "japan-pottery"
   <div class="process-arrow">→</div>
   <div class="process-step">
     <span class="process-step__label">1919年</span>
-    <span class="process-step__name">[日本](/rule/asia/japan/)碍子</span>
+    <span class="process-step__name">日本碍子</span>
     <span class="process-step__temp">送電用碍子（現NGK）</span>
   </div>
   <div class="process-arrow">→</div>
   <div class="process-step">
     <span class="process-step__label">1936年</span>
-    <span class="process-step__name">[日本](/rule/asia/japan/)特殊陶業</span>
+    <span class="process-step__name">日本特殊陶業</span>
     <span class="process-step__temp">スパークプラグ（現Niterra）</span>
   </div>
 </div>
@@ -375,26 +375,26 @@ galleryDir: "japan-pottery"
 <tr>
 <td>ノリタケカンパニーリミテド</td>
 <td>{{% minkabu 5331 %}}</td>
-<td>1904年に森村組が設立した[日本](/rule/asia/japan/)陶器が前身。洋食器「ノリタケチャイナ」で世界的に知られ、工業用研削砥石・電子セラミック部品・パワー半導体関連製品へ展開。森村グループの食器からハイテク産業への転換を象徴する企業{{% cite "morimura" %}}。</td>
+<td>1904年に森村組が設立した日本陶器が前身。洋食器「ノリタケチャイナ」で世界的に知られ、工業用研削砥石・電子セラミック部品・パワー半導体関連製品へ展開。森村グループの食器からハイテク産業への転換を象徴する企業{{% cite "morimura" %}}。</td>
 <td>{{% corplink "https://www.noritake.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5331" %}}</td>
 </tr>
 <tr>
 <td>TOTO</td>
 <td>{{% minkabu 5332 %}}</td>
-<td>1917年に[日本](/rule/asia/japan/)陶器（現ノリタケ）から衛生陶器部門が独立。陶磁器製造技術を基盤に、温水洗浄便座「ウォシュレット」で世界的に知られる住宅設備大手。衛生陶器・タイル・水栓・建築設備で総合住宅メーカーのポジション{{% cite "morimura" %}}。</td>
+<td>1917年に日本陶器（現ノリタケ）から衛生陶器部門が独立。陶磁器製造技術を基盤に、温水洗浄便座「ウォシュレット」で世界的に知られる住宅設備大手。衛生陶器・タイル・水栓・建築設備で総合住宅メーカーのポジション{{% cite "morimura" %}}。</td>
 <td>{{% corplink "https://jp.toto.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5332" %}}</td>
 </tr>
 <tr>
 <td>日本ガイシ（NGK）</td>
 <td>{{% minkabu 5333 %}}</td>
-<td>1919年に[日本](/rule/asia/japan/)陶器の碍子部門が独立した企業。送電用セラミック碍子（ポーセリン碍子）の大手メーカーから出発。現在はNAS電池・ディーゼルエンジン排ガス浄化フィルター（DPF）・半導体製造装置部品で多角化。窯業技術をエネルギー・環境分野に展開{{% cite "morimura" %}}。</td>
+<td>1919年に日本陶器の碍子部門が独立した企業。送電用セラミック碍子（ポーセリン碍子）の大手メーカーから出発。現在はNAS電池・ディーゼルエンジン排ガス浄化フィルター（DPF）・半導体製造装置部品で多角化。窯業技術をエネルギー・環境分野に展開{{% cite "morimura" %}}。</td>
 <td>{{% corplink "https://www.ngk.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5333" %}}</td>
 </tr>
 <tr>
-<td>Niterra（旧[日本](/rule/asia/japan/)特殊陶業）</td>
+<td>Niterra（旧日本特殊陶業）</td>
 <td>{{% minkabu 5334 %}}</td>
 <td>1936年に日本ガイシからスパークプラグ部門が独立。自動車用点火プラグで世界首位のシェアを確保し、セラミックス焼成技術の高度な応用を実現。近年はセラミックス技術を活かし医療機器・固体酸化物形燃料電池（SOFC）・環境浄化部品へ多角化推進{{% cite "morimura" %}}。</td>
 <td>{{% corplink "https://www.niterra.com/ja/ir/" %}}</td>
@@ -425,7 +425,7 @@ galleryDir: "japan-pottery"
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 特殊ガラス・セラミックス</td></tr>
 <tr>
-<td>[日本](/rule/asia/japan/)電気硝子</td>
+<td>日本電気硝子</td>
 <td>{{% minkabu 5214 %}}</td>
 <td>1944年滋賀県大津市創業。液晶ディスプレイ用ガラス基板で世界トップ級（米Corning、台湾AvanStrateと競争）を確保し、ガラスファイバー・医薬用バイアル製造で特化。CRTブラウン管からディスプレイガラスへの産業転換を実現。セラミック材料技術と融合{{% cite "neg_company" %}}。</td>
 <td>{{% corplink "https://www.neg.co.jp/ir/" %}}</td>

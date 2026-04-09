@@ -109,7 +109,7 @@ galleryDir: "japan-fiber"
 <div class="stat-card"><div class="stat-num">3社</div><div class="stat-label">世界炭素繊維市場の50～60%を支配（東レ・帝人・三菱ケミカル）</div></div>
 <div class="stat-card"><div class="stat-num">13.5%</div><div class="stat-label">東レの全球炭素繊維市場シェア（世界1位）</div></div>
 <div class="stat-card"><div class="stat-num">約1兆円</div><div class="stat-label">東レ—ボーイング787・777X向け長期供給契約規模（2014年10年契約、Reuters報道）</div></div>
-<div class="stat-card"><div class="stat-num">特化型素材</div><div class="stat-label">[日本](/rule/asia/japan/)の競争力：高強度PE・ポバール・アラミドTwaron</div></div>
+<div class="stat-card"><div class="stat-num">特化型素材</div><div class="stat-label">日本の競争力：高強度PE・ポバール・アラミドTwaron</div></div>
 </div>
 
 ## 世界炭素繊維市場での[日本](/rule/asia/japan/)企業の支配力

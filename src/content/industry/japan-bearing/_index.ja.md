@@ -16,8 +16,8 @@ galleryDir: "japan-bearing"
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">4社</div><div class="stat-label">主要4社（NSK・NTN・JTEKT・ミネベアミツミ）</div></div>
 <div class="stat-card"><div class="stat-num">140～160億USD</div><div class="stat-label">世界ベアリング市場規模（2025-2026年推計）</div></div>
-<div class="stat-card"><div class="stat-num">8</div><div class="stat-label">世界8大ベアリングメーカー（うち[日本](/rule/asia/japan/)4社）</div></div>
-<div class="stat-card"><div class="stat-num">高精度</div><div class="stat-label">[日本](/rule/asia/japan/)の国際競争力</div></div>
+<div class="stat-card"><div class="stat-num">8</div><div class="stat-label">世界8大ベアリングメーカー（うち日本4社）</div></div>
+<div class="stat-card"><div class="stat-num">高精度</div><div class="stat-label">日本の国際競争力</div></div>
 </div>
 
 ## 主要4社の比較

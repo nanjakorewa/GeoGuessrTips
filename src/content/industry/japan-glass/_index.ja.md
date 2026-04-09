@@ -87,7 +87,7 @@ galleryDir: "japan-glass"
 <td>{{% dividend "tokyo" "5201" %}}</td>
 </tr>
 <tr>
-<td>[日本](/rule/asia/japan/)板硝子（NSG）</td>
+<td>日本板硝子（NSG）</td>
 <td>{{% minkabu 5202 %}}</td>
 <td>1918年大阪創業のガラスメーカー。2006年に英国の世界的大手Pilkingtonを約6,160億円で買収し、一気に世界トップ級に成長（「小蛇が大蛇を呑む買収」）。建築用・自動車用フロートガラスの大手だが、買収後の財務負担から現在は構造改革を推進{{% cite "nsg_company" %}}。</td>
 <td>{{% corplink "https://www.nsg.com/jp/ir" %}}</td>
@@ -95,7 +95,7 @@ galleryDir: "japan-glass"
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 特殊ガラス・光学</td></tr>
 <tr>
-<td>[日本](/rule/asia/japan/)電気硝子</td>
+<td>日本電気硝子</td>
 <td>{{% minkabu 5214 %}}</td>
 <td>1944年滋賀県大津市創業の特殊ガラスメーカー。液晶ディスプレイ用ガラス基板で世界トップ3（米Corning、台湾AvanStrateと競争）の地位を確保。ガラスファイバー、医薬・電子用ガラス管製造でも強みを持つ。CRTブラウン管ガラス時代からの技術蓄積を活かし高機能材料供給を実現{{% cite "neg_company" %}}。</td>
 <td>{{% corplink "https://www.neg.co.jp/ir/" %}}</td>

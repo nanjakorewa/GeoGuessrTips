@@ -102,7 +102,7 @@ galleryDir: "japan-semiconductor"
 
 <figure>
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Silicon_Photonics_300mm_wafer.JPG?width=720" alt="300mmシリコンウェーハ" loading="lazy" />
-  <figcaption>300mmシリコンウェーハの一例。[日本](/rule/asia/japan/)は信越化学とSUMCOで世界シェアの過半を占める。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Silicon_Photonics_300mm_wafer.JPG" target="_blank" rel="noopener noreferrer">Silicon Photonics 300mm wafer / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+  <figcaption>300mmシリコンウェーハの一例。日本は信越化学とSUMCOで世界シェアの過半を占める。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Silicon_Photonics_300mm_wafer.JPG" target="_blank" rel="noopener noreferrer">Silicon Photonics 300mm wafer / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
 </figure>
 
 ## [日本](/rule/asia/japan/)の半導体産業集積地とは
@@ -235,7 +235,7 @@ graph LR
 <td>{{% dividend "tokyo" "6702" %}}</td>
 </tr>
 <tr>
-<td>[日本](/rule/asia/japan/)電気</td>
+<td>日本電気</td>
 <td>{{% minkabu 5214 %}}</td>
 <td>LSI・光通信デバイス開発企業。サーバー・ネットワーク機器向けプロセッサで技術的な優位性を保持。通信インフラの高度化に伴う需要増加で成長基盤を整備</td>
 <td>{{% corplink "https://www.nec.com/ja/ir/" %}}</td>

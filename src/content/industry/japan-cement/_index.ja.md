@@ -132,7 +132,7 @@ galleryDir: "japan-cement"
   <div class="stat-card">
     <p class="stat-card__label">宇部興産専用道路</p>
     <p class="stat-card__value">31.94</p>
-    <p class="stat-card__unit">km（私道として[日本](/rule/asia/japan/)最長・UBE三菱セメント所有）</p>
+    <p class="stat-card__unit">km（私道として日本最長・UBE三菱セメント所有）</p>
   </div>
 </div>
 

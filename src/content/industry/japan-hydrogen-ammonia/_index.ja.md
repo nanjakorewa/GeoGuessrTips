@@ -165,7 +165,7 @@ galleryDir: "japan-hydrogen-ammonia"
 <tr><td><strong>川崎臨海部</strong></td><td>神奈川県川崎市</td><td>レゾナック（旧昭和電工）他</td><td>使用済みプラスチック由来{{% cite "resonac_kawasaki" %}}の低炭素水素・アンモニアを製造。コンビナート内パイプラインで供給する千鳥町水素ネットワーク{{% cite "resonac_kawasaki" %}}</td><td>2003〜</td></tr>
 <tr><td><strong>周南コンビナート</strong></td><td>山口県周南市</td><td>出光興産・東ソー・トクヤマ・日本ゼオン</td><td>苛性ソーダ製造の副生水素を活用したカーボンフリーアンモニア供給網構想{{% cite "meti_ammonia_society" %}}。2030年以降{{% cite "meti_ammonia_society" %}}の大規模供給を計画{{% cite "meti_ammonia_society" %}}</td><td>構想中</td></tr>
 <tr><td><strong>JERA碧南火力</strong></td><td>愛知県碧南市</td><td>JERA</td><td>石炭火力発電所でアンモニア20%{{%cite "jera_hekinan" %}}混焼の実証試験を実施{{% cite "jera_hekinan" %}}（2024年4月1日～6月26日）。2020年代後半{{% cite "jera_hekinan" %}}から商用運転を計画し、長期的にはアンモニア専焼化を目指す{{% cite "jera_hekinan" %}}</td><td>2024実証</td></tr>
-<tr><td><strong>大分九重</strong></td><td>大分県玖珠郡九重町</td><td>大林組</td><td>地熱発電を利用した[日本](/rule/asia/japan/)初{{% cite "obayashi_kuju" %}}のグリーン水素製造・供給実証プラント{{% cite "obayashi_kuju" %}}</td><td>2021</td></tr>
+<tr><td><strong>大分九重</strong></td><td>大分県玖珠郡九重町</td><td>大林組</td><td>地熱発電を利用した日本初{{% cite "obayashi_kuju" %}}のグリーン水素製造・供給実証プラント{{% cite "obayashi_kuju" %}}</td><td>2021</td></tr>
 <tr><td><strong>北九州響灘</strong></td><td>福岡県北九州市</td><td>福岡県・北九州市</td><td>洋上風力と組み合わせた響灘グリーン水素拠点構想{{% cite "fukuoka_h2" %}}。八幡東区東田地区では水素パイプライン実証{{%cite "fukuoka_h2" %}}（約1.2km）{{% cite "fukuoka_h2" %}}</td><td>2015〜</td></tr>
 </tbody>
 </table>

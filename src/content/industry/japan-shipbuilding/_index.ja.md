@@ -241,7 +241,7 @@ galleryDir: "shipbuilding"
   <div class="process-step">
     <span class="process-step__label">2010年代〜</span>
     <span class="process-step__name">[中国](/rule/asia/china/)が首位に</span>
-    <span class="process-step__temp">[日本](/rule/asia/japan/)は3位</span>
+    <span class="process-step__temp">日本は3位</span>
   </div>
   <div class="process-arrow">→</div>
   <div class="process-step" style="border-color:#10b981;background:#ecfdf5;">

@@ -338,7 +338,7 @@ galleryDir: "thailand-japanese"
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#6b7280"></span>タイヤ</span>
 </div>
 <div class="corp-treemap" data-companies='[{"t":"7203","n":"\u30c8\u30e8\u30bf\u81ea\u52d5\u8eca","s":"\u5b8c\u6210\u8eca","v":50.0,"c":"#059669"},{"t":"6902","n":"\u30c7\u30f3\u30bd\u30fc","s":"\u90e8\u54c1","v":7.0,"c":"#6366f1"},{"t":"7267","n":"\u30db\u30f3\u30c0","s":"\u5b8c\u6210\u8eca","v":6.0,"c":"#059669"},{"t":"5108","n":"\u30d6\u30ea\u30b8\u30b9\u30c8\u30f3","s":"\u30bf\u30a4\u30e4","v":5.0,"c":"#6b7280"},{"t":"7269","n":"\u30b9\u30ba\u30ad","s":"\u5b8c\u6210\u8eca","v":3.0,"c":"#059669"},{"t":"7201","n":"\u65e5\u7523\u81ea\u52d5\u8eca","s":"\u5b8c\u6210\u8eca","v":2.0,"c":"#059669"},{"t":"7259","n":"\u30a2\u30a4\u30b7\u30f3","s":"\u90e8\u54c1","v":1.5,"c":"#6366f1"},{"t":"7202","n":"\u3044\u3059\u3056","s":"\u5b8c\u6210\u8eca","v":1.5,"c":"#059669"},{"t":"7261","n":"\u30de\u30c4\u30c0","s":"\u5b8c\u6210\u8eca","v":1.0,"c":"#059669"},{"t":"7211","n":"\u4e09\u83f1\u81ea\u52d5\u8eca","s":"\u5b8c\u6210\u8eca","v":0.7,"c":"#059669"},{"t":"6473","n":"\u30b8\u30a7\u30a4\u30c6\u30af\u30c8","s":"\u90e8\u54c1","v":0.4,"c":"#6366f1"},{"t":"7205","n":"\u65e5\u91ce\u81ea\u52d5\u8eca","s":"\u5b8c\u6210\u8eca","v":0.4,"c":"#059669"}]'></div>
-<p class="treemap-note">※ 親会社（東証）の時価総額。[タイ](/rule/asia/thai/)現法は非上場のため[日本](/rule/asia/japan/)本社で代替。</p>
+<p class="treemap-note">※ 親会社（東証）の時価総額。[タイ](/rule/asia/thai/)現法は非上場のため日本本社で代替。</p>
 </div>
 
 <div class="container-corp mt-5" id="corp-desc">

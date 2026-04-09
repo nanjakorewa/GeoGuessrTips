@@ -109,12 +109,12 @@ galleryDir: "japan-food-combinat"
     <p class="stat-card__unit">か所（千葉2・兵庫1・大阪1）</p>
   </div>
   <div class="stat-card">
-    <p class="stat-card__label">[日本](/rule/asia/japan/)最大・最古</p>
+    <p class="stat-card__label">日本最大・最古</p>
     <p class="stat-card__value">千葉食品</p>
     <p class="stat-card__unit">コンビナート（1964年・90ha）</p>
   </div>
   <div class="stat-card">
-    <p class="stat-card__label">[日本](/rule/asia/japan/)初の食品コンビナート</p>
+    <p class="stat-card__label">日本初の食品コンビナート</p>
     <p class="stat-card__value">神戸東部</p>
     <p class="stat-card__unit">第4工区（1972年認定）</p>
   </div>
@@ -245,9 +245,9 @@ galleryDir: "japan-food-combinat"
 <td>{{% dividend "tokyo" "2002" %}}</td>
 </tr>
 <tr>
-<td>ニップン（旧：[日本](/rule/asia/japan/)製粉）</td>
+<td>ニップン（旧：日本製粉）</td>
 <td>{{% minkabu 2001 %}}</td>
-<td>製粉国内2位のメーカー。神戸東部第4工区に神戸工場を保有し、関西～西日本への小麦製品供給の中核。冷凍食品「オーマイ」ブランドで消費者向け事業も展開。2021年4月に社名を[日本](/rule/asia/japan/)製粉からニップンに変更し、グローバル展開を加速。</td>
+<td>製粉国内2位のメーカー。神戸東部第4工区に神戸工場を保有し、関西～西日本への小麦製品供給の中核。冷凍食品「オーマイ」ブランドで消費者向け事業も展開。2021年4月に社名を日本製粉からニップンに変更し、グローバル展開を加速。</td>
 <td>{{% corplink "https://www.nippn.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2001" %}}</td>
 </tr>
@@ -333,7 +333,7 @@ galleryDir: "japan-food-combinat"
 <td>{{% dividend "tokyo" "2802" %}}</td>
 </tr>
 <tr>
-<td>[日本](/rule/asia/japan/)水産</td>
+<td>日本水産</td>
 <td>{{% minkabu 1332 %}}</td>
 <td>水産食品業界の大手メーカー。冷凍食品・練製品・缶詰で国内有数のシェアを占める。複数の食品コンビナートに生産拠点を保有。水産物の捕獲から加工・販売までの一貫体制で、国内食卓への水産物供給を支える。</td>
 <td>{{% corplink "https://www.nippon-suisan.co.jp/ir/" %}}</td>

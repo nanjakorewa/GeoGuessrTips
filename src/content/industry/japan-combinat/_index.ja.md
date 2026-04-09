@@ -133,7 +133,7 @@ galleryDir: "combinat"
     <p class="stat-card__unit">万トン（2024年）{{% cite "meti_ethylene2024" %}}</p>
   </div>
   <div class="stat-card">
-    <p class="stat-card__label">粗鋼生産能力（[日本](/rule/asia/japan/)全体）</p>
+    <p class="stat-card__label">粗鋼生産能力（日本全体）</p>
     <p class="stat-card__value">約12,240</p>
     <p class="stat-card__unit">万トン（2024年）{{% cite "worldsteel2024" %}}</p>
   </div>
