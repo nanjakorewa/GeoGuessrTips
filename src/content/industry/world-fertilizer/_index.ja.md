@@ -11,10 +11,10 @@ galleryDir: "world-fertilizer"
 
 ## 世界の肥料市場の概観
 
-肥料は窒素（N）・リン酸（P）・カリ（K）の三大栄養素を供給する農業用化学薬品で、世界の食糧生産を支える<span style="font-weight:700">不可欠な「農業の米」</span>です。世界の肥料市場規模は約2025～2026年時点で<span style="font-weight:700">約500～550億ドル</span>で、主要3形態の<span style="font-weight:700">尿素（Urea）・リン酸アンモニウム（DAP/MAP）・塩化カリ（MOP）</span>が世界の肥料貿易量の約70%を占めます{{% cite "ifa_outlook_2025" %}}。上位5社（<span style="font-weight:700">Nutrien / Mosaic / CF Industries / Yara / K+S</span>）で世界の商用肥料生産シェアの大半を支配し、特にNutrienは<span style="font-weight:700">世界最大手</span>として時価総額約37～40億ドル規模です{{% cite "nutrien_ir" %}}。肥料産業は天然ガス依存度が高く、[ロシア](/rule/asia/russia/)・中東・北米が地政学的に支配力を持つ戦略的コモディティです。
+肥料は窒素（N）・リン酸（P）・カリ（K）の三大栄養素を供給する農業用化学薬品で、世界の食糧生産を支える<span style="font-weight:700">不可欠な「農業の米」</span>です。世界の肥料市場規模は約2025～2026年時点で<span style="font-weight:700">約1,500～2,000億ドル</span>（推計機関により幅がある）で、主要3形態の<span style="font-weight:700">尿素（Urea）・リン酸アンモニウム（DAP/MAP）・塩化カリ（MOP）</span>が世界の肥料貿易量の約70%を占めます{{% cite "ifa_outlook_2025" %}}。上位5社（<span style="font-weight:700">Nutrien / Mosaic / CF Industries / Yara / K+S</span>）で世界の商用肥料生産シェアの大半を支配し、特にNutrienは<span style="font-weight:700">世界最大手</span>として時価総額約370～400億ドル規模です{{% cite "nutrien_ir" %}}。肥料産業は天然ガス依存度が高く、[ロシア](/rule/asia/russia/)・中東・北米が地政学的に支配力を持つ戦略的コモディティです。
 
 <div class="stat-grid">
-<div class="stat-card"><div class="stat-num">~500～550億USD</div><div class="stat-label">世界肥料市場規模（2025～2026年推計）</div></div>
+<div class="stat-card"><div class="stat-num">~1,500～2,000億USD</div><div class="stat-label">世界肥料市場規模（2025～2026年推計・推計機関により幅がある）</div></div>
 <div class="stat-card"><div class="stat-num">3</div><div class="stat-label">世界三大肥料形態（尿素・DAP・MOP）</div></div>
 <div class="stat-card"><div class="stat-num">5社</div><div class="stat-label">主要5社（Nutrien, Mosaic, CF, Yara, K+S）</div></div>
 <div class="stat-card"><div class="stat-num">天然ガス依存</div><div class="stat-label">窒素肥料の主要コスト要因</div></div>
@@ -24,7 +24,7 @@ galleryDir: "world-fertilizer"
 
 | 順位 | 企業 | 本拠地 | 主力製品 | 特徴 |
 | --- | --- | --- | --- | --- |
-| <span style="font-weight:700">1</span> | <span style="font-weight:700">Nutrien Ltd（NTR）</span>| <img src="/flags/CA.svg" alt="CA" class="inline-flag" width="20" height="14" loading="lazy" /> [カナダ](/rule/n_america/canada/)・サスカトゥーン | カリ・リン酸・窒素統合 | 2018年のPotashCorp＋Agrium合併で世界最大手。[カナダ](/rule/n_america/canada/)の3大カリ鉱山を保有。時価総額~$37-40B{{% cite "nutrien_ir" %}} |
+| <span style="font-weight:700">1</span> | <span style="font-weight:700">Nutrien Ltd（NTR）</span>| <img src="/flags/CA.svg" alt="CA" class="inline-flag" width="20" height="14" loading="lazy" /> [カナダ](/rule/n_america/canada/)・サスカトゥーン | カリ・リン酸・窒素統合 | 2018年のPotashCorp＋Agrium合併で世界最大手。[カナダ](/rule/n_america/canada/)の3大カリ鉱山を保有。時価総額~$37-40B（約370～400億ドル）{{% cite "nutrien_ir" %}} |
 | <span style="font-weight:700">2</span> | <span style="font-weight:700">The Mosaic Company（MOS）</span>| <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> [米国](/rule/n_america/usa/)・フロリダ州タンパ | リン酸・カリ | フロリダ・ルイジアナのリン酸採掘・肥料製造。2004年にCargill+IMC Global合併で設立、2011年にCargillから完全独立{{% cite "mosaic_ir" %}} |
 | <span style="font-weight:700">3</span> | <span style="font-weight:700">CF Industries（CF）</span>| <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> [米国](/rule/n_america/usa/)・イリノイ州ディアフィールド | 窒素肥料・尿素 | 北米・ルイジアナ・イリノイの大型尿素・アンモニアプラント。IRA投資税制優遇で拡張計画中{{% cite "cfindustries_ir" %}} |
 | <span style="font-weight:700">4</span> | <span style="font-weight:700">Yara（YAR.OL）</span>| <img src="/flags/NO.svg" alt="NO" class="inline-flag" width="20" height="14" loading="lazy" /> [ノルウェー](/rule/europe/norway/)・オスロ | 窒素・複合肥料 | 北欧・中東に製造拠点。グリーンアンモニア（水電解）への投資{{% cite "yara_ir" %}} |
@@ -152,7 +152,7 @@ CRU Internationalの肥料価格指数は2022年3月25日に<span style="font-we
 <span class="treemap-legend__item"><span class="treemap-legend__color" style="background:#f59e0b"></span>地域特化（欧州・[ロシア](/rule/asia/russia/)）</span>
 </div>
 <div class="corp-treemap" data-companies='[{"t":"NTR","n":"Nutrien","s":"統合メジャー","v":40.0,"c":"#3b82f6"},{"t":"MOS","n":"Mosaic","s":"リン酸・カリ","v":15.0,"c":"#8b5cf6"},{"t":"CF","n":"CF Industries","s":"窒素","v":14.0,"c":"#ec4899"},{"t":"YAR.OL","n":"Yara","s":"窒素・複合","v":12.0,"c":"#ec4899"},{"t":"SDF","n":"K+S","s":"カリ・塩化","v":5.0,"c":"#8b5cf6"},{"t":"ICL","n":"ICL","s":"カリ・リン酸","v":4.5,"c":"#8b5cf6"},{"t":"PHOR","n":"PhosAgro","s":"リン酸","v":3.0,"c":"#f59e0b"},{"t":"URAL","n":"Uralkali","s":"カリ","v":2.5,"c":"#f59e0b"},{"t":"BKAS","n":"Belaruskali","s":"カリ","v":1.8,"c":"#f59e0b"}]'></div>
-<p class="treemap-note">※ 面積は時価総額（概算・2025～2026年推計）に比例。市況・地政学リスク・制裁により大きく変動します。Nutrien（NTR）は世界最大手で時価総額~$37-40B。</p>
+<p class="treemap-note">※ 面積は時価総額（概算・2025～2026年推計）に比例。市況・地政学リスク・制裁により大きく変動します。Nutrien（NTR）は世界最大手で時価総額~$37-40B（約370～400億ドル）。</p>
 </div>
 
 <div class="container-corp mt-5" id="corp-desc">

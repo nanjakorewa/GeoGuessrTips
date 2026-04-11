@@ -61,7 +61,7 @@ galleryDir: "japan-combinat-kashima"
 
 | 設備 | 規模・仕様 |
 |------|-----------|
-| 高炉 | 1基稼働（第1高炉は2025年休止） |
+| 高炉 | 1基稼働（第3高炉は2025年3月休止{{% cite "nikkei_kashima_bf3" %}}） |
 | 第1高炉容積 | 5,370m³（世界最大級） |
 | 転炉 | 4基（各250トン型） |
 | 連続鋳造機 | スラブキャスター4基 |
@@ -87,7 +87,7 @@ galleryDir: "japan-combinat-kashima"
 | 2002 | 第1高炉を大改修・拡大（容積5,370m³に増強） |
 | 2011 | 東日本大震災で一時操業停止。約1.5か月で復旧 |
 | 2023 | 日本製鉄全体で稼働高炉を集約（内需縮小への対応） |
-| 2025 | 鹿島第1高炉を休止（バンキング）。1基体制へ移行 |
+| 2025 | 鹿島第3高炉を休止（3月31日）{{% cite "nikkei_kashima_bf3" %}}。第1高炉（5,370m³）の1基体制へ移行 |
 
 {{% /timeline %}}
 
@@ -191,4 +191,5 @@ kant2021: 国土交通省 関東地方整備局「鹿島港の概要」<https://
 mlit_kashima_port: 国土交通省「全国港湾統計」<https://www.mlit.go.jp/maritime/content/001621452.pdf>
 nipponsteel2023: 日本製鉄 統合報告書 2024（2024年）<https://www.nipponsteel.com/common/secure/ir/library/pdf/nsc_jp_ir_2024_all.pdf>
 jisf_stats: 日本鉄鋼連盟「鉄鋼統計 生産・時系列」<https://www.jisf.or.jp/data/jikeiretsu/seisan.html>
+nikkei_kashima_bf3: 高知新聞「日鉄、３１日に鹿島第３高炉休止 国内生産体制の縮小に区切り」（2025年3月）<https://www.kochinews.co.jp/article/detail/844494>
 {{% /references %}}
