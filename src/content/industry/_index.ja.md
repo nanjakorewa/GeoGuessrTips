@@ -17,7 +17,7 @@ card_image: "pipeline.jpg"
 <div class="ind-card-grid">
 
 <a class="ind-card" href="/industry/japan-industrial-zones/">
-<div class="ind-card-placeholder">🏭</div>
+<img class="ind-card-thumb" src="/images/industry/japan-industrial-zones/kurashiki_city_mizushima_industrial.jpg" alt="工業地帯" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
 <div class="ind-card-title">日本の工業地帯・工業地域一覧</div>
@@ -43,7 +43,7 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/japan-semiconductor/">
-<div class="ind-card-placeholder">💎</div>
+<img class="ind-card-thumb" src="/images/industry/japan-semiconductor/siliziumwafer.jpg" alt="半導体" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
 <div class="ind-card-title">日本の半導体産業集積地</div>
@@ -93,7 +93,7 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/japan-food-combinat/">
-<div class="ind-card-placeholder">🍱</div>
+<img class="ind-card-thumb" src="/images/industry/japan-food-combinat/ajinomoto_pro.jpg" alt="食品コンビナート" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
 <div class="ind-card-title">日本の食品コンビナート</div>
@@ -103,7 +103,7 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/japan-hydrogen-ammonia/">
-<div class="ind-card-placeholder">⚡</div>
+<img class="ind-card-thumb" src="/images/industry/japan-hydrogen-ammonia/960px-Hydrogen_filling_station_in_Minato-ku_2.jpg" alt="水素ステーション" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
 <div class="ind-card-title">日本の水素・アンモニア拠点</div>
@@ -183,7 +183,7 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/japan-fiber/">
-<div class="ind-card-placeholder">🧵</div>
+<img class="ind-card-thumb" src="/images/industry/japan-fiber/960px-Toray-Industries-Okazaki-1.jpg" alt="合成繊維" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
 <div class="ind-card-title">日本の合成繊維・炭素繊維産業</div>

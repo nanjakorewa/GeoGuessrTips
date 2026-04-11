@@ -18,8 +18,8 @@ galleryDir: "japan-semiconductor-kyushu"
   </div>
   <div class="stat-card">
     <p class="stat-card__label">ソニー CMOSセンサー世界シェア</p>
-    <p class="stat-card__value">約50</p>
-    <p class="stat-card__unit">%（スマートフォン向け・2023年）。熊本・長崎に主力工場{{% cite "sony2023" %}}</p>
+    <p class="stat-card__value">約45</p>
+    <p class="stat-card__unit">%（スマートフォン向け・2023年）。熊本・長崎に主力工場{{% cite "sony2023" %}}{{% cite "techinsights_sony_cmos" %}}</p>
   </div>
   <div class="stat-card">
     <p class="stat-card__label">ルネサス 熊本・大分 月産能力</p>
@@ -79,7 +79,7 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 
 ## ソニーセミコンダクタ — CMOSイメージセンサー
 
-ソニーの半導体部門（ソニーセミコンダクタソリューションズ）は熊本県と長崎県に主力工場を保有し、スマートフォン向けCMOSイメージセンサーで世界シェア約50%を占めます{{% cite "sony2023" %}}。
+ソニーの半導体部門（ソニーセミコンダクタソリューションズ）は熊本県と長崎県に主力工場を保有し、スマートフォン向けCMOSイメージセンサーで世界シェア約45%を占めます{{% cite "sony2023" %}}{{% cite "techinsights_sony_cmos" %}}。
 
 | 工場 | 所在地 | 主な製品 |
 | ---- | ------ | -------- |
@@ -137,7 +137,7 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 <tr>
 <td>ソニーグループ</td>
 <td>{{% minkabu 6758 %}}</td>
-<td>CMOSイメージセンサーで世界首位（シェア約50%）の半導体メーカー。熊本県菊陽町・合志市、長崎県諫早市、大分県大分市に主力工場を保有。スマートフォン・車載カメラ向けの高精度積層型センサーで市場をリード。TSMC熊本工場（JASM）に約6%出資し、ウェーハ供給と技術連携で九州クラスターの中核をなす</td>
+<td>CMOSイメージセンサーで世界首位（シェア約45%）の半導体メーカー。熊本県菊陽町・合志市、長崎県諫早市、大分県大分市に主力工場を保有。スマートフォン・車載カメラ向けの高精度積層型センサーで市場をリード。TSMC熊本工場（JASM）に約6%出資し、ウェーハ供給と技術連携で九州クラスターの中核をなす</td>
 <td>{{% corplink "https://www.sony.com/ja/SonyInfo/IR/" %}}</td>
 <td>{{% dividend "tokyo" "6758" %}}</td>
 </tr>
@@ -181,4 +181,5 @@ sony2023: ソニーグループ株式会社「有価証券報告書2023年度」
 renesas2023: ルネサスエレクトロニクス株式会社「有価証券報告書2023年度」（2023年）<https://www.renesas.com/ja/about/investor-relations/security?srsltid=AfmBOoo-ipgMc01_XY54gV4RGeJuVOOqqO9yMGm8F44UGtfe3Xg37ek3>
 meti_semi_plan: 経済産業省「認定特定半導体生産施設整備等計画について」<https://www.meti.go.jp/policy/mono_info_service/joho/laws/semiconductor/semiconductor_plan.html>
 kyushu_meti: 九州経済産業局「半導体に関する最近の政策動向について」（2024年2月）<https://www.kyushu.meti.go.jp/seisaku/jyoho/oshirase/240228_1_1.pdf>
+techinsights_sony_cmos: TechInsights「Smartphone Image Sensor Market Share Q4 2023: Sony Semiconductor Leads with Record Revenues」<https://www.techinsights.com/blog/smartphone-image-sensor-market-share-q4-2023-sony-semiconductor-leads-record-revenues>
 {{% /references %}}
