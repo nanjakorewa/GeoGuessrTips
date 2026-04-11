@@ -183,7 +183,7 @@ graph LR
 
 半導体製造・装置・材料に関わる主要上場企業の時価総額を可視化しています。
 
-{{% corp-treemap "6758,6723,8035,4063,3436,6857,6963,6966,6258,6146,7735,6871,4185,4186,6920,6594,6556,8564,6502,6702,5214" %}}
+{{% corp-treemap "6758,6723,8035,4063,3436,6857,6963,6966,6258,6146,7735,6871,4185,4186,6920,6594,6762,6981,6502,6702,6701" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -230,16 +230,16 @@ graph LR
 <tr>
 <td>富士通</td>
 <td>{{% minkabu 6702 %}}</td>
-<td>LSI・マイクロプロセッサ設計企業。サーバー・HPC向けプロセッサで業界的な知見を活用。Spark64アーキテクチャなど独自技術で大規模ディータセンター向け高性能チップを展開</td>
+<td>LSI・マイクロプロセッサ設計企業。サーバー・HPC向けプロセッサで業界的な知見を活用。SPARC64アーキテクチャなど独自技術で大規模データセンター向け高性能チップを展開</td>
 <td>{{% corplink "https://global.fujitsu/ja-jp/ir" %}}</td>
 <td>{{% dividend "tokyo" "6702" %}}</td>
 </tr>
 <tr>
 <td>日本電気</td>
-<td>{{% minkabu 5214 %}}</td>
+<td>{{% minkabu 6701 %}}</td>
 <td>LSI・光通信デバイス開発企業。サーバー・ネットワーク機器向けプロセッサで技術的な優位性を保持。通信インフラの高度化に伴う需要増加で成長基盤を整備</td>
 <td>{{% corplink "https://www.nec.com/ja/ir/" %}}</td>
-<td>{{% dividend "tokyo" "5214" %}}</td>
+<td>{{% dividend "tokyo" "6701" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体材料（シリコンウェーハ・フォトレジスト）</td></tr>
 <tr>
@@ -333,17 +333,17 @@ graph LR
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 電子部品（コンデンサ・センサー・モーター）</td></tr>
 <tr>
 <td>村田製作所</td>
-<td>{{% minkabu 8564 %}}</td>
+<td>{{% minkabu 6981 %}}</td>
 <td>積層セラミックコンデンサで世界首位（シェア40%以上）のメーカー。センサー・無線モジュール・高周波デバイスで多様なエレクトロニクス企業に供給。AI・5G・EV向けの電子部品需要で成長基盤を強化</td>
 <td>{{% corplink "https://corporate.murata.com/ja-jp/ir" %}}</td>
-<td>{{% dividend "tokyo" "8564" %}}</td>
+<td>{{% dividend "tokyo" "6981" %}}</td>
 </tr>
 <tr>
 <td>TDK</td>
-<td>{{% minkabu 6556 %}}</td>
+<td>{{% minkabu 6762 %}}</td>
 <td>フェライト・センサー・電源モジュールで世界的な競争力を保有。スマートフォン・自動車・IoT向けの電子部品で多岐の顧客層に供給。HDD減衰に伴うタービンモーター向けから、EV・自動運転向け高機能部品への展開を強化</td>
 <td>{{% corplink "https://www.tdk.com/ja/ir/index.html" %}}</td>
-<td>{{% dividend "tokyo" "6556" %}}</td>
+<td>{{% dividend "tokyo" "6762" %}}</td>
 </tr>
 <tr>
 <td>ニデック</td>
@@ -370,4 +370,8 @@ shinetsu_ir: 信越化学工業株式会社「Annual Report 2024」<https://www.
 siiq2023: 九州地域半導体・エレクトロニクス分野関連企業マップ（九州半導体・エレクトロニクスイノベーション協議会、2023年）<https://siiq.or.jp/wp-content/uploads/2023/11/%E4%B9%9D%E5%B7%9E%E5%9C%B0%E5%9F%9F%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%BB%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E5%88%86%E9%87%8E%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%9E%E3%83%83%E3%83%97.pdf>
 sony_ir: ソニーグループ株式会社「有価証券報告書・統合報告書」<https://www.sony.com/ja/SonyInfo/IR/library/yu.html>
 sumco_ir: 株式会社SUMCO「IR情報」<https://www.sumcosi.com/ir/>
+murata_ir: 株式会社村田製作所「投資家情報」（証券コード: 6981）<https://corporate.murata.com/ja-jp/ir>
+tdk_ir: TDK株式会社「投資家情報」（証券コード: 6762）<https://www.tdk.com/ja/ir/index.html>
+nec_ir: 日本電気株式会社「投資家情報」（証券コード: 6701）<https://www.nec.com/ja/ir/>
+fujitsu_sparc: 富士通株式会社「SPARC64プロセッサ」<https://www.fujitsu.com/jp/products/computing/servers/unix/sparc/>
 {{% /references %}}

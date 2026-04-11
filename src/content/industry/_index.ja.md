@@ -83,7 +83,7 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/japan-shipping/">
-<div class="ind-card-placeholder">🚢</div>
+<img class="ind-card-thumb" src="/images/industry/japan-shipping/nyk_aphrodite_p3_approaching.jpg" alt="海運" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
 <div class="ind-card-title">日本の海運業</div>
@@ -113,7 +113,7 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/japan-nonferrous/">
-<div class="ind-card-placeholder">🔩</div>
+<img class="ind-card-thumb" src="/images/industry/japan-nonferrous/copper_coupler_copper_pipe.jpg" alt="非鉄金属" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
 <div class="ind-card-title">日本の非鉄金属製錬</div>
@@ -133,7 +133,7 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/japan-paper/">
-<div class="ind-card-placeholder">📄</div>
+<img class="ind-card-thumb" src="/images/industry/japan-paper/paper_roll_newspaper_paper.jpg" alt="製紙" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
 <div class="ind-card-title">日本の製紙・パルプ産業</div>
@@ -173,7 +173,7 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/japan-robotics/">
-<img class="ind-card-thumb" src="/images/industry/japan-robotics/1280px-Fanuc_LR_Mate_200iD_7L_aka_&quot;Roberta&quot;_counts_meds_and_fills_prescriptions_Luke_AFB.jpg" alt="産業用ロボット" loading="lazy" />
+<img class="ind-card-thumb" src="/images/industry/japan-robotics/fanuc_r2000ib_atwork.jpg" alt="産業用ロボット" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
 <div class="ind-card-title">日本の産業用ロボット産業</div>
@@ -219,7 +219,7 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/world-mining/">
-<div class="ind-card-placeholder">⛏️</div>
+<img class="ind-card-thumb" src="/images/industry/world-mining/mining_operations_paraburdoo_mine.jpg" alt="鉱業" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag">🌍 World</span>
 <div class="ind-card-title">世界の鉱業</div>
@@ -269,7 +269,7 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/thailand-japanese/">
-<div class="ind-card-placeholder">🇹🇭</div>
+<img class="ind-card-thumb" src="/images/industry/thailand-japanese/toyota_corolla_altis_e120.jpg" alt="タイ日系企業" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><img src="/flags/TH.svg" alt="TH" width="16" height="11" loading="lazy" /> Thailand</span>
 <div class="ind-card-title">タイにおける日系企業の集積</div>
@@ -279,7 +279,7 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/chile-mining/">
-<div class="ind-card-placeholder">🏔️</div>
+<img class="ind-card-thumb" src="/images/industry/chile-mining/chuquicamata_chile_2009.jpg" alt="チリ鉱業" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><img src="/flags/CL.svg" alt="CL" width="16" height="11" loading="lazy" /> Chile</span>
 <div class="ind-card-title">チリの銅・リチウム鉱業</div>

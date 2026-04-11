@@ -173,7 +173,7 @@ galleryDir: "japan-nonferrous"
 | ---- | ------ | ------ | -------- | ---- |
 | 亜鉛 | <span style="font-weight:700">秋田製錬所</span> | 秋田県秋田市 | DOWAホールディングス | 国内最大級の電気亜鉛生産拠点。年産約20万t{{% cite "dowa_metalmine" %}} |
 | 亜鉛・鉛 | <span style="font-weight:700">小坂製錬</span> | 秋田県小坂町 | DOWAホールディングス | 旧鉱山から複雑鉱処理・リサイクル拠点へ転換{{% cite "dowa_metalmine" %}} |
-| 亜鉛 | 亜鉛 | <span style="font-weight:700">八戸製錬</span> | 青森県八戸市 | 三井金属鉱業 | 国内有数の電気亜鉛拠点{{% cite "mitsui_kinzoku_business" %}} |
+| 亜鉛 | <span style="font-weight:700">八戸製錬</span> | 青森県八戸市 | 三井金属鉱業 | 国内有数の電気亜鉛拠点{{% cite "mitsui_kinzoku_business" %}} |
 | 亜鉛・鉛 | <span style="font-weight:700">神岡鉱業</span> | 岐阜県飛騨市 | 三井金属鉱業（神岡鉱業） | 旧神岡鉱山由来。現在はリサイクル原料処理が中心{{% cite "mitsui_kinzoku_business" %}} |
 | 亜鉛 | <span style="font-weight:700">安中製錬所</span> | 群馬県安中市 | 東邦亜鉛 | 2024年12月発表の事業再生計画により、亜鉛製錬事業からの撤退方針が示された{{% cite "tohozinc_recovery" %}} |
 | ニッケル | <span style="font-weight:700">ニッケル工場</span> | 愛媛県新居浜市 | 住友金属鉱山 | [フィリピン](/rule/asia/philippines/)・ニューカレドニアからの鉱石を処理。EV電池材料の前駆体（NCA・NMC）も製造{{% cite "smm_company" %}} |
@@ -304,9 +304,9 @@ galleryDir: "japan-nonferrous"
 <td>{{% dividend "tokyo" "5801" %}}</td>
 </tr>
 <tr>
-<td>富士クラレ（藤倉化成グループ）</td>
+<td>フジクラ</td>
 <td>{{% minkabu 5803 %}}</td>
-<td>古河・富士電機系の電線・光ファイバー・電子部品メーカー。自動車配線・産業用ケーブルで国内有数のシェアを保有。高周波ケーブル、通信用光ファイバーなど高機能製品で市場リーダー。EV・自動運転向けの電子部品・配線システムで成長{{< cite "fujikura_co" %}}。</td>
+<td>古河グループ系の電線・光ファイバー・電子部品メーカー。自動車配線・産業用ケーブルで国内有数のシェアを保有。高周波ケーブル、通信用光ファイバーなど高機能製品で市場リーダー。EV・自動運転向けの電子部品・配線システムで成長{{% cite "fujikura_co" %}}。</td>
 <td>{{% corplink "https://www.fujikura.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5803" %}}</td>
 </tr>
@@ -344,4 +344,9 @@ smm_company: 住友金属鉱山株式会社「会社情報」<https://www.smm.co
 smm_toyo: 住友金属鉱山株式会社「東予工場」<https://www.smm.co.jp/corp_info/location/domestic/toyo/>
 sumitomo_besshi: 住友グループ広報委員会「別子銅山」<https://www.sumitomo.gr.jp/history/besshidouzan/>
 tohozinc_recovery: 東邦亜鉛株式会社「事業再生計画について」<https://www.toho-zinc.co.jp/news/>
+sumitomo_electric: 住友電気工業株式会社「会社情報」<https://www.sei.co.jp/company/>
+furukawa_electric: 古河電気工業株式会社「会社情報」<https://www.furukawa.co.jp/company/>
+fujikura_co: 株式会社フジクラ「会社情報」<https://www.fujikura.co.jp/company/>
+nippon_seisen: 日本製線株式会社「会社情報」<https://www.nihonseisen.co.jp/>
+asaco_plating: アサコ鍍金株式会社「会社概要」<https://www.asaco-plating.co.jp/>
 {{% /references %}}

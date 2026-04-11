@@ -234,7 +234,7 @@ galleryDir: "japan-paper"
 
 国内主要4社と関連企業の時価総額を可視化しています。
 
-{{% corp-treemap "3861,3863,3880,3941,3865,3898" %}}
+{{% corp-treemap "3861,3863,3880,3941,3865,3877" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -287,10 +287,10 @@ galleryDir: "japan-paper"
 </tr>
 <tr>
 <td>中越パルプ工業</td>
-<td>{{% minkabu 3898 %}}</td>
+<td>{{% minkabu 3877 %}}</td>
 <td>本社は富山県高岡市。高岡工場・二塚工場を中核に、印刷用紙・特殊紙・段ボール原紙・バイオマス発電を展開。竹パルプでも国内最大級の製造能力を持つ中堅製紙メーカー。</td>
 <td>{{% corplink "https://www.chuetsu-pulp.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "3898" %}}</td>
+<td>{{% dividend "tokyo" "3877" %}}</td>
 </tr>
 </tbody>
 </table>

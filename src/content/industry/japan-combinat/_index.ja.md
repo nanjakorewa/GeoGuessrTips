@@ -154,7 +154,7 @@ galleryDir: "combinat"
 
 解説済みコンビナート（京葉・鹿島・水島）に関連する主要上場企業の時価総額を可視化しています。同一企業が複数のコンビナートに立地する場合も1回のみ表示されます。
 
-{{% corp-treemap "5020,5019,5021,5009,5411,4005,4188,5401,3407,7211,4463,4204,4185,4191,4185,6701,5012,3880,4206,5110" %}}
+{{% corp-treemap "5020,5019,5021,5009,5411,4005,4183,4188,5401,3407,7211,4463,4204,4185,4191,6701,5012,3880,4206,5110" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -221,10 +221,10 @@ galleryDir: "combinat"
 </tr>
 <tr>
 <td>三井化学</td>
-<td>{{% minkabu 4005 %}}</td>
+<td>{{% minkabu 4183 %}}</td>
 <td>市原工場（京葉）はエチレン能力約55.5万t/年。ポリウレタン原料（MDI）・機能性樹脂・EVバッテリー材料が主力。2027年度に出光とエチレン装置統合予定。</td>
 <td>{{% corplink "https://jp.mitsuichemicals.com/jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "4005" %}}</td>
+<td>{{% dividend "tokyo" "4183" %}}</td>
 </tr>
 <tr>
 <td>クラレ</td>
