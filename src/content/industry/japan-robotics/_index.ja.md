@@ -13,21 +13,21 @@ galleryDir: "japan-robotics"
 (function() {
   // 主要ロボット企業本社・R&D拠点（青●）
   var pins = [
-    { x: 395, y: 458, label: '忍野村/富士吉田', type: 'robot',
+    { x: 395, y: 460, label: '忍野村/富士吉田', type: 'robot',
       note: 'FANUC本社・製造拠点（山梨県南都留郡）' },
-    { x: 445, y: 440, label: '筑波', type: 'robot',
+    { x: 446, y: 430, label: '筑波', type: 'robot',
       note: 'FANUC筑波R&D（茨城県）' },
-    { x: 95, y: 518, label: '北九州', type: 'robot',
+    { x: 113, y: 513, label: '北九州', type: 'robot',
       note: '安川電機本社・ロボット事業（福岡県北九州市）' },
-    { x: 218, y: 475, label: '赤穂/姫路', type: 'robot',
+    { x: 231, y: 478, label: '赤穂/姫路', type: 'robot',
       note: '川崎重工ロボット事業（兵庫県）' },
-    { x: 318, y: 478, label: '名古屋', type: 'robot',
+    { x: 319, y: 469, label: '名古屋', type: 'robot',
       note: '三菱電機ロボット事業本部（愛知県）' },
-    { x: 330, y: 488, label: '刈谷', type: 'robot',
+    { x: 325, y: 485, label: '刈谷', type: 'robot',
       note: 'デンソーウェーブロボット製造（愛知県）' },
-    { x: 350, y: 428, label: '松本', type: 'robot',
+    { x: 365, y: 420, label: '松本', type: 'robot',
       note: 'エプソン（セイコーエプソン）SCARA製造（長野県）' },
-    { x: 405, y: 430, label: '大宮', type: 'robot',
+    { x: 429, y: 439, label: '大宮', type: 'robot',
       note: 'ハーモニックドライブシステムズ精密減速機（埼玉県）' },
   ];
 

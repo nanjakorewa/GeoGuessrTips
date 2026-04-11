@@ -1,6 +1,6 @@
 ---
 title: "日本の板ガラス・特殊ガラス産業"
-subtitle: "AGC・日本電気硝子・日本板硝子 — 建築・自動車・ディスプレイの素材産業"
+subtitle: "AGC・日本電気硝子・日本板硝子・日東紡 — 建築・自動車・ディスプレイ・半導体パッケージの素材産業"
 date: 2026-04-07
 lastmod: 2026-04-07
 description: "日本の板ガラス・特殊ガラス産業を解説。AGC（旧旭硝子）・日本板硝子（NSG）・日本電気硝子（NEG）の3大メーカーと、フロート板ガラス・自動車用ガラス・液晶ディスプレイ用ガラスの製造拠点・市場構造を整理。"
@@ -11,16 +11,16 @@ galleryDir: "japan-glass"
 
 ## [日本](/rule/asia/japan/)の板ガラス産業の概観
 
-[日本](/rule/asia/japan/)の板ガラス・特殊ガラス産業は、<span style="font-weight:700">AGC（旧旭硝子、5201）</span>、<span style="font-weight:700">[日本](/rule/asia/japan/)板硝子（NSG、5202）</span>、<span style="font-weight:700">[日本](/rule/asia/japan/)電気硝子（NEG、5214）</span>の3社が中核です。AGCとNSGはコモディティの建築用フロートガラスから自動車用ガラスまで広く手がけ、NEGはCRTブラウン管ガラスの時代から液晶ディスプレイ用ガラス基板へ転換し、現在はガラスファイバー・医薬用バイアルなどに展開しています。世界のフロートガラス（板ガラス）はAGC・NSG・<span style="font-weight:700">米Guardian</span>・<span style="font-weight:700">仏Saint-Gobain</span>の4社で世界生産の大半を占めるという寡占構造で、[日本](/rule/asia/japan/)2社はそのうち2席を確保しています。
+[日本](/rule/asia/japan/)の板ガラス・特殊ガラス産業は、<span style="font-weight:700">AGC（旧旭硝子、5201）</span>、<span style="font-weight:700">[日本](/rule/asia/japan/)板硝子（NSG、5202）</span>、<span style="font-weight:700">[日本](/rule/asia/japan/)電気硝子（NEG、5214）</span>の板ガラス3社に加え、ガラス繊維（ガラスクロス）で半導体パッケージ基板を支える<span style="font-weight:700">日東紡績（3110）</span>が重要なプレーヤーです。AGCとNSGはコモディティの建築用フロートガラスから自動車用ガラスまで広く手がけ、NEGはCRTブラウン管ガラスの時代から液晶ディスプレイ用ガラス基板へ転換し、現在はガラスファイバー・医薬用バイアルなどに展開しています。日東紡は福島を拠点に、AI・半導体需要で急成長中のスペシャルガラスクロスでグローバルニッチトップの地位を築いています。世界のフロートガラス（板ガラス）はAGC・NSG・<span style="font-weight:700">米Guardian</span>・<span style="font-weight:700">仏Saint-Gobain</span>の4社で世界生産の大半を占めるという寡占構造で、[日本](/rule/asia/japan/)2社はそのうち2席を確保しています。
 
 <div class="stat-grid">
-<div class="stat-card"><div class="stat-num">3社</div><div class="stat-label">3大メーカー（AGC・NSG・NEG）</div></div>
 <div class="stat-card"><div class="stat-num">2.10兆円{{% cite "agc_fy2024" %}}</div><div class="stat-label">AGC連結売上（2024年12月期）</div></div>
 <div class="stat-card"><div class="stat-num">8,325億円{{% cite "nsg_fy2024" %}}</div><div class="stat-label">NSG連結売上（2024年3月期）</div></div>
+<div class="stat-card"><div class="stat-num">1,090億円{{% cite "nittobo_fy2025" %}}</div><div class="stat-label">日東紡連結売上（2025年3月期）</div></div>
 <div class="stat-card"><div class="stat-num">2006{{% cite "nsg_company" %}}</div><div class="stat-label">NSGが英Pilkington買収（"小蛇が大蛇を呑む"）</div></div>
 </div>
 
-## 3大メーカー
+## 主要メーカー
 
 ### AGC株式会社（5201、旧旭硝子）
 
@@ -37,6 +37,11 @@ galleryDir: "japan-glass"
 1944年滋賀県大津市で創業{{% cite "neg_company" %}}。<span style="font-weight:700">液晶ディスプレイ用ガラス基板</span>で世界トップ3（米<span style="font-weight:700">Corning</span>、[台湾](/rule/asia/taiwan/)<span style="font-weight:700">AvanStrate</span>、[日本](/rule/asia/japan/)電気硝子）の一角。ガラスファイバー、医薬・電子用ガラス管も強み。本社は大津市。
 - 主要工場：大津事業場（滋賀県大津市）、能登川事業場、ハリオサイエンスグループ
 
+### 日東紡績株式会社（3110）
+
+1923年（大正12年）福島県で綿紡績会社として創業{{% cite "nittobo_company" %}}。戦後にガラス繊維事業へ進出し、現在はガラスクロス（ガラス繊維の織物）を主力とする<span style="font-weight:700">スペシャルガラスのグローバルニッチトップ企業</span>へ変貌しています。特に先端半導体パッケージ基板に不可欠な<span style="font-weight:700">Tガラスクロス</span>（高弾性・低熱膨張）と、5G・高速通信向けの<span style="font-weight:700">NEガラスクロス</span>（低誘電・低誘電正接）の2つのスペシャルガラスで世界トップシェアを握ります{{% cite "nittobo_electronics" %}}。AI・半導体需要の急拡大を受けて電子材料事業は売上高の約48%、営業利益の85%超を稼ぐ収益ドライバーとなっており{{% cite "nittobo_fy2025" %}}、福島事業センターに約150億円を投じて新工場棟を建設中（2027年稼働予定）で生産能力を最大3倍に増強する計画です{{% cite "nittobo_fukushima" %}}。本社は東京・千代田区（登記上は福島市）。
+- 主要工場：福島事業センター（福島市）
+
 ## 用途別市場構造
 
 | 用途 | 説明 | 主要メーカー |
@@ -46,7 +51,7 @@ galleryDir: "japan-glass"
 | <span style="font-weight:700">ディスプレイ用ガラス基板</span> | 液晶パネル・OLED用TFTガラス基板（マザーガラス）| Corning, AGC, NEG, AvanStrate |
 | <span style="font-weight:700">半導体用合成石英・マスクブランクス</span> | EUV露光用フォトマスク基板 | AGC、HOYA、信越化学 |
 | <span style="font-weight:700">耐熱・特殊ガラス</span> | 調理器具・実験器具・薬品瓶 | NEG、HARIO、AGC |
-| <span style="font-weight:700">ガラス繊維（GF）</span> | FRP・絶縁材 | NEG（電子用）、Owens Corning |
+| <span style="font-weight:700">ガラス繊維・ガラスクロス</span> | 半導体PKG基板（Tガラス・NEガラス）、FRP・絶縁材 | 日東紡（スペシャルガラスクロス世界トップ）、NEG（電子用）、Owens Corning |
 | <span style="font-weight:700">太陽電池カバーガラス</span> | 結晶Si・薄膜太陽電池 | AGC、NSG、[中国](/rule/asia/china/)Xinyi Solar |
 
 ## 中部・関西〜九州に集まるガラス工場
@@ -60,7 +65,7 @@ galleryDir: "japan-glass"
 ## [日本](/rule/asia/japan/)のガラスメーカー時価総額マップ
 
 <div class="corp-treemap-section">
-<div class="corp-treemap" data-companies='[{"t":"5201","n":"AGC","s":"ガラス","v":1.2,"c":"#0891b2"},{"t":"7741","n":"HOYA","s":"光学・医療","v":0.8,"c":"#06b6d4"},{"t":"5214","n":"日本電気硝子","s":"特殊ガラス","v":0.3,"c":"#0891b2"},{"t":"5202","n":"NSG","s":"ガラス","v":0.05,"c":"#0891b2"},{"t":"5334","n":"セントラルガラス","s":"特殊ガラス","v":0.088,"c":"#0891b2"}]'></div>
+<div class="corp-treemap" data-companies='[{"t":"5201","n":"AGC","s":"ガラス","v":1.2,"c":"#0891b2"},{"t":"7741","n":"HOYA","s":"光学・医療","v":0.8,"c":"#06b6d4"},{"t":"3110","n":"日東紡","s":"ガラス繊維","v":0.78,"c":"#059669"},{"t":"5214","n":"日本電気硝子","s":"特殊ガラス","v":0.3,"c":"#0891b2"},{"t":"5334","n":"セントラルガラス","s":"特殊ガラス","v":0.088,"c":"#0891b2"},{"t":"5202","n":"NSG","s":"ガラス","v":0.05,"c":"#0891b2"}]'></div>
 <p class="treemap-note">※ HOYAは光学・医療機器が主体だが、フォトマスク向けガラス基板の戦略的位置付けから含む。</p>
 </div>
 
@@ -92,6 +97,14 @@ galleryDir: "japan-glass"
 <td>1918年大阪創業のガラスメーカー。2006年に英国の世界的大手Pilkingtonを約6,160億円で買収し、一気に世界トップ級に成長（「小蛇が大蛇を呑む買収」）。建築用・自動車用フロートガラスの大手だが、買収後の財務負担から現在は構造改革を推進{{% cite "nsg_company" %}}。</td>
 <td>{{% corplink "https://www.nsg.com/jp/ir" %}}</td>
 <td>{{% dividend "tokyo" "5202" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ ガラス繊維・ガラスクロス</td></tr>
+<tr>
+<td>日東紡績</td>
+<td>{{% minkabu 3110 %}}</td>
+<td>1923年福島県で綿紡績会社として創業し、戦後にガラス繊維事業へ転換。半導体パッケージ基板に不可欠なTガラスクロス（高弾性・低熱膨張）とNEガラスクロス（低誘電・低誘電正接）でグローバルニッチトップの地位を確保{{% cite "nittobo_company" %}}。AI・半導体需要の急拡大で電子材料事業が売上の約48%・営業利益の85%超を占める収益ドライバーに成長。福島事業センターに150億円を投じ生産能力を最大3倍に増強予定（2027年稼働）{{% cite "nittobo_fukushima" %}}。</td>
+<td>{{% corplink "https://www.nittobo.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3110" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 特殊ガラス・光学</td></tr>
 <tr>
@@ -127,6 +140,11 @@ agc_fy2024: AGC株式会社「2024年12月期決算説明会資料」<https://ww
 nsg_company: 日本板硝子「会社情報」<https://www.nsg.com/jp/about-nsg>
 nsg_fy2024: 日本板硝子「業績ハイライト」<https://www.nsg.com/en/investors/ir-library/key-financial-data>
 neg_company: 日本電気硝子「会社情報」<https://www.neg.co.jp/company/>
+nittobo_company: 日東紡績「会社概要」<https://www.nittobo.co.jp/company/gaiyou.htm>
+nittobo_electronics: 日東紡績「電子材料事業」<https://www.nittobo.co.jp/business/electronicmaterials/index.htm>
+nittobo_fy2025: 日東紡績「2025年3月期決算短信」<https://www.nittobo.co.jp/ir/>
+nittobo_fukushima: 日本経済新聞「日東紡、福島に半導体向け特殊ガラスの新工場棟」（2025年9月2日）<https://www.nikkei.com/article/DGXZQOCC021TM0S5A900C2000000/>
+hoya_company: HOYA株式会社「会社情報」<https://www.hoya.com/ja/about/>
 glass_assoc: 板硝子協会「業界概況」<https://www.itakyo.or.jp/>
 meti_glass: 経済産業省「窯業・建材統計」<https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/02_youkenchi.html>
 {{% /references %}}
