@@ -273,7 +273,7 @@ if (data.galleryDir) {
     /* Compact clamp: always overflow:hidden, height controlled by JS */
     .ind-map-clamp {
       position: relative;
-      height: 440px;
+      height: 480px;
       overflow: hidden;
       transition: height 0.5s ease;
     }
@@ -315,7 +315,7 @@ if (data.galleryDir) {
     }
     /* World SVG map gets wider container */
     .ind-map-wrapper.ind-map-wrapper--world {
-      max-width: 780px;
+      max-width: 960px;
     }
     .ind-map-wrapper #world-map {
       width: 100%;
@@ -348,13 +348,13 @@ if (data.galleryDir) {
       filter: drop-shadow(0 1px 2px rgba(0,0,0,0.4));
     }
     .map-pin-label {
-      font-size: 9px;
+      font-size: 11px;
       fill: #fff;
       font-weight: 600;
       text-anchor: middle;
       paint-order: stroke;
       stroke: rgba(0,0,0,0.7);
-      stroke-width: 2.5px;
+      stroke-width: 3px;
       stroke-linejoin: round;
     }
     /* JSMaps: SVG and wrapper sizing (non-world maps) */
@@ -1765,7 +1765,7 @@ if (data.galleryDir) {
           var isOpen = clamp.classList.contains('is-open');
           if (isOpen) {
             clamp.classList.remove('is-open');
-            clamp.style.height = '440px';
+            clamp.style.height = '480px';
             btn.textContent = '地図を全体表示 ▼';
           } else {
             var wrapper = clamp.querySelector('.ind-map-wrapper');
