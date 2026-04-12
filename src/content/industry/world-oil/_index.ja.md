@@ -7,6 +7,17 @@ description: "世界の石油産業を上流（探鉱・生産）・中流（パ
 weight: 27
 mapName: "world"
 galleryDir: "world-oil"
+highlightStates: ["SA","United States","Russia","Canada","IQ","AE","KW","IR","BR","NO","NG","VE","China","MX","Angola"]
+highlightColor: "#d4a24e"
+mapPins:
+  - { lat: 25.4, lng: 49.2, label: "ガワール油田" }
+  - { lat: 31.8, lng: -102.5, label: "パーミアン盆地" }
+  - { lat: 61.0, lng: 73.0, label: "西シベリア" }
+  - { lat: 29.8, lng: -95.4, label: "ヒューストン" }
+  - { lat: 51.9, lng: 4.5, label: "ロッテルダム" }
+  - { lat: 5.3, lng: 6.5, label: "ニジェールデルタ" }
+  - { lat: 57.0, lng: -111.5, label: "オイルサンド" }
+  - { lat: 10.5, lng: -66.9, label: "マラカイボ湖" }
 ---
 
 ## 世界の石油産業の概観

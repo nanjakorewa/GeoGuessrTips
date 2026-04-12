@@ -206,6 +206,11 @@ const industryCollection = defineCollection({
     og_image: z.string().optional(),
     highlightStates: z.array(z.string()).optional(),
     highlightColor: z.string().optional(),
+    mapPins: z.array(z.object({
+      lat: z.number(),
+      lng: z.number(),
+      label: z.string(),
+    })).optional(),
     galleryDir: z.string().optional(),
   }),
 });

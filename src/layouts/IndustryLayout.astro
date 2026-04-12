@@ -313,11 +313,51 @@ if (data.galleryDir) {
       margin: 0 auto;
       padding: 0 1rem;
     }
+    /* World SVG map gets wider container */
+    .ind-map-wrapper.ind-map-wrapper--world {
+      max-width: 780px;
+    }
     .ind-map-wrapper #world-map {
       width: 100%;
       background: transparent;
     }
-    /* JSMaps: SVG and wrapper sizing */
+    /* Simplemaps SVG world map */
+    .ind-map-wrapper .world-map-svg {
+      position: relative;
+    }
+    .ind-map-wrapper .world-map-svg svg {
+      width: 100% !important;
+      height: auto !important;
+      display: block;
+    }
+    .ind-map-wrapper .world-map-svg svg path {
+      fill: #d1d5db;
+      stroke: #6b7280;
+      stroke-width: 0.3;
+      transition: fill 0.2s ease;
+    }
+    .ind-map-wrapper .world-map-svg svg path.highlighted {
+      stroke-width: 0.6;
+    }
+    /* Map pins */
+    .map-pin-group { pointer-events: all; cursor: default; }
+    .map-pin-circle {
+      fill: #e53e3e;
+      stroke: #fff;
+      stroke-width: 1.5;
+      filter: drop-shadow(0 1px 2px rgba(0,0,0,0.4));
+    }
+    .map-pin-label {
+      font-size: 9px;
+      fill: #fff;
+      font-weight: 600;
+      text-anchor: middle;
+      paint-order: stroke;
+      stroke: rgba(0,0,0,0.7);
+      stroke-width: 2.5px;
+      stroke-linejoin: round;
+    }
+    /* JSMaps: SVG and wrapper sizing (non-world maps) */
     .ind-map-wrapper .jsmaps-wrapper {
       width: 100% !important;
     }
@@ -1235,8 +1275,12 @@ if (data.galleryDir) {
         {data.subtitle && <p>{data.subtitle}</p>}
       </div>
       <div class="ind-map-clamp" id="ind-map-clamp">
-        <div class="ind-map-wrapper">
-          <div id="world-map"></div>
+        <div class={`ind-map-wrapper${data.mapName === "world" ? " ind-map-wrapper--world" : ""}`}>
+          {data.mapName === "world" ? (
+            <div id="world-map" class="world-map-svg"></div>
+          ) : (
+            <div id="world-map"></div>
+          )}
         </div>
         <div class="ind-map-clamp-fade"></div>
       </div>
@@ -1572,8 +1616,106 @@ if (data.galleryDir) {
     })();
   </script>
 
-  {/* JSMaps initialization */}
-  {data.mapName && (
+  {/* World map: load simplemaps SVG directly */}
+  {data.mapName === "world" && (
+    <Fragment>
+      <script is:inline define:vars={{ highlightStates: data.highlightStates || null, highlightColor: data.highlightColor || "#e07b20", mapPins: data.mapPins || null }}>
+        (function() {
+          var container = document.getElementById('world-map');
+          if (!container) return;
+
+          // Convert lat/lng to simplemaps SVG coordinates (viewBox 0 0 2000 857)
+          // Calibrated from known country positions in the SVG
+          function toSvgXY(lat, lng) {
+            var x = 5.394 * lng + 989.6;
+            // Lookup table: [latitude, svgY] calibrated from SVG path data
+            var table = [
+              [85, 0], [64, 103], [50, 185], [35, 275],
+              [29, 310], [26, 333], [12, 432], [0, 510],
+              [-15, 580], [-30, 665], [-50, 770], [-60, 830]
+            ];
+            var y = 510; // default: equator
+            if (lat >= table[0][0]) { y = table[0][1]; }
+            else if (lat <= table[table.length - 1][0]) { y = table[table.length - 1][1]; }
+            else {
+              for (var i = 0; i < table.length - 1; i++) {
+                if (lat <= table[i][0] && lat >= table[i + 1][0]) {
+                  var t = (lat - table[i + 1][0]) / (table[i][0] - table[i + 1][0]);
+                  y = table[i + 1][1] + t * (table[i][1] - table[i + 1][1]);
+                  break;
+                }
+              }
+            }
+            return { x: x, y: y };
+          }
+
+          fetch('/mp/maps/world.svg')
+            .then(function(res) { return res.text(); })
+            .then(function(svgText) {
+              container.innerHTML = svgText;
+              var svg = container.querySelector('svg');
+              if (!svg) return;
+              svg.removeAttribute('width');
+              svg.removeAttribute('height');
+              svg.setAttribute('preserveAspectRatio', 'xMidYMid meet');
+
+              // Highlight countries by id or class (name)
+              if (highlightStates && highlightStates.length) {
+                var allPaths = svg.querySelectorAll('path');
+                var statesNorm = highlightStates.map(function(s) {
+                  return s.toLowerCase().replace(/[\s_-]/g, '');
+                });
+                allPaths.forEach(function(p) {
+                  var pid = (p.id || '').toLowerCase().replace(/[\s_-]/g, '');
+                  var pcls = (p.getAttribute('class') || '').toLowerCase().replace(/[\s_-]/g, '');
+                  var pname = (p.getAttribute('name') || '').toLowerCase().replace(/[\s_-]/g, '');
+                  for (var i = 0; i < statesNorm.length; i++) {
+                    if ((pid && pid === statesNorm[i]) ||
+                        (pcls && pcls === statesNorm[i]) ||
+                        (pname && pname === statesNorm[i])) {
+                      p.style.fill = highlightColor;
+                      p.classList.add('highlighted');
+                      break;
+                    }
+                  }
+                });
+              }
+
+              // Render map pins
+              if (mapPins && mapPins.length) {
+                var ns = 'http://www.w3.org/2000/svg';
+                var g = document.createElementNS(ns, 'g');
+                g.setAttribute('class', 'map-pins-layer');
+                mapPins.forEach(function(pin) {
+                  var pos = toSvgXY(pin.lat, pin.lng);
+                  var pg = document.createElementNS(ns, 'g');
+                  pg.setAttribute('class', 'map-pin-group');
+                  // Pin dot
+                  var circle = document.createElementNS(ns, 'circle');
+                  circle.setAttribute('cx', pos.x);
+                  circle.setAttribute('cy', pos.y);
+                  circle.setAttribute('r', '4');
+                  circle.setAttribute('class', 'map-pin-circle');
+                  pg.appendChild(circle);
+                  // Label
+                  var text = document.createElementNS(ns, 'text');
+                  text.setAttribute('x', pos.x);
+                  text.setAttribute('y', pos.y - 8);
+                  text.setAttribute('class', 'map-pin-label');
+                  text.textContent = pin.label;
+                  pg.appendChild(text);
+                  g.appendChild(pg);
+                });
+                svg.appendChild(g);
+              }
+            });
+        })();
+      </script>
+    </Fragment>
+  )}
+
+  {/* JSMaps initialization (non-world maps) */}
+  {data.mapName && data.mapName !== "world" && (
     <Fragment>
       <script is:inline define:vars={{ mapName: data.mapName, highlightStates: data.highlightStates || null, highlightColor: data.highlightColor || "#e07b20" }}>
         $(function() {

@@ -7,6 +7,15 @@ description: "世界の農産物トレードを俯瞰。Cargill・ADM・Bunge・
 weight: 28
 mapName: "world"
 galleryDir: "world-agriculture"
+highlightStates: ["United States","BR","China","UA","France","IN","Russia","Argentina","Australia"]
+highlightColor: "#8bc34a"
+mapPins:
+  - { lat: 41.9, lng: -87.6, label: "シカゴ（CBOT）" }
+  - { lat: -12.0, lng: -55.0, label: "マトグロッソ" }
+  - { lat: -34.6, lng: -58.4, label: "ブエノスアイレス" }
+  - { lat: 46.5, lng: 30.7, label: "オデッサ（黒海）" }
+  - { lat: 30.9, lng: 75.8, label: "パンジャブ" }
+  - { lat: -33.0, lng: 147.0, label: "NSW穀倉地帯" }
 ---
 
 ## 世界の穀物トレードの概観
