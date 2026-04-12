@@ -202,6 +202,16 @@ card_image: "pipeline.jpg"
 </div>
 </a>
 
+<a class="ind-card" href="/industry/japan-tungsten/">
+<img class="ind-card-thumb" src="/images/industry/japan-tungsten/1280px-Wolfram_evaporated_crystals_and_1cm3_cube.jpg" alt="タングステン" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">日本のタングステン産業</div>
+<div class="ind-card-desc">三菱マテリアル・住友電工・日本タングステン。超硬工具からリサイクルまで</div>
+<span class="ind-card-stat">中国依存率 約83%</span>
+</div>
+</a>
+
 </div>
 
 <div class="ind-section-label">世界の産業</div>

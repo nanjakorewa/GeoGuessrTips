@@ -1386,6 +1386,15 @@ export const companies: Record<string, Company> = {
     industry: "電線・自動車部品・光通信",
     marketCapTr: 2.0,
   },
+  "6998": {
+    ticker: "6998",
+    name: "日本タングステン",
+    nameEn: "Nippon Tungsten",
+    market: "tokyo",
+    sector: "鉄鋼",
+    industry: "タングステン・モリブデン・超硬合金",
+    marketCapTr: 0.01,
+  },
   "5803": {
     ticker: "5803",
     name: "フジクラ",
