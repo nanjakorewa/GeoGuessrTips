@@ -383,4 +383,3 @@ jnm_company: 日本新金属株式会社 三菱マテリアルグループ紹介
 sei_capacity: 住友電工「タングステンの供給能力を約1.5倍に増強 総額約159億円を投資、2028年度上期稼働へ」（2026年4月）<https://sumitomoelectric.com/jp/press/2026/04/prs033>
 mmc_w_strategy: 三菱マテリアル「タングステン事業戦略説明会」（2025年9月12日）<https://ir.mmc.co.jp/ja/ir/news/news-6603690760580602755/main/0/link/0912scripts2.pdf>
 {{% /references %}}
-                                                  
