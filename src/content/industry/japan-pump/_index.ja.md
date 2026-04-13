@@ -12,23 +12,23 @@ galleryDir: "japan-pump"
 <script>
 (function() {
   var pins = [
-    { x: 430, y: 400, label: '羽田（荏原）', type: 'pump',
+    { x: 422, y: 452, label: '大田区（荏原）', type: 'pump',
       note: '荏原製作所 本社（東京都大田区）' },
-    { x: 425, y: 395, label: '渋谷（日機装）', type: 'pump',
+    { x: 412, y: 444, label: '渋谷（日機装）', type: 'pump',
       note: '日機装 本社（東京都渋谷区）' },
-    { x: 275, y: 490, label: '大阪（酉島）', type: 'pump',
+    { x: 264, y: 470, label: '高槻（酉島）', type: 'pump',
       note: '酉島製作所 本社（大阪府高槻市）' },
-    { x: 278, y: 486, label: '大阪（鶴見）', type: 'pump',
+    { x: 258, y: 480, label: '大阪（鶴見）', type: 'pump',
       note: '鶴見製作所 本社（大阪市鶴見区）' },
-    { x: 430, y: 390, label: '東京（電業社）', type: 'pump',
+    { x: 428, y: 456, label: '大田区（電業社）', type: 'pump',
       note: '電業社機械製作所 本社（東京都大田区）' },
-    { x: 265, y: 490, label: '兵庫（帝国電機）', type: 'pump',
+    { x: 232, y: 478, label: 'たつの（帝国電機）', type: 'pump',
       note: '帝国電機製作所 本社（兵庫県たつの市）' },
-    { x: 440, y: 395, label: '東京（イワキ）', type: 'pump',
+    { x: 416, y: 448, label: '千代田（イワキ）', type: 'pump',
       note: 'イワキ 本社（東京都千代田区）' },
-    { x: 345, y: 435, label: '名古屋（タクミナ）', type: 'pump',
+    { x: 255, y: 476, label: '大阪（タクミナ）', type: 'pump',
       note: 'タクミナ 本社（大阪市中央区）' },
-    { x: 110, y: 530, label: '北九州（横田）', type: 'pump',
+    { x: 148, y: 512, label: '北九州（横田）', type: 'pump',
       note: '横田製作所 本社（北九州市小倉北区）' },
   ];
 
@@ -110,7 +110,7 @@ galleryDir: "japan-pump"
 
 ポンプは水・油・薬液・スラリーなどあらゆる流体を輸送する<span style="font-weight:700">産業の血管</span>とも言える基幹機械です。上下水道、石油精製、化学プラント、発電所、半導体工場、ビルの空調から家庭の給水まで、ポンプなしに稼働する産業施設はほぼ存在しません。[日本](/rule/asia/japan/)のポンプ製造業は国内に<span style="font-weight:700">361社</span>のメーカーが存在し{{% cite "toyama_pump" %}}、生産金額は年間約3,500〜4,000億円規模を維持しています{{% cite "toyama_pump" %}}。
 
-[日本](/rule/asia/japan/)のポンプメーカーの特徴は、<span style="font-weight:700">荏原製作所を筆頭とする大手から高度な専門分野に特化した中堅企業まで層が厚い</span>ことです。荏原製作所は連結売上高8,666億円（2024年12月期）を誇り、売上高ベースで世界ポンプメーカー上位に位置します{{% cite "ebara_ir2024" %}}。海水淡水化ポンプでは酉島製作所が世界シェア首位{{% cite "torishima_ir2024" %}}、LNG用極低温ポンプでは日機装が世界シェア約50%{{% cite "nikkiso_ir2024" %}}、キャンドモータポンプでは帝国電機製作所が世界シェア約40%{{% cite "teikoku_ir2025" %}}と、ニッチ分野でグローバルトップを占める企業が多いのが特徴です。
+[日本](/rule/asia/japan/)のポンプメーカーの特徴は、<span style="font-weight:700">荏原製作所を筆頭とする大手から高度な専門分野に特化した中堅企業まで層が厚い</span>ことです。荏原製作所は連結売上高8,666億円（2024年12月期）を誇り、売上高ベースで世界ポンプメーカー上位に位置します{{% cite "ebara_ir2024" %}}。海水淡水化ポンプでは酉島製作所が世界シェア首位{{% cite "torishima_ir2024" %}}、LNG用極低温ポンプでは日機装が世界シェア約50%{{% cite "nikkiso_ir2024" %}}{{% cite "nikkiso_cryo" %}}、キャンドモータポンプでは帝国電機製作所が世界シェア約40%{{% cite "teikoku_ir2025" %}}と、ニッチ分野でグローバルトップを占める企業が多いのが特徴です。
 
 ## 基本データ
 
@@ -170,7 +170,7 @@ galleryDir: "japan-pump"
 
 ## 国内メーカーの売上高ランキング
 
-[日本](/rule/asia/japan/)のポンプメーカーは荏原製作所が突出した規模を持ち、日機装・酉島製作所・鶴見製作所が続きます。ただし荏原は半導体CMP装置、日機装は医療機器（人工透析）・航空宇宙部品を含む連結売上であり、ポンプ単体の売上は各社とも連結売上より小さくなります。
+[日本](/rule/asia/japan/)のポンプメーカーは荏原製作所が突出した規模を持ち、日機装・酉島製作所・鶴見製作所が続きます{{% cite "shikiho_pump" %}}。ただし荏原は半導体CMP装置、日機装は医療機器（人工透析）・航空宇宙部品を含む連結売上であり、ポンプ単体の売上は各社とも連結売上より小さくなります。
 
 | 順位 | 企業 | 連結売上高（最新期） | 営業利益 | 主力分野 |
 | ---- | ---- | ------------------- | ------- | ------- |
@@ -254,7 +254,7 @@ galleryDir: "japan-pump"
 
 | 企業 | 計画名・目標年度 | 売上目標 | 重点戦略 |
 | ---- | -------------- | ------- | ------- |
-| <span style="font-weight:700">荏原製作所</span> | E-Plan2028（〜FY2028）{{% cite "ebara_ir2024" %}} | 1.2兆円 | 精密・電子事業への重点投資（藤沢工場、熊本工場増強、台湾製造拠点）。長期ビジョン「E-Vision2035」で売上2兆円以上を目指す |
+| <span style="font-weight:700">荏原製作所</span> | E-Plan2028（〜FY2028）{{% cite "ebara_ir2024" %}}{{% cite "ebara_eplan2028" %}} | 1.2兆円 | 精密・電子事業への重点投資（藤沢工場、熊本工場増強、台湾製造拠点）。長期ビジョン「E-Vision2035」で売上2兆円以上を目指す |
 | <span style="font-weight:700">日機装</span> | NIKKISO 2028（〜FY2028）{{% cite "nikkiso_ir2024" %}} | — | インダストリアル事業の拡大（低・脱炭素関連）、メディカル事業の安定成長 |
 | <span style="font-weight:700">酉島製作所</span> | 新中計（〜FY2029）{{% cite "torishima_ir2024" %}} | 約1,000億円 | 営業利益率10%以上、ROE 10%以上。水素・アンモニア分野への展開 |
 | <span style="font-weight:700">鶴見製作所</span> | — | 710億円（FY2026/3予想）{{% cite "tsurumi_ir2025" %}} | ASEAN・北米での海外展開強化、水処理関連機器の拡充 |
@@ -286,7 +286,7 @@ galleryDir: "japan-pump"
 <tr>
 <td>日機装</td>
 <td>{{% minkabu 6376 %}}</td>
-<td>産業用特殊ポンプ（往復動ポンプ・極低温ポンプ）を柱に、医療機器（人工透析装置で国内シェア上位）、航空宇宙部品（カスケード逆噴射装置）を3本柱で展開。FY2024の連結売上は2,130億円（前年比10.6%増）、営業利益90億円{{% cite "nikkiso_ir2024" %}}。LNG用極低温ポンプは世界シェア約50%で最大手級の地位を確保{{% cite "nikkiso_ir2024" %}}。インダストリアル事業は低・脱炭素関連需要を追い風に過去最高の売上・利益を達成。新中計「NIKKISO 2028」で成長を加速{{% cite "nikkiso_ir2024" %}}。</td>
+<td>産業用特殊ポンプ（往復動ポンプ・極低温ポンプ）を柱に、医療機器（人工透析装置で国内シェア上位）、航空宇宙部品（カスケード逆噴射装置）を3本柱で展開。FY2024の連結売上は2,130億円（前年比10.6%増）、営業利益90億円{{% cite "nikkiso_ir2024" %}}。LNG用極低温ポンプは世界シェア約50%で最大手級の地位を確保{{% cite "nikkiso_ir2024" %}}{{% cite "nikkiso_cryo" %}}。インダストリアル事業は低・脱炭素関連需要を追い風に過去最高の売上・利益を達成。新中計「NIKKISO 2028」で成長を加速{{% cite "nikkiso_ir2024" %}}。</td>
 <td>{{% corplink "https://www.nikkiso.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "6376" %}}</td>
 </tr>
@@ -354,7 +354,7 @@ graph LR
 | 企業 | ニッチ分野 | 世界シェア | 強みの源泉 |
 | ---- | --------- | --------- | --------- |
 | <span style="font-weight:700">酉島製作所</span> | 海水淡水化プラント用ポンプ{{% cite "torishima_ir2024" %}} | 世界首位 | 高圧・大流量ポンプの設計技術、中東での豊富な納入実績 |
-| <span style="font-weight:700">日機装</span> | LNG用極低温ポンプ{{% cite "nikkiso_ir2024" %}} | 約50% | 極低温（−162℃以下）での信頼性、Atlas Copco LNG事業の買収 |
+| <span style="font-weight:700">日機装</span> | LNG用極低温ポンプ{{% cite "nikkiso_ir2024" %}}{{% cite "nikkiso_cryo" %}} | 約50% | 極低温（−162℃以下）での信頼性、Atlas Copco LNG事業の買収 |
 | <span style="font-weight:700">帝国電機</span> | キャンドモータポンプ{{% cite "teikoku_ir2025" %}} | 約40% | 完全密閉構造の設計・製造技術、無漏洩の高信頼性 |
 | <span style="font-weight:700">イワキ</span> | 浄水場用塩素注入ポンプ{{% cite "iwaki_ir2025" %}} | 国内約50% | 多品種少量生産、耐薬品性素材の知見 |
 | <span style="font-weight:700">鶴見製作所</span> | 建設業向け水中ポンプ{{% cite "tsurumi_ir2025" %}} | 国内約60% | 現場の過酷環境への対応力、全国販売・サービス網 |
@@ -364,21 +364,25 @@ graph LR
 
 {{% references %}}
 toyama_pump: 外山技術士事務所「ポンプ業界の動向と将来展望」（2023年3月10日）<https://yuksoto.sakura.ne.jp/2303101%20Pump_Gyoukai_Dohkou_Tenbou.pdf>
-ebara_ir2024: 荏原製作所「2024年12月期 決算短信」<https://www.ebara.com/jp-ja/ir/library/settlement/>
-ebara_vansan: 荏原製作所「Vansan Makina Sanayi ve Ticaret A.Ş.の株式取得について」（2020年12月）<https://www.ebara.com/jp-ja/ir/>
-ebara_hayward: 荏原製作所「Hayward Gordon L.P.の株式取得について」（2022年10月）<https://www.ebara.com/jp-ja/ir/>
-nikkiso_ir2024: 日機装「2024年12月期 決算短信」<https://www.nikkiso.co.jp/ir/financial/>
-torishima_ir2024: 酉島製作所「2024年度 決算説明資料」<https://www.torishima.co.jp/ir/>
-tsurumi_ir2025: 鶴見製作所「2025年3月期 決算短信」<https://www.tsurumipump.co.jp/ir/>
-dmw_ir2025: 電業社機械製作所「2025年3月期 決算情報」<https://www.dmw.co.jp/ir/>
-teikoku_ir2025: 帝国電機製作所「2025年3月期 決算情報」<https://www.teikokudenki.co.jp/ir/>
-iwaki_ir2025: イワキ「2025年3月期 決算短信」<https://www.iwakipumps.jp/ir/>
+ebara_ir2024: 荏原製作所「2024年12月期 決算短信」<https://www.ebara.com/content/dam/ebara/grand-masters/entities/ja/pdf/ir/library/earnings/earnings/160q4_jp.pdf>
+ebara_vansan: 荏原製作所「トルコ Vansan Makina Sanayi ve Ticaret A.Ş.の株式取得について」（2020年12月）<https://www.ebara.co.jp/corporate/newsroom/release/company/detail/1205398_1673.html>
+ebara_hayward: 荏原製作所「Hayward Gordon Group の持分取得について」（2022年10月）<https://www.ebara.co.jp/corporate/newsroom/release/company/detail/1205458_1673.html>
+ebara_eplan2028: 荏原製作所「長期ビジョン E-Vision2035 及び中期経営計画 E-Plan2028」<https://www.ebara.com/jp-ja/ir/business/vision/>
+nikkiso_ir2024: 日機装「2024年12月期 決算短信」<https://www.nikkiso.co.jp/ir/library/results_archive.html>
+nikkiso_cryo: 日機装 Bright「LNGから水素まで、極低温の液体を送るクライオジェニックポンプの開発とは」<https://bright.nikkiso.co.jp/article/production/cryogenic-pump>
+torishima_ir2024: 酉島製作所「2024年度 決算説明資料」<https://www.torishima.co.jp/common/uploads/Presentation_FY2024.pdf>
+tsurumi_ir2025: 鶴見製作所「2025年3月期 決算短信」<https://www.tsurumipump.co.jp/ir/library/finance/pdf/2025_tanshin.pdf>
+dmw_ir2025: 電業社機械製作所「2025年3月期 決算短信」<https://www.dmw.co.jp/ir/library.html>
+teikoku_ir2025: 帝国電機製作所「2025年3月期 決算短信」<https://www.teikokudenki.co.jp/ir/library/settlement.html>
+iwaki_ir2025: イワキ「2025年3月期 決算短信」<https://www.iwakipumps.co.jp/ir/library/result.html>
+shikiho_pump: 会社四季報オンライン「ポンプ関連企業レポート」<https://shikiho.toyokeizai.net/news/0/21876>
 precedence_pump: Precedence Research "Pumps Market Size, Share, and Trends 2025 to 2034" <https://www.precedenceresearch.com/pumps-market>
 imarc_pump: IMARC Group "Pumps Market Report 2025-2033" <https://www.imarcgroup.com/pumps-market>
-xylem_ar2024: Xylem Inc. "Fourth Quarter and Full Year 2024 Results" <https://www.xylem.com/en-us/about-xylem/newsroom/press-releases/>
+xylem_ar2024: Xylem Inc. "Fourth Quarter and Full Year 2024 Results" <https://www.xylem.com/en-us/about-xylem/newsroom/press-releases/xylem-reports-fourth-quarter-and-full-year-2024-results/>
 grundfos_ar2024: Grundfos "Annual Report 2024" <https://www.grundfos.com/media/reports-and-publications/grundfos-annual-report-2024>
 flowserve_ar2024: Flowserve Corporation "Annual Report 2024" <https://ir.flowserve.com/financials/annual-reports/>
 sulzer_ar2024: Sulzer Ltd "Annual Report 2024" <https://www.sulzer.com/en/about-us/investors>
-ksb_ar2024: KSB SE & Co. KGaA "Annual Report 2024" <https://www.ksb.com/en-global/media/press-releases/>
+ksb_ar2024: KSB SE & Co. KGaA "Annual Report 2024" <https://www.ksb.com/en-global/media/press-releases/uebersicht/ksb-sets-new-record-2092884>
 wilo_ar2024: WILO SE "Annual Report 2024" <https://wilo.com/en/Company/Annual-Sustainability-Report/>
 {{% /references %}}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
