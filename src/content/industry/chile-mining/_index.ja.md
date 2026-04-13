@@ -145,7 +145,7 @@ galleryDir: "chile-mining"
 | <span style="font-weight:700">El Teniente</span> | オイギンス州ランカグア近郊 | Codelco（国営）| ~46万t | 世界最大の地下銅鉱山、1905年からBraden Copperにより本格操業開始{{% cite "codelco" %}} |
 | <span style="font-weight:700">Chuquicamata</span> | アントファガスタ州 | Codelco | ~32万t | 世界最大級の露天掘りから地下採鉱に転換 |
 | <span style="font-weight:700">Los Pelambres</span> | コキンボ州 | Antofagasta plc 60%, JX/丸紅 40% | ~30万t | ルクシック家のAntofagastaグループ |
-| <span style="font-weight:700">Los Bronces</span> | サンティアゴ近郊 | Anglo American 50.1%, Codelco 20%, 三菱29.5% | ~25万t | 大型再掘プロジェクト進行中 |
+| <span style="font-weight:700">Los Bronces</span> | サンティアゴ近郊 | Anglo American 50.1%, Codelco-三井物産JV（Becrux）29.5%, 三菱商事 20.4% | ~25万t | 大型再掘プロジェクト進行中 |
 | <span style="font-weight:700">Spence / Pampa Norte</span> | アントファガスタ州 | BHP | ~25万t | 銅カソード生産 |
 | <span style="font-weight:700">Radomiro Tomic</span> | アントファガスタ州 | Codelco | ~27万t | チュキカマタの北延長 |
 | <span style="font-weight:700">Caserones</span> | アタカマ州 | Lundin Mining（旧JX金属/三井物産）| ~14万t | 2023年にLundinが買収 |
@@ -164,7 +164,8 @@ galleryDir: "chile-mining"
 | --- | --- |
 | 三菱商事・三菱マテリアル・日鉱（JECO）| Escondida（12.5%）|
 | 三井物産・JX金属（JCR）| Collahuasi（12%）|
-| 三菱商事 | Los Bronces（29.5%）, Anglo American Sur |
+| 三菱商事 | Anglo American Sur（20.4%）/ Los Bronces |
+| 三井物産 | Anglo American Sur（Codelcoとの合弁Becrux 29.5%）/ Los Bronces |
 | 住友金属鉱山・住友商事 | Sierra Gorda（45%）, Candelaria |
 | 丸紅 | Los Pelambres、Centinela |
 | JX金属（旧パンパシフィック・カッパー）| Caserones（旧オペレータ、現Lundin）|

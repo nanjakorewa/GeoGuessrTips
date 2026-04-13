@@ -175,7 +175,7 @@ galleryDir: "japan-robotics"
 | --- | --- | --- | --- |
 | <span style="font-weight:700">FANUC</span> | 忍野村（本社）、筑波（R&D・関東工場）| 山梨/茨城 | 世界最大のロボット専業メーカー。富士山麓の特異な立地 |
 | <span style="font-weight:700">安川電機</span> | 北九州本社、ロボット村（福岡県北九州市八幡西区）| 福岡 | Motoman 工場、サーボモータ製造、九州電機産業の中核 |
-| <span style="font-worth:700">川崎重工</span> | 明石工場、西神工場（兵庫県）、水島事業所（岡山） | 兵庫/岡山 | 溶接・塗装ロボット製造、重工業との統合 |
+| <span style="font-weight:700">川崎重工</span> | 明石工場、西神工場（兵庫県）、水島事業所（岡山） | 兵庫/岡山 | 溶接・塗装ロボット製造、重工業との統合 |
 | <span style="font-weight:700">三菱電機</span> | 名古屋製作所、伊丹工場（兵庫） | 愛知/兵庫 | MELFA SCARA・多関節ロボット、パッケージング機械連携 |
 | <span style="font-weight:700">デンソーウェーブ</span> | 刈谷市（愛知県） | 愛知 | COBOTTA 協働ロボット製造、デンソー本体との統合 |
 | <span style="font-weight:700">セイコーエプソン</span> | 松本市工場（長野県） | 長野 | SCARA 最大生産拠点、時計部品組立技術の応用 |
