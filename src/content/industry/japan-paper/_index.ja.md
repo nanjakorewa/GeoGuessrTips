@@ -165,7 +165,7 @@ galleryDir: "japan-paper"
 | ---- | ------ | -------- |
 | <span style="font-weight:700">石巻工場</span> | 宮城県石巻市 | 印刷・情報用紙の主力。書籍用紙の国内シェア約4割 |
 | <span style="font-weight:700">富士工場</span> | 静岡県富士市 | 印刷・情報用紙 |
-| <span style="font-weight:700">岩国工場</span> | 山口県岩国市 | 1939年{{% cite "nipponpaper_factory" %}}操業開始。塗工紙・化成品。CNF実証設備 |
+| <span style="font-weight:700">岩国工場</span> | 山口県岩国市 | 1939年操業開始。塗工紙・化成品。CNF実証設備{{% cite "nipponpaper_factory" %}} |
 | <span style="font-weight:700">八代工場</span> | 熊本県八代市 | 九州唯一の多品種・一貫生産工場 |
 | 旭川・釧路工場 | 北海道 | 印刷用紙・パルプ |
 | 勿来工場 | 福島県いわき市 | 板紙 |
@@ -182,12 +182,12 @@ galleryDir: "japan-paper"
 
 | 産地 | 特徴 |
 | ---- | ---- |
-| <span style="font-weight:700">富士・富士宮（静岡県）</span> | 全国紙生産量の約11%{{%cite "shizuoka_fuji_paper" %}}を占める一大集積地。約70社の製紙会社が立地し、富士山の伏流水を活用。紙・紙加工品出荷額は全国2位{{% cite "shizuoka_fuji_paper" %}} |
+| <span style="font-weight:700">富士・富士宮（静岡県）</span> | 全国紙生産量の約11%を占める一大集積地。約70社の製紙会社が立地し、富士山の伏流水を活用。紙・紙加工品出荷額は全国2位{{% cite "shizuoka_fuji_paper" %}} |
 | <span style="font-weight:700">苫小牧（北海道）</span> | 王子製紙苫小牧工場が立地。新聞用紙の国内最大級の供給拠点{{% cite "oji_network" %}} |
 | <span style="font-weight:700">四国中央市（愛媛県）</span> | 大王製紙三島工場・丸住製紙・リンテック・ユニ・チャームなどが集積。<span style="font-weight:700">紙関連製造品出荷額は約5,100億円超で日本一</span>（20年連続）。書道用紙の全国シェア約7割{{% cite "shikokuchuo_paper" %}} |
 | <span style="font-weight:700">八代（熊本県）</span> | 日本製紙八代工場。球磨川の水を活用し、九州唯一の多品種一貫生産工場 |
 | <span style="font-weight:700">石巻（宮城県）</span> | 日本製紙石巻工場。書籍用紙の国内シェア約4割。東日本大震災で大きな被害を受けたが復興 |
-| <span style="font-weight:700">岩国（山口県）</span> | 日本製紙岩国工場。1939年{{%cite "nipponpaper_factory" %}}操業の伝統工場。CNF（セルロースナノファイバー）の実証拠点 |
+| <span style="font-weight:700">岩国（山口県）</span> | 日本製紙岩国工場。1939年操業の伝統工場。CNF（セルロースナノファイバー）の実証拠点{{% cite "nipponpaper_factory" %}} |
 
 ### 「紙のまち」四国中央市
 
@@ -195,7 +195,7 @@ galleryDir: "japan-paper"
 
 ## 古紙リサイクルとサーキュラーエコノミー
 
-[日本](/rule/asia/japan/)の古紙利用率は<span style="font-weight:700">66.6%（2024年）</span>で世界トップクラスであり、特に板紙（段ボール用紙など）では<span style="font-weight:700">95%前後</span> {{% cite "jpa_recycle" %}}にまで達しています{{% cite "jpa_recycle" %}}。これは、自治体・古紙問屋・製紙メーカーが連携した[日本](/rule/asia/japan/)独自の回収システムによるものです。
+[日本](/rule/asia/japan/)の古紙利用率は<span style="font-weight:700">66.6%（2024年）</span>で世界トップクラスであり、特に板紙（段ボール用紙など）では<span style="font-weight:700">95%前後</span>にまで達しています{{% cite "jpa_recycle" %}}。これは、自治体・古紙問屋・製紙メーカーが連携した[日本](/rule/asia/japan/)独自の回収システムによるものです。
 
 <div class="process-flow">
   <div class="process-step">

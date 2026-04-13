@@ -100,7 +100,7 @@ galleryDir: "japan-paint"
 
 ### 大日本塗料（4611）
 
-1929年{{% cite "dnt_company" %}}創業、本社は大阪市中央区南船場。<span style="font-weight:700">重防食・建材用塗料の最大手</span> で、橋梁・タンク・プラントなどの社会インフラ向けに高い実績を持ちます。栃木県小山市の<span style="font-weight:700">小山工場</span> が重防食塗料の主力拠点です。
+1929年創業{{% cite "dnt_company" %}}、本社は大阪市中央区南船場。<span style="font-weight:700">重防食・建材用塗料の最大手</span> で、橋梁・タンク・プラントなどの社会インフラ向けに高い実績を持ちます。栃木県小山市の<span style="font-weight:700">小山工場</span> が重防食塗料の主力拠点です。
 
 ## 船舶用塗料 — 「中国塗料」が世界トップ級
 

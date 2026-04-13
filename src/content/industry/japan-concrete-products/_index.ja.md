@@ -93,14 +93,14 @@ galleryDir: "japan-concrete-products"
 <tr>
 <td>三谷セキサン</td>
 <td>{{% minkabu 5273 %}}</td>
-<td>{{% cite "mitani_sekisan_company" %}}福井県に本社を置くコンクリートパイル大手。PHC杭・SC杭・節杭など既製コンクリート杭の製造販売で国内トップクラス。情報システム事業も手がける二本柱経営。全国に製造拠点を配置し、大都市圏の建築需要を支える。</td>
+<td>福井県に本社を置くコンクリートパイル大手。PHC杭・SC杭・節杭など既製コンクリート杭の製造販売で国内トップクラス。情報システム事業も手がける二本柱経営。全国に製造拠点を配置し、大都市圏の建築需要を支える{{% cite "mitani_sekisan_company" %}}。</td>
 <td>{{% corplink "https://www.mitani-sekisan.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5273" %}}</td>
 </tr>
 <tr>
 <td>日本コンクリート工業</td>
 <td>{{% minkabu 5269 %}}</td>
-<td>{{% cite "ncon_company" %}}コンクリートポール（電柱）とコンクリートパイル（杭）の二本柱。電力会社・NTT向けポールで高いシェアを持つ。パイル事業ではPHC杭・SC杭を製造。</td>
+<td>コンクリートポール（電柱）とコンクリートパイル（杭）の二本柱。電力会社・NTT向けポールで高いシェアを持つ。パイル事業ではPHC杭・SC杭を製造{{% cite "ncon_company" %}}。</td>
 <td>{{% corplink "https://www.nc-kon.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5269" %}}</td>
 </tr>
@@ -108,14 +108,14 @@ galleryDir: "japan-concrete-products"
 <tr>
 <td>日本ヒューム</td>
 <td>{{% minkabu 5262 %}}</td>
-<td>{{% cite "nihon_hume_company" %}}1925年設立のヒューム管専業大手。遠心力鉄筋コンクリート管（ヒューム管）・推進管・マンホールなど下水道関連製品を製造。老朽下水道の更新需要を取り込む。日本のヒューム管製造の草分け的存在。</td>
+<td>1925年設立のヒューム管専業大手。遠心力鉄筋コンクリート管（ヒューム管）・推進管・マンホールなど下水道関連製品を製造。老朽下水道の更新需要を取り込む。日本のヒューム管製造の草分け的存在{{% cite "nihon_hume_company" %}}。</td>
 <td>{{% corplink "https://www.nipponhume.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5262" %}}</td>
 </tr>
 <tr>
 <td>旭コンクリート工業</td>
 <td>{{% minkabu 5268 %}}</td>
-<td>{{% cite "asahi_concrete_company" %}}ヒューム管・ボックスカルバート・推進管・擁壁などの土木用コンクリート二次製品を幅広く製造。ボックスカルバート（箱型暗渠）は道路横断構造物として全国で使用される。</td>
+<td>ヒューム管・ボックスカルバート・推進管・擁壁などの土木用コンクリート二次製品を幅広く製造。ボックスカルバート（箱型暗渠）は道路横断構造物として全国で使用される{{% cite "asahi_concrete_company" %}}。</td>
 <td>{{% corplink "https://www.asahi-concrete.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5268" %}}</td>
 </tr>
@@ -123,14 +123,14 @@ galleryDir: "japan-concrete-products"
 <tr>
 <td>ジオスター</td>
 <td>{{% minkabu 5282 %}}</td>
-<td>{{% cite "geostar_products" %}}シールドセグメント（トンネル内壁用プレキャスト部材）の大手。推進管・PCまくらぎ（鉄道用枕木）なども手がける。首都圏の大規模トンネル工事でセグメント需要を確保。太平洋セメントグループ。</td>
+<td>シールドセグメント（トンネル内壁用プレキャスト部材）の大手。推進管・PCまくらぎ（鉄道用枕木）なども手がける。首都圏の大規模トンネル工事でセグメント需要を確保。太平洋セメントグループ{{% cite "geostar_products" %}}。</td>
 <td>{{% corplink "https://www.geostr.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5282" %}}</td>
 </tr>
 <tr>
 <td>ヤマックス</td>
 <td>{{% minkabu 5285 %}}</td>
-<td>{{% cite "yamax_company" %}}熊本県に本社を置くプレキャストコンクリート製品メーカー。擁壁・L型水路・ボックスカルバートなど土木用二次製品を幅広く製造。九州を中心に事業展開。</td>
+<td>熊本県に本社を置くプレキャストコンクリート製品メーカー。擁壁・L型水路・ボックスカルバートなど土木用二次製品を幅広く製造。九州を中心に事業展開{{% cite "yamax_company" %}}。</td>
 <td>{{% corplink "https://www.yamax.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5285" %}}</td>
 </tr>

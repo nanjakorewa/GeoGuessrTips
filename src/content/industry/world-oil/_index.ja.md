@@ -68,7 +68,7 @@ mapPins:
 | 14 | Marathon Petroleum | 下流専業 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> [米国](/rule/n_america/usa/) | ~$60B | — | ~300 |
 | 15 | Valero Energy | 下流専業 | <img src="/flags/US.svg" alt="US" class="inline-flag" width="20" height="14" loading="lazy" /> [米国](/rule/n_america/usa/) | ~$50B | — | ~320 |
 
-{{% cite "companiesmarketcap_oil" %}}（2025年中の概算）
+（2025年中の概算）{{% cite "companiesmarketcap_oil" %}}
 
 ## NOC（国営石油会社）の重要性
 
