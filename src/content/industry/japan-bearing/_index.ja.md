@@ -75,6 +75,45 @@ galleryDir: "japan-bearing"
 - <span style="font-weight:700">自動車産業との相互発展</span>: トヨタ・ホンダ・日産の量産化と並走して品質向上
 - <span style="font-weight:700">HDD産業の遺産</span>: 1990〜2000年代{{% cite "meti_machine" %}}のHDD産業隆盛で小径ベアリングの需要が急拡大、ミネベアミツミが圧倒的シェアを確立
 
+## 世界ベアリング市場シェアの可視化
+
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;margin:28px 0;">
+<div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
+<strong>世界ベアリング市場 メーカー別シェア（売上高ベース・推定）</strong>
+<canvas id="pie-bearing" style="max-height:320px;margin-top:8px;"></canvas>
+</div>
+</div>
+
+※ シェアは各社IR・業界調査を基にした推定値{{% cite "bearing_market_size" %}}。日本4社（NSK・NTN・JTEKT・ミネベアミツミ）合計で世界の約25〜30%を占める。
+
+<script type="module">
+import { Chart, ArcElement, Tooltip, Legend, DoughnutController } from 'https://cdn.jsdelivr.net/npm/chart.js@4.4.7/+esm';
+Chart.register(ArcElement, Tooltip, Legend, DoughnutController);
+
+new Chart(document.getElementById('pie-bearing'), {
+  type:'doughnut',
+  data:{
+    labels:['SKF（スウェーデン）','Schaeffler（ドイツ）','NSK（日本）','NTN（日本）','JTEKT（日本）','Timken（米国）','ミネベアミツミ（日本）','C&U/ZWZ（中国）','その他'],
+    datasets:[{data:[14, 12, 9, 7, 7, 6, 5, 4, 36],
+      backgroundColor:['#f9a825','#e65100','#b71c1c','#c62828','#e53935','#2e7d32','#ef5350','#00838f','#9e9e9e']}]
+  },
+  options:{
+    responsive: true,
+    plugins: {
+      legend: { position:'bottom', labels:{ font:{size:10}, padding:8, boxWidth:12 } },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            var t = ctx.dataset.data.reduce(function(a,b){return a+b},0);
+            return ' ' + ctx.label + ': 約' + (ctx.parsed/t*100).toFixed(1) + '%';
+          }
+        }
+      }
+    }
+  }
+});
+</script>
+
 ## [日本](/rule/asia/japan/)のベアリングメーカー時価総額マップ
 
 <div class="corp-treemap-section">

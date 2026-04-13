@@ -212,6 +212,72 @@ galleryDir: "japan-robotics"
 
 6. <span style="font-weight:700">人口減少への対応戦略</span>：高齢化・労働力不足に先駆けて、ロボット導入を推進。国策としてもロボット産業育成（METI 戦略）
 
+## 世界産業用ロボット市場シェアの可視化
+
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;margin:28px 0;">
+<div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
+<strong>世界産業用ロボット メーカー別シェア（2022-2024年推定）</strong>
+<canvas id="pie-robot-maker" style="max-height:280px;margin-top:8px;"></canvas>
+</div>
+<div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
+<strong>2024年 地域別ロボット導入台数</strong>
+<canvas id="pie-robot-region" style="max-height:280px;margin-top:8px;"></canvas>
+</div>
+</div>
+
+※ メーカー別シェアはPatentPC・IFR等の推定値を参考{{% cite "fanuc_market_share" %}}{{% cite "ifr_2025_report" %}}。日本4社合計で約32%。
+
+<script type="module">
+import { Chart, ArcElement, Tooltip, Legend, DoughnutController } from 'https://cdn.jsdelivr.net/npm/chart.js@4.4.7/+esm';
+Chart.register(ArcElement, Tooltip, Legend, DoughnutController);
+
+var pieOpts = {
+  responsive: true,
+  plugins: {
+    legend: { position:'bottom', labels:{ font:{size:10}, padding:8, boxWidth:12 } },
+    tooltip: {
+      callbacks: {
+        label: function(ctx) {
+          var t = ctx.dataset.data.reduce(function(a,b){return a+b},0);
+          return ' ' + ctx.label + ': ' + (ctx.parsed/t*100).toFixed(1) + '%';
+        }
+      }
+    }
+  }
+};
+
+new Chart(document.getElementById('pie-robot-maker'), {
+  type:'doughnut',
+  data:{
+    labels:['ABB（スイス）','FANUC（日本）','KUKA（独）','安川電機（日本）','川崎重工（日本）','三菱電機（日本）','Universal Robots（デンマーク）','その他'],
+    datasets:[{data:[21, 11, 9, 8, 8, 5, 5, 33],
+      backgroundColor:['#546e7a','#b71c1c','#f9a825','#c62828','#e53935','#ef5350','#6a1b9a','#9e9e9e']}]
+  }, options:pieOpts
+});
+
+new Chart(document.getElementById('pie-robot-region'), {
+  type:'doughnut',
+  data:{
+    labels:['中国','日本','韓国','米国','ドイツ','その他'],
+    datasets:[{data:[295000, 44500, 31600, 39600, 28400, 105000],
+      backgroundColor:['#c62828','#1565c0','#00838f','#2e7d32','#f9a825','#9e9e9e']}]
+  }, options: {
+    responsive: true,
+    plugins: {
+      legend: { position:'bottom', labels:{ font:{size:10}, padding:8, boxWidth:12 } },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            var t = ctx.dataset.data.reduce(function(a,b){return a+b},0);
+            return ' ' + ctx.label + ': ' + ctx.parsed.toLocaleString() + '台 (' + (ctx.parsed/t*100).toFixed(1) + '%)';
+          }
+        }
+      }
+    }
+  }
+});
+</script>
+
 ## [日本](/rule/asia/japan/)産業用ロボット企業の時価総額マップ
 
 <div class="corp-treemap-section">

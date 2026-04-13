@@ -321,14 +321,14 @@ galleryDir: "japan-pottery"
 
 こちらは伝統的な窯業産地の技術・人材が直接的に近代産業へ転換したケースなんです。これらの企業は地域の陶磁器産業の衰退に対応し、ハイテク分野での新たな成長を実現していきました。
 
-- <span style="font-weight:700">LIXIL</span>（旧INAX）：常滑焼の伝統を持つ伊奈製陶（1924年設立）が衛生陶器・タイルに展開{{% cite "lixil_ir" %}}。現在はTOSTEMと統合し住宅設備大手に。温水洗浄便座「ウォシュレット」で世界的に知られる
+- <span style="font-weight:700">LIXIL</span>（旧INAX）：常滑焼の伝統を持つ伊奈製陶（1924年設立）が衛生陶器・タイルに展開{{% cite "lixil_ir" %}}。現在はTOSTEMと統合し住宅設備大手に。温水洗浄便座「シャワートイレ」で知られる
 - <span style="font-weight:700">MARUWA</span>（1946年創業）：瀬戸の窯業家・神戸家が電子用セラミック基板に転換{{% cite "maruwa_history" %}}。パワー半導体向けセラミック基板で世界有数のシェア。5G通信部品にも展開
 
 ## 関連企業の時価総額マップ
 
 窯業・セラミックス技術に由来する主要上場企業の時価総額を可視化しています。
 
-{{% corp-treemap "6971,6981,6762,5332,5333,5334,5331,5938,4062,5344,7741,5214,2268,8113" %}}
+{{% corp-treemap "6971,6981,6762,5332,5333,5334,5331,5938,4062,5344,7741,5214,6976" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -382,7 +382,7 @@ galleryDir: "japan-pottery"
 <tr>
 <td>TOTO</td>
 <td>{{% minkabu 5332 %}}</td>
-<td>1917年に日本陶器（現ノリタケ）から衛生陶器部門が独立。陶磁器製造技術を基盤に、温水洗浄便座「ウォシュレット」で世界的に知られる住宅設備大手。衛生陶器・タイル・水栓・建築設備で総合住宅メーカーのポジション{{% cite "morimura" %}}。</td>
+<td>1917年に日本陶器（現ノリタケ）から衛生陶器部門が独立。陶磁器製造技術を基盤に、温水洗浄便座「ウォシュレット」で世界的に知られる住宅設備大手。衛生陶器・水栓・建築設備を主力とし、水回りに特化した総合メーカー{{% cite "morimura" %}}。</td>
 <td>{{% corplink "https://jp.toto.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5332" %}}</td>
 </tr>
@@ -404,7 +404,7 @@ galleryDir: "japan-pottery"
 <tr>
 <td>LIXIL</td>
 <td>{{% minkabu 5938 %}}</td>
-<td>常滑焼の伝統を持つ伊奈製陶（INAX、1924年設立）を母体の一つとする住宅設備大手。衛生陶器・タイル・水栓・建築設備が主力。窯業産地の伝統技術をハイテク建材・水回り設備へ転換。常滑に「INAXライブミュージアム」を運営{{% cite "lixil_ir" %}}。</td>
+<td>常滑焼の伝統を持つ伊奈製陶（INAX、1924年設立）を母体の一つとする住宅設備大手。衛生陶器・タイル・水栓・建築設備が主力で、温水洗浄便座「シャワートイレ」も展開。窯業産地の伝統技術をハイテク建材・水回り設備へ転換。常滑に「INAXライブミュージアム」を運営{{% cite "lixil_ir" %}}。</td>
 <td>{{% corplink "https://www.lixil.com/jp/investor/" %}}</td>
 <td>{{% dividend "tokyo" "5938" %}}</td>
 </tr>
@@ -434,17 +434,10 @@ galleryDir: "japan-pottery"
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 磁性・電子セラミック材料</td></tr>
 <tr>
 <td>太陽誘電</td>
-<td>{{% minkabu 8113 %}}</td>
-<td>セラミックコンデンサ・積層セラミック・誘電体材料の専業メーカー。村田製作所と並ぶ電子セラミック分野の大手で、受動部品での世界的シェア確保。スマートフォン・通信機器・自動車向け高周波部品で重要なサプライヤー{{% cite "tosonyo_company" %}}。</td>
-<td>{{% corplink "https://www.tusonyo.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "8113" %}}</td>
-</tr>
-<tr>
-<td>高周波熱錬</td>
-<td>{{% minkabu 2268 %}}</td>
-<td>セラミック・ガラス・珪酸塩材料の製造企業。電子セラミック・研磨材・サーマルマネジメント材料で特化。中堅ながら高機能セラミック材料供給での競争力確保。半導体・電子部品業界での信頼性の高い素材メーカー{{% cite "koushuhatsuretsuren_company" %}}。</td>
-<td>{{% corplink "https://www.koushuhatsuretsuren.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "2268" %}}</td>
+<td>{{% minkabu 6976 %}}</td>
+<td>1950年創業。セラミックコンデンサ（MLCC）・インダクタなどセラミック系受動部品の大手。村田製作所に次ぐ国内第2位のMLCCメーカーとして、スマートフォン・通信機器・自動車向けに高信頼性部品を供給{{% cite "taiyo_yuden_ir" %}}。</td>
+<td>{{% corplink "https://www.yuden.co.jp/jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6976" %}}</td>
 </tr>
 </tbody>
 </table>
@@ -462,4 +455,7 @@ morimura: 森村グループ「グループについて」<https://www.morimura.
 murata_history: 株式会社村田製作所「ムラタの歩み」<https://corporate.murata.com/company/history>
 rokkoyo: Six ancient kilns「日本六古窯について」<https://sixancientkilns.jp/about/>
 tdk_history: TDK株式会社「TDKの歩み」<https://www.tdk.com/en/about_tdk/our_history/index.html>
+hoya_company: HOYA株式会社「会社概要」<https://www.hoya.com/ja/about/>
+neg_company: 日本電気硝子株式会社「会社概要」<https://www.neg.co.jp/company/profile/>
+taiyo_yuden_ir: 太陽誘電株式会社「IR情報」<https://www.yuden.co.jp/jp/ir/>
 {{% /references %}}

@@ -217,6 +217,88 @@ SQMはアタカマ操業から<span style="font-weight:700">2024年に201,000ト
 - <span style="font-weight:700">コミュニティ</span>: アタカマ先住民（リカン・アンタイ、コヤなど）との対話が必須
 - <span style="font-weight:700">国家主義</span>: 銅は1971年に国有化{{% cite "codelco" %}}、リチウムは2023年戦略で再び国家管理強化の流れ
 
+## チリ鉱業の構造を可視化
+
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;margin:28px 0;">
+<div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
+<strong>Escondida鉱山 出資構成</strong>
+<canvas id="pie-escondida" style="max-height:280px;margin-top:8px;"></canvas>
+</div>
+<div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
+<strong>チリ・アタカマ塩湖のリチウム生産シェア</strong>
+<canvas id="pie-lithium" style="max-height:280px;margin-top:8px;"></canvas>
+</div>
+<div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
+<strong>チリ主要銅鉱山 生産量比較（2024年概算）</strong>
+<canvas id="pie-chile-mines" style="max-height:280px;margin-top:8px;"></canvas>
+</div>
+</div>
+
+※ Escondida出資比率は各社公表値。リチウムシェアはSQM・Albemarle各社IR{{% cite "sqm_company" %}}に基づく。銅鉱山生産量はCochilco{{% cite "cochilco_2024" %}}等の概算。
+
+<script type="module">
+import { Chart, ArcElement, Tooltip, Legend, DoughnutController } from 'https://cdn.jsdelivr.net/npm/chart.js@4.4.7/+esm';
+Chart.register(ArcElement, Tooltip, Legend, DoughnutController);
+
+var pieOpts = {
+  responsive: true,
+  plugins: {
+    legend: { position:'bottom', labels:{ font:{size:10}, padding:8, boxWidth:12 } },
+    tooltip: {
+      callbacks: {
+        label: function(ctx) {
+          var t = ctx.dataset.data.reduce(function(a,b){return a+b},0);
+          return ' ' + ctx.label + ' (' + (ctx.parsed/t*100).toFixed(1) + '%)';
+        }
+      }
+    }
+  }
+};
+
+/* Escondida出資構成 */
+new Chart(document.getElementById('pie-escondida'), {
+  type:'doughnut',
+  data:{
+    labels:['BHP（豪）','Rio Tinto（英豪）','JECO（三菱商事/三菱マテ/日鉱）'],
+    datasets:[{data:[57.5, 30, 12.5],
+      backgroundColor:['#e65100','#1565c0','#b71c1c']}]
+  }, options:pieOpts
+});
+
+/* リチウム生産シェア */
+new Chart(document.getElementById('pie-lithium'), {
+  type:'doughnut',
+  data:{
+    labels:['SQM（チリ）','Albemarle（米国）'],
+    datasets:[{data:[65, 35],
+      backgroundColor:['#2e7d32','#1565c0']}]
+  }, options:pieOpts
+});
+
+/* チリ主要銅鉱山の生産量 */
+new Chart(document.getElementById('pie-chile-mines'), {
+  type:'doughnut',
+  data:{
+    labels:['Escondida（BHP）','Collahuasi','El Teniente（Codelco）','Chuquicamata（Codelco）','Los Pelambres','Radomiro Tomic（Codelco）','Los Bronces','Centinela','Spence','その他Codelco・中小鉱山'],
+    datasets:[{data:[115, 56, 46, 32, 30, 27, 25, 25, 25, 169],
+      backgroundColor:['#e65100','#1565c0','#b71c1c','#c62828','#2e7d32','#ef5350','#6a1b9a','#00838f','#f9a825','#9e9e9e']}]
+  }, options: {
+    responsive: true,
+    plugins: {
+      legend: { position:'bottom', labels:{ font:{size:9}, padding:6, boxWidth:10 } },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            var t = ctx.dataset.data.reduce(function(a,b){return a+b},0);
+            return ' ' + ctx.label + ': ~' + ctx.parsed + '万t (' + (ctx.parsed/t*100).toFixed(1) + '%)';
+          }
+        }
+      }
+    }
+  }
+});
+</script>
+
 ## [チリ](/rule/cs_america/chile/)鉱業に関わる主要企業の時価総額マップ
 
 <div class="corp-treemap-section">

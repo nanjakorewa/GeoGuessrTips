@@ -226,6 +226,61 @@ galleryDir: "japan-nonferrous"
 
 直島の三菱マテリアル製錬所は、世界の E-Scrap 発生量（年約80万トン）のうち{{% cite "mmc_escrap" %}}、<span style="font-weight:700">グループ全体で約20%相当を処理</span> しているとされ、世界の都市鉱山リサイクルの中心拠点となっています{{% cite "mmc_escrap" %}}。2030年度には処理能力を約24万トンに拡大し{{% cite "mmc_escrap" %}}、さらなる役割強化を予定しています。
 
+## 銅製錬能力と都市鉱山リサイクルの可視化
+
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;margin:28px 0;">
+<div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
+<strong>国内5大銅製錬所の電気銅生産能力（合計約187万t/年）</strong>
+<canvas id="pie-cu-smelter" style="max-height:280px;margin-top:8px;"></canvas>
+</div>
+<div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
+<strong>E-Scrap（都市鉱山）リサイクル処理の構造</strong>
+<canvas id="pie-escrap" style="max-height:280px;margin-top:8px;"></canvas>
+</div>
+</div>
+
+※ 銅製錬能力は各社IR・JOGMEC資料に基づく推定{{% cite "jogmec_metal_overview" %}}。E-Scrap処理は三菱マテリアルIR{{% cite "mmc_escrap" %}}等を参考。
+
+<script type="module">
+import { Chart, ArcElement, Tooltip, Legend, DoughnutController } from 'https://cdn.jsdelivr.net/npm/chart.js@4.4.7/+esm';
+Chart.register(ArcElement, Tooltip, Legend, DoughnutController);
+
+var pieOpts = {
+  responsive: true,
+  plugins: {
+    legend: { position:'bottom', labels:{ font:{size:10}, padding:8, boxWidth:12 } },
+    tooltip: {
+      callbacks: {
+        label: function(ctx) {
+          var t = ctx.dataset.data.reduce(function(a,b){return a+b},0);
+          return ' ' + ctx.label + ': 約' + ctx.parsed + '万t (' + (ctx.parsed/t*100).toFixed(1) + '%)';
+        }
+      }
+    }
+  }
+};
+
+/* 銅製錬所別能力 */
+new Chart(document.getElementById('pie-cu-smelter'), {
+  type:'doughnut',
+  data:{
+    labels:['東予（住友金属鉱山）','佐賀関（PPC/JX金属）','直島（三菱マテリアル）','玉野（PPC/JX金属）','小名浜（JX金属系）'],
+    datasets:[{data:[45, 45, 57, 20, 20],
+      backgroundColor:['#e65100','#1565c0','#2e7d32','#1565c0'+'99','#6a1b9a']}]
+  }, options:pieOpts
+});
+
+/* E-Scrap処理 */
+new Chart(document.getElementById('pie-escrap'), {
+  type:'doughnut',
+  data:{
+    labels:['直島（三菱マテリアル・16万t/年）','小坂製錬（DOWA）','佐賀関（PPC）','その他'],
+    datasets:[{data:[16, 5, 3, 2],
+      backgroundColor:['#2e7d32','#e65100','#1565c0','#9e9e9e']}]
+  }, options:pieOpts
+});
+</script>
+
 ## 関連企業の時価総額マップ
 
 非鉄製錬・リサイクル事業を手がける主要上場企業の時価総額を可視化しています。

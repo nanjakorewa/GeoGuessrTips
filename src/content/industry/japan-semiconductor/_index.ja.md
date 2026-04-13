@@ -179,6 +179,115 @@ graph LR
   style E fill:#d1fae5,color:#065f46,stroke:#10b981,stroke-width:2px
 {{% /mermaid %}}
 
+## 半導体集積地の生産能力と素材シェア
+
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:24px;margin:28px 0;">
+<div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
+<strong>日本の主要半導体工場 — 製品タイプ別の月産能力（300mm換算・千枚/月）</strong>
+<canvas id="bar-semi-cap" style="max-height:340px;margin-top:8px;"></canvas>
+</div>
+<div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
+<strong>300mmウェーハ供給 世界シェア（2024年）</strong>
+<canvas id="pie-wafer" style="max-height:280px;margin-top:8px;"></canvas>
+</div>
+</div>
+
+※ 月産能力は各社IR・業界レポート等から300mm換算で概算。200mmラインは面積比（300mm≒2.25枚分）で換算。Rapidus千歳は建設中のため計画値（斜線表示）。ウェーハシェアは信越化学・SUMCO各社IR{{% cite "shinetsu_ir" %}}{{% cite "sumco_ir" %}}および業界推定に基づく。
+
+<script type="module">
+import { Chart, ArcElement, Tooltip, Legend, DoughnutController,
+         BarController, BarElement, CategoryScale, LinearScale }
+  from 'https://cdn.jsdelivr.net/npm/chart.js@4.4.7/+esm';
+Chart.register(ArcElement, Tooltip, Legend, DoughnutController,
+               BarController, BarElement, CategoryScale, LinearScale);
+
+/* ---- 横棒グラフ：製品タイプ別月産能力 ---- */
+var barLabels = [
+  'NANDフラッシュ\n（四日市・北上）',
+  'ロジック・MCU\n（JASM熊本・ルネサス等）',
+  'CMOSイメージセンサー\n（ソニー熊本・長崎）',
+  'DRAM・HBM\n（マイクロン広島）',
+  'パワー半導体\n（宮崎・福岡・長野等）',
+  '最先端2nm\n（Rapidus千歳・建設中）'
+];
+var barData   = [250, 120, 105, 95, 55, 10];
+var barColors = ['#1565c0','#b71c1c','#6a1b9a','#e65100','#2e7d32','#bdbdbd'];
+
+/* 建設中（Rapidus）にストライプパターンを適用 */
+var cvs = document.createElement('canvas'); cvs.width=10; cvs.height=10;
+var pctx = cvs.getContext('2d');
+pctx.fillStyle='#e0e0e0'; pctx.fillRect(0,0,10,10);
+pctx.strokeStyle='#9e9e9e'; pctx.lineWidth=2;
+pctx.beginPath(); pctx.moveTo(0,10); pctx.lineTo(10,0); pctx.stroke();
+var stripePattern = pctx.createPattern(cvs,'repeat');
+barColors[5] = stripePattern;
+
+new Chart(document.getElementById('bar-semi-cap'), {
+  type:'bar',
+  data:{
+    labels: barLabels,
+    datasets:[{
+      data: barData,
+      backgroundColor: barColors,
+      borderWidth: 0,
+      barThickness: 28
+    }]
+  },
+  options:{
+    indexAxis:'y',
+    responsive:true,
+    plugins:{
+      legend:{ display:false },
+      tooltip:{
+        callbacks:{
+          label:function(ctx){
+            var v = ctx.parsed.x;
+            var suffix = ctx.dataIndex===5 ? '（計画値）' : '';
+            return ' ' + v + '千枚/月' + suffix;
+          }
+        }
+      }
+    },
+    scales:{
+      x:{
+        title:{ display:true, text:'千枚/月（300mm換算）', font:{size:11} },
+        beginAtZero:true,
+        grid:{ color:'rgba(0,0,0,.06)' }
+      },
+      y:{
+        ticks:{ font:{size:10}, autoSkip:false },
+        grid:{ display:false }
+      }
+    }
+  }
+});
+
+/* ---- ドーナツ：300mmウェーハ世界シェア ---- */
+var pieOpts = {
+  responsive: true,
+  plugins: {
+    legend: { position:'bottom', labels:{ font:{size:10}, padding:8, boxWidth:12 } },
+    tooltip: {
+      callbacks: {
+        label: function(ctx) {
+          var t = ctx.dataset.data.reduce(function(a,b){return a+b},0);
+          return ' ' + ctx.label + ' (' + (ctx.parsed/t*100).toFixed(1) + '%)';
+        }
+      }
+    }
+  }
+};
+
+new Chart(document.getElementById('pie-wafer'), {
+  type:'doughnut',
+  data:{
+    labels:['信越化学（日本）','SUMCO（日本）','GlobalWafers（台湾）','SK Siltron（韓国）','Siltronic（独）','その他'],
+    datasets:[{data:[32, 24, 17, 13, 8, 6],
+      backgroundColor:['#b71c1c','#c62828','#00838f','#f9a825','#546e7a','#9e9e9e']}]
+  }, options:pieOpts
+});
+</script>
+
 ## 関連企業の時価総額マップ
 
 半導体製造・装置・材料に関わる主要上場企業の時価総額を可視化しています。

@@ -203,6 +203,61 @@ galleryDir: "japan-fiber"
 - <span style="font-weight:700">自動車・電子産業との共進化</span>: トヨタ・ホンダなどのEV軽量化ニーズに応じた低コスト化研究
 - <span style="font-weight:700">汎用繊維からの経営転換</span>: 1980年代の構造転換で、高差別化・高マージン製品へのフォーカス実現
 
+## 世界炭素繊維市場の可視化
+
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;margin:28px 0;">
+<div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
+<strong>世界PAN系炭素繊維 メーカー別シェア（売上ベース・2023年）</strong>
+<canvas id="pie-cf-maker" style="max-height:280px;margin-top:8px;"></canvas>
+</div>
+<div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
+<strong>炭素繊維の用途別市場構成（2023年推定）</strong>
+<canvas id="pie-cf-usage" style="max-height:280px;margin-top:8px;"></canvas>
+</div>
+</div>
+
+※ メーカー別シェアは売上ベースの推定値{{% cite "cf_market_size" %}}。用途別構成はComposites World等の業界推定に基づく概算。
+
+<script type="module">
+import { Chart, ArcElement, Tooltip, Legend, DoughnutController } from 'https://cdn.jsdelivr.net/npm/chart.js@4.4.7/+esm';
+Chart.register(ArcElement, Tooltip, Legend, DoughnutController);
+
+var pieOpts = {
+  responsive: true,
+  plugins: {
+    legend: { position:'bottom', labels:{ font:{size:10}, padding:8, boxWidth:12 } },
+    tooltip: {
+      callbacks: {
+        label: function(ctx) {
+          var t = ctx.dataset.data.reduce(function(a,b){return a+b},0);
+          return ' ' + ctx.label + ': ' + (ctx.parsed/t*100).toFixed(1) + '%';
+        }
+      }
+    }
+  }
+};
+
+/* メーカー別シェア */
+new Chart(document.getElementById('pie-cf-maker'), {
+  type:'doughnut',
+  data:{
+    labels:['東レ（日本）','帝人（日本）','三菱ケミカル（日本）','SGL Carbon（独）','Solvay（白）','その他'],
+    datasets:[{data:[13.5, 10, 8, 7, 5, 56.5],
+      backgroundColor:['#b71c1c','#c62828','#e53935','#546e7a','#6a1b9a','#9e9e9e']}]
+  }, options:pieOpts
+});
+
+/* 用途別構成 */
+new Chart(document.getElementById('pie-cf-usage'), {
+  type:'doughnut',
+  data:{
+    labels:['航空宇宙','風力発電','自動車','スポーツ・レジャー','圧力容器・水素タンク','建設・土木','その他産業用途'],
+    datasets:[{data:[23, 18, 15, 12, 8, 7, 17],
+      backgroundColor:['#1565c0','#2e7d32','#e65100','#ad1457','#00838f','#f9a825','#9e9e9e']}]
+  }, options:pieOpts
+});
+</script>
+
 ## [日本](/rule/asia/japan/)の合成繊維・炭素繊維メーカー時価総額マップ
 
 <div class="corp-treemap-section">
