@@ -64,7 +64,7 @@ graph LR
 
 ## TSMC熊本工場（JASM）
 
-JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立した製造子会社で、ソニーグループ（約6%）・デンソー（約10%）・トヨタ自動車（約2%）が出資しています{{% cite "jasm2024" %}}。
+JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立した製造子会社で、ソニーグループ（約6%）・デンソー（約5.5%）・トヨタ自動車（約2%）が出資しています（2024年増資後の比率）{{% cite "jasm2024" %}}。
 
 | 項目 | 第1工場 | 第2工場（計画） |
 | ---- | ------- | -------------- |

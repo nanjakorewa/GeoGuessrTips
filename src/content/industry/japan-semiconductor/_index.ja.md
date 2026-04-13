@@ -369,7 +369,7 @@ new Chart(document.getElementById('pie-wafer'), {
 <tr>
 <td>東京エレクトロン</td>
 <td>{{% minkabu 8035 %}}</td>
-<td>半導体製造装置世界第3位。塗布現像装置で世界シェア1位。熊本県合志市に開発・生産子会社「東京エレクトロン九州」を置き、JASM熊本工場向けに最先端装置を納入。九州半導体クラスターの装置産業を代表する存在</td>
+<td>半導体製造装置世界第3〜4位（Applied Materials・ASML・Lam Researchと競合）。塗布現像装置で世界シェア1位。熊本県合志市に開発・生産子会社「東京エレクトロン九州」を置き、JASM熊本工場向けに最先端装置を納入。九州半導体クラスターの装置産業を代表する存在</td>
 <td>{{% corplink "https://www.tel.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8035" %}}</td>
 </tr>
