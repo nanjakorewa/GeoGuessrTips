@@ -1,0 +1,384 @@
+---
+title: "日本のポンプ産業"
+subtitle: "荏原・日機装・酉島・鶴見 — 国内361社が支える流体機械とグローバル展開"
+date: 2026-04-13
+lastmod: 2026-04-13
+description: "日本のポンプ産業を解説。荏原製作所（売上8,666億円）・日機装・酉島製作所・鶴見製作所の主要企業、国内生産額約3,500〜4,000億円の市場規模、世界ポンプ市場（約700億ドル）でのシェア、海水淡水化・LNG・水素向け成長分野を各社IR資料に基づき整理。"
+weight: 41
+mapName: "japan"
+galleryDir: "japan-pump"
+---
+
+<script>
+(function() {
+  var pins = [
+    { x: 430, y: 400, label: '羽田（荏原）', type: 'pump',
+      note: '荏原製作所 本社（東京都大田区）' },
+    { x: 425, y: 395, label: '渋谷（日機装）', type: 'pump',
+      note: '日機装 本社（東京都渋谷区）' },
+    { x: 275, y: 490, label: '大阪（酉島）', type: 'pump',
+      note: '酉島製作所 本社（大阪府高槻市）' },
+    { x: 278, y: 486, label: '大阪（鶴見）', type: 'pump',
+      note: '鶴見製作所 本社（大阪市鶴見区）' },
+    { x: 430, y: 390, label: '東京（電業社）', type: 'pump',
+      note: '電業社機械製作所 本社（東京都大田区）' },
+    { x: 265, y: 490, label: '兵庫（帝国電機）', type: 'pump',
+      note: '帝国電機製作所 本社（兵庫県たつの市）' },
+    { x: 440, y: 395, label: '東京（イワキ）', type: 'pump',
+      note: 'イワキ 本社（東京都千代田区）' },
+    { x: 345, y: 435, label: '名古屋（タクミナ）', type: 'pump',
+      note: 'タクミナ 本社（大阪市中央区）' },
+    { x: 110, y: 530, label: '北九州（横田）', type: 'pump',
+      note: '横田製作所 本社（北九州市小倉北区）' },
+  ];
+
+  function addPins() {
+    var mapEl = document.getElementById('world-map');
+    if (!mapEl) return;
+    var svg = mapEl.querySelector('svg');
+    if (!svg) { setTimeout(addPins, 300); return; }
+
+    pins.forEach(function(pin) {
+      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+      g.setAttribute('class', 'kombinat-pin');
+      g.style.cursor = 'default';
+
+      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
+      titleEl.textContent = pin.label + ' — ' + pin.note;
+      g.appendChild(titleEl);
+
+      var color = '#2563eb';
+      var bgColor = 'rgba(37,99,235,0.18)';
+      var strokeColor = 'rgba(37,99,235,0.55)';
+
+      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      glow.setAttribute('cx', pin.x);
+      glow.setAttribute('cy', pin.y - 6);
+      glow.setAttribute('r', '10');
+      glow.setAttribute('fill', bgColor);
+      glow.setAttribute('stroke', strokeColor);
+      glow.setAttribute('stroke-width', '1.5');
+
+      var marker = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      marker.setAttribute('x', pin.x);
+      marker.setAttribute('y', pin.y);
+      marker.setAttribute('font-size', '14');
+      marker.setAttribute('fill', color);
+      marker.setAttribute('text-anchor', 'middle');
+      marker.setAttribute('dominant-baseline', 'middle');
+      marker.setAttribute('style', 'font-family:sans-serif; user-select:none;');
+      marker.textContent = '\u25CF';
+
+      var textLen = pin.label.length;
+      var bgW = textLen * 8 + 6;
+      var bgH = 13;
+
+      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+      labelBg.setAttribute('x', pin.x - bgW / 2);
+      labelBg.setAttribute('y', pin.y + 4);
+      labelBg.setAttribute('width', bgW);
+      labelBg.setAttribute('height', bgH);
+      labelBg.setAttribute('fill', 'rgba(68,64,60,0.85)');
+      labelBg.setAttribute('rx', '3');
+
+      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      label.setAttribute('x', pin.x);
+      label.setAttribute('y', pin.y + 13);
+      label.setAttribute('font-size', '8');
+      label.setAttribute('fill', '#fff');
+      label.setAttribute('text-anchor', 'middle');
+      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
+      label.textContent = pin.label;
+
+      g.appendChild(glow);
+      g.appendChild(marker);
+      g.appendChild(labelBg);
+      g.appendChild(label);
+      svg.appendChild(g);
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
+  } else {
+    setTimeout(addPins, 700);
+  }
+})();
+</script>
+
+## [日本](/rule/asia/japan/)のポンプ産業とは
+
+ポンプは水・油・薬液・スラリーなどあらゆる流体を輸送する<span style="font-weight:700">産業の血管</span>とも言える基幹機械です。上下水道、石油精製、化学プラント、発電所、半導体工場、ビルの空調から家庭の給水まで、ポンプなしに稼働する産業施設はほぼ存在しません。[日本](/rule/asia/japan/)のポンプ製造業は国内に<span style="font-weight:700">361社</span>のメーカーが存在し{{% cite "toyama_pump" %}}、生産金額は年間約3,500〜4,000億円規模を維持しています{{% cite "toyama_pump" %}}。
+
+[日本](/rule/asia/japan/)のポンプメーカーの特徴は、<span style="font-weight:700">荏原製作所を筆頭とする大手から高度な専門分野に特化した中堅企業まで層が厚い</span>ことです。荏原製作所は連結売上高8,666億円（2024年12月期）を誇り、売上高ベースで世界ポンプメーカー上位に位置します{{% cite "ebara_ir2024" %}}。海水淡水化ポンプでは酉島製作所が世界シェア首位{{% cite "torishima_ir2024" %}}、LNG用極低温ポンプでは日機装が世界シェア約50%{{% cite "nikkiso_ir2024" %}}、キャンドモータポンプでは帝国電機製作所が世界シェア約40%{{% cite "teikoku_ir2025" %}}と、ニッチ分野でグローバルトップを占める企業が多いのが特徴です。
+
+## 基本データ
+
+<div class="stat-grid">
+  <div class="stat-card">
+    <p class="stat-card__label">国内ポンプ生産金額</p>
+    <p class="stat-card__value">約3,500〜4,000</p>
+    <p class="stat-card__unit">億円/年{{% cite "toyama_pump" %}}</p>
+  </div>
+  <div class="stat-card">
+    <p class="stat-card__label">国内メーカー数</p>
+    <p class="stat-card__value">361</p>
+    <p class="stat-card__unit">社（東京68、大阪60、神奈川26、愛知26）{{% cite "toyama_pump" %}}</p>
+  </div>
+  <div class="stat-card">
+    <p class="stat-card__label">世界ポンプ市場規模（2025年推計）</p>
+    <p class="stat-card__value">約630〜710</p>
+    <p class="stat-card__unit">億ドル（CAGR 4〜5%成長）{{% cite "precedence_pump" %}}{{% cite "imarc_pump" %}}</p>
+  </div>
+  <div class="stat-card">
+    <p class="stat-card__label">国内年間生産台数</p>
+    <p class="stat-card__value">約400〜500</p>
+    <p class="stat-card__unit">万台{{% cite "toyama_pump" %}}</p>
+  </div>
+</div>
+
+## ポンプの種類と用途
+
+ポンプは動作原理により大きく分類されます。[日本](/rule/asia/japan/)では用途に応じて多様なポンプが製造されており、種類ごとに平均単価が大きく異なります{{% cite "toyama_pump" %}}。
+
+| 用途分野 | 世界市場シェア | 主な使用ポンプ |
+| -------- | ------------ | ------------ |
+| <span style="font-weight:700">石油精製</span> | 約18% | API規格遠心ポンプ、高温・高圧対応 |
+| <span style="font-weight:700">化学プラント</span> | 約14% | 耐食性ポンプ、キャンドモータポンプ |
+| <span style="font-weight:700">上下水道</span> | 約11% | 大型渦巻ポンプ、水中ポンプ |
+| <span style="font-weight:700">電力（発電所）</span> | 約9% | ボイラ給水ポンプ、復水ポンプ |
+| <span style="font-weight:700">家庭用</span> | 約9% | 給水ポンプ、循環ポンプ |
+
+{{% cite "toyama_pump" %}}
+
+## 世界のポンプ市場と主要メーカー
+
+世界のポンプ市場は2025年時点で約630〜710億ドル規模と推定されており、2030年にかけてCAGR 4〜5%の成長が見込まれています{{% cite "precedence_pump" %}}{{% cite "imarc_pump" %}}。市場は比較的分散しており、上位5社でも世界シェアは合計30〜35%程度にとどまります。以下は2024年の売上高ベースによる主要メーカーの比較です。
+
+| 順位 | 企業 | 本社国 | 2024年売上高 |
+| ---- | ---- | ------ | ----------- |
+| 1 | <span style="font-weight:700">Xylem</span> | 米国 | 86億ドル{{% cite "xylem_ar2024" %}} |
+| 2 | <span style="font-weight:700">荏原製作所</span> | [日本](/rule/asia/japan/) | 8,666億円（約57億ドル）{{% cite "ebara_ir2024" %}} |
+| 3 | <span style="font-weight:700">Grundfos</span> | デンマーク | 45億ユーロ{{% cite "grundfos_ar2024" %}} |
+| 4 | <span style="font-weight:700">Flowserve</span> | 米国 | 45.6億ドル{{% cite "flowserve_ar2024" %}} |
+| 5 | <span style="font-weight:700">Sulzer</span> | スイス | 35.3億スイスフラン{{% cite "sulzer_ar2024" %}} |
+| 6 | <span style="font-weight:700">KSB</span> | ドイツ | 29.7億ユーロ{{% cite "ksb_ar2024" %}} |
+| 7 | <span style="font-weight:700">WILO</span> | ドイツ | 19.0億ユーロ{{% cite "wilo_ar2024" %}} |
+| 8 | <span style="font-weight:700">Weir Group</span> | 英国 | — |
+
+※荏原・Xylemは半導体装置・水処理機器を含む連結売上。ポンプ単体売上は各社とも連結売上より小さくなります。
+
+## 国内メーカーの売上高ランキング
+
+[日本](/rule/asia/japan/)のポンプメーカーは荏原製作所が突出した規模を持ち、日機装・酉島製作所・鶴見製作所が続きます。ただし荏原は半導体CMP装置、日機装は医療機器（人工透析）・航空宇宙部品を含む連結売上であり、ポンプ単体の売上は各社とも連結売上より小さくなります。
+
+| 順位 | 企業 | 連結売上高（最新期） | 営業利益 | 主力分野 |
+| ---- | ---- | ------------------- | ------- | ------- |
+| 1 | <span style="font-weight:700">荏原製作所（6361）</span> | 8,666億円（FY2024/12）{{% cite "ebara_ir2024" %}} | 979億円 | 総合ポンプ、半導体CMP装置、コンプレッサ |
+| 2 | <span style="font-weight:700">日機装（6376）</span> | 2,130億円（FY2024/12）{{% cite "nikkiso_ir2024" %}} | 90億円 | 特殊ポンプ、LNG極低温ポンプ、医療機器、航空宇宙 |
+| 3 | <span style="font-weight:700">酉島製作所（6363）</span> | 865億円（FY2024）{{% cite "torishima_ir2024" %}} | 54億円 | 大型プラント向けポンプ、海水淡水化、発電所向け |
+| 4 | <span style="font-weight:700">鶴見製作所（6351）</span> | 680億円（FY2025/3）{{% cite "tsurumi_ir2025" %}} | 102億円 | 水中ポンプ国内トップ、建設・排水向け |
+| 5 | <span style="font-weight:700">イワキ（6237）</span> | 457億円（FY2025/3）{{% cite "iwaki_ir2025" %}} | 58億円 | ケミカルポンプ（薬液搬送）、半導体向け |
+| 6 | <span style="font-weight:700">帝国電機製作所（6333）</span> | 305億円（FY2025/3）{{% cite "teikoku_ir2025" %}} | 60億円 | キャンドモータポンプ（密閉型）世界首位 |
+| 7 | <span style="font-weight:700">電業社機械製作所（6365）</span> | 280億円（FY2025/3）{{% cite "dmw_ir2025" %}} | 22億円 | 上下水道向けポンプ、送風機 |
+
+## ポンプのライフサイクルコスト（LCC）
+
+ポンプの総保有コスト（LCC）において、<span style="font-weight:700">購入費は全体のわずか約14%</span>に過ぎず、最大のコスト要因は動力費（電力費）の約32%です{{% cite "toyama_pump" %}}。このため、省エネルギー性能の向上がポンプ産業の重要テーマとなっています。
+
+<div class="process-flow">
+  <div class="process-step">
+    <span class="process-step__label">コスト1</span>
+    <span class="process-step__name">動力費（電力）</span>
+    <span class="process-step__temp">約32%</span>
+  </div>
+  <div class="process-arrow">＋</div>
+  <div class="process-step">
+    <span class="process-step__label">コスト2</span>
+    <span class="process-step__name">保守管理費</span>
+    <span class="process-step__temp">約20%</span>
+  </div>
+  <div class="process-arrow">＋</div>
+  <div class="process-step">
+    <span class="process-step__label">コスト3</span>
+    <span class="process-step__name">購入費</span>
+    <span class="process-step__temp">約14%</span>
+  </div>
+  <div class="process-arrow">＋</div>
+  <div class="process-step">
+    <span class="process-step__label">コスト4</span>
+    <span class="process-step__name">その他（据付・廃棄等）</span>
+    <span class="process-step__temp">約34%</span>
+  </div>
+</div>
+
+世界のモータ消費電力の約20%はポンプ駆動に使われており{{% cite "toyama_pump" %}}、インバータ制御やIoTによるリアルタイム運転最適化がポンプの省エネ技術の中核となっています。
+
+## 技術トレンド
+
+[日本](/rule/asia/japan/)のポンプ産業では、以下の技術トレンドが進んでいます{{% cite "toyama_pump" %}}。
+
+| 技術分野 | 内容 |
+| -------- | ---- |
+| <span style="font-weight:700">CFD（数値流体力学）</span> | コンピュータシミュレーションによるインペラ・ケーシング設計の最適化。試作回数を削減し開発期間を短縮 |
+| <span style="font-weight:700">3Dプリンティング</span> | 金属積層造形による複雑形状インペラの製造。従来の鋳造では不可能な流路形状を実現 |
+| <span style="font-weight:700">エンジニアリングプラスチック</span> | 耐食・軽量部品への樹脂材料の採用。ケミカルポンプの耐薬品性向上 |
+| <span style="font-weight:700">インバータ制御</span> | 回転数可変運転による省エネ。流量に応じた最適回転数で消費電力を大幅削減 |
+| <span style="font-weight:700">IoT・遠隔監視</span> | センサーによる振動・温度・流量のリアルタイム監視。異常の早期検知と予知保全を実現 |
+
+## 成長分野と将来展望
+
+国内ポンプ市場は成熟しつつありますが、世界市場ではいくつかの有望分野が成長を牽引しています。各社IR資料からも、これらの分野への注力姿勢が読み取れます。
+
+| 成長分野 | 市場規模・成長率 | 概要 | 日本企業の動向 |
+| -------- | -------------- | ---- | ------------ |
+| <span style="font-weight:700">海水淡水化</span> | CAGR 6〜9%で成長{{% cite "precedence_pump" %}} | 水不足の深刻化により中東・北アフリカを中心に需要拡大。高圧ポンプが必須 | 酉島製作所が世界シェア首位、過去10年で2,200台超受注{{% cite "torishima_ir2024" %}} |
+| <span style="font-weight:700">LNG・液体水素用極低温ポンプ</span> | LNG需要拡大に伴い堅調成長 | LNG需要の拡大と水素エネルギーの普及に伴い需要増加 | 日機装が世界シェア約50%{{% cite "nikkiso_ir2024" %}}。酉島も液体水素分野に参入{{% cite "torishima_ir2024" %}} |
+| <span style="font-weight:700">半導体製造向けポンプ</span> | 生成AI需要で急成長 | ドライ真空ポンプ、CMP装置、ケミカルポンプの需要増 | 荏原が精密・電子事業で売上の32%{{% cite "ebara_ir2024" %}}。イワキは薬液搬送で国内トップ{{% cite "iwaki_ir2025" %}} |
+| <span style="font-weight:700">水素・アンモニア</span> | 脱炭素政策が追い風 | 水素サプライチェーン向けポンプ・コンプレッサの需要創出 | 酉島がHermetic社と提携{{% cite "torishima_ir2024" %}}、日機装が脱炭素関連で増収{{% cite "nikkiso_ir2024" %}} |
+| <span style="font-weight:700">FPSO（浮体式生産貯蔵設備）</span> | 深海開発で需要増 | 南米・東アフリカ沖合が有望 | 荏原・酉島がプラント用大型ポンプで参画 |
+
+## 業界動向 — 海外展開とM&A
+
+[日本](/rule/asia/japan/)のポンプメーカーは国内市場の成熟に伴い、海外展開を積極的に進めています。
+
+荏原製作所は2020年にトルコの深井戸ポンプメーカーVansan社を約113億円で買収して欧州・中東・アフリカ市場への足がかりを築き{{% cite "ebara_vansan" %}}、2022年にはカナダのHayward Gordon社を買収して北米の産業用ポンプ・ミキサー市場に参入しました{{% cite "ebara_hayward" %}}。グループ全体の海外売上比率は約66%に達し、世界111社のグループネットワークを構築しています{{% cite "ebara_ir2024" %}}。
+
+酉島製作所は海外売上比率50%超を維持し{{% cite "torishima_ir2024" %}}、中東・東南アジアの海水淡水化プロジェクトに多数参画しています。直近では極低温ポンプに強みを持つ海外企業の子会社化やドイツHermetic社との業務提携により、液体水素・アンモニア分野への事業拡大を図っています{{% cite "torishima_ir2024" %}}。
+
+帝国電機製作所は海外売上比率が70%を超えており{{% cite "teikoku_ir2025" %}}、米国・インドでの原子力向け大型プロジェクト受注も進んでいます。鶴見製作所は北米の鉱山・建設市場やASEAN諸国での需要を取り込み、海外売上は251億円（FY2025/3）に成長しています{{% cite "tsurumi_ir2025" %}}。
+
+世界的に見ても、Grundfos・Flowserve・Sulzerなどの欧米大手はM&Aによる規模拡大を継続しており、ポンプ産業は今後も再編が進む見通しです。
+
+## 主要企業の中期経営計画と成長戦略
+
+| 企業 | 計画名・目標年度 | 売上目標 | 重点戦略 |
+| ---- | -------------- | ------- | ------- |
+| <span style="font-weight:700">荏原製作所</span> | E-Plan2028（〜FY2028）{{% cite "ebara_ir2024" %}} | 1.2兆円 | 精密・電子事業への重点投資（藤沢工場、熊本工場増強、台湾製造拠点）。長期ビジョン「E-Vision2035」で売上2兆円以上を目指す |
+| <span style="font-weight:700">日機装</span> | NIKKISO 2028（〜FY2028）{{% cite "nikkiso_ir2024" %}} | — | インダストリアル事業の拡大（低・脱炭素関連）、メディカル事業の安定成長 |
+| <span style="font-weight:700">酉島製作所</span> | 新中計（〜FY2029）{{% cite "torishima_ir2024" %}} | 約1,000億円 | 営業利益率10%以上、ROE 10%以上。水素・アンモニア分野への展開 |
+| <span style="font-weight:700">鶴見製作所</span> | — | 710億円（FY2026/3予想）{{% cite "tsurumi_ir2025" %}} | ASEAN・北米での海外展開強化、水処理関連機器の拡充 |
+
+## 関連企業の時価総額マップ
+
+{{% corp-treemap "6361,6376,6363,6351,6365,6333,6237" %}}
+
+<div class="container-corp mt-5" id="corp-desc">
+<table class="table table-striped table-bordered">
+<thead class="table-light">
+<tr>
+<th class="col-width-2">企業</th>
+<th class="col-width-1">証券コード</th>
+<th class="col-width-7">事業概要・ポンプとの関連</th>
+<th class="col-width-05">決算情報</th>
+<th class="col-width-05">配当履歴</th>
+</tr>
+</thead>
+<tbody class="corp-desc">
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 総合ポンプメーカー</td></tr>
+<tr>
+<td>荏原製作所</td>
+<td>{{% minkabu 6361 %}}</td>
+<td>1912年創業の総合流体機械メーカー。標準ポンプからプラント用大型ポンプ、コンプレッサ、タービンまで幅広い流体機械を製造。FY2024の売上収益は8,666億円（前年比14.1%増）、営業利益979億円{{% cite "ebara_ir2024" %}}。セグメント別では精密・電子事業（半導体CMP装置・ドライ真空ポンプ）が全体の32%を占め最大の収益源に成長。2020年にトルコのVansan社（約113億円）{{% cite "ebara_vansan" %}}、2022年にカナダのHayward Gordon社を買収{{% cite "ebara_hayward" %}}し海外展開を加速。海外売上比率は約66%、世界111社のグループネットワークを持つ。長期ビジョン「E-Vision2035」で売上2兆円以上を目指す{{% cite "ebara_ir2024" %}}。</td>
+<td>{{% corplink "https://www.ebara.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6361" %}}</td>
+</tr>
+<tr>
+<td>日機装</td>
+<td>{{% minkabu 6376 %}}</td>
+<td>産業用特殊ポンプ（往復動ポンプ・極低温ポンプ）を柱に、医療機器（人工透析装置で国内シェア上位）、航空宇宙部品（カスケード逆噴射装置）を3本柱で展開。FY2024の連結売上は2,130億円（前年比10.6%増）、営業利益90億円{{% cite "nikkiso_ir2024" %}}。LNG用極低温ポンプは世界シェア約50%で最大手級の地位を確保{{% cite "nikkiso_ir2024" %}}。インダストリアル事業は低・脱炭素関連需要を追い風に過去最高の売上・利益を達成。新中計「NIKKISO 2028」で成長を加速{{% cite "nikkiso_ir2024" %}}。</td>
+<td>{{% corplink "https://www.nikkiso.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6376" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ プラント・インフラ向けポンプ</td></tr>
+<tr>
+<td>酉島製作所</td>
+<td>{{% minkabu 6363 %}}</td>
+<td>1919年創業の大型プラント向けポンプ専業メーカー。FY2024の連結売上は865億円（5年連続過去最高）{{% cite "torishima_ir2024" %}}。海水淡水化プラント向けポンプで世界シェア首位を確保し、過去10年で2,200台超を受注{{% cite "torishima_ir2024" %}}。海外売上比率は50%超。中期経営計画「Beyond110」を7年前倒しで達成し、新目標としてFY2029に売上約1,000億円・営業利益率10%以上を掲げる。液体水素・アンモニア分野への展開も推進中{{% cite "torishima_ir2024" %}}。</td>
+<td>{{% corplink "https://www.torishima.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6363" %}}</td>
+</tr>
+<tr>
+<td>電業社機械製作所</td>
+<td>{{% minkabu 6365 %}}</td>
+<td>上下水道・雨水排水向けポンプを主力とするポンプ・送風機メーカー。FY2025/3の売上高は280億円（前年比16.5%増）、営業利益22億円{{% cite "dmw_ir2025" %}}。政府・公共セクター向け需要に強い基盤を持つ。中東・インド・サウジアラビアに製造拠点を展開し海外事業を推進中{{% cite "dmw_ir2025" %}}。</td>
+<td>{{% corplink "https://www.dmw.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6365" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 専門分野特化型ポンプ</td></tr>
+<tr>
+<td>鶴見製作所</td>
+<td>{{% minkabu 6351 %}}</td>
+<td>水中ポンプの国内トップメーカー。FY2025/3の連結売上は680億円（前年比8.7%増）、営業利益102億円{{% cite "tsurumi_ir2025" %}}。国内市場シェア約3割、建設業向けでは約6割のシェアを持つ{{% cite "tsurumi_ir2025" %}}。海外売上は251億円で、北米の鉱山・建設市場やASEAN諸国での需要が堅調。新製品「水中ノンクロッグ型スマッシュポンプBN型」など異物通過性能の高い製品を投入{{% cite "tsurumi_ir2025" %}}。</td>
+<td>{{% corplink "https://www.tsurumipump.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6351" %}}</td>
+</tr>
+<tr>
+<td>帝国電機製作所</td>
+<td>{{% minkabu 6333 %}}</td>
+<td>キャンドモータポンプ（モータとポンプを一体化した完全密閉型）のパイオニア。FY2025/3の連結売上は305億円、営業利益60億円（営業利益率19.8%）で過去最高業績を達成{{% cite "teikoku_ir2025" %}}。キャンドモータポンプで世界シェア約40%・国内シェア約60%の世界首位{{% cite "teikoku_ir2025" %}}。化学プラント・原子力発電所など漏洩が許されない用途に強みを持ち、海外売上比率は70%超。米国・中国・台湾・ドイツ・インドなどに拠点を展開{{% cite "teikoku_ir2025" %}}。</td>
+<td>{{% corplink "https://www.teikokudenki.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6333" %}}</td>
+</tr>
+<tr>
+<td>イワキ</td>
+<td>{{% minkabu 6237 %}}</td>
+<td>ケミカルポンプ（薬液搬送用ポンプ）の専業メーカー。FY2025/3の連結売上は457億円、営業利益58億円（営業利益率12.8%）{{% cite "iwaki_ir2025" %}}。浄水場の塩素注入・人工透析用ポンプで国内シェア約50%、半導体・液晶製造向けケミカルポンプでも国内トップシェア{{% cite "iwaki_ir2025" %}}。海外売上比率は約52%で、米国（72億円）・欧州（60億円）・中国（56億円）を中心にグローバル展開{{% cite "iwaki_ir2025" %}}。</td>
+<td>{{% corplink "https://www.iwakipumps.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "6237" %}}</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+## ポンプ産業のバリューチェーン
+
+{{% mermaid %}}
+graph LR
+  A["素材メーカー\n鋳鉄・ステンレス・樹脂"]-->B["ポンプメーカー\n設計・製造・組立"]
+  B-->C["商社・代理店\n販売・据付"]
+  C-->D["エンドユーザー\nプラント・上下水道・建設"]
+  D-->E["保守・メンテナンス\n部品交換・オーバーホール"]
+  E-->|"リピート需要"|B
+  F["エンジニアリング会社\nプラント設計・EPC"]-->|"仕様決定"|B
+  style A fill:#fef3c7,color:#78350f,stroke:#f59e0b,stroke-width:2px
+  style B fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
+  style D fill:#d1fae5,color:#065f46,stroke:#10b981,stroke-width:2px
+  style E fill:#fce7f3,color:#831843,stroke:#ec4899,stroke-width:2px
+{{% /mermaid %}}
+
+## 各社のニッチトップ戦略
+
+[日本](/rule/asia/japan/)のポンプ産業の最大の特徴は、<span style="font-weight:700">特定用途で世界シェア首位を握る「ニッチトップ」企業が複数存在する</span>ことです。
+
+| 企業 | ニッチ分野 | 世界シェア | 強みの源泉 |
+| ---- | --------- | --------- | --------- |
+| <span style="font-weight:700">酉島製作所</span> | 海水淡水化プラント用ポンプ{{% cite "torishima_ir2024" %}} | 世界首位 | 高圧・大流量ポンプの設計技術、中東での豊富な納入実績 |
+| <span style="font-weight:700">日機装</span> | LNG用極低温ポンプ{{% cite "nikkiso_ir2024" %}} | 約50% | 極低温（−162℃以下）での信頼性、Atlas Copco LNG事業の買収 |
+| <span style="font-weight:700">帝国電機</span> | キャンドモータポンプ{{% cite "teikoku_ir2025" %}} | 約40% | 完全密閉構造の設計・製造技術、無漏洩の高信頼性 |
+| <span style="font-weight:700">イワキ</span> | 浄水場用塩素注入ポンプ{{% cite "iwaki_ir2025" %}} | 国内約50% | 多品種少量生産、耐薬品性素材の知見 |
+| <span style="font-weight:700">鶴見製作所</span> | 建設業向け水中ポンプ{{% cite "tsurumi_ir2025" %}} | 国内約60% | 現場の過酷環境への対応力、全国販売・サービス網 |
+| <span style="font-weight:700">荏原製作所</span> | 半導体CMP装置{{% cite "ebara_ir2024" %}} | 世界2位 | ポンプ技術から派生した精密研磨技術、生成AI需要の追い風 |
+
+## 参考文献
+
+{{% references %}}
+toyama_pump: 外山技術士事務所「ポンプ業界の動向と将来展望」（2023年3月10日）<https://yuksoto.sakura.ne.jp/2303101%20Pump_Gyoukai_Dohkou_Tenbou.pdf>
+ebara_ir2024: 荏原製作所「2024年12月期 決算短信」<https://www.ebara.com/jp-ja/ir/library/settlement/>
+ebara_vansan: 荏原製作所「Vansan Makina Sanayi ve Ticaret A.Ş.の株式取得について」（2020年12月）<https://www.ebara.com/jp-ja/ir/>
+ebara_hayward: 荏原製作所「Hayward Gordon L.P.の株式取得について」（2022年10月）<https://www.ebara.com/jp-ja/ir/>
+nikkiso_ir2024: 日機装「2024年12月期 決算短信」<https://www.nikkiso.co.jp/ir/financial/>
+torishima_ir2024: 酉島製作所「2024年度 決算説明資料」<https://www.torishima.co.jp/ir/>
+tsurumi_ir2025: 鶴見製作所「2025年3月期 決算短信」<https://www.tsurumipump.co.jp/ir/>
+dmw_ir2025: 電業社機械製作所「2025年3月期 決算情報」<https://www.dmw.co.jp/ir/>
+teikoku_ir2025: 帝国電機製作所「2025年3月期 決算情報」<https://www.teikokudenki.co.jp/ir/>
+iwaki_ir2025: イワキ「2025年3月期 決算短信」<https://www.iwakipumps.jp/ir/>
+precedence_pump: Precedence Research "Pumps Market Size, Share, and Trends 2025 to 2034" <https://www.precedenceresearch.com/pumps-market>
+imarc_pump: IMARC Group "Pumps Market Report 2025-2033" <https://www.imarcgroup.com/pumps-market>
+xylem_ar2024: Xylem Inc. "Fourth Quarter and Full Year 2024 Results" <https://www.xylem.com/en-us/about-xylem/newsroom/press-releases/>
+grundfos_ar2024: Grundfos "Annual Report 2024" <https://www.grundfos.com/media/reports-and-publications/grundfos-annual-report-2024>
+flowserve_ar2024: Flowserve Corporation "Annual Report 2024" <https://ir.flowserve.com/financials/annual-reports/>
+sulzer_ar2024: Sulzer Ltd "Annual Report 2024" <https://www.sulzer.com/en/about-us/investors>
+ksb_ar2024: KSB SE & Co. KGaA "Annual Report 2024" <https://www.ksb.com/en-global/media/press-releases/>
+wilo_ar2024: WILO SE "Annual Report 2024" <https://wilo.com/en/Company/Annual-Sustainability-Report/>
+{{% /references %}}

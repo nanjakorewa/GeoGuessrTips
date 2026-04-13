@@ -222,6 +222,16 @@ card_image: "pipeline.jpg"
 </div>
 </a>
 
+<a class="ind-card" href="/industry/japan-pump/">
+<img class="ind-card-thumb" src="/images/industry/japan-pump/pump_placeholder.jpg" alt="ポンプ" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">日本のポンプ産業</div>
+<div class="ind-card-desc">荏原・日機装・酉島・鶴見など361社。海水淡水化・LNG向け成長分野</div>
+<span class="ind-card-stat">国内生産額 約3,500〜4,000億円</span>
+</div>
+</a>
+
 <a class="ind-card" href="/industry/japan-trading-company/">
 <img class="ind-card-thumb" src="/images/industry/japan-trading-company/marunouchi_building.jpg" alt="商社" loading="lazy" />
 <div class="ind-card-body">
