@@ -114,6 +114,11 @@ if (data.galleryDir) {
     setouchi: "/industry/japan-industrial-zones/setouchi/",
     shipbuilding: "/industry/japan-shipbuilding/",
     kashima: "/industry/japan-industrial-zones/kashima/",
+    shipping: "/industry/japan-shipping/",
+    "japan-combinat-kashima": "/industry/japan-combinat/kashima/",
+    "japan-combinat-keiyo": "/industry/japan-combinat/keiyo/",
+    "japan-combinat-mizushima": "/industry/japan-combinat/mizushima/",
+    "japan-semiconductor-kyushu": "/industry/japan-semiconductor/kyushu/",
   };
   const baseDir = nodePath.resolve("public", "images", "industry");
   if (fs.existsSync(baseDir)) {
@@ -121,7 +126,7 @@ if (data.galleryDir) {
       .filter((d: any) => d.isDirectory());
     for (const sub of subdirs) {
       const subPath = nodePath.join(baseDir, sub.name);
-      const link = galleryDirMap[sub.name] || undefined;
+      const link = galleryDirMap[sub.name] || `/industry/${sub.name}/`;
       const credits = loadCredits(subPath);
       const files = fs.readdirSync(subPath)
         .filter((f: string) => /\.(jpg|jpeg|png|webp|gif|svg)$/i.test(f));

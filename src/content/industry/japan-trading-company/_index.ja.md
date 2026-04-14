@@ -405,4 +405,3 @@ ifrs_revenue_note: 企業会計基準委員会（ASBJ）「IFRS第15号『顧客
 marubeni_fy2024: 丸紅「2025年3月期 決算短信」— 純利益5,030億円 <https://www.marubeni.com/jp/ir/reports/earnings/>
 sumitomo_history: 住友商事「沿革」— 1919年（大正8年）12月 大阪北港を設立 <https://www.sumitomocorp.com/ja/jp/about/history/>
 {{% /references %}}
-                                                                                
