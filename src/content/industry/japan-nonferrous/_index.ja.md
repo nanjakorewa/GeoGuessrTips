@@ -370,7 +370,7 @@ new Chart(document.getElementById('pie-escrap'), {
 <td>日本製線</td>
 <td>{{% minkabu 5996 %}}</td>
 <td>非鉄金属線・電線・鋼線の製造販売で国内有数メーカー。銅線・アルミ線・ステンレス線など各種素材で高いシェアを保有。自動車・建設・電力・電子機器向けに多様な仕様で対応。自動車業界のEV化、脱炭素化に対応する機能線の開発を推進{{% cite "nippon_seisen" %}}。</td>
-<td>{{% corplink "https://www.nihonseisen.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.n-seisen.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5996" %}}</td>
 </tr>
 <tr>
