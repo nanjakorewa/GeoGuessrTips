@@ -351,18 +351,18 @@ galleryDir: "thailand-japanese"
 <th class="col-width-1">配当履歴</th>
 </tr></thead>
 <tbody class="corp-desc">
-<tr><td>トヨタ自動車</td><td>7203</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=トヨタ自動車+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7203" %}}</td></tr>
-<tr><td>デンソー</td><td>6902</td><td>部品</td><td>{{% corplink "https://www.google.com/search?q=デンソー+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6902" %}}</td></tr>
-<tr><td>ホンダ</td><td>7267</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=ホンダ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7267" %}}</td></tr>
-<tr><td>ブリジストン</td><td>5108</td><td>タイヤ</td><td>{{% corplink "https://www.google.com/search?q=ブリジストン+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "5108" %}}</td></tr>
-<tr><td>スズキ</td><td>7269</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=スズキ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7269" %}}</td></tr>
-<tr><td>日産自動車</td><td>7201</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=日産自動車+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7201" %}}</td></tr>
-<tr><td>アイシン</td><td>7259</td><td>部品</td><td>{{% corplink "https://www.google.com/search?q=アイシン+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7259" %}}</td></tr>
-<tr><td>いすゞ</td><td>7202</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=いすゞ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7202" %}}</td></tr>
-<tr><td>マツダ</td><td>7261</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=マツダ+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7261" %}}</td></tr>
-<tr><td>三菱自動車</td><td>7211</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=三菱自動車+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7211" %}}</td></tr>
-<tr><td>ジェイテクト</td><td>6473</td><td>部品</td><td>{{% corplink "https://www.google.com/search?q=ジェイテクト+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "6473" %}}</td></tr>
-<tr><td>日野自動車</td><td>7205</td><td>完成車</td><td>{{% corplink "https://www.google.com/search?q=日野自動車+Investor+Relations" %}}</td><td>{{% dividend "tokyo" "7205" %}}</td></tr>
+<tr><td>トヨタ自動車</td><td>7203</td><td>愛知県豊田市本社、世界販売台数首位を争う自動車メーカー。タイではToyota Motor Thailand（サムロン・ゲートウェイ・バンポー3工場）が1ton ピックアップ「Hilux」の主力生産基地で、HEV「Yaris Cross」「Corolla Cross」も現地投入。バンコクにアジアパシフィック地域本社、タイを東南アジアR&D・エンジン生産のハブとして位置付け。</td><td>{{% corplink "https://global.toyota/jp/ir/" %}}</td><td>{{% dividend "tokyo" "7203" %}}</td></tr>
+<tr><td>デンソー</td><td>6902</td><td>愛知県刈谷市本社、トヨタグループの世界最大級の自動車部品メーカー。タイではDenso International Asia・Denso Thailand・Siam Denso Manufacturing等を通じ、アマタナコンやシラチャに15超の拠点を展開。空調、パワートレイン、エンジンマネジメント、スターター/オルタネーター、インジェクター、電動化部品を生産。</td><td>{{% corplink "https://www.denso.com/global/en/investors/" %}}</td><td>{{% dividend "tokyo" "6902" %}}</td></tr>
+<tr><td>ホンダ</td><td>7267</td><td>東京都港区本社、四輪・二輪・汎用製品を擁する世界的メーカー。タイではHonda Automobile（Thailand）が2016年稼働のプラチンブリ新工場で「シビック」「アコード」「HR-V」「CR-V」等を生産し、ASEAN向け輸出ハブ。二輪のA.P.Honda（Thai Honda）はタイ国内二輪市場で圧倒的シェアを持つ。</td><td>{{% corplink "https://global.honda/en/investors/" %}}</td><td>{{% dividend "tokyo" "7267" %}}</td></tr>
+<tr><td>ブリジストン</td><td>5108</td><td>東京都中央区本社、世界首位級のタイヤメーカー。タイではBridgestone Tire Manufacturing Thailand（ラヨーン県ノンケー・チョンブリ県ラームチャバン）で乗用車・トラックバス用タイヤ、IRC（オートバイ用）、航空機用タイヤを生産。東南アジアの天然ゴム供給網と連携した一大生産拠点。</td><td>{{% corplink "https://www.bridgestone.com/ir/" %}}</td><td>{{% dividend "tokyo" "5108" %}}</td></tr>
+<tr><td>スズキ</td><td>7269</td><td>静岡県浜松市本社、小型車と二輪車に強みを持つメーカー。タイではSuzuki Motor（Thailand）がラヨーン県（Rayong）で「Swift」「Ciaz」等コンパクト車を生産。ただしインド（Maruti Suzuki）事業が圧倒的に大きく、タイ工場は2025年に生産撤退を発表。二輪はThai Suzuki Motorがチョンブリで生産継続。</td><td>{{% corplink "https://www.globalsuzuki.com/ir/" %}}</td><td>{{% dividend "tokyo" "7269" %}}</td></tr>
+<tr><td>日産自動車</td><td>7201</td><td>神奈川県横浜市本社、ルノー・三菱とアライアンスを組む大手メーカー。タイではNissan Motor Thailand（サムットプラカン）でピックアップ「Navara」、コンパクト「Almera」、HEV「Kicks e-POWER」を生産。タイは右ハンドル輸出車の主要拠点だが、近年は中国EVメーカー流入で苦戦し、2024年に1工場閉鎖を発表。</td><td>{{% corplink "https://www.nissan-global.com/JP/IR/" %}}</td><td>{{% dividend "tokyo" "7201" %}}</td></tr>
+<tr><td>アイシン</td><td>7259</td><td>愛知県刈谷市本社、トヨタグループの主要部品メーカー。世界最大級のAT（自動変速機）・CVTメーカーで、パワートレイン、ブレーキ、ボディ、ナビ、住設（住宅設備機器）まで手掛ける。タイではAisin Thailand、Aisin Takaoka Foundry等7拠点でAT、差動装置、ブレーキ、鍛造・鋳造部品を生産しASEAN自動車工場に供給。</td><td>{{% corplink "https://www.aisin.com/jp/ir/" %}}</td><td>{{% dividend "tokyo" "7259" %}}</td></tr>
+<tr><td>いすゞ</td><td>7202</td><td>東京都品川区本社、商用車・ディーゼルエンジン専業メーカー。タイはいすゞ最大の海外生産拠点で、Isuzu Motors（Thailand）サムットプラカン・チャチューンサオ工場で1ton ピックアップ「D-Max」を生産。タイ国内ではトヨタHiluxと並ぶピックアップトップシェアを誇り、「MU-X」SUVやFシリーズ商用車も生産。</td><td>{{% corplink "https://www.isuzu.co.jp/company/ir/" %}}</td><td>{{% dividend "tokyo" "7202" %}}</td></tr>
+<tr><td>マツダ</td><td>7261</td><td>広島市安芸郡府中町本社、SkyactivとロータリーエンジンのメーカーでフォードからAlliance離脱後は独立路線。タイではフォードとの合弁AAT（AutoAlliance Thailand、ラヨーン）で「BT-50」ピックアップを生産。チョンブリのMazda Powertrain Manufacturing Thailandでは2.2L Skyactivディーゼルエンジン・MT等を製造し、世界に輸出。</td><td>{{% corplink "https://www.mazda.com/ja/investors/" %}}</td><td>{{% dividend "tokyo" "7261" %}}</td></tr>
+<tr><td>三菱自動車</td><td>7211</td><td>東京都港区本社、日産傘下（ルノー・日産・三菱アライアンス）。タイはMitsubishi Motors（Thailand）レムチャバン工場（チョンブリ県）を中核に、1ton ピックアップ「Triton」、SUV「Pajero Sport」「Xpander」を生産しASEAN・豪州・欧州に輸出する世界戦略拠点。国内市場でもピックアップ上位シェア。</td><td>{{% corplink "https://www.mitsubishi-motors.com/jp/investors/" %}}</td><td>{{% dividend "tokyo" "7211" %}}</td></tr>
+<tr><td>ジェイテクト</td><td>6473</td><td>愛知県刈谷市本社、2006年豊田工機と光洋精工の合併で発足したトヨタグループ部品メーカー。パワーステアリング（EPS）世界シェア首位級、軸受（ベアリング、Koyoブランド）、工作機械（TOYODA）、駆動系（トランスファー・クラッチ）が柱。タイではアユタヤ・チョンブリ等にEPS・ベアリング工場を展開しASEANに供給。</td><td>{{% corplink "https://www.jtekt.co.jp/ir/" %}}</td><td>{{% dividend "tokyo" "6473" %}}</td></tr>
+<tr><td>日野自動車</td><td>7205</td><td>東京都日野市本社、トヨタ傘下の中型・大型トラック・バスメーカー。タイではHino Motors（Thailand）バンナーラブ工場でトラック・バスを生産し、ASEAN・中東に輸出。タイ商用車市場で長らくいすゞと並ぶトップシェア。2024年には三菱ふそう（ダイムラー傘下）との経営統合を発表（2024年12月共同合意、新HD設立予定）。</td><td>{{% corplink "https://www.hino-global.com/corp/ir/" %}}</td><td>{{% dividend "tokyo" "7205" %}}</td></tr>
 </tbody></table>
 </div>
 
