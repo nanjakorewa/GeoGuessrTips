@@ -153,7 +153,7 @@ CBOT（シカゴ商品取引所、現CME Group）は1848年設立で{{% cite "cb
 <th class="col-width-1">配当履歴</th>
 </tr></thead>
 <tbody class="corp-desc">
-<tr><td>Deere</td><td>DE</td><td>農機</td><td>{{% corplink "https://www.google.com/search?q=Deere+Investor+Relations" %}}</td><td>{{% dividend "other" "DE" %}}</td></tr>
+<tr><td>Deere</td><td>DE</td><td>米イリノイ州モーリン本社、世界最大の農機メーカー。Large Ag（トラクター・コンバイン）、Small Ag & Turf、Construction & Forestryの3事業。「See & Spray」「AutoPath」など精密農業（Precision Ag）を標榜し、John Deere Financialで顧客向け融資も提供。</td><td>{{% corplink "https://www.deere.com/en/investor-relations/" %}}</td><td>{{% dividend "other" "DE" %}}</td></tr>
 <tr><td>ADM</td><td>ADM</td><td>穀物</td><td>{{% corplink "https://www.google.com/search?q=ADM+Investor+Relations" %}}</td><td>{{% dividend "other" "ADM" %}}</td></tr>
 <tr><td>Bunge</td><td>BG</td><td>穀物</td><td>{{% corplink "https://www.google.com/search?q=Bunge+Investor+Relations" %}}</td><td>{{% dividend "other" "BG" %}}</td></tr>
 <tr><td>AGCO</td><td>AGCO</td><td>農機</td><td>{{% corplink "https://www.google.com/search?q=AGCO+Investor+Relations" %}}</td><td>{{% dividend "other" "AGCO" %}}</td></tr>
