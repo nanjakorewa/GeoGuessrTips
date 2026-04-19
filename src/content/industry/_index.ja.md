@@ -223,7 +223,7 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/japan-pump/">
-<img class="ind-card-thumb" src="/images/industry/japan-pump/pump_placeholder.jpg" alt="ポンプ" loading="lazy" />
+<img class="ind-card-thumb" src="/images/industry/japan-pump/industrial_pumps_industry_factory_0.jpg" alt="ポンプ" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
 <div class="ind-card-title">日本のポンプ産業</div>
@@ -249,6 +249,36 @@ card_image: "pipeline.jpg"
 <div class="ind-card-title">日本のロジスティクス</div>
 <div class="ind-card-desc">宅配3社・総合物流1社・特積み2社＋財閥系倉庫4社、2024年問題と物流DX</div>
 <span class="ind-card-stat">宅配便 年間約50億個</span>
+</div>
+</a>
+
+<a class="ind-card" href="/industry/japan-jr/">
+<img class="ind-card-thumb" src="/images/industry/japan-jr/jr_east_railways.jpg" alt="JR各社" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">日本のJR各社</div>
+<div class="ind-card-desc">国鉄分割民営化で生まれた6社の地域特性・経営戦略・業績比較</div>
+<span class="ind-card-stat">上場4社 合計営業収益 約6.6兆円</span>
+</div>
+</a>
+
+<a class="ind-card" href="/industry/japan-drugstore/">
+<img class="ind-card-thumb" src="/images/industry/japan-drugstore/960px-Welcia_DACS_Kyōtanabe-Miyamaki_shop.jpg" alt="ドラッグストア" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">日本のドラッグストア業界</div>
+<div class="ind-card-desc">10兆円市場の勢力図、ウエルシア×ツルハ統合、M&Aの歴史</div>
+<span class="ind-card-stat">業界売上高 10兆307億円</span>
+</div>
+</a>
+
+<a class="ind-card" href="/industry/japan-instant-noodle/">
+<img class="ind-card-thumb" src="/images/industry/japan-instant-noodle/1280px-202404_Cup_Noodle.jpg" alt="インスタントラーメン" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">インスタントラーメンの世界戦争</div>
+<div class="ind-card-desc">日清vs東洋水産の時価総額逆転、農心の台頭、先行者利益の構造</div>
+<span class="ind-card-stat">世界年間消費 約1,231億食</span>
 </div>
 </a>
 
