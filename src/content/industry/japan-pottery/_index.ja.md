@@ -383,7 +383,7 @@ galleryDir: "japan-pottery"
 <td>TOTO</td>
 <td>{{% minkabu 5332 %}}</td>
 <td>1917年に日本陶器（現ノリタケ）から衛生陶器部門が独立。陶磁器製造技術を基盤に、温水洗浄便座「ウォシュレット」で世界的に知られる住宅設備大手。衛生陶器・水栓・建築設備を主力とし、水回りに特化した総合メーカー{{% cite "morimura" %}}。</td>
-<td>{{% corplink "https://jp.toto.com/ir/" %}}</td>
+<td>{{% corplink "https://jp.toto.com/en/company/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5332" %}}</td>
 </tr>
 <tr>
@@ -397,7 +397,7 @@ galleryDir: "japan-pottery"
 <td>Niterra（旧日本特殊陶業）</td>
 <td>{{% minkabu 5334 %}}</td>
 <td>1936年に日本ガイシからスパークプラグ部門が独立。自動車用点火プラグで世界首位のシェアを確保し、セラミックス焼成技術の高度な応用を実現。近年はセラミックス技術を活かし医療機器・固体酸化物形燃料電池（SOFC）・環境浄化部品へ多角化推進{{% cite "morimura" %}}。</td>
-<td>{{% corplink "https://www.niterra.com/ja/ir/" %}}</td>
+<td>{{% corplink "https://www.niterragroup.com/english/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5334" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 窯業産地転換型（衛生陶器・タイル・ICパッケージ基板・DPF）</td></tr>

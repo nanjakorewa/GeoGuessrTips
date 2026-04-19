@@ -145,7 +145,7 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 <td>ルネサスエレクトロニクス</td>
 <td>{{% minkabu 6723 %}}</td>
 <td>車載マイコン・SoC世界首位級のロジック専業メーカー。熊本市南区川尻工場（40nm/90nm車載マイコン主力）と大分県大分市工場（300mm ADAS向けSoC）の2拠点体制で製造基盤を確保。TSMC熊本工場（JASM）の顧客でもあり、地理的近接による技術連携で競争力を強化</td>
-<td>{{% corplink "https://www.renesas.com/jp/ja/corporate/investor-relations" %}}</td>
+<td>{{% corplink "https://www.renesas.com/en/about/investor-relations" %}}</td>
 <td>{{% dividend "tokyo" "6723" %}}</td>
 </tr>
 <tr>

@@ -333,7 +333,7 @@ new Chart(document.getElementById('pie-wafer'), {
 <td>東芝</td>
 <td>{{% minkabu 6502 %}}</td>
 <td>NAND型フラッシュメモリ開発の歴史を持つ総合電機企業。パワーMOSFET・SiCデバイス、CPU・SSD事業を展開。石川県加賀市にパワーデバイス製造拠点を保有し、次世代電子機器向けの重要企業</td>
-<td>{{% corplink "https://www.toshiba.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.global.toshiba/ww/ir/corporate.html" %}}</td>
 <td>{{% dividend "tokyo" "6502" %}}</td>
 </tr>
 <tr>
@@ -347,7 +347,7 @@ new Chart(document.getElementById('pie-wafer'), {
 <td>日本電気</td>
 <td>{{% minkabu 6701 %}}</td>
 <td>LSI・光通信デバイス開発企業。サーバー・ネットワーク機器向けプロセッサで技術的な優位性を保持。通信インフラの高度化に伴う需要増加で成長基盤を整備</td>
-<td>{{% corplink "https://www.nec.com/ja/ir/" %}}</td>
+<td>{{% corplink "https://www.nec.com/en/global/ir/index.html" %}}</td>
 <td>{{% dividend "tokyo" "6701" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 半導体材料（シリコンウェーハ・フォトレジスト）</td></tr>

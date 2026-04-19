@@ -255,7 +255,7 @@ galleryDir: "japan-food-combinat"
 <td>DM三井製糖HD</td>
 <td>{{% minkabu 2109 %}}</td>
 <td>国内製糖大手。神戸東部第4工区に製糖工場を保有し、高さ30mの原糖倉庫が特徴的。海外産の原糖を精製し関西～九州地域への砂糖供給を担う。食品産業向けの各種砂糖製品で市場をリード。</td>
-<td>{{% corplink "https://www.dm-misui.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.msdm-hd.com/" %}}</td>
 <td>{{% dividend "tokyo" "2109" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 食用油・調味料</td></tr>
@@ -270,7 +270,7 @@ galleryDir: "japan-food-combinat"
 <td>キユーピー</td>
 <td>{{% minkabu 2809 %}}</td>
 <td>マヨネーズで国内シェア約60%を占める食品大手。神戸東部第4工区と泉佐野の両コンビナートに工場を保有し、関西～西日本市場を支配。ドレッシング・調味料でも業界トップシェア。グループで国内外20か国以上の生産拠点を保有。</td>
-<td>{{% corplink "https://www.kewpie.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.kewpie.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2809" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 製パン・菓子</td></tr>
@@ -315,7 +315,7 @@ galleryDir: "japan-food-combinat"
 <td>大塚食品</td>
 <td>{{% minkabu 2897 %}}</td>
 <td>「ボンカレー」「マッシモ」などレトルト食品で有名な食品メーカー。レトルトカレー・パスタソース・スープなど調理食品で高シェア。複数の食品コンビナートとの関連性があり、食品製造業の重要なサプライヤーとして位置付けられている。</td>
-<td>{{% corplink "https://www.otsuka-foodservice.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.otsukafoods.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2897" %}}</td>
 </tr>
 <tr>
@@ -336,14 +336,14 @@ galleryDir: "japan-food-combinat"
 <td>日本水産</td>
 <td>{{% minkabu 1332 %}}</td>
 <td>水産食品業界の大手メーカー。冷凍食品・練製品・缶詰で国内有数のシェアを占める。複数の食品コンビナートに生産拠点を保有。水産物の捕獲から加工・販売までの一貫体制で、国内食卓への水産物供給を支える。</td>
-<td>{{% corplink "https://www.nippon-suisan.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.nissui.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "1332" %}}</td>
 </tr>
 <tr>
 <td>マルハニチロ</td>
 <td>{{% minkabu 1333 %}}</td>
 <td>冷凍食品・缶詰・水産食品の大手メーカー。日本水産と並ぶ業界リーダーとして全国の食品コンビナートへの主要サプライヤー。冷凍フライ、冷凍野菜、缶詰など多様な食品製品で消費者の食卓に根付いており、国内外でのシェア拡大を推進。</td>
-<td>{{% corplink "https://www.maruha-nichiro.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.maruha-nichiro.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "1333" %}}</td>
 </tr>
 <tr>
@@ -357,7 +357,7 @@ galleryDir: "japan-food-combinat"
 <td>カゴメ</td>
 <td>{{% minkabu 2811 %}}</td>
 <td>野菜飲料・トマト製品の大手メーカー。「野菜生活」などのブランドで国内飲料市場で高いシェアを占める。加工食品での複数コンビナートとの関連性があり、健康・栄養を軸とした食品開発で消費者ニーズに対応。</td>
-<td>{{% corplink "https://www.kagome.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.kagome.co.jp/company/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2811" %}}</td>
 </tr>
 <tr>

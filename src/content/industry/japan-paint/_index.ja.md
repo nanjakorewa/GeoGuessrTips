@@ -174,7 +174,7 @@ galleryDir: "japan-paint"
 <td>中国塗料</td>
 <td>{{% minkabu 4617 %}}</td>
 <td>広島県大竹市発祥の独立系塗料メーカー。船底防汚塗料（アンチファウリング）で世界トップ3に位置し、海外売上比率が高いのが特徴。CMP・日本ペイントマリンと並んで、日本は世界の船舶塗料供給の中核を担う{{% cite "chugoku_marine" %}}。</td>
-<td>{{% corplink "https://www.chugoku-paint.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.cmp-chugoku.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "4617" %}}</td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@ galleryDir: "japan-paint"
 <td>DIC</td>
 <td>{{% minkabu 5106 %}}</td>
 <td>東京都中央区本社の化学・塗料・顔料の総合企業。高機能塗料・印刷インク・カラーマテリアルを主力事業とし、自動車OEM・建築・電子部品向けの高付加価値製品で競争力を発揮。グローバル展開により差別化された塗料・顔料で市場地位を確保{{% cite "dic_company" %}}。</td>
-<td>{{% corplink "https://www.dic.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.dic-global.com/ja/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5106" %}}</td>
 </tr>
 </tbody>

@@ -169,7 +169,7 @@ galleryDir: "japan-combinat-kashima"
 <td>大阪ソーダ</td>
 <td>{{% minkabu 4046 %}}</td>
 <td>塩素・アルカリ化学品（苛性ソーダ・塩素ガス）・香料・医薬品中間体を製造。複数のコンビナートに拠点を持ち、電解槽技術で業界での地位を確立。</td>
-<td>{{% corplink "https://www.osakasoda.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.osaka-soda.co.jp/en/ir.html" %}}</td>
 <td>{{% dividend "tokyo" "4046" %}}</td>
 </tr>
 <tr>

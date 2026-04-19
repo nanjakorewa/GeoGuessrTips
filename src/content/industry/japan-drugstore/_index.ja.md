@@ -465,7 +465,7 @@ graph LR
 <td>コスモス薬品</td>
 <td>{{% minkabu 3349 %}}</td>
 <td>福岡県発の食品特化型ドラッグストア。<span style="font-weight:700">食品構成比約58%</span>の「ほぼ食品スーパー」モデルで、2024年5月期に業界初の売上高1兆円超え（1兆113億円）を達成。EDLP（Everyday Low Price）戦略で九州・西日本の郊外に大型店を集中出店し、標準店は1,000m²超・生鮮食品も取扱う。M&Aに頼らず自前出店で成長した稀有な企業。</td>
-<td>{{% corplink "https://www.cosmospc.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.cosmospharmacy.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3349" %}}</td>
 </tr>
 <tr>
@@ -479,7 +479,7 @@ graph LR
 <td>クスリのアオキホールディングス</td>
 <td>{{% minkabu 3549 %}}</td>
 <td>北陸（石川県）発、食品強化型ドラッグストア。売上高5,014億円（2024年5月期）。<span style="font-weight:700">生鮮食品強化型の大型店</span>を開発し、青果・精肉・鮮魚を取り扱う店舗を拡大中。M&Aとオーガニック出店の両輪で地方ドミナントを築き、首都圏・関西にも進出を加速。食品スーパーM&Aで北陸・東海エリアを固める戦略。</td>
-<td>{{% corplink "https://www.kusuri-aoki.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.ir.kusuri-aoki-hd.co.jp/ja/Top.html" %}}</td>
 <td>{{% dividend "tokyo" "3549" %}}</td>
 </tr>
 <tr>
@@ -500,14 +500,14 @@ graph LR
 <td>薬王堂ホールディングス</td>
 <td>{{% minkabu 7679 %}}</td>
 <td>岩手県発、東北6県を中心に小商圏型ドラッグストアを展開。小型店モデル（売場面積330m²前後）で人口5,000人規模の小商圏にも出店可能な<span style="font-weight:700">過疎地対応型</span>のビジネスモデルが特徴。地方ドミナント戦略の極地で、コンビニ跡地活用などユニークな出店も行う。</td>
-<td>{{% corplink "https://www.yakuodo.co.jp/hd/ir/" %}}</td>
+<td>{{% corplink "https://www.yakuodo-hd.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7679" %}}</td>
 </tr>
 <tr>
 <td>Genky DrugStores</td>
 <td>{{% minkabu 9267 %}}</td>
 <td>福井県坂井市本社。北陸・中京エリアで食品強化型ドラッグストアを展開。食品比率が高く、コスモス薬品と同じ<span style="font-weight:700">フード&ドラッグ路線</span>を取る。自社PBや低価格訴求の棚づくりで成長し、東証プライム上場企業として地方ドラッグストア再編の焦点にもなり得る。</td>
-<td>{{% corplink "https://genky-ds.com/ir/" %}}</td>
+<td>{{% corplink "https://www.genky.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9267" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 調剤薬局（ドラッグストアの最大のライバル・M&Aターゲット）</td></tr>
@@ -551,7 +551,7 @@ graph LR
 <td>東邦ホールディングス</td>
 <td>{{% minkabu 8129 %}}</td>
 <td>医薬品卸業界4位。首都圏・西日本を中心に、卸子会社「東邦薬品」と調剤薬局子会社「共創未来ファーマ」の<span style="font-weight:700">卸×調剤のハイブリッド</span>戦略が特徴。ドラッグストアチェーンによる調剤参入の脅威に対し、自社で調剤薬局網も保有するユニークなポジション。</td>
-<td>{{% corplink "https://www.tohohd.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://ir.tohohd.co.jp/en.html" %}}</td>
 <td>{{% dividend "tokyo" "8129" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ OTC医薬品メーカー</td></tr>
@@ -595,7 +595,7 @@ graph LR
 <td>花王</td>
 <td>{{% minkabu 4452 %}}</td>
 <td>日用品・化粧品の最大手。「メリーズ」「ビオレ」「アタック」「ソフィーナ」「<span style="font-weight:700">キュレル</span>」等、ドラッグストア棚で最大の売場面積を占めるメーカー。PB（プライベートブランド）との共存戦略が課題で、ブランド力と棚取り力が業界随一。</td>
-<td>{{% corplink "https://www.kao.com/jp/corporate/ir/" %}}</td>
+<td>{{% corplink "https://www.kao.com/global/en/investor-relations/" %}}</td>
 <td>{{% dividend "tokyo" "4452" %}}</td>
 </tr>
 <tr>

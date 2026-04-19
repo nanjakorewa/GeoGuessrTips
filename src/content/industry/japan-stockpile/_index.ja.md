@@ -346,21 +346,21 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 <td>三菱商事</td>
 <td>{{% minkabu 8058 %}}</td>
 <td>大手総合商社。国際LNG・石油プロジェクトの主要投資家としてオーストラリア・中東などでの権益を保有。備蓄原油の安定調達・供給ネットワークで重要な役割。</td>
-<td>{{% corplink "https://www.mitsubishicorp.com/ir/" %}}</td>
+<td>{{% corplink "https://www.mitsubishicorp.com/jp/en/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8058" %}}</td>
 </tr>
 <tr>
 <td>三井物産</td>
 <td>{{% minkabu 8031 %}}</td>
 <td>大手総合商社。LNG・石油の上流開発・中流・販売で国際的なプレゼンスを有する。オーストラリア・中東でのエネルギー権益保有で備蓄制度の供給源確保に関与。</td>
-<td>{{% corplink "https://www.mitsui.com/mgssi/en/ir/" %}}</td>
+<td>{{% corplink "https://www.mitsui.com/jp/en/ir/index.html" %}}</td>
 <td>{{% dividend "tokyo" "8031" %}}</td>
 </tr>
 <tr>
 <td>伊藤忠商事</td>
 <td>{{% minkabu 8001 %}}</td>
 <td>大手総合商社。国際エネルギー事業とLNG調達で主要プレイヤー。シェール石油・ガスプロジェクトにも参加。石油備蓄の安定供給確保を支援する。</td>
-<td>{{% corplink "https://www.itochu.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.itochu.co.jp/en/ir/index.html" %}}</td>
 <td>{{% dividend "tokyo" "8001" %}}</td>
 </tr>
 </tbody>

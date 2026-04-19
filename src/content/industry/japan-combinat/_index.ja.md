@@ -244,7 +244,7 @@ galleryDir: "combinat"
 <td>レゾナック</td>
 <td>{{% minkabu 4004 %}}</td>
 <td>複数のコンビナートに拠点を保有。半導体材料・機能化学品・電子材料の研究開発と製造。2024年にResonacとしてリブランディング。</td>
-<td>{{% corplink "https://www.resonac.com/ja/ir/" %}}</td>
+<td>{{% corplink "https://www.resonac.com/ir" %}}</td>
 <td>{{% dividend "tokyo" "4004" %}}</td>
 </tr>
 <tr>
@@ -258,7 +258,7 @@ galleryDir: "combinat"
 <td>大阪ソーダ</td>
 <td>{{% minkabu 4046 %}}</td>
 <td>複数のコンビナートに拠点。塩素・アルカリ化学品（苛性ソーダ・塩素ガス）・香料・医薬品中間体を製造。電解槽技術で競争力を有する。</td>
-<td>{{% corplink "https://www.osakasoda.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.osaka-soda.co.jp/en/ir.html" %}}</td>
 <td>{{% dividend "tokyo" "4046" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 鉄鋼</td></tr>

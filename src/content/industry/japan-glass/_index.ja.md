@@ -96,7 +96,7 @@ galleryDir: "japan-glass"
 <td>日本板硝子（NSG）</td>
 <td>{{% minkabu 5202 %}}</td>
 <td>1918年大阪創業のガラスメーカー。2006年に英国の世界的大手Pilkingtonを約6,160億円で買収し、一気に世界トップ級に成長（「小蛇が大蛇を呑む買収」）。建築用・自動車用フロートガラスの大手だが、買収後の財務負担から現在は構造改革を推進{{% cite "nsg_company" %}}。</td>
-<td>{{% corplink "https://www.nsg.com/jp/ir" %}}</td>
+<td>{{% corplink "https://www.nsg.com/Investors" %}}</td>
 <td>{{% dividend "tokyo" "5202" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ ガラス繊維・ガラスクロス</td></tr>
@@ -126,7 +126,7 @@ galleryDir: "japan-glass"
 <td>セントラルガラス</td>
 <td>{{% minkabu 5334 %}}</td>
 <td>自動車用ガラス・液晶ディスプレイ用ガラス・光学ガラスを主力とする中堅ガラスメーカー。特殊ガラス分野での技術力を活かし、自動車サプライチェーンでのポジション確保。自動車メーカーのグローバル展開に対応した国内外での製造基盤で競争力を維持。</td>
-<td>{{% corplink "https://www.cgg.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.cgc-jp.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5334" %}}</td>
 </tr>
 </tbody>

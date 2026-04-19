@@ -365,7 +365,7 @@ graph LR
 <td>大阪ソーダ</td>
 <td>{{% minkabu 4046 %}}</td>
 <td>化学業界の企業。塩素・アルカリ化学（苛性ソーダ・塩素）製造プロセスから発生する副生水素を活用し、低炭素化学製品供給を推進。アンモニア関連の構想・事業開発にも参画し、脱炭素化学業界への転換に貢献。</td>
-<td>{{% corplink "https://www.osakasoda.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.osaka-soda.co.jp/en/ir.html" %}}</td>
 <td>{{% dividend "tokyo" "4046" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 自動車・輸送（水素燃料電池）</td></tr>
@@ -380,14 +380,14 @@ graph LR
 <td>本田技工業</td>
 <td>{{% minkabu 7267 %}}</td>
 <td>自動車・バイクの大手メーカー。「クラリティ・フューエル・セル」など燃料電池車（FCV）の開発・販売を推進。次世代FCVの研究開発と商用向けFCソリューション開発に積極投資。トヨタと並ぶFCV技術のリーダー企業として水素社会構築に貢献。</td>
-<td>{{% corplink "https://www.honda.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.honda.co.jp/investors/" %}}</td>
 <td>{{% dividend "tokyo" "7267" %}}</td>
 </tr>
 <tr>
 <td>日野自動車</td>
 <td>{{% minkabu 7205 %}}</td>
 <td>商用車業界の大手メーカー。水素燃料電池トラック・バスの開発・販売を推進し、大型商用車向けの水素社会対応を主導。トラック・バス・専用車など商用車全領域での脱炭素化実現を目指し、物流業界の低炭素化を支援。</td>
-<td>{{% corplink "https://www.hino.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.hino-global.com/corp/for_investors/" %}}</td>
 <td>{{% dividend "tokyo" "7205" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 商社・エネルギー（国際サプライチェーン）</td></tr>
@@ -395,21 +395,21 @@ graph LR
 <td>三井物産</td>
 <td>{{% minkabu 8031 %}}</td>
 <td>大手総合商社。国際水素・アンモニアサプライチェーン構築の主要プレイヤー。豪州のブルーアンモニア・水素プロジェクト、中東のブルーアンモニア供給契約交渉など国際協力を主導。脱炭素エネルギーのグローバル取引で市場をリード。</td>
-<td>{{% corplink "https://www.mitsui.com/mgssi/en/ir/" %}}</td>
+<td>{{% corplink "https://www.mitsui.com/jp/en/ir/index.html" %}}</td>
 <td>{{% dividend "tokyo" "8031" %}}</td>
 </tr>
 <tr>
 <td>三菱商事</td>
 <td>{{% minkabu 8058 %}}</td>
 <td>大手総合商社。JERA経由での水素・アンモニア事業展開と国際プロジェクト推進が中核。長期LNG取引先との関係を活用して水素・アンモニア供給契約を構築。ブルーアンモニア、グリーン水素の国際サプライチェーン構築で商社としてのリーダー地位を確立。</td>
-<td>{{% corplink "https://www.mitsubishicorp.com/ir/" %}}</td>
+<td>{{% corplink "https://www.mitsubishicorp.com/jp/en/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8058" %}}</td>
 </tr>
 <tr>
 <td>伊藤忠商事</td>
 <td>{{% minkabu 8001 %}}</td>
 <td>大手総合商社。国際水素・アンモニアサプライチェーン事業の展開を推進。中東（UAE・サウジ）のブルーアンモニア長期供給契約交渉、豪州のグリーン水素プロジェクト参画など、脱炭素エネルギーの国際取引で市場開拓を加速。</td>
-<td>{{% corplink "https://www.itochu.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.itochu.co.jp/en/ir/index.html" %}}</td>
 <td>{{% dividend "tokyo" "8001" %}}</td>
 </tr>
 <tr>

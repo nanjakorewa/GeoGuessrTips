@@ -95,14 +95,14 @@ galleryDir: "japan-concrete-products"
 <td>三谷セキサン</td>
 <td>{{% minkabu 5273 %}}</td>
 <td>福井県に本社を置くコンクリートパイル大手。PHC杭・SC杭・節杭など既製コンクリート杭の製造販売で国内トップクラス。情報システム事業も手がける二本柱経営。全国に製造拠点を配置し、大都市圏の建築需要を支える{{% cite "mitani_sekisan_company" %}}。</td>
-<td>{{% corplink "https://www.mitani-sekisan.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.m-sekisan.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5273" %}}</td>
 </tr>
 <tr>
 <td>日本コンクリート工業</td>
 <td>{{% minkabu 5269 %}}</td>
 <td>コンクリートポール（電柱）とコンクリートパイル（杭）の二本柱。電力会社・NTT向けポールで高いシェアを持つ。パイル事業ではPHC杭・SC杭を製造{{% cite "ncon_company" %}}。</td>
-<td>{{% corplink "https://www.nc-kon.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.ncic.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5269" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ ヒューム管・推進管</td></tr>

@@ -326,7 +326,7 @@ new Chart(document.getElementById('pie-escrap'), {
 <td>三井金属鉱業</td>
 <td>{{% minkabu 5706 %}}</td>
 <td>八戸製錬（青森県）で国内有数の電気亜鉛年産を、神岡鉱業（岐阜県・旧鉱山由来）でリサイクル原料処理を展開。極薄銅箔（マイクロシン）で世界シェア首位を確保し、EV用銅箔でも主力メーカーの地位を保有。電子部品・金属加工で高付加価値事業を展開{{% cite "mitsui_kinzoku_business" %}}。</td>
-<td>{{% corplink "https://www.mitsui-kinzoku.com/ir/" %}}</td>
+<td>{{% corplink "https://www.mitsui-kinzoku.com/en/toushi/" %}}</td>
 <td>{{% dividend "tokyo" "5706" %}}</td>
 </tr>
 <tr>

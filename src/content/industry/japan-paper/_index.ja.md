@@ -274,7 +274,7 @@ galleryDir: "japan-paper"
 <td>レンゴー</td>
 <td>{{% minkabu 3941 %}}</td>
 <td>板紙・段ボール最大手。国内段ボール市場でシェア約25%を占有。製紙工場5か所・段ボール工場25か所のネットワークを展開。EC需要拡大で成長基調{{% cite "rengo_outline" %}}。</td>
-<td>{{% corplink "https://www.rengo.co.jp/ir/" %}}</td>
+<td>{{% corplink "https://www.rengo.co.jp/english/financial/index.html" %}}</td>
 <td>{{% dividend "tokyo" "3941" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 専業・中堅</td></tr>
