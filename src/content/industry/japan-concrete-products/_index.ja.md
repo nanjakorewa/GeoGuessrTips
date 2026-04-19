@@ -6,6 +6,7 @@ lastmod: 2026-04-13
 description: "日本のコンクリート二次製品工業を解説。ヒューム管・コンクリートパイル（PHC杭・SC杭）・シールドセグメント・コンクリートポールなど、セメントを原料とする川下製品メーカーの企業構成と製品特性を整理。"
 weight: 38
 mapName: "japan"
+showMap: false
 galleryDir: "japan-concrete-products"
 ---
 

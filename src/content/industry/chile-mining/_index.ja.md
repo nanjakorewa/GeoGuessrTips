@@ -315,9 +315,9 @@ new Chart(document.getElementById('pie-chile-mines'), {
 <table class="table table-striped table-bordered">
 <thead class="table-light"><tr>
 <th class="col-width-3">企業</th>
-<th class="col-width-2">ティッカー</th>
-<th class="col-width-3">事業</th>
-<th class="col-width-1">IR</th>
+<th class="col-width-2">証券コード</th>
+<th class="col-width-3">事業概要</th>
+<th class="col-width-1">決算情報</th>
 <th class="col-width-1">配当履歴</th>
 </tr></thead>
 <tbody class="corp-desc">

@@ -199,6 +199,8 @@ const industryCollection = defineCollection({
   schema: z.object({
     ...baseFields,
     mapName: z.string().optional(),
+    /** mapName があっても地図表示を抑止するフラグ（ピンが1つも載らないページ用） */
+    showMap: z.boolean().optional(),
     map_index: z.string().optional(),
     additional_map_class: z.string().optional(),
     noindex: z.boolean().optional().default(false),

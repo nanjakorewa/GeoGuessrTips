@@ -6,6 +6,7 @@ lastmod: 2026-04-07
 description: "世界の鉱業を俯瞰。BHP・Rio Tinto・Vale・Glencoreなどの資源メジャー、鉄鉱石・銅・リチウム・コバルト・ニッケル・PGMの主要産出国、Pilbara鉄鉱石ベンチマーク、LME価格指標、サプライチェーンの地政学までを解説。"
 weight: 26
 mapName: "world"
+showMap: false
 galleryDir: "world-mining"
 ---
 
@@ -142,40 +143,40 @@ LMEは1877年設立の世界最古の金属取引所で、<span style="font-weig
 <table class="table table-striped table-bordered">
 <thead class="table-light"><tr>
 <th class="col-width-3">企業</th>
-<th class="col-width-2">ティッカー</th>
-<th class="col-width-3">事業</th>
-<th class="col-width-1">IR</th>
+<th class="col-width-2">証券コード</th>
+<th class="col-width-3">事業概要</th>
+<th class="col-width-1">決算情報</th>
 <th class="col-width-1">配当履歴</th>
 </tr></thead>
 <tbody class="corp-desc">
-<tr><td>BHP Group</td><td>BHP</td><td>鉄鉱石・多角化</td><td>{{% corplink "https://www.google.com/search?q=BHP Group+Investor+Relations" %}}</td><td>{{% dividend "other" "BHP" %}}</td></tr>
-<tr><td>Rio Tinto</td><td>RIO</td><td>鉄鉱石・多角化</td><td>{{% corplink "https://www.google.com/search?q=Rio Tinto+Investor+Relations" %}}</td><td>{{% dividend "other" "RIO" %}}</td></tr>
-<tr><td>Southern Copper</td><td>SCCO</td><td>銅・非鉄</td><td>{{% corplink "https://www.google.com/search?q=Southern Copper+Investor+Relations" %}}</td><td>{{% dividend "other" "SCCO" %}}</td></tr>
-<tr><td>China Shenhua</td><td>601088</td><td>石炭</td><td>{{% corplink "https://www.google.com/search?q=China Shenhua+Investor+Relations" %}}</td><td>{{% dividend "other" "601088" %}}</td></tr>
-<tr><td>Newmont</td><td>NEM</td><td>金</td><td>{{% corplink "https://www.google.com/search?q=Newmont+Investor+Relations" %}}</td><td>{{% dividend "other" "NEM" %}}</td></tr>
-<tr><td>Glencore</td><td>GLEN.L</td><td>銅・非鉄</td><td>{{% corplink "https://www.google.com/search?q=Glencore+Investor+Relations" %}}</td><td>{{% dividend "other" "GLEN.L" %}}</td></tr>
-<tr><td>Freeport-McMoRan</td><td>FCX</td><td>銅・非鉄</td><td>{{% corplink "https://www.google.com/search?q=Freeport-McMoRan+Investor+Relations" %}}</td><td>{{% dividend "other" "FCX" %}}</td></tr>
-<tr><td>Vale</td><td>VALE</td><td>鉄鉱石・多角化</td><td>{{% corplink "https://www.google.com/search?q=Vale+Investor+Relations" %}}</td><td>{{% dividend "other" "VALE" %}}</td></tr>
-<tr><td>Anglo American</td><td>AAL.L</td><td>鉄鉱石・多角化</td><td>{{% corplink "https://www.google.com/search?q=Anglo American+Investor+Relations" %}}</td><td>{{% dividend "other" "AAL.L" %}}</td></tr>
-<tr><td>Teck Resources</td><td>TECK</td><td>銅・非鉄</td><td>{{% corplink "https://www.google.com/search?q=Teck Resources+Investor+Relations" %}}</td><td>{{% dividend "other" "TECK" %}}</td></tr>
-<tr><td>Barrick Gold</td><td>GOLD</td><td>金</td><td>{{% corplink "https://www.google.com/search?q=Barrick Gold+Investor+Relations" %}}</td><td>{{% dividend "other" "GOLD" %}}</td></tr>
-<tr><td>Agnico Eagle</td><td>AEM</td><td>金</td><td>{{% corplink "https://www.google.com/search?q=Agnico Eagle+Investor+Relations" %}}</td><td>{{% dividend "other" "AEM" %}}</td></tr>
-<tr><td>AngloGold Ashanti</td><td>AU</td><td>金</td><td>{{% corplink "https://www.google.com/search?q=AngloGold Ashanti+Investor+Relations" %}}</td><td>{{% dividend "other" "AU" %}}</td></tr>
-<tr><td>Alcoa</td><td>AA</td><td>アルミ</td><td>{{% corplink "https://www.google.com/search?q=Alcoa+Investor+Relations" %}}</td><td>{{% dividend "other" "AA" %}}</td></tr>
-<tr><td>Cleveland-Cliffs</td><td>CLF</td><td>鉄鉱石</td><td>{{% corplink "https://www.google.com/search?q=Cleveland-Cliffs+Investor+Relations" %}}</td><td>{{% dividend "other" "CLF" %}}</td></tr>
-<tr><td>Nucor</td><td>NUE</td><td>鉄鋼</td><td>{{% corplink "https://www.google.com/search?q=Nucor+Investor+Relations" %}}</td><td>{{% dividend "other" "NUE" %}}</td></tr>
-<tr><td>Steel Dynamics</td><td>STLD</td><td>鉄鋼</td><td>{{% corplink "https://www.google.com/search?q=Steel Dynamics+Investor+Relations" %}}</td><td>{{% dividend "other" "STLD" %}}</td></tr>
-<tr><td>US Steel</td><td>X</td><td>鉄鋼</td><td>{{% corplink "https://www.google.com/search?q=US Steel+Investor+Relations" %}}</td><td>{{% dividend "other" "X" %}}</td></tr>
-<tr><td>Commercial Metals</td><td>CMC</td><td>鉄鋼</td><td>{{% corplink "https://www.google.com/search?q=Commercial Metals+Investor+Relations" %}}</td><td>{{% dividend "other" "CMC" %}}</td></tr>
-<tr><td>Hecla</td><td>HL</td><td>銀・金</td><td>{{% corplink "https://www.google.com/search?q=Hecla+Investor+Relations" %}}</td><td>{{% dividend "other" "HL" %}}</td></tr>
-<tr><td>Coeur</td><td>CDE</td><td>銀・金</td><td>{{% corplink "https://www.google.com/search?q=Coeur+Investor+Relations" %}}</td><td>{{% dividend "other" "CDE" %}}</td></tr>
-<tr><td>Royal Gold</td><td>RGLD</td><td>金</td><td>{{% corplink "https://www.google.com/search?q=Royal Gold+Investor+Relations" %}}</td><td>{{% dividend "other" "RGLD" %}}</td></tr>
-<tr><td>Wheaton Precious</td><td>WPM</td><td>銀・金</td><td>{{% corplink "https://www.google.com/search?q=Wheaton Precious+Investor+Relations" %}}</td><td>{{% dividend "other" "WPM" %}}</td></tr>
-<tr><td>Franco-Nevada</td><td>FNV</td><td>金</td><td>{{% corplink "https://www.google.com/search?q=Franco-Nevada+Investor+Relations" %}}</td><td>{{% dividend "other" "FNV" %}}</td></tr>
-<tr><td>MP Materials</td><td>MP</td><td>レアース</td><td>{{% corplink "https://www.google.com/search?q=MP Materials+Investor+Relations" %}}</td><td>{{% dividend "other" "MP" %}}</td></tr>
-<tr><td>Albemarle</td><td>ALB</td><td>リチウム</td><td>{{% corplink "https://www.google.com/search?q=Albemarle+Investor+Relations" %}}</td><td>{{% dividend "other" "ALB" %}}</td></tr>
-<tr><td>SQM</td><td>SQM</td><td>リチウム</td><td>{{% corplink "https://www.google.com/search?q=SQM+Investor+Relations" %}}</td><td>{{% dividend "other" "SQM" %}}</td></tr>
-<tr><td>Century Aluminum</td><td>CENX</td><td>アルミ</td><td>{{% corplink "https://www.google.com/search?q=Century Aluminum+Investor+Relations" %}}</td><td>{{% dividend "other" "CENX" %}}</td></tr>
+<tr><td>BHP Group</td><td>BHP</td><td>豪英系の世界最大級多角化資源メジャー。西豪ピルバラ鉄鉱石（WAIO）、チリEscondida/Spence銅鉱山、冶金炭（クイーンズランドBMA）、ニッケル西豪（2024年一時停止）が主力。カナダJansenのカリ鉱山を2026年稼働目標で建設中。</td><td>{{% corplink "https://www.bhp.com/investors" %}}</td><td>{{% dividend "other" "BHP" %}}</td></tr>
+<tr><td>Rio Tinto</td><td>RIO</td><td>豪英系資源メジャー。西豪ピルバラ鉄鉱石が収益の過半、残りはアルミ（カナダ/豪州、ボーキサイト→アルミナ→製錬の一貫）、銅（モンゴルOyu Tolgoi、チリEscondida持分、米Kennecott）、鉱物（TiO2顔料・リチウム・ホウ素）。アルゼンチンRincon・セルビアJadarでリチウム開発中。</td><td>{{% corplink "https://www.riotinto.com/en/invest" %}}</td><td>{{% dividend "other" "RIO" %}}</td></tr>
+<tr><td>Southern Copper</td><td>SCCO</td><td>メキシコのGrupo México傘下。ペルーToquepala/Cuajone、メキシコBuenavista/La Caridadで銅・モリブデン・亜鉛・銀を生産。銅年産約100万トン級。世界最大級の銅埋蔵量を保有。</td><td>{{% corplink "https://www.southerncoppercorp.com/investor-relations/" %}}</td><td>{{% dividend "other" "SCCO" %}}</td></tr>
+<tr><td>China Shenhua</td><td>601088</td><td>中国神華能源。国有・国家能源集団傘下で石炭・発電・鉄道・港湾を垂直統合。石炭年産3億トン超、発電設備容量44GW規模、神朔線など自社専用鉄道2,000km級と黄驊港を保有。</td><td>{{% corplink "https://www.shenhuagroup.com.cn/" %}}</td><td>{{% dividend "other" "601088" %}}</td></tr>
+<tr><td>Newmont</td><td>NEM</td><td>米コロラド本社の世界最大金生産企業。Barrickと合弁のNevada Gold Mines、Peñasquito（メキシコ）、Boddington（豪）、Ahafo（ガーナ）、Yanacocha（ペルー）を運営。2023年にNewcrest Mining（豪・Lihir/Cadia等）を買収し規模倍増。</td><td>{{% corplink "https://www.newmont.com/investors/" %}}</td><td>{{% dividend "other" "NEM" %}}</td></tr>
+<tr><td>Glencore</td><td>GLEN.L</td><td>スイス本社。鉱山事業（銅・亜鉛・ニッケル・コバルト・石炭）とコモディティ・マーケティング（金属・エネルギーのトレーディング）を両輪とする。DRCのMutanda/Katanga銅・コバルト、豪McArthur River亜鉛、Antapaccay銅（ペルー）等を運営。</td><td>{{% corplink "https://www.glencore.com/investors" %}}</td><td>{{% dividend "other" "GLEN.L" %}}</td></tr>
+<tr><td>Freeport-McMoRan</td><td>FCX</td><td>米アリゾナ本社。インドネシアGrasberg（世界最大級の金・銅複合鉱山、2018年に国営Inalum支配へ）、ペルーCerro Verde、米アリゾナMorenci/Bagdadを運営。銅年産約180万トン前後で世界有数、モリブデンも大量併産。</td><td>{{% corplink "https://www.fcx.com/investors" %}}</td><td>{{% dividend "other" "FCX" %}}</td></tr>
+<tr><td>Vale</td><td>VALE</td><td>ブラジル本社。世界最大級の鉄鉱石生産企業でカラジャス（Carajás、高品位65%Fe）・南部系列Itabira/Brucutuが主力。ニッケル（加Sudbury/Voisey's Bay、ブラジルOnça Puma）と銅も展開。2019年ブルマジーニョ尾鉱ダム決壊事故以降、Safety & Damsガバナンスを刷新。</td><td>{{% corplink "https://vale.com/investors" %}}</td><td>{{% dividend "other" "VALE" %}}</td></tr>
+<tr><td>Anglo American</td><td>AAL.L</td><td>英国本社。プラチナ（Anglo American Platinum、南ア）、銅（チリQuellaveco/Los Bronces）、鉄鉱石（南アKumba、ブラジルMinas-Rio）、ダイヤモンド（De Beers、ボツワナDebswana等、2025年売却計画発表）。2025年Teck Resourcesと対等合併で「Anglo Teck」設立合意。</td><td>{{% corplink "https://www.angloamerican.com/investors" %}}</td><td>{{% dividend "other" "AAL.L" %}}</td></tr>
+<tr><td>Teck Resources</td><td>TECK</td><td>カナダ・バンクーバー本社。銅（チリQB2、加Highland Valley・Antamina持分）、亜鉛（アラスカRed Dog、世界最大級）を中核。2024年Glencoreに冶金炭事業（Elkview等）を$7.0Bで売却し「ピュアプレイ・ベースメタル」化。2025年Anglo Americanと対等合併合意{{% cite "angloteck_merger" %}}。</td><td>{{% corplink "https://www.teck.com/investors/" %}}</td><td>{{% dividend "other" "TECK" %}}</td></tr>
+<tr><td>Barrick Gold</td><td>GOLD</td><td>カナダ・トロント本社。Newmontと合弁のNevada Gold Mines（2019年設立、北米最大級）、Pueblo Viejo（ドミニカ）、Kibali（DRC）、Loulo-Gounkoto（マリ）、Lumwana（ザンビア銅）を運営。2024年末に社名を「Barrick Mining」へ変更検討。</td><td>{{% corplink "https://www.barrick.com/English/investors/" %}}</td><td>{{% dividend "other" "GOLD" %}}</td></tr>
+<tr><td>Agnico Eagle</td><td>AEM</td><td>カナダ・トロント本社。2022年Kirkland Lake Goldと対等合併で金年産約340〜350万オンス級へ拡大。Canadian Malartic（ケベック）、Detour Lake（オンタリオ）、LaRonde、Meliadine、Kittila（フィンランド）、Pinos Altos（メキシコ）を運営。</td><td>{{% corplink "https://www.agnicoeagle.com/English/investor-relations/" %}}</td><td>{{% dividend "other" "AEM" %}}</td></tr>
+<tr><td>AngloGold Ashanti</td><td>AU</td><td>2004年Anglo American傘下のAngloGoldと加Ashanti Goldfieldsの合併で発足。2023年に本社を南アからロンドンへ、主上場をNYSEへ移した。Iduapriem/Obuasi（ガーナ）、Geita（タンザニア）、Kibali（DRC・Barrick合弁）、Sunrise Dam（豪州）、Siguiri（ギニア）などを運営。</td><td>{{% corplink "https://www.anglogoldashanti.com/investors/" %}}</td><td>{{% dividend "other" "AU" %}}</td></tr>
+<tr><td>Alcoa</td><td>AA</td><td>米ピッツバーグ本社。1888年創業、旧Alcoa Corporationから分社化した上流統合アルミ企業。ボーキサイト採掘（豪Huntly/Willowdale、ブラジルMRN持分）、アルミナ精錬（豪WA、ブラジルAlumar、米国等）、アルミ製錬（アイスランド・カナダ・ノルウェー・豪）を一貫運営。2024年にAlumina Ltd.を買収。</td><td>{{% corplink "https://www.alcoa.com/global/en/investors" %}}</td><td>{{% dividend "other" "AA" %}}</td></tr>
+<tr><td>Cleveland-Cliffs</td><td>CLF</td><td>米オハイオ本社。米国最大の鉄鉱石ペレット生産者。ミネソタ州Mesabi RangeのNorthshore/Minorca/Hibbing/United Taconiteで鉄鉱石採掘、中西部の高炉（Cleveland・Burns Harbor・Indiana Harbor等）で鋼材を製造。2020年AK Steel、ArcelorMittal USAを買収し北米最大級の垂直統合鉄鋼企業に。</td><td>{{% corplink "https://www.clevelandcliffs.com/investors" %}}</td><td>{{% dividend "other" "CLF" %}}</td></tr>
+<tr><td>Nucor</td><td>NUE</td><td>米ノースカロライナ本社。北米最大の鉄鋼メーカー（出荷量ベース）で、電炉（EAF）によるスクラップ再溶解方式に特化。形鋼・棒鋼・板・冷延・めっき・線材・鋼管・鉄筋を全米25以上のミニミルで製造。鋼板（Sheet）・構造用（Bar）の両セグメントが主力。</td><td>{{% corplink "https://www.nucor.com/investors" %}}</td><td>{{% dividend "other" "NUE" %}}</td></tr>
+<tr><td>Steel Dynamics</td><td>STLD</td><td>米インディアナ本社。電炉方式のミニミル大手で、熱延・冷延・めっき鋼板、形鋼、スクラップリサイクル（OmniSource）、鋼板加工（Steel Fabrication）を垂直統合。テキサス州Sinton新フラットロール工場（2022年稼働）で年産約300万トン増強。</td><td>{{% corplink "https://www.steeldynamics.com/investors" %}}</td><td>{{% dividend "other" "STLD" %}}</td></tr>
+<tr><td>US Steel</td><td>X</td><td>米ピッツバーグ本社。1901年J.P. Morgan主導で成立した世界初の時価総額10億ドル企業。Gary Works（インディアナ）・Mon Valley（ペンシルベニア）の高炉製鉄所とBig River Steel（アーカンソー、電炉）を運営。2023年日本製鉄が141億ドル買収を発表、米政府と「Golden Share」契約下で2025年6月完了。</td><td>{{% corplink "https://investors.ussteel.com/" %}}</td><td>{{% dividend "other" "X" %}}</td></tr>
+<tr><td>Commercial Metals</td><td>CMC</td><td>米テキサス本社。電炉による鉄筋棒・形鋼の北米最大級サプライヤーで、鉄筋メッシュ・加工サービス（Fabrication）を全米展開。ポーランドにも電炉製鉄所を保有し中欧市場へ供給。スクラップ回収・リサイクル網も併営。</td><td>{{% corplink "https://www.cmc.com/investors" %}}</td><td>{{% dividend "other" "CMC" %}}</td></tr>
+<tr><td>Hecla</td><td>HL</td><td>米アイダホ本社、1891年創業の米国最古の貴金属鉱山企業。米国最大の銀生産者（全米シェア約40%）。Greens Creek（アラスカ、世界最大級の銀亜鉛鉱山）、Lucky Friday（アイダホ）、Casa Berardi（ケベック、金）、Keno Hill（ユーコン）を運営。</td><td>{{% corplink "https://www.hecla-mining.com/investors/" %}}</td><td>{{% dividend "other" "HL" %}}</td></tr>
+<tr><td>Coeur</td><td>CDE</td><td>米シカゴ本社の中堅プレシャスメタル企業。Palmarejo（メキシコ、銀金）、Rochester（ネバダ、拡張後の銀金）、Kensington（アラスカ、金）、Wharf（サウスダコタ、金）、ラテンアメリカの鉱山を運営。2024年SilverCrest Metals（メキシコLas Chispas銀）買収を発表。</td><td>{{% corplink "https://www.coeur.com/investors" %}}</td><td>{{% dividend "other" "CDE" %}}</td></tr>
+<tr><td>Royal Gold</td><td>RGLD</td><td>米コロラド本社のストリーミング/ロイヤルティ専業。自社は鉱山を運営せず、Andacollo（チリ・Teck）、Mount Milligan（加）、Pueblo Viejo、Cortez Complex等200件超の金・銀・銅プロジェクトから売上の一定%を取得する「パッシブ」鉱山投資モデル。</td><td>{{% corplink "https://www.royalgold.com/investors/" %}}</td><td>{{% dividend "other" "RGLD" %}}</td></tr>
+<tr><td>Wheaton Precious</td><td>WPM</td><td>カナダ本社の世界最大級ストリーミング専業。鉱山運営企業と長期契約を結び、Salobo（ブラジル・Vale）、Peñasquito、Antamina、Constancia（Hudbay）、Stillwater等の副産物（金・銀・パラジウム）を固定コストで購入する契約ベース事業モデル。</td><td>{{% corplink "https://www.wheatonpm.com/investors/" %}}</td><td>{{% dividend "other" "WPM" %}}</td></tr>
+<tr><td>Franco-Nevada</td><td>FNV</td><td>カナダ・トロント本社のロイヤルティ/ストリーミング最大手。自社鉱山は持たず、約400件の金・銀・プラチナ・石油ガスロイヤルティを保有。Cobre Panama（First Quantum運営、2023年政府命令で稼働停止中）が主要保有案件。</td><td>{{% corplink "https://www.franco-nevada.com/investors/" %}}</td><td>{{% dividend "other" "FNV" %}}</td></tr>
+<tr><td>MP Materials</td><td>MP</td><td>米ラスベガス本社。カリフォルニア州Mountain Pass（世界有数の希土類鉱床）を運営する北米唯一のネオジム/プラセオジム統合採掘精製企業。テキサス州Fort Worth「Independence」工場で磁石一貫生産を推進、米国防総省と戦略提携。</td><td>{{% corplink "https://investors.mpmaterials.com/" %}}</td><td>{{% dividend "other" "MP" %}}</td></tr>
+<tr><td>Albemarle</td><td>ALB</td><td>米ノースカロライナ本社。リチウム（炭酸/水酸化）、臭素、触媒（FCC/HPC）の3事業を展開。チリAtacama塩湖、米ネバダSilver Peak（米唯一の商業リチウム塩湖）、豪Greenbushes（Talison合弁で世界最大級スポジュメン鉱山）を保有し、EV向け水酸化リチウムの世界大手。</td><td>{{% corplink "https://investors.albemarle.com/" %}}</td><td>{{% dividend "other" "ALB" %}}</td></tr>
+<tr><td>SQM</td><td>SQM</td><td>チリ本社（Sociedad Química y Minera de Chile）。Atacama塩湖でリチウム・カリ肥料・ヨウ素を採取する世界有数の塩湖リチウム供給者。2024年国営Codelcoと戦略合弁を発表し、2025〜2060年のAtacama塩湖共同運営へ移行予定。</td><td>{{% corplink "https://ir.sqm.com/" %}}</td><td>{{% dividend "other" "SQM" %}}</td></tr>
+<tr><td>Century Aluminum</td><td>CENX</td><td>米シカゴ本社のアルミ製錬専業。Grundartangi（アイスランド、水力電源）、Sebree（ケンタッキー）、Mount Holly（サウスカロライナ）、Hawesville（ケンタッキー、2022年電力高騰で一時停止）で一次アルミ地金を製造。親会社はGlencore（約43%出資）。</td><td>{{% corplink "https://investors.centuryaluminum.com/" %}}</td><td>{{% dividend "other" "CENX" %}}</td></tr>
 </tbody></table>
 </div>
 

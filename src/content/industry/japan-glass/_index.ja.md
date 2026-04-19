@@ -6,6 +6,7 @@ lastmod: 2026-04-07
 description: "日本の板ガラス・特殊ガラス産業を解説。AGC（旧旭硝子）・日本板硝子（NSG）・日本電気硝子（NEG）の3大メーカーと、フロート板ガラス・自動車用ガラス・液晶ディスプレイ用ガラスの製造拠点・市場構造を整理。"
 weight: 35
 mapName: "japan"
+showMap: false
 galleryDir: "japan-glass"
 ---
 

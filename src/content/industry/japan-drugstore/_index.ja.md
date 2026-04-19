@@ -6,6 +6,7 @@ lastmod: 2026-04-19
 description: "日本のドラッグストア業界を解説。商流・OTC医薬品3分類・ドミナント戦略・規模の経済など基礎から、ウエルシア・ツルハ・マツキヨココカラ・コスモス薬品・サンドラッグの売上比較、ツルハHDの創業史、ウエルシア×ツルハ経営統合やマツモトキヨシ×ココカラファイン統合などM&Aの歴史、上位10社シェアの推移と調剤薬局業界への波及、食品比率拡大・インバウンドの業界構造を整理。"
 weight: 43
 mapName: "japan"
+showMap: false
 galleryDir: "japan-drugstore"
 ---
 
@@ -439,7 +440,7 @@ graph LR
 <tr>
 <th class="col-width-2">企業</th>
 <th class="col-width-1">証券コード</th>
-<th class="col-width-7">事業概要・ドラッグストア産業との関連</th>
+<th class="col-width-7">事業概要</th>
 <th class="col-width-05">決算情報</th>
 <th class="col-width-05">配当履歴</th>
 </tr>

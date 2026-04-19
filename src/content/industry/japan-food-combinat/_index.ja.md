@@ -230,7 +230,7 @@ galleryDir: "japan-food-combinat"
 <tr>
 <th class="col-width-2">企業</th>
 <th class="col-width-1">証券コード</th>
-<th class="col-width-7">事業概要・食品コンビナートとの関連</th>
+<th class="col-width-7">事業概要</th>
 <th class="col-width-05">決算情報</th>
 <th class="col-width-05">配当履歴</th>
 </tr>

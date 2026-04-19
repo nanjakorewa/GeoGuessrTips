@@ -6,6 +6,7 @@ lastmod: 2026-04-09
 description: "日本のレアメタル備蓄制度を解説。JOGMECが実施する34鉱種55元素（Li, Co, Ni, Ga, Ge, レアアース, PGM等）の国家備蓄、昭和58年度の制度創設経緯、石油備蓄との比較、2025年の制度見直し（国家備蓄のみで目標日数設定・放出の機動性向上・情報非開示化）までを経済産業省資料に基づき整理。"
 weight: 31
 mapName: "japan"
+showMap: false
 galleryDir: "japan-mineral-stockpile"
 ---
 
