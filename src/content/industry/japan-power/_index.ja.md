@@ -2,7 +2,7 @@
 title: "日本の電力会社"
 subtitle: "旧一般電気事業者10社＋JERA・J-POWER — 地域別の電源構成・業績・原発稼働状況"
 date: 2026-04-19
-lastmod: 2026-04-19
+lastmod: 2026-04-25
 description: "日本の旧一般電気事業者10社（北海道・東北・東京・中部・北陸・関西・中国・四国・九州・沖縄）と卸電力大手のJERA・電源開発(J-POWER)を解説。2025年3月期の売上・利益・総資産比較、電源構成比（原子力・火力・水力・再エネ）の違い、販売電力量の需要家構成（家庭・業務・産業）、原子力発電所の稼働状況を各社IR資料と経済産業省・電気事業連合会・ISEPの公表データに基づいて整理。"
 weight: 44
 mapName: "japan"
@@ -53,7 +53,7 @@ galleryDir: "japan-power"
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">10社</div><div class="stat-label">旧一般電気事業者</div></div>
-<div class="stat-card"><div class="stat-num">約23兆円</div><div class="stat-label">10社連結売上合計（2025年3月期）</div></div>
+<div class="stat-card"><div class="stat-num">約24兆円</div><div class="stat-label">10社連結売上合計（2025年3月期）</div></div>
 <div class="stat-card"><div class="stat-num">14基</div><div class="stat-label">再稼働済原発（2024年度末時点）</div></div>
 <div class="stat-card"><div class="stat-num">2020年</div><div class="stat-label">発送電分離</div></div>
 </div>
@@ -89,9 +89,9 @@ galleryDir: "japan-power"
 | **中国電力** | 9504 | 15,292 | 1,285 | 約1,000 | 約34,000 |
 | **北海道電力** | 9509 | 9,020 | 約750 | 640 | 約21,000 |
 | **北陸電力** | 9505 | 8,583 | 914 | 約660 | 約18,000 |
-| **四国電力** | 9507 | 8,513 | 916 | 約610 | 約19,000 |
+| **四国電力** | 9507 | 8,513 | 916 | 約683 | 約19,000 |
 | **沖縄電力** | 9511 | 2,365 | 57 | 約40 | 約6,800 |
-| **J-POWER** | 9513 | 13,167 | 約1,600 | 925 | 約30,000 |
+| **J-POWER** | 9513 | 13,167 | 約1,400 | 925 | 約30,000 |
 | **JERA** | (非上場) | 33,559 | 約2,800 | 約1,800 | 約52,000 |
 
 ※ 「約」は決算短信・プレスリリース記載の経常利益・総資産から推計。JERAは2024年度（2025年3月期）決算広報値{{% cite "jera_ir" %}}{{% cite "jpower_ir" %}}。
@@ -113,7 +113,7 @@ new Chart(document.getElementById('bar-power-compare'), {
     datasets:[
       {label:'売上高（億円）',data:[68103,43371,36692,26449,23568,15292,13167,33559,9020,8583,8513,2365],
        backgroundColor:'#1565c0',yAxisID:'y'},
-      {label:'純利益（億円）',data:[1612,4203,2021,1828,1287,1000,925,1800,640,660,610,40],
+      {label:'純利益（億円）',data:[1612,4203,2021,1828,1287,985,925,1800,640,650,683,43],
        backgroundColor:'#ef6c00',yAxisID:'y1'}
     ]
   },
@@ -339,7 +339,7 @@ new Chart(document.getElementById('pie-demand-okiden'),{type:'doughnut',
 | **四国電力** | 伊方 | 3号機(89万kW PWR) | <span style="font-weight:700;color:#2e7d32;">稼働中</span> |
 | **九州電力** | 玄海 | 3号機(118万kW PWR) | <span style="font-weight:700;color:#2e7d32;">稼働中</span> |
 | | | 4号機(118万kW PWR) | <span style="font-weight:700;color:#2e7d32;">稼働中</span> |
-| | 川内 | 1号機(89万kW PWR) | <span style="font-weight:700;color:#2e7d32;">稼働中</span>（2024年10月、40年超運転の認可取得） |
+| | 川内 | 1号機(89万kW PWR) | <span style="font-weight:700;color:#2e7d32;">稼働中</span>（2023年11月に40年超運転の認可取得、2024年7月に運転開始40年到達） |
 | | | 2号機(89万kW PWR) | <span style="font-weight:700;color:#2e7d32;">稼働中</span> |
 | **沖縄電力** | （保有なし） | — | — |
 
@@ -430,7 +430,7 @@ new Chart(document.getElementById('pie-demand-okiden'),{type:'doughnut',
 <tr>
 <td>沖縄電力</td>
 <td>{{% minkabu 9511 %}}</td>
-<td>沖縄県のみを供給エリア。本土との電力連系がない独立系統のため、石炭60%・石油12%と化石燃料依存度が突出。ピーク需要155万kWは10社中最小。離島にはディーゼル発電所が点在する。</td>
+<td>沖縄県のみを供給エリア。本土との電力連系がない独立系統のため、石炭60%・石油12%と化石燃料依存度が突出。ピーク需要約157万kW（2023年度実績）は10社中最小。離島にはディーゼル発電所が点在する。</td>
 <td>{{% corplink "https://www.okiden.co.jp/ir/financials/zaimu.html" %}}</td>
 <td>{{% dividend "tokyo" "9511" %}}</td>
 </tr>
@@ -460,11 +460,11 @@ new Chart(document.getElementById('pie-demand-okiden'),{type:'doughnut',
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;margin:24px 0;">
 <div style="background:#fff;border-left:4px solid #1565c0;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
 <strong style="color:#1565c0">原発の立地ヒント</strong><br/>
-<span style="font-size:.88rem;line-height:1.7;">若狭湾（関電5基）・東松浦半島（玄海）・薩摩半島西岸（川内）・佐田岬（伊方）・牡鹿半島（女川）・下北半島（東通・大間）と、岬・半島先端の孤立立地が定石。ドーム型格納容器＋排気筒＋送電鉄塔のセットが特徴。</span>
+<span style="font-size:.88rem;line-height:1.7;">若狭湾（関電7基）・東松浦半島（玄海）・東シナ海岸（川内）・佐田岬半島（伊方）・牡鹿半島（女川）・下北半島（東通・大間）と、岬・半島先端の孤立立地が定石。ドーム型格納容器＋排気筒＋送電鉄塔のセットが特徴。</span>
 </div>
 <div style="background:#fff;border-left:4px solid #546e7a;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
 <strong style="color:#546e7a">石炭火力の目印</strong><br/>
-<span style="font-size:.88rem;line-height:1.7;">石炭サイロ・貯炭場(黒い山)・海から伸びるベルトコンベア{{% ex "https://maps.app.goo.gl/GZWoRPVeUHiBok3Y8" %}}・4本の煙突群が定番。碧南（中部）・苫東厚真（北海道）・松浦（J-POWER/九電）・磯子（J-POWER）など、港湾・バースと一体で識別可能。</span>
+<span style="font-size:.88rem;line-height:1.7;">石炭サイロ・貯炭場(黒い山)・海から伸びるベルトコンベア{{% ex "https://maps.app.goo.gl/GZWoRPVeUHiBok3Y8" "https://maps.app.goo.gl/Hj6qerCogwP5m3g76" %}}・4本の煙突群が定番。碧南（中部）・苫東厚真（北海道）・松浦（J-POWER/九電）・磯子（J-POWER）など、港湾・バースと一体で識別可能。</span>
 </div>
 <div style="background:#fff;border-left:4px solid #1976d2;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
 <strong style="color:#1976d2">LNG火力の見た目</strong><br/>
@@ -472,7 +472,7 @@ new Chart(document.getElementById('pie-demand-okiden'),{type:'doughnut',
 </div>
 <div style="background:#fff;border-left:4px solid #2e7d32;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
 <strong style="color:#2e7d32">水力・ダムの見分け方</strong><br/>
-<span style="font-size:.88rem;line-height:1.7;">黒部・有峰（北陸）・佐久間・奥只見（J-POWER・東北）は重力式・アーチ式の大型ダム。高山地帯の人工湖が目印。揚水発電は山中に上下2つの調整池がセット（新豊根・葛野川・京極など）。</span>
+<span style="font-size:.88rem;line-height:1.7;">黒部（関西）・有峰（北陸）・佐久間・奥只見（いずれもJ-POWER）{{% ex "https://maps.app.goo.gl/AcNTHg3jMV5D84aq9" %}}は重力式・アーチ式の大型ダム。高山地帯の人工湖が目印。揚水発電は山中に上下2つの調整池がセット（新豊根・葛野川・京極など）。</span>
 </div>
 <div style="background:#fff;border-left:4px solid #fbc02d;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
 <strong style="color:#bf8f00">メガソーラー・風力</strong><br/>
