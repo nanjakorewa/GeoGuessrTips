@@ -3429,3 +3429,81 @@ section.section-updates {
   margin: 0 0.15em;
   border-radius: 1px;
 }
+
+/* ===== Polished Notice: Info (visual refresh) =====
+   - Left accent bar (4px) in primary color instead of heavy top border
+   - Rounded 8px corners, gradient background, soft shadow
+   - Circular "i" icon at top-left for clear affordance
+   - Works in both light and dark modes via CSS vars with fallbacks
+*/
+div.notices.info {
+  margin: 1.8em 0;
+}
+
+div.notices.info p {
+  position: relative !important;
+  padding: 1.05em 1.25em 1em 3.4em !important;
+  border: 1px solid var(--border-soft, rgba(43, 39, 33, 0.12)) !important;
+  border-top: 1px solid var(--border-soft, rgba(43, 39, 33, 0.12)) !important;
+  border-left: 4px solid var(--primary-hover, #5A9196) !important;
+  border-radius: 0 !important;
+  background: linear-gradient(
+    135deg,
+    rgba(90, 145, 150, 0.14) 0%,
+    rgba(90, 145, 150, 0.04) 100%
+  ) !important;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08) !important;
+  color: var(--text-color, #2B2721) !important;
+  line-height: 1.75 !important;
+}
+
+div.notices.info p::before {
+  content: "i" !important;
+  display: flex !important;
+  position: absolute !important;
+  top: 1em !important;
+  left: 1em !important;
+  width: 1.6em !important;
+  height: 1.6em !important;
+  border-radius: 50% !important;
+  background: var(--primary-hover, #5A9196) !important;
+  color: #fff !important;
+  font-family: 'Georgia', 'Times New Roman', 'Noto Serif JP', serif !important;
+  font-style: italic !important;
+  font-weight: 700 !important;
+  font-size: 1em !important;
+  line-height: 1 !important;
+  align-items: center !important;
+  justify-content: center !important;
+  box-shadow: 0 2px 6px rgba(90, 145, 150, 0.35) !important;
+}
+
+/* Replace the legacy 'Info' ::after label — the icon + color bar carry the meaning cleanly */
+div.notices.info p::after {
+  content: "" !important;
+  display: none !important;
+}
+
+div.notices.info p a {
+  color: var(--primary-color, #446E72) !important;
+  font-weight: 600 !important;
+}
+
+div.notices.info p a:hover {
+  color: var(--primary-hover, #5A9196) !important;
+  text-decoration: underline !important;
+}
+
+/* Dark-mode specific adjustments (vars resolve, fallback values not needed) */
+[data-theme="dark"] div.notices.info p {
+  background: linear-gradient(
+    135deg,
+    rgba(107, 165, 170, 0.18) 0%,
+    rgba(107, 165, 170, 0.05) 100%
+  ) !important;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25) !important;
+}
+
+[data-theme="dark"] div.notices.info p::before {
+  box-shadow: 0 2px 6px rgba(107, 165, 170, 0.45) !important;
+}
