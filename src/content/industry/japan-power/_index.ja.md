@@ -347,7 +347,9 @@ new Chart(document.getElementById('pie-demand-okiden'),{type:'doughnut',
 
 ## 各社IR・決算情報一覧
 
-上場10社＋J-POWER、非上場JERAの決算情報と配当履歴への一覧リンクです。
+上場10社＋J-POWER、非上場JERAの決算情報と配当履歴への一覧リンクです。旧一般電気事業者10社と電源開発（J-POWER）の時価総額をツリーマップで可視化しました（JERAは非上場のため除外）。
+
+{{% corp-treemap "9501,9502,9503,9504,9505,9506,9507,9508,9509,9511,9513" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -456,27 +458,27 @@ new Chart(document.getElementById('pie-demand-okiden'),{type:'doughnut',
 ## GeoGuessr視点のワンポイント
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;margin:24px 0;">
-<div style="background:#fff;border-left:4px solid #1565c0;padding:14px 18px;border-radius:6px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
+<div style="background:#fff;border-left:4px solid #1565c0;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
 <strong style="color:#1565c0">原発の立地ヒント</strong><br/>
 <span style="font-size:.88rem;line-height:1.7;">若狭湾（関電5基）・東松浦半島（玄海）・薩摩半島西岸（川内）・佐田岬（伊方）・牡鹿半島（女川）・下北半島（東通・大間）と、岬・半島先端の孤立立地が定石。ドーム型格納容器＋排気筒＋送電鉄塔のセットが特徴。</span>
 </div>
-<div style="background:#fff;border-left:4px solid #546e7a;padding:14px 18px;border-radius:6px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
+<div style="background:#fff;border-left:4px solid #546e7a;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
 <strong style="color:#546e7a">石炭火力の目印</strong><br/>
-<span style="font-size:.88rem;line-height:1.7;">石炭サイロ・貯炭場(黒い山)・海から伸びるベルトコンベア・4本の煙突群が定番。碧南（中部）・苫東厚真（北海道）・松浦（J-POWER/九電）・磯子（J-POWER）など、港湾・バースと一体で識別可能。</span>
+<span style="font-size:.88rem;line-height:1.7;">石炭サイロ・貯炭場(黒い山)・海から伸びるベルトコンベア{{% ex "https://maps.app.goo.gl/GZWoRPVeUHiBok3Y8" %}}・4本の煙突群が定番。碧南（中部）・苫東厚真（北海道）・松浦（J-POWER/九電）・磯子（J-POWER）など、港湾・バースと一体で識別可能。</span>
 </div>
-<div style="background:#fff;border-left:4px solid #1976d2;padding:14px 18px;border-radius:6px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
+<div style="background:#fff;border-left:4px solid #1976d2;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
 <strong style="color:#1976d2">LNG火力の見た目</strong><br/>
 <span style="font-size:.88rem;line-height:1.7;">球形の白いLNGタンク(直径70m級)が複数並ぶのが最大の特徴。富津・袖ヶ浦・姉崎・川越・知多といった東京湾・伊勢湾岸に集中（いずれもJERAが運営）。コンバインドサイクル棟は細長い四角形の建屋。</span>
 </div>
-<div style="background:#fff;border-left:4px solid #2e7d32;padding:14px 18px;border-radius:6px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
+<div style="background:#fff;border-left:4px solid #2e7d32;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
 <strong style="color:#2e7d32">水力・ダムの見分け方</strong><br/>
 <span style="font-size:.88rem;line-height:1.7;">黒部・有峰（北陸）・佐久間・奥只見（J-POWER・東北）は重力式・アーチ式の大型ダム。高山地帯の人工湖が目印。揚水発電は山中に上下2つの調整池がセット（新豊根・葛野川・京極など）。</span>
 </div>
-<div style="background:#fff;border-left:4px solid #fbc02d;padding:14px 18px;border-radius:6px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
+<div style="background:#fff;border-left:4px solid #fbc02d;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
 <strong style="color:#bf8f00">メガソーラー・風力</strong><br/>
 <span style="font-size:.88rem;line-height:1.7;">九州（鹿児島・大分）と東北（青森・秋田・福島浜通り）に集中。鹿児島の旧ゴルフ場跡や干拓地のメガソーラー、秋田・青森の日本海側に並ぶ風車列は地域同定に強力。</span>
 </div>
-<div style="background:#fff;border-left:4px solid #795548;padding:14px 18px;border-radius:6px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
+<div style="background:#fff;border-left:4px solid #795548;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
 <strong style="color:#795548">地熱（九州・東北に集中）</strong><br/>
 <span style="font-size:.88rem;line-height:1.7;">八丁原（大分）・柳津西山（福島）・松川（岩手）・山川・大霧（鹿児島）など。蒸気プルームと銀色の配管マトリクスが遠目でも判別可能。温泉地の近隣にあるケースが多い。</span>
 </div>
