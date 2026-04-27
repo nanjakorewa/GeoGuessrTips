@@ -108,35 +108,22 @@ galleryDir: "japan-pump"
 
 ## [日本](/rule/asia/japan/)のポンプ産業とは
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Centrifugal_Pump.jpg?width=420" alt="遠心ポンプ" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">遠心ポンプ（セントリフューガルポンプ）の一例。日本の流体機械産業では荏原製作所・日機装・酉島製作所・鶴見製作所などが石油精製・水処理・原子力・空調等多用途で世界市場に展開しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Centrifugal_Pump.jpg" target="_blank" rel="noopener noreferrer">Saud / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
+
 ポンプは水・油・薬液・スラリーなどあらゆる流体を輸送する<span style="font-weight:700">産業の血管</span>とも言える基幹機械です。上下水道、石油精製、化学プラント、発電所、半導体工場、ビルの空調から家庭の給水まで、ポンプなしで稼働する産業施設はほとんど存在しません。
 
 [日本](/rule/asia/japan/)のポンプ製造業には国内に361社のメーカーがあり{{% cite "toyama_pump" %}}、生産金額は年間約3,500〜4,000億円規模を維持しています{{% cite "toyama_pump" %}}。荏原製作所を筆頭とする大手から高度な専門分野に特化した中堅まで層が厚く、荏原の連結売上高は8,666億円（2024年12月期）に達し、売上規模で世界ポンプメーカー上位に位置します{{% cite "ebara_ir2024" %}}。
 
 さらに特徴的なのは、<span style="font-weight:700">ニッチ分野で世界トップを占める専業メーカーが多数存在する</span>ことです。海水淡水化ポンプでは酉島製作所が世界首位{{% cite "torishima_ir2024" %}}、LNG用極低温ポンプでは日機装が世界シェア約50%{{% cite "nikkiso_ir2024" %}}{{% cite "nikkiso_cryo" %}}、キャンドモータポンプでは帝国電機製作所が世界シェア約40%{{% cite "teikoku_ir2025" %}}を占めます。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">国内ポンプ生産金額</p>
-    <p class="stat-card__value">約3,500〜4,000</p>
-    <p class="stat-card__unit">億円/年{{% cite "toyama_pump" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">国内メーカー数</p>
-    <p class="stat-card__value">361</p>
-    <p class="stat-card__unit">社（東京68、大阪60、神奈川26、愛知26）{{% cite "toyama_pump" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">世界ポンプ市場規模（2025年推計）</p>
-    <p class="stat-card__value">約630〜710</p>
-    <p class="stat-card__unit">億ドル（CAGR 4〜5%成長）{{% cite "precedence_pump" %}}{{% cite "imarc_pump" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">国内年間生産台数</p>
-    <p class="stat-card__value">約400〜500</p>
-    <p class="stat-card__unit">万台{{% cite "toyama_pump" %}}</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">約3,500〜4,000億円/年{{% cite "toyama_pump" %}}</div><div class="stat-label">国内ポンプ生産金額</div></div>
+  <div class="stat-card"><div class="stat-num">361社<span class="stat-sub">（東京68、大阪60、神奈川26、愛知26）</span>{{% cite "toyama_pump" %}}</div><div class="stat-label">国内メーカー数</div></div>
+  <div class="stat-card"><div class="stat-num">約630〜710億ドル<span class="stat-sub">（CAGR 4〜5%成長）</span>{{% cite "precedence_pump" %}}{{% cite "imarc_pump" %}}</div><div class="stat-label">世界ポンプ市場規模（2025年推計）</div></div>
+  <div class="stat-card"><div class="stat-num">約400〜500万台{{% cite "toyama_pump" %}}</div><div class="stat-label">国内年間生産台数</div></div>
 </div>
 
 ## ポンプの種類と用途

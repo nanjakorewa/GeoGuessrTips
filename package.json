@@ -6,7 +6,9 @@
     "dev": "node scripts/copy-content-assets.js && node scripts/clean-cache.js && astro dev",
     "build": "node scripts/copy-content-assets.js && astro build && npx pagefind --site dist",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "install-hooks": "git config core.hooksPath scripts/hooks && echo \"Hooks installed (core.hooksPath=scripts/hooks). Use 'git commit --no-verify' to bypass.\"",
+    "postinstall": "node -e \"try { require('child_process').execSync('git rev-parse --is-inside-work-tree', { stdio: 'ignore' }); require('child_process').execSync('git config core.hooksPath scripts/hooks', { stdio: 'inherit' }); console.log('[postinstall] git hooks path set to scripts/hooks'); } catch (e) {}\""
   },
   "repository": {
     "type": "git",

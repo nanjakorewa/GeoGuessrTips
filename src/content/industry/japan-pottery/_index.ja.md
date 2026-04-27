@@ -110,31 +110,18 @@ galleryDir: "japan-pottery"
 
 ## [日本](/rule/asia/japan/)の陶磁器産地とは
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Model_kiln_multi-chambered_-climbing-type%EF%BC%88Aichi_Prefectural_Ceramic_Museum%EF%BC%89.JPG?width=420" alt="多室連房式登り窯" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">愛知県陶磁器美術館に展示される、多室連房式（のぼり窯）の模型。日本の陶磁器産地では、このような複数の焼成室を持つ大型窯が使われてきました。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Model_kiln_multi-chambered_-climbing-type%EF%BC%88Aichi_Prefectural_Ceramic_Museum%EF%BC%89.JPG" target="_blank" rel="noopener noreferrer">タメルラング / Wikimedia Commons (CC BY 3.0)</a></figcaption>
+</figure>
+
 [日本](/rule/asia/japan/)の焼き物は、地域ごとに異なる土・釉薬・焼成方法から多彩な様式が生まれ、産地ごとに個性を持っています。中世から続く<span style="font-weight:700">[日本](/rule/asia/japan/)六古窯</span>（常滑・瀬戸・越前・信楽・丹波・備前）がその起点となり{{% cite "rokkoyo" %}}、17世紀以降の磁器技術の発展により有田・九谷・清水など新たな産地が加わっていきました。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">日本六古窯</p>
-    <p class="stat-card__value">6</p>
-    <p class="stat-card__unit">か所（常滑・瀬戸・越前・信楽・丹波・備前）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">美濃焼の国内シェア</p>
-    <p class="stat-card__value">約50〜60</p>
-    <p class="stat-card__unit">%（和洋飲食器・2022年）{{% cite "meti2022" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">国内陶磁器出荷額</p>
-    <p class="stat-card__value">約1,500</p>
-    <p class="stat-card__unit">億円（2022年・経産省）{{% cite "meti2022" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">有田焼 磁器焼成開始</p>
-    <p class="stat-card__value">1616</p>
-    <p class="stat-card__unit">年（李参平が日本初の磁器を焼成）</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">6か所<span class="stat-sub">（常滑・瀬戸・越前・信楽・丹波・備前）</span></div><div class="stat-label">日本六古窯</div></div>
+  <div class="stat-card"><div class="stat-num">約50〜60%<span class="stat-sub">（和洋飲食器・2022年）</span>{{% cite "meti2022" %}}</div><div class="stat-label">美濃焼の国内シェア</div></div>
+  <div class="stat-card"><div class="stat-num">約1,500億円<span class="stat-sub">（2022年・経産省）</span>{{% cite "meti2022" %}}</div><div class="stat-label">国内陶磁器出荷額</div></div>
+  <div class="stat-card"><div class="stat-num">1616年<span class="stat-sub">（李参平が日本初の磁器を焼成）</span></div><div class="stat-label">有田焼 磁器焼成開始</div></div>
 </div>
 
 ## 陶器と磁器 — 分類と特徴

@@ -112,33 +112,20 @@ galleryDir: "japan-paper"
 
 ## [日本](/rule/asia/japan/)の製紙・パルプ産業とは
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/View_from_Tomakomai_Station_toward_Oji_Paper_Mill_-_Apr_24,_2010.jpg?width=420" alt="王子製紙苫小牧工場" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">北海道苫小牧市の王子製紙苫小牧工場（苫小牧駅から望む）。1910年に王子製紙の前身が建設した日本製紙業の象徴的工場で、現在も新聞用紙の主要生産拠点です。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:View_from_Tomakomai_Station_toward_Oji_Paper_Mill_-_Apr_24,_2010.jpg" target="_blank" rel="noopener noreferrer">MIKI Yoshihito / Wikimedia Commons (CC BY 2.0)</a></figcaption>
+</figure>
+
 製紙・パルプは、<span style="font-weight:700">大量の水・木材繊維・電力</span>を必要とする典型的な装置産業です。[日本](/rule/asia/japan/)の製紙工場は、豊富な水（河川）と港湾を持つ地域に集中して立地しており、富士市・苫小牧・四国中央市・八代・石巻・岩国などが代表的な紙のまちとして知られています。
 
 [日本](/rule/asia/japan/)の紙・板紙生産量は[中国](/rule/asia/china/)・[米国](/rule/n_america/usa/)に次ぐ<span style="font-weight:700">世界第3位級</span>{{% cite "jpa_supply_demand" %}}で、2007年頃の約3,200万トンをピークに、印刷・新聞用紙の需要減少を背景に縮小傾向にあります。一方で、EC需要を背景に<span style="font-weight:700">段ボール原紙・板紙</span>は底堅く推移しており、業界全体としては<span style="font-weight:700">「印刷・情報用紙の縮小と段ボール・パッケージへのシフト」</span>が大きなトレンドとなっています{{% cite "jpa_supply_demand" %}}。2023年の生産量は約2,200万トン（21.99百万トン）です。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">国内紙・板紙生産量（2023年）</p>
-    <p class="stat-card__value">約2,200</p>
-    <p class="stat-card__unit">万トン{{% cite "jpa_supply_demand" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">古紙利用率</p>
-    <p class="stat-card__value">65</p>
-    <p class="stat-card__unit">%超（世界トップクラス）{{% cite "jpa_recycle" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">四国中央市 紙関連出荷額</p>
-    <p class="stat-card__value">約5,100</p>
-    <p class="stat-card__unit">億円（紙のまち日本一・20年連続）{{% cite "shikokuchuo_paper" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">国内主要メーカー</p>
-    <p class="stat-card__value">4社</p>
-    <p class="stat-card__unit">王子HD・日本製紙・大王製紙・レンゴーで国内シェアの大半</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">約2,200万トン{{% cite "jpa_supply_demand" %}}</div><div class="stat-label">国内紙・板紙生産量（2023年）</div></div>
+  <div class="stat-card"><div class="stat-num">65%超<span class="stat-sub">（世界トップクラス）</span>{{% cite "jpa_recycle" %}}</div><div class="stat-label">古紙利用率</div></div>
+  <div class="stat-card"><div class="stat-num">約5,100億円<span class="stat-sub">（紙のまち日本一・20年連続）</span>{{% cite "shikokuchuo_paper" %}}</div><div class="stat-label">四国中央市 紙関連出荷額</div></div>
+  <div class="stat-card"><div class="stat-num">4社王子HD・日本製紙・大王製紙・レンゴーで国内シェアの大半</div><div class="stat-label">国内主要メーカー</div></div>
 </div>
 
 ## 主要4社

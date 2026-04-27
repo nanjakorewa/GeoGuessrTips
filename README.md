@@ -34,6 +34,48 @@
   - Googleストリートビューのスクリーンショットは使用しないこと
   - Google Mapsを引用する場合は**必ず画像の近くにソースへのリンクを貼ること**
 
+## 個人情報・シークレット保護フック (pre-commit)
+
+`scripts/hooks/` 配下に、個人情報・APIトークン等の誤コミットを防ぐ pre-commit フックを置いています。
+
+### 初回セットアップ
+
+`npm install` 時に自動で `git config core.hooksPath scripts/hooks` が設定されます。
+別マシンで clone した直後に手動で有効化したい場合は次のいずれか：
+
+```bash
+# 推奨：npm script から
+npm run install-hooks
+
+# または直接シェルスクリプトを実行
+bash scripts/hooks/install.sh
+```
+
+### 何が保護されるか
+
+| 種類 | 動作 | 例 |
+|---|---|---|
+| API トークン・秘密鍵 | **コミット中止** | `AKIA…` (AWS), `ghp_…` (GitHub), `xoxb-…` (Slack), `sk_live_…` (Stripe), `AIza…` (Google), JWT, PEM 形式の秘密鍵 |
+| クレジットカード番号 | **コミット中止** | 13–19 桁で Luhn チェックに合格するもの |
+| 機密ファイル名 | **コミット中止** | `.env`, `id_rsa`, `*.pem`, `*.key`, `*.p12`, `credentials.json`, `.netrc` 等 |
+| `.ngwords` 記載のNGワード | **コミット中止** | 既存の振る舞いを継続 |
+| メール／電話／郵便番号／12桁数値 | **警告のみ**（コミット可） | 誤検知が多いため |
+| NUL バイト | 自動除去してから add | ステージ済みテキストファイルから |
+
+### 誤検知の対処
+
+- **`.piiallowlist`** にファイル名や文字列の正規表現を 1 行 1 件で追加すると、その値はスキャン対象から除外されます。
+- 既に `example.com` ドメインなどは標準で許可済み。
+- 緊急時は `git commit --no-verify` でフックをバイパスできます（最小限に留めること）。
+
+### 動作確認
+
+`scripts/hooks/check_pii.py` は単独で実行することもでき、ステージ済みの差分を直接スキャンします：
+
+```bash
+python3 scripts/hooks/check_pii.py
+```
+
 ## 連絡先
 
 問題点やミスを見つけた場合はissueを立てていただけると嬉しいです。また連絡はissueか[twitter](https://twitter.com/nanjakorewa)のDMなどで受け付けています。

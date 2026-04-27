@@ -8,29 +8,16 @@ weight: 20
 galleryDir: "japan-combinat-kashima"
 ---
 
-## 基本データ
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kashima_Steel_Works_08.jpg?width=420" alt="鹿島製鉄所" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">茨城県鹿嶋市の日本製鉄・鹿島製鉄所。鹿島コンビナートの中核を成す高炉を持つ製鉄所で、隣接する鹿島港と一体的に重化学工業基盤を形成しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Kashima_Steel_Works_08.jpg" target="_blank" rel="noopener noreferrer">Σ64 / Wikimedia Commons (CC BY 4.0)</a></figcaption>
+</figure>
 
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">高炉数（日本製鉄）</p>
-    <p class="stat-card__value">1</p>
-    <p class="stat-card__unit">基（2025年より1基体制へ集約）。第1高炉容積は5,370m³で世界最大級{{% cite "nipponsteel2023" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">粗鋼生産能力</p>
-    <p class="stat-card__value">約400〜500</p>
-    <p class="stat-card__unit">万トン/年（2025年以降・1基体制）。国内全体の約5〜6%を占める</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">鹿島港貨物取扱量</p>
-    <p class="stat-card__value">約5,700</p>
-    <p class="stat-card__unit">万トン/年（2022年度）。国内主要港の中で有数の規模{{% cite "mlit_kashima_port" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">工業地帯面積</p>
-    <p class="stat-card__value">約3,260</p>
-    <p class="stat-card__unit">ha（計画区域全体）。関東地域の臨海工業地帯では最大</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">1基<span class="stat-sub">（2025年より1基体制へ集約）</span>。第1高炉容積は5,370m³で世界最大級{{% cite "nipponsteel2023" %}}</div><div class="stat-label">高炉数（日本製鉄）</div></div>
+  <div class="stat-card"><div class="stat-num">約400〜500万トン/年<span class="stat-sub">（2025年以降・1基体制）</span>。国内全体の約5〜6%を占める</div><div class="stat-label">粗鋼生産能力</div></div>
+  <div class="stat-card"><div class="stat-num">約5,700万トン/年<span class="stat-sub">（2022年度）</span>。国内主要港の中で有数の規模{{% cite "mlit_kashima_port" %}}</div><div class="stat-label">鹿島港貨物取扱量</div></div>
+  <div class="stat-card"><div class="stat-num">約3,260ha<span class="stat-sub">（計画区域全体）</span>。関東地域の臨海工業地帯では最大</div><div class="stat-label">工業地帯面積</div></div>
 </div>
 
 ## 鹿島開発計画 — 国策工業地帯の形成

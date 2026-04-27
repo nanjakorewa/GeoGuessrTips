@@ -21,6 +21,11 @@ mapPins:
 
 ## 世界の海運業の概観
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/MAERSK_HANOI_Container_Ship_(Port_Koper_SIKOP,_2023).jpg?width=420" alt="マースクのコンテナ船" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">スロベニア・コペル港に係留されるマースクのコンテナ船「MAERSK HANOI」。世界の海運はMaersk・MSC・CMA CGM・COSCO等のコンテナ船社による3大アライアンス体制と、バルチック海運指数（BDI）に表れる需給で構成されます。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:MAERSK_HANOI_Container_Ship_(Port_Koper_SIKOP,_2023).jpg" target="_blank" rel="noopener noreferrer">Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
+
 世界の商品貿易の<span style="font-weight:700">80%超</span>（重量ベース）は海上輸送によって運ばれています{{% cite "unctad_rmt2025" %}}。2024年の海上荷動きは<span style="font-weight:700">127.2億トン</span>（前年比+2.2%）に達し、2025年初時点の世界商船隊の総載貨重量は<span style="font-weight:700">24.4億DWT</span>（前年から+0.79億DWT）に拡大しています。海運は石油・鉄鉱石・石炭・穀物といったバルク貨物から、製品輸送の主力であるコンテナ船、LNG・LPGなどのガス船、自動車専用船（PCC/PCTC）まで、貨物特性に応じて高度に専門化されています。
 
 <div class="stat-grid">

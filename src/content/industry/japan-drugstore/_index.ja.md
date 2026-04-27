@@ -12,13 +12,17 @@ galleryDir: "japan-drugstore"
 
 ## [日本](/rule/asia/japan/)のドラッグストア業界概観
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Welcia_Aioi.JPG?width=420" alt="ウエルシア薬局店舗" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">ウエルシア薬局の店舗外観。ウエルシアHDはイオン傘下で業界首位、2027年にツルハHDとの経営統合により圧倒的1位グループが誕生する見通しです。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Welcia_Aioi.JPG" target="_blank" rel="noopener noreferrer">Corpse Reviver / Wikimedia Commons (CC BY 3.0)</a></figcaption>
+</figure>
+
 [日本](/rule/asia/japan/)のドラッグストア業界は2024年度に<span style="font-weight:700">売上高10兆円を突破</span>しました。かつては医薬品と化粧品が中心でしたが、食品や日用品の取り扱い拡大により、食品スーパーやコンビニエンスストアと競合する「総合型小売業」へと変貌しています{{% cite "jacds_stats" %}}。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">10兆307億円</div><div class="stat-label">業界売上高（2024年度・前年比9.0%増）</div></div>
 <div class="stat-card"><div class="stat-num">23,723店</div><div class="stat-label">総店舗数（前年比682店舗増）</div></div>
 <div class="stat-card"><div class="stat-num">34.1%</div><div class="stat-label">食品構成比率（2025年時点）</div></div>
-<div class="stat-card"><div class="stat-num">2.3兆円</div><div class="stat-label">ウエルシア・ツルハ統合後の売上高</div></div>
 </div>
 
 ## 業界の基礎 — 商流・医薬品分類・規制

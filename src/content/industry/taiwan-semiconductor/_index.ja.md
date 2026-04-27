@@ -111,6 +111,11 @@ galleryDir: "taiwan-semiconductor"
 
 ## なぜ[台湾](/rule/asia/taiwan/)が半導体の中心なのか
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/TSMC_Fab5.JPG?width=420" alt="TSMC Fab5（新竹）" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">台湾・新竹サイエンスパークに所在するTSMC Fab 5。TSMCは世界のファウンドリシェアの約70%を占め、最先端ノード製造では圧倒的な支配地位を有しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG" target="_blank" rel="noopener noreferrer">Peellden / Wikimedia Commons (CC BY-SA 3.0)</a></figcaption>
+</figure>
+
 [台湾](/rule/asia/taiwan/)は世界の<span style="font-weight:700">ファウンドリ（受託製造）</span>の<span style="font-weight:700">約65〜68%</span>を生産し、<span style="font-weight:700">最先端ノード（7nm以下）に限れば約90%</span>が[台湾](/rule/asia/taiwan/)に集中しています{{% cite "trendforce_foundry" %}}。中核企業の<span style="font-weight:700">TSMC（[台湾](/rule/asia/taiwan/)積体電路製造）</span>は世界ファウンドリシェア<span style="font-weight:700">約70%</span>（2025年）を持つ単独首位で、Apple、NVIDIA、AMD、Qualcomm、Broadcomなどの主要半導体ファブレス企業はすべてTSMCの主要顧客です。
 
 <div class="stat-grid">
@@ -229,11 +234,11 @@ tsmc_fabs: TSMC「TSMC Fabs」<https://www.tsmc.com/english/aboutTSMC/TSMC_Fabs>
 moea_taiwan_semi: 中華民國經濟部「半導體產業」<https://www.moea.gov.tw/>
 hspc_about: Hsinchu Science Park「About」<https://www.sipa.gov.tw/english/index.jsp>
 itri_about: ITRI「About ITRI」<https://www.itri.org.tw/english/>
-jetro_taiwan_semi: JETRO「台湾半導体産業の現状」<https://www.jetro.go.jp/biz/areareports/special/2024/0301/>
-chips_act: U.S. Department of Commerce「CHIPS for America」<https://www.commerce.gov/issues/chips>
-tsmc_arizona: TSMC「TSMC Arizona」<https://www.tsmc.com/static/abouttsmcaz/index.htm>
-jasm: Japan Advanced Semiconductor Manufacturing「JASM」<https://pr.tsmc.com/english/news/3105>
-esmc: European Semiconductor Manufacturing Company「ESMC」<https://esmc.eu/en/index.html>
-ctsp_about: Central Taiwan Science Park「Park Profile」<https://www.ctsp.gov.tw/english/01about/abo_park_profile.aspx?v=20&fr=768&no=771>
-stsp_about: Southern Taiwan Science Park「Tainan Science Park」<https://www.stsp.gov.tw/web/WEB/Jsp/Page/cindex.jsp?frontTarget=ENGLISH&thisRootID=6>
+jetro_taiwan_semi: JETRO「台湾半導体産業の現状」<https://www.jetro.go.jp/biz/areareports/special/>
+ctsp_about: 中部科学園区「About CTSP」<https://www.ctsp.gov.tw/english/>
+stsp_about: 南部科学園区「About STSP」<https://www.stsp.gov.tw/web/English/>
+tsmc_arizona: TSMC「TSMC Arizona」<https://www.tsmc.com/english/aboutTSMC/Arizona>
+jasm: Japan Advanced Semiconductor Manufacturing (JASM)「Company Profile」<https://www.jasm-jp.com/en/>
+esmc: European Semiconductor Manufacturing Company (ESMC)「About」<https://www.esmcgmbh.de/>
+chips_act: U.S. Department of Commerce「CHIPS for America」<https://www.commerce.gov/news/fact-sheets/2022/08/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen>
 {{% /references %}}

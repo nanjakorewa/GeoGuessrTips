@@ -12,13 +12,17 @@ galleryDir: "japan-bearing"
 
 ## [日本](/rule/asia/japan/)のベアリング産業の概観
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ball-bearing-numbered.png?width=420" alt="ボールベアリング構造図" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">ボールベアリング（玉軸受）の構造。外輪・内輪・転動体（ボール）・保持器（ケージ）から成る精密機械要素で、日本のNSK・NTN・JTEKT・ミネベアミツミは世界トップ級の精度を誇ります。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Ball-bearing-numbered.png" target="_blank" rel="noopener noreferrer">Niabot / Wikimedia Commons (CC BY-SA 3.0)</a></figcaption>
+</figure>
+
 ベアリング（軸受、Bearing）は回転体を支える機械要素部品で、自動車・産業機械・航空機・家電・小型モータなどあらゆる回転機械に不可欠な「<span style="font-weight:700">機械の米</span>」とも呼ばれる素材です。世界のベアリング市場は約580～600億ドル規模（2024年推計）{{% cite "bearing_market_size" %}}で、上位8社（<span style="font-weight:700">SKF / Schaeffler / NSK / NTN / JTEKT / Timken / Minebea Mitsumi / NACHI不二越</span>）で世界の大半を占めます。[日本](/rule/asia/japan/)はベアリング製造技術で世界的に高い評価を受け、特にNSK・NTN・JTEKTなどが自動車・産業機械・航空宇宙分野で国際競争力を有するベアリング大国です。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">4社</div><div class="stat-label">主要4社（NSK・NTN・JTEKT・ミネベアミツミ）</div></div>
 <div class="stat-card"><div class="stat-num">580～600億USD</div><div class="stat-label">世界ベアリング市場規模（2024年推計）{{% cite "bearing_market_size" %}}</div></div>
 <div class="stat-card"><div class="stat-num">8</div><div class="stat-label">世界8大ベアリングメーカー（うち日本4社）</div></div>
-<div class="stat-card"><div class="stat-num">高精度</div><div class="stat-label">日本の国際競争力</div></div>
 </div>
 
 ## 主要4社の比較

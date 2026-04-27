@@ -129,6 +129,11 @@ galleryDir: "south-africa-mining"
 
 ## なぜ[南アフリカ](/rule/africa/south-africa/)が白金族の中心なのか
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Platinum_Mining.jpg?width=420" alt="南アフリカの白金鉱山採掘" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">南アフリカにおける白金族金属の採掘作業。露天掘りと坑内採鉱の両方が行われ、世界の白金生産の過半を占めています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Platinum_Mining.jpg" target="_blank" rel="noopener noreferrer">Ryanj93 / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
+
 [南アフリカ](/rule/africa/south-africa/)共和国はプラチナ族金属（PGM: Platinum Group Metals = 白金 Pt、パラジウム Pd、ロジウム Rh、ルテニウム Ru、イリジウム Ir、オスミウム Os）の世界生産で<span style="font-weight:700">圧倒的1位</span>です{{% cite "usgs_pgm" %}}。プラチナでは世界の<span style="font-weight:700">約73%</span>{{% cite "wpic_platinum" %}}、ロジウムでは<span style="font-weight:700">約85～88%</span>{{% cite "usgs_minerals_yearbook_2022" %}}を生産しています。これは<span style="font-weight:700">ブッシュフェルト火成岩体（Bushveld Complex）</span>という地質学的に特異な層状貫入岩体（Layered Intrusion）が国土北部に広がっていることに由来します。約2.05ギガ年前（Ga）{{% cite "usgs_bushveld_geological" %}}の超大型マグマ活動で形成されたこの岩体は東西約450km、南北約350km{{% cite "britannica_bushveld" %}}におよぶ世界最大のPGM鉱床群です。
 
 <div class="stat-grid">
@@ -225,11 +230,4 @@ usgs_chromium_2025: USGS「Mineral Commodity Summaries 2025 — Chromium」<http
 usgs_manganese_2025: USGS「Mineral Commodity Summaries 2025 — Manganese」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-manganese.pdf>
 usgs_pgm_elements: USGS「Platinum-group elements in southern Africa: mineral inventory and an assessment of undiscovered mineral resources」<https://pubs.usgs.gov/publication/sir20105090Q>
 witwatersrand_history: South African History Online「Discovery of the Gold in 1884」<https://sahistory.org.za/article/discovery-gold-1884>
-britannica_kimberley: Britannica「Big Hole」<https://www.britannica.com/topic/Big-Hole>
-debeers_official_history: De Beers Group「Our History」<https://www.debeersgroup.com/about-us/our-history>
-amplats_ar: Anglo American Platinum「Annual Reports」<https://www.angloamericanplatinum.com/investors/annual-reporting>
-implats_company: Impala Platinum「Operations」<https://www.implats.co.za/operations.php>
-sibanye_about: Sibanye-Stillwater「About」<https://www.sibanyestillwater.com/about-us/>
-jogmec_pgm: JOGMEC「白金族（PGM）」資源別レポート<https://mric.jogmec.go.jp/>
-norilsk_palladium: World Platinum Investment Council「Supply & Demand」<https://platinuminvestment.com/supply-and-demand/platinum-quarterly>
-{{% /references %}}
+britannica_kimberley: Britannica「Big Hole」<http

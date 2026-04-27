@@ -59,13 +59,17 @@ galleryDir: "japan-paint"
 
 ## [日本](/rule/asia/japan/)の塗料産業の概観
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hammerite_Paint_Factory,_Prudhoe_-_geograph.org.uk_-_261075.jpg?width=420" alt="塗料工場" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">イギリス・プルードのHammerite塗料工場。日本の塗料業界は日本ペイントHD・関西ペイント・大日本塗料・神東塗料などが建築用・自動車用・船舶用・重防食用と多用途に展開し、世界市場でも上位の地位を占めています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Hammerite_Paint_Factory,_Prudhoe_-_geograph.org.uk_-_261075.jpg" target="_blank" rel="noopener noreferrer">Tim Fish / Wikimedia Commons (CC BY-SA 2.0)</a></figcaption>
+</figure>
+
 [日本](/rule/asia/japan/)の塗料の国内需要は2024年度実績見込で<span style="font-weight:700">約124万トン</span>{{% cite "jpma_stats" %}}で推移しており、年間出荷金額はおよそ7,000億円規模と推定されています{{% cite "jpma_stats" %}}。世界の塗料市場（金額ベース約2,170億ドル）の中で[日本](/rule/asia/japan/)は数量ベース世界4〜5位、メーカー規模では<span style="font-weight:700">日本ペイントHDが世界4位、関西ペイントが世界8位</span>{{% cite "global_ranking_2024" %}}にランクされる輸出競争力を持ちます。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">~124万t</div><div class="stat-label">2024年度 需要実績見込（JPMA）</div></div>
 <div class="stat-card"><div class="stat-num">3社</div><div class="stat-label">3大メーカー（日本ペイントHD・関西ペイント・大日本塗料）</div></div>
 <div class="stat-card"><div class="stat-num">5</div><div class="stat-label">主要用途（建築・自動車・工業・船舶・重防食）</div></div>
-<div class="stat-card"><div class="stat-num">大阪</div><div class="stat-label">3大メーカー全社の本社（または共同本社）所在地</div></div>
 </div>
 
 ## 用途別の市場構造

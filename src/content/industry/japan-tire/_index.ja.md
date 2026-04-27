@@ -117,11 +117,16 @@ galleryDir: "japan-tire"
 
 ## [日本](/rule/asia/japan/)のタイヤ産業の概観
 
-タイヤは、自動車・トラック・バス・建設機械・航空機など、あらゆる乗り物の<span style="font-weight:700">回転駆動力を支える最重要部品</span>です。世界のタイヤ市場は約143～151億ドル規模{{% cite "tire_market_2024_2025" %}}で、上位10社（<span style="font-weight:700">Michelin / Bridgestone / Goodyear / Continental / Sumitomo Rubber / Pirelli / Hankook / Yokohama / ZC Rubber / Maxxis</span>）で世界の大半を占めます。[日本](/rule/asia/japan/)はタイヤ製造で世界的に高い評価を受け、特にブリヂストンが世界2位{{% cite "tire_business_michelin_2024" %}}、住友ゴム工業（Dunlop・Falken）が世界5位{{% cite "tire_business_top75" %}}、横浜ゴムが世界8位{{% cite "tire_business_top75" %}}、東洋ゴムも国際競争力を有する<span style="font-weight:700">タイヤ大国</span>です。
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Marks_on_huge_(around_2_meters_diameter)_Bridgestone_tire.jpg?width=420" alt="ブリヂストン製の大型タイヤ" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">ブリヂストン製の建設機械用大型タイヤ（直径約2m）。ブリヂストンは世界2位（売上ベース・首位はミシュラン）のタイヤメーカーで、住友ゴム・横浜ゴム・東洋ゴムを含む日本勢が世界市場で高いシェアを握っています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Marks_on_huge_(around_2_meters_diameter)_Bridgestone_tire.jpg" target="_blank" rel="noopener noreferrer">Syced / Wikimedia Commons (CC0)</a></figcaption>
+</figure>
+
+タイヤは、自動車・トラック・バス・建設機械・航空機など、あらゆる乗り物の<span style="font-weight:700">回転駆動力を支える最重要部品</span>です。世界のタイヤ市場は約1,430〜1,510億ドル規模（2024〜2025年・Grand View Research / Precedence Research等）{{% cite "tire_market_2024_2025" %}}で、上位10社（<span style="font-weight:700">Michelin / Bridgestone / Goodyear / Continental / Sumitomo Rubber / Pirelli / Hankook / Yokohama / ZC Rubber / Maxxis</span>）で世界の大半を占めます。[日本](/rule/asia/japan/)はタイヤ製造で世界的に高い評価を受け、特にブリヂストンが世界2位{{% cite "tire_business_michelin_2024" %}}、住友ゴム工業（Dunlop・Falken）が世界5位{{% cite "tire_business_top75" %}}、横浜ゴムが世界8位{{% cite "tire_business_top75" %}}、東洋ゴムも国際競争力を有する<span style="font-weight:700">タイヤ大国</span>です。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">4社</div><div class="stat-label">主要タイヤメーカー（ブリヂストン・住友ゴム・横浜ゴム・東洋ゴム）</div></div>
-<div class="stat-card"><div class="stat-num">143～151億USD</div><div class="stat-label">世界タイヤ市場規模（2024-2025年）</div></div>
+<div class="stat-card"><div class="stat-num">約1,430〜1,510億USD<span class="stat-sub">（2024〜2025年）</span></div><div class="stat-label">世界タイヤ市場規模</div></div>
 <div class="stat-card"><div class="stat-num">世界2位</div><div class="stat-label">ブリヂストンの世界順位{{% cite "tire_business_michelin_2024" %}}</div></div>
 <div class="stat-card"><div class="stat-num">EV市場36.3億USD</div><div class="stat-label">EV向けタイヤ市場（2025年）成長中{{% cite "ev_tire_market_2025" %}}</div></div>
 </div>

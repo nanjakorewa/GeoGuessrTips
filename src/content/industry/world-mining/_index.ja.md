@@ -12,6 +12,11 @@ galleryDir: "world-mining"
 
 ## 世界の鉱業の概観
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Open_pit_mining_at_the_Commodore_Mine.jpg?width=420" alt="露天掘り鉄鉱山" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">米国ミネソタ州バージニア近郊・コモドール鉱山の露天掘り。世界の鉱業ではBHP・リオティント・ヴァーレ・グレンコア等のメジャーが鉄鉱石・銅・リチウム・PGMの国際供給を支配しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Open_pit_mining_at_the_Commodore_Mine.jpg" target="_blank" rel="noopener noreferrer">Tim Evanson / Wikimedia Commons (Public domain)</a></figcaption>
+</figure>
+
 世界の鉱業は鉄鉱石・石炭・銅・ボーキサイト/アルミニウム・金・ニッケル・亜鉛・鉛・リチウム・コバルト・白金族（PGM）などの金属・鉱物を採掘・選鉱・製錬する産業です。2024年末時点でMINING.COMの世界トップ50社の合計時価総額は<span style="font-weight:700">約2.17兆ドル</span>規模に達しました{{% cite "miningcom_top50" %}}。鉱業は資本集約型かつカントリーリスクが大きく、上位5社（BHP、Rio Tinto、Vale、Glencore、Saudi Arabian Mining/[中国](/rule/asia/china/)神華など）に集中しています。
 
 <div class="stat-grid">
@@ -37,7 +42,6 @@ galleryDir: "world-mining"
 | 10 | Teck Resources | <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" width="18" height="12" style="vertical-align:-2px"><rect width="30" height="20" fill="#d52b1e"/><rect x="11" width="8" height="20" fill="#fff"/></svg> [カナダ](/rule/n_america/canada/) | ~$25B | 銅・亜鉛（旧原料炭はGlencore売却） |
 
 {{% cite "miningcom_top50" %}}（市況により大きく変動。2024年末頃の概算）
-
 
 ## 主要鉱物別の産出国・主要鉱山
 

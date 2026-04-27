@@ -127,28 +127,19 @@ galleryDir: "japan-stockpile"
 
 ## [日本](/rule/asia/japan/)の石油・LPガス備蓄制度
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/United_States_Strategic_Petroleum_Reserve_039.jpg?width=420" alt="米国の戦略石油備蓄" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">米国の戦略石油備蓄（Strategic Petroleum Reserve）施設。日本もJOGMEC国家備蓄基地10カ所で約4,000万kLの原油を備蓄しており、エネルギー安全保障の中核を担っています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:United_States_Strategic_Petroleum_Reserve_039.jpg" target="_blank" rel="noopener noreferrer">ENERGY.GOV / Wikimedia Commons (Public domain)</a></figcaption>
+</figure>
+
 [日本](/rule/asia/japan/)は原油の99.7%を輸入に依存しており{{% cite "enecho_oil_stats" %}}、中東情勢の緊迫や海上輸送路の途絶に備えた<span style="font-weight:700">国家備蓄</span>がエネルギー安全保障の要となっています。1975年の石油備蓄法制定以降、全国に備蓄基地が整備され、2004年からはJOGMEC（独立行政法人エネルギー・金属鉱物資源機構）が一括管理しています{{% cite "jogmec2024" %}}{{% cite "meti2024" %}}。
 
 備蓄は<span style="font-weight:700">国家備蓄</span>（政府が直接保有）・<span style="font-weight:700">民間備蓄</span>（石油会社に義務付け）・<span style="font-weight:700">産油国共同備蓄</span>の3層構造で運用されています{{% cite "enecho2026" %}}。内訳は時期により変動しますが、国家備蓄が約90〜110日分{{% cite "enecho2026" %}}、民間備蓄が約70〜90日分で、合計約200日分以上を確保しています{{% cite "enecho2026" %}}。IEA（国際エネルギー機関）の加盟国義務である90日分を大幅に上回る水準となっています。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">国家石油備蓄基地</p>
-    <p class="stat-card__value">10</p>
-    <p class="stat-card__unit">か所（合計約4,600万kL）{{% cite "jogmec_oil_method" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">国家LPガス備蓄基地</p>
-    <p class="stat-card__value">5</p>
-    <p class="stat-card__unit">か所（合計約150万トン）{{% cite "jogmec_lpg" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">石油備蓄日数（国家＋民間）</p>
-    <p class="stat-card__value">約200</p>
-    <p class="stat-card__unit">日分以上{{% cite "enecho2026" %}}</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">10か所<span class="stat-sub">（合計約4,600万kL）</span>{{% cite "jogmec_oil_method" %}}</div><div class="stat-label">国家石油備蓄基地</div></div>
+  <div class="stat-card"><div class="stat-num">5か所<span class="stat-sub">（合計約150万トン）</span>{{% cite "jogmec_lpg" %}}</div><div class="stat-label">国家LPガス備蓄基地</div></div>
+  <div class="stat-card"><div class="stat-num">約200日分以上{{% cite "enecho2026" %}}</div><div class="stat-label">石油備蓄日数（国家＋民間）</div></div>
 </div>
 
 ## 3つの貯蔵方式

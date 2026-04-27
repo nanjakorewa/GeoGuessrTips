@@ -96,33 +96,19 @@ galleryDir: "japan-food-combinat"
 
 ## 食品コンビナートとは
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ajinomoto_-_panoramio.jpg?width=420" alt="味の素工場" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">味の素の工場。日本の食品コンビナートでは味の素・キッコーマン・日本製粉などが連携した臨海型食品工業集積地が形成され、原材料輸入から製品出荷まで効率的なサプライチェーンが構築されています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Ajinomoto_-_panoramio.jpg" target="_blank" rel="noopener noreferrer">Akhmad Fauzi / Wikimedia Commons (CC BY 3.0)</a></figcaption>
+</figure>
+
 食品コンビナートは、港湾に面した埋立地に<span style="font-weight:700">製粉・製糖・製油・冷凍食品・菓子・飲料</span>などの食品製造企業が集積し、原料の輸入から加工・出荷までを効率的に行う食品工業の集積地です。石油化学コンビナートと同様に、共有インフラ（蒸気・排水処理・電力・サイロ）の共同利用によりコスト削減を図っています。全国4か所の食品コンビナートでは合計約130社が操業し、[日本](/rule/asia/japan/)国内の食品製造業従事者の約5〜6%を占める主要な食品生産基地となっています{{% cite "cfc" %}}。
 
 [日本](/rule/asia/japan/)の食品コンビナートは主に1960〜70年代の高度経済成長期に、増大する都市部の食料需要に応えるために整備されました。千葉地域の2つのコンビナート（千葉食品・京葉食品）は首都圏の食料需要の約40%を供給し、西[日本](/rule/asia/japan/)の神戸・大阪の2コンビナートは関西～九州地域の食料供給を担っています。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">食品コンビナート</p>
-    <p class="stat-card__value">4</p>
-    <p class="stat-card__unit">か所（千葉2・兵庫1・大阪1）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">日本最大・最古</p>
-    <p class="stat-card__value">千葉食品</p>
-    <p class="stat-card__unit">コンビナート（1964年・90ha）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">日本初の食品コンビナート</p>
-    <p class="stat-card__value">神戸東部</p>
-    <p class="stat-card__unit">第4工区（1972年認定）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">共通の特徴</p>
-    <p class="stat-card__value">臨海立地</p>
-    <p class="stat-card__unit">港湾サイロ→一次加工→二次加工の動線</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">4か所<span class="stat-sub">（千葉2・兵庫1・大阪1）</span></div><div class="stat-label">食品コンビナート</div></div>
+  <div class="stat-card"><div class="stat-num">千葉食品コンビナート<span class="stat-sub">（1964年・90ha）</span></div><div class="stat-label">日本最大・最古</div></div>
+  <div class="stat-card"><div class="stat-num">神戸東部第4工区<span class="stat-sub">（1972年認定）</span></div><div class="stat-label">日本初の食品コンビナート</div></div>
 </div>
 
 ## 食品コンビナートの仕組み

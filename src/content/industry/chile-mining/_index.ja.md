@@ -123,6 +123,11 @@ galleryDir: "chile-mining"
 
 ## なぜ[チリ](/rule/cs_america/chile/)が鉱業大国なのか
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Mina_de_Chuquicamata,_Calama,_Chile,_2016-02-01,_DD_121.JPG?width=420" alt="チキカマタ露天掘り銅鉱山" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">チリ北部カラマのコデルコ所有チキカマタ銅鉱山。採掘歴が長く、露天掘りから地下採鉱への転換が進行中。世界最大級の鉱山規模を誇ります。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Mina_de_Chuquicamata,_Calama,_Chile,_2016-02-01,_DD_121.JPG" target="_blank" rel="noopener noreferrer">Diego Delso / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
+
 [チリ](/rule/cs_america/chile/)共和国は<span style="font-weight:700">世界最大の銅生産国</span>であり、2024年の銅生産量は<span style="font-weight:700">約550万トン</span>（前年比+4.9%）と、20年来の減少傾向を反転させて成長軌道に戻りました{{% cite "cochilco_2024" %}。世界の銅鉱山生産（約2,300万トン）のうち<span style="font-weight:700">約24%</span>{{% cite "usgs_mcs2025_copper" %}}を1か国で供給しており、第2位[ペルー](/rule/cs_america/peru/)（約12%）、第3位[コンゴ民主共和国](/rule/africa/rdc/)（約10%）を大きく引き離しています。さらに[チリ](/rule/cs_america/chile/)は<span style="font-weight:700">世界最大の銅埋蔵量保有国</span>でもあり、確認埋蔵量の<span style="font-weight:700">約21.3%</span>が国内に集中しています{{% cite "usgs_mcs2025_copper" %}}。
 
 加えて[チリ](/rule/cs_america/chile/)は<span style="font-weight:700">世界第2位のリチウム生産国</span> （1位は[オーストラリア](/rule/oceania/australia/)）で、アタカマ塩湖（Salar de Atacama）のかん水から世界の<span style="font-weight:700">約34%</span> ものリチウムが採れるとされ、隣接する[アルゼンチン](/rule/cs_america/argentina/)・[ボリビア](/rule/cs_america/bolivia/)と合わせた<span style="font-weight:700">「リチウムトライアングル」</span> は世界リチウム資源の約56%を占めます{{% cite "fastmarkets_lithium_triangle" %}}。
@@ -340,11 +345,4 @@ new Chart(document.getElementById('pie-chile-mines'), {
 
 {{% references %}}
 cochilco_2024: Cochilco（Comisión Chilena del Cobre）「Chilean copper production breaks downward trend and closes 2024 with 4.9% growth」<https://www.cochilco.cl/>
-usgs_mcs2025_copper: USGS「Mineral Commodity Summaries 2025 — Copper」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-copper.pdf>
-fastmarkets_lithium_triangle: Fastmarkets「The Lithium Triangle」<https://www.fastmarkets.com/insights/the-lithium-triangle-three-countries-control-more-than-50-of-global-resources/>
-codelco_2024_results: Codelco「December 2024 Results」<https://www.codelco.com/sites/site/docs/20240426/20240426181050/operational_and_financial_report_december_31_2024.pdf>
-codelco: Codelco「About Us」<https://www.codelco.com/en/>
-sqm_company: SQM「Investor Information」<https://ir.sqm.com/>
-usgs_mcs2025_li: USGS「Mineral Commodity Summaries 2025 — Lithium」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-lithium.pdf>
-jogmec_chile: JOGMEC「チリの鉱業概観」<https://mric.jogmec.go.jp/>
-{{% /references %}}
+usgs_mcs2025_copper: USGS「Miner

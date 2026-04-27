@@ -12,6 +12,11 @@ galleryDir: "japan-mineral-stockpile"
 
 ## レアメタル備蓄制度の概要
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Rare_Earth_Elements_and_Their_Spectra.png?width=420" alt="レアアース元素サンプルとスペクトル" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">スカンジウム・イットリウムおよびランタノイド系列の各レアアース元素のサンプルと発光スペクトル。JOGMECは34鉱種55元素を国家備蓄対象とし、レアアース・タングステン・コバルトなどの安定供給を担保しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:The_Rare_Earth_Elements_and_Their_Spectra.png" target="_blank" rel="noopener noreferrer">Umop503 / Wikimedia Commons (CC0)</a></figcaption>
+</figure>
+
 日本のレアメタル備蓄制度は、<span style="font-weight:700">2度にわたる石油危機（1973年／1979年）の経験から資源小国である日本の経済基盤の脆弱性が改めて認識されたことを受け、昭和58年度（1983年度）</span>に国家経済安全保障の確立という観点から、審議会報告を受けて官民協力による制度として創設されました{{% cite "meti_raremetal_stockpile" %}}。
 
 代替が困難で供給国の偏りが著しいレアメタルの供給途絶リスク等に備えるため、現在は<span style="font-weight:700">独立行政法人エネルギー・金属鉱物資源機構（JOGMEC）</span>が備蓄を実施し、国は備蓄に係るレアメタルの購入資金の借入に必要な利子、備蓄倉庫の維持・管理に必要な経費をJOGMECに補助する形を取っています。

@@ -1,0 +1,41 @@
+# PII / secret scanner allowlist
+#
+# One Python regex per line. Matches against either:
+#   * the offending substring (e.g., "example@example.com"), or
+#   * the file path of the staged change.
+# A match suppresses the corresponding finding from scripts/hooks/check_pii.py.
+#
+# Lines starting with # and blank lines are ignored.
+
+# --- Documentation example addresses (RFC 2606) ---------------------------
+example\.com$
+example\.org$
+example\.net$
+@example\.com\b
+@example\.org\b
+@example\.net\b
+
+# --- Common public sample / placeholder values ----------------------------
+test@test\.com
+foo@bar\.com
+user@host
+your[\.\-_]?email@
+contact@geopinning\.space
+support@geopinning\.space
+
+# --- Public corporate emails / domains used as references in the content --
+# (Add as needed, e.g. press@toyota.co.jp if cited in industry/ pages.)
+
+# --- Repo-internal example data files --------------------------------------
+# Allow any sample/dummy content under tests/fixtures/
+^tests/fixtures/
+
+# --- Postal codes and 12-digit numbers used in pure data contexts ---------
+# Most stat-card numerics (e.g., production volumes) are 12 digits when grouped
+# with commas removed. Suppress only when clearly tabular numeric prose.
+# Example: 「生産能力 約120,000,000台/年」→ "120000000000" if comma-stripped.
+^src/content/industry/
+
+# --- Wikimedia attribution image URLs (no PII risk) ----------------------
+upload\.wikimedia\.org
+commons\.wikimedia\.org

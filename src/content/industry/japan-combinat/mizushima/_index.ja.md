@@ -8,29 +8,16 @@ weight: 30
 galleryDir: "japan-combinat-mizushima"
 ---
 
-## 基本データ
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kurashiki_city_mizushima_industrial_area.JPG?width=420" alt="水島臨海工業地帯" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">岡山県倉敷市の水島臨海工業地帯。JFEスチール西日本製鉄所、三菱ケミカル、三菱自動車などが集積する中国地方最大の重化学コンビナートです。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Kurashiki_city_mizushima_industrial_area.JPG" target="_blank" rel="noopener noreferrer">tatushin / Wikimedia Commons (Public domain)</a></figcaption>
+</figure>
 
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">エチレン年産能力</p>
-    <p class="stat-card__value">約45.5</p>
-    <p class="stat-card__unit">万トン（水島エチレン：旭化成・三菱ケミカル共同運営）。国内7位</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">JFE西日本粗鋼能力</p>
-    <p class="stat-card__value">約530</p>
-    <p class="stat-card__unit">万トン/年（第4高炉＋電気炉転換中）。国内2位クラス</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">三菱自動車 生産能力</p>
-    <p class="stat-card__value">約24</p>
-    <p class="stat-card__unit">万台/年（水島工場）。日本唯一の軽自動車専用工場</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">水島港貨物取扱量</p>
-    <p class="stat-card__value">約5,700</p>
-    <p class="stat-card__unit">万トン/年（2022年）。国内主要港の中で有数</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">約45.5万トン<span class="stat-sub">（水島エチレン：旭化成・三菱ケミカル共同運営）</span>。国内7位</div><div class="stat-label">エチレン年産能力</div></div>
+  <div class="stat-card"><div class="stat-num">約530万トン/年<span class="stat-sub">（第4高炉＋電気炉転換中）</span>。国内2位クラス</div><div class="stat-label">JFE西日本粗鋼能力</div></div>
+  <div class="stat-card"><div class="stat-num">約24万台/年<span class="stat-sub">（水島工場）</span>。日本唯一の軽自動車専用工場</div><div class="stat-label">三菱自動車 生産能力</div></div>
+  <div class="stat-card"><div class="stat-num">約5,700万トン/年<span class="stat-sub">（2022年）</span>。国内主要港の中で有数</div><div class="stat-label">水島港貨物取扱量</div></div>
 </div>
 
 ## 水島コンビナートの特異性 — 3業種の共存

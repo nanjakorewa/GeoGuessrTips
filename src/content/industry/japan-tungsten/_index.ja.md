@@ -108,33 +108,20 @@ galleryDir: "japan-tungsten"
 
 ## [日本](/rule/asia/japan/)のタングステン産業とは
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tungsten_carbide_tool.jpg?width=420" alt="超硬合金（タングステンカーバイド）切削工具" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">超硬合金（タングステンカーバイド、WC）の切削工具チップ。日本のタングステン産業は中国依存度が高い原料を、超硬工具・耐摩耗部品として高付加価値化することで世界的な加工技術を維持しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Tungsten_carbide_tool.jpg" target="_blank" rel="noopener noreferrer">Hi-Res Images of Chemical Elements / Wikimedia Commons (CC BY 3.0)</a></figcaption>
+</figure>
+
 タングステン（元素記号 W、原子番号74）は、<span style="font-weight:700">融点3,422℃と全金属中で最も高い融点</span>を持ち、極めて高い硬度・密度・耐熱性を備えるレアメタルです。最大の用途は<span style="font-weight:700">超硬合金（炭化タングステン WC をコバルトで焼結した複合材料）</span>で、切削工具・金型・掘削ビットなどに広く使われます{{% cite "jogmec_w_flow" %}}。[日本](/rule/asia/japan/)では国内消費量の約76%が超硬合金向けであり{{% cite "jogmec_w_flow" %}}、世界平均（約61%）を大きく上回ります。
 
 [日本](/rule/asia/japan/)はかつて大谷鉱山（京都）、喜和田鉱山（山口）、高取鉱山（茨城）などでタングステンを採掘していましたが、1980年代の円高と中国産低価格鉱の流入により国内鉱山は相次いで閉山し、現在は<span style="font-weight:700">ほぼ全量を輸入に依存</span>しています{{% cite "kiwada_wiki" %}}。一方で、超硬工具のリサイクル技術や高付加価値加工においては世界トップクラスの競争力を維持しています。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">世界鉱石生産量（2024年推計）</p>
-    <p class="stat-card__value">約81,000</p>
-    <p class="stat-card__unit">メートルトン{{% cite "usgs_tungsten" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">中国の世界シェア</p>
-    <p class="stat-card__value">約83</p>
-    <p class="stat-card__unit">%（約67,000トン）{{% cite "usgs_tungsten" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">融点（全金属中最高）</p>
-    <p class="stat-card__value">3,422</p>
-    <p class="stat-card__unit">℃</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">日本の超硬合金向け比率</p>
-    <p class="stat-card__value">約76</p>
-    <p class="stat-card__unit">%（世界平均は約61%）{{% cite "jogmec_w_flow" %}}</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">約81,000メートルトン{{% cite "usgs_tungsten" %}}</div><div class="stat-label">世界鉱石生産量（2024年推計）</div></div>
+  <div class="stat-card"><div class="stat-num">約83%<span class="stat-sub">（約67,000トン）</span>{{% cite "usgs_tungsten" %}}</div><div class="stat-label">中国の世界シェア</div></div>
+  <div class="stat-card"><div class="stat-num">3,422℃</div><div class="stat-label">融点（全金属中最高）</div></div>
+  <div class="stat-card"><div class="stat-num">約76%<span class="stat-sub">（世界平均は約61%）</span>{{% cite "jogmec_w_flow" %}}</div><div class="stat-label">日本の超硬合金向け比率</div></div>
 </div>
 
 ## タングステンの用途

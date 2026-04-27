@@ -20,13 +20,17 @@ mapPins:
 
 ## 世界の肥料市場の概観
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Potash_mine_Moab_NASA.jpg?width=420" alt="ユタ州ムーアブのカリ鉱山" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">米国ユタ州ムーアブにあるカリ（potash）鉱山の衛星画像。鮮やかな青色は蒸発池に湛えられたカリ含有溶液で、世界の肥料サプライチェーン（窒素・リン酸・カリ＝N/P/K）の上流を構成します。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Potash_mine_Moab_NASA.jpg" target="_blank" rel="noopener noreferrer">NASA Earth Observatory / Wikimedia Commons (Public domain)</a></figcaption>
+</figure>
+
 肥料は窒素（N）・リン酸（P）・カリ（K）の三大栄養素を供給する農業用化学薬品で、世界の食糧生産を支える<span style="font-weight:700">不可欠な「農業の米」</span>です。世界の肥料市場規模は約2025～2026年時点で<span style="font-weight:700">約1,500～2,000億ドル</span>（推計機関により幅がある）で、主要3形態の<span style="font-weight:700">尿素（Urea）・リン酸アンモニウム（DAP/MAP）・塩化カリ（MOP）</span>が世界の肥料貿易量の約70%を占めます{{% cite "ifa_outlook_2025" %}}。上位5社（<span style="font-weight:700">Nutrien / Mosaic / CF Industries / Yara / K+S</span>）で世界の商用肥料生産シェアの大半を支配し、特にNutrienは<span style="font-weight:700">世界最大手</span>として時価総額約370～400億ドル規模です{{% cite "nutrien_ir" %}}。肥料産業は天然ガス依存度が高く、[ロシア](/rule/asia/russia/)・中東・北米が地政学的に支配力を持つ戦略的コモディティです。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">~1,500～2,000億USD</div><div class="stat-label">世界肥料市場規模（2025～2026年推計・推計機関により幅がある）</div></div>
 <div class="stat-card"><div class="stat-num">3</div><div class="stat-label">世界三大肥料形態（尿素・DAP・MOP）</div></div>
 <div class="stat-card"><div class="stat-num">5社</div><div class="stat-label">主要5社（Nutrien, Mosaic, CF, Yara, K+S）</div></div>
-<div class="stat-card"><div class="stat-num">天然ガス依存</div><div class="stat-label">窒素肥料の主要コスト要因</div></div>
 </div>
 
 ## 世界トップ肥料メーカー

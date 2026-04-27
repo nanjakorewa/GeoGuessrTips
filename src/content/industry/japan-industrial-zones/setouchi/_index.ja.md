@@ -10,34 +10,14 @@ galleryDir: "setouchi"
 
 ## 瀬戸内工業地域の概要
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Okayama-Night_view_of_the_industrial_plant_in_Mizushima-xl.jpg?width=420" alt="水島コンビナートの夜景" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">岡山県倉敷市・水島コンビナートの夜景。瀬戸内工業地域は石油化学・鉄鋼・造船・自動車を擁する多面的産業圏で、水島はその中核を成す重化学コンビナートです。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Okayama-Night_view_of_the_industrial_plant_in_Mizushima-xl.jpg" target="_blank" rel="noopener noreferrer">Yudai_photography / Wikimedia Commons (CC BY 4.0)</a></figcaption>
+</figure>
+
 瀬戸内工業地域は、瀬戸内海沿岸の<span style="font-weight:700">岡山・広島・山口・愛媛・香川・兵庫の沿岸部</span>にまたがる広域工業地域です{{% cite "meti_census" %}}。穏やかな海象と臨海立地の利点を活かし、<span style="font-weight:700">石油化学・鉄鋼・造船・自動車・繊維</span>といった多様な重化学工業が集積しています。瀬戸内海沿岸の工業地帯の製造業出荷額は合計で年間約25兆円規模に達し、西日本の経済を牽引する重要な産業帯です。
 
 四大工業地帯（京浜・中京・阪神・北九州）を結ぶ「太平洋ベルト」の中間に位置し、原材料の輸入と製品の輸出の両方に適した立地です。特に<span style="font-weight:700">造船業</span>は瀬戸内海沿岸に国内建造量の<span style="font-weight:700">約70%以上</span>が集中しており{{% cite "mlit_setouchi" %}}、「造船の海」とも呼ばれます。今治造船グループが国内建造量の35%を占める最大手であり、瀬戸内海沿岸に複数の拠点を配置しています{{% cite "mlit_shipbuilding" %}}。
-
-## 基本データ
-
-<div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">対象府県</p>
-    <p class="stat-card__value">7</p>
-    <p class="stat-card__unit">県（岡山・広島・山口・愛媛・香川・徳島・兵庫の瀬戸内側）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">主要コンビナート</p>
-    <p class="stat-card__value">水島・周南</p>
-    <p class="stat-card__unit">石油化学コンビナート2地区</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">造船シェア</p>
-    <p class="stat-card__value">約70</p>
-    <p class="stat-card__unit">%超（国内建造量・瀬戸内海沿岸）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">自動車生産</p>
-    <p class="stat-card__value">マツダ・三菱</p>
-    <p class="stat-card__unit">広島（マツダ）・水島（三菱自動車）</p>
-  </div>
-</div>
 
 ## 産業構造 — 五つの柱
 

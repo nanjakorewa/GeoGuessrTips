@@ -123,6 +123,11 @@ galleryDir: "thailand-japanese"
 
 ## なぜ[タイ](/rule/asia/thai/)に日系企業が集まるのか
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Thailand_Toyota_Vios_20090630.jpg?width=420" alt="タイで生産・販売されるトヨタ・ヴィオス" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">バンコク市内で撮影されたトヨタ・ヴィオス。タイは「東洋のデトロイト」と呼ばれる東南アジア最大の自動車生産拠点で、日系自動車メーカーが製造の大半を占めています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Thailand_Toyota_Vios_20090630.jpg" target="_blank" rel="noopener noreferrer">nakhon100 / Wikimedia Commons (CC BY 2.0)</a></figcaption>
+</figure>
+
 [タイ](/rule/asia/thai/)は<span style="font-weight:700">東南アジア最大の日系企業集積地</span>で、JETROが把握する日系企業数は<span style="font-weight:700">約6,083社</span>にのぼります（2024年度調査）{{% cite "jetro_thailand_2024survey" %}}。[タイ](/rule/asia/thai/)の自動車産業は<span style="font-weight:700">「アジアのデトロイト」</span>と呼ばれ、年間生産台数は2023年に約184万台{{% cite "jetro_auto_production2023" %}}、2024年は[中国](/rule/asia/china/)EV競合と国内需要減で約147万台{{% cite "jetro_auto_production2024" %}}に低下しましたが、その大部分は日系8社が占めます。日系企業の集中は1970年代の繊維、80年代後半のプラザ合意後の電機・自動車進出に始まり、90年代の東部臨海開発（<span style="font-weight:700">Eastern Seaboard Development Programme</span>）と2010年代の<span style="font-weight:700">Eastern Economic Corridor (EEC)</span> {{% cite "eec_office" %}}で加速しました。
 
 <div class="stat-grid">

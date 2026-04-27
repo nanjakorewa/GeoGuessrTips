@@ -111,33 +111,20 @@ galleryDir: "japan-hydrogen-ammonia"
 
 ## [日本](/rule/asia/japan/)の水素・アンモニア戦略
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Fukuoka_City_Hydrogen_Refueling_Station_producing_hydrogen_from_sewage_biogas_2-1_Aratsu-2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_City_20221003.jpg?width=420" alt="福岡市の水素ステーション" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">福岡市中央区の水素ステーション。下水バイオガス由来の水素を製造する先進事例で、日本のGX戦略における水素・アンモニア社会実装の象徴的拠点の一つです。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Fukuoka_City_Hydrogen_Refueling_Station_producing_hydrogen_from_sewage_biogas_2-1_Aratsu-2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_City_20221003.jpg" target="_blank" rel="noopener noreferrer">Hirho / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
+
 水素・アンモニアは、2050年カーボンニュートラル実現に向けた<span style="font-weight:700">GX（グリーントランスフォーメーション）戦略の中核燃料</span>として位置付けられています。経済産業省は2017年に世界初の国家水素戦略を策定し、2023年6月には「水素基本戦略」を改定して導入目標を大幅に引き上げました{{% cite "meti_h2strategy2023" %}}。脱炭素が困難な火力発電・製鉄・石油化学・重輸送・船舶などの分野で、化石燃料を水素・アンモニアに置き換えることが想定されています。
 
 [日本](/rule/asia/japan/)は既存の港湾・パイプライン・大規模需要家（火力発電所・コンビナート）を活かしながら、海外からの輸入と国内製造を組み合わせた<span style="font-weight:700">「水素・アンモニア・サプライチェーン」</span>を構築しようとしています。豪州・中東・北米などとの国際協力も同時並行で進んでいます{{% cite "meti_h2strategy2023" %}}。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">2030年導入目標</p>
-    <p class="stat-card__value">最大300万</p>
-    <p class="stat-card__unit">トン/年（水素・アンモニア合計）{{% cite "meti_h2strategy2023" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">2040年導入目標</p>
-    <p class="stat-card__value">1,200万</p>
-    <p class="stat-card__unit">トン/年程度{{% cite "meti_h2strategy2023" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">2050年導入目標</p>
-    <p class="stat-card__value">2,000万</p>
-    <p class="stat-card__unit">トン/年程度{{% cite "meti_h2strategy2023" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">官民投資（15年間）</p>
-    <p class="stat-card__value">15兆</p>
-    <p class="stat-card__unit">円規模{{% cite "meti_h2strategy2023" %}}</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">最大300万トン/年<span class="stat-sub">（水素・アンモニア合計）</span>{{% cite "meti_h2strategy2023" %}}</div><div class="stat-label">2030年導入目標</div></div>
+  <div class="stat-card"><div class="stat-num">1,200万トン/年程度{{% cite "meti_h2strategy2023" %}}</div><div class="stat-label">2040年導入目標</div></div>
+  <div class="stat-card"><div class="stat-num">2,000万トン/年程度{{% cite "meti_h2strategy2023" %}}</div><div class="stat-label">2050年導入目標</div></div>
+  <div class="stat-card"><div class="stat-num">15兆円規模{{% cite "meti_h2strategy2023" %}}</div><div class="stat-label">官民投資（15年間）</div></div>
 </div>
 
 ## 水素・アンモニアのカテゴリ

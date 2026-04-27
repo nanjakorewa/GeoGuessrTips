@@ -128,33 +128,20 @@ galleryDir: "japan-nonferrous"
 
 ## [日本](/rule/asia/japan/)の非鉄金属製錬とは
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Mitsubishi_Materials_Corporation_Naoshima_Smelter.jpg?width=420" alt="三菱マテリアル直島製錬所" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">香川県直島に立地する三菱マテリアル直島製錬所。江戸時代の別子銅山に由来する非鉄金属製錬の伝統を継ぎ、現在は銅製錬と都市鉱山リサイクル（E-Scrap処理）の世界的拠点となっています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Mitsubishi_Materials_Corporation_Naoshima_Smelter.jpg" target="_blank" rel="noopener noreferrer">ブルーノ・プラス / Wikimedia Commons (CC BY 4.0)</a></figcaption>
+</figure>
+
 [日本](/rule/asia/japan/)は鉱石（精鉱）を輸入し、国内で銅・亜鉛・鉛・ニッケルなどに製錬する<span style="font-weight:700">「精鉱輸入・精錬輸出」型</span> の構造を持っています。明治期から昭和半ばまでは国内の鉱山が主要な原料供給源でしたが、1970年代までに大半の金属鉱山が閉山し、現在ではほぼ全量を海外鉱石に依存しています{{% cite "jogmec_metal_overview" %}}。
 
 それでも[日本](/rule/asia/japan/)の非鉄製錬産業は、<span style="font-weight:700">世界最高水準の歩留まり・複雑鉱処理能力・副産物（金・銀・PGM・レアメタル）回収技術</span> を背景に、銅製錬で世界的な存在感を維持しています。さらに近年は、廃電子基板（<span style="font-weight:700">E-Scrap</span>）から貴金属を回収する<span style="font-weight:700">「都市鉱山」リサイクル</span> の世界的拠点としても注目されています{{% cite "mmc_escrap" %}}。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">国内電気銅生産能力</p>
-    <p class="stat-card__value">約187</p>
-    <p class="stat-card__unit">万トン/年（世界第2位）{{% cite "jogmec_metal_overview" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">国内主要銅製錬所</p>
-    <p class="stat-card__value">5</p>
-    <p class="stat-card__unit">か所（東予・佐賀関・玉野・小名浜・直島）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">三菱マテリアル直島 E-Scrap処理</p>
-    <p class="stat-card__value">約16</p>
-    <p class="stat-card__unit">万トン/年（グループ世界最大級）{{% cite "mmc_escrap" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">別子銅山 操業期間</p>
-    <p class="stat-card__value">283</p>
-    <p class="stat-card__unit">年（1691〜1973年）{{% cite "sumitomo_besshi" %}}</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">約187万トン/年<span class="stat-sub">（世界第2位）</span>{{% cite "jogmec_metal_overview" %}}</div><div class="stat-label">国内電気銅生産能力</div></div>
+  <div class="stat-card"><div class="stat-num">5か所<span class="stat-sub">（東予・佐賀関・玉野・小名浜・直島）</span></div><div class="stat-label">国内主要銅製錬所</div></div>
+  <div class="stat-card"><div class="stat-num">約16万トン/年<span class="stat-sub">（グループ世界最大級）</span>{{% cite "mmc_escrap" %}}</div><div class="stat-label">三菱マテリアル直島 E-Scrap処理</div></div>
+  <div class="stat-card"><div class="stat-num">283年<span class="stat-sub">（1691〜1973年）</span>{{% cite "sumitomo_besshi" %}}</div><div class="stat-label">別子銅山 操業期間</div></div>
 </div>
 
 ## 主要銅製錬所

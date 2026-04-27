@@ -12,6 +12,11 @@ galleryDir: "japan-power"
 
 ## 旧一般電気事業者10社 — 戦後70年続く地域独占体制の現在地
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kashiwazaki-Kariwa_Nuclear_Power_Plant_14-Aug-2019_(cropped).jpg?width=420" alt="柏崎刈羽原子力発電所" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">新潟県柏崎市・刈羽村の東京電力ホールディングス・柏崎刈羽原子力発電所。世界最大級の原発（出力821万kW）で、再稼働の動向が国内電力業界の電源構成・経営に大きな影響を与えています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Kashiwazaki-Kariwa_Nuclear_Power_Plant_14-Aug-2019_(cropped).jpg" target="_blank" rel="noopener noreferrer">皓月旗 / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
+
 1951年の電力再編で発足した9電力体制（1972年に沖縄電力が加わり10社体制）は、地域独占・垂直統合モデルで日本の高度経済成長を支えてきました。しかし2011年の東日本大震災と福島第一原発事故をきっかけに制度が大きく変わり、<span style="font-weight:700">2016年の電力小売全面自由化</span>と<span style="font-weight:700">2020年の発送電分離（送配電事業の法的分離）</span>によって、旧一般電気事業者各社は持株会社体制へ移行しました{{% cite "enecho_reform" %}}。
 
 <div style="position:relative;padding-left:28px;margin:24px 0;border-left:3px solid #1565c0;">
@@ -452,8 +457,6 @@ new Chart(document.getElementById('pie-demand-okiden'),{type:'doughnut',
 </tbody>
 </table>
 </div>
-
-
 
 ## GeoGuessr視点のワンポイント
 

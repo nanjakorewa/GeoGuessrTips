@@ -12,6 +12,11 @@ galleryDir: "japan-logistics"
 
 ## [日本](/rule/asia/japan/)の物流産業の概観
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Yamato_transport_Truck_2020,10.jpg?width=420" alt="ヤマト運輸の宅配便トラック" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">ヤマト運輸の宅配便トラック。日本の宅配便市場ではヤマト・佐川急便・日本郵便が3強を形成し、年間取扱個数は50億個を超える「物流立国」の象徴的サービスとなっています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Yamato_transport_Truck_2020,10.jpg" target="_blank" rel="noopener noreferrer">Rebirth10 / Wikimedia Commons (CC BY 3.0)</a></figcaption>
+</figure>
+
 [日本](/rule/asia/japan/)の物流産業は、国内GDPの約5%を占める巨大な社会インフラです。宅配便（BtoC・CtoC）、特積み（BtoB）、港湾運送、倉庫、フォワーディングなど多層的な構造を持ち、EC（電子商取引）の拡大や少子高齢化に伴うドライバー不足（いわゆる「<span style="font-weight:700">2024年問題</span>」{{% cite "mlit_2024" %}}）という大きな転換期にあります。
 
 <div class="stat-grid">

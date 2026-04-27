@@ -8,29 +8,15 @@ weight: 10
 galleryDir: "japan-semiconductor-kyushu"
 ---
 
-## 基本データ
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Wafer_with_Pentium_chips.jpg?width=420" alt="半導体ウェーハ" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">複数のチップが切り出される前のシリコンウェーハ（Pentium）。九州はTSMC・ソニー・ルネサス・三菱電機・東京エレクトロンなどが集積する「シリコンアイランド」で、CMOSイメージセンサー・先端ロジック半導体の世界的拠点です。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Wafer_with_Pentium_chips.jpg" target="_blank" rel="noopener noreferrer">Naotake Murayama / Wikimedia Commons (CC BY 2.0)</a></figcaption>
+</figure>
 
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">TSMC熊本第1工場 月産能力</p>
-    <p class="stat-card__value">5.5万</p>
-    <p class="stat-card__unit">枚（300mm・2024年12月量産開始）。国家補助金約4,760億円{{% cite "meti_semi_plan" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">ソニー CMOSセンサー世界シェア</p>
-    <p class="stat-card__value">約45</p>
-    <p class="stat-card__unit">%（スマートフォン向け・2023年）。熊本・長崎に主力工場{{% cite "sony2023" %}}{{% cite "techinsights_sony_cmos" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">ルネサス 熊本・大分 月産能力</p>
-    <p class="stat-card__value">約100万</p>
-    <p class="stat-card__unit">ウェーハ枚数/月（車載マイコン・SoC）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">TSMC熊本第2工場 稼働予定</p>
-    <p class="stat-card__value">2027</p>
-    <p class="stat-card__unit">年（6nm/4nmプロセス・国家補助金約7,320億円）</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">約45%<span class="stat-sub">（スマートフォン向け・2023年）</span>{{% cite "sony2023" %}}{{% cite "techinsights_sony_cmos" %}}</div><div class="stat-label">ソニー CMOSセンサー世界シェア</div></div>
+  <div class="stat-card"><div class="stat-num">約100万ウェーハ枚数/月<span class="stat-sub">（車載マイコン・SoC）</span></div><div class="stat-label">ルネサス 熊本・大分 月産能力</div></div>
+  <div class="stat-card"><div class="stat-num">2027年<span class="stat-sub">（6nm/4nmプロセス・国家補助金約7,320億円）</span></div><div class="stat-label">TSMC熊本第2工場 稼働予定</div></div>
 </div>
 
 ## 九州半導体クラスターの産業ネットワーク

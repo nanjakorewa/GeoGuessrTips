@@ -8,29 +8,16 @@ weight: 10
 galleryDir: "japan-combinat-keiyo"
 ---
 
-## 基本データ
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Keiyo_Industrial_Region;_2010.jpg?width=420" alt="京葉コンビナート" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">千葉県の京葉コンビナート（市原市・袖ケ浦市・千葉市など）。東京湾岸に石油化学・製鉄・火力発電所が連続して立地する日本最大級の臨海工業地帯。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Keiyo_Industrial_Region;_2010.jpg" target="_blank" rel="noopener noreferrer">Kabacchi / Wikimedia Commons (CC BY 2.0)</a></figcaption>
+</figure>
 
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">エチレン年産能力</p>
-    <p class="stat-card__value">約210</p>
-    <p class="stat-card__unit">万トン（国内1位・32%）。世界的にも上位クラス{{% cite "chisou2015" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">原油処理能力（計）</p>
-    <p class="stat-card__value">71.5</p>
-    <p class="stat-card__unit">万バレル/日（国内1位・18%）。日本の石油精製の約2割を担当{{% cite "keiyo2025" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">製造品出荷額</p>
-    <p class="stat-card__value">約10兆</p>
-    <p class="stat-card__unit">円規模（2022年経済センサス）。千葉県全体の約60%{{% cite "chiba_keiyo" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">コンビナート面積</p>
-    <p class="stat-card__value">約5,000</p>
-    <p class="stat-card__unit">ha（千葉市南部〜富津市の埋立地）。日本最大級のコンビナート</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">約210万トン<span class="stat-sub">（国内1位・32%）</span>。世界的にも上位クラス{{% cite "chisou2015" %}}</div><div class="stat-label">エチレン年産能力</div></div>
+  <div class="stat-card"><div class="stat-num">71.5万バレル/日<span class="stat-sub">（国内1位・18%）</span>。日本の石油精製の約2割を担当{{% cite "keiyo2025" %}}</div><div class="stat-label">原油処理能力（計）</div></div>
+  <div class="stat-card"><div class="stat-num">約10兆円規模<span class="stat-sub">（2022年経済センサス）</span>。千葉県全体の約60%{{% cite "chiba_keiyo" %}}</div><div class="stat-label">製造品出荷額</div></div>
+  <div class="stat-card"><div class="stat-num">約5,000ha<span class="stat-sub">（千葉市南部〜富津市の埋立地）</span>。日本最大級のコンビナート</div><div class="stat-label">コンビナート面積</div></div>
 </div>
 
 ## コンビナートの産業ネットワーク

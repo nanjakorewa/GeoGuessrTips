@@ -10,33 +10,19 @@ galleryDir: "kashima"
 
 ## 鹿島臨海工業地域の概要
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kashima_Coastal_Industrial_Region_09.jpg?width=420" alt="鹿島臨海工業地域" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">茨城県神栖市・鹿嶋市の鹿島臨海工業地域。1960年代に砂浜と松林をY字型に掘削した「Y字港」と一体で開発された国策工業地域で、製鉄・石油化学コンビナートが立地しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Kashima_Coastal_Industrial_Region_09.jpg" target="_blank" rel="noopener noreferrer">Σ64 / Wikimedia Commons (CC BY 4.0)</a></figcaption>
+</figure>
+
 鹿島臨海工業地域は、茨城県南東部の鹿嶋市・神栖市を中心とする<span style="font-weight:700">太平洋岸の重化学工業地域</span>です。1960年代に「鹿島開発計画」として国策で建設され、砂浜の海岸に<span style="font-weight:700">掘込港湾</span>（鹿島港）を造って臨海工業地帯を一から作り上げた、日本の戦後工業開発を象徴する地域です。計画区域全体の面積は約3,260haに及び、関東地域の工業地帯では鹿島臨海は最大規模を誇っています{{% cite "ibaraki_overview" %}}。
 
 鉄鋼（日本製鉄：粗鋼能力約500万トン/年）・石油化学（住友化学・三菱ケミカル）・石油精製（鹿島石油/ENEOS系：180千BD）・電力（JERA鹿島火力発電所：440万kW）が一体的に立地し、京葉コンビナートと並ぶ関東圏の素材供給基地となっています{{% cite "cant_kashima" %}}。また近年はLPガス国家備蓄基地（神栖：約20万トン）や洋上風力関連産業の集積も進んでいます。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">工業地帯面積</p>
-    <p class="stat-card__value">約3,260</p>
-    <p class="stat-card__unit">ha（計画区域全体）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">鹿島港貨物取扱量</p>
-    <p class="stat-card__value">約5,700</p>
-    <p class="stat-card__unit">万トン/年（2022年度）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">掘込港湾</p>
-    <p class="stat-card__value">鹿島港</p>
-    <p class="stat-card__unit">日本最大の掘込式港湾（水深27m）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">主要産業</p>
-    <p class="stat-card__value">鉄鋼・石化</p>
-    <p class="stat-card__unit">＋電力・LPG備蓄</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">約3,260ha<span class="stat-sub">（計画区域全体）</span></div><div class="stat-label">工業地帯面積</div></div>
+  <div class="stat-card"><div class="stat-num">約5,700万トン/年<span class="stat-sub">（2022年度）</span></div><div class="stat-label">鹿島港貨物取扱量</div></div>
+  <div class="stat-card"><div class="stat-num">鹿島港日本最大の掘込式港湾<span class="stat-sub">（水深27m）</span></div><div class="stat-label">掘込港湾</div></div>
 </div>
 
 ## 産業構造

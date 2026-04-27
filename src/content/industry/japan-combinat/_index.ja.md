@@ -115,6 +115,11 @@ galleryDir: "combinat"
 
 ## [日本](/rule/asia/japan/)のコンビナートとは
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Yokkaichi_industrial_area_in_the_night_-_panoramio.jpg?width=420" alt="四日市コンビナートの夜景" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">三重県四日市コンビナートの夜景。戦後日本の重化学工業の象徴で、現在も中部地方最大級の石油化学コンビナートとして稼働しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Yokkaichi_industrial_area_in_the_night_-_panoramio.jpg" target="_blank" rel="noopener noreferrer">ccfarmer / Wikimedia Commons (CC BY 3.0)</a></figcaption>
+</figure>
+
 「コンビナート（kombinat）」は[ロシア](/rule/asia/russia/)語に由来する言葉で、石油精製・石油化学・製鉄・電力などの施設が湾岸の埋立地に集積して、原材料・中間製品・エネルギーをパイプラインで融通し合う生産体系です。[日本](/rule/asia/japan/)では1950〜70年代の<span style="font-weight:700">高度経済成長期</span>に、政府の「新産業都市」政策のもとで全国各地に建設されました。コンビナート内の企業間でパイプラインを通じて物資を融通することで、輸送コストを年間数百億円単位で削減でき、CO₂排出削減にも役立っています。
 
 2024年時点で[日本](/rule/asia/japan/)にはエチレンプラントを持つ石油化学コンビナートが<span style="font-weight:700">8地区</span>あります{{% cite "jpca2023" %}}。これら8地区の合計エチレン生産能力は約650万トン/年（国内全体）で、世界的には[日本](/rule/asia/japan/)の石化産業の競争力は材料・高機能品での強みへと転換しています{{% cite "jpca2025" %}}。鉄鋼については高炉を持つ一貫製鉄所が東[日本](/rule/asia/japan/)・西[日本](/rule/asia/japan/)各地に立地し、2024年時点で国内粗鋼生産能力は約1億2,240万トン/年を支えています{{% cite "jisf_stats" %}}。
@@ -122,21 +127,9 @@ galleryDir: "combinat"
 ## 主要コンビナート一覧
 
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">石油化学コンビナート</p>
-    <p class="stat-card__value">8</p>
-    <p class="stat-card__unit">地区（エチレンプラント保有）{{% cite "jpca2023" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">国内エチレン年産能力</p>
-    <p class="stat-card__value">約650</p>
-    <p class="stat-card__unit">万トン（2024年）{{% cite "meti_ethylene2024" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">粗鋼生産能力（日本全体）</p>
-    <p class="stat-card__value">約12,240</p>
-    <p class="stat-card__unit">万トン（2024年）{{% cite "worldsteel2024" %}}</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">8地区<span class="stat-sub">（エチレンプラント保有）</span>{{% cite "jpca2023" %}}</div><div class="stat-label">石油化学コンビナート</div></div>
+  <div class="stat-card"><div class="stat-num">約650万トン<span class="stat-sub">（2024年）</span>{{% cite "meti_ethylene2024" %}}</div><div class="stat-label">国内エチレン年産能力</div></div>
+  <div class="stat-card"><div class="stat-num">約12,240万トン<span class="stat-sub">（2024年）</span>{{% cite "worldsteel2024" %}}</div><div class="stat-label">粗鋼生産能力（日本全体）</div></div>
 </div>
 
 | コンビナート | 所在地 | 主な産業 | 詳細 |

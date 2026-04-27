@@ -20,6 +20,11 @@ mapPins:
 
 ## 世界の穀物トレードの概観
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Combining-wheat-ahal.jpg?width=420" alt="トルクメニスタン・アハル州での小麦収穫" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">トルクメニスタン・アハル州でのコンバインによる小麦収穫風景。世界の小麦・トウモロコシ・大豆穀倉地帯ではこのような大型機械化農業が進み、ABCD（ADM・Bunge・Cargill・Louis Dreyfus）と呼ばれる4大穀物メジャーが国際流通を支配しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Combining-wheat-ahal.jpg" target="_blank" rel="noopener noreferrer">Allan Mustard / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
+
 世界の穀物・油糧種子貿易は<span style="font-weight:700">「ABCD」</span>と呼ばれる4大穀物商社（<span style="font-weight:700">A</span>rcher Daniels Midland、<span style="font-weight:700">B</span>unge、<span style="font-weight:700">C</span>argill、<span style="font-weight:700">L</span>ouis <span style="font-weight:700">D</span>reyfus Company）に加え、近年急成長した[中国](/rule/asia/china/)国営の<span style="font-weight:700">COFCO</span>を含めた5社が<span style="font-weight:700">世界貿易量の60〜70%</span>{{% cite "oxfam_grain_traders" %}}を扱うとされます{{% cite "farm_action_concentration" %}}。これらは農場〜内陸エレベーター〜輸出ターミナル〜海上輸送〜製粉/搾油〜家畜飼料/食品加工までバリューチェーンを垂直統合しています。
 
 <div class="stat-grid">

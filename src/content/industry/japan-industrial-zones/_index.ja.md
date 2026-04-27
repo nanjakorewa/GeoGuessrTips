@@ -116,26 +116,16 @@ galleryDir: "japan-industrial-zones"
 
 ## [日本](/rule/asia/japan/)の工業地帯・工業地域とは
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Keihin-Industrial-Area.jpg?width=420" alt="京浜工業地帯の空撮" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">日本最大の工業出荷額を持つ京浜工業地帯の空撮。東京湾岸の川崎・横浜・東京（大田・品川）に石油化学・製鉄・自動車・電機が高度に集積し、四大工業地帯の1つを構成しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Keihin-Industrial-Area.jpg" target="_blank" rel="noopener noreferrer">MaedaAkihiko / Wikimedia Commons (CC0)</a></figcaption>
+</figure>
+
 [日本](/rule/asia/japan/)の近代工業は、太平洋沿岸を中心に発展してきました。明治期から昭和にかけて形成された<span style="font-weight:700">四大工業地帯</span>（京浜・中京・阪神・北九州）に加え、高度経済成長期に開発された<span style="font-weight:700">工業地域</span>が「太平洋ベルト」と呼ばれる帯状の産業集積を形成しています。これらの地域は、[日本](/rule/asia/japan/)の製造業を支える重要な役割を担っています。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">四大工業地帯</p>
-    <p class="stat-card__value">4</p>
-    <p class="stat-card__unit">京浜・中京・阪神・北九州</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">主な工業地域</p>
-    <p class="stat-card__value">6</p>
-    <p class="stat-card__unit">京葉・瀬戸内・鹿島臨海・東海・北陸・関東内陸</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">製造品出荷額1位</p>
-    <p class="stat-card__value">中京</p>
-    <p class="stat-card__unit">自動車産業が牽引</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">4京浜・中京・阪神・北九州</div><div class="stat-label">四大工業地帯</div></div>
+  <div class="stat-card"><div class="stat-num">6京葉・瀬戸内・鹿島臨海・東海・北陸・関東内陸</div><div class="stat-label">主な工業地域</div></div>
 </div>
 
 ## 工業地帯・工業地域一覧

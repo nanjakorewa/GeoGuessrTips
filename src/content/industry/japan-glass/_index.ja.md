@@ -12,6 +12,11 @@ galleryDir: "japan-glass"
 
 ## [日本](/rule/asia/japan/)の板ガラス産業の概観
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/A_display_of_different_examples_of_sheet_glass,_including_explanations_of_manufacturing_techniques_through_history.jpg?width=420" alt="板ガラスの製法サンプル展示" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">歴史的な板ガラス製法のサンプル展示。日本の板ガラス産業はAGC・日本電気硝子・日本板硝子・日東紡が建築・自動車・ディスプレイ・半導体パッケージ向けに高機能ガラスを供給しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:A_display_of_different_examples_of_sheet_glass,_including_explanations_of_manufacturing_techniques_through_history.jpg" target="_blank" rel="noopener noreferrer">Kerstinfroberg / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
+
 [日本](/rule/asia/japan/)の板ガラス・特殊ガラス産業は、<span style="font-weight:700">AGC（旧旭硝子、5201）</span>、<span style="font-weight:700">[日本](/rule/asia/japan/)板硝子（NSG、5202）</span>、<span style="font-weight:700">[日本](/rule/asia/japan/)電気硝子（NEG、5214）</span>の板ガラス3社に加え、ガラス繊維（ガラスクロス）で半導体パッケージ基板を支える<span style="font-weight:700">日東紡績（3110）</span>が重要なプレーヤーです。AGCとNSGはコモディティの建築用フロートガラスから自動車用ガラスまで広く手がけ、NEGはCRTブラウン管ガラスの時代から液晶ディスプレイ用ガラス基板へ転換し、現在はガラスファイバー・医薬用バイアルなどに展開しています。日東紡は福島を拠点に、AI・半導体需要で急成長中のスペシャルガラスクロスでグローバルニッチトップの地位を築いています。世界のフロートガラス（板ガラス）はAGC・NSG・<span style="font-weight:700">米Guardian</span>・<span style="font-weight:700">仏Saint-Gobain</span>の4社で世界生産の大半を占めるという寡占構造で、[日本](/rule/asia/japan/)2社はそのうち2席を確保しています。
 
 <div class="stat-grid">

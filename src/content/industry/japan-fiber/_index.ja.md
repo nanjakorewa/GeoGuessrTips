@@ -103,13 +103,17 @@ galleryDir: "japan-fiber"
 
 ## [日本](/rule/asia/japan/)の合成繊維・炭素繊維産業の概観
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Carbon_fiber_material.jpg?width=420" alt="炭素繊維（カーボンファイバー）" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">炭素繊維（カーボンファイバー）の織物。航空機・自動車・風力発電翼など幅広い用途で需要が拡大しており、日本の東レ・帝人・三菱ケミカルが世界の高性能PAN系炭素繊維市場でトップシェアを握っています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Carbon_fiber_material.jpg" target="_blank" rel="noopener noreferrer">texdata.com / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
+
 [日本](/rule/asia/japan/)の繊維産業は、戦後の織機・紡糸技術革新により世界最大級の地位を確立しました。現在、[日本](/rule/asia/japan/)は<span style="font-weight:700">高性能繊維と炭素繊維複合材で世界をリード</span>し、とりわけ<span style="font-weight:700">炭素繊維（PAN系）の世界市場シェアの約50～60%を占める</span>{{% cite "toray_ir" %}}{{% cite "teijin_cf_capacity" %}}主要メーカーを擁しています。一方、ポリエステル・ナイロン・アクリルなどの一般合成繊維は1980年代以来、製造基盤が減少し、[中国](/rule/asia/china/)・[ベトナム](/rule/asia/vietnam/)・[インドネシア](/rule/asia/indonesia/)などへの生産シフトが進んでいます。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">3社</div><div class="stat-label">世界炭素繊維市場の50～60%を支配（東レ・帝人・三菱ケミカル）</div></div>
-<div class="stat-card"><div class="stat-num">13.5%</div><div class="stat-label">東レの全球炭素繊維市場シェア（世界1位）</div></div>
+<div class="stat-card"><div class="stat-num">13.5%</div><div class="stat-label">東レの全球炭素繊維市場シェア（売上ベース・世界1位）</div></div>
 <div class="stat-card"><div class="stat-num">約1兆円</div><div class="stat-label">東レ—ボーイング787・777X向け長期供給契約規模（2014年10年契約、Reuters報道）</div></div>
-<div class="stat-card"><div class="stat-num">特化型素材</div><div class="stat-label">日本の競争力：高強度PE・ポバール・アラミドTwaron</div></div>
 </div>
 
 ## 世界炭素繊維市場での[日本](/rule/asia/japan/)企業の支配力
@@ -173,7 +177,7 @@ galleryDir: "japan-fiber"
 
 ### 東レのボーイング787独占と世界市場での支配力
 
-東レの<span style="font-weight:700">世界炭素繊維市場シェア約13.5%（2023年、売上ベース）</span>{{% cite "cf_market_size" %}}は、ボーイング787・777X向けの長期契約に支えられています。加えて、<span style="font-weight:700">Zoltek（[米国](/rule/n_america/usa/)、2014年買収）</span>を傘下に置き{{% cite "toray_zoltek_acquisition" %}}、産業用大口生産能力を有しており、2023年時点で全球炭素繊維生産能力は<span style="font-weight:700">約54,600MT/年（Zoltek含む）</span>{{% cite "toray_ir" %}}に達しています。
+東レの<span style="font-weight:700">世界炭素繊維市場シェア約13.5%（2023年・売上ベース／世界1位）</span>{{% cite "cf_market_size" %}}は、ボーイング787・777X向けの長期契約に支えられています。なお、PAN系プリカーサーやCFRP生産能力ベースでは支配力がさらに大きく、上位10社で世界市場の約78.6%を占めます。加えて、<span style="font-weight:700">Zoltek（[米国](/rule/n_america/usa/)、2014年買収）</span>を傘下に置き{{% cite "toray_zoltek_acquisition" %}}、産業用大口生産能力を有しており、2023年時点で全球炭素繊維生産能力は<span style="font-weight:700">約54,600MT/年（Zoltek含む）</span>{{% cite "toray_ir" %}}に達しています。
 
 ## 用途別市場分布と応用
 
@@ -275,7 +279,7 @@ new Chart(document.getElementById('pie-cf-usage'), {
 <th class="col-width-1">配当履歴</th>
 </tr></thead>
 <tbody class="corp-desc">
-<tr><td>東レ</td><td>3402</td><td>世界炭素繊維市場シェア13.5%で世界1位。TORAYCA®で航空宇宙（ボーイング787独占供給）・風力・自動車向けに高強度複合材を供給。Zoltek傘下でグローバル生産能力約54,600MT/年を保有。</td><td>{{% corplink "https://www.toray.co.jp/ir/" %}}</td><td>{{% dividend "tokyo" "3402" %}}</td></tr>
+<tr><td>東レ</td><td>3402</td><td>世界炭素繊維市場シェア13.5%（売上ベース）で世界1位。TORAYCA®で航空宇宙（ボーイング787独占供給）・風力・自動車向けに高強度複合材を供給。Zoltek傘下でグローバル生産能力約54,600MT/年を保有。</td><td>{{% corplink "https://www.toray.co.jp/ir/" %}}</td><td>{{% dividend "tokyo" "3402" %}}</td></tr>
 <tr><td>三菱ケミカルグループ</td><td>4188</td><td>炭素繊維（Pyrofil/Grafilブランド）で航空・スポーツ・産業向けに展開。大竹・豊橋工場を中心に生産。米Sacramento・アイチ工場拡張（2025-2027）で大幅増産投資中。</td><td>{{% corplink "https://www.mcgc.com/ir/" %}}</td><td>{{% dividend "tokyo" "4188" %}}</td></tr>
 <tr><td>帝人</td><td>3401</td><td>Toho Tenax®で高modulus炭素繊維を供給。アラミド繊維Twaron®（防弾・保護服）でDuPont Kevlar®と世界市場を二分。CFRTP量産技術に強み。世界炭素繊維生産能力約13,900MT/年。</td><td>{{% corplink "https://www.teijin.com/ir/" %}}</td><td>{{% dividend "tokyo" "3401" %}}</td></tr>
 <tr><td>旭化成</td><td>3407</td><td>キュプラ繊維（Bemberg®）で高級ファッション向けに世界最高品質を供給。延岡を中心にポリアミド・合成繊維も製造。医療用繊維・医薬事業も展開する総合化学企業。</td><td>{{% corplink "https://www.asahi-kasei.com/ir/" %}}</td><td>{{% dividend "tokyo" "3407" %}}</td></tr>

@@ -123,33 +123,20 @@ galleryDir: "shipbuilding"
 
 ## [日本](/rule/asia/japan/)の造船業の概要
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/ImabariShipbuilding-Dockyard.JPG?width=420" alt="今治造船本社工場" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">愛媛県今治市の今治造船本社工場（来島海峡大橋取付路より）。今治造船は日本最大の造船グループで、瀬戸内海クラスターの中核として国内建造量の約3割を占めます。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:ImabariShipbuilding-Dockyard.JPG" target="_blank" rel="noopener noreferrer">妖精書士 / Wikimedia Commons (Public domain)</a></figcaption>
+</figure>
+
 [日本](/rule/asia/japan/)は[中国](/rule/asia/china/)・[韓国](/rule/asia/korea/)に次ぐ<span style="font-weight:700">世界第3位の造船国</span>です。舶用機器メーカーを含む造船関連産業には約1,000社以上が存在し、従業員数は約7.2万人（外国人を含む）であり、造船は地方経済を支える主要産業です。貿易量の<span style="font-weight:700">99.6%が海上輸送</span>に依存する[日本](/rule/asia/japan/)にとって{{% cite "mlit_maritime" %}}、造船は国家安全保障と経済の根幹を支える産業です。
 
 造船所は<span style="font-weight:700">瀬戸内海沿岸</span>に集中し、穏やかな海象・豊富な関連産業・歴史的蓄積から「造船クラスター」を形成しています。瀬戸内海沿岸に多くの主要造船所が立地しており{{% cite "mlit2026" %}}、今治造船・JMU・常石造船・大島造船所などの大手が立地しています。しかし近年は[中国](/rule/asia/china/)の台頭により、2024年の世界受注シェアは<span style="font-weight:700">わずか8%</span>まで低下しており{{% cite "mlit2026" %}}、[中国](/rule/asia/china/)が71%を占めています{{% cite "mlit2026" %}}。[日本](/rule/asia/japan/)政府は2035年に向けた「造船業再生ロードマップ」を策定し、建造量の倍増（現在の900万GTから1,800万GT目標{{% cite "mlit_roadmap" %}})と産業再編を推進しています{{% cite "mlit_roadmap" %}}。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">従業員数</p>
-    <p class="stat-card__value">約7.2万</p>
-    <p class="stat-card__unit">人（うち外国人約1.5万人・2024年）{{% cite "mlit_ship_status" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">世界受注シェア</p>
-    <p class="stat-card__value">8</p>
-    <p class="stat-card__unit">%（2024年・[中国](/rule/asia/china/)71%に対し大幅縮小）{{% cite "mlit2026" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">国内建造量</p>
-    <p class="stat-card__value">約9百万</p>
-    <p class="stat-card__unit">GT（2024年）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">2035年目標</p>
-    <p class="stat-card__value">1,800万</p>
-    <p class="stat-card__unit">GT（現在の倍増）{{% cite "mlit_roadmap" %}}</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">約7.2万人<span class="stat-sub">（うち外国人約1.5万人・2024年）</span>{{% cite "mlit_ship_status" %}}</div><div class="stat-label">従業員数</div></div>
+  <div class="stat-card"><div class="stat-num">8%<span class="stat-sub">（2024年・[中国]<span class="stat-sub">(/rule/asia/china/)</span>71%に対し大幅縮小）</span>{{% cite "mlit2026" %}}</div><div class="stat-label">世界受注シェア</div></div>
+  <div class="stat-card"><div class="stat-num">約9百万GT<span class="stat-sub">（2024年）</span></div><div class="stat-label">国内建造量</div></div>
+  <div class="stat-card"><div class="stat-num">1,800万GT<span class="stat-sub">（現在の倍増）</span>{{% cite "mlit_roadmap" %}}</div><div class="stat-label">2035年目標</div></div>
 </div>
 
 ## 国内主要造船所

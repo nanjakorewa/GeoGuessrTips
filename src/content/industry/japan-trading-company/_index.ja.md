@@ -12,6 +12,11 @@ galleryDir: "japan-trading-company"
 
 ## 商社とは何か
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Marunouchi_Park_Building_2012.JPG?width=420" alt="丸の内パークビルディング" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">東京・丸の内の丸の内パークビルディング。三菱商事本社が入居する三菱地所所有の高層ビルで、日本の総合商社（三菱・三井・伊藤忠・住友・丸紅・豊田通商）の象徴的なオフィスエリアです。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Marunouchi_Park_Building_2012.JPG" target="_blank" rel="noopener noreferrer">Kakidai / Wikimedia Commons (CC BY-SA 3.0)</a></figcaption>
+</figure>
+
 「商社」とは貿易仲介・事業投資・物流・金融機能を兼ね備えた[日本](/rule/asia/japan/)独自の企業形態です。英語では *Trading Company* と訳されますが、単なる貿易会社にとどまらず、資源開発・インフラ建設・小売・デジタルなど多岐にわたる事業を自ら手がける点が特徴的です。その事業範囲の広さから「<span style="font-weight:700">ラーメンからロケットまで</span>」と形容されることもあります。
 
 商社は大きく<span style="font-weight:700">総合商社</span>と<span style="font-weight:700">専門商社</span>に分類されます。
@@ -25,7 +30,6 @@ galleryDir: "japan-trading-company"
 特定の業種・商品分野に特化した商社です。鉄鋼専門商社（メタルワン、阪和興業など）、食品専門商社（三菱食品、伊藤忠食品など）、化学品専門商社（長瀬産業、稲畑産業など）、繊維・エレクトロニクスなど多数存在します。総合商社のグループ企業として機能するケースも多く、業界内の深い専門知識とネットワークを武器にニッチ市場で高い競争力を発揮します。
 
 <div class="stat-grid">
-<div class="stat-card"><div class="stat-num">6社</div><div class="stat-label">本ページで取り上げる総合商社</div></div>
 <div class="stat-card"><div class="stat-num">約73兆円</div><div class="stat-label">6社合計収益（2025年3月期）</div></div>
 <div class="stat-card"><div class="stat-num">約4.2兆円</div><div class="stat-label">6社合計純利益</div></div>
 <div class="stat-card"><div class="stat-num">約44万人</div><div class="stat-label">6社合計連結従業員</div></div>
@@ -188,7 +192,6 @@ galleryDir: "japan-trading-company"
 <span style="display:inline-block;width:12px;height:12px;border-radius:3px;background:#ef6c00;vertical-align:middle;margin:0 4px 0 12px;"></span> アフリカ
 <span style="display:inline-block;width:12px;height:12px;border-radius:3px;background:#9e9e9e;vertical-align:middle;margin:0 4px 0 12px;"></span> その他
 </div>
-
 
 ※ セグメント利益はFY2024（2025年3月期）決算短信ベース。住友商事・丸紅・豊田通商は公開情報の粒度に基づく推定を含む{{% cite "mc_earnings" %}}{{% cite "mitsui_earnings" %}}{{% cite "itochu_earnings" %}}{{% cite "sumitomo_earnings" %}}{{% cite "marubeni_earnings" %}}。
 

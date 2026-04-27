@@ -22,6 +22,11 @@ mapPins:
 
 ## 世界の石油産業の概観
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Aerial_Photo_of_Coryton_Oil_Refinery_-_geograph.org.uk_-_588350.jpg?width=420" alt="コリトン製油所の空撮" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">イギリス・テムズ河口のコリトン製油所空撮。世界の石油産業はExxonMobil・Shell・BP・Chevron等の国際メジャー（IOC）と国営石油会社（NOC）、独立系・トレーダー・元売りが垂直統合または分業体制で構成しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Aerial_Photo_of_Coryton_Oil_Refinery_-_geograph.org.uk_-_588350.jpg" target="_blank" rel="noopener noreferrer">terry joyce / Wikimedia Commons (CC BY-SA 2.0)</a></figcaption>
+</figure>
+
 世界の石油産業は伝統的に<span style="font-weight:700">「上流（Upstream）」「中流（Midstream）」「下流（Downstream）」</span>の3層で語られます。垂直統合された巨大企業を「<span style="font-weight:700">インテグレーテッド・メジャー</span>」と呼び、ExxonMobil・Chevron・Shell・BP・TotalEnergies・Eniなどがこれに該当します。一方、産油国の国営石油会社（NOC: National Oil Company）はサウジアラムコ・ペトロブラス・ペメックス・PetroChinaなど、独立系（Independent）はEOG ResourcesやContinental Resourcesなどです。
 
 <div class="stat-grid">

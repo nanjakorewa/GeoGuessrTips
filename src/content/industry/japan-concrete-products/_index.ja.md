@@ -12,6 +12,11 @@ galleryDir: "japan-concrete-products"
 
 ## [日本](/rule/asia/japan/)のコンクリート二次製品とは
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hume_Industries_(NZ)_Ltd_-_Hume_Pipe_Co_-_concrete_slabs_(93946).jpg?width=420" alt="ヒューム管・コンクリート二次製品" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">ヒューム工業（ニュージーランド）の工場でストックされたコンクリート二次製品。ヒューム管はオーストラリアのヒューム兄弟が発明した遠心力成型コンクリート管で、日本では日本ヒュームなどが下水管・推進管として量産しています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Hume_Industries_(NZ)_Ltd_-_Hume_Pipe_Co_-_concrete_slabs_(93946).jpg" target="_blank" rel="noopener noreferrer">Unknown / Wikimedia Commons (Public domain)</a></figcaption>
+</figure>
+
 コンクリート二次製品とは、セメント・砂・砂利・鉄筋などを<span style="font-weight:700">工場で成形・養生して出荷する既製品</span>の総称です。現場打ちコンクリートと異なり、工場の管理された環境で製造するため品質が安定し、現場の工期を大幅に短縮できます。
 
 [日本](/rule/asia/japan/)の[セメント工業](/industry/japan-cement/)が「石灰石→クリンカ→セメント」という<span style="font-weight:700">川上</span>を担うのに対し、コンクリート二次製品は「セメント→コンクリート→建設用既製品」という<span style="font-weight:700">川下</span>に位置します。製品は重量物のため輸送コストが大きく、工場は需要地（大都市圏）や港湾に近い場所に立地する傾向があります。

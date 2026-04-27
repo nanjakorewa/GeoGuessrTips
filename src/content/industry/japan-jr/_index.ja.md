@@ -12,6 +12,11 @@ galleryDir: "japan-jr"
 
 ## JR6社の成り立ち — 国鉄民営化からの歩み
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/JR_Central_SCMaglev_L0_Series_Shinkansen_201408081006.jpg?width=420" alt="JR東海 リニア中央新幹線L0系試験車" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">JR東海が開発するリニア中央新幹線L0系の試験走行（山梨実験線）。JR東海の収益柱である東海道新幹線に続く、2027年品川・名古屋間開業を目指す次世代基幹インフラです。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:JR_Central_SCMaglev_L0_Series_Shinkansen_201408081006.jpg" target="_blank" rel="noopener noreferrer">Hisagi / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
+
 1987年4月、累積債務が約37兆円に膨らんだ[日本](/rule/asia/japan/)国有鉄道（国鉄）が分割民営化され、旅客6社と貨物1社（JR貨物）が発足しました{{% cite "jnr_privatization" %}}。旅客6社のうちJR東日本・JR東海・JR西日本・JR九州の4社が株式上場を果たし、JR北海道とJR四国は国（独立行政法人 鉄道建設・運輸施設整備支援機構）が全株式を保有する非上場企業です。
 
 <div style="position:relative;padding-left:28px;margin:24px 0;border-left:3px solid #1565c0;">
@@ -244,7 +249,6 @@ JR東海のセグメント構成を見ると、新幹線が収益の大半を占
 | 国の支援 | 2021〜2025年度に1,025億円 |
 | 営業損益 | ▲130億円（2025年3月期連結） |
 | 課題 | 黒字線区が極めて限定的。四国の人口減少への対応 |
-
 
 ## 参考文献
 

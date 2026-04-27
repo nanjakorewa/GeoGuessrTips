@@ -107,33 +107,19 @@ galleryDir: "japan-cement"
 
 ## [日本](/rule/asia/japan/)のセメント工業とは
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kawara_Taiheiyo_Cement_Kawara_Plant_20110716.jpg?width=420" alt="太平洋セメント香春工場" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">福岡県香春町にある太平洋セメント香春工場。日本のセメント工業は石灰石を100%自給できる稀有な産業で、太平洋・住友大阪・宇部三菱（現UBE三菱）の3大グループが国内市場の大半を占めます。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Kawara_Taiheiyo_Cement_Kawara_Plant_20110716.jpg" target="_blank" rel="noopener noreferrer">tsuna72 / Wikimedia Commons (CC BY 2.0)</a></figcaption>
+</figure>
+
 セメントは、原料の<span style="font-weight:700">石灰石を約1,450℃のロータリーキルンで焼成</span>{{% cite "cement_assoc_overview" %}}して製造する基礎素材で、コンクリートの主成分として土木・建築の根幹を支えています。[日本](/rule/asia/japan/)のセメント工業の最大の特徴は、原料の石灰石を<span style="font-weight:700">ほぼ100%国内自給できる</span>{{% cite "limestone_assoc" %}}ことです。[日本](/rule/asia/japan/)にとって石灰石は、ほぼ唯一「自給可能な大規模地下資源」と位置付けられています{{% cite "cement_assoc_overview" %}}{{% cite "limestone_assoc" %}}。
 
 工場立地は、巨大な石灰石鉱山と一体になっているのが特徴で、<span style="font-weight:700">鉱山〜工場〜港湾</span>が短距離で連結されている景観を作り出します。秩父の武甲山、津久見の新津久見鉱山、宇部の伊佐鉱山、苅田の平尾台、藤原岳など、[日本](/rule/asia/japan/)の代表的な石灰石産地はそのままセメント工業地でもあります。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">国内セメント生産量（2024年）</p>
-    <p class="stat-card__value">約4,400</p>
-    <p class="stat-card__unit">万トン（セメント協会統計）{{% cite "cement_assoc_supply" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">国内工場数</p>
-    <p class="stat-card__value">17社28</p>
-    <p class="stat-card__unit">工場（セメント協会 会員実績）{{% cite "cement_assoc_overview" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">石灰石自給率</p>
-    <p class="stat-card__value">100</p>
-    <p class="stat-card__unit">%（年産約1.3億トン）{{% cite "limestone_assoc" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">宇部興産専用道路</p>
-    <p class="stat-card__value">31.94</p>
-    <p class="stat-card__unit">km（私道として日本最長・UBE三菱セメント所有）</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">約4,587万トン<span class="stat-sub">（2024年度・前年比▲2.8%）</span>{{% cite "cement_assoc_supply" %}}</div><div class="stat-label">国内セメント生産量</div></div>
+  <div class="stat-card"><div class="stat-num">17社28工場<span class="stat-sub">（セメント協会 会員実績）</span>{{% cite "cement_assoc_overview" %}}</div><div class="stat-label">国内工場数</div></div>
+  <div class="stat-card"><div class="stat-num">100%<span class="stat-sub">（年産約1.3億トン）</span>{{% cite "limestone_assoc" %}}</div><div class="stat-label">石灰石自給率</div></div>
 </div>
 
 ## 国内3大グループ

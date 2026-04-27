@@ -100,38 +100,21 @@ galleryDir: "japan-semiconductor"
 })();
 </script>
 
-<figure>
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Silicon_Photonics_300mm_wafer.JPG?width=720" alt="300mmシリコンウェーハ" loading="lazy" />
-  <figcaption>300mmシリコンウェーハの一例。日本は信越化学とSUMCOで世界シェアの過半を占める。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Silicon_Photonics_300mm_wafer.JPG" target="_blank" rel="noopener noreferrer">Silicon Photonics 300mm wafer / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
-</figure>
 
 ## [日本](/rule/asia/japan/)の半導体産業集積地とは
 
+<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Rapidus_factory_under_construction.jpg?width=420" alt="建設中のラピダス千歳工場" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">北海道千歳市で建設中のラピダス（Rapidus）IIM-1工場<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Rapidus_factory_under_construction.jpg" target="_blank" rel="noopener noreferrer">どういたしまして / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
+</figure>
+
 半導体製造では設計・材料・前工程・後工程の各段階が高度に専門化しており、企業が地理的に集積することでサプライチェーンの効率化が図られています。[日本](/rule/asia/japan/)は<span style="font-weight:700">材料・製造装置</span>で世界的な競争力を持ちながら、2000年代以降はファブ（前工程製造）の国際競争力が低下してきました。[日本](/rule/asia/japan/)の半導体産業は現在、材料（シリコンウェーハ・フォトレジスト・ガス）では世界シェア30〜50%を占め、製造装置では世界第2〜3位の地位を保有しています{{% cite "joga_material_survey" %}}{{% cite "meti_semi_ref" %}}。2021年以降の経済安全保障政策を契機に、TSMCの熊本誘致・ラピダス設立など国内製造能力の再建が進んでいます{{% cite "meti2023" %}}。
 
-## 基本データ
-
 <div class="stat-grid">
-  <div class="stat-card">
-    <p class="stat-card__label">国内半導体生産額</p>
-    <p class="stat-card__value">約6.5兆</p>
-    <p class="stat-card__unit">円（2025年度見込み・政府目標2030年15兆円）{{% cite "meti_semi_strategy" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">主要産業集積地</p>
-    <p class="stat-card__value">6</p>
-    <p class="stat-card__unit">地域（九州・東北・三重・広島・関東・北海道）</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">TSMC熊本第1工場</p>
-    <p class="stat-card__value">月産5.5万</p>
-    <p class="stat-card__unit">枚（300mm・2024年12月量産開始）{{% cite "meti_semi_plan" %}}</p>
-  </div>
-  <div class="stat-card">
-    <p class="stat-card__label">ラピダス（北海道千歳）</p>
-    <p class="stat-card__value">2027</p>
-    <p class="stat-card__unit">年量産目標（2025年試作ライン稼働・EUV調整中）{{% cite "meti_rapidus" %}}</p>
-  </div>
+  <div class="stat-card"><div class="stat-num">約6.5兆円<span class="stat-sub">（2025年度見込み・政府目標2030年15兆円）</span>{{% cite "meti_semi_strategy" %}}</div><div class="stat-label">国内半導体生産額</div></div>
+  <div class="stat-card"><div class="stat-num">6地域<span class="stat-sub">（九州・東北・三重・広島・関東・北海道）</span></div><div class="stat-label">主要産業集積地</div></div>
+  <div class="stat-card"><div class="stat-num">月産5.5万枚<span class="stat-sub">（300mm・2024年12月量産開始）</span>{{% cite "meti_semi_plan" %}}</div><div class="stat-label">TSMC熊本第1工場</div></div>
+  <div class="stat-card"><div class="stat-num">2027年量産目標<span class="stat-sub">（2025年試作ライン稼働・EUV調整中）</span>{{% cite "meti_rapidus" %}}</div><div class="stat-label">ラピダス（北海道千歳）</div></div>
 </div>
 
 <figure>
