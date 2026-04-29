@@ -8,9 +8,19 @@ type: "docs"
 card_image: "pipeline.jpg"
 ---
 
+<div style="display:flex;gap:2rem;align-items:flex-start;flex-wrap:wrap;">
+<div style="flex:1;min-width:280px;">
+
 ## 世界の産業地帯とは
 
 このセクションでは、重化学工業のコンビナートから半導体クラスター、伝統工芸の産地まで、日本各地の産業集積を<span style="font-weight:700">企業構成・歴史的背景・市場構造</span>という視点から少し深掘りしてみます。そのため、<span style="font-weight:700">ジオゲッサーとはあまり関係ない内容も多いかも</span>しれませんが、ご容赦ください。
+
+</div>
+<div style="flex:0 0 500px;max-width:100%;margin-top:3.5rem;">
+<iframe width="440" height="248" src="https://www.youtube.com/embed/eiEB7hwCPpo" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius:8px;width:100%;aspect-ratio:16/9;height:auto;"></iframe>
+<p style="font-size:0.75rem;color:#888;margin-top:0.4rem;text-align:center;">むかし自分がしゃべった動画です</p>
+</div>
+</div>
 
 <div class="ind-section-label">工業地域</div>
 
