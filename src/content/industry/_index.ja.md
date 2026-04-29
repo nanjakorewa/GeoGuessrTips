@@ -22,22 +22,6 @@ card_image: "pipeline.jpg"
 </div>
 </div>
 
-<div class="ind-section-label">工業地域</div>
-
-<div class="ind-card-grid">
-
-<a class="ind-card" href="/industry/japan-industrial-zones/">
-<img class="ind-card-thumb" src="/images/industry/japan-industrial-zones/kurashiki_city_mizushima_industrial.jpg" alt="工業地帯" loading="lazy" />
-<div class="ind-card-body">
-<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
-<div class="ind-card-title">日本の工業地帯・工業地域一覧</div>
-<div class="ind-card-desc">四大工業地帯＋主要工業地域の解説（鹿島臨海・瀬戸内）</div>
-<span class="ind-card-stat">太平洋ベルト全域</span>
-</div>
-</a>
-
-</div>
-
 <div class="ind-section-label">産業クラスター — 日本</div>
 
 <div class="ind-card-grid">
@@ -299,6 +283,22 @@ card_image: "pipeline.jpg"
 <div class="ind-card-title">インスタントラーメンの世界戦争</div>
 <div class="ind-card-desc">日清vs東洋水産の時価総額逆転、農心の台頭、先行者利益の構造</div>
 <span class="ind-card-stat">世界年間消費 約1,231億食</span>
+</div>
+</a>
+
+</div>
+
+<div class="ind-section-label">工業地域</div>
+
+<div class="ind-card-grid">
+
+<a class="ind-card" href="/industry/japan-industrial-zones/">
+<img class="ind-card-thumb" src="/images/industry/japan-industrial-zones/kurashiki_city_mizushima_industrial.jpg" alt="工業地帯" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">日本の工業地帯・工業地域一覧</div>
+<div class="ind-card-desc">四大工業地帯＋主要工業地域の解説（鹿島臨海・瀬戸内）</div>
+<span class="ind-card-stat">太平洋ベルト全域</span>
 </div>
 </a>
 
