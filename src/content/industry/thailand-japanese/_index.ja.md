@@ -371,7 +371,6 @@ galleryDir: "thailand-japanese"
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 jetro_thailand_2024survey: JETRO「タイ日系企業進出動向調査 2024年度（2025年2月）」<https://www.jetro.go.jp/world/reports/2025/01/32a9472f08549876.html>

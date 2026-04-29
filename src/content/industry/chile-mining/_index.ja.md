@@ -341,7 +341,6 @@ new Chart(document.getElementById('pie-chile-mines'), {
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 cochilco_2024: Cochilco（Comisión Chilena del Cobre）「Chilean copper production breaks downward trend and closes 2024 with 4.9% growth」<https://www.cochilco.cl/>

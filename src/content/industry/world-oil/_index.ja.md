@@ -237,7 +237,6 @@ LNG（液化天然ガス）は−162℃まで冷却して体積を約1/600に圧
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 companiesmarketcap_oil: companiesmarketcap.com「Largest oil and gas companies by market cap」<https://companiesmarketcap.com/oil-gas/largest-oil-and-gas-companies-by-market-cap/>

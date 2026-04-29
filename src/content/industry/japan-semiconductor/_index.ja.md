@@ -448,7 +448,6 @@ new Chart(document.getElementById('pie-wafer'), {
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 disco_ir: 株式会社ディスコ「会社情報」<https://www.disco.co.jp/eg/corporate/history/index.html>

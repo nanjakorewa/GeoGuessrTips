@@ -96,7 +96,6 @@ METI資料によれば、レアメタル備蓄の対象は以下の34鉱種（55
 - <span style="font-weight:700">国際連携</span>：2025年10月の[日米](/rule/asia/japan/)重要鉱物枠組み、2026年2月の日米欧共同声明による多国間貿易イニシアティブ、日本・[スペイン](/rule/europe/spain/)・[韓国](/rule/asia/south_korea/)の銅TC/RC共同声明。
 - <span style="font-weight:700">第7次エネルギー基本計画（令和7年2月閣議決定）</span>：ベースメタル自給率37.7%→2030年80%以上、レアメタルは2030年時点で国内供給必要量の確保を目指す。国産海洋鉱物資源（海底熱水鉱床・コバルトリッチクラスト・マンガン団塊・レアアース泥）の採鉱・揚鉱・選鉱技術確立も盛り込まれた。
 
-## 参考文献
 
 {{% references %}}
 meti_raremetal_stockpile: 経済産業省「レアメタル備蓄制度の見直しについて（参考）」（産業構造審議会 資料5-2）<https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/>

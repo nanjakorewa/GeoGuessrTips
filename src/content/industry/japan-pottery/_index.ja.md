@@ -437,7 +437,6 @@ galleryDir: "japan-pottery"
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 ibiden_ir: イビデン株式会社「会社概要」<https://www.ibiden.co.jp/company/profile/>

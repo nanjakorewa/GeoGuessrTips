@@ -297,7 +297,6 @@ graph LR
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 cement_assoc_overview: 一般社団法人セメント協会「セメント産業の概要」<https://www.jcassoc.or.jp/cement/1jpn/jc.html>

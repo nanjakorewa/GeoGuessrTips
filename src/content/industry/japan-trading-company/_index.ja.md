@@ -379,7 +379,6 @@ new Chart(document.getElementById('bar-compare'), {
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 mc_ir: 三菱商事「投資家情報」<https://www.mitsubishicorp.com/jp/ja/ir/>

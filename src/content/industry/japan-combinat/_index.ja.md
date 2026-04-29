@@ -281,7 +281,6 @@ galleryDir: "combinat"
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 jisf_stats: 日本鉄鋼連盟「鉄鋼統計 生産・時系列」<https://www.jisf.or.jp/data/jikeiretsu/seisan.html>

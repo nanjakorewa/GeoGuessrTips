@@ -410,7 +410,6 @@ graph LR
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 fukuoka_h2: 福岡県「水素グリーン成長戦略」<https://www.pref.fukuoka.lg.jp/contents/suiso-greengrowth.html>

@@ -287,7 +287,6 @@ new Chart(document.getElementById('pie-cf-usage'), {
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 toray_ir: 東レ株式会社「IR資料室・統合報告書」<https://www.toray.co.jp/ir/library/annual/>

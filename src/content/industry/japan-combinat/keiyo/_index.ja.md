@@ -366,7 +366,6 @@ new Chart(document.getElementById('pie-refinery'), {
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 chisou2015: 千葉県ほか「京葉臨海コンビナート国際競争力強化」国家戦略特区WG提出資料（2015年11月）<https://www.chisou.go.jp/tiiki/kokusentoc_wg/h27/151116chibapref_shiryou02.pdf>

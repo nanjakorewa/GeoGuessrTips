@@ -364,7 +364,6 @@ EC物流・自動車部品のサプライチェーン物流・半導体関連物
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 japanpost_ir: 日本郵政「投資家情報」<https://www.japanpost.jp/ir/>

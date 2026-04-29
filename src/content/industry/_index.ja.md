@@ -400,7 +400,6 @@ card_image: "pipeline.jpg"
 
 </div>
 
-## 参考文献
 
 {{% references %}}
 meti_industrial_census: 経済産業省「工業統計調査」<https://www.meti.go.jp/statistics/tyo/kougyo/>

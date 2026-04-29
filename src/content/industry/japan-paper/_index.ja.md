@@ -293,7 +293,6 @@ galleryDir: "japan-paper"
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 daio_locations: 大王製紙株式会社「事業所一覧」<https://www.daio-paper.co.jp/company/base/>

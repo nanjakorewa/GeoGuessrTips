@@ -224,7 +224,6 @@ galleryDir: "taiwan-semiconductor"
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 trendforce_foundry: TrendForce「2Q25 Foundry Revenue Surges 14.6% to Record High, TSMC's Market Share Hits 70%」<https://www.trendforce.com/presscenter/news/20250901-12691.html>

@@ -159,7 +159,6 @@ JASM（Japan Advanced Semiconductor Manufacturing）はTSMCが日本で設立し
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 jasm2024: Japan Advanced Semiconductor Manufacturing株式会社「会社概要」（2024年）<https://www.tsmc.com/static/japanese/careers/jasm/index.html>

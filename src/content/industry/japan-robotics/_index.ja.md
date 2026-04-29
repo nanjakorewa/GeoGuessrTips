@@ -309,7 +309,6 @@ new Chart(document.getElementById('pie-robot-region'), {
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 ifr_2025_report: International Federation of Robotics (IFR)「World Robotics 2025 Report – Industrial Robots」 <https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles-over-10-years>

@@ -349,7 +349,6 @@ graph LR
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 jogmec_w_flow: JOGMEC「鉱物資源マテリアルフロー2018 タングステン (W)」<https://mric.jogmec.go.jp/wp-content/uploads/2019/03/material_flow2018_W.pdf>

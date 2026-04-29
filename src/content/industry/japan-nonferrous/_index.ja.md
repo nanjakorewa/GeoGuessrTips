@@ -371,7 +371,6 @@ new Chart(document.getElementById('pie-escrap'), {
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 dowa_metalmine: DOWAホールディングス株式会社「製錬事業」<https://hd.dowa.co.jp/ja/product/metalmine.html>

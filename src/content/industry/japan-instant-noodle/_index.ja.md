@@ -346,7 +346,6 @@ new Chart(document.getElementById('bar-nissin-toyo'), {
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 wina_demand: 世界ラーメン協会（WINA）「世界総需要 — 国/地域別」<https://instantnoodles.org/noodles/demand/table/>

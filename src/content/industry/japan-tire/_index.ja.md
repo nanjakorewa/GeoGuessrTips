@@ -256,7 +256,6 @@ EV向けタイヤは、<span style="font-weight:700">高い静粛性・転がり
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 bridgestone_official: Bridgestone Corporation「企業情報：ブリヂストン東京本社」<https://www.bridgestone.com/corporate/locations/tire/japan.html>

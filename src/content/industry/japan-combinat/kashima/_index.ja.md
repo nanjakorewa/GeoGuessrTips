@@ -170,7 +170,6 @@ galleryDir: "japan-combinat-kashima"
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 ibaraki2022: 不毛の大地を甦らせた鹿島港の開発　<https://www.jcca.or.jp/infra70n/files/PJNO_08.pdf>

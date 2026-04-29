@@ -620,7 +620,6 @@ graph LR
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 jacds_stats: 日本チェーンドラッグストア協会「ドラッグストア実態調査」<https://www.jacds.gr.jp/data/>

@@ -357,7 +357,6 @@ galleryDir: "japan-food-combinat"
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 cfc: 千葉食品コンビナート協議会「千葉食品コンビナートについて」<https://www.chiba-syokuhin.org/pages/17/>

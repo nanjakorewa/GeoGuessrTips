@@ -190,7 +190,6 @@ CRU Internationalの肥料価格指数は2022年3月25日に<span style="font-we
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 ifa_outlook_2025: IFA「Short-Term Fertilizer Outlook 2024-2025」<https://www.fertilizer.org/publications/short-term-outlook>

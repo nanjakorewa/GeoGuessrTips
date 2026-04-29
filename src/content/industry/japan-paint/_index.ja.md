@@ -199,7 +199,6 @@ galleryDir: "japan-paint"
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 jpma_stats: 日本塗料工業会（JPMA）「統計・需要実績」<https://www.toryo.or.jp/jp/data/index.html>

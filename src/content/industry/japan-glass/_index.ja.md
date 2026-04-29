@@ -138,7 +138,6 @@ galleryDir: "japan-glass"
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 agc_company: AGC株式会社「会社概要」<https://www.agc.com/company/profile/>

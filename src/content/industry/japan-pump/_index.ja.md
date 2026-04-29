@@ -351,7 +351,6 @@ graph LR
 </table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 toyama_pump: 外山技術士事務所「ポンプ業界の動向と将来展望」（2023年3月10日）<https://yuksoto.sakura.ne.jp/2303101%20Pump_Gyoukai_Dohkou_Tenbou.pdf>

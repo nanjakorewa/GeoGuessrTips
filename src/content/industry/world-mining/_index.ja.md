@@ -184,7 +184,6 @@ LMEは1877年設立の世界最古の金属取引所で、<span style="font-weig
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 miningcom_top50: MINING.COM「TOP 50 biggest mining companies」<https://www.mining.com/top-50-biggest-mining-companies/>

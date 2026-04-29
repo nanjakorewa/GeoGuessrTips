@@ -144,7 +144,6 @@ new Chart(document.getElementById('pie-bearing'), {
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 nsk_ir: NSK（日本精工）「投資家向け情報」<https://www.nsk.com/jp/investors/>

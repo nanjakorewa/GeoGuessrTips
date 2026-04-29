@@ -167,7 +167,6 @@ graph LR
 
 セメント大手の中では、<span style="font-weight:700">太平洋セメントグループがジオスターを傘下に持つ</span>など、川上と川下の垂直統合も一部見られます。一方で多くの二次製品メーカーは独立系であり、セメントは複数社から調達しています。
 
-## 参考文献
 
 {{% references %}}
 nihon_hume_company: 日本ヒューム株式会社「会社情報」<https://www.nipponhume.co.jp/company/>

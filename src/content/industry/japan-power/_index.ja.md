@@ -487,7 +487,6 @@ new Chart(document.getElementById('pie-demand-okiden'),{type:'doughnut',
 </div>
 </div>
 
-## 参考文献
 
 {{% references %}}
 enecho_reform: 経済産業省 資源エネルギー庁「電力システム改革の進捗」<https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/electricity_liberalization/>

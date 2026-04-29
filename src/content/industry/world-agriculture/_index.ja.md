@@ -183,7 +183,6 @@ CBOT（シカゴ商品取引所、現CME Group）は1848年設立で{{% cite "cb
 </tbody></table>
 </div>
 
-## 参考文献
 
 {{% references %}}
 oxfam_grain_traders: Oxfam「Cereal Secrets: The world's largest grain traders and global agriculture」<https://policy-practice.oxfam.org/resources/cereal-secrets-the-worlds-largest-grain-traders-and-global-agriculture-237131/>
