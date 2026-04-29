@@ -639,3 +639,4 @@ mlit_naiko: 国土交通省 海事局「内航海運の現状と課題」<https:
 mlit_ports: 国土交通省 港湾局「日本の港湾」<https://www.mlit.go.jp/kowan/kowan_fr1_000006.html>
 mlit_shipping_transport: 国土交通省「海事関係資料（内航海運・モーダルシフト）」<https://www.mlit.go.jp/sogoseisaku/transport/content/001840830.pdf>
 mlit_tonnagetax: 国土交通省 海事局「トン数標準税制」<https://www.mlit.go.jp/maritime/maritime_tk5_000020.html>
+{{% /references %}}

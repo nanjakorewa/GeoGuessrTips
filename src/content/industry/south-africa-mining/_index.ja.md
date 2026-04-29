@@ -230,4 +230,5 @@ usgs_chromium_2025: USGS「Mineral Commodity Summaries 2025 — Chromium」<http
 usgs_manganese_2025: USGS「Mineral Commodity Summaries 2025 — Manganese」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-manganese.pdf>
 usgs_pgm_elements: USGS「Platinum-group elements in southern Africa: mineral inventory and an assessment of undiscovered mineral resources」<https://pubs.usgs.gov/publication/sir20105090Q>
 witwatersrand_history: South African History Online「Discovery of the Gold in 1884」<https://sahistory.org.za/article/discovery-gold-1884>
-britannica_kimberley: Britannica「Big Hole」<http
+britannica_kimberley: Britannica「Big Hole」<https://www.britannica.com/place/Big-Hole>
+{{% /references %}}

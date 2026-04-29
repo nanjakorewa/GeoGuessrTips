@@ -345,4 +345,5 @@ new Chart(document.getElementById('pie-chile-mines'), {
 
 {{% references %}}
 cochilco_2024: Cochilco（Comisión Chilena del Cobre）「Chilean copper production breaks downward trend and closes 2024 with 4.9% growth」<https://www.cochilco.cl/>
-usgs_mcs2025_copper: USGS「Miner
+usgs_mcs2025_copper: USGS「Mineral Commodity Summaries 2025 — Copper」<https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-copper.pdf>
+{{% /references %}}
