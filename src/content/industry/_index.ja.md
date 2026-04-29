@@ -18,7 +18,7 @@ card_image: "pipeline.jpg"
 </div>
 <div style="flex:0 0 500px;max-width:100%;margin-top:3.5rem;">
 <iframe width="440" height="248" src="https://www.youtube.com/embed/eiEB7hwCPpo" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius:8px;width:100%;aspect-ratio:16/9;height:auto;"></iframe>
-<p style="font-size:0.75rem;color:#888;margin-top:0.4rem;text-align:center;">むかし自分がしゃべった動画です</p>
+<p style="font-size:0.75rem;color:#888;margin-top:0.4rem;text-align:center;">むかし自分がしゃべった動画、産業の地域性をやや無理やりジオゲッサーに紐づける<br/>※自分のチャンネルではないです</p>
 </div>
 </div>
 
