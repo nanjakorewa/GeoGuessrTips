@@ -261,6 +261,13 @@ galleryDir: "japan-pottery"
 - <span style="font-weight:700">作家産地</span>（笠間・益子・清水）：個人作家の工房が集積。陶芸教室・ギャラリーが観光資源に
 - <span style="font-weight:700">伝統継承産地</span>（備前・萩・信楽）：手仕事の技法を守りつつ、個性的な作品を国内外に発信
 
+<aside class="ind-column ind-column--geotip">
+<div class="ind-column__title">焼き物の街を見分ける</div>
+
+- <span style="font-weight:700">登り窯／煙突</span>が住宅街に紛れている{{% ex "https://maps.app.goo.gl/Jc1sEUWFLE5pH3aV8" %}}
+
+</aside>
+
 ## 焼き物から生まれたハイテク産業 — セラミックス技術の系譜
 
 [日本](/rule/asia/japan/)の焼き物産地で培われた窯業技術は、近代以降に<span style="font-weight:700">ファインセラミックス（精密陶磁器）</span>へと進化し、電子部品・半導体パッケージ・環境装置といったハイテク分野を生み出しました。特に愛知県の瀬戸・常滑・名古屋地区は、伝統窯業の集積が近代的セラミックス産業へ転換した好例となっています。

@@ -180,6 +180,16 @@ galleryDir: "japan-paper"
 
 愛媛県四国中央市は、<span style="font-weight:700">紙関連製品の製造品出荷額が約5,100億円超で日本一</span>を20年連続で維持している、文字通り[日本](/rule/asia/japan/)の紙の中心地です{{% cite "shikokuchuo_paper" %}}。市内には大王製紙三島工場をはじめ、丸住製紙、リンテック、ユニ・チャームなどの主要工場が立ち並びます。書道用紙の全国シェアは約7割に達し、ティッシュ・トイレットペーパーなど家庭紙の生産でも全国有数です。
 
+<aside class="ind-column ind-column--geotip">
+<div class="ind-column__title">製紙工場の見分け方</div>
+
+ストリートビューで以下が揃っていたら製紙工場街の可能性大
+
+- <span style="font-weight:700">複数の煙突から立ち上る白い水蒸気</span>（ボイラーと黒液回収炉）{{% ex "https://maps.app.goo.gl/VxjXTjydkGZ47suc7" %}}
+- 港湾／河川沿いの<span style="font-weight:700">巨大な原木置き場（ウッドヤード）</span>{{% ex "https://maps.app.goo.gl/Up3mHhX7wzPLKaV77" %}}
+
+</aside>
+
 ## 古紙リサイクルとサーキュラーエコノミー
 
 [日本](/rule/asia/japan/)の古紙利用率は<span style="font-weight:700">66.6%（2024年）</span>で世界トップクラスであり、特に板紙（段ボール用紙など）では<span style="font-weight:700">95%前後</span>にまで達しています{{% cite "jpa_recycle" %}}。これは、自治体・古紙問屋・製紙メーカーが連携した[日本](/rule/asia/japan/)独自の回収システムによるものです。

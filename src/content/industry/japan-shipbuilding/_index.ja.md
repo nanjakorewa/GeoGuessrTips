@@ -134,7 +134,7 @@ galleryDir: "shipbuilding"
 
 <div class="stat-grid">
   <div class="stat-card"><div class="stat-num">約7.2万人<span class="stat-sub">（うち外国人約1.5万人・2024年）</span>{{% cite "mlit_ship_status" %}}</div><div class="stat-label">従業員数</div></div>
-  <div class="stat-card"><div class="stat-num">8%<span class="stat-sub">（2024年・[中国]<span class="stat-sub">(/rule/asia/china/)</span>71%に対し大幅縮小）</span>{{% cite "mlit2026" %}}</div><div class="stat-label">世界受注シェア</div></div>
+  <div class="stat-card"><div class="stat-num">8%<span class="stat-sub">（2024年）</span>{{% cite "mlit2026" %}}</div><div class="stat-label">世界受注シェア</div></div>
   <div class="stat-card"><div class="stat-num">約9百万GT<span class="stat-sub">（2024年）</span></div><div class="stat-label">国内建造量</div></div>
   <div class="stat-card"><div class="stat-num">1,800万GT<span class="stat-sub">（現在の倍増）</span>{{% cite "mlit_roadmap" %}}</div><div class="stat-label">2035年目標</div></div>
 </div>
@@ -210,6 +210,15 @@ galleryDir: "shipbuilding"
 - <span style="font-weight:700">瀬戸内海連携の加速</span>: 近年は今治造船を中心に、JMUとの共同出資（NSY）など業界再編が進行中
 - <span style="font-weight:700">海事都市今治</span>: 造船所だけでなく、[日本](/rule/asia/japan/)最大の外航船主（オーナー）が今治に集積。「作る側」と「買う側」が至近距離にあるため、仕様の擦り合わせや迅速な意思決定が可能
 
+<aside class="ind-column ind-column--geotip">
+<div class="ind-column__title">造船所が見えたら瀬戸内と九州北部の可能性が高い</div>
+
+- <span style="font-weight:700">巨大なゴライアスクレーン</span>が空に大きく張り出す
+- 来島海峡大橋・しまなみ海道沿いの島々（大島・伯方島・大三島・因島）{{% ex "https://maps.app.goo.gl/zmE3H6b8oCwiorZH8" %}}
+- 長崎の三菱重工業長崎造船所付近{{% ex "https://maps.app.goo.gl/Apq8eSZ6RN1Jxj337" %}}
+
+</aside>
+
 ## 造船業の構造変化
 
 <div class="process-flow">
@@ -221,13 +230,13 @@ galleryDir: "shipbuilding"
   <div class="process-arrow">→</div>
   <div class="process-step">
     <span class="process-step__label">1980〜2000年代</span>
-    <span class="process-step__name">[韓国](/rule/asia/korea/)に首位譲渡</span>
+    <span class="process-step__name">韓国に首位譲渡</span>
     <span class="process-step__temp">再編・統合</span>
   </div>
   <div class="process-arrow">→</div>
   <div class="process-step">
     <span class="process-step__label">2010年代〜</span>
-    <span class="process-step__name">[中国](/rule/asia/china/)が首位に</span>
+    <span class="process-step__name">中国が首位に</span>
     <span class="process-step__temp">日本は3位</span>
   </div>
   <div class="process-arrow">→</div>

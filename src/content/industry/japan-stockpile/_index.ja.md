@@ -343,20 +343,7 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 <tr>
 <td>三井物産</td>
 <td>{{% minkabu 8031 %}}</td>
-<td>大手総合商社。LNG・石油の上流開発・中流・販売で国際的なプレゼンスを有する。オーストラリア・中東でのエネルギー権益保有で備蓄制度の供給源確保に関与。</td>
-<td>{{% corplink "https://www.mitsui.com/jp/en/ir/index.html" %}}</td>
-<td>{{% dividend "tokyo" "8031" %}}</td>
-</tr>
-<tr>
-<td>伊藤忠商事</td>
-<td>{{% minkabu 8001 %}}</td>
-<td>大手総合商社。国際エネルギー事業とLNG調達で主要プレイヤー。シェール石油・ガスプロジェクトにも参加。石油備蓄の安定供給確保を支援する。</td>
-<td>{{% corplink "https://www.itochu.co.jp/en/ir/index.html" %}}</td>
-<td>{{% dividend "tokyo" "8001" %}}</td>
-</tr>
-</tbody>
-</table>
-</div>
+<td>大手総合商社。LNG・石油の上流開発・中流・販売で国際的なプレゼンスを有する。オーストラリア
 
 ## 参考文献
 

@@ -882,6 +882,132 @@ if (data.galleryDir) {
     [data-theme="dark"] .stat-card .stat-num,
     [data-theme="dark"] .stat-card__value { color: #f1c27a; }
 
+    /* ---- Inline columns (GeoGuessr Tips / overseas compare / trivia) ---- */
+    .ind-column {
+      position: relative;
+      margin: 22px 0;
+      padding: 14px 18px 14px 22px;
+      background: #fdf7ee;
+      border: 1px solid #f0d9b5;
+      border-radius: 8px;
+      box-shadow: 0 1px 4px rgba(170,120,40,0.07);
+      font-size: 0.95em;
+      line-height: 1.7;
+      color: #4a3c20;
+    }
+    .ind-column::before {
+      content: "";
+      position: absolute;
+      top: 8px; bottom: 8px; left: 0;
+      width: 4px;
+      background: linear-gradient(180deg, var(--ind-accent, #c66417), #d6953c);
+      border-radius: 2px;
+    }
+    .ind-column__title {
+      font-weight: 700;
+      font-size: 0.95em;
+      color: var(--ind-primary, #8a4f0f);
+      margin: 0 0 6px;
+      letter-spacing: 0.02em;
+    }
+    .ind-column p {
+      margin: 4px 0;
+    }
+    .ind-column p + p {
+      margin-top: 8px;
+    }
+    /* Variants */
+    /* GeoGuessr Tips — bulb tilts and pokes out of the frame */
+    .ind-column--geotip {
+      background: linear-gradient(135deg, #fffcf3 0%, #fef5e2 100%);
+      border: 1px solid #f0d9a3;
+      border-left: 3px solid #e8a735;
+      border-radius: 0;
+      box-shadow: 0 2px 8px rgba(228, 162, 60, 0.06);
+      padding: 16px 20px 16px 68px;
+      margin: 22px 0;
+      color: #5a3d0e;
+      position: relative;
+      overflow: visible;
+    }
+    .ind-column--geotip::before {
+      content: "";
+      position: absolute;
+      top: 12px;
+      left: 14px;
+      width: 40px;
+      height: 40px;
+      background: url('/images/icons/lightbulb-tl.svg') no-repeat center center;
+      background-size: contain;
+      pointer-events: none;
+    }
+    .ind-column--geotip::after { content: none; }
+    .ind-column--geotip .ind-column__title {
+      color: #b65f0e;
+      font-size: 0.95em;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      margin-bottom: 6px;
+    }
+    .ind-column--geotip p,
+    .ind-column--geotip ul,
+    .ind-column--geotip ol {
+      color: #5a3d0e;
+    }
+    .ind-column--geotip ul {
+      padding-left: 1.2em;
+      margin: 6px 0;
+    }
+    .ind-column--geotip li {
+      margin: 4px 0;
+    }
+    @media (max-width: 600px) {
+      .ind-column--geotip {
+        padding: 14px 16px 14px 56px;
+      }
+      .ind-column--geotip::before {
+        top: 10px;
+        left: 12px;
+        width: 34px;
+        height: 34px;
+      }
+    }
+
+    /* Overseas comparison column (preserved for future use) */
+    .ind-column--world {
+      background: #f4f1ec;
+      border-color: #d8cdba;
+    }
+    .ind-column--world::before {
+      background: linear-gradient(180deg, #6b7280, #9ca3af);
+    }
+    .ind-column--world .ind-column__title { color: #44403c; }
+    [data-theme="dark"] .ind-column {
+      background: #2a241a;
+      border-color: #56432a;
+      color: #e5d4ae;
+    }
+    [data-theme="dark"] .ind-column--geotip {
+      background: linear-gradient(135deg, #3a2d12 0%, #2c220e 100%);
+      border-color: #6b4f1f;
+      border-left-color: #d4952a;
+      color: #f3e2bd;
+    }
+    [data-theme="dark"] .ind-column--geotip .ind-column__title { color: #fbcd7c; }
+    [data-theme="dark"] .ind-column--geotip p,
+    [data-theme="dark"] .ind-column--geotip ul,
+    [data-theme="dark"] .ind-column--geotip ol {
+      color: #f3e2bd;
+    }
+    [data-theme="dark"] .ind-column--geotip::after {
+      border-color: rgba(251, 205, 124, 0.35);
+    }
+    [data-theme="dark"] .ind-column--world {
+      background: #25241f;
+      border-color: #4a4736;
+      color: #d6cfb6;
+    }
+
     /* ---- Process flow diagram ---- */
     .process-flow {
       display: flex;
