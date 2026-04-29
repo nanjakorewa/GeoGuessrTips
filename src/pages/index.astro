@@ -7,8 +7,7 @@ import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
 import type { Language } from "@lib/i18n-utils";
-import fs from "node:fs";
-import nodePath from "node:path";
+import HeroSlideshow from "@components/HeroSlideshow.astro";
 
 const lang: Language = "ja";
 const site = "https://geopinning.space";
@@ -71,89 +70,6 @@ for (const col of allCollections) {
 const ruleCards = topicCards.filter((c) => c.isRule).sort((a, b) => a.weight - b.weight);
 const otherCards = topicCards.filter((c) => !c.isRule).sort((a, b) => a.weight - b.weight);
 
-// Hero slideshow: collect images from rule pages and industry galleries
-interface HeroSlide {
-  image: string;
-  title: string;
-  url: string;
-}
-
-const ruleSlides: HeroSlide[] = [];
-const industrySlides: HeroSlide[] = [];
-
-// Collect images from rule pages (country/region directories)
-const ruleEntries = await getCollection("rule");
-for (const entry of ruleEntries) {
-  if (extractLangFromId(entry.id) !== lang) continue;
-  if (entry.data.draft) continue;
-
-  // Derive the country directory path from the entry id
-  // e.g. "africa/algeria/_index.ja" -> public/rule/africa/algeria/
-  const idParts = entry.id.split("/");
-  // Remove the filename part (_index.ja.md etc)
-  const dirParts = idParts.slice(0, -1);
-  if (dirParts.length === 0) continue;
-
-  const dirPath = nodePath.resolve("public", "rule", ...dirParts);
-  if (!fs.existsSync(dirPath)) continue;
-
-  // Only get scenic photos: JPG/WebP only (PNG is mostly screenshots,
-  // license plates, road signs, logos, etc.)
-  const images = fs.readdirSync(dirPath)
-    .filter((f: string) => {
-      if (!/\.(jpg|jpeg|webp)$/i.test(f)) return false;
-      try {
-        const stat = fs.statSync(nodePath.join(dirPath, f));
-        return stat.size > 20000; // skip images smaller than 20KB
-      } catch { return false; }
-    });
-  if (images.length === 0) continue;
-
-  const slug = extractSlugFromId(entry.id);
-  const url = buildUrl("rule", slug, lang);
-
-  for (const img of images) {
-    ruleSlides.push({
-      image: `/rule/${dirParts.join("/")}/${img}`,
-      title: entry.data.title,
-      url,
-    });
-  }
-}
-
-// Collect gallery images from industry pages (1 representative per page)
-const industryEntries = await getCollection("industry");
-for (const entry of industryEntries) {
-  if (extractLangFromId(entry.id) !== lang) continue;
-  if (entry.data.draft) continue;
-  const galleryDir = entry.data.galleryDir;
-  if (!galleryDir) continue;
-
-  const dirPath = nodePath.resolve("public", "images", "industry", galleryDir);
-  if (!fs.existsSync(dirPath)) continue;
-
-  const images = fs.readdirSync(dirPath)
-    .filter((f: string) => /\.(jpg|jpeg|png|webp)$/i.test(f));
-  if (images.length === 0) continue;
-
-  const slug = extractSlugFromId(entry.id);
-  const url = buildUrl("industry", slug, lang);
-
-  // Pick one random representative image per industry page
-  const pick = images[Math.floor(Math.random() * images.length)];
-  industrySlides.push({
-    image: `/images/industry/${galleryDir}/${pick}`,
-    title: entry.data.title,
-    url,
-  });
-}
-
-// Combine: all rule slides + industry slides
-const heroSlides: HeroSlide[] = [...ruleSlides, ...industrySlides].filter((s) => {
-  // Final safety: exclude any SVG that might have slipped through
-  return !s.image.endsWith(".svg");
-});
-
 // Recent updates
 const recentUpdates = [
   { title: "『日本の石油・LPガス備蓄基地』のページを追加しました", link: "/industry/japan-stockpile/", date: "2026-03-23" },
@@ -182,92 +98,7 @@ const recentUpdates = [
 <body>
   <header class="banner hero-surface hero-slideshow-header">
     <Navbar lang={lang} isHome={true} />
-
-    {/* Hero slideshow */}
-    <div class="hero-slideshow" aria-label="サイト内の画像スライドショー">
-      <div class="hero-slideshow__slide hero-slideshow__slide--active" aria-hidden="false"></div>
-      <div class="hero-slideshow__slide" aria-hidden="true"></div>
-      <div class="hero-slideshow__overlay"></div>
-      <div class="hero-slideshow__content">
-<a class="hero-slideshow__link" href="/">
-          <span class="hero-slideshow__link-label"></span>
-          <svg class="hero-slideshow__link-arrow" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        </a>
-      </div>
-      <div class="hero-slideshow__progress">
-        <div class="hero-slideshow__progress-bar"></div>
-      </div>
-    </div>
-    <script is:inline define:vars={{ heroSlides }}>
-      (function() {
-        const slides = heroSlides;
-        if (!slides || slides.length === 0) return;
-
-        // Shuffle (Fisher-Yates)
-        for (let i = slides.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [slides[i], slides[j]] = [slides[j], slides[i]];
-        }
-
-        const els = document.querySelectorAll('.hero-slideshow__slide');
-        const link = document.querySelector('.hero-slideshow__link');
-        const label = document.querySelector('.hero-slideshow__link-label');
-        const progressBar = document.querySelector('.hero-slideshow__progress-bar');
-        if (!els.length || !link || !label) return;
-
-        let current = 0;
-        let activeIndex = 0; // which of the two els is active
-
-        function setSlide(el, index) {
-          el.style.backgroundImage = "url('" + slides[index].image + "')";
-        }
-
-        function showSlide(index) {
-          const activeEl = els[activeIndex];
-          const nextElIndex = activeIndex === 0 ? 1 : 0;
-          const nextEl = els[nextElIndex];
-
-          setSlide(nextEl, index);
-          // Crossfade
-          activeEl.classList.remove('hero-slideshow__slide--active');
-          activeEl.setAttribute('aria-hidden', 'true');
-          nextEl.classList.add('hero-slideshow__slide--active');
-          nextEl.setAttribute('aria-hidden', 'false');
-          activeIndex = nextElIndex;
-
-          link.setAttribute('href', slides[index].url);
-          label.textContent = slides[index].title;
-
-          // Restart progress bar
-          if (progressBar) {
-            progressBar.style.animation = 'none';
-            progressBar.offsetHeight; // trigger reflow
-            progressBar.style.animation = '';
-          }
-        }
-
-        // Initial slide
-        setSlide(els[0], 0);
-        link.setAttribute('href', slides[0].url);
-        label.textContent = slides[0].title;
-
-        // Preload next image
-        function preloadNext() {
-          const next = (current + 1) % slides.length;
-          const img = new Image();
-          img.src = slides[next].image;
-        }
-
-        // Auto-rotate
-        const INTERVAL = 5000;
-        preloadNext();
-        setInterval(function() {
-          current = (current + 1) % slides.length;
-          showSlide(current);
-          preloadNext();
-        }, INTERVAL);
-      })();
-    </script>
+    <HeroSlideshow lang={lang} />
   </header>
 
   {/* Topics section */}

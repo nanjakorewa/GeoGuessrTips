@@ -6,6 +6,7 @@ import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
+import HeroSlideshow from "@components/HeroSlideshow.astro";
 import type { Language } from "@lib/i18n-utils";
 
 export function getStaticPaths() {
@@ -105,14 +106,9 @@ const otherCards = topicCards.filter((c) => !c.isRule).sort((a, b) => a.weight -
   />
 </head>
 <body>
-  <header class="banner hero-surface">
+  <header class="banner hero-surface hero-slideshow-header">
     <Navbar lang={lang} isHome={true} />
-    <div class="container section">
-      <div class="row">
-        <div class="col-lg-8 text-center mx-auto">
-        </div>
-      </div>
-    </div>
+    <HeroSlideshow lang={lang} />
   </header>
 
   {/* Topics section */}
