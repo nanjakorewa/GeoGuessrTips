@@ -1,0 +1,238 @@
+---
+/**
+ * OpenStreetMap (Leaflet + Carto Voyager) を使った産業地帯マップ。
+ *
+ * フロントマターで `mapProvider: osm` を指定すると IndustryLayout から呼ばれる。
+ * タイルは Carto の無償ベースマップを利用しており、OSM および CARTO への帰属表示で利用可能。
+ * （tile.openstreetmap.org は ToS 上、本番サイトでの利用が制限されているため避ける）
+ */
+interface Pin {
+  lat: number;
+  lng: number;
+  label: string;
+  note?: string;
+  type?: string;
+  link?: string;
+}
+
+interface Props {
+  pins: Pin[];
+  center?: [number, number];
+  zoom?: number;
+}
+
+const { pins, center, zoom } = Astro.props;
+---
+
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+  crossorigin=""
+/>
+
+<div
+  id="ind-osm-map"
+  class="ind-osm-map"
+  data-pins={JSON.stringify(pins)}
+  data-center={center ? JSON.stringify(center) : ""}
+  data-zoom={zoom != null ? String(zoom) : ""}
+>
+</div>
+
+<style is:global>
+  .ind-osm-map {
+    width: 100%;
+    height: 480px;
+    background: #eef0ec;
+    position: relative;
+    z-index: 0;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+  }
+  /* Positron をサイトの紺色トーンに馴染ませる薄い色味補正 */
+  .ind-osm-map .ind-osm-tile {
+    filter: hue-rotate(-12deg) saturate(0.85) brightness(0.98);
+  }
+  /* ダークモード時はタイルを更に落ち着かせる */
+  [data-theme="dark"] .ind-osm-map {
+    background: #20272e;
+  }
+  [data-theme="dark"] .ind-osm-map .ind-osm-tile {
+    filter: hue-rotate(-12deg) saturate(0.7) brightness(0.78) contrast(0.95);
+  }
+  .ind-osm-pin {
+    background: transparent;
+    border: 0;
+  }
+  .ind-osm-pin__dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #e07b20;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 3px rgba(224, 123, 32, 0.25), 0 1px 3px rgba(0, 0, 0, 0.4);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .ind-osm-pin__label {
+    position: absolute;
+    left: 50%;
+    top: calc(50% + 12px);
+    transform: translateX(-50%);
+    background: rgba(30, 58, 95, 0.92);
+    color: #fff;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", system-ui, sans-serif;
+    white-space: nowrap;
+    pointer-events: none;
+    line-height: 1.3;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  }
+  .ind-osm-popup .leaflet-popup-content {
+    margin: 10px 14px;
+    font-size: 13px;
+    line-height: 1.5;
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", system-ui, sans-serif;
+    max-width: 240px;
+  }
+  .ind-osm-popup__title {
+    font-weight: 700;
+    margin-bottom: 4px;
+    color: #1e3a5f;
+  }
+  .ind-osm-popup__note {
+    color: #334155;
+  }
+  .ind-osm-popup__link {
+    display: inline-block;
+    margin-top: 6px;
+    font-size: 12px;
+    color: #1e3a5f;
+  }
+  [data-theme="dark"] .ind-osm-popup .leaflet-popup-content-wrapper,
+  [data-theme="dark"] .ind-osm-popup .leaflet-popup-tip {
+    background: #22262a;
+    color: #d8d5d0;
+  }
+  [data-theme="dark"] .ind-osm-popup__title {
+    color: #5b9bd5;
+  }
+  [data-theme="dark"] .ind-osm-popup__note {
+    color: #d8d5d0;
+  }
+  [data-theme="dark"] .ind-osm-popup__link {
+    color: #5b9bd5;
+  }
+</style>
+
+<script
+  is:inline
+  src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+  crossorigin=""
+></script>
+
+<script is:inline>
+  (function () {
+    function init() {
+      var el = document.getElementById("ind-osm-map");
+      if (!el) return;
+      if (typeof L === "undefined") {
+        setTimeout(init, 80);
+        return;
+      }
+
+      var pins = [];
+      try {
+        pins = JSON.parse(el.getAttribute("data-pins") || "[]");
+      } catch (e) {
+        pins = [];
+      }
+      var centerAttr = el.getAttribute("data-center");
+      var zoomAttr = el.getAttribute("data-zoom");
+
+      var map = L.map(el, {
+        scrollWheelZoom: false,
+        zoomControl: true,
+      });
+
+      // Carto Positron（単色のクリーンなベースマップ。OSM 帰属表示で無償利用可）
+      L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+        attribution:
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: "abcd",
+        maxZoom: 19,
+        className: "ind-osm-tile",
+      }).addTo(map);
+
+      var markers = [];
+      pins.forEach(function (p) {
+        var html =
+          '<div class="ind-osm-pin__dot"></div>' +
+          '<div class="ind-osm-pin__label">' +
+          (p.label || "") +
+          "</div>";
+        var icon = L.divIcon({
+          className: "ind-osm-pin",
+          html: html,
+          iconSize: [0, 0],
+          iconAnchor: [0, 0],
+        });
+        var m = L.marker([p.lat, p.lng], { icon: icon, title: p.label || "" });
+
+        var popup = '<div class="ind-osm-popup__title">' + (p.label || "") + "</div>";
+        if (p.note) popup += '<div class="ind-osm-popup__note">' + p.note + "</div>";
+        if (p.link) popup += '<a class="ind-osm-popup__link" href="' + p.link + '">詳細を見る →</a>';
+        m.bindPopup(popup, { className: "ind-osm-popup" });
+
+        m.addTo(map);
+        markers.push(m);
+      });
+
+      if (centerAttr && zoomAttr) {
+        try {
+          map.setView(JSON.parse(centerAttr), parseInt(zoomAttr, 10));
+        } catch (e) {
+          fitToMarkers();
+        }
+      } else {
+        fitToMarkers();
+      }
+
+      function fitToMarkers() {
+        if (markers.length) {
+          var group = L.featureGroup(markers);
+          map.fitBounds(group.getBounds().pad(0.18));
+        } else {
+          map.setView([36, 138], 5);
+        }
+      }
+
+      // IndustryLayout の clamp 開閉時にサイズが変わるので追従させる
+      window.addEventListener("resize", function () {
+        map.invalidateSize();
+      });
+      var clamp = document.getElementById("ind-map-clamp");
+      if (clamp && typeof MutationObserver !== "undefined") {
+        new MutationObserver(function () {
+          setTimeout(function () {
+            map.invalidateSize();
+          }, 520);
+        }).observe(clamp, { attributes: true, attributeFilter: ["style", "class"] });
+      }
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", init);
+    } else {
+      init();
+    }
+  })();
+</script>

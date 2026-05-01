@@ -5,101 +5,17 @@ date: 2026-04-08
 lastmod: 2026-04-08
 description: "日本の合成繊維・炭素繊維産業を解説。東レ・帝人・三菱ケミカル・旭化成・クラレによる世界的な高性能繊維製造、ボーイング787向けの炭素繊維複合材供給、合成繊維生産の1980年代以来の産業転換を整理。"
 weight: 39
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-fiber"
+mapPins:
+  - { lat: 35.116, lng: 138.911, label: "三島", type: "fiber", note: "帝人/東邦テナックス 三島事業所（静岡県三島市）— 炭素繊維・CFRTP / 東レ 三島工場 — 合成繊維" }
+  - { lat: 33.788, lng: 132.711, label: "愛媛（松前）", type: "fiber", note: "東レ 愛媛工場（愛媛県伊予郡松前町）— 炭素繊維・TORAYCA" }
+  - { lat: 34.241, lng: 132.222, label: "大竹", type: "fiber", note: "三菱ケミカル 大竹事業所（広島県大竹市）— 炭素繊維（Pyrofil）" }
+  - { lat: 34.769, lng: 137.391, label: "豊橋", type: "fiber", note: "三菱ケミカル 豊橋事業所（愛知県豊橋市）— 炭素繊維" }
+  - { lat: 32.582, lng: 131.665, label: "延岡", type: "fiber", note: "旭化成 延岡地区（宮崎県延岡市）— キュプラ（Bemberg）・合成繊維" }
+  - { lat: 35.682, lng: 139.774, label: "東京", type: "fiber", note: "東レ本社（中央区日本橋） / 帝人東京本社（千代田区霞が関）" }
 ---
 
-<script>
-(function() {
-  // [日本](/rule/asia/japan/)の繊維・炭素繊維工場（青●）
-  var pins = [
-    { x: 355, y: 478, label: '三島', type: 'fiber',
-      note: '帝人/東邦テナックス 三島事業所（静岡県三島市）— 炭素繊維・CFRTP / 東レ 三島工場 — 合成繊維' },
-    { x: 205, y: 520, label: '愛媛（松前）', type: 'fiber',
-      note: '東レ 愛媛工場（愛媛県伊予郡松前町）— 炭素繊維・TORAYCA' },
-    { x: 235, y: 510, label: '大竹', type: 'fiber',
-      note: '三菱ケミカル 大竹事業所（広島県大竹市）— 炭素繊維（Pyrofil）' },
-    { x: 318, y: 478, label: '豊橋', type: 'fiber',
-      note: '三菱ケミカル 豊橋事業所（愛知県豊橋市）— 炭素繊維' },
-    { x: 127, y: 567, label: '延岡', type: 'fiber',
-      note: '旭化成 延岡地区（宮崎県延岡市）— キュプラ（Bemberg）・合成繊維' },
-    { x: 410, y: 448, label: '東京', type: 'fiber',
-      note: '東レ本社（中央区日本橋） / 帝人東京本社（千代田区霞が関）' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + pin.note;
-      g.appendChild(titleEl);
-
-      var color = '#3b82f6';
-      var bgColor = 'rgba(59,130,246,0.18)';
-      var strokeColor = 'rgba(59,130,246,0.55)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '10');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1.5');
-
-      var marker = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      marker.setAttribute('x', pin.x);
-      marker.setAttribute('y', pin.y);
-      marker.setAttribute('font-size', '14');
-      marker.setAttribute('fill', color);
-      marker.setAttribute('text-anchor', 'middle');
-      marker.setAttribute('dominant-baseline', 'middle');
-      marker.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      marker.textContent = '\u25CF';
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 8 + 6;
-      var bgH = 13;
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', pin.y + 4);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(68,64,60,0.85)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', pin.y + 13);
-      label.setAttribute('font-size', '8');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(marker);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)の合成繊維・炭素繊維産業の概観
 

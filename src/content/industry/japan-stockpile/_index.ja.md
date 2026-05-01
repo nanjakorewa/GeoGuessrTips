@@ -5,125 +5,25 @@ date: 2026-03-29
 lastmod: 2026-03-29
 description: "日本の国家石油備蓄基地10か所とLPガス備蓄基地5か所を解説。地上タンク・地下岩盤・洋上貯蔵の3方式と、各基地の備蓄量・所在地・貯蔵方式を地図付きで整理。"
 weight: 30
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-stockpile"
+mapPins:
+  - { lat: 42.626, lng: 141.617, label: "苫小牧東部", type: "oil", note: "地上タンク・約640万kL" }
+  - { lat: 40.962, lng: 141.380, label: "むつ小川原", type: "oil", note: "地上タンク・約570万kL" }
+  - { lat: 40.190, lng: 141.775, label: "久慈", type: "oil", note: "地下岩盤・約175万kL" }
+  - { lat: 39.886, lng: 139.835, label: "秋田", type: "oil", note: "地上＋地下・約450万kL" }
+  - { lat: 36.064, lng: 136.222, label: "福井", type: "oil", note: "地上タンク・約340万kL" }
+  - { lat: 34.054, lng: 132.866, label: "菊間", type: "oil", note: "地下岩盤・約150万kL" }
+  - { lat: 33.929, lng: 130.732, label: "白島", type: "oil", note: "洋上タンク・約560万kL" }
+  - { lat: 32.985, lng: 129.073, label: "上五島", type: "oil", note: "洋上タンク・約440万kL" }
+  - { lat: 31.728, lng: 130.257, label: "串木野", type: "oil", note: "地下岩盤・約175万kL" }
+  - { lat: 31.394, lng: 131.085, label: "志布志", type: "oil", note: "地上タンク・約500万kL" }
+  - { lat: 35.890, lng: 140.660, label: "神栖(LPG)", type: "lpg", note: "地上低温・約20万t" }
+  - { lat: 37.043, lng: 136.967, label: "七尾(LPG)", type: "lpg", note: "地上低温・約25万t" }
+  - { lat: 34.595, lng: 133.768, label: "倉敷(LPG)", type: "lpg", note: "地下岩盤・約40万t" }
+  - { lat: 34.095, lng: 132.917, label: "波方(LPG)", type: "lpg", note: "地下岩盤・約45万t" }
+  - { lat: 33.379, lng: 129.450, label: "長崎福島(LPG)", type: "lpg", note: "地上低温・約20万t（長崎県松浦市）" }
 ---
-
-<script>
-(function() {
-  // 石油備蓄基地（オレンジ●）とLPガス備蓄基地（ティール◆）
-  var pins = [
-    // 国家石油備蓄基地 10か所
-    { x: 510, y: 142, label: '苫小牧東部', type: 'oil',
-      note: '地上タンク・約640万kL' },
-    { x: 490, y: 220, label: 'むつ小川原', type: 'oil',
-      note: '地上タンク・約570万kL' },
-    { x: 515, y: 262, label: '久慈', type: 'oil',
-      note: '地下岩盤・約175万kL' },
-    { x: 440, y: 260, label: '秋田', type: 'oil',
-      note: '地上＋地下・約450万kL' },
-    { x: 288, y: 436, label: '福井', type: 'oil',
-      note: '地上タンク・約340万kL' },
-    { x: 175, y: 509, label: '菊間', type: 'oil',
-      note: '地下岩盤・約150万kL' },
-    { x: 90, y: 510, label: '白島', type: 'oil', above: true,
-      note: '洋上タンク・約560万kL' },
-    { x: 32, y: 548, label: '上五島', type: 'oil',
-      note: '洋上タンク・約440万kL' },
-    { x: 72, y: 597, label: '串木野', type: 'oil',
-      note: '地下岩盤・約175万kL' },
-    { x: 95, y: 626, label: '志布志', type: 'oil',
-      note: '地上タンク・約500万kL' },
-    // 国家LPガス備蓄基地 5か所
-    { x: 473, y: 431, label: '神栖(LPG)', type: 'lpg',
-      note: '地上低温・約20万t' },
-    { x: 332, y: 390, label: '七尾(LPG)', type: 'lpg',
-      note: '地上低温・約25万t' },
-    { x: 210, y: 486, label: '倉敷(LPG)', type: 'lpg',
-      note: '地下岩盤・約40万t' },
-    { x: 170, y: 516, label: '波方(LPG)', type: 'lpg',
-      note: '地下岩盤・約45万t' },
-    { x: 52, y: 534, label: '長崎福島(LPG)', type: 'lpg',
-      note: '地上低温・約20万t（長崎県松浦市）' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + pin.note;
-      g.appendChild(titleEl);
-
-      var isOil = pin.type === 'oil';
-      var color = isOil ? '#e07b20' : '#0f766e';
-      var bgColor = isOil ? 'rgba(224,123,32,0.18)' : 'rgba(15,118,110,0.18)';
-      var strokeColor = isOil ? 'rgba(224,123,32,0.55)' : 'rgba(15,118,110,0.55)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '10');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1.5');
-
-      var marker = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      marker.setAttribute('x', pin.x);
-      marker.setAttribute('y', pin.y);
-      marker.setAttribute('font-size', isOil ? '14' : '12');
-      marker.setAttribute('fill', color);
-      marker.setAttribute('text-anchor', 'middle');
-      marker.setAttribute('dominant-baseline', 'middle');
-      marker.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      marker.textContent = isOil ? '\u25CF' : '\u25C6';
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 8 + 6;
-      var bgH = 13;
-      var isAbove = pin.above || false;
-      var bgY = isAbove ? (pin.y - 18 - bgH) : (pin.y + 4);
-      var textY = isAbove ? (pin.y - 18 - bgH + 10) : (pin.y + 13);
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', bgY);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', isOil ? 'rgba(154,82,10,0.85)' : 'rgba(14,78,70,0.85)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', textY);
-      label.setAttribute('font-size', '8');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(marker);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)の石油・LPガス備蓄制度
 

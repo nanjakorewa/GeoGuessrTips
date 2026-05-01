@@ -5,105 +5,18 @@ date: 2026-04-08
 lastmod: 2026-04-08
 description: "日本の産業用ロボット産業を解説。FANUC・安川電機・川崎重工・三菱電機の主要4社、世界シェア約45%、IFR統計による全球542,000台（2024年）中の位置付け、ロボットの種類（垂直多関節・SCARA・デルタ・協働），用途（自動車・電子機器・食品），地理的集積，サーボモータ・エンコーダ・ハーモニックドライブなどの部品産業を一次資料に基づき整理。"
 weight: 38
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-robotics"
+mapPins:
+  - { lat: 35.460, lng: 138.836, label: "忍野村/富士吉田", type: "robot", note: "FANUC本社・製造拠点（山梨県南都留郡）" }
+  - { lat: 36.084, lng: 140.076, label: "筑波", type: "robot", note: "FANUC筑波R&D（茨城県）" }
+  - { lat: 33.884, lng: 130.875, label: "北九州", type: "robot", note: "安川電機本社・ロボット事業（福岡県北九州市）" }
+  - { lat: 34.815, lng: 134.695, label: "赤穂/姫路", type: "robot", note: "川崎重工ロボット事業（兵庫県）" }
+  - { lat: 35.181, lng: 136.906, label: "名古屋", type: "robot", note: "三菱電機ロボット事業本部（愛知県）" }
+  - { lat: 34.989, lng: 136.994, label: "刈谷", type: "robot", note: "デンソーウェーブロボット製造（愛知県）" }
+  - { lat: 36.238, lng: 137.972, label: "松本", type: "robot", note: "エプソン（セイコーエプソン）SCARA製造（長野県）" }
+  - { lat: 35.906, lng: 139.624, label: "大宮", type: "robot", note: "ハーモニックドライブシステムズ精密減速機（埼玉県）" }
 ---
-
-<script>
-(function() {
-  // 主要ロボット企業本社・R&D拠点（青●）
-  var pins = [
-    { x: 395, y: 460, label: '忍野村/富士吉田', type: 'robot',
-      note: 'FANUC本社・製造拠点（山梨県南都留郡）' },
-    { x: 446, y: 430, label: '筑波', type: 'robot',
-      note: 'FANUC筑波R&D（茨城県）' },
-    { x: 113, y: 513, label: '北九州', type: 'robot',
-      note: '安川電機本社・ロボット事業（福岡県北九州市）' },
-    { x: 231, y: 478, label: '赤穂/姫路', type: 'robot',
-      note: '川崎重工ロボット事業（兵庫県）' },
-    { x: 319, y: 469, label: '名古屋', type: 'robot',
-      note: '三菱電機ロボット事業本部（愛知県）' },
-    { x: 325, y: 485, label: '刈谷', type: 'robot',
-      note: 'デンソーウェーブロボット製造（愛知県）' },
-    { x: 365, y: 420, label: '松本', type: 'robot',
-      note: 'エプソン（セイコーエプソン）SCARA製造（長野県）' },
-    { x: 429, y: 439, label: '大宮', type: 'robot',
-      note: 'ハーモニックドライブシステムズ精密減速機（埼玉県）' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + pin.note;
-      g.appendChild(titleEl);
-
-      var color = '#3b82f6';
-      var bgColor = 'rgba(59,130,246,0.18)';
-      var strokeColor = 'rgba(59,130,246,0.55)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '10');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1.5');
-
-      var marker = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      marker.setAttribute('x', pin.x);
-      marker.setAttribute('y', pin.y);
-      marker.setAttribute('font-size', '14');
-      marker.setAttribute('fill', color);
-      marker.setAttribute('text-anchor', 'middle');
-      marker.setAttribute('dominant-baseline', 'middle');
-      marker.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      marker.textContent = '\u25CF';
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 8 + 6;
-      var bgH = 13;
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', pin.y + 4);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(37,99,235,0.85)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', pin.y + 13);
-      label.setAttribute('font-size', '8');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(marker);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)の産業用ロボット産業の概観
 

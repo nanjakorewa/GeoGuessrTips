@@ -5,121 +5,16 @@ date: 2026-04-08
 lastmod: 2026-04-08
 description: "チリの鉱業を解説。世界の銅生産で約24%（2024年約550万トン）を占める世界最大の銅産国としての地位、Codelco・BHP Escondida・Collahuasiなど主要鉱山、SQMとAlbemarleが操業するSalar de Atacamaのリチウム生産、リチウムトライアングルとチリ国家リチウム戦略までを整理。"
 weight: 37
-mapName: "southAmerica"
+mapProvider: "osm"
 galleryDir: "chile-mining"
+mapPins:
+  - { lat: -20.973, lng: -68.700, label: "Collahuasi", type: "copper", note: "世界級の銅鉱山（タラパカ州）" }
+  - { lat: -22.296, lng: -68.905, label: "Chuquicamata", type: "copper", note: "Codelco 露天掘り銅鉱山（カラマ）" }
+  - { lat: -24.265, lng: -69.069, label: "Escondida", type: "copper", note: "BHP 世界最大級の銅鉱山（アントファガスタ）" }
+  - { lat: -23.500, lng: -68.300, label: "Salar de Atacama", type: "lithium", note: "SQM・Albemarle リチウム塩湖" }
+  - { lat: -33.448, lng: -70.669, label: "Santiago", type: "city", note: "首都・Codelco 本社" }
+  - { lat: -34.085, lng: -70.353, label: "El Teniente", type: "copper", note: "Codelco 世界最大級の地下銅鉱山（ランカグア近郊）" }
 ---
-
-<script>
-(function() {
-  // [チリ](/rule/cs_america/chile/)の主要鉱山（southAmerica マップ）
-  var pins = [
-    {
-        "x": 132,
-        "y": 345,
-        "label": "Collahuasi",
-        "note": "世界級の銅鉱山（タラパカ州）"
-    },
-    {
-        "x": 130,
-        "y": 365,
-        "label": "Chuquicamata",
-        "note": "Codelco 露天掘り銅鉱山（カラマ）"
-    },
-    {
-        "x": 138,
-        "y": 395,
-        "label": "Escondida",
-        "note": "BHP 世界最大級の銅鉱山（アントファガスタ）"
-    },
-    {
-        "x": 145,
-        "y": 410,
-        "label": "Salar de Atacama",
-        "note": "SQM・Albemarle リチウム塩湖"
-    },
-    {
-        "x": 140,
-        "y": 525,
-        "label": "Santiago",
-        "note": "首都・Codelco 本社"
-    },
-    {
-        "x": 142,
-        "y": 550,
-        "label": "El Teniente",
-        "note": "Codelco 世界最大級の地下銅鉱山（ランカグア近郊）"
-    }
-];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'industry-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + (pin.note || '');
-      g.appendChild(titleEl);
-
-      var color = '#dc2626';
-      var bgColor = 'rgba(220,38,38,0.20)';
-      var strokeColor = 'rgba(220,38,38,0.65)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y);
-      glow.setAttribute('r', '6');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1');
-
-      var dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      dot.setAttribute('cx', pin.x);
-      dot.setAttribute('cy', pin.y);
-      dot.setAttribute('r', '2.5');
-      dot.setAttribute('fill', color);
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 5 + 6;
-      var bgH = 9;
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', pin.y + 6);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(31,41,55,0.88)');
-      labelBg.setAttribute('rx', '2');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', pin.y + 12);
-      label.setAttribute('font-size', '6.5');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(dot);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## なぜ[チリ](/rule/cs_america/chile/)が鉱業大国なのか
 

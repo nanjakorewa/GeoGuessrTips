@@ -5,103 +5,20 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "世界有数の海運国・日本の外航海運と内航海運を、日本商船隊の規模・主要港湾・大手3社（日本郵船・商船三井・川崎汽船）・船員と環境規制の両面から解説。地理・経済の視点で読み解く海運産業の全体像。"
 weight: 41
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "shipping"
+mapPins:
+  - { lat: 35.628, lng: 139.778, label: "東京港", type: "strategic", note: "首都圏外貿コンテナの拠点。京浜港の中核" }
+  - { lat: 35.453, lng: 139.642, label: "横浜港", type: "strategic", note: "自動車輸出・コンテナ。京浜港の中核" }
+  - { lat: 35.087, lng: 136.879, label: "名古屋港", type: "hub", note: "総取扱貨物量で国内首位級。自動車輸出の中心(ただしコンテナ取扱量では東京港が首位)" }
+  - { lat: 34.681, lng: 135.212, label: "神戸港", type: "strategic", note: "阪神港の中核。西日本のコンテナゲートウェイ" }
+  - { lat: 34.651, lng: 135.428, label: "大阪港", type: "strategic", note: "阪神港の中核" }
+  - { lat: 33.604, lng: 130.408, label: "博多港", type: "hub", note: "対アジアのコンテナ・RORO拠点" }
+  - { lat: 32.738, lng: 129.873, label: "長崎港", type: "hub", note: "造船・離島航路・クルーズ" }
+  - { lat: 35.582, lng: 140.106, label: "千葉港", type: "hub", note: "取扱貨物量国内上位。原油・LNG・石化" }
+  - { lat: 34.503, lng: 133.748, label: "水島港", type: "hub", note: "鉄鋼・石油化学コンビナート港" }
+  - { lat: 33.901, lng: 130.961, label: "北九州港", type: "hub", note: "対アジアRORO・コンテナ" }
 ---
-
-<script>
-(function() {
-  // 主要港湾ピン（国際戦略港湾・国際拠点港湾を中心に）
-  var pins = [
-    { x: 400, y: 455, label: '東京港',     type: 'strategic', note: '首都圏外貿コンテナの拠点。京浜港の中核' },
-    { x: 394, y: 461, label: '横浜港',     type: 'strategic', note: '自動車輸出・コンテナ。京浜港の中核' },
-    { x: 340, y: 480, label: '名古屋港',   type: 'hub',       note: '総取扱貨物量で国内首位級。自動車輸出の中心（ただしコンテナ取扱量では東京港が首位）' },
-    { x: 260, y: 500, label: '神戸港',     type: 'strategic', note: '阪神港の中核。西[日本](/rule/asia/japan/)のコンテナゲートウェイ' },
-    { x: 253, y: 503, label: '大阪港',     type: 'strategic', above: true, note: '阪神港の中核' },
-    { x: 100, y: 522, label: '博多港',     type: 'hub',       note: '対アジアのコンテナ・RORO拠点' },
-    {  x: 72, y: 540, label: '長崎港',     type: 'hub',       note: '造船・離島航路・クルーズ' },
-    { x: 440, y: 460, label: '千葉港',     type: 'hub',       note: '取扱貨物量国内上位。原油・LNG・石化' },
-    { x: 196, y: 486, label: '水島港',     type: 'hub',       note: '鉄鋼・石油化学コンビナート港' },
-    { x: 150, y: 510, label: '北九州港',   type: 'hub',       note: '対アジアRORO・コンテナ' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + pin.note;
-      g.appendChild(titleEl);
-
-      var isStrategic = pin.type === 'strategic';
-      var color = isStrategic ? '#b45309' : '#0e7490';
-      var bgColor = isStrategic ? 'rgba(180,83,9,0.2)' : 'rgba(14,116,144,0.18)';
-      var strokeColor = isStrategic ? 'rgba(180,83,9,0.6)' : 'rgba(14,116,144,0.55)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '10');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1.5');
-
-      var marker = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      marker.setAttribute('x', pin.x);
-      marker.setAttribute('y', pin.y);
-      marker.setAttribute('font-size', isStrategic ? '14' : '12');
-      marker.setAttribute('fill', color);
-      marker.setAttribute('text-anchor', 'middle');
-      marker.setAttribute('dominant-baseline', 'middle');
-      marker.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      marker.textContent = isStrategic ? '\u2605' : '\u25CF';
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 8 + 6;
-      var bgH = 13;
-      var isAbove = pin.above || false;
-      var bgY = isAbove ? (pin.y - 18 - bgH) : (pin.y + 4);
-      var textY = isAbove ? (pin.y - 18 - bgH + 10) : (pin.y + 13);
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', bgY);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', isStrategic ? 'rgba(180,83,9,0.85)' : 'rgba(14,78,70,0.85)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', textY);
-      label.setAttribute('font-size', '8');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(marker);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)の海運業の概要
 

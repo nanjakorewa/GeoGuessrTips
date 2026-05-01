@@ -5,108 +5,19 @@ date: 2026-03-25
 lastmod: 2026-03-25
 description: "日本全国の主要な焼き物産地を解説。六古窯・美濃・有田・九谷など30か所以上の産地を地図と一覧で整理。陶器と磁器の違い、産地ごとの特徴も解説。"
 weight: 20
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-pottery"
+mapPins:
+  - { lat: 36.466, lng: 140.099, label: "益子（栃木）", type: "factory", note: "民芸陶器。濱田庄司が有名" }
+  - { lat: 36.452, lng: 136.464, label: "九谷（石川）", type: "factory", note: "色絵磁器。赤・緑・紫・紺・黄の五彩" }
+  - { lat: 35.967, lng: 136.176, label: "越前（福井）", type: "factory", note: "六古窯のひとつ。灰釉の渋い味わい" }
+  - { lat: 35.224, lng: 137.084, label: "瀬戸（愛知）", type: "factory", note: "六古窯・最大産地。「せともの」の語源" }
+  - { lat: 34.890, lng: 136.060, label: "信楽（滋賀）", type: "factory", note: "六古窯。たぬきの置物と自然釉" }
+  - { lat: 34.745, lng: 134.196, label: "備前（岡山）", type: "factory", note: "六古窯。釉薬を使わない焼き締め" }
+  - { lat: 34.408, lng: 131.399, label: "萩（山口）", type: "factory", note: "茶人好み。「一楽二萩三唐津」" }
+  - { lat: 33.715, lng: 132.788, label: "砥部（愛媛）", type: "factory", note: "白磁に藍色の絵付け。伊予の磁器" }
+  - { lat: 33.207, lng: 129.889, label: "有田（佐賀）", type: "factory", note: "日本磁器発祥地。1616年に磁器焼成成功" }
 ---
-
-<script>
-(function() {
-  // 産地ピン — ティール色で表示。above:true でラベルをマーカー上側に配置
-  // 密集エリアの重なり回避：常滑・丹波・清水・笠間・薩摩は表から除外（地図には非表示）
-  var pins = [
-    { x: 450, y: 410, label: '益子（栃木）', above: false,
-      note: '民芸陶器。濱田庄司が有名' },
-    { x: 302, y: 420, label: '九谷（石川）', above: false,
-      note: '色絵磁器。赤・緑・紫・紺・黄の五彩' },
-    { x: 266, y: 440, label: '越前（福井）', above: true,
-      note: '六古窯のひとつ。灰釉の渋い味わい' },
-    { x: 330, y: 466, label: '瀬戸（愛知）', above: false,
-      note: '六古窯・最大産地。「せともの」の語源' },
-    { x: 268, y: 480, label: '信楽（滋賀）', above: false,
-      note: '六古窯。たぬきの置物と自然釉' },
-    { x: 218, y: 480, label: '備前（岡山）', above: true,
-      note: '六古窯。釉薬を使わない焼き締め' },
-    { x: 132, y: 488, label: '萩（山口）', above: true,
-      note: '茶人好み。「一楽二萩三唐津」' },
-    { x: 153, y: 524, label: '砥部（愛媛）', above: false,
-      note: '白磁に藍色の絵付け。伊予の磁器' },
-    { x: 76, y: 542, label: '有田（佐賀）', above: true,
-      note: '日本磁器発祥地。1616年に磁器焼成成功' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + pin.note;
-      g.appendChild(titleEl);
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '11');
-      glow.setAttribute('fill', 'rgba(15,118,110,0.18)');
-      glow.setAttribute('stroke', 'rgba(15,118,110,0.55)');
-      glow.setAttribute('stroke-width', '1.5');
-
-      var star = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      star.setAttribute('x', pin.x);
-      star.setAttribute('y', pin.y);
-      star.setAttribute('font-size', '16');
-      star.setAttribute('fill', '#0f766e');
-      star.setAttribute('text-anchor', 'middle');
-      star.setAttribute('dominant-baseline', 'middle');
-      star.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      star.textContent = '◆';
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 8 + 6;
-      var bgH = 13;
-      // above:true → ラベルをマーカー上側に表示
-      var bgY = pin.above ? (pin.y - 18 - bgH) : (pin.y + 4);
-      var textY = pin.above ? (pin.y - 18 - bgH + 10) : (pin.y + 13);
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', bgY);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(14,78,70,0.85)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', textY);
-      label.setAttribute('font-size', '8');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(star);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)の陶磁器産地とは
 

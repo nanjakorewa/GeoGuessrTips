@@ -5,7 +5,7 @@ date: 2026-04-14
 lastmod: 2026-04-14
 description: "1987年の国鉄分割民営化で発足したJR旅客6社（JR東日本・JR東海・JR西日本・JR九州・JR北海道・JR四国）を解説。営業収益・営業利益の比較、事業セグメント構成、Suica経済圏・新幹線一本足打法・インバウンド戦略・不動産多角化など各社の経営戦略、リニア中央新幹線・北陸新幹線延伸の最新状況を整理。"
 weight: 42
-mapName: "japan"
+mapProvider: "osm"
 showMap: false
 galleryDir: "japan-jr"
 ---

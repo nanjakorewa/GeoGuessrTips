@@ -5,7 +5,7 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "世界の鉱業を俯瞰。BHP・Rio Tinto・Vale・Glencoreなどの資源メジャー、鉄鉱石・銅・リチウム・コバルト・ニッケル・PGMの主要産出国、Pilbara鉄鉱石ベンチマーク、LME価格指標、サプライチェーンの地政学までを解説。"
 weight: 26
-mapName: "world"
+mapProvider: "osm"
 showMap: false
 galleryDir: "world-mining"
 ---

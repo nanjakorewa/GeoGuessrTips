@@ -4,114 +4,18 @@ subtitle: "石油化学・鉄鋼コンビナートの全国分布マップ"
 date: 2026-03-22
 description: "日本全国の主要コンビナート8地区を地図で確認。エチレン生産能力・鉄鋼生産量・立地の経緯など、産業構造を深掘りする解説ページへのインデックス。"
 weight: 10
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "combinat"
+mapPins:
+  - { lat: 42.315, lng: 140.974, label: "室蘭", type: "factory", note: "製鉄" }
+  - { lat: 35.965, lng: 140.659, label: "鹿島", type: "factory", note: "鉄鋼・石油化学", link: "/industry/japan-combinat/kashima/" }
+  - { lat: 35.507, lng: 140.083, label: "京葉", type: "factory", note: "石油精製・石油化学・製鉄", link: "/industry/japan-combinat/keiyo/" }
+  - { lat: 34.964, lng: 136.625, label: "四日市", type: "factory", note: "石油化学" }
+  - { lat: 34.567, lng: 135.443, label: "堺・阪神", type: "factory", note: "石油精製・製鉄" }
+  - { lat: 34.508, lng: 133.770, label: "水島", type: "factory", note: "石油化学・製鉄・自動車", link: "/industry/japan-combinat/mizushima/" }
+  - { lat: 34.052, lng: 131.806, label: "周南", type: "factory", note: "石油化学・化学" }
+  - { lat: 33.244, lng: 131.661, label: "大分", type: "factory", note: "石油精製・鉄鋼" }
 ---
-
-<script>
-(function() {
-  // コンビナートマーカー設定
-  // 座標は japan.js の SVG座標系（645.8 × 700.4）に基づく
-  var pins = [
-    { x: 482, y: 160, label: '室蘭', url: '/industry/japan-combinat/muroran/', ready: false,
-      industry: '製鉄' },
-    { x: 472, y: 428, label: '鹿島', url: '/industry/japan-combinat/kashima/', ready: true,
-      industry: '鉄鋼・石油化学' },
-    { x: 441, y: 456, label: '京葉', url: '/industry/japan-combinat/keiyo/', ready: true,
-      industry: '石油精製・石油化学・製鉄' },
-    { x: 299, y: 487, label: '四日市', url: '/industry/japan-combinat/yokkaichi/', ready: false,
-      industry: '石油化学' },
-    { x: 252, y: 478, label: '堺・阪神', url: '/industry/japan-combinat/hanshin/', ready: false,
-      industry: '石油精製・製鉄' },
-    { x: 207, y: 489, label: '水島', url: '/industry/japan-combinat/mizushima/', ready: true,
-      industry: '石油化学・製鉄・自動車' },
-    { x: 147, y: 505, label: '周南', url: '/industry/japan-combinat/shunan/', ready: false,
-      industry: '石油化学・化学' },
-    { x: 118, y: 542, label: '大分', url: '/industry/japan-combinat/oita/', ready: false,
-      industry: '石油精製・鉄鋼' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) {
-      setTimeout(addPins, 300);
-      return;
-    }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = pin.ready ? 'pointer' : 'default';
-
-      // Tooltip title
-      if (pin.ready) {
-        var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-        titleEl.textContent = pin.label + 'コンビナート — ' + pin.industry;
-        g.appendChild(titleEl);
-      }
-
-      // Glow circle behind star
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '13');
-      glow.setAttribute('fill', pin.ready ? 'rgba(224,123,32,0.18)' : 'rgba(200,200,200,0.1)');
-      glow.setAttribute('stroke', pin.ready ? 'rgba(224,123,32,0.6)' : 'rgba(180,180,180,0.3)');
-      glow.setAttribute('stroke-width', '1.5');
-
-      // Star mark
-      var star = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      star.setAttribute('x', pin.x);
-      star.setAttribute('y', pin.y);
-      star.setAttribute('font-size', '20');
-      star.setAttribute('fill', pin.ready ? '#e07b20' : 'rgba(255,255,255,0.25)');
-      star.setAttribute('text-anchor', 'middle');
-      star.setAttribute('dominant-baseline', 'middle');
-      star.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      star.textContent = pin.ready ? '★' : '☆';
-
-      // Label background
-      var textLen = pin.label.length;
-      var bgW = textLen * 9 + 8;
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', pin.y + 6);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', '14');
-      labelBg.setAttribute('fill', pin.ready ? 'rgba(30,58,95,0.85)' : 'rgba(50,50,50,0.5)');
-      labelBg.setAttribute('rx', '3');
-
-      // Label text
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', pin.y + 16);
-      label.setAttribute('font-size', '9');
-      label.setAttribute('fill', pin.ready ? '#fff' : 'rgba(255,255,255,0.4)');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(star);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-
-      if (pin.ready) {
-        g.addEventListener('click', function() { window.location.href = pin.url; });
-      }
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)のコンビナートとは
 

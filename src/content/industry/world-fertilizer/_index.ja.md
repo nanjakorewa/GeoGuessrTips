@@ -5,7 +5,7 @@ date: 2026-04-08
 lastmod: 2026-04-08
 description: "世界の肥料市場を解説。Nutrien・Mosaic・CF Industriesなど主要プロデューサー、カナダ・ロシア・中国・モロッコの産出国、尿素・DAP・MOP三大肥料の生産・貿易、ウクライナ戦争による2022年危機、IFA・USGS統計を基に構成。"
 weight: 22
-mapName: "world"
+mapProvider: "osm"
 galleryDir: "world-fertilizer"
 highlightStates: ["Canada","Russia","China","MA","United States","BY","NO","BR","IN"]
 highlightColor: "#4caf50"

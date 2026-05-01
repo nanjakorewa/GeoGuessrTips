@@ -5,109 +5,18 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "日本の水素・アンモニア拠点を解説。神戸液化水素受入基地、福島FH2R、苫小牧CCS連携、周南カーボンフリーアンモニア構想、JERA碧南火力混焼など主要拠点を一次資料に基づき整理。"
 weight: 35
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-hydrogen-ammonia"
+mapPins:
+  - { lat: 42.634, lng: 141.605, label: "苫小牧", type: "h2", note: "CCS実証＋グリーン水素計画（北海道電力・出光・ENEOS）" }
+  - { lat: 37.492, lng: 140.989, label: "福島浪江(FH2R)", type: "h2", note: "水電解10MW・太陽光20MW（NEDO）" }
+  - { lat: 35.521, lng: 139.728, label: "川崎臨海", type: "h2", note: "千鳥町水素ネットワーク・レゾナック廃プラ水素" }
+  - { lat: 34.633, lng: 135.213, label: "神戸", type: "h2", note: "Hy touch神戸液化水素受入基地（川崎重工）" }
+  - { lat: 34.054, lng: 131.806, label: "周南", type: "nh3", note: "出光・東ソー・トクヤマ カーボンフリーアンモニア構想" }
+  - { lat: 34.870, lng: 136.993, label: "碧南(発電)", type: "nh3", note: "JERA碧南火力 アンモニア20%混焼商用化準備" }
+  - { lat: 33.213, lng: 131.211, label: "大分九重町", type: "h2", note: "地熱由来グリーン水素（大林組）" }
+  - { lat: 33.927, lng: 130.834, label: "北九州響灘", type: "h2", note: "響灘グリーン水素拠点構想（福岡県）" }
 ---
-
-<script>
-(function() {
-  // 水素拠点（青●）とアンモニア拠点（赤◆）
-  var pins = [
-    { x: 510, y: 142, label: '苫小牧', type: 'h2',
-      note: 'CCS実証＋グリーン水素計画（北海道電力・出光・ENEOS）' },
-    { x: 480, y: 270, label: '福島浪江(FH2R)', type: 'h2',
-      note: '水電解10MW・太陽光20MW（NEDO）' },
-    { x: 460, y: 425, label: '川崎臨海', type: 'h2',
-      note: '千鳥町水素ネットワーク・レゾナック廃プラ水素' },
-    { x: 270, y: 472, label: '神戸', type: 'h2',
-      note: 'Hy touch神戸液化水素受入基地（川崎重工）' },
-    { x: 200, y: 488, label: '周南', type: 'nh3',
-      note: '出光・東ソー・トクヤマ カーボンフリーアンモニア構想' },
-    { x: 318, y: 480, label: '碧南(発電)', type: 'nh3',
-      note: 'JERA碧南火力 アンモニア20%混焼商用化準備' },
-    { x: 88, y: 558, label: '大分九重町', type: 'h2',
-      note: '地熱由来グリーン水素（大林組）' },
-    { x: 75, y: 525, label: '北九州響灘', type: 'h2', above: true,
-      note: '響灘グリーン水素拠点構想（福岡県）' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + pin.note;
-      g.appendChild(titleEl);
-
-      var isH2 = pin.type === 'h2';
-      var color = isH2 ? '#0ea5e9' : '#dc2626';
-      var bgColor = isH2 ? 'rgba(14,165,233,0.18)' : 'rgba(220,38,38,0.18)';
-      var strokeColor = isH2 ? 'rgba(14,165,233,0.55)' : 'rgba(220,38,38,0.55)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '10');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1.5');
-
-      var marker = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      marker.setAttribute('x', pin.x);
-      marker.setAttribute('y', pin.y);
-      marker.setAttribute('font-size', isH2 ? '14' : '12');
-      marker.setAttribute('fill', color);
-      marker.setAttribute('text-anchor', 'middle');
-      marker.setAttribute('dominant-baseline', 'middle');
-      marker.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      marker.textContent = isH2 ? '\u25CF' : '\u25C6';
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 8 + 6;
-      var bgH = 13;
-      var isAbove = pin.above || false;
-      var bgY = isAbove ? (pin.y - 18 - bgH) : (pin.y + 4);
-      var textY = isAbove ? (pin.y - 18 - bgH + 10) : (pin.y + 13);
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', bgY);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', isH2 ? 'rgba(7,89,133,0.85)' : 'rgba(127,29,29,0.85)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', textY);
-      label.setAttribute('font-size', '8');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(marker);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)の水素・アンモニア戦略
 

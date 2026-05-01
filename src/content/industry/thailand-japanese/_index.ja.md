@@ -5,121 +5,16 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "タイにある約6,000社の日系企業を解説。アセアン最大の自動車生産国を支えるトヨタ・ホンダ・いすゞ・日産・三菱などの完成車メーカーと、東部臨海工業地帯（Eastern Seaboard）に集中する部品サプライヤー、BOI恩典制度、近年の中国EVの台頭までを整理。"
 weight: 33
-mapName: "thailand"
+mapProvider: "osm"
 galleryDir: "thailand-japanese"
+mapPins:
+  - { lat: 13.756, lng: 100.501, label: "Bangkok", type: "city", note: "首都・日系企業の本拠" }
+  - { lat: 14.353, lng: 100.578, label: "Ayutthaya", type: "industrial", note: "ロジャナ・ハイテク工業団地" }
+  - { lat: 13.599, lng: 100.598, label: "Samut Prakan", type: "industrial", note: "バンコク南部の老舗工業地帯" }
+  - { lat: 13.690, lng: 101.077, label: "Chachoengsao", type: "industrial", note: "EEC 北部・スワンナプーム周辺" }
+  - { lat: 13.083, lng: 100.883, label: "Chonburi/Laem Chabang", type: "port", note: "EEC 中核港湾・自動車組立" }
+  - { lat: 12.681, lng: 101.281, label: "Rayong", type: "industrial", note: "Eastern Seaboard 工業団地群" }
 ---
-
-<script>
-(function() {
-  // [タイ](/rule/asia/thai/)の日系製造業集積（thailand マップ）
-  var pins = [
-    {
-        "x": 148,
-        "y": 318,
-        "label": "Bangkok",
-        "note": "首都・日系企業の本拠"
-    },
-    {
-        "x": 143,
-        "y": 286,
-        "label": "Ayutthaya",
-        "note": "ロジャナ・ハイテク工業団地"
-    },
-    {
-        "x": 152,
-        "y": 324,
-        "label": "Samut Prakan",
-        "note": "バンコク南部の老舗工業地帯"
-    },
-    {
-        "x": 185,
-        "y": 325,
-        "label": "Chachoengsao",
-        "note": "EEC 北部・スワンナプーム周辺"
-    },
-    {
-        "x": 179,
-        "y": 347,
-        "label": "Chonburi/Laem Chabang",
-        "note": "EEC 中核港湾・自動車組立"
-    },
-    {
-        "x": 185,
-        "y": 358,
-        "label": "Rayong",
-        "note": "Eastern Seaboard 工業団地群"
-    }
-];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'industry-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + (pin.note || '');
-      g.appendChild(titleEl);
-
-      var color = '#dc2626';
-      var bgColor = 'rgba(220,38,38,0.20)';
-      var strokeColor = 'rgba(220,38,38,0.65)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y);
-      glow.setAttribute('r', '6');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1');
-
-      var dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      dot.setAttribute('cx', pin.x);
-      dot.setAttribute('cy', pin.y);
-      dot.setAttribute('r', '2.5');
-      dot.setAttribute('fill', color);
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 5 + 6;
-      var bgH = 9;
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', pin.y + 6);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(31,41,55,0.88)');
-      labelBg.setAttribute('rx', '2');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', pin.y + 12);
-      label.setAttribute('font-size', '6.5');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(dot);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## なぜ[タイ](/rule/asia/thai/)に日系企業が集まるのか
 

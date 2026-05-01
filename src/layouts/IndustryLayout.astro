@@ -4,6 +4,7 @@ import { buildUrl, extractLangFromId, extractSlugFromId, DEFAULT_LANG } from "@l
 import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
+import IndustryOSMMap from "@components/IndustryOSMMap.astro";
 import { getCollection } from "astro:content";
 
 interface Props {
@@ -24,8 +25,11 @@ const ogImage = data.og_image || `${site}/images/icon-512x512.png`;
 const currentSlug = extractSlugFromId(entry.id);
 const canonical = `${site}${buildUrl(collection, currentSlug, lang)}`;
 
-// JSMaps
-const needsJSMaps = !!data.mapName || !!data.map_index;
+// Map provider: "osm" を指定した場合は Leaflet/OSM 経路。未指定（既定）は JSMaps。
+const useOSM = data.mapProvider === "osm";
+
+// JSMaps（OSM を使う場合は読み込み不要）
+const needsJSMaps = !useOSM && (!!data.mapName || !!data.map_index);
 
 // Breadcrumbs
 interface Crumb { name: string; url: string; }
@@ -59,10 +63,10 @@ const lastmodDisplay = modifiedTime
   ? modifiedTime.toLocaleDateString("ja-JP", { year: "numeric", month: "long", day: "numeric" })
   : "";
 
-// Is map page (has JSMaps map)
+// Is map page (has JSMaps map or OSM map)
 // showMap: false をフロントマターで指定すると、mapName があっても地図を非表示にできる
 // （地図上にピンが1つも載らないページ向け）
-const isMapPage = !!data.mapName && data.showMap !== false;
+const isMapPage = (!!data.mapName || useOSM) && data.showMap !== false;
 
 // Gallery images (from galleryDir frontmatter, or aggregated for index pages)
 import fs from "node:fs";
@@ -325,6 +329,11 @@ if (data.galleryDir) {
     .ind-map-wrapper.ind-map-wrapper--world {
       max-width: 960px;
     }
+    /* OSM map (Leaflet) — fill width responsively, no inner padding to maximize map area */
+    .ind-map-wrapper.ind-map-wrapper--osm {
+      max-width: min(1200px, 100%);
+      padding: 0;
+    }
     .ind-map-wrapper #world-map {
       width: 100%;
       background: transparent;
@@ -487,6 +496,51 @@ if (data.galleryDir) {
       font-size: 0.88rem;
       color: rgba(255, 255, 255, 0.75) !important;
       margin: 0;
+    }
+
+    /* ---- Split layout (OSM map: title on left, map on right) ---- */
+    .ind-map-section__inner {
+      /* デフォルトでは何もせず、子要素は通常フローで縦に並ぶ */
+    }
+    .ind-map-section--split {
+      padding: 1.5rem 0;
+    }
+    .ind-map-section--split .ind-map-section__inner {
+      display: grid;
+      grid-template-columns: minmax(260px, 360px) minmax(0, 1fr);
+      gap: 1.25rem 2.5rem;
+      align-items: center;
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+    }
+    .ind-map-section--split .ind-map-title {
+      margin: 0;
+      padding: 0;
+      max-width: none;
+      text-align: left;
+    }
+    .ind-map-section--split .ind-map-title h1 {
+      font-size: clamp(1.5rem, 2.4vw, 2.1rem);
+      line-height: 1.25;
+      margin: 0 0 0.6rem;
+    }
+    .ind-map-section--split .ind-map-title p {
+      font-size: 0.92rem;
+      line-height: 1.7;
+    }
+    .ind-map-section--split .ind-map-wrapper--osm {
+      max-width: none;
+    }
+    @media (max-width: 900px) {
+      .ind-map-section--split .ind-map-section__inner {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        padding: 1rem 1rem 0;
+      }
+      .ind-map-section--split .ind-map-title {
+        text-align: center;
+      }
     }
 
     /* ---- Main layout ---- */
@@ -1413,24 +1467,38 @@ if (data.galleryDir) {
 
   {/* MAP SECTION (only when mapName is present) */}
   {isMapPage && (
-    <section class="ind-map-section">
-      <div class="ind-map-title">
-        <h1>{data.title}</h1>
-        {data.subtitle && <p>{data.subtitle}</p>}
-      </div>
-      <div class="ind-map-clamp" id="ind-map-clamp">
-        <div class={`ind-map-wrapper${data.mapName === "world" ? " ind-map-wrapper--world" : ""}`}>
-          {data.mapName === "world" ? (
-            <div id="world-map" class="world-map-svg"></div>
-          ) : (
-            <div id="world-map"></div>
-          )}
+    <section class={`ind-map-section${useOSM ? " ind-map-section--split" : ""}`}>
+      <div class="ind-map-section__inner">
+        <div class="ind-map-title">
+          <h1>{data.title}</h1>
+          {data.subtitle && <p>{data.subtitle}</p>}
         </div>
-        <div class="ind-map-clamp-fade"></div>
+        <div class="ind-map-clamp" id="ind-map-clamp">
+          {useOSM ? (
+            <div class="ind-map-wrapper ind-map-wrapper--osm">
+              <IndustryOSMMap
+                pins={data.mapPins || []}
+                center={data.mapCenter}
+                zoom={data.mapZoom}
+              />
+            </div>
+          ) : (
+            <div class={`ind-map-wrapper${data.mapName === "world" ? " ind-map-wrapper--world" : ""}`}>
+              {data.mapName === "world" ? (
+                <div id="world-map" class="world-map-svg"></div>
+              ) : (
+                <div id="world-map"></div>
+              )}
+            </div>
+          )}
+          {!useOSM && <div class="ind-map-clamp-fade"></div>}
+        </div>
       </div>
-      <div class="ind-map-expand-wrap">
-        <button class="ind-map-expand-btn" id="ind-map-expand-btn">地図を全体表示 ▼</button>
-      </div>
+      {!useOSM && (
+        <div class="ind-map-expand-wrap">
+          <button class="ind-map-expand-btn" id="ind-map-expand-btn">地図を全体表示 ▼</button>
+        </div>
+      )}
     </section>
   )}
 
@@ -1761,7 +1829,7 @@ if (data.galleryDir) {
   </script>
 
   {/* World map: load simplemaps SVG directly */}
-  {data.mapName === "world" && (
+  {!useOSM && data.mapName === "world" && (
     <Fragment>
       <script is:inline define:vars={{ highlightStates: data.highlightStates || null, highlightColor: data.highlightColor || "#e07b20", mapPins: data.mapPins || null }}>
         (function() {
@@ -1859,7 +1927,7 @@ if (data.galleryDir) {
   )}
 
   {/* JSMaps initialization (non-world maps) */}
-  {data.mapName && data.mapName !== "world" && (
+  {!useOSM && data.mapName && data.mapName !== "world" && (
     <Fragment>
       <script is:inline define:vars={{ mapName: data.mapName, highlightStates: data.highlightStates || null, highlightColor: data.highlightColor || "#e07b20" }}>
         $(function() {

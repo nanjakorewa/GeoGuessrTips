@@ -5,101 +5,16 @@ date: 2026-03-25
 lastmod: 2026-03-25
 description: "日本の半導体産業集積地を解説。九州・東北・三重・北海道・関東の主要クラスターとTSMC・キオクシア・ラピダスなど最新動向をデータとともに整理。"
 weight: 10
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-semiconductor"
+mapPins:
+  - { lat: 42.821, lng: 141.652, label: "北海道（千歳）", type: "factory", note: "ロジック半導体（ラピダス 2nm）" }
+  - { lat: 39.286, lng: 141.114, label: "東北（岩手・北上）", type: "factory", note: "NANDフラッシュ（キオクシア北上）" }
+  - { lat: 36.342, lng: 140.447, label: "関東（茨城）", type: "factory", note: "車載マイコン・研究開発" }
+  - { lat: 34.964, lng: 136.625, label: "三重（四日市）", type: "factory", note: "NANDフラッシュ（キオクシア）" }
+  - { lat: 34.427, lng: 132.744, label: "広島（東広島）", type: "factory", note: "DRAM・HBM（マイクロン）" }
+  - { lat: 32.879, lng: 130.768, label: "九州（熊本）", type: "factory", note: "ロジック・CMOSイメージセンサー（TSMC・ソニー）", link: "/industry/japan-semiconductor/kyushu/" }
 ---
-
-<script>
-(function() {
-  var pins = [
-    { x: 490, y: 145, label: '北海道（千歳）', url: '/industry/japan-semiconductor/hokkaido/', ready: false,
-      industry: 'ロジック半導体（ラピダス 2nm）' },
-    { x: 470, y: 295, label: '東北（岩手・北上）', url: '/industry/japan-semiconductor/tohoku/', ready: false,
-      industry: 'NANDフラッシュ（キオクシア北上）' },
-    { x: 449, y: 424, label: '関東（茨城）', url: '/industry/japan-semiconductor/kanto/', ready: false,
-      industry: '車載マイコン・研究開発' },
-    { x: 298, y: 487, label: '三重（四日市）', url: '/industry/japan-semiconductor/mie/', ready: false,
-      industry: 'NANDフラッシュ（キオクシア）' },
-    { x: 200, y: 488, label: '広島（東広島）', url: '/industry/japan-semiconductor/hiroshima/', ready: false,
-      industry: 'DRAM・HBM（マイクロン）' },
-    { x: 88, y: 558, label: '九州（熊本）', url: '/industry/japan-semiconductor/kyushu/', ready: true,
-      industry: 'ロジック・CMOSイメージセンサー（TSMC・ソニー）' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = pin.ready ? 'pointer' : 'default';
-
-      if (pin.ready) {
-        var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-        titleEl.textContent = pin.label + ' — ' + pin.industry;
-        g.appendChild(titleEl);
-      }
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '13');
-      glow.setAttribute('fill', pin.ready ? 'rgba(99,102,241,0.18)' : 'rgba(200,200,200,0.1)');
-      glow.setAttribute('stroke', pin.ready ? 'rgba(99,102,241,0.6)' : 'rgba(180,180,180,0.3)');
-      glow.setAttribute('stroke-width', '1.5');
-
-      var star = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      star.setAttribute('x', pin.x);
-      star.setAttribute('y', pin.y);
-      star.setAttribute('font-size', '20');
-      star.setAttribute('fill', pin.ready ? '#6366f1' : 'rgba(255,255,255,0.25)');
-      star.setAttribute('text-anchor', 'middle');
-      star.setAttribute('dominant-baseline', 'middle');
-      star.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      star.textContent = pin.ready ? '★' : '☆';
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 9 + 8;
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', pin.y + 6);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', '14');
-      labelBg.setAttribute('fill', pin.ready ? 'rgba(67,56,202,0.85)' : 'rgba(50,50,50,0.5)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', pin.y + 16);
-      label.setAttribute('font-size', '9');
-      label.setAttribute('fill', pin.ready ? '#fff' : 'rgba(255,255,255,0.4)');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(star);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-
-      if (pin.ready) {
-        g.addEventListener('click', function() { window.location.href = pin.url; });
-      }
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
-
 
 ## [日本](/rule/asia/japan/)の半導体産業集積地とは
 

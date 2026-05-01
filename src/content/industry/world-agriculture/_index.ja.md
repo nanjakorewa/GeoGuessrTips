@@ -5,7 +5,7 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "世界の農産物トレードを俯瞰。Cargill・ADM・Bunge・Louis Dreyfus（ABCD）と中国COFCO、米コーンベルト・ブラジルマトグロッソ・黒海・豪州など主要穀倉地帯、シカゴ商品取引所（CBOT）の小麦・大豆・コーン先物までを解説。"
 weight: 28
-mapName: "world"
+mapProvider: "osm"
 galleryDir: "world-agriculture"
 highlightStates: ["United States","BR","China","UA","France","IN","Russia","Argentina","Australia"]
 highlightColor: "#8bc34a"

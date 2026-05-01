@@ -5,7 +5,7 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "世界の石油産業を上流（探鉱・生産）・中流（パイプライン・LNG・トレーディング）・下流（精製・石化・小売）の3層で解説。サウジアラムコ・ExxonMobil・Shellなど国際石油メジャー、NOC、Vitol/Trafiguraなどトレーダー、Brent/WTI/Dubaiの油価指標までを整理。"
 weight: 27
-mapName: "world"
+mapProvider: "osm"
 galleryDir: "world-oil"
 highlightStates: ["SA","United States","Russia","Canada","IQ","AE","KW","IR","BR","NO","NG","VE","China","MX","Angola"]
 highlightColor: "#d4a24e"

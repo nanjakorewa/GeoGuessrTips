@@ -5,115 +5,23 @@ date: 2026-04-08
 lastmod: 2026-04-08
 description: "日本のタイヤ産業を解説。ブリヂストン（世界1-2位）、住友ゴム（Dunlop・Falken）、横浜ゴム、東洋ゴムの4大メーカーによる全球展開。世界市場における Michelin・Goodyear・Continental との競争構図、天然ゴム原料のタイ・インドネシア・マレーシア・ベトナム調達、EV向けタイヤの成長市場、久留米・防府・那須・彦根・白河・仙台などの主要工場立地を詳細に整理。"
 weight: 40
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-tire"
+mapPins:
+  - { lat: 38.105, lng: 140.871, label: "仙台", type: "tire", note: "東洋ゴム仙台工場（宮城県岩沼市）" }
+  - { lat: 42.634, lng: 141.605, label: "苫小牧", type: "tire", note: "北海道拠点・流通センター" }
+  - { lat: 35.674, lng: 139.770, label: "東京圏", type: "tire", note: "ブリヂストン本社・開発拠点（中央区京橋）" }
+  - { lat: 35.082, lng: 137.156, label: "名古屋", type: "tire", note: "住友ゴム名古屋工場（愛知県豊田市）" }
+  - { lat: 34.499, lng: 135.413, label: "大阪/泉大津", type: "tire", note: "住友ゴム泉大津工場（大阪府泉大津市）" }
+  - { lat: 33.317, lng: 130.508, label: "久留米", type: "tire", note: "ブリヂストン久留米工場・発祥地（福岡県）" }
+  - { lat: 34.052, lng: 131.567, label: "防府", type: "tire", note: "ブリヂストン防府工場（山口県防府市）" }
+  - { lat: 35.337, lng: 139.349, label: "平塚/三島", type: "tire", note: "横浜ゴム平塚・三島工場（神奈川県・静岡県）" }
+  - { lat: 35.061, lng: 136.692, label: "三重", type: "tire", note: "横浜ゴム三重工場・東洋ゴム桑名工場" }
+  - { lat: 34.408, lng: 133.205, label: "尾道", type: "tire", note: "横浜ゴム尾道工場（広島県）" }
+  - { lat: 36.961, lng: 140.046, label: "那須", type: "tire", note: "ブリヂストン那須工場（栃木県）" }
+  - { lat: 35.275, lng: 136.260, label: "彦根", type: "tire", note: "ブリヂストン彦根工場（滋賀県）" }
+  - { lat: 37.126, lng: 140.213, label: "白河", type: "tire", note: "住友ゴム白河工場（福島県白河市）" }
 ---
-
-<script>
-(function() {
-  // タイヤ工場ピン（赤系●）
-  var pins = [
-    { x: 482, y: 328, label: '仙台', type: 'tire',
-      note: '東洋ゴム仙台工場（宮城県岩沼市）' },
-    { x: 525, y: 130, label: '苫小牧', type: 'tire',
-      note: '北海道拠点・流通センター' },
-    { x: 424, y: 470, label: '東京圏', type: 'tire',
-      note: 'ブリヂストン本社・開発拠点' },
-    { x: 342, y: 481, label: '名古屋', type: 'tire',
-      note: '住友ゴム名古屋工場（愛知県豊田市）' },
-    { x: 270, y: 494, label: '大阪/泉大津', type: 'tire',
-      note: '住友ゴム泉大津工場（大阪府泉大津市）' },
-    { x: 83, y: 545, label: '久留米', type: 'tire',
-      note: 'ブリヂストン久留米工場・発祥地（福岡県）' },
-    { x: 126, y: 504, label: '防府', type: 'tire',
-      note: 'ブリヂストン防府工場（山口県防府市）' },
-    { x: 410, y: 472, label: '平塚/三島', type: 'tire',
-      note: '横浜ゴム平塚・三島工場（神奈川県・静岡県）' },
-    { x: 307, y: 504, label: '三重', type: 'tire',
-      note: '横浜ゴム三重工場・東洋ゴム桑名工場' },
-    { x: 185, y: 488, label: '尾道', type: 'tire',
-      note: '横浜ゴム尾道工場（広島県）' },
-    { x: 438, y: 395, label: '那須', type: 'tire',
-      note: 'ブリヂストン那須工場（栃木県）' },
-    { x: 308, y: 470, label: '彦根', type: 'tire',
-      note: 'ブリヂストン彦根工場（滋賀県）' },
-    { x: 450, y: 390, label: '白河', type: 'tire',
-      note: '住友ゴム白河工場（福島県白河市）' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + pin.note;
-      g.appendChild(titleEl);
-
-      var color = '#dc2626';
-      var bgColor = 'rgba(220,38,38,0.18)';
-      var strokeColor = 'rgba(220,38,38,0.55)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '10');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1.5');
-
-      var marker = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      marker.setAttribute('x', pin.x);
-      marker.setAttribute('y', pin.y);
-      marker.setAttribute('font-size', '14');
-      marker.setAttribute('fill', color);
-      marker.setAttribute('text-anchor', 'middle');
-      marker.setAttribute('dominant-baseline', 'middle');
-      marker.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      marker.textContent = '\u25CF';
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 8 + 6;
-      var bgH = 13;
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', pin.y + 4);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(68,64,60,0.85)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', pin.y + 13);
-      label.setAttribute('font-size', '8');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(marker);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)のタイヤ産業の概観
 

@@ -5,7 +5,7 @@ date: 2026-04-19
 lastmod: 2026-04-25
 description: "日本の旧一般電気事業者10社（北海道・東北・東京・中部・北陸・関西・中国・四国・九州・沖縄）と卸電力大手のJERA・電源開発(J-POWER)を解説。2025年3月期の売上・利益・総資産比較、電源構成比（原子力・火力・水力・再エネ）の違い、販売電力量の需要家構成（家庭・業務・産業）、原子力発電所の稼働状況を各社IR資料と経済産業省・電気事業連合会・ISEPの公表データに基づいて整理。"
 weight: 44
-mapName: "japan"
+mapProvider: "osm"
 showMap: false
 galleryDir: "japan-power"
 ---

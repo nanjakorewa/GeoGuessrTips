@@ -5,7 +5,7 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "世界の海運業界を俯瞰。MSC・Maersk・CMA CGMなどコンテナ大手、日本郵船・商船三井・川崎汽船とONE、コンテナリース大手、Baltic Dry Indexなどの市況指標、IMO 2050ネットゼロ戦略までを解説。"
 weight: 25
-mapName: "world"
+mapProvider: "osm"
 galleryDir: "world-shipping"
 highlightStates: ["China","KR","Japan","NL","DE","PA","EG"]
 highlightColor: "#4a90d9"

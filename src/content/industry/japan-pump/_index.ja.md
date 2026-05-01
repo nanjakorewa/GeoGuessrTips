@@ -5,106 +5,19 @@ date: 2026-04-13
 lastmod: 2026-04-13
 description: "日本のポンプ産業を解説。荏原製作所（売上8,666億円）・日機装・酉島製作所・鶴見製作所の主要企業、国内生産額約3,500〜4,000億円の市場規模、世界ポンプ市場（約700億ドル）でのシェア、海水淡水化・LNG・水素向け成長分野を各社IR資料に基づき整理。"
 weight: 41
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-pump"
+mapPins:
+  - { lat: 35.561, lng: 139.716, label: "大田区（荏原）", type: "pump", note: "荏原製作所 本社（東京都大田区）" }
+  - { lat: 35.659, lng: 139.703, label: "渋谷（日機装）", type: "pump", note: "日機装 本社（東京都渋谷区）" }
+  - { lat: 34.846, lng: 135.617, label: "高槻（酉島）", type: "pump", note: "酉島製作所 本社(大阪府高槻市）" }
+  - { lat: 34.708, lng: 135.563, label: "大阪（鶴見）", type: "pump", note: "鶴見製作所 本社（大阪市鶴見区）" }
+  - { lat: 35.561, lng: 139.716, label: "大田区（電業社）", type: "pump", note: "電業社機械製作所 本社（東京都大田区）" }
+  - { lat: 34.857, lng: 134.546, label: "たつの（帝国電機）", type: "pump", note: "帝国電機製作所 本社（兵庫県たつの市）" }
+  - { lat: 35.694, lng: 139.753, label: "千代田（イワキ）", type: "pump", note: "イワキ 本社（東京都千代田区）" }
+  - { lat: 34.686, lng: 135.512, label: "大阪（タクミナ）", type: "pump", note: "タクミナ 本社（大阪市中央区）" }
+  - { lat: 33.886, lng: 130.875, label: "北九州（横田）", type: "pump", note: "横田製作所 本社（北九州市小倉北区）" }
 ---
-
-<script>
-(function() {
-  var pins = [
-    { x: 422, y: 452, label: '大田区（荏原）', type: 'pump',
-      note: '荏原製作所 本社（東京都大田区）' },
-    { x: 412, y: 444, label: '渋谷（日機装）', type: 'pump',
-      note: '日機装 本社（東京都渋谷区）' },
-    { x: 264, y: 470, label: '高槻（酉島）', type: 'pump',
-      note: '酉島製作所 本社(大阪府高槻市）' },
-    { x: 258, y: 480, label: '大阪（鶴見）', type: 'pump',
-      note: '鶴見製作所 本社（大阪市鶴見区）' },
-    { x: 428, y: 456, label: '大田区（電業社）', type: 'pump',
-      note: '電業社機械製作所 本社（東京都大田区）' },
-    { x: 232, y: 478, label: 'たつの（帝国電機）', type: 'pump',
-      note: '帝国電機製作所 本社（兵庫県たつの市）' },
-    { x: 416, y: 448, label: '千代田（イワキ）', type: 'pump',
-      note: 'イワキ 本社（東京都千代田区）' },
-    { x: 255, y: 476, label: '大阪（タクミナ）', type: 'pump',
-      note: 'タクミナ 本社（大阪市中央区）' },
-    { x: 148, y: 512, label: '北九州（横田）', type: 'pump',
-      note: '横田製作所 本社（北九州市小倉北区）' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + pin.note;
-      g.appendChild(titleEl);
-
-      var color = '#2563eb';
-      var bgColor = 'rgba(37,99,235,0.18)';
-      var strokeColor = 'rgba(37,99,235,0.55)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '10');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1.5');
-
-      var marker = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      marker.setAttribute('x', pin.x);
-      marker.setAttribute('y', pin.y);
-      marker.setAttribute('font-size', '14');
-      marker.setAttribute('fill', color);
-      marker.setAttribute('text-anchor', 'middle');
-      marker.setAttribute('dominant-baseline', 'middle');
-      marker.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      marker.textContent = '\u25CF';
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 8 + 6;
-      var bgH = 13;
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', pin.y + 4);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(68,64,60,0.85)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', pin.y + 13);
-      label.setAttribute('font-size', '8');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(marker);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)のポンプ産業とは
 

@@ -5,126 +5,23 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "日本の非鉄金属製錬を解説。住友金属鉱山・JX金属・三菱マテリアル・三井金属・DOWA・東邦亜鉛の主要製錬所と、別子・足尾・日立・小坂の四大銅山の歴史、E-Scrap都市鉱山リサイクルまでを一次資料に基づき整理。"
 weight: 36
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-nonferrous"
+mapPins:
+  - { lat: 33.928, lng: 133.183, label: "東予(銅)", type: "cu", note: "住友金属鉱山 東予製錬所（愛媛県西条市）" }
+  - { lat: 33.252, lng: 131.890, label: "佐賀関(銅)", type: "cu", note: "パンパシフィック・カッパー 佐賀関製錬所（大分市）" }
+  - { lat: 34.492, lng: 133.946, label: "玉野(銅)", type: "cu", note: "パンパシフィック・カッパー 玉野製錬所（岡山県玉野市）" }
+  - { lat: 36.948, lng: 140.901, label: "小名浜(銅)", type: "cu", note: "小名浜製錬（JX金属系・福島県いわき市）" }
+  - { lat: 34.461, lng: 133.997, label: "直島(銅)", type: "cu", note: "三菱マテリアル 直島製錬所（香川県直島町）" }
+  - { lat: 40.391, lng: 140.728, label: "小坂(鉛亜鉛)", type: "zn", note: "DOWA 小坂製錬（秋田県小坂町）" }
+  - { lat: 39.717, lng: 140.083, label: "秋田(亜鉛)", type: "zn", note: "DOWA 秋田製錬（秋田県秋田市）" }
+  - { lat: 40.512, lng: 141.488, label: "八戸(亜鉛)", type: "zn", note: "三井金属 八戸製錬（青森県八戸市）" }
+  - { lat: 36.327, lng: 138.886, label: "安中(亜鉛)", type: "zn", note: "東邦亜鉛 安中製錬所（群馬県安中市）" }
+  - { lat: 36.337, lng: 137.301, label: "神岡(亜鉛鉛)", type: "zn", note: "神岡鉱業（三井金属系・岐阜県飛騨市）" }
+  - { lat: 36.638, lng: 139.452, label: "足尾(歴史)", type: "hist", note: "古河鉱業 足尾銅山（栃木県・1973年閉山）" }
+  - { lat: 36.580, lng: 140.654, label: "日立(歴史)", type: "hist", note: "日立鉱山（茨城県・1981年閉山）" }
+  - { lat: 33.876, lng: 133.330, label: "別子(歴史)", type: "hist", note: "住友 別子銅山（愛媛県新居浜市・1973年閉山）" }
 ---
-
-<script>
-(function() {
-  // 銅製錬所（オレンジ●）と亜鉛・鉛・歴史鉱山（青◆）
-  var pins = [
-    // 銅製錬所
-    { x: 175, y: 510, label: '東予(銅)', type: 'cu',
-      note: '住友金属鉱山 東予製錬所（愛媛県西条市）' },
-    { x: 116, y: 568, label: '佐賀関(銅)', type: 'cu',
-      note: 'パンパシフィック・カッパー 佐賀関製錬所（大分市）' },
-    { x: 215, y: 503, label: '玉野(銅)', type: 'cu',
-      note: 'パンパシフィック・カッパー 玉野製錬所（岡山県玉野市）' },
-    { x: 480, y: 365, label: '小名浜(銅)', type: 'cu',
-      note: '小名浜製錬（JX金属系・福島県いわき市）' },
-    { x: 200, y: 535, label: '直島(銅)', type: 'cu', above: true,
-      note: '三菱マテリアル 直島製錬所（香川県直島町）' },
-    // 鉛・亜鉛・歴史鉱山
-    { x: 462, y: 245, label: '小坂(鉛亜鉛)', type: 'zn',
-      note: 'DOWA 小坂製錬（秋田県小坂町）' },
-    { x: 460, y: 280, label: '秋田(亜鉛)', type: 'zn',
-      note: 'DOWA 秋田製錬（秋田県秋田市）' },
-    { x: 463, y: 325, label: '八戸(亜鉛)', type: 'zn', above: true,
-      note: '三井金属 八戸製錬（青森県八戸市）' },
-    { x: 432, y: 410, label: '安中(亜鉛)', type: 'zn',
-      note: '東邦亜鉛 安中製錬所（群馬県安中市）' },
-    { x: 348, y: 430, label: '神岡(亜鉛鉛)', type: 'zn',
-      note: '神岡鉱業（三井金属系・岐阜県飛騨市）' },
-    // 歴史的銅山
-    { x: 432, y: 388, label: '足尾(歴史)', type: 'hist', above: true,
-      note: '古河鉱業 足尾銅山（栃木県・1973年閉山）' },
-    { x: 467, y: 410, label: '日立(歴史)', type: 'hist',
-      note: '日立鉱山（茨城県・1981年閉山）' },
-    { x: 175, y: 530, label: '別子(歴史)', type: 'hist',
-      note: '住友 別子銅山（愛媛県新居浜市・1973年閉山）' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + pin.note;
-      g.appendChild(titleEl);
-
-      var color, bgColor, strokeColor, marker;
-      if (pin.type === 'cu') {
-        color = '#d97706'; bgColor = 'rgba(217,119,6,0.18)'; strokeColor = 'rgba(217,119,6,0.55)'; marker = '\u25CF';
-      } else if (pin.type === 'zn') {
-        color = '#0f766e'; bgColor = 'rgba(15,118,110,0.18)'; strokeColor = 'rgba(15,118,110,0.55)'; marker = '\u25C6';
-      } else {
-        color = '#6b7280'; bgColor = 'rgba(107,114,128,0.15)'; strokeColor = 'rgba(107,114,128,0.45)'; marker = '\u25B2';
-      }
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '10');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1.5');
-
-      var markerEl = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      markerEl.setAttribute('x', pin.x);
-      markerEl.setAttribute('y', pin.y);
-      markerEl.setAttribute('font-size', '12');
-      markerEl.setAttribute('fill', color);
-      markerEl.setAttribute('text-anchor', 'middle');
-      markerEl.setAttribute('dominant-baseline', 'middle');
-      markerEl.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      markerEl.textContent = marker;
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 7 + 6;
-      var bgH = 13;
-      var isAbove = pin.above || false;
-      var bgY = isAbove ? (pin.y - 18 - bgH) : (pin.y + 4);
-      var textY = isAbove ? (pin.y - 18 - bgH + 10) : (pin.y + 13);
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', bgY);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(50,50,50,0.85)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', textY);
-      label.setAttribute('font-size', '8');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(markerEl);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)の非鉄金属製錬とは
 

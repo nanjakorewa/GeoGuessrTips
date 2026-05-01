@@ -5,94 +5,14 @@ date: 2026-04-01
 lastmod: 2026-04-01
 description: "日本の食品コンビナート4か所を解説。京葉・千葉・神戸東部・泉佐野の立地・歴史・入居企業を紹介。"
 weight: 60
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-food-combinat"
+mapPins:
+  - { lat: 35.687, lng: 139.987, label: "京葉食品", type: "keiyo", note: "船橋市高瀬町。首都圏のキッチン" }
+  - { lat: 35.638, lng: 140.046, label: "千葉食品", type: "chiba", note: "千葉市美浜区。[日本](/rule/asia/japan/)最大の食品コンビナート" }
+  - { lat: 34.711, lng: 135.291, label: "神戸東部第4工区", type: "kobe", note: "神戸市東灘区。[日本](/rule/asia/japan/)初の食品コンビナート" }
+  - { lat: 34.402, lng: 135.299, label: "泉佐野食品", type: "izumisano", note: "泉佐野市。関空近接の食品基地" }
 ---
-
-<script>
-(function() {
-  var pins = [
-    { x: 438, y: 450, label: '京葉食品', type: 'keiyo',
-      note: '船橋市高瀬町。首都圏のキッチン' },
-    { x: 448, y: 456, label: '千葉食品', type: 'chiba',
-      note: '千葉市美浜区。[日本](/rule/asia/japan/)最大の食品コンビナート' },
-    { x: 256, y: 478, label: '神戸東部第4工区', type: 'kobe',
-      note: '神戸市東灘区。[日本](/rule/asia/japan/)初の食品コンビナート' },
-    { x: 240, y: 488, label: '泉佐野食品', type: 'izumisano',
-      note: '泉佐野市。関空近接の食品基地' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + pin.note;
-      g.appendChild(titleEl);
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '11');
-      glow.setAttribute('fill', 'rgba(220,38,38,0.18)');
-      glow.setAttribute('stroke', 'rgba(220,38,38,0.55)');
-      glow.setAttribute('stroke-width', '1.5');
-
-      var marker = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      marker.setAttribute('x', pin.x);
-      marker.setAttribute('y', pin.y);
-      marker.setAttribute('font-size', '16');
-      marker.setAttribute('fill', '#dc2626');
-      marker.setAttribute('text-anchor', 'middle');
-      marker.setAttribute('dominant-baseline', 'middle');
-      marker.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      marker.textContent = '\u2605';
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 8 + 6;
-      var bgH = 13;
-      var bgY = pin.y + 4;
-      var textY = pin.y + 13;
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', bgY);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(153,27,27,0.85)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', textY);
-      label.setAttribute('font-size', '8');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(marker);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## 食品コンビナートとは
 

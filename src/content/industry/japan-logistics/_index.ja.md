@@ -5,7 +5,7 @@ date: 2026-04-13
 lastmod: 2026-04-13
 description: "日本のロジスティクス産業を解説。宅配便3社（日本郵便・ヤマト運輸・佐川急便）と特積み（西濃運輸・福山通運）、財閥系倉庫4社（三菱倉庫・三井倉庫・住友倉庫・上組）のセグメント別利益比較、2024年問題、物流DXを整理。"
 weight: 38
-mapName: "japan"
+mapProvider: "osm"
 showMap: false
 galleryDir: "japan-logistics"
 ---

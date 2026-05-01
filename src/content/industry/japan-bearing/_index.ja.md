@@ -5,7 +5,7 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "日本のベアリング（軸受）産業を解説。NSK・NTN・JTEKT・ミネベアミツミの4大メーカーによる高精度・高性能ベアリングの製造基盤、SKF・Schaefflerなど海外大手との比較、自動車・産業機械・航空・小型モータ向けの市場分布を整理。"
 weight: 36
-mapName: "japan"
+mapProvider: "osm"
 showMap: false
 galleryDir: "japan-bearing"
 ---

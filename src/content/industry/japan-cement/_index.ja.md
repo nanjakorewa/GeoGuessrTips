@@ -5,105 +5,19 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "日本のセメント工業を解説。太平洋セメント・UBE三菱セメント・住友大阪セメントの3大グループと、秩父・津久見・宇部・苅田・苫小牧などの主要産地、宇部興産専用道路、石灰石100%自給を一次資料に基づき整理。"
 weight: 37
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-cement"
+mapPins:
+  - { lat: 41.792, lng: 140.665, label: "上磯（北斗）", type: "cem", note: "太平洋セメント上磯工場（北海道北斗市）" }
+  - { lat: 39.083, lng: 141.708, label: "大船渡", type: "cem", note: "太平洋セメント大船渡工場（岩手県）" }
+  - { lat: 36.130, lng: 139.193, label: "秩父/熊谷", type: "cem", note: "太平洋セメント熊谷工場・武甲山石灰石（埼玉）" }
+  - { lat: 35.151, lng: 136.508, label: "藤原", type: "cem", note: "太平洋セメント藤原工場（三重県いなべ市）" }
+  - { lat: 34.755, lng: 134.395, label: "赤穂", type: "cem", note: "住友大阪セメント赤穂工場（兵庫県）" }
+  - { lat: 33.952, lng: 131.247, label: "宇部", type: "cem", note: "UBE三菱セメント 宇部・伊佐工場（山口県）" }
+  - { lat: 33.776, lng: 131.014, label: "苅田", type: "cem", note: "UBE三菱セメント 九州工場（福岡県苅田町）" }
+  - { lat: 33.072, lng: 131.871, label: "津久見", type: "cem", note: "太平洋セメント大分工場・新津久見鉱山（大分県）" }
 ---
 
-<script>
-(function() {
-  // セメント工場/石灰石産地（グレー●）
-  var pins = [
-    { x: 510, y: 142, label: '上磯（北斗）', type: 'cem',
-      note: '太平洋セメント上磯工場（北海道北斗市）' },
-    { x: 463, y: 318, label: '大船渡', type: 'cem',
-      note: '太平洋セメント大船渡工場（岩手県）' },
-    { x: 432, y: 410, label: '秩父/熊谷', type: 'cem',
-      note: '太平洋セメント熊谷工場・武甲山石灰石（埼玉）' },
-    { x: 350, y: 425, label: '藤原', type: 'cem',
-      note: '太平洋セメント藤原工場（三重県いなべ市）' },
-    { x: 248, y: 478, label: '赤穂', type: 'cem',
-      note: '住友大阪セメント赤穂工場（兵庫県）' },
-    { x: 170, y: 510, label: '宇部', type: 'cem',
-      note: 'UBE三菱セメント 宇部・伊佐工場（山口県）' },
-    { x: 122, y: 538, label: '苅田', type: 'cem',
-      note: 'UBE三菱セメント 九州工場（福岡県苅田町）' },
-    { x: 134, y: 570, label: '津久見', type: 'cem',
-      note: '太平洋セメント大分工場・新津久見鉱山（大分県）' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + pin.note;
-      g.appendChild(titleEl);
-
-      var color = '#78716c';
-      var bgColor = 'rgba(120,113,108,0.18)';
-      var strokeColor = 'rgba(120,113,108,0.55)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '10');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1.5');
-
-      var marker = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      marker.setAttribute('x', pin.x);
-      marker.setAttribute('y', pin.y);
-      marker.setAttribute('font-size', '14');
-      marker.setAttribute('fill', color);
-      marker.setAttribute('text-anchor', 'middle');
-      marker.setAttribute('dominant-baseline', 'middle');
-      marker.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      marker.textContent = '\u25CF';
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 8 + 6;
-      var bgH = 13;
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', pin.y + 4);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(68,64,60,0.85)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', pin.y + 13);
-      label.setAttribute('font-size', '8');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(marker);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)のセメント工業とは
 

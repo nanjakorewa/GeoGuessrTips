@@ -5,127 +5,17 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "南アフリカ共和国を特徴づける白金族（PGM: プラチナ・パラジウム・ロジウム）、クロム、マンガン、金、ダイヤモンドなどの鉱業を解説。世界のプラチナ生産の約75%を占めるブッシュフェルト火成岩体と主要鉱山会社・産出国シェアを整理。"
 weight: 31
-mapName: "southAfrica"
+mapProvider: "osm"
 galleryDir: "south-africa-mining"
+mapPins:
+  - { lat: -24.130, lng: 28.987, label: "Mogalakwena", type: "pgm", note: "Anglo American Platinum（リンポポ州）" }
+  - { lat: -25.660, lng: 27.240, label: "Bushveld/Rustenburg", type: "pgm", note: "ブッシュフェルト火成岩体・PGM 中心地" }
+  - { lat: -26.205, lng: 28.046, label: "Johannesburg", type: "gold", note: "ヴィットヴァータースラント金鉱床" }
+  - { lat: -25.565, lng: 30.530, label: "Mpumalanga", type: "coal", note: "石炭・PGM 鉱山地帯" }
+  - { lat: -27.788, lng: 22.997, label: "Sishen", type: "iron", note: "Kumba Iron Ore 鉄鉱山（北ケープ州）" }
+  - { lat: -28.738, lng: 24.762, label: "Kimberley", type: "diamond", note: "歴史的ダイヤモンド鉱山" }
+  - { lat: -33.925, lng: 18.424, label: "Cape Town", type: "city", note: "ケープタウン（参考）" }
 ---
-
-<script>
-(function() {
-  // [南アフリカ](/rule/africa/south-africa/)の主要鉱業拠点（southAfrica マップ）
-  var pins = [
-    {
-        "x": 486,
-        "y": 60,
-        "label": "Mogalakwena",
-        "note": "Anglo American Platinum（リンポポ州）"
-    },
-    {
-        "x": 450,
-        "y": 130,
-        "label": "Bushveld/Rustenburg",
-        "note": "ブッシュフェルト火成岩体・PGM 中心地"
-    },
-    {
-        "x": 447,
-        "y": 150,
-        "label": "Johannesburg",
-        "note": "ヴィットヴァータースラント金鉱床"
-    },
-    {
-        "x": 525,
-        "y": 135,
-        "label": "Mpumalanga",
-        "note": "石炭・PGM 鉱山地帯"
-    },
-    {
-        "x": 230,
-        "y": 200,
-        "label": "Sishen",
-        "note": "Kumba Iron Ore 鉄鉱山（北ケープ州）"
-    },
-    {
-        "x": 250,
-        "y": 240,
-        "label": "Kimberley",
-        "note": "歴史的ダイヤモンド鉱山"
-    },
-    {
-        "x": 176,
-        "y": 397,
-        "label": "Cape Town",
-        "note": "ケープタウン（参考）"
-    }
-];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'industry-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + (pin.note || '');
-      g.appendChild(titleEl);
-
-      var color = '#dc2626';
-      var bgColor = 'rgba(220,38,38,0.20)';
-      var strokeColor = 'rgba(220,38,38,0.65)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y);
-      glow.setAttribute('r', '6');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1');
-
-      var dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      dot.setAttribute('cx', pin.x);
-      dot.setAttribute('cy', pin.y);
-      dot.setAttribute('r', '2.5');
-      dot.setAttribute('fill', color);
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 5 + 6;
-      var bgH = 9;
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', pin.y + 6);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(31,41,55,0.88)');
-      labelBg.setAttribute('rx', '2');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', pin.y + 12);
-      label.setAttribute('font-size', '6.5');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(dot);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## なぜ[南アフリカ](/rule/africa/south-africa/)が白金族の中心なのか
 

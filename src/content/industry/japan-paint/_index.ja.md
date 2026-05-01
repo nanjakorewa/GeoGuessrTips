@@ -5,57 +5,21 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "日本の塗料産業を解説。日本ペイント・関西ペイント・大日本塗料の3大メーカーを中心に、年間生産量約160万トン規模の市場、建築・自動車・工業・船舶・重防食といった用途別構造、関西2大本社・関東〜中部の主要工場分布までを整理。"
 weight: 34
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-paint"
+mapPins:
+  - { lat: 34.703, lng: 135.499, label: "日本ペイントHD（大阪本社）", type: "paint", note: "大阪市北区。創業地は東京・茂木合名（1881）、現HDは東京/大阪二本社制" }
+  - { lat: 34.685, lng: 135.508, label: "関西ペイント（大阪本社）", type: "paint", note: "大阪市中央区。1918年創業。総合塗料で関ペ系列を統括" }
+  - { lat: 34.682, lng: 135.448, label: "大日本塗料（大阪本社）", type: "paint", note: "大阪市此花区。重防食・建材用塗料の最大手" }
+  - { lat: 35.626, lng: 139.738, label: "日本ペイント・東京事業所", type: "paint", note: "品川区。HDの東京本社機能・研究" }
+  - { lat: 35.681, lng: 139.767, label: "神東塗料／ロックペイント／大塚刷毛 等", type: "paint", note: "中堅メーカー本社が首都圏・関西に集中" }
+  - { lat: 34.733, lng: 135.402, label: "関西ペイント尼崎工場", type: "plant", note: "兵庫県尼崎市。関ペ最大級の自動車・工業塗料製造拠点" }
+  - { lat: 35.029, lng: 136.902, label: "日本ペイント名古屋", type: "plant", note: "愛知県東海市。自動車塗料の主力工場、トヨタグループ向け" }
+  - { lat: 35.337, lng: 139.349, label: "関西ペイント平塚事業所", type: "plant", note: "神奈川県平塚市。関東向け主力工場" }
+  - { lat: 34.241, lng: 132.222, label: "中国塗料 大竹工場", type: "plant", note: "広島県大竹市。船舶塗料世界トップ級" }
+  - { lat: 34.626, lng: 135.064, label: "日本ペイントマリン", type: "plant", note: "兵庫県神戸市垂水区。船舶用塗料のCMP（旧中国塗料）と並ぶ二大メーカー" }
+  - { lat: 36.314, lng: 139.802, label: "大日本塗料 小山工場", type: "plant", note: "栃木県小山市。重防食塗料の主力" }
 ---
-
-<script>
-(function() {
-  var pins = [
-    // 主要塗料メーカー本社・主力工場
-    { x: 252, y: 470, label: '日本ペイントHD（大阪本社）', type: 'paint',
-      note: '大阪市北区。創業地は東京・茂木合名（1881）、現HDは東京/大阪二本社制' },
-    { x: 256, y: 474, label: '関西ペイント（大阪本社）', type: 'paint', above: true,
-      note: '大阪市中央区。1918年創業。総合塗料で関ペ系列を統括' },
-    { x: 260, y: 478, label: '大日本塗料（大阪本社）', type: 'paint',
-      note: '大阪市此花区。重防食・建材用塗料の最大手' },
-    { x: 410, y: 446, label: '日本ペイント・東京事業所', type: 'paint',
-      note: '品川区。HDの東京本社機能・研究' },
-    { x: 414, y: 450, label: '神東塗料／ロックペイント／大塚刷毛 等', type: 'paint',
-      note: '中堅メーカー本社が首都圏・関西に集中' },
-    // 主要工場
-    { x: 247, y: 472, label: '関西ペイント尼崎工場', type: 'plant',
-      note: '兵庫県尼崎市。関ペ最大級の自動車・工業塗料製造拠点' },
-    { x: 320, y: 478, label: '日本ペイント名古屋', type: 'plant',
-      note: '愛知県東海市。自動車塗料の主力工場、トヨタグループ向け' },
-    { x: 406, y: 452, label: '関西ペイント平塚事業所', type: 'plant',
-      note: '神奈川県平塚市。関東向け主力工場' },
-    { x: 195, y: 495, label: '中国塗料 大竹工場', type: 'plant',
-      note: '広島県大竹市。船舶塗料世界トップ級' },
-    { x: 244, y: 476, label: '日本ペイントマリン', type: 'plant',
-      note: '兵庫県神戸市垂水区。船舶用塗料のCMP（旧中国塗料）と並ぶ二大メーカー' },
-    { x: 434, y: 414, label: '大日本塗料 小山工場', type: 'plant',
-      note: '栃木県小山市。重防食塗料の主力' },
-  ];
-  function init() {
-    var map = document.querySelector('#world-map svg');
-    if (!map) { setTimeout(init, 200); return; }
-    var ns = 'http://www.w3.org/2000/svg';
-    pins.forEach(function(p) {
-      var color = p.type === 'paint' ? '#dc2626' : '#0891b2';
-      var c = document.createElementNS(ns, 'circle');
-      c.setAttribute('cx', p.x); c.setAttribute('cy', p.y);
-      c.setAttribute('r', 6); c.setAttribute('fill', color);
-      c.setAttribute('stroke', '#fff'); c.setAttribute('stroke-width', '1.5');
-      var t = document.createElementNS(ns, 'title');
-      t.textContent = p.label + ' — ' + p.note;
-      c.appendChild(t);
-      map.appendChild(c);
-    });
-  }
-  setTimeout(init, 500);
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)の塗料産業の概観
 

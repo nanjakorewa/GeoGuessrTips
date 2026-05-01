@@ -5,7 +5,7 @@ date: 2026-04-13
 lastmod: 2026-04-13
 description: "日本の総合商社6社（三菱商事・三井物産・伊藤忠商事・住友商事・丸紅・豊田通商）を解説。セグメント別利益構成の比較、資源型vs非資源型の違い、バフェット投資の背景、各社のIR・決算資料へのリンクを整理。"
 weight: 37
-mapName: "japan"
+mapProvider: "osm"
 showMap: false
 galleryDir: "japan-trading-company"
 ---

@@ -5,109 +5,14 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "台湾の半導体産業を解説。TSMCを中心とする世界最大のファウンドリ集積、新竹・南部・中部の3大サイエンスパーク、UMC・聯発科（MediaTek）・日月光（ASE）・ASML台湾など主要企業、地政学リスクとファウンドリの世界シェアを整理。"
 weight: 32
-mapName: "taiwan"
+mapProvider: "osm"
 galleryDir: "taiwan-semiconductor"
+mapPins:
+  - { lat: 24.808, lng: 121.001, label: "Hsinchu", type: "semiconductor", note: "新竹サイエンスパーク（TSMC本社・Fab12等）" }
+  - { lat: 24.147, lng: 120.674, label: "Taichung", type: "semiconductor", note: "中部サイエンスパーク（TSMC F15）" }
+  - { lat: 22.993, lng: 120.213, label: "Tainan", type: "semiconductor", note: "南部サイエンスパーク（TSMC F18 / 3nm）" }
+  - { lat: 22.633, lng: 120.301, label: "Kaohsiung", type: "semiconductor", note: "TSMC F22（2nm 計画）" }
 ---
-
-<script>
-(function() {
-  // [台湾](/rule/asia/taiwan/)の主要半導体クラスター（taiwan マップ）
-  var pins = [
-    {
-        "x": 240,
-        "y": 150,
-        "label": "Hsinchu",
-        "note": "新竹サイエンスパーク（TSMC本社・Fab12等）"
-    },
-    {
-        "x": 227,
-        "y": 226,
-        "label": "Taichung",
-        "note": "中部サイエンスパーク（TSMC F15）"
-    },
-    {
-        "x": 135,
-        "y": 390,
-        "label": "Tainan",
-        "note": "南部サイエンスパーク（TSMC F18 / 3nm）"
-    },
-    {
-        "x": 173,
-        "y": 422,
-        "label": "Kaohsiung",
-        "note": "TSMC F22（2nm 計画）"
-    }
-];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'industry-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + (pin.note || '');
-      g.appendChild(titleEl);
-
-      var color = '#dc2626';
-      var bgColor = 'rgba(220,38,38,0.20)';
-      var strokeColor = 'rgba(220,38,38,0.65)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y);
-      glow.setAttribute('r', '6');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1');
-
-      var dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      dot.setAttribute('cx', pin.x);
-      dot.setAttribute('cy', pin.y);
-      dot.setAttribute('r', '2.5');
-      dot.setAttribute('fill', color);
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 5 + 6;
-      var bgH = 9;
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', pin.y + 6);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(31,41,55,0.88)');
-      labelBg.setAttribute('rx', '2');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', pin.y + 12);
-      label.setAttribute('font-size', '6.5');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(dot);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## なぜ[台湾](/rule/asia/taiwan/)が半導体の中心なのか
 

@@ -201,6 +201,12 @@ const industryCollection = defineCollection({
     mapName: z.string().optional(),
     /** mapName があっても地図表示を抑止するフラグ（ピンが1つも載らないページ用） */
     showMap: z.boolean().optional(),
+    /** "osm" を指定すると Leaflet + OpenStreetMap タイルで描画する */
+    mapProvider: z.enum(["osm"]).optional(),
+    /** OSM 地図の初期中心 [lat, lng]（省略時はピンに合わせて自動フィット） */
+    mapCenter: z.tuple([z.number(), z.number()]).optional(),
+    /** OSM 地図の初期ズーム（省略時はピンに合わせて自動フィット） */
+    mapZoom: z.number().optional(),
     map_index: z.string().optional(),
     additional_map_class: z.string().optional(),
     noindex: z.boolean().optional().default(false),
@@ -212,6 +218,9 @@ const industryCollection = defineCollection({
       lat: z.number(),
       lng: z.number(),
       label: z.string(),
+      note: z.string().optional(),
+      type: z.string().optional(),
+      link: z.string().optional(),
     })).optional(),
     galleryDir: z.string().optional(),
   }),

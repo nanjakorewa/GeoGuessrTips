@@ -5,106 +5,19 @@ date: 2026-04-13
 lastmod: 2026-04-13
 description: "日本のタングステン産業を解説。三菱マテリアル・住友電工グループ（アライドマテリアル）・日本タングステンの主要企業、超硬合金・切削工具・半導体・核融合への用途、中国の圧倒的シェアと日本のリサイクル戦略を整理。"
 weight: 39
-mapName: "japan"
+mapProvider: "osm"
 galleryDir: "japan-tungsten"
+mapPins:
+  - { lat: 33.590, lng: 130.420, label: "福岡（日本タングステン）", type: "w", note: "日本タングステン本社（福岡市博多区）" }
+  - { lat: 34.166, lng: 132.220, label: "岩国（喜和田）", type: "mine", note: "喜和田鉱山跡（山口県岩国市・1992年休山）" }
+  - { lat: 36.695, lng: 137.213, label: "富山（アライドマテリアル）", type: "w", note: "アライドマテリアル富山製作所（富山県）" }
+  - { lat: 34.778, lng: 135.402, label: "伊丹（住友電工）", type: "w", note: "住友電工ハードメタル（兵庫県伊丹市）" }
+  - { lat: 35.391, lng: 136.722, label: "岐阜（三菱マテリアル）", type: "w", note: "三菱マテリアル加工事業カンパニー（岐阜製作所）" }
+  - { lat: 35.012, lng: 135.575, label: "京都（大谷鉱山跡）", type: "mine", note: "大谷鉱山跡（京都府亀岡市・1983年閉山）" }
+  - { lat: 36.491, lng: 140.310, label: "高取（茨城）", type: "mine", note: "高取鉱山跡（茨城県城里町・1986年閉山）" }
+  - { lat: 34.782, lng: 135.470, label: "大阪（日本新金属）", type: "w", note: "日本新金属 本社工場（大阪府豊中市）" }
+  - { lat: 39.706, lng: 140.087, label: "秋田（日本新金属）", type: "w", note: "日本新金属 秋田工場（秋田市茨島）" }
 ---
-
-<script>
-(function() {
-  var pins = [
-    { x: 95, y: 528, label: '福岡（日本タングステン）', type: 'w',
-      note: '日本タングステン本社（福岡市博多区）' },
-    { x: 158, y: 502, label: '岩国（喜和田）', type: 'mine',
-      note: '喜和田鉱山跡（山口県岩国市・1992年休山）' },
-    { x: 388, y: 415, label: '富山（アライドマテリアル）', type: 'w',
-      note: 'アライドマテリアル富山製作所（富山県）' },
-    { x: 265, y: 490, label: '伊丹（住友電工）', type: 'w',
-      note: '住友電工ハードメタル（兵庫県伊丹市）' },
-    { x: 315, y: 460, label: '岐阜（三菱マテリアル）', type: 'w',
-      note: '三菱マテリアル加工事業カンパニー（岐阜製作所）' },
-    { x: 272, y: 482, label: '京都（大谷鉱山跡）', type: 'mine',
-      note: '大谷鉱山跡（京都府亀岡市・1983年閉山）' },
-    { x: 455, y: 412, label: '高取（茨城）', type: 'mine',
-      note: '高取鉱山跡（茨城県城里町・1986年閉山）' },
-    { x: 270, y: 488, label: '大阪（日本新金属）', type: 'w',
-      note: '日本新金属 本社工場（大阪府豊中市）' },
-    { x: 436, y: 278, label: '秋田（日本新金属）', type: 'w',
-      note: '日本新金属 秋田工場（秋田市茨島）' },
-  ];
-
-  function addPins() {
-    var mapEl = document.getElementById('world-map');
-    if (!mapEl) return;
-    var svg = mapEl.querySelector('svg');
-    if (!svg) { setTimeout(addPins, 300); return; }
-
-    pins.forEach(function(pin) {
-      var g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-      g.setAttribute('class', 'kombinat-pin');
-      g.style.cursor = 'default';
-
-      var titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      titleEl.textContent = pin.label + ' — ' + pin.note;
-      g.appendChild(titleEl);
-
-      var color = pin.type === 'mine' ? '#a16207' : '#2563eb';
-      var bgColor = pin.type === 'mine' ? 'rgba(161,98,7,0.18)' : 'rgba(37,99,235,0.18)';
-      var strokeColor = pin.type === 'mine' ? 'rgba(161,98,7,0.55)' : 'rgba(37,99,235,0.55)';
-
-      var glow = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      glow.setAttribute('cx', pin.x);
-      glow.setAttribute('cy', pin.y - 6);
-      glow.setAttribute('r', '10');
-      glow.setAttribute('fill', bgColor);
-      glow.setAttribute('stroke', strokeColor);
-      glow.setAttribute('stroke-width', '1.5');
-
-      var marker = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      marker.setAttribute('x', pin.x);
-      marker.setAttribute('y', pin.y);
-      marker.setAttribute('font-size', '14');
-      marker.setAttribute('fill', color);
-      marker.setAttribute('text-anchor', 'middle');
-      marker.setAttribute('dominant-baseline', 'middle');
-      marker.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      marker.textContent = '\u25CF';
-
-      var textLen = pin.label.length;
-      var bgW = textLen * 8 + 6;
-      var bgH = 13;
-
-      var labelBg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      labelBg.setAttribute('x', pin.x - bgW / 2);
-      labelBg.setAttribute('y', pin.y + 4);
-      labelBg.setAttribute('width', bgW);
-      labelBg.setAttribute('height', bgH);
-      labelBg.setAttribute('fill', 'rgba(68,64,60,0.85)');
-      labelBg.setAttribute('rx', '3');
-
-      var label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      label.setAttribute('x', pin.x);
-      label.setAttribute('y', pin.y + 13);
-      label.setAttribute('font-size', '8');
-      label.setAttribute('fill', '#fff');
-      label.setAttribute('text-anchor', 'middle');
-      label.setAttribute('style', 'font-family:sans-serif; user-select:none;');
-      label.textContent = pin.label;
-
-      g.appendChild(glow);
-      g.appendChild(marker);
-      g.appendChild(labelBg);
-      g.appendChild(label);
-      svg.appendChild(g);
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() { setTimeout(addPins, 700); });
-  } else {
-    setTimeout(addPins, 700);
-  }
-})();
-</script>
 
 ## [日本](/rule/asia/japan/)のタングステン産業とは
 
