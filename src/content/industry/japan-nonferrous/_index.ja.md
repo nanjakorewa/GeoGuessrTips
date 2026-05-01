@@ -195,7 +195,7 @@ galleryDir: "japan-nonferrous"
 
 ### 日立鉱山（久原房之助・茨城県）
 
-久原房之助が1905年に買収し{{% cite "jogmec_metal_overview" %}}、近代経営の手本となりました。鉱山の煙害対策として建設された<span style="font-weight:700">「日立大煙突」</span>（1915年完成、当時世界一の高さ155m）は、現在も日立市のシンボルとして残っています。日立鉱山は後の日立製作所創業の母体ともなりました。1981年閉山{{% cite "jogmec_metal_overview" %}}。
+久原房之助が1905年に買収し{{% cite "jogmec_metal_overview" %}}、近代経営の手本となりました。鉱山の煙害対策として建設された<span style="font-weight:700">「日立大煙突」</span>は、1914年12月に着工からわずか1年で竣工し、高さ155.75mと当時世界一の高さを誇った鉄筋コンクリート造の構造物でした{{% cite "hitachi_chimney" %}}。1993年2月に上部約3分の2が突然倒壊し、現在は54mに改修されたうえで稼働を続けており、残存部は今も日立市のシンボルとなっています{{% cite "hitachi_chimney" %}}。日立鉱山は、久原財閥から派生した日立製作所の創業母体ともなりました。1981年閉山{{% cite "jogmec_metal_overview" %}}。
 
 ### 小坂鉱山・小坂製錬（DOWA・秋田県）
 
@@ -212,6 +212,53 @@ galleryDir: "japan-nonferrous"
 | <span style="font-weight:700">佐賀関製錬所</span> | パンパシフィック・カッパー（JX金属） | 銅製錬と組み合わせた E-Scrap・銅二次原料処理{{% cite "ppc_company" %}} |
 
 直島の三菱マテリアル製錬所は、世界の E-Scrap 発生量（年約80万トン）のうち{{% cite "mmc_escrap" %}}、<span style="font-weight:700">グループ全体で約20%相当を処理</span> しているとされ、世界の都市鉱山リサイクルの中心拠点となっています{{% cite "mmc_escrap" %}}。2030年度には処理能力を約24万トンに拡大し{{% cite "mmc_escrap" %}}、さらなる役割強化を予定しています。
+
+## 4社戦略の分岐点 — 川上か、川下か
+
+2020年代に入り、銅製錬大手4社（住友金属鉱山・三菱マテリアル・JX金属・三井金属）の戦略は大きく分岐しました。鉱山権益の保有度合いと、川下（高付加価値加工）への踏み込み方が、収益性と市場評価（PBR）に明確な差を生んでいます。
+
+JX金属の営業利益率は2025年3月期で約16%と、三井金属（約10.5%）や非鉄金属業界平均（約8%前後）を大きく上回っています{{% cite "jx_kabunushi_taro" %}}。一方、三菱マテリアルは銅価格高騰下にも関わらず2026年3月期営業利益が前期比約-73%の100億円見込みと大幅減益で、PBRは2025年7月時点で約0.44倍と1倍割れの低位が続いています{{% cite "mmc_pbr_finasee" %}}。
+
+### バリューチェーンにおける立ち位置
+
+| 戦略タイプ | 該当企業 | 鉱山権益 | 製錬 | 川下の主軸 |
+| ---------- | -------- | -------- | ---- | ---------- |
+| <span style="font-weight:700">川上維持型</span> | 住友金属鉱山 | フィリピン（ニッケル）、ニューカレドニア、海外銅金プロジェクトを保有{{% cite "smm_company" %}} | 東予銅製錬・新居浜ニッケル | EV用 NCA 正極材（パナソニック→テスラ、トヨタ向け）{{% cite "smm_nca_toyokeizai" %}} |
+| <span style="font-weight:700">資源＋多角化再編型</span> | 三菱マテリアル | 海外銅鉱山に部分権益 | 直島銅製錬 | E-Scrap・銅加工。セメント事業は2022年に UBE三菱セメントへ統合分社{{% cite "mmc_ube_cement" %}} |
+| <span style="font-weight:700">脱資源・川下シフト型</span> | JX金属 | 銅鉱山権益を縮小・売却 | PPC（佐賀関・玉野）に集約 | 半導体用スパッタリングターゲット世界シェア約60〜64%、圧延銅箔{{% cite "jx_sputtering_newswitch" %}}{{% cite "jx_sharelab" %}} |
+| <span style="font-weight:700">特化型川下</span> | 三井金属 | 自山鉱を保有しない純カスタム製錬 | 八戸亜鉛・神岡鉱業 | 極薄銅箔 MicroThin™ 世界シェア約95%（半導体パッケージ基板）{{% cite "mitsui_microthin" %}} |
+
+「自山鉱（自社権益鉱山）を持たない純粋なカスタム製錬」だけで生計を立てる構造はTC/RC崩壊の影響を直撃するため{{% cite "marubeni_tcrc" %}}、三井金属やJX金属がいち早く電子材料へ軸足を移したのは合理的な選択でした。
+
+## 2025年・PPC統合 — 中国製錬と TC/RC 崩壊への対抗
+
+世界の銅製錬能力の50%超を中国が握り{{% cite "nikkei_china_smelting" %}}、製錬所が鉱山会社から受け取る加工賃 <span style="font-weight:700">TC/RC（製錬・精錬チャージ）</span> は2025年の長期契約ベンチマークで <span style="font-weight:700">TC=$25/t・RC=2.5¢/lb</span> と前年比約-70%の歴史的低水準まで急落しました。さらにスポット市場ではマイナス領域に突入し、副産物収入（金・銀・硫酸など）に乏しい純カスタム製錬所の収益は深刻な打撃を受けています{{% cite "marubeni_tcrc" %}}{{% cite "jogmec_china_smelting" %}}。
+
+このような環境下、2025年11月11日、<span style="font-weight:700">三菱マテリアル・JX金属・三井金属・丸紅</span> の4社は、これまで三菱マテリアルが単独で営んできた銅精鉱の購入と電気銅・硫酸・銅製錬副産物の販売事業を、JX金属・三井金属・丸紅が共同出資するパンパシフィック・カッパー（PPC）に統合する基本合意書を締結しました{{% cite "mmc_ppc_integration" %}}{{% cite "ppc_nikkei" %}}。
+
+統合後は、PPCが鉱山会社との交渉窓口を一本化し、共同購買・共同販売・複数製錬所への共同委託というスキームを構築する見通しで、<span style="font-weight:700">最終契約は2026年3月末を目途</span> に進められます。これによって、住友金属鉱山を除く国内銅製錬の主要プレーヤーが、事実上ひとつの調達エンティティに集約される歴史的な再編となります{{% cite "mmc_ppc_integration" %}}{{% cite "ppc_sustainable_japan" %}}。
+
+## 川下の世界シェア地図
+
+製錬の利益率が縮む中で、4社は「いかに鉱石から離れた段階で価値を生むか」という方向性から半導体・EV・銅箔・リサイクル事業を展開しています。
+
+| 製品 | 主要供給企業 | 世界シェア（公表・報道ベース） | 主要顧客領域 |
+| ---- | ------------ | ------------------------------ | ------------ |
+| 半導体用スパッタリングターゲット | JX金属 | 約60〜64%{{% cite "jx_sputtering_newswitch" %}} | TSMCなど先端ファウンドリ、AIサーバー |
+| 圧延銅箔（FPC・薄膜用途） | JX金属 | 報道で約78%との指摘あり{{% cite "jx_sharelab" %}} | スマートフォン・車載通信 |
+| キャリア付き極薄銅箔 MicroThin™ | 三井金属 | 約95%以上{{% cite "mitsui_microthin" %}} | スマホ用半導体パッケージ基板・HDI基板 |
+| ニッケル酸リチウム（NCA） | 住友金属鉱山 | 約60%{{% cite "smm_nca_toyokeizai" %}} | パナソニック→テスラ、トヨタ |
+| E-Scrap処理（金・PGM・銅回収） | 三菱マテリアル（直島中心） | グループ世界最大級・年16万t{{% cite "mmc_escrap" %}} | 世界中の電子廃基板 |
+
+住友金属鉱山が手掛けるニッケル系正極材は、初搭載が <span style="font-weight:700">2002年発売の2代目プリウス</span> にまで遡り、20年以上の供給ノウハウとフィリピンの自社ニッケル権益を併せ持つ「鉱山〜素材」の一気通貫モデルが特長です{{% cite "smm_nca_toyokeizai" %}}。
+
+## 事業特性
+
+事業ポートフォリオの違いは、株主構成にも反映されています。
+
+* <span style="font-weight:700">JX金属（5016）</span>：2025年3月19日に東証プライム市場に上場（時価総額約8,000億円・売出規模最大4,600億円）{{% cite "jx_listing_nikkei" %}}。上場後もENEOSホールディングスが約42.4%を保有する持分法適用関連会社の状態が続き、コングロマリット・ディスカウント解消が上場の主な狙いと位置付けられています{{% cite "jx_listing_nikkei" %}}。
+* <span style="font-weight:700">住友金属鉱山（5713）</span>：歴史的にトヨタグループとの相互出資関係が知られ、EV正極材を介した供給連鎖で結びついています{{% cite "smm_nca_toyokeizai" %}}。
+* <span style="font-weight:700">三菱マテリアル（5711）</span>：英国の独立系バリュー投資家 <span style="font-weight:700">シルチェスター・インターナショナル・インベスターズ（Silchester International Investors LLP）</span> が主要株主に名を連ね、低PBR・複合事業ポートフォリオの再編に対する圧力源となっています{{% cite "mmc_pbr_finasee" %}}。
 
 ## 銅製錬能力と都市鉱山リサイクルの可視化
 
@@ -352,21 +399,6 @@ new Chart(document.getElementById('pie-escrap'), {
 <td>{{% corplink "https://www.fujikura.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "5803" %}}</td>
 </tr>
-<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 非鉄加工・めっき等</td></tr>
-<tr>
-<td>日本製線</td>
-<td>{{% minkabu 5996 %}}</td>
-<td>非鉄金属線・電線・鋼線の製造販売で国内有数メーカー。銅線・アルミ線・ステンレス線など各種素材で高いシェアを保有。自動車・建設・電力・電子機器向けに多様な仕様で対応。自動車業界のEV化、脱炭素化に対応する機能線の開発を推進{{% cite "nippon_seisen" %}}。</td>
-<td>{{% corplink "https://www.n-seisen.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "5996" %}}</td>
-</tr>
-<tr>
-<td>アサコ鍍金</td>
-<td>{{% minkabu 5133 %}}</td>
-<td>表面処理（めっき・化学処理）業界の大手メーカー。電子部品・自動車・建築部材向けに各種高機能めっき膜を供給。自動車の軽量化、EV化に対応した新素材（アルミ、マグネシウム）のめっき技術で市場をリード{{% cite "asaco_plating" %}}。</td>
-<td>{{% corplink "https://www.asaco-plating.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "5133" %}}</td>
-</tr>
 </tbody>
 </table>
 </div>
@@ -388,6 +420,21 @@ tohozinc_recovery: 東邦亜鉛株式会社「事業再生計画について」<
 sumitomo_electric: 住友電気工業株式会社「会社情報」<https://www.sei.co.jp/company/>
 furukawa_electric: 古河電気工業株式会社「会社情報」<https://www.furukawa.co.jp/company/>
 fujikura_co: 株式会社フジクラ「会社情報」<https://www.fujikura.co.jp/company/>
-nippon_seisen: 日本製線株式会社「会社情報」<https://www.nihonseisen.co.jp/>
-asaco_plating: アサコ鍍金株式会社「会社概要」<https://www.asaco-plating.co.jp/>
+mmc_ppc_integration: 三菱マテリアル株式会社「銅精鉱の購入・電気銅等の販売に係る事業の統合に関する基本合意書の締結について」（2025年11月11日）<https://www.mmc.co.jp/corporate/ja/news/press/2025/25-1111.html>
+ppc_nikkei: 日本経済新聞「三菱マテリアルやJX金属など4社、銅の原料調達・販売事業を統合」（2025年11月11日）<https://www.nikkei.com/article/DGXZQOUC315070R31C25A0000000/>
+ppc_sustainable_japan: Sustainable Japan「三菱マテリアルやJX金属等4社、銅精鉱事業統合で基本合意。国際競争力強化」<https://sustainablejapan.jp/2025/12/06/mmc-ppc/119610>
+mmc_pbr_finasee: Finasee「三菱マテリアル【5711】なぜ株価低迷？ 5年前水準まで下落、PBR 0.4倍台 銅が高騰も大幅減益の理由とは」<https://media.finasee.jp/articles/-/16581>
+jx_sputtering_newswitch: ニュースイッチ（日刊工業新聞）「世界シェア約6割の半導体材料、JX金属が生産能力1.6倍に…茨城新工場に230億円」<https://newswitch.jp/p/48614>
+jx_sharelab: Toshi Lab/note「JX金属【5016】世界シェア6割の半導体材料メーカー」<https://note.com/sharelab/n/n05f50334c21a>
+jx_kabunushi_taro: 株主太郎/note「【10月7日急落の真相】JX金属は『日本一の半導体材料企業』なのか？── 住友金属鉱山・三井金属鉱業との徹底比較」<https://note.com/kabunushi_taro/n/n61c6f1623a93>
+mitsui_microthin: 三井金属株式会社「キャリア付き極薄銅箔 MicroThin™ シリーズ」<https://em.mitsui-kinzoku.com/douhaku/technology/microthin>
+smm_nca_toyokeizai: 東洋経済オンライン「住友金属鉱山が『電池部材』で中国勢に負けない秘訣 — 車の航続距離を決める正極材で世界シェア2位」<https://toyokeizai.net/articles/-/575838>
+jx_listing_nikkei: 日本経済新聞「JX金属3月19日上場、東証が承認 時価総額約8000億円」<https://www.nikkei.com/article/DGXZQOUC142ZK0U5A210C2000000/>
+mmc_ube_cement: UBE三菱セメント株式会社「沿革」<https://www.mu-cc.com/corporate/history.html>
+jogmec_china_smelting: JOGMEC「資源メジャー並びに中国企業による世界の銅権益参入をめぐる動き（後編）」<https://mric.jogmec.go.jp/reports/current/20250127/185570/>
+marubeni_tcrc: 丸紅経済研究所「銅市場では、製錬所が受け取るはずの加工賃（TC/RC）がマイナスに沈む異常事態」<https://www.marubeni.com/jp/research/report/data/20260428_li.pdf>
+nikkei_china_smelting: 日本経済新聞「銅の製錬能力、中国が急拡大 世界市場に地殻変動」<https://www.nikkei.com/article/DGXZQOCD312WJ0R30C24A1000000/>
+icrr_superkamiokande: 東京大学宇宙線研究所「スーパーカミオカンデ概要」<https://www-sk.icrr.u-tokyo.ac.jp/sk/about/outline/>
+mitsui_kamioka_nobel: 三井金属株式会社「宇宙誕生の謎に挑む神岡鉱山」<https://www.mitsui-kinzoku.com/nobel/>
+hitachi_chimney: 日立市公式ウェブサイト「大煙突」<https://www.city.hitachi.lg.jp/citypromotion/hitachi_donnamachi/1007477/1011149/1010610/1004713/1008647/1004715.html>
 {{% /references %}}
