@@ -6,8 +6,23 @@ lastmod: 2026-04-25
 description: "日本の旧一般電気事業者10社（北海道・東北・東京・中部・北陸・関西・中国・四国・九州・沖縄）と卸電力大手のJERA・電源開発(J-POWER)を解説。2025年3月期の売上・利益・総資産比較、電源構成比（原子力・火力・水力・再エネ）の違い、販売電力量の需要家構成（家庭・業務・産業）、原子力発電所の稼働状況を各社IR資料と経済産業省・電気事業連合会・ISEPの公表データに基づいて整理。"
 weight: 44
 mapProvider: "osm"
-showMap: false
 galleryDir: "japan-power"
+mapRegions:
+  source: "/data/japan-prefectures.topojson"
+  topojsonObject: "japan"
+  property: "nam"
+  legendTitle: "旧一般電気事業者の供給エリア"
+  groups:
+    - { name: "北海道電力", color: "#3b8ed0", regions: ["Hokkai Do"], note: "北海道全域" }
+    - { name: "東北電力", color: "#7fbf41", regions: ["Aomori Ken", "Iwate Ken", "Miyagi Ken", "Akita Ken", "Yamagata Ken", "Fukushima Ken", "Niigata Ken"], note: "東北6県＋新潟県" }
+    - { name: "東京電力（東京電力EP/HD）", color: "#e07b20", regions: ["Ibaraki Ken", "Tochigi Ken", "Gunma Ken", "Saitama Ken", "Chiba Ken", "Tokyo To", "Kanagawa Ken", "Yamanashi Ken"], note: "関東1都6県＋山梨（静岡富士川以東は地図上では中部に集約）" }
+    - { name: "中部電力", color: "#d9a23a", regions: ["Nagano Ken", "Gifu Ken", "Shizuoka Ken", "Aichi Ken", "Mie Ken"], note: "東海3県＋長野（実際は三重南部・福井嶺南は関電管轄）" }
+    - { name: "北陸電力", color: "#a169c2", regions: ["Toyama Ken", "Ishikawa Ken", "Fukui Ken"], note: "富山・石川・福井（嶺北中心）" }
+    - { name: "関西電力", color: "#d94c4c", regions: ["Shiga Ken", "Kyoto Fu", "Osaka Fu", "Hyogo Ken", "Nara Ken", "Wakayama Ken"], note: "近畿2府4県（福井嶺南・三重南部も実際は関電）" }
+    - { name: "中国電力", color: "#3fa05f", regions: ["Tottori Ken", "Shimane Ken", "Okayama Ken", "Hiroshima Ken", "Yamaguchi Ken"], note: "中国地方5県" }
+    - { name: "四国電力", color: "#3aa9c4", regions: ["Tokushima Ken", "Kagawa Ken", "Ehime Ken", "Kochi Ken"], note: "四国4県" }
+    - { name: "九州電力", color: "#e07a4a", regions: ["Fukuoka Ken", "Saga Ken", "Nagasaki Ken", "Kumamoto Ken", "Oita Ken", "Miyazaki Ken", "Kagoshima Ken"], note: "九州7県" }
+    - { name: "沖縄電力", color: "#9b6cb0", regions: ["Okinawa Ken"], note: "沖縄県" }
 ---
 
 ## 旧一般電気事業者10社 — 戦後70年続く地域独占体制の現在地

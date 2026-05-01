@@ -15,13 +15,29 @@ interface Pin {
   link?: string;
 }
 
+interface RegionGroup {
+  name: string;
+  color: string;
+  regions: string[];
+  note?: string;
+}
+
+interface MapRegions {
+  source: string;
+  topojsonObject?: string;
+  property: string;
+  groups: RegionGroup[];
+  legendTitle?: string;
+}
+
 interface Props {
   pins: Pin[];
   center?: [number, number];
   zoom?: number;
+  regions?: MapRegions;
 }
 
-const { pins, center, zoom } = Astro.props;
+const { pins, center, zoom, regions } = Astro.props;
 ---
 
 <link
@@ -37,6 +53,7 @@ const { pins, center, zoom } = Astro.props;
   data-pins={JSON.stringify(pins)}
   data-center={center ? JSON.stringify(center) : ""}
   data-zoom={zoom != null ? String(zoom) : ""}
+  data-regions={regions ? JSON.stringify(regions) : ""}
 >
 </div>
 
@@ -130,6 +147,52 @@ const { pins, center, zoom } = Astro.props;
   [data-theme="dark"] .ind-osm-popup__link {
     color: #5b9bd5;
   }
+
+  /* コロプレス（地域色分け）レイヤ */
+  .ind-osm-region {
+    fill-opacity: 0.55;
+    stroke: #fff;
+    stroke-width: 0.8;
+    transition: fill-opacity 0.15s ease;
+  }
+  .ind-osm-region.is-hover {
+    fill-opacity: 0.85;
+  }
+  .ind-osm-legend {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 8px 10px;
+    border-radius: 4px;
+    font-size: 11px;
+    line-height: 1.5;
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", system-ui, sans-serif;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+    max-width: 220px;
+  }
+  .ind-osm-legend__title {
+    font-weight: 700;
+    font-size: 12px;
+    margin-bottom: 4px;
+    color: #1e3a5f;
+  }
+  .ind-osm-legend__item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 2px 0;
+  }
+  .ind-osm-legend__swatch {
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    flex-shrink: 0;
+  }
+  [data-theme="dark"] .ind-osm-legend {
+    background: rgba(34, 38, 42, 0.95);
+    color: #d8d5d0;
+  }
+  [data-theme="dark"] .ind-osm-legend__title {
+    color: #5b9bd5;
+  }
 </style>
 
 <script
@@ -171,6 +234,130 @@ const { pins, center, zoom } = Astro.props;
         maxZoom: 19,
         className: "ind-osm-tile",
       }).addTo(map);
+
+      // ----- コロプレス（地域色分け）レイヤ -----
+      var regionsAttr = el.getAttribute("data-regions");
+      var regionsConfig = null;
+      try {
+        if (regionsAttr) regionsConfig = JSON.parse(regionsAttr);
+      } catch (e) {
+        regionsConfig = null;
+      }
+      var regionLayer = null;
+      var regionBounds = null;
+      if (regionsConfig && regionsConfig.source) {
+        loadAndRenderRegions(regionsConfig);
+      }
+
+      function loadAndRenderRegions(cfg) {
+        // region名 → group の lookup を構築
+        var lookup = {};
+        cfg.groups.forEach(function (g) {
+          (g.regions || []).forEach(function (r) {
+            lookup[r] = g;
+          });
+        });
+        fetch(cfg.source)
+          .then(function (r) { return r.json(); })
+          .then(function (data) {
+            var geojson = isTopojson(data, cfg.topojsonObject) ? topojsonToGeojson(data, cfg.topojsonObject) : data;
+            regionLayer = L.geoJSON(geojson, {
+              style: function (feature) {
+                var key = feature && feature.properties ? feature.properties[cfg.property] : null;
+                var g = key ? lookup[key] : null;
+                return {
+                  className: "ind-osm-region",
+                  fillColor: g ? g.color : "#cbd5e1",
+                  fillOpacity: g ? 0.55 : 0.15,
+                  color: "#fff",
+                  weight: 0.8,
+                };
+              },
+              onEachFeature: function (feature, layer) {
+                var key = feature && feature.properties ? feature.properties[cfg.property] : null;
+                var g = key ? lookup[key] : null;
+                var label = (feature.properties && (feature.properties.nam_ja || feature.properties.name || feature.properties[cfg.property])) || "";
+                var html = '<div class="ind-osm-popup__title">' + label + "</div>";
+                if (g) html += '<div class="ind-osm-popup__note"><strong>' + g.name + '</strong>' + (g.note ? "<br>" + g.note : "") + "</div>";
+                layer.bindPopup(html, { className: "ind-osm-popup" });
+                layer.on("mouseover", function () { layer.setStyle({ fillOpacity: 0.85 }); });
+                layer.on("mouseout", function () { layer.setStyle({ fillOpacity: g ? 0.55 : 0.15 }); });
+              },
+            });
+            regionLayer.addTo(map);
+            regionBounds = regionLayer.getBounds();
+            // ピンが無く、明示的な center/zoom も指定されていない場合だけポリゴンに合わせてフィット
+            // pad は負値で内側に縮め、デフォルトのフィットよりやや拡大して表示する
+            if (!markers.length && regionBounds.isValid() && !(centerAttr && zoomAttr)) {
+              map.fitBounds(regionBounds.pad(-0.08));
+            }
+            addLegend(cfg);
+          })
+          .catch(function (err) {
+            console.error("[IndustryOSMMap] region layer load failed:", err);
+          });
+      }
+
+      function isTopojson(data, objKey) {
+        return !!(data && data.type === "Topology" && data.objects && (objKey ? data.objects[objKey] : true));
+      }
+
+      // 軽量な TopoJSON → GeoJSON デコーダ（topojson-client なしで動作）
+      function topojsonToGeojson(topo, objKey) {
+        var key = objKey || Object.keys(topo.objects)[0];
+        var obj = topo.objects[key];
+        var arcs = topo.arcs;
+        var tx = topo.transform;
+        function decodeArc(arcIdx) {
+          var reverse = arcIdx < 0;
+          var idx = reverse ? ~arcIdx : arcIdx;
+          var arc = arcs[idx];
+          var x = 0, y = 0;
+          var pts = arc.map(function (d) {
+            x += d[0]; y += d[1];
+            return tx ? [x * tx.scale[0] + tx.translate[0], y * tx.scale[1] + tx.translate[1]] : [x, y];
+          });
+          return reverse ? pts.slice().reverse() : pts;
+        }
+        function ringToCoords(ring) {
+          var coords = [];
+          for (var i = 0; i < ring.length; i++) {
+            var pts = decodeArc(ring[i]);
+            if (coords.length) coords.pop();
+            for (var j = 0; j < pts.length; j++) coords.push(pts[j]);
+          }
+          return coords;
+        }
+        function polygonToCoords(poly) { return poly.map(ringToCoords); }
+        var features = obj.geometries.map(function (g) {
+          var coords;
+          if (g.type === "MultiPolygon") coords = g.arcs.map(polygonToCoords);
+          else if (g.type === "Polygon") coords = polygonToCoords(g.arcs);
+          else coords = [];
+          return { type: "Feature", properties: g.properties, geometry: { type: g.type, coordinates: coords } };
+        });
+        return { type: "FeatureCollection", features: features };
+      }
+
+      function addLegend(cfg) {
+        var legend = L.control({ position: "topright" });
+        legend.onAdd = function () {
+          var div = L.DomUtil.create("div", "ind-osm-legend");
+          var html = "";
+          if (cfg.legendTitle) html += '<div class="ind-osm-legend__title">' + cfg.legendTitle + "</div>";
+          cfg.groups.forEach(function (g) {
+            html +=
+              '<div class="ind-osm-legend__item">' +
+              '<span class="ind-osm-legend__swatch" style="background:' + g.color + '"></span>' +
+              '<span>' + g.name + "</span>" +
+              "</div>";
+          });
+          div.innerHTML = html;
+          L.DomEvent.disableClickPropagation(div);
+          return div;
+        };
+        legend.addTo(map);
+      }
 
       var markers = [];
       pins.forEach(function (p) {

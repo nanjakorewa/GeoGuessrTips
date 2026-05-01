@@ -222,6 +222,24 @@ const industryCollection = defineCollection({
       type: z.string().optional(),
       link: z.string().optional(),
     })).optional(),
+    /** OSM 地図上に色分けポリゴン（コロプレス）を重ねる設定 */
+    mapRegions: z.object({
+      /** TopoJSON または GeoJSON ファイルのパス（/public からの絶対パス） */
+      source: z.string(),
+      /** TopoJSON の場合、objects 配下のキー名（例: "japan"） */
+      topojsonObject: z.string().optional(),
+      /** features の properties から色分けキーを取り出すプロパティ名（例: "nam"） */
+      property: z.string(),
+      /** ポリゴングループ定義 */
+      groups: z.array(z.object({
+        name: z.string(),
+        color: z.string(),
+        regions: z.array(z.string()),
+        note: z.string().optional(),
+      })),
+      /** 凡例タイトル */
+      legendTitle: z.string().optional(),
+    }).optional(),
     galleryDir: z.string().optional(),
   }),
 });
