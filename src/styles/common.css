@@ -2653,9 +2653,9 @@ div.sign-area img.verysmall {
 div.sign-area-corp img,
 div.sign-area-corp img.small,
 div.sign-area-corp img.verysmall {
-  max-height: 2em;
-  max-width: 5em;
-  min-width: 1.4em;
+  max-height: 3em;
+  max-width: 7.5em;
+  min-width: 2.1em;
 }
 
 div.corp-area {
@@ -3409,8 +3409,8 @@ section.section-updates {
   div.sign-area-corp img,
   div.sign-area-corp img.small,
   div.sign-area-corp img.verysmall {
-    max-height: 1.6em;
-    max-width: 4em;
+    max-height: 2.4em;
+    max-width: 6em;
   }
 
   div.corp-area img {

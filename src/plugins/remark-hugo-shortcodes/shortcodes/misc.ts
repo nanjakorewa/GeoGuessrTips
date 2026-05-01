@@ -153,12 +153,13 @@ export function speakerdeckHandler(args: string[]): string {
   return `<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: calc(100% / ${ratio});"><iframe src="//speakerdeck.com/player/${id}" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>`;
 }
 
-/** corp: {{% corp area region size %}} → corporation sign images */
-export function corpHandler(args: string[], lang: Language): string {
-  const area = args[0] || "";
-  const region = args[1] || "";
-  const size = args[2] || "normal";
-
+/** Build just the logos div (no heading/button) for a corp shortcode invocation. */
+function buildCorpLogosHtml(
+  area: string,
+  region: string,
+  size: string,
+  lang: Language
+): string {
   const dirPath = path.resolve("src/content/rule", area, region, "corp");
   if (!fs.existsSync(dirPath)) return "";
 
@@ -167,7 +168,6 @@ export function corpHandler(args: string[], lang: Language): string {
   );
   if (files.length === 0) return "";
 
-  const heading = t("findable-corp-sign", lang);
   const images = files
     .map((f) => {
       const src =
@@ -178,8 +178,29 @@ export function corpHandler(args: string[], lang: Language): string {
     })
     .join("\n");
 
+  return `<div class="sign-area sign-area-corp">\n${images}\n</div>`;
+}
+
+/** corp: {{% corp area region size %}} → corporation sign images (heading + logos) */
+export function corpHandler(args: string[], lang: Language): string {
+  const area = args[0] || "";
+  const region = args[1] || "";
+  const size = args[2] || "normal";
+
+  const logos = buildCorpLogosHtml(area, region, size, lang);
+  if (!logos) return "";
+
+  const heading = t("findable-corp-sign", lang);
   const detailBtn = `<a href="#corp-desc" class="btn-corp-detail">&#9662; 詳細</a>`;
-  return `<h4 class="section-title">${heading} ${detailBtn}</h4>\n<div class="sign-area sign-area-corp">\n${images}\n</div>`;
+  return `<h4 class="section-title">${heading} ${detailBtn}</h4>\n${logos}`;
+}
+
+/** Logos-only variant: returns just the sign-area div, used when injecting into corp-desc. */
+export function corpLogosOnlyHandler(args: string[], lang: Language): string {
+  const area = args[0] || "";
+  const region = args[1] || "";
+  const size = args[2] || "normal";
+  return buildCorpLogosHtml(area, region, size, lang);
 }
 
 /** amazoncard: {{% amazoncard url="..." title="..." image="..." price="..." tagline="..." badge="..." %}} */

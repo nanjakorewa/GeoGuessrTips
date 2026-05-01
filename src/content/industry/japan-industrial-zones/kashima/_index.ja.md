@@ -6,6 +6,19 @@ lastmod: 2026-03-30
 description: "茨城県鹿嶋・神栖の鹿島臨海工業地域を解説。掘込港湾・鉄鋼・石油化学・電力の国策コンビナートとしての歴史と現在の産業構造。"
 weight: 10
 galleryDir: "kashima"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.945, lng: 140.730, label: "鹿島港", type: "port", note: "日本最大の掘込港湾。1969年完成。掘込水路長約7km" }
+  - { lat: 35.9344, lng: 140.6795, label: "日本製鉄 鹿島製鉄所", type: "steel", note: "高炉容積5,370m³（世界最大級）。粗鋼能力約400〜500万t/年", link: "/industry/japan-combinat/kashima/" }
+  - { lat: 35.9404, lng: 140.6887, label: "鹿島共同発電所", type: "power", note: "出力1,000MW。コンビナート向け工業用電力" }
+  - { lat: 35.9163, lng: 140.7013, label: "鹿島火力発電所", type: "power", note: "JERA運営。出力5,660MW級" }
+  - { lat: 35.9135, lng: 140.6872, label: "鹿島石油", type: "oil", note: "ENEOSグループ。原油精製180千BD" }
+  - { lat: 35.9061, lng: 140.6825, label: "信越化学工業 鹿島工場", type: "chemical", note: "塩化ビニル樹脂・シリコーン" }
+  - { lat: 35.9020, lng: 140.6905, label: "三菱ケミカル 鹿島事業所", type: "chemical", note: "MMA等のスペシャリティ化学品" }
+  - { lat: 35.8944, lng: 140.7002, label: "JSR 鹿島工場", type: "chemical", note: "合成ゴム・エラストマー" }
+  - { lat: 35.8910, lng: 140.6910, label: "AGC 鹿島工場", type: "chemical", note: "クロル・アルカリ・化成品" }
+  - { lat: 35.8881, lng: 140.6802, label: "花王 鹿島工場", type: "chemical", note: "界面活性剤・油脂化学品" }
+  - { lat: 35.851, lng: 140.728, label: "神栖LPG国家備蓄基地", type: "stockpile", note: "国家LPG備蓄（約20万t）" }
 ---
 
 ## 鹿島臨海工業地域の概要

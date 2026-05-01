@@ -6,6 +6,19 @@ lastmod: 2026-03-30
 description: "瀬戸内工業地域を解説。水島・周南・徳山・今治など瀬戸内海沿岸の石油化学・鉄鋼・造船・自動車産業の集積構造と歴史的背景。"
 weight: 20
 galleryDir: "setouchi"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.680, lng: 135.190, label: "神戸", type: "ship-steel", note: "神戸製鋼所・川崎重工。鉄鋼・造船・防衛" }
+  - { lat: 34.792, lng: 134.620, label: "姫路", type: "steel", note: "神戸製鋼所姫路・山陽特殊製鋼" }
+  - { lat: 34.495, lng: 133.745, label: "水島", type: "chemical-steel-auto", note: "JFEスチール西日本・三菱自動車・三菱ケミカル他", link: "/industry/japan-combinat/mizushima/" }
+  - { lat: 34.470, lng: 133.412, label: "福山", type: "steel", note: "JFEスチール西日本製鉄所 福山地区。粗鋼能力国内最大級" }
+  - { lat: 34.230, lng: 132.567, label: "呉", type: "ship", note: "JMU呉造船所跡・防衛拠点" }
+  - { lat: 34.230, lng: 132.230, label: "大竹・岩国", type: "chemical", note: "三井化学大竹・三菱レイヨン・帝人岩国" }
+  - { lat: 34.045, lng: 131.830, label: "周南", type: "chemical", note: "出光興産徳山・東ソー南陽他コンビナート" }
+  - { lat: 33.940, lng: 131.250, label: "宇部", type: "chemical-cement", note: "UBE（旧宇部興産）。化学・セメント発祥地" }
+  - { lat: 33.960, lng: 133.283, label: "新居浜", type: "chemical", note: "住友化学発祥地・住友グループの源流" }
+  - { lat: 34.067, lng: 133.000, label: "今治", type: "ship", note: "今治造船グループ。国内建造量最大手", link: "/industry/japan-shipbuilding/" }
+  - { lat: 34.317, lng: 133.870, label: "坂出・丸亀", type: "ship-steel", note: "今治造船丸亀・JFE鋼板坂出" }
 ---
 
 ## 瀬戸内工業地域の概要

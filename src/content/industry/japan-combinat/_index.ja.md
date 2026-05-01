@@ -8,7 +8,7 @@ mapProvider: "osm"
 galleryDir: "combinat"
 mapPins:
   - { lat: 42.315, lng: 140.974, label: "室蘭", type: "factory", note: "製鉄" }
-  - { lat: 35.965, lng: 140.659, label: "鹿島", type: "factory", note: "鉄鋼・石油化学", link: "/industry/japan-combinat/kashima/" }
+  - { lat: 35.910, lng: 140.689, label: "鹿島", type: "factory", note: "鉄鋼・石油化学", link: "/industry/japan-combinat/kashima/" }
   - { lat: 35.507, lng: 140.083, label: "京葉", type: "factory", note: "石油精製・石油化学・製鉄", link: "/industry/japan-combinat/keiyo/" }
   - { lat: 34.964, lng: 136.625, label: "四日市", type: "factory", note: "石油化学" }
   - { lat: 34.567, lng: 135.443, label: "堺・阪神", type: "factory", note: "石油精製・製鉄" }

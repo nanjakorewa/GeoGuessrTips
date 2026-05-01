@@ -55,6 +55,7 @@ import {
   twitterHandler,
   speakerdeckHandler,
   corpHandler,
+  corpLogosOnlyHandler,
   ahrefHandler,
   arelHandler,
   corplinkHandler,
@@ -145,9 +146,37 @@ function processAllShortcodes(text: string, lang: Language): string {
   result = processInlineShortcode(result, "rd", (args) =>
     rdHandler(args, lang)
   );
-  result = processInlineShortcode(result, "corp", (args) =>
-    corpHandler(args, lang)
-  );
+
+  // corp: when the page has a "代表的な企業の説明" section (id="corp-desc"),
+  // move the logo grid into that section instead of rendering it inline in
+  // "国・地域の見分け方". The section already has its own heading, so drop
+  // the redundant heading + "詳細" button and inject only the logos div.
+  const hasCorpDesc = /<div\b[^>]*\bid=["']corp-desc["']/.test(result);
+  if (hasCorpDesc) {
+    let movedCorpLogos = "";
+    result = processInlineShortcode(result, "corp", (args) => {
+      movedCorpLogos += corpLogosOnlyHandler(args, lang);
+      return "";
+    });
+    if (movedCorpLogos) {
+      // Inject right after the section's <h4> heading (before the table).
+      // Falls back to injecting just inside the opening div if no h4 follows.
+      const afterHeading =
+        /(<div\b[^>]*\bid=["']corp-desc["'][^>]*>\s*<h4\b[^>]*>[\s\S]*?<\/h4>)/;
+      if (afterHeading.test(result)) {
+        result = result.replace(afterHeading, `$1\n${movedCorpLogos}`);
+      } else {
+        result = result.replace(
+          /(<div\b[^>]*\bid=["']corp-desc["'][^>]*>)/,
+          `$1\n${movedCorpLogos}`
+        );
+      }
+    }
+  } else {
+    result = processInlineShortcode(result, "corp", (args) =>
+      corpHandler(args, lang)
+    );
+  }
 
   // --- Pass 2: Inner block shortcodes ---
   // notice, lb, blogcard, imgref appear inside tab

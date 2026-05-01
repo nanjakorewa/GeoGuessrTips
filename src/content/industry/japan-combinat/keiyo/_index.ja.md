@@ -6,6 +6,20 @@ lastmod: 2026-03-22
 description: "千葉県東京湾岸に広がる京葉コンビナートの詳細解説。エチレン生産能力・石油精製規模・企業構成・歴史的背景など、産業構造を深掘りするデータを掲載。"
 weight: 10
 galleryDir: "japan-combinat-keiyo"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.605, lng: 140.095, label: "千葉港", type: "port", note: "国内最大級の取扱量。コンビナート輸出入の中核" }
+  - { lat: 35.5789, lng: 140.0967, label: "JFEスチール 東日本製鉄所（千葉）", type: "steel", note: "国内有数の一貫製鉄所。粗鋼能力約700万t/年級" }
+  - { lat: 35.5649, lng: 140.1072, label: "千葉火力発電所", type: "power", note: "東京電力EP/JERA運営。出力4,380MW" }
+  - { lat: 35.5360, lng: 140.0600, label: "出光興産 千葉事業所", type: "oil", note: "原油精製・石油化学の中核。ナフサを石化系に供給" }
+  - { lat: 35.5459, lng: 140.0721, label: "五井火力発電所", type: "power", note: "JERA運営。LNG火力" }
+  - { lat: 35.527, lng: 140.083, label: "三井化学 市原工場", type: "chemical", note: "エチレン・誘導品。市原市五井海岸（位置は概略）" }
+  - { lat: 35.530, lng: 140.085, label: "丸善石油化学 千葉工場", type: "chemical", note: "エチレン・誘導品。市原市五井海岸（位置は概略）" }
+  - { lat: 35.514, lng: 140.080, label: "ENEOS 千葉製油所", type: "oil", note: "市原市姉崎海岸（旧東燃ゼネラル・位置は概略）" }
+  - { lat: 35.4850, lng: 140.0174, label: "姉崎火力発電所", type: "power", note: "JERA運営。出力3,600MW級" }
+  - { lat: 35.4778, lng: 140.0233, label: "住友化学 千葉工場", type: "chemical", note: "石油化学・スペシャリティ化学品" }
+  - { lat: 35.4731, lng: 140.0069, label: "富士石油 袖ケ浦製油所", type: "oil", note: "原油精製・石油製品供給" }
+  - { lat: 35.4626, lng: 139.9768, label: "袖ヶ浦火力発電所", type: "power", note: "東京電力EP/JERA運営。出力3,600MW" }
 ---
 
 <figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
