@@ -6,6 +6,20 @@ lastmod: 2026-03-22
 description: "茨城県鹿嶋市・神栖市の鹿島臨海工業地帯を詳解。日本製鉄鹿島製鉄所の高炉生産能力・掘込港湾「鹿島港」の物流規模・国家プロジェクトとして建設された経緯など。"
 weight: 20
 galleryDir: "japan-combinat-kashima"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.945, lng: 140.730, label: "鹿島港", type: "port", note: "日本最大の掘込港湾。1969年完成。掘込水路長約7km" }
+  - { lat: 35.9344, lng: 140.6795, label: "日本製鉄 鹿島製鉄所", type: "steel", note: "高炉容積5,370m³（世界最大級）。粗鋼能力約400〜500万t/年" }
+  - { lat: 35.9404, lng: 140.6887, label: "鹿島共同発電所", type: "power", note: "出力1,000MW。コンビナート向け工業用電力供給" }
+  - { lat: 35.9163, lng: 140.7013, label: "鹿島火力発電所", type: "power", note: "JERA運営。出力5,660MW級" }
+  - { lat: 35.9135, lng: 140.6872, label: "鹿島石油", type: "oil", note: "ENEOSグループ。原油精製・ナフサ供給で石化と直結" }
+  - { lat: 35.9061, lng: 140.6825, label: "信越化学工業 鹿島工場", type: "chemical", note: "塩化ビニル樹脂・シリコーン関連" }
+  - { lat: 35.9054, lng: 140.6697, label: "カネカ 鹿島工場", type: "chemical", note: "MBS・PVC関連" }
+  - { lat: 35.9020, lng: 140.6905, label: "三菱ケミカル 鹿島事業所", type: "chemical", note: "MMA（メタクリル酸メチル）等のスペシャリティ化学品" }
+  - { lat: 35.8944, lng: 140.7002, label: "JSR 鹿島工場", type: "chemical", note: "合成ゴム・エラストマー" }
+  - { lat: 35.8910, lng: 140.6910, label: "AGC 鹿島工場", type: "chemical", note: "クロル・アルカリ・化成品" }
+  - { lat: 35.8881, lng: 140.6802, label: "花王 鹿島工場", type: "chemical", note: "界面活性剤・油脂化学品" }
+  - { lat: 35.8878, lng: 140.7049, label: "クラレ 鹿島事業所", type: "chemical", note: "PVA・EVOH関連" }
 ---
 
 <figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
@@ -14,10 +28,10 @@ galleryDir: "japan-combinat-kashima"
 </figure>
 
 <div class="stat-grid">
-  <div class="stat-card"><div class="stat-num">1基<span class="stat-sub">（2025年より1基体制へ集約）</span>。第1高炉容積は5,370m³で世界最大級{{% cite "nipponsteel2023" %}}</div><div class="stat-label">高炉数（日本製鉄）</div></div>
-  <div class="stat-card"><div class="stat-num">約400〜500万トン/年<span class="stat-sub">（2025年以降・1基体制）</span>。国内全体の約5〜6%を占める</div><div class="stat-label">粗鋼生産能力</div></div>
-  <div class="stat-card"><div class="stat-num">約5,700万トン/年<span class="stat-sub">（2022年度）</span>。国内主要港の中で有数の規模{{% cite "mlit_kashima_port" %}}</div><div class="stat-label">鹿島港貨物取扱量</div></div>
-  <div class="stat-card"><div class="stat-num">約3,260ha<span class="stat-sub">（計画区域全体）</span>。関東地域の臨海工業地帯では最大</div><div class="stat-label">工業地帯面積</div></div>
+  <div class="stat-card"><div class="stat-num">1基<span class="stat-sub">（2025年より1基体制へ集約）</span>{{% cite "nipponsteel2023" %}}</div><div class="stat-label">高炉数（日本製鉄）</div></div>
+  <div class="stat-card"><div class="stat-num">約400〜500万トン/年<span class="stat-sub">（2025年以降・1基体制）</span></div><div class="stat-label">粗鋼生産能力</div></div>
+  <div class="stat-card"><div class="stat-num">約5,700万トン/年<span class="stat-sub">（2022年度）</span>{{% cite "mlit_kashima_port" %}}</div><div class="stat-label">鹿島港貨物取扱量</div></div>
+  <div class="stat-card"><div class="stat-num">約3,260ha<span class="stat-sub">（計画区域全体）</span></div><div class="stat-label">工業地帯面積</div></div>
 </div>
 
 ## 鹿島開発計画 — 国策工業地帯の形成

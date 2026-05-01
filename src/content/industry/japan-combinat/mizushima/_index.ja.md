@@ -6,6 +6,19 @@ lastmod: 2026-03-22
 description: "岡山県倉敷市の水島コンビナートを詳解。旭化成・JFEスチール・三菱自動車が一カ所に集まる多業種コンビナートの生産規模・産業構造・歴史を詳しく解説。"
 weight: 30
 galleryDir: "japan-combinat-mizushima"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.500, lng: 133.720, label: "水島港", type: "port", note: "貨物取扱量約5,700万t/年（2022年）。コンビナート輸出入の中核" }
+  - { lat: 34.5179, lng: 133.7130, label: "JFEスチール 西日本製鉄所（倉敷）", type: "steel", note: "粗鋼能力約530万t/年。第4高炉＋電気炉転換中。国内2位クラス" }
+  - { lat: 34.5234, lng: 133.7311, label: "三菱自動車 水島製作所", type: "auto", note: "日本唯一の軽自動車専用工場。生産能力約24万台/年" }
+  - { lat: 34.5034, lng: 133.7562, label: "三菱ケミカル 水島事業所", type: "chemical", note: "水島エチレン共同運営（旭化成と）。エチレン能力45.5万t/年" }
+  - { lat: 34.4971, lng: 133.7544, label: "旭化成 水島製造所", type: "chemical", note: "水島エチレン共同運営。アクリロニトリル・合成ゴム等" }
+  - { lat: 34.5051, lng: 133.7302, label: "ENEOS 水島製油所", type: "oil", note: "原油精製。ナフサを石化系に供給して垂直統合を形成" }
+  - { lat: 34.5084, lng: 133.7457, label: "中国電力 水島発電所", type: "power", note: "出力781MW。コンビナート向け工業用電力供給" }
+  - { lat: 34.5150, lng: 133.7275, label: "倉敷共同発電所", type: "power", note: "出力614MW。コンビナート共同火力発電" }
+  - { lat: 34.5159, lng: 133.7278, label: "三菱ガス化学 水島工場", type: "chemical", note: "メタノール誘導品・機能性樹脂" }
+  - { lat: 34.5192, lng: 133.7359, label: "UBE三菱セメント 水島工場", type: "cement", note: "セメント製造（国内大手）" }
+  - { lat: 34.4815, lng: 133.7664, label: "日本ゼオン 水島工場", type: "chemical", note: "合成ゴム・特殊エラストマー" }
 ---
 
 <figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">

@@ -215,6 +215,39 @@ const { pins, center, zoom } = Astro.props;
         }
       }
 
+      // ピンの座標調整用：URL に ?pick が付いていたらクリック地点の lat/lng を表示
+      // 例: /industry/japan-combinat/kashima/?pick → 各施設をクリックして座標をコピー
+      if (/[?&]pick(=|&|$)/.test(location.search)) {
+        map.scrollWheelZoom.enable();
+        map.on("click", function (ev) {
+          var lat = ev.latlng.lat.toFixed(4);
+          var lng = ev.latlng.lng.toFixed(4);
+          var coord = lat + ", " + lng;
+          var yaml = "{ lat: " + lat + ", lng: " + lng + ', label: "" }';
+          var content =
+            '<div style="font-family:monospace;font-size:12px;line-height:1.7">' +
+            '<div><strong>' + coord + '</strong></div>' +
+            '<div style="color:#64748b;margin:4px 0;word-break:break-all">' + yaml + '</div>' +
+            '<button type="button" data-copy="' + yaml.replace(/"/g, "&quot;") + '" ' +
+            'style="margin-top:4px;padding:3px 10px;border:1px solid #cbd5e1;background:#fff;border-radius:4px;cursor:pointer;font-size:11px">' +
+            'YAML をコピー</button>' +
+            '</div>';
+          var pop = L.popup({ className: "ind-osm-popup" })
+            .setLatLng(ev.latlng)
+            .setContent(content)
+            .openOn(map);
+          setTimeout(function () {
+            var btn = pop.getElement() && pop.getElement().querySelector("button[data-copy]");
+            if (btn && navigator.clipboard) {
+              btn.addEventListener("click", function () {
+                navigator.clipboard.writeText(btn.getAttribute("data-copy"));
+                btn.textContent = "コピーしました ✓";
+              });
+            }
+          }, 0);
+        });
+      }
+
       // IndustryLayout の clamp 開閉時にサイズが変わるので追従させる
       window.addEventListener("resize", function () {
         map.invalidateSize();
