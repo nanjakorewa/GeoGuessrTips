@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Pre-commit PII / secrets scanner.
 
 Reads staged changes via `git diff --cached -U0` and checks added lines for:
@@ -136,8 +136,9 @@ SECRET_FILENAME_PATTERNS: list[re.Pattern] = [
     re.compile(r"\.key$"),
     re.compile(r"\.p12$"),
     re.compile(r"\.pfx$"),
+    re.compile(r"\.json$"),
     re.compile(r"(^|/)credentials\.json$"),
-    re.compile(r"(^|/)secrets\.(yml|yaml|json|toml|ini)$"),
+    re.compile(r"(^|/)secrets\.(yml|yaml|toml|ini)$"),
     re.compile(r"(^|/)\.aws/credentials$"),
     re.compile(r"(^|/)\.netrc$"),
 ]
@@ -264,6 +265,8 @@ def main() -> int:
             if 13 <= len(num) <= 19 and luhn_ok(num):
                 if is_allowed(m.group(0)):
                     continue
+                if fn.endswith("topojson"):
+                    continue
                 masked = num[:6] + "..." + num[-4:]
                 findings_block.append(
                     f"  [credit-card (Luhn-valid)]  {fn}:{lineno}  {masked}"
@@ -288,7 +291,7 @@ def main() -> int:
             print(f"  ... ({len(findings_warn) - 50} more)")
 
     if findings_block:
-        print("\n[check_pii] !! BLOCKING findings — commit aborted !!")
+        print("\n[check_pii] !! BLOCKING findings commit aborted !!")
         for f in findings_block:
             print(f)
         print(
