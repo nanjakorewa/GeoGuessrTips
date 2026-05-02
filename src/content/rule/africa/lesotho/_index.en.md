@@ -11,7 +11,7 @@ flag: "LS.svg"
 plonkit: true
 no_detaile_info: true
 jetro_detail: false
-sc_title: "Easily Mistaken Regions"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../eswatini/", "Eswatini"],
     ["../south-africa/", "South Africa"],

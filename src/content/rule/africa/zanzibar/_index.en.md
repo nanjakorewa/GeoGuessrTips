@@ -11,7 +11,7 @@ flag: "ZANZ.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
-sc_title: "髢｢騾｣繝壹・繧ｸ"
+sc_title: "Related Pages"
 sc: [
     ["../tanzania/", "繧ｿ繝ｳ繧ｶ繝九い"],
     ]

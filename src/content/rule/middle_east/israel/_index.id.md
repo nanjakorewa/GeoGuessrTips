@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "IL.svg"
 jetro_detail: true
 dont_show_usda: true
-sc_title: "Halaman terkait"
+sc_title: "Halaman Terkait"
 sc: [
     ["../palestine/", "Tepi Barat"],
     ]

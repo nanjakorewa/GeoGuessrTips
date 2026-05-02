@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 plonkit: false
 dont_show_usda: true
-sc_title: "Regiões semelhantes"
+sc_title: "Regiões facilmente confundidas"
 sc: [
     ["../finland/", "Finlândia"],
     ["../../n_america/saint-pierre-miquelon/", "Saint-Pierre e Miquelon"],

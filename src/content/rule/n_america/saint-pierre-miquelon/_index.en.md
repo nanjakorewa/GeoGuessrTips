@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
 is_has_many_trekker: true
-sc_title: "Easy-To-Mix-Up Areas"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../../europe/aland_islands/", "Åland Islands"],
     ["../../europe/france/", "France"],

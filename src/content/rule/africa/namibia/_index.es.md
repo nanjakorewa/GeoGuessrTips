@@ -12,7 +12,7 @@ flag: "NA.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: false
-sc_title: "Regiones comúnmente confundidas"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../south-africa/", "Sudáfrica"],
     ["../senegal/", "Senegal"],

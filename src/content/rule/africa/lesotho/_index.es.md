@@ -11,7 +11,7 @@ flag: "LS.svg"
 plonkit: true
 no_detaile_info: true
 jetro_detail: false
-sc_title: "Regiones fﾃ｡cilmente confundibles"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../eswatini/", "Esuatini"],
     ["../south-africa/", "Sudﾃ｡frica"],

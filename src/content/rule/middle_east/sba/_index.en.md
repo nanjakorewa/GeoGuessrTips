@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
-sc_title: "Easily Confused Regions"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../../europe/greece/", "Greece"],
     ]

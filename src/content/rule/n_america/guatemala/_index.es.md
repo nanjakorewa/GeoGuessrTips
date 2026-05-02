@@ -12,13 +12,13 @@ no_detaile_info: true
 jetro_detail: false
 plonkit: true
 is_has_distinctive_googlecar: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../asia/laos/", "Laos"],
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 14.634, lng: -90.506, label: "グアテマラシティ", type: "capital", note: "首都・中米最大の都市" }
+  - { lat: 14.634, lng: -90.506, label: "Ciudad de Guatemala", type: "capital", note: "首都・中米最大の都市" }
   - { lat: 14.557, lng: -90.733, label: "アンティグア", type: "historical", note: "旧首都・世界遺産の植民地都市" }
   - { lat: 14.836, lng: -91.518, label: "ケツァルテナンゴ", type: "city", note: "西部高地の第2の都市" }
   - { lat: 17.222, lng: -89.624, label: "ティカル", type: "landmark", note: "ペテン地方のマヤ文明大遺跡・世界遺産" }

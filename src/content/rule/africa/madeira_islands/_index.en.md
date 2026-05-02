@@ -11,7 +11,7 @@ flag: "MADE.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Easily Mistaken Regions"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../canary_islands/", "Canary Islands"],
     ["../../europe/azores/", "Azores"],

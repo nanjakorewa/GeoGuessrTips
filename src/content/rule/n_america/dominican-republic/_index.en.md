@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 plonkit: true
 is_has_distinctive_googlecar: true
-sc_title: "Easy-To-Mix-Up Areas"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../puerto-rico/", "Puerto Rico"],
     ]

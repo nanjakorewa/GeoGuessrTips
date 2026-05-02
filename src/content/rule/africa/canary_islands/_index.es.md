@@ -11,7 +11,7 @@ flag: "CANA.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Wilayah yang Sering Tertukar"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../europe/spain/", "Spanyol"],
     ["../../europe/azores/", "Kepulauan Azores"],

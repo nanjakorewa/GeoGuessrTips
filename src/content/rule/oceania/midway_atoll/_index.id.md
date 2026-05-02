@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
-sc_title: "Wilayah yang Mudah Salah Dipahami"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../../n_america/usa/region4/", "Pulau Tern di Kepulauan Hawaii Barat Laut"],
 ]

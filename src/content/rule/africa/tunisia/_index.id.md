@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: true
 plonkit: true
 dont_show_usda: true
-sc_title: "Wilayah serupa"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../../middle_east/jordan/", "Jordan"],
     ]

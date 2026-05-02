@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
-sc_title: "Región fácil de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../mexico/", "México"],
     ["../guatemala/", "Guatemala"],
@@ -21,7 +21,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 9.928, lng: -84.091, label: "サンホセ", type: "capital", note: "首都・中央高原の最大都市" }
+  - { lat: 9.928, lng: -84.091, label: "San José", type: "capital", note: "首都・中央高原の最大都市" }
   - { lat: 9.998, lng: -84.117, label: "エレディア", type: "city", note: "首都圏北部の主要都市" }
   - { lat: 10.633, lng: -85.437, label: "リベリア", type: "city", note: "北西部グアナカステ州の州都" }
   - { lat: 9.976, lng: -83.034, label: "リモン", type: "port", note: "カリブ海岸の主要港湾都市" }

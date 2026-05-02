@@ -13,7 +13,7 @@ jetro_detail: false
 plonkit: true
 is_has_distinctive_bollard: true
 is_has_distinctive_googlecar: true
-sc_title: "Regiões semelhantes"
+sc_title: "Regiões facilmente confundidas"
 sc: [
     ["../faroe_islands/", "Ilhas Faroé"],
     ]

@@ -11,7 +11,7 @@ flag: "KE.svg"
 jetro_detail: true
 plonkit: true
 is_has_distinctive_googlecar: true
-sc_title: "Similar Regions"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../nigeria/", "Nigeria"],
     ["../senegal/", "Senegal"],

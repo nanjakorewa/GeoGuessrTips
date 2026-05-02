@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
 is_has_many_trekker: true
-sc_title: "Zonas que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../europe/aland_islands/", "Islas Åland"],
     ["../../europe/france/", "Francia"],

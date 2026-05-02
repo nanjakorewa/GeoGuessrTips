@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "BA.svg"
 no_detaile_info: true
 jetro_detail: false
-sc_title: "Regiões fáceis de confundir"
+sc_title: "Regiões facilmente confundidas"
 sc: [
     ["../croatia/", "Croácia"],
     ["../slovenia/", "Eslovênia"],

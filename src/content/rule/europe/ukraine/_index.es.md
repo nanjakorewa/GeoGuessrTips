@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "UA.svg"
 jetro_detail: true
 plonkit: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../asia/russia/", "Rusia"],
     ["../poland/", "Polonia"],
@@ -20,8 +20,8 @@ mapProvider: "osm"
 mapPins:
   - { lat: 50.450, lng: 30.524, label: "キーウ", type: "capital", note: "首都・聖ソフィア大聖堂で知られる" }
   - { lat: 49.840, lng: 24.029, label: "リヴィウ", type: "city", note: "西部の文化都市・世界遺産旧市街" }
-  - { lat: 49.989, lng: 36.232, label: "ハルキウ", type: "city", note: "北東部の主要都市" }
-  - { lat: 46.482, lng: 30.723, label: "オデーサ", type: "port", note: "黒海沿岸の港湾都市" }
+  - { lat: 49.989, lng: 36.232, label: "ハルキウ", type: "city", note: "Ciudad principal del nordeste" }
+  - { lat: 46.482, lng: 30.723, label: "オデーサ", type: "port", note: "Ciudad portuaria del mar Negro" }
   - { lat: 48.464, lng: 35.046, label: "ドニプロ", type: "city", note: "ドニプロ川沿いの工業都市" }
   - { lat: 51.389, lng: 30.099, label: "チョルノービリ", type: "historical", note: "原発事故跡地" }
   - { lat: 44.611, lng: 33.525, label: "セヴァストポリ", type: "port", note: "クリミア半島の港湾都市" }

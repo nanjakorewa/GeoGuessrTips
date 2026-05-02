@@ -13,7 +13,7 @@ jetro_detail: false
 plonkit: true
 dont_show_usda: true
 is_has_distinctive_googlecar: true
-sc_title: "Wilayah yang Membingungkan"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../thai/", "Thailand"],
     ["../laos/", "Laos"],

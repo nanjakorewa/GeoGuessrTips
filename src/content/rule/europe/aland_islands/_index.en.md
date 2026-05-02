@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 plonkit: false
 dont_show_usda: true
-sc_title: "Regions Easy to Misidentify"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../finland/", "Finland"],
     ["../../n_america/saint-pierre-miquelon/", "Saint Pierre and Miquelon"],

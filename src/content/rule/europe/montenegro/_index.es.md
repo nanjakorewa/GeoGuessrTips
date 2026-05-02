@@ -11,7 +11,7 @@ bg: "bg/city.jpg"
 flag: "ME.svg"
 plonkit: true
 dont_show_usda: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../albania/", "Albania"],
     ["../macedonia/", "Macedonia del Norte"],
@@ -19,7 +19,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 42.441, lng: 19.262, label: "ポドゴリツァ", type: "capital", note: "首都・国の中心都市" }
+  - { lat: 42.441, lng: 19.262, label: "ポドゴリツァ", type: "capital", note: "Capital, ciudad principal del país" }
   - { lat: 42.424, lng: 18.770, label: "コトル", type: "historical", note: "湾岸の世界遺産旧市街" }
   - { lat: 42.291, lng: 18.840, label: "ブドヴァ", type: "city", note: "アドリア海の主要リゾート" }
   - { lat: 42.787, lng: 19.295, label: "ニクシッチ", type: "city", note: "国内第二の都市" }

@@ -11,7 +11,7 @@ flag: "BY.svg"
 is_has_many_trekker: true
 no_detaile_info: true
 jetro_detail: true
-sc_title: "Regiones fáciles de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../asia/russia/", "Rusia"],
     ["../ukraine/", "Ucrania"],

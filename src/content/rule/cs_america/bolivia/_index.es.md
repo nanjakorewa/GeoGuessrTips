@@ -15,7 +15,7 @@ map_title: "mapa de práctica"
 maps: [
     ["https://www.geoguessr.com/maps/64b7d73dda09bd9071e66719", "peru vs bolivia vs chile"],
     ]
-sc_title: "Áreas que son fáciles de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../peru/", "Perú"],
     ["../../n_america/usa/", "América"],

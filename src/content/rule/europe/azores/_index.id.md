@@ -11,7 +11,7 @@ flag: "AZO.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Wilayah yang Sering Tersalah Pahami"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
 
     ["../portugal/", "Portugal"],

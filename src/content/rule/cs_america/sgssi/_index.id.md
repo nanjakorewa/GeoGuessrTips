@@ -12,7 +12,7 @@ no_detaile_info: true
 is_has_many_trekker: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../falkland_islands/", "Kepulauan Falkland"],
     ]

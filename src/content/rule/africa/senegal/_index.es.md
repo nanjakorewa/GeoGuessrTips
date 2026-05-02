@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: true
 plonkit: true
 is_has_distinctive_googlecar: true
-sc_title: "Regiones comúnmente confundidas"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../namibia/", "Namibia"],
     ["../kenya/", "Kenia"],

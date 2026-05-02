@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 plonkit: true
-sc_title: "Easy-to-confuse areas"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../italy/", "Italy"],
 ]

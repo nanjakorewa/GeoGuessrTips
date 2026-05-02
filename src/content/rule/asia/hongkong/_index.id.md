@@ -13,7 +13,7 @@ jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
 plonkit: true
-sc_title: "Daerah yang Mirip"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../taiwan/", "Taiwan"],
     ["../macau/", "Makau"],

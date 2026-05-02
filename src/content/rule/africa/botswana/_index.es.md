@@ -11,7 +11,7 @@ flag: "BW.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "Pﾃ｡ginas fﾃ｡ciles de confundir"
+sc_title: "Páginas que se confunden con facilidad"
 sc_icon: rel
 sc: [
     ["../south-africa/", "Sudﾃ｡frica"],

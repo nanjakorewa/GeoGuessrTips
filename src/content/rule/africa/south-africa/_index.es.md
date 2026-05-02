@@ -12,7 +12,7 @@ flag: "ZA.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
-sc_title: "Regiones que se confunden fácilmente"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../namibia/", "Namibia"],
     ["../lesotho/", "Lesoto"],

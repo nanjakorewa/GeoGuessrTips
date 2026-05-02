@@ -11,7 +11,7 @@ bg: "bg/city.jpg"
 flag: "FI.svg"
 jetro_detail: true
 plonkit: true
-sc_title: "Áreas que son fáciles de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../norway/", "Noruega"],
     ["../sweden/", "Suecia"],

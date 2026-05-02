@@ -11,7 +11,7 @@ bg: "bg/city.jpg"
 flag: "ME.svg"
 plonkit: true
 dont_show_usda: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../albania/", "Albania"],
     ["../macedonia/", "North Macedonia"],
@@ -22,7 +22,7 @@ mapPins:
   - { lat: 42.441, lng: 19.262, label: "ポドゴリツァ", type: "capital", note: "首都・国の中心都市" }
   - { lat: 42.424, lng: 18.770, label: "コトル", type: "historical", note: "湾岸の世界遺産旧市街" }
   - { lat: 42.291, lng: 18.840, label: "ブドヴァ", type: "city", note: "アドリア海の主要リゾート" }
-  - { lat: 42.787, lng: 19.295, label: "ニクシッチ", type: "city", note: "国内第二の都市" }
+  - { lat: 42.787, lng: 19.295, label: "ニクシッチ", type: "city", note: "Country's second city" }
   - { lat: 42.385, lng: 18.952, label: "ツェティニェ", type: "historical", note: "旧首都・歴史文化の中心" }
   - { lat: 43.354, lng: 19.099, label: "ドゥルミトル国立公園", type: "nature", note: "世界遺産の山岳地帯" }
 features:

@@ -11,7 +11,7 @@ flag: "NG.svg"
 jetro_detail: true
 jogmec_detail: true
 is_has_distinctive_googlecar: true
-sc_title: "Regiones comúnmente confundidas"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../kenya/", "Kenia"],
     ["../senegal/", "Senegal"],

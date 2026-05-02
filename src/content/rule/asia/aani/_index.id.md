@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_distinctive_googlecar: false
-sc_title: "Wilayah yang Membingungkan"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../india/", "Wilayah dengan curah hujan tinggi di daratan utama India"],
     ["../lakshadweep/", "Lakshadweep"],

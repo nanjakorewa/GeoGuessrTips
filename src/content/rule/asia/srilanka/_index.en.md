@@ -14,7 +14,7 @@ is_has_distinctive_googlecar: true
 dont_show_usda: true
 plonkit: true
 plonkit_url: "sri-lanka"
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../india/", "India"],
     ["../thai/", "Thailand"],

@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "CEUTA.svg"
 no_detaile_info: true
 jetro_detail: false
-sc_title: "Similar Regions"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../melilla/", "Melilla"],
     ["../canary_islands/", "Canary Islands"],

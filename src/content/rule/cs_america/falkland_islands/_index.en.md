@@ -12,7 +12,7 @@ no_detaile_info: true
 is_has_many_trekker: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Easy-To-Mix-Up Areas"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../sgssi/", "South Georgia and the South Sandwich Islands"],
     ]

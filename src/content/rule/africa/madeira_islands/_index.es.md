@@ -11,7 +11,7 @@ flag: "MADE.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Regiones fﾃ｡cilmente confundibles"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../canary_islands/", "Islas Canarias"],
     ["../../europe/azores/", "Azores"],

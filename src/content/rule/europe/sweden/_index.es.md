@@ -11,7 +11,7 @@ flag: "SE.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
-sc_title: "Regiones Similares"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../norway/", "Noruega"],
     ["../finland/", "Finlandia"],
@@ -21,7 +21,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 59.329, lng: 18.069, label: "ストックホルム", type: "capital", note: "首都・北欧のヴェネツィア" }
+  - { lat: 59.329, lng: 18.069, label: "Estocolmo", type: "capital", note: "首都・北欧のヴェネツィア" }
   - { lat: 57.708, lng: 11.974, label: "ヨーテボリ", type: "port", note: "西海岸最大の港湾都市" }
   - { lat: 55.605, lng: 13.003, label: "マルメ", type: "city", note: "南部の主要都市・コペンハーゲンに隣接" }
   - { lat: 59.858, lng: 17.638, label: "ウプサラ", type: "city", note: "古都・大学都市" }

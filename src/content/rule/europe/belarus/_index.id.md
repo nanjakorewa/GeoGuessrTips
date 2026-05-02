@@ -11,7 +11,7 @@ flag: "BY.svg"
 is_has_many_trekker: true
 no_detaile_info: true
 jetro_detail: true
-sc_title: "Regions that are easily confused"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../../asia/russia/", "Russia"],
     ["../ukraine/", "Ukraine"],

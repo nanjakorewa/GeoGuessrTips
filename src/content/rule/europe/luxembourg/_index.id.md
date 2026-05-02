@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: true
 dont_show_usda: true
 plonkit: true
-sc_title: "Lokasi Yang Sering Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../netherlands/", "Belanda"],
     ["../belgium/", "Belgia"],
@@ -23,7 +23,7 @@ mapProvider: "osm"
 mapPins:
   - { lat: 49.611, lng: 6.131, label: "ルクセンブルク市", type: "capital", note: "首都・世界遺産の旧市街と城塞" }
   - { lat: 49.504, lng: 5.981, label: "エシュ・シュル・アルゼット", type: "city", note: "南部の第二の都市" }
-  - { lat: 49.815, lng: 6.108, label: "ディーキルヒ", type: "city", note: "北部の主要都市" }
+  - { lat: 49.815, lng: 6.108, label: "ディーキルヒ", type: "city", note: "Kota utama di utara" }
   - { lat: 49.823, lng: 6.428, label: "ヴィアンデン", type: "historical", note: "古城で知られる町" }
   - { lat: 49.717, lng: 6.013, label: "メルシュ", type: "city", note: "中央部の自治体" }
   - { lat: 49.835, lng: 6.026, label: "クレルヴォー", type: "city", note: "アルデンヌ地方の町" }

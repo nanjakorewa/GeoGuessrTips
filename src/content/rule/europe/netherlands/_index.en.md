@@ -12,7 +12,7 @@ jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
 plonkit: true
-sc_title: "Common Mix-ups"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../belgium/", "Belgium"],
     ["../luxembourg/", "Luxembourg"],

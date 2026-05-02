@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "LI.svg"
 flag_height: "440px"
 no_detaile_info: true
-sc_title: "Wilayah yang mudah tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../switzerland/", "Swiss"],
     ["../austria/", "Austria"],

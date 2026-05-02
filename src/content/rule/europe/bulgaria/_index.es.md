@@ -11,7 +11,7 @@ flag: "BG.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../romania/", "Rumanía"],
     ["../hungary/", "Hungría"],

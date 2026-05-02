@@ -12,7 +12,7 @@ jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
 plonkit: true
-sc_title: "Lokasi Yang Sering Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../belgium/", "Belgia"],
     ["../luxembourg/", "Luksemburg"],
@@ -23,7 +23,7 @@ mapPins:
   - { lat: 52.370, lng: 4.895, label: "アムステルダム", type: "capital", note: "首都・運河の街・世界遺産" }
   - { lat: 51.924, lng: 4.477, label: "ロッテルダム", type: "port", note: "欧州最大級の港湾都市" }
   - { lat: 52.080, lng: 4.310, label: "ハーグ", type: "city", note: "政府所在地・国際司法裁判所" }
-  - { lat: 52.090, lng: 5.122, label: "ユトレヒト", type: "city", note: "中部の歴史都市" }
+  - { lat: 52.090, lng: 5.122, label: "ユトレヒト", type: "city", note: "Kota bersejarah di tengah" }
   - { lat: 51.972, lng: 4.137, label: "キンデルダイク", type: "landmark", note: "風車群・世界遺産" }
   - { lat: 51.443, lng: 5.479, label: "アイントホーフェン", type: "city", note: "南部の工業都市・フィリップス本拠" }
   - { lat: 53.218, lng: 6.566, label: "フローニンゲン", type: "city", note: "北部の大学都市" }

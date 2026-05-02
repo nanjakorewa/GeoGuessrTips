@@ -11,7 +11,7 @@ flag: "SG.svg"
 jetro_detail: true
 plonkit: true
 dont_show_usda: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../macau/", "Macau"],
     ["../malaysia/", "Malaysia"],

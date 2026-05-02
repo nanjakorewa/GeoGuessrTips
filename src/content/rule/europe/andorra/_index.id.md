@@ -11,7 +11,7 @@ flag: "AD.svg"
 jetro_detail: true
 plonkit: true
 dont_show_usda: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../spain/", "Spanyol"],
     ["../italy/", "Italia Barat"],

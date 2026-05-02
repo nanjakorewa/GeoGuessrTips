@@ -12,7 +12,7 @@ flag: "LKW.png"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Región fácil de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../india/", "India continental"],
 ]

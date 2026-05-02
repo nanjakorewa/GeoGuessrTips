@@ -12,7 +12,7 @@ jetro_detail: true
 jogmec_detail: false
 is_has_distinctive_googlecar: true
 is_has_many_trekker: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../india/", "India"],
 ]

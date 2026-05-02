@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "PH.svg"
 jetro_detail: true
 jogmec_detail: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../indonesia/", "Indonesia"],
     ["../thai/", "Thailand"],

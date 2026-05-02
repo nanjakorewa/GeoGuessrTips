@@ -11,7 +11,7 @@ flag: "BG.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../romania/", "Romania"],
     ["../hungary/", "Hungary"],
@@ -19,7 +19,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 42.698, lng: 23.322, label: "ソフィア", type: "capital", note: "首都・国の政治経済の中心" }
+  - { lat: 42.698, lng: 23.322, label: "ソフィア", type: "capital", note: "Capital and the country's political and economic center" }
   - { lat: 42.150, lng: 24.749, label: "プロヴディフ", type: "historical", note: "欧州最古級の都市・2019年欧州文化首都" }
   - { lat: 43.207, lng: 27.915, label: "ヴァルナ", type: "port", note: "黒海沿岸の主要港湾都市" }
   - { lat: 42.510, lng: 27.461, label: "ブルガス", type: "port", note: "黒海沿岸の港湾都市" }

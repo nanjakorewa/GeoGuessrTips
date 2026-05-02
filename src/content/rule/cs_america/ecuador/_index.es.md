@@ -13,7 +13,7 @@ plonkit: true
 jetro_detail: true
 is_has_distinctive_googlecar: true
 is_has_distinctive_bollard: true
-sc_title: "Áreas que son fáciles de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../peru/", "Perú"],
     ["../colombia/", "Columbia"],

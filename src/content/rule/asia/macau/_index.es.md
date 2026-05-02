@@ -12,7 +12,7 @@ flag: "MO.svg"
 no_detaile_info: true
 jogmec_detail: false
 dont_show_usda: true
-sc_title: "Regiones que se confunden fácilmente"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../singapore/", "Singapur"],
     ["../taiwan/", "Taiwán"],

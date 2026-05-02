@@ -17,7 +17,7 @@ map_title: "practice map"
 maps: [
     ["https://www.geoguessr.com/maps/61067f9608061c000157a851", "A Balanced Canada"],
     ]
-sc_title: "Areas that are easy to mistake"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../usa/", "America"],
     ["../../europe/finland/", "Finland"],

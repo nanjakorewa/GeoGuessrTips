@@ -11,7 +11,7 @@ bg: "bg/city.jpg"
 flag: "GR.svg"
 jetro_detail: true
 plonkit: true
-sc_title: "Area yang mudah salah"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../../middle_east/sba/", "Wilayah Pangkalan Kedaulatan Inggris Akrotiri dan Dekelia"],
     ["../albania/", "Albania"],

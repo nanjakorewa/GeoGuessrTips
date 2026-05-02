@@ -14,7 +14,7 @@ is_has_distinctive_googlecar: true
 dont_show_usda: true
 plonkit: true
 plonkit_url: "sri-lanka"
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../india/", "India"],
     ["../thai/", "Tailandia"],

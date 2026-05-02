@@ -13,7 +13,7 @@ jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
 plonkit: true
-sc_title: "Regiones Similares"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../taiwan/", "Taiwán"],
     ["../macau/", "Macao"],

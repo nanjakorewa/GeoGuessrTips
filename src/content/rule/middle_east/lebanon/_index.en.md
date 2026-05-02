@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: true
 is_has_many_trekker: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../jordan/", "Jordan"],
     ["../../asia/india/", "India"],

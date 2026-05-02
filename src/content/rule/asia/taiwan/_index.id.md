@@ -13,7 +13,7 @@ no_detaile_info: true
 jetro_detail: false
 import_jquery_36: true
 plonkit: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../hongkong/", "Hong Kong"],
     ["../macau/", "Makau"],

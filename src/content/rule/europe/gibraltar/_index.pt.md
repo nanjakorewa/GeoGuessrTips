@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
-sc_title: "Regiões semelhantes"
+sc_title: "Regiões facilmente confundidas"
 sc: [
     ["../united-kingdom/", "Reino Unido"],
     ["../spain/", "Espanha"],

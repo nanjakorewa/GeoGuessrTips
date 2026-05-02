@@ -11,7 +11,7 @@ bg: "bg/city.jpg"
 flag: "PH.svg"
 jetro_detail: true
 jogmec_detail: true
-sc_title: "Áreas que son fáciles de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../indonesia/", "Indonesia"],
     ["../thai/", "Tailandia"],

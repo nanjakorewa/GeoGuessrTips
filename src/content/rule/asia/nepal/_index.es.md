@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
 is_has_distinctive_googlecar: true
-sc_title: "Regiones Similares"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../india/", "India"],
     ["../srilanka/", "Sri Lanka"],

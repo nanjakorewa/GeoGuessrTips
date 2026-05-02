@@ -12,7 +12,7 @@ jetro_detail: true
 dont_show_usda: true
 flag_height: "600px"
 plonkit: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../netherlands/", "Netherlands"],
     ["../germany/", "Germany"],

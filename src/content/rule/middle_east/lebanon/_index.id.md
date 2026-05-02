@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: true
 is_has_many_trekker: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../jordan/", "Yordania"],
     ["../../asia/india/", "India"],

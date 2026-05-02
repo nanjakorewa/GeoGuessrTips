@@ -20,8 +20,6 @@ mapPins:
 features:
   - text: 'Capital de Japón con cerca de 14 millones de habitantes. <span class="quiz">Centro económico</span> con la mayor concentración de sedes de empresas japonesas'
     ref: "https://ja.wikipedia.org/wiki/東京都"
-  - text: 'El distrito de Ota concentra <span class="quiz">pequeños talleres industriales</span> y es una de las principales zonas manufactureras de Japón'
-    ref: "https://ja.wikipedia.org/wiki/大田区#工業"
 ---
 
 <div class="main-desciption country-description">

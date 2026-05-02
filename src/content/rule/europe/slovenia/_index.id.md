@@ -12,7 +12,7 @@ flag: "SI.svg"
 no_detaile_info: true
 jetro_detail: true
 plonkit: true
-sc_title: "Area yang mudah salah"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../austria/", "Austria"],
     ["../croatia/", "Kroasia"],

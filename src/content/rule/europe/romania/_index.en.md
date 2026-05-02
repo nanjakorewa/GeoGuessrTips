@@ -11,7 +11,7 @@ bg: "bg/city.jpg"
 flag: "RO.svg"
 jetro_detail: true
 plonkit: true
-sc_title: "Areas that are easy to mistake"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../poland/", "Poland"],
     ["../bulgaria/", "Bulgaria"],

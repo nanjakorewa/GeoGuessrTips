@@ -14,7 +14,7 @@ dont_show_usda: true
 import_jquery_36: true
 is_has_distinctive_googlecar: true
 flag_height: "350px"
-sc_title: "Zonas que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../middle_east/oman/", "Omán"],
 ]

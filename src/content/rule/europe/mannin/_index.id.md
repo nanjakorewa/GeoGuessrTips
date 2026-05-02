@@ -11,7 +11,7 @@ bg: "bg/city.jpg"
 flag: "IM.svg"
 dont_show_usda: true
 flag_height: "400px"
-sc_title: "Wilayah yang sering tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../united-kingdom/", "Britania Raya"],
     ["../jersey/", "Jersey"],

@@ -14,7 +14,7 @@ dont_show_usda: true
 is_has_distinctive_googlecar: true
 is_has_many_trekker: true
 plonkit: true
-sc_title: "Regions Often Confused"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../../n_america/puerto-rico/", "Puerto Rico"],
     ["../northern_mariana_islands/", "Northern Mariana Islands"],

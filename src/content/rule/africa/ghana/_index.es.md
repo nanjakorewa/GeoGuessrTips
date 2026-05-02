@@ -11,7 +11,7 @@ flag: "GH.svg"
 jetro_detail: true
 plonkit: true
 is_has_distinctive_googlecar: true
-sc_title: "Regiones fﾃ｡cilmente confundibles"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../reunion/", "Reuniﾃｳn"],
 ]

@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "AT.svg"
 jetro_detail: true
 plonkit: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../slovenia/", "Slovenia"],
     ["../germany/", "Germany"],

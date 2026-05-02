@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "LI.svg"
 flag_height: "440px"
 no_detaile_info: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../switzerland/", "Suiza"],
     ["../austria/", "Austria"],

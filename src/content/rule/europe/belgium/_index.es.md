@@ -12,7 +12,7 @@ jetro_detail: true
 dont_show_usda: true
 flag_height: "600px"
 plonkit: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../netherlands/", "Países Bajos"],
     ["../germany/", "Alemania"],

@@ -14,7 +14,7 @@ jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
 is_has_distinctive_googlecar: true
-sc_title: "Areas that are easy to mistake"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../../europe/macedonia/", "north macedonia"],
     ["../../europe/greece/", "Greece"],

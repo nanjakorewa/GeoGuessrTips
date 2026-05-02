@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 plonkit: true
-sc_title: "Easily Confused Regions"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../estonia/", "Estonia"],
     ["../lithuania/", "Lithuania"],

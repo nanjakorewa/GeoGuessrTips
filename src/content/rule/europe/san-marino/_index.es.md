@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 flag_height: "530px"
 plonkit: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Páginas que se confunden con facilidad"
 sc_icon: rel
 sc: [
     ["../italy/", "Italia"],

@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "HU.svg"
 jetro_detail: false
 plonkit: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../romania/", "Rumanía"],
     ["../serbia/", "Serbia"],

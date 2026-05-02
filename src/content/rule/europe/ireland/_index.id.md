@@ -11,7 +11,7 @@ flag: "IE.svg"
 jetro_detail: true
 is_has_distinctive_bollard: true
 plonkit: true
-sc_title: "Lokasi Yang Sering Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../united-kingdom/", "Britania Raya"],
     ["../mannin/", "Isle of Man"],

@@ -13,7 +13,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
-sc_title: "Area yang mudah salah"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../mexico/", "Meksiko"],
     ["../../africa/senegal/", "senegal"],

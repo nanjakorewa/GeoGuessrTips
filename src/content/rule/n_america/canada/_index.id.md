@@ -17,7 +17,7 @@ map_title: "peta latihan"
 maps: [
     ["https://www.geoguessr.com/maps/61067f9608061c000157a851", "A Balanced Canada"],
     ]
-sc_title: "Area yang mudah salah"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../usa/", "Amerika"],
     ["../../europe/finland/", "Finlandia"],
@@ -25,7 +25,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 45.421, lng: -75.697, label: "オタワ", type: "capital", note: "首都・オンタリオ州とケベック州の境" }
+  - { lat: 45.421, lng: -75.697, label: "Ottawa", type: "capital", note: "首都・オンタリオ州とケベック州の境" }
   - { lat: 43.653, lng: -79.383, label: "トロント", type: "city", note: "カナダ最大の都市・経済の中心" }
   - { lat: 45.502, lng: -73.567, label: "モントリオール", type: "city", note: "ケベック州最大都市・フランス語圏" }
   - { lat: 49.283, lng: -123.121, label: "バンクーバー", type: "city", note: "西海岸最大の都市・太平洋岸の港湾" }

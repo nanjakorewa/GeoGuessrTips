@@ -15,7 +15,7 @@ jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
 is_has_distinctive_googlecar: true
-sc_title: "Wilayah yang Mudah Salah Dipahami"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../christmas-island/", "Pulau Christmas"],
     ["../../asia/indonesia/", "Indonesia"],

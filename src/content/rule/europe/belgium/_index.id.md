@@ -12,7 +12,7 @@ jetro_detail: true
 dont_show_usda: true
 flag_height: "600px"
 plonkit: true
-sc_title: "Regions that are easily confused"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../netherlands/", "Netherlands"],
     ["../germany/", "Germany"],

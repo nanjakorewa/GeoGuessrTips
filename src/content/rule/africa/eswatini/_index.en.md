@@ -11,7 +11,7 @@ flag: "SZ.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "Easily Confused Regions"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../south-africa/", "South Africa"],
     ["../lesotho/", "Lesotho"],

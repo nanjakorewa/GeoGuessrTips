@@ -14,7 +14,7 @@ jogmec_detail: true
 is_has_distinctive_bollard: true
 plonkit: true
 plonkit_url: "united-states"
-sc_title: "Area yang mudah salah"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../canada/", "Kanada"],
     ["../mexico/", "Meksiko"],
@@ -26,7 +26,7 @@ maps: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 38.895, lng: -77.037, label: "ワシントンD.C.", type: "capital", note: "首都・連邦政府の中心" }
+  - { lat: 38.895, lng: -77.037, label: "Washington D.C.", type: "capital", note: "首都・連邦政府の中心" }
   - { lat: 40.713, lng: -74.006, label: "ニューヨーク", type: "city", note: "アメリカ最大の都市・東海岸の経済の中心" }
   - { lat: 34.052, lng: -118.244, label: "ロサンゼルス", type: "city", note: "西海岸最大の都市・エンタメ産業の中心" }
   - { lat: 41.878, lng: -87.630, label: "シカゴ", type: "city", note: "中西部最大の都市・五大湖南岸" }

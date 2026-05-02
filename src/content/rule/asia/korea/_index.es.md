@@ -14,7 +14,7 @@ dont_show_usda: true
 import_jquery_36: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 37.566, lng: 126.978, label: "ソウル", type: "capital", note: "大韓民国の首都・政治と経済の中心" }
+  - { lat: 37.566, lng: 126.978, label: "Seúl", type: "capital", note: "大韓民国の首都・政治と経済の中心" }
   - { lat: 35.180, lng: 129.075, label: "釜山", type: "port", note: "韓国第二の都市・国内最大の港湾都市" }
   - { lat: 37.456, lng: 126.706, label: "仁川", type: "city", note: "首都圏の港湾都市・国際空港の所在地" }
   - { lat: 35.871, lng: 128.601, label: "大邱", type: "city", note: "嶺南地方の中心都市" }

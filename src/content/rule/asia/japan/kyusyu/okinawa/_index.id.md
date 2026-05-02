@@ -11,7 +11,7 @@ is_pref: true
 flag: "OKINAWA.svg"
 mapProvider: "osm"
 mapPins:
-  - { lat: 26.213, lng: 127.679, label: "那覇", type: "capital", note: "沖縄県の県庁所在地" }
+  - { lat: 26.213, lng: 127.679, label: "Naha", type: "capital", note: "Ibu kota Prefektur Okinawa" }
   - { lat: 26.217, lng: 127.719, label: "首里城", type: "historical", note: "琉球王国の王城・世界遺産" }
   - { lat: 26.215, lng: 127.687, label: "国際通り", type: "city", note: "那覇の繁華街" }
   - { lat: 26.694, lng: 127.878, label: "美ら海水族館", type: "landmark", note: "本部町・大水槽" }

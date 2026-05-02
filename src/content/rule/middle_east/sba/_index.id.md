@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../../europe/greece/", "Yunani"],
     ]

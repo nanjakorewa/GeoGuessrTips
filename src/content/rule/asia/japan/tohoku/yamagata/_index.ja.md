@@ -26,9 +26,24 @@ features:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+        <li>ヤマザワがある</li>
     </ul>
     {{% corp "asia/japan" "tohoku/yamagata" %}}
 </div>
+
+
+{{% tabs %}}
+{{% tab "ヤマザワ" %}}
+{{% notice tip %}}
+山形・宮城県には食品スーパーマーケットチェーン「ヤマザワ」が展開している。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="1920px-Yamazawa_Co.,_Ltd._Head_Office" width="80%" alt="ヤマザワ">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>

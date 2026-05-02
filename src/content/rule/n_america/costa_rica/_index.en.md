@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
-sc_title: "Regions Easy to Misidentify"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../mexico/", "Mexico"],
     ["../guatemala/", "Guatemala"],

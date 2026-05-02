@@ -20,8 +20,6 @@ mapPins:
 features:
   - text: 'Ibu kota Jepang dengan populasi sekitar 14 juta orang. <span class="quiz">Pusat ekonomi</span> dengan konsentrasi kantor pusat perusahaan Jepang terbanyak'
     ref: "https://ja.wikipedia.org/wiki/東京都"
-  - text: 'Distrik Ota memiliki konsentrasi <span class="quiz">pabrik kecil-menengah (machi-koba)</span> dan merupakan salah satu kawasan manufaktur utama Jepang'
-    ref: "https://ja.wikipedia.org/wiki/大田区#工業"
 ---
 
 <div class="main-desciption country-description">

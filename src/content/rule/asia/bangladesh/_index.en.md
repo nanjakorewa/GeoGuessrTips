@@ -12,7 +12,7 @@ jetro_detail: true
 plonkit: true
 dont_show_usda: true
 is_has_distinctive_googlecar: true
-sc_title: "Regions Easy to Misidentify"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../india/", "India"],
 ]

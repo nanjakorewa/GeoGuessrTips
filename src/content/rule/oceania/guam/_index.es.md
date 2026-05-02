@@ -14,7 +14,7 @@ dont_show_usda: true
 is_has_distinctive_googlecar: true
 is_has_many_trekker: true
 plonkit: true
-sc_title: "Región fácil de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../n_america/puerto-rico/", "Puerto Rico"],
     ["../northern_mariana_islands/", "Islas Marianas del Norte"],

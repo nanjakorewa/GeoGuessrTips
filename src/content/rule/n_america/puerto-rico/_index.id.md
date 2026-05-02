@@ -12,7 +12,7 @@ jetro_detail: true
 is_has_distinctive_googlecar: true
 plonkit: true
 plonkit_url: "puerto-rico"
-sc_title: "Daerah yang mudah tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../dominican-republic/", "Republik Dominika"],
     ["../../oceania/guam/", "Guam"],

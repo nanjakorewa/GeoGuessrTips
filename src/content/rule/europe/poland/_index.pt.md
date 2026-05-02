@@ -12,7 +12,7 @@ jetro_detail: true
 plonkit: true
 dont_show_usda: true
 use_polish_font: true
-sc_title: "Regiões semelhantes"
+sc_title: "Regiões facilmente confundidas"
 sc: [
     ["../romania/", "Rumunia"],
     ["../ukraine/", "Ukraina"],

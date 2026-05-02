@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
-sc_title: "Regiões fáceis de confundir"
+sc_title: "Regiões facilmente confundidas"
 sc: [
     ["../mexico/", "México"],
     ["../guatemala/", "Guatemala"],

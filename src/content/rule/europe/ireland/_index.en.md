@@ -11,7 +11,7 @@ flag: "IE.svg"
 jetro_detail: true
 is_has_distinctive_bollard: true
 plonkit: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../united-kingdom/", "United Kingdom"],
     ["../mannin/", "Isle of Man"],
@@ -20,7 +20,7 @@ sc: [
 mapProvider: "osm"
 mapPins:
   - { lat: 53.350, lng: -6.260, label: "ダブリン", type: "capital", note: "首都・ギネスビール発祥地" }
-  - { lat: 51.898, lng: -8.475, label: "コーク", type: "city", note: "南部の主要都市" }
+  - { lat: 51.898, lng: -8.475, label: "コーク", type: "city", note: "Major city in the south" }
   - { lat: 52.668, lng: -8.630, label: "リムリック", type: "city", note: "シャノン川沿いの歴史都市" }
   - { lat: 53.272, lng: -9.050, label: "ゴールウェイ", type: "city", note: "西海岸の文化都市" }
   - { lat: 52.993, lng: -9.428, label: "モハーの断崖", type: "nature", note: "大西洋の絶壁・観光名所" }

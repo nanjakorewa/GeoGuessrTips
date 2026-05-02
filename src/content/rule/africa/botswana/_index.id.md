@@ -11,7 +11,7 @@ flag: "BW.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "Halaman yang Sering Salah"
+sc_title: "Halaman yang Sering Tertukar"
 sc_icon: rel
 sc: [
     ["../south-africa/", "Afrika Selatan"],

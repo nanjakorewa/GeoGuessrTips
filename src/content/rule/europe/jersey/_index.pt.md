@@ -12,7 +12,7 @@ plonkit: true
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Regiões semelhantes"
+sc_title: "Regiões facilmente confundidas"
 sc: [
     ["../united-kingdom/", "Reino Unido"],
     ["../mannin/", "Ilha de Man"],

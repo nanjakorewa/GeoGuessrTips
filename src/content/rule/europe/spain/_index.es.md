@@ -12,7 +12,7 @@ flag: "ES.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
-sc_title: "Regiones que se confunden"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../africa/canary_islands/", "Islas Canarias"],
     ["../../cs_america/chile/", "Chile"],
@@ -22,7 +22,7 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 40.417, lng: -3.704, label: "マドリード", type: "capital", note: "首都・国の政治経済の中心" }
+  - { lat: 40.417, lng: -3.704, label: "Madrid", type: "capital", note: "Capital, centro político y económico del país" }
   - { lat: 41.385, lng: 2.173, label: "バルセロナ", type: "city", note: "カタルーニャ州都・地中海の港湾都市" }
   - { lat: 37.389, lng: -5.984, label: "セビリア", type: "city", note: "アンダルシア地方の中心" }
   - { lat: 39.470, lng: -0.376, label: "バレンシア", type: "city", note: "パエリア発祥の地" }

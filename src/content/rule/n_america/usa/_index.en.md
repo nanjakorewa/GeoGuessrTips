@@ -13,7 +13,7 @@ jogmec_detail: true
 is_has_distinctive_bollard: true
 plonkit: true
 plonkit_url: "united-states"
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../canada/", "Canada"],
     ["../mexico/", "Mexico"],

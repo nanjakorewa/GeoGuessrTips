@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "BA.svg"
 no_detaile_info: true
 jetro_detail: false
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../croatia/", "Kroasia"],
     ["../slovenia/", "Slovenia"],

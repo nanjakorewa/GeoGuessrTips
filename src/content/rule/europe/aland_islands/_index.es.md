@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 plonkit: false
 dont_show_usda: true
-sc_title: "Región fácil de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../finland/", "Finlandia"],
     ["../../n_america/saint-pierre-miquelon/", "Saint-Pierre y Miquelón"],

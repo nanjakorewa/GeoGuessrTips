@@ -16,7 +16,7 @@ map_title: "practice map"
 maps: [
     ["https://www.geoguessr.com/maps/64ae284d987ca44485196743", "mx vs co"],
     ]
-sc_title: "Areas that are easy to mistake"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../brazil/", "Brazil"],
     ["../ecuador/", "ecuador"],

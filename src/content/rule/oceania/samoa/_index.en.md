@@ -23,7 +23,7 @@ mapProvider: "osm"
 mapPins:
   - { lat: -14.275, lng: -170.702, label: "パゴパゴ", type: "capital", note: "首都・トゥトゥイラ島の主要港" }
   - { lat: -14.331, lng: -170.711, label: "タフナ", type: "city", note: "国際空港のある主要集落" }
-  - { lat: -14.255, lng: -170.689, label: "ファガトゴ", type: "city", note: "事実上の行政中心地" }
+  - { lat: -14.255, lng: -170.689, label: "ファガトゴ", type: "city", note: "De facto administrative center" }
   - { lat: -14.180, lng: -169.668, label: "オフ島", type: "nature", note: "マヌア諸島の自然豊かな島" }
   - { lat: -14.215, lng: -169.475, label: "タウ島", type: "nature", note: "マヌア諸島最大の島" }
   - { lat: -14.282, lng: -170.682, label: "ナショナルパーク・オブ・アメリカン・サモア", type: "nature", note: "熱帯雨林とサンゴ礁の国立公園" }

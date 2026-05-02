@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
-sc_title: "Regions Often Confused"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../../n_america/usa/region4/", "Tern Island of the Northwestern Hawaiian Islands"],
 ]

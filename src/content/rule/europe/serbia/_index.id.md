@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_bollard: true
 plonkit: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../montenegro/", "Montenegro"],
     ["../croatia/", "Kroasia"],
@@ -25,7 +25,7 @@ mapPins:
   - { lat: 44.787, lng: 20.448, label: "ベオグラード", type: "capital", note: "首都・ドナウ川とサヴァ川の合流点" }
   - { lat: 45.255, lng: 19.843, label: "ノヴィ・サド", type: "city", note: "ヴォイヴォディナの中心都市" }
   - { lat: 43.321, lng: 21.896, label: "ニシュ", type: "city", note: "南部の主要都市" }
-  - { lat: 43.726, lng: 20.690, label: "クラグエヴァツ", type: "city", note: "中部の歴史都市" }
+  - { lat: 43.726, lng: 20.690, label: "クラグエヴァツ", type: "city", note: "Kota bersejarah di tengah" }
   - { lat: 43.900, lng: 20.349, label: "ジチャ修道院", type: "historical", note: "中世セルビア王の戴冠地" }
   - { lat: 43.301, lng: 20.262, label: "ストゥデニツァ修道院", type: "landmark", note: "世界遺産の正教会修道院" }
 features:

@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 plonkit: true
 is_has_distinctive_googlecar: true
-sc_title: "Zonas que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../puerto-rico/", "Puerto Rico"],
     ]

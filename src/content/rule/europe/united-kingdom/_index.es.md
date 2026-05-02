@@ -16,7 +16,7 @@ map_title: "mapa de práctica"
 maps: [
     ["https://www.geoguessr.com/maps/5ba862d12c0173524cd9327a", "AI Generated United Kingdom"]
     ]
-sc_title: "Áreas que son fáciles de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../jersey/", "jersey"],
     ["../ireland/", "Irlanda"],
@@ -26,7 +26,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 51.507, lng: -0.128, label: "ロンドン", type: "capital", note: "首都・世界有数の金融センター" }
+  - { lat: 51.507, lng: -0.128, label: "Londres", type: "capital", note: "首都・世界有数の金融センター" }
   - { lat: 53.481, lng: -2.243, label: "マンチェスター", type: "city", note: "産業革命発祥の都市" }
   - { lat: 55.953, lng: -3.189, label: "エディンバラ", type: "city", note: "スコットランドの首都" }
   - { lat: 52.486, lng: -1.890, label: "バーミンガム", type: "city", note: "イングランド第二の都市" }

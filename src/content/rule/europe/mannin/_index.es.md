@@ -11,7 +11,7 @@ bg: "bg/city.jpg"
 flag: "IM.svg"
 dont_show_usda: true
 flag_height: "400px"
-sc_title: "Regiones que se confunden"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../united-kingdom/", "Gran Bretaña"],
     ["../jersey/", "Jersey"],

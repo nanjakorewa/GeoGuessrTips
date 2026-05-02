@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
-sc_title: "Región Fácil de Confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../n_america/costa_rica/", "Costa Rica"],
 ]

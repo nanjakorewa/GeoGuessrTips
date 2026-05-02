@@ -13,7 +13,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../qatar/", "Qatar"],
     ["../oman/", "Oman"],

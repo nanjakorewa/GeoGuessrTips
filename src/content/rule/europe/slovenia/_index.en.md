@@ -11,7 +11,7 @@ flag: "SI.svg"
 no_detaile_info: true
 jetro_detail: true
 plonkit: true
-sc_title: "Common Mix-ups"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../austria/", "Austria"],
     ["../croatia/", "Croatia"],

@@ -14,7 +14,7 @@ dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
 flag_height: "380px"
-sc_title: "Common Mix-ups"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../../africa/namibia/", "Namibia"],
     ["../united_arab_emirates/", "United Arab Emirates"],

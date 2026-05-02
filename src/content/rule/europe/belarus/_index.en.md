@@ -11,14 +11,14 @@ flag: "BY.svg"
 is_has_many_trekker: true
 no_detaile_info: true
 jetro_detail: true
-sc_title: "Easy-to-confuse areas"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../../asia/russia/", "Russia"],
     ["../ukraine/", "Ukraine"],
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 53.902, lng: 27.559, label: "ミンスク", type: "capital", note: "首都・国の政治経済の中心" }
+  - { lat: 53.902, lng: 27.559, label: "ミンスク", type: "capital", note: "Capital and the country's political and economic center" }
   - { lat: 52.099, lng: 23.734, label: "ブレスト", type: "city", note: "ポーランド国境の歴史都市" }
   - { lat: 53.677, lng: 23.829, label: "フロドナ", type: "city", note: "西部の文化都市" }
   - { lat: 55.184, lng: 30.202, label: "ヴィテブスク", type: "city", note: "シャガールの故郷" }

@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "LI.svg"
 flag_height: "440px"
 no_detaile_info: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../switzerland/", "Switzerland"],
     ["../austria/", "Austria"],

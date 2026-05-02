@@ -12,7 +12,7 @@ jetro_detail: true
 plonkit: true
 mapProvider: "osm"
 mapPins:
-  - { lat: -6.208, lng: 106.846, label: "ジャカルタ", type: "capital", note: "インドネシアの首都・最大都市" }
+  - { lat: -6.208, lng: 106.846, label: "Yakarta", type: "capital", note: "インドネシアの首都・最大都市" }
   - { lat: -7.257, lng: 112.752, label: "スラバヤ", type: "city", note: "ジャワ島東部の主要都市" }
   - { lat: -6.917, lng: 107.619, label: "バンドン", type: "city", note: "ジャワ島西部の主要都市・高原に位置" }
   - { lat: -8.409, lng: 115.189, label: "デンパサール", type: "city", note: "バリ島の中心都市" }

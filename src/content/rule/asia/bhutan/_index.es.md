@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: true
 is_has_distinctive_googlecar: true
-sc_title: "Región fácil de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../nepal/", "Nepal"],
     ["../../cs_america/peru/", "Perú"],

@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "UA.svg"
 jetro_detail: true
 plonkit: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../../asia/russia/", "Rusia"],
     ["../poland/", "Polandia"],

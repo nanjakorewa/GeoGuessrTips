@@ -16,7 +16,7 @@ maps: [
     ["https://www.geoguessr.com/maps/64ae284d987ca44485196743", "mx vs co"],
     ["https://www.geoguessr.com/maps/63382d2cc00816fde6cd69b6", "AI gen - Mexico"]
     ]
-sc_title: "Áreas que son fáciles de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../cs_america/colombia/", "Columbia"],
     ["../panama/", "Panamá"],
@@ -24,7 +24,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 19.433, lng: -99.133, label: "メキシコシティ", type: "capital", note: "首都・ラテンアメリカ第2の人口大都市" }
+  - { lat: 19.433, lng: -99.133, label: "Ciudad de México", type: "capital", note: "首都・ラテンアメリカ第2の人口大都市" }
   - { lat: 20.660, lng: -103.349, label: "グアダラハラ", type: "city", note: "西部の第2の都市・テキーラ発祥地" }
   - { lat: 25.687, lng: -100.316, label: "モンテレイ", type: "city", note: "北部の経済の中心都市" }
   - { lat: 21.161, lng: -86.851, label: "カンクン", type: "city", note: "カリブ海岸の主要リゾート地" }

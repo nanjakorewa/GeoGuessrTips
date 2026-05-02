@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "MELILLA.svg"
 no_detaile_info: true
 jetro_detail: false
-sc_title: "Similar Regions"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../europe/spain/", "Spain (mainland)"],
     ["../ceuta/", "Ceuta"],

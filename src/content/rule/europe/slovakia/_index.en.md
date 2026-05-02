@@ -12,7 +12,7 @@ flag: "SK.svg"
 no_detaile_info: true
 jetro_detail: true
 plonkit: true
-sc_title: "Areas that are easy to mistake"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../czechia", "czech"],
     ["../bulgaria/", "Bulgaria"],

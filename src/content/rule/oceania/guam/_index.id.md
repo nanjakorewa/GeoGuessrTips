@@ -14,7 +14,7 @@ dont_show_usda: true
 is_has_distinctive_googlecar: true
 is_has_many_trekker: true
 plonkit: true
-sc_title: "Wilayah yang Mudah Salah Dipahami"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../../n_america/puerto-rico/", "Puerto Riko"],
     ["../northern_mariana_islands/", "Kepulauan Mariana Utara"],

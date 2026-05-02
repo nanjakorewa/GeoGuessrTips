@@ -19,7 +19,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 38.722, lng: -9.139, label: "リスボン", type: "capital", note: "首都・テージョ川沿いの古都" }
+  - { lat: 38.722, lng: -9.139, label: "Lisbon", type: "capital", note: "首都・テージョ川沿いの古都" }
   - { lat: 41.157, lng: -8.629, label: "ポルト", type: "city", note: "ポートワイン産地・世界遺産旧市街" }
   - { lat: 38.797, lng: -9.391, label: "シントラ", type: "historical", note: "世界遺産の文化的景観" }
   - { lat: 37.018, lng: -7.930, label: "ファロ", type: "city", note: "アルガルヴェ地方の中心" }

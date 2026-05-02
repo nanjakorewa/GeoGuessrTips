@@ -19,7 +19,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 39.904, lng: 116.407, label: "北京", type: "capital", note: "中華人民共和国の首都・政治と文化の中心" }
+  - { lat: 39.904, lng: 116.407, label: "Pekín", type: "capital", note: "中華人民共和国の首都・政治と文化の中心" }
   - { lat: 31.230, lng: 121.474, label: "上海", type: "city", note: "中国最大の経済都市・国際金融センター" }
   - { lat: 22.302, lng: 114.177, label: "香港", type: "city", note: "特別行政区・国際金融センター" }
   - { lat: 39.907, lng: 116.397, label: "天安門", type: "landmark", note: "北京中心部の歴史的広場" }

@@ -11,7 +11,7 @@ flag: "HR.svg"
 jetro_detail: true
 dont_show_usda: true
 plonkit: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../italy/", "Italy"],
     ["../serbia/", "Serbia"],

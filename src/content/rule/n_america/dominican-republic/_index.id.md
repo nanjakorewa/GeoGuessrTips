@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 plonkit: true
 is_has_distinctive_googlecar: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../puerto-rico/", "Puerto Riko"],
     ]

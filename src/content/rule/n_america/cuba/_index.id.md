@@ -16,7 +16,7 @@ is_unofficial: true
 flag_height: "400px"
 mapProvider: "osm"
 mapPins:
-  - { lat: 23.135, lng: -82.359, label: "ハバナ", type: "capital", note: "首都・カリブ海最大の都市・世界遺産の旧市街" }
+  - { lat: 23.135, lng: -82.359, label: "Havana", type: "capital", note: "首都・カリブ海最大の都市・世界遺産の旧市街" }
   - { lat: 20.022, lng: -75.829, label: "サンティアゴ・デ・クーバ", type: "city", note: "東部の第2の都市" }
   - { lat: 21.380, lng: -77.917, label: "カマグエイ", type: "city", note: "中央部の主要都市・世界遺産" }
   - { lat: 22.408, lng: -79.964, label: "サンタ・クララ", type: "city", note: "中央部の革命の歴史を持つ都市" }

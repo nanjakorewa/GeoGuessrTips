@@ -14,7 +14,7 @@ dont_show_usda: true
 is_has_distinctive_googlecar: true
 plonkit: true
 plonkit_url: "northern-mariana-islands"
-sc_title: "Región Fácil de Confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../guam/", "Guam"],
     ["../../n_america/puerto-rico/", "Puerto Rico"],

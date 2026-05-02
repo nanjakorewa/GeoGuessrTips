@@ -11,7 +11,7 @@ flag: "VN.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Easily Confused Regions"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../philippines/", "Philippines"],
     ["../cambodia/", "Cambodia"],

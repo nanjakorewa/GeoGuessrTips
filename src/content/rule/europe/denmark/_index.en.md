@@ -14,7 +14,7 @@ plonkit: true
 dont_show_usda: true
 flag_height: "530px"
 is_has_distinctive_bollard: true
-sc_title: "Common Mix-ups"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../netherlands/", "Netherlands"],
     ["../france/", "France"],

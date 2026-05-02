@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 plonkit: false
-sc_title: "Wilayah yang mudah tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../united-kingdom/", "Daratan Skotlandia"],
 ]

@@ -11,7 +11,7 @@ flag: "BW.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "髢馴＆縺医ｄ縺吶＞繝壹・繧ｸ"
+sc_title: "Commonly Confused Pages"
 sc_icon: rel
 sc: [
     ["../namibia/", "Namibia"],

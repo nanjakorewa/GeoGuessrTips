@@ -11,7 +11,7 @@ flag: "BLLS.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Regiões semelhantes"
+sc_title: "Regiões facilmente confundidas"
 sc: [
     ["../spain/", "Espanha continental"],
     ["../malta/", "Malta"],

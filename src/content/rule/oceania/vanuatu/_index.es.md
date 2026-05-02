@@ -14,7 +14,7 @@ dont_show_usda: true
 is_has_many_trekker: true
 mapProvider: "osm"
 mapPins:
-  - { lat: -17.733, lng: 168.317, label: "ポートビラ", type: "capital", note: "首都・エファテ島南西の港町" }
+  - { lat: -17.733, lng: 168.317, label: "Port Vila", type: "capital", note: "首都・エファテ島南西の港町" }
   - { lat: -19.530, lng: 169.442, label: "ヤスル山", type: "nature", note: "タンナ島の活火山・観光地" }
   - { lat: -15.521, lng: 167.171, label: "ルーガンビル", type: "city", note: "エスピリトゥサント島の中心都市" }
   - { lat: -19.531, lng: 169.272, label: "タンナ島", type: "nature", note: "ヤスル山と伝統文化で知られる" }

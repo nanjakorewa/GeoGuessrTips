@@ -15,7 +15,7 @@ dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
 flag_height: "380px"
-sc_title: "Area yang mudah salah"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../../africa/namibia/", "Namibia"],
     ["../united_arab_emirates/", "uni emirat arab"],

@@ -11,7 +11,7 @@ flag: "UY.svg"
 jetro_detail: true
 plonkit: true
 is_has_distinctive_bollard: true
-sc_title: "Regiones Similares"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../argentina/", "Argentina"],
     ]

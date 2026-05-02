@@ -11,7 +11,7 @@ flag: "MY.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
-sc_title: "Regiones Similares"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../indonesia/", "Indonesia"],
     ["../singapore/", "Singapur"],
@@ -21,7 +21,7 @@ mapProvider: "osm"
 mapPins:
   - { lat: 3.139, lng: 101.687, label: "クアラルンプール", type: "capital", note: "マレーシアの首都・最大都市" }
   - { lat: 3.158, lng: 101.711, label: "ペトロナスツインタワー", type: "landmark", note: "世界一高いツインタワー（452m）" }
-  - { lat: 5.414, lng: 100.330, label: "ジョージタウン", type: "historical", note: "ペナン州都・世界遺産の歴史都市" }
+  - { lat: 5.414, lng: 100.330, label: "Georgetown", type: "historical", note: "ペナン州都・世界遺産の歴史都市" }
   - { lat: 1.493, lng: 103.741, label: "ジョホールバル", type: "city", note: "シンガポール対岸の主要都市" }
   - { lat: 2.196, lng: 102.250, label: "マラッカ", type: "historical", note: "世界遺産・海峡都市" }
   - { lat: 1.553, lng: 110.359, label: "クチン", type: "city", note: "ボルネオ島サラワク州の州都" }

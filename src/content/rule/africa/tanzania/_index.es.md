@@ -12,7 +12,7 @@ is_has_many_trekker: true
 no_detaile_info: true
 jetro_detail: true
 plonkit: true
-sc_title: "Zonas que se confunden con facilidad"
+sc_title: "Páginas relacionadas"
 sc: [
     ["../madagascar/", "Madagascar"],
     ["../zanzibar/", "Zanzíbar"],

@@ -14,7 +14,7 @@ plonkit: true
 dont_show_usda: true
 flag_height: "530px"
 is_has_distinctive_bollard: true
-sc_title: "Regiones Similares"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../netherlands/", "Países Bajos"],
     ["../france/", "Francia"],

@@ -14,7 +14,7 @@ dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
 flag_height: "380px"
-sc_title: "Regiones Similares"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../africa/namibia/", "Namibia"],
     ["../united_arab_emirates/", "Emiratos Árabes Unidos"],

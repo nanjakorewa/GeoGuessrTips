@@ -11,7 +11,7 @@ bg: "bg/city.jpg"
 flag: "FI.svg"
 jetro_detail: true
 plonkit: true
-sc_title: "Areas that are easy to mistake"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../norway/", "Norway"],
     ["../sweden/", "Sweden"],
@@ -25,7 +25,7 @@ mapPins:
   - { lat: 60.169, lng: 24.938, label: "ヘルシンキ", type: "capital", note: "首都・バルト海沿いの主要都市" }
   - { lat: 60.451, lng: 22.267, label: "トゥルク", type: "city", note: "旧首都・歴史都市" }
   - { lat: 61.498, lng: 23.760, label: "タンペレ", type: "city", note: "内陸最大の都市" }
-  - { lat: 65.012, lng: 25.471, label: "オウル", type: "city", note: "北部の主要都市" }
+  - { lat: 65.012, lng: 25.471, label: "オウル", type: "city", note: "Major city in the north" }
   - { lat: 66.504, lng: 25.730, label: "ロヴァニエミ", type: "city", note: "ラップランドの中心・サンタクロース村" }
   - { lat: 60.151, lng: 24.950, label: "スオメンリンナ要塞", type: "landmark", note: "世界遺産の海防要塞" }
   - { lat: 61.687, lng: 27.272, label: "サイマー湖", type: "nature", note: "国内最大の湖" }

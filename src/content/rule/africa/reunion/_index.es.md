@@ -14,7 +14,7 @@ dont_show_usda: true
 is_has_distinctive_googlecar: true
 is_has_many_trekker: true
 plonkit: true
-sc_title: "Regiones comúnmente confundidas"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../europe/france/", "Francia"],
     ["../../cs_america/martinique/", "Martinica"],

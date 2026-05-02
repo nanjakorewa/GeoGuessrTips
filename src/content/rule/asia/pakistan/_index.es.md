@@ -12,7 +12,7 @@ jetro_detail: true
 jogmec_detail: false
 is_has_distinctive_googlecar: true
 is_has_many_trekker: true
-sc_title: "Regiones que se confunden"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../india/", "India"],
     ]

@@ -11,7 +11,7 @@ flag: "HR.svg"
 jetro_detail: true
 dont_show_usda: true
 plonkit: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../italy/", "Italia"],
     ["../serbia/", "Serbia"],

@@ -13,14 +13,14 @@ jetro_detail: false
 is_has_distinctive_bollard: true
 is_has_distinctive_googlecar: true
 plonkit: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../faroe_islands/", "Faroe Islands"],
     ]
 mapProvider: "osm"
 mapPins:
   - { lat: 64.146, lng: -21.942, label: "レイキャヴィーク", type: "capital", note: "首都・世界最北の首都" }
-  - { lat: 65.683, lng: -18.111, label: "アクレイリ", type: "city", note: "北部の主要都市" }
+  - { lat: 65.683, lng: -18.111, label: "アクレイリ", type: "city", note: "Major city in the north" }
   - { lat: 63.830, lng: -20.260, label: "セルフォス", type: "city", note: "南部の中心都市" }
   - { lat: 64.255, lng: -21.124, label: "シンクヴェトリル", type: "nature", note: "プレート境界・世界遺産" }
   - { lat: 64.327, lng: -20.121, label: "ゲイシール", type: "nature", note: "間欠泉で有名な地熱地帯" }

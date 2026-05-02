@@ -14,7 +14,7 @@ dont_show_usda: true
 is_unofficial: true
 mapProvider: "osm"
 mapPins:
-  - { lat: -22.276, lng: 166.458, label: "ヌメア", type: "capital", note: "首都・グランドテール島南端の港町" }
+  - { lat: -22.276, lng: 166.458, label: "Noumea", type: "capital", note: "首都・グランドテール島南端の港町" }
   - { lat: -20.722, lng: 165.250, label: "コネ", type: "city", note: "北部州の中心地・ニッケル鉱山の街" }
   - { lat: -22.591, lng: 167.483, label: "イル・デ・パン", type: "nature", note: "松の島・南太平洋の楽園と称される" }
   - { lat: -20.918, lng: 167.265, label: "リフー島", type: "nature", note: "ロイヤルティ諸島最大の島" }

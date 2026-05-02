@@ -11,7 +11,7 @@ flag: "PY.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Regiões confundidas"
+sc_title: "Regiões facilmente confundidas"
 sc: [
     ["../brazil/", "Brasil"],
     ]

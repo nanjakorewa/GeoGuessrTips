@@ -11,7 +11,7 @@ flag: "AZO.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Easy-to-confuse regions"
+sc_title: "Commonly Confused Regions"
 sc: [
 
     ["../portugal/", "Portugal"],

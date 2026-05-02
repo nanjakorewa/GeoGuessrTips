@@ -11,7 +11,7 @@ flag: "MN.svg"
 jetro_detail: true
 dont_show_usda: true
 is_has_distinctive_googlecar: true
-sc_title: "Regiones que se confunden fácilmente"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../kyrgyzstan/", "Kirguistán"],
     ]

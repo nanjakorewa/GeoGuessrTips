@@ -11,7 +11,7 @@ flag: "IE.svg"
 jetro_detail: true
 is_has_distinctive_bollard: true
 plonkit: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../united-kingdom/", "Reino Unido"],
     ["../mannin/", "Isla de Man"],

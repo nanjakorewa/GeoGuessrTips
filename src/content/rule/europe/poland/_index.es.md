@@ -12,14 +12,14 @@ jetro_detail: true
 plonkit: true
 dont_show_usda: true
 use_polish_font: true
-sc_title: "Regiones Similares"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../romania/", "Rumunia"],
     ["../ukraine/", "Ukraina"],
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 52.230, lng: 21.012, label: "ワルシャワ", type: "capital", note: "首都・第二次大戦後に再建された旧市街" }
+  - { lat: 52.230, lng: 21.012, label: "Varsovia", type: "capital", note: "首都・第二次大戦後に再建された旧市街" }
   - { lat: 50.064, lng: 19.945, label: "クラクフ", type: "historical", note: "旧首都・世界遺産の歴史地区" }
   - { lat: 54.352, lng: 18.646, label: "グダニスク", type: "port", note: "バルト海沿岸の歴史都市" }
   - { lat: 51.110, lng: 17.032, label: "ヴロツワフ", type: "city", note: "シレジア地方の中心都市" }

@@ -12,7 +12,7 @@ no_detaile_info: true
 is_has_many_trekker: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Zonas que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../falkland_islands/", "Islas Malvinas"],
     ]

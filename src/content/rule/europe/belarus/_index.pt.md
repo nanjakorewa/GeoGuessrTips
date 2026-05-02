@@ -11,7 +11,7 @@ flag: "BY.svg"
 is_has_many_trekker: true
 no_detaile_info: true
 jetro_detail: true
-sc_title: "Regiões semelhantes"
+sc_title: "Regiões facilmente confundidas"
 sc: [
     ["../../asia/russia/", "Rússia"],
     ["../ukraine/", "Ucrânia"],

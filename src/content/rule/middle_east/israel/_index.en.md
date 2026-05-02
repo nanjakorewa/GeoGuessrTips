@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "IL.svg"
 jetro_detail: true
 dont_show_usda: true
-sc_title: "Related pages"
+sc_title: "Related Pages"
 sc: [
     ["../palestine/", "West Bank"],
     ]

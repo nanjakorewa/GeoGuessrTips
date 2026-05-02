@@ -12,7 +12,7 @@ flag: "MO.svg"
 no_detaile_info: true
 jogmec_detail: false
 dont_show_usda: true
-sc_title: "Wilayah yang mudah tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../singapore/", "Singapura"],
     ["../taiwan/", "Taiwan"],

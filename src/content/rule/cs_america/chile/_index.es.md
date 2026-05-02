@@ -13,7 +13,7 @@ jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
 plonkit: true
-sc_title: "Áreas que son fáciles de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../argentina/", "Argentina"],
     ["../../europe/spain/", "España"],

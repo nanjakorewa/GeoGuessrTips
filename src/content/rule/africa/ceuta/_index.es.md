@@ -11,7 +11,7 @@ flag: "CEUTA.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "Regiones fﾃ｡cilmente confundibles"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../melilla/", "Melilla"],
     ["../canary_islands/", "Islas Canarias"],

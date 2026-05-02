@@ -11,7 +11,7 @@ flag: "AR.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
-sc_title: "Wilayah yang Mirip"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../uruguay/", "Uruguay"],
     ["../chile/", "Chili"],

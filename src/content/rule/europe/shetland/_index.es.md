@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 plonkit: false
-sc_title: "Regiones que se confunden"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../united-kingdom/", "Escocia continental"],
     ]

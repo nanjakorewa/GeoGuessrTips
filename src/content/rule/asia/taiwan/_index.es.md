@@ -13,7 +13,7 @@ no_detaile_info: true
 jetro_detail: false
 import_jquery_36: true
 plonkit: true
-sc_title: "Regiones Similares"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../hongkong/", "Hong Kong"],
     ["../macau/", "Macao"],

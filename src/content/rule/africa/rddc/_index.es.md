@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 is_unofficial: true
 flag_height: "530px"
-sc_title: "髢｢騾｣縺吶ｋ蝗ｽ"
+sc_title: "Países relacionados"
 sc: [
     ["../rdc/", "繧ｳ繝ｳ繧ｴ蜈ｱ蜥悟嵜"],
     ["../../europe/france/", "繝輔Λ繝ｳ繧ｹ"],

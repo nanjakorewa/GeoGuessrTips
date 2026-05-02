@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "HU.svg"
 jetro_detail: false
 plonkit: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../romania/", "Rumania"],
     ["../serbia/", "Serbia"],

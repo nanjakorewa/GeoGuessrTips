@@ -11,14 +11,14 @@ flag: "CZ.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../slovakia", "Slovakia"],
     ["../slovenia", "Slovenia"],
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 50.088, lng: 14.420, label: "プラハ", type: "capital", note: "首都・百塔の街・世界遺産の旧市街" }
+  - { lat: 50.088, lng: 14.420, label: "Prague", type: "capital", note: "首都・百塔の街・世界遺産の旧市街" }
   - { lat: 49.195, lng: 16.608, label: "ブルノ", type: "city", note: "モラヴィア地方の中心都市" }
   - { lat: 49.748, lng: 13.378, label: "プルゼニ", type: "city", note: "ピルスナービール発祥の地" }
   - { lat: 49.836, lng: 18.293, label: "オストラヴァ", type: "city", note: "シレジア地方の工業都市" }

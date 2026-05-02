@@ -15,7 +15,7 @@ map_title: "Peta Latihan"
 maps: [
     ["https://www.geoguessr.com/maps/61df8477a94f5d0001ef9f2c", "A Balanced Brazil"],
     ]
-sc_title: "Wilayah yang Sering Keliru"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../colombia/", "Kolombia"],
     ["../argentina/", "Argentina Bagian Utara"],

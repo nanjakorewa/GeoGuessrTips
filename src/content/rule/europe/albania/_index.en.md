@@ -11,7 +11,7 @@ flag: "AL.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "Commonly Confused Locations"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../macedonia/", "North Macedonia"],
     ["../italy/", "Italy"],
@@ -20,7 +20,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 41.327, lng: 19.819, label: "ティラナ", type: "capital", note: "首都・国の政治経済の中心" }
+  - { lat: 41.327, lng: 19.819, label: "ティラナ", type: "capital", note: "Capital and the country's political and economic center" }
   - { lat: 41.317, lng: 19.448, label: "ドゥラス", type: "port", note: "アドリア海沿いの主要港湾都市" }
   - { lat: 40.625, lng: 19.781, label: "ヴロラ", type: "city", note: "独立宣言の地・南部の港湾都市" }
   - { lat: 41.124, lng: 20.082, label: "エルバサン", type: "city", note: "中部の歴史都市" }

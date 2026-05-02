@@ -20,8 +20,6 @@ mapPins:
 features:
   - text: '日本の首都で人口約1,400万人。日本企業の本社が最も集中する<span class="quiz">経済の中心地</span>'
     ref: "https://ja.wikipedia.org/wiki/東京都"
-  - text: '大田区は中小の<span class="quiz">町工場</span>が密集する日本有数のものづくりエリア'
-    ref: "https://ja.wikipedia.org/wiki/大田区#工業"
 ---
 
 <div class="main-desciption country-description">

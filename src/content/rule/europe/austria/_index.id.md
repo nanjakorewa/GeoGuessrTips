@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "AT.svg"
 jetro_detail: true
 plonkit: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../slovenia/", "Slovenia"],
     ["../germany/", "Jerman"],

@@ -12,7 +12,7 @@ flag: "AR.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
-sc_title: "Áreas que son fáciles de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../uruguay/", "Uruguay"],
     ["../chile/", "Chile"],

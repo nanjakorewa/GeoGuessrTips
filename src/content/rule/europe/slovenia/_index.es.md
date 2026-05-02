@@ -11,7 +11,7 @@ flag: "SI.svg"
 no_detaile_info: true
 jetro_detail: true
 plonkit: true
-sc_title: "Regiones Similares"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../austria/", "Austria"],
     ["../croatia/", "Croacia"],
@@ -19,7 +19,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 46.056, lng: 14.508, label: "リュブリャナ", type: "capital", note: "首都・国の中心都市" }
+  - { lat: 46.056, lng: 14.508, label: "リュブリャナ", type: "capital", note: "Capital, ciudad principal del país" }
   - { lat: 46.555, lng: 15.646, label: "マリボル", type: "city", note: "第二の都市・ワイン産地" }
   - { lat: 46.369, lng: 14.114, label: "ブレッド湖", type: "landmark", note: "湖上教会で有名な景勝地" }
   - { lat: 45.776, lng: 14.203, label: "ポストイナ鍾乳洞", type: "nature", note: "欧州最大級のカルスト洞窟" }

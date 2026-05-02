@@ -15,7 +15,7 @@ jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
 is_has_distinctive_googlecar: true
-sc_title: "Regions Often Confused"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../christmas-island/", "Christmas Island"],
     ["../../asia/indonesia/", "Indonesia"],

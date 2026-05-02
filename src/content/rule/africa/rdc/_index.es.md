@@ -11,7 +11,7 @@ flag: "CG.svg"
 no_detaile_info: true
 jetro_detail: false
 is_unofficial: true
-sc_title: "髢｢騾｣縺吶ｋ蝗ｽ"
+sc_title: "Países relacionados"
 sc: [
     ["../rddc/", "繧ｳ繝ｳ繧ｴ豌台ｸｻ蜈ｱ蜥悟嵜"],
     ["../../europe/france/", "繝輔Λ繝ｳ繧ｹ"],

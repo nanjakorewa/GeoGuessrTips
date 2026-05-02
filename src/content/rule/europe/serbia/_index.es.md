@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_bollard: true
 plonkit: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../montenegro/", "Montenegro"],
     ["../croatia/", "Croacia"],
@@ -25,9 +25,9 @@ mapPins:
   - { lat: 44.787, lng: 20.448, label: "ベオグラード", type: "capital", note: "首都・ドナウ川とサヴァ川の合流点" }
   - { lat: 45.255, lng: 19.843, label: "ノヴィ・サド", type: "city", note: "ヴォイヴォディナの中心都市" }
   - { lat: 43.321, lng: 21.896, label: "ニシュ", type: "city", note: "南部の主要都市" }
-  - { lat: 43.726, lng: 20.690, label: "クラグエヴァツ", type: "city", note: "中部の歴史都市" }
+  - { lat: 43.726, lng: 20.690, label: "クラグエヴァツ", type: "city", note: "Ciudad histórica del centro" }
   - { lat: 43.900, lng: 20.349, label: "ジチャ修道院", type: "historical", note: "中世セルビア王の戴冠地" }
-  - { lat: 43.301, lng: 20.262, label: "ストゥデニツァ修道院", type: "landmark", note: "世界遺産の正教会修道院" }
+  - { lat: 43.301, lng: 20.262, label: "ストゥデニツァ修道院", type: "landmark", note: "Monasterio ortodoxo Patrimonio Mundial" }
 features:
   - text: '<span class="quiz">ニコラ・テスラ</span>の出身地域であり、首都<span class="quiz">ベオグラード</span>はドナウ川とサヴァ川の合流点に位置する'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%89"

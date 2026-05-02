@@ -12,7 +12,7 @@ jetro_detail: true
 is_has_distinctive_googlecar: true
 plonkit: true
 plonkit_url: "puerto-rico"
-sc_title: "Regiones que se confunden"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../dominican-republic/", "República Dominicana"],
     ["../../oceania/guam/", "Guam"],

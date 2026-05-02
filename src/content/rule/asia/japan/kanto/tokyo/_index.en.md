@@ -20,8 +20,6 @@ mapPins:
 features:
   - text: 'Capital of Japan with about 14 million residents. Japan''s <span class="quiz">economic center</span> with the highest concentration of corporate headquarters'
     ref: "https://ja.wikipedia.org/wiki/東京都"
-  - text: 'Ota Ward is one of Japan''s leading manufacturing areas, packed with small and medium-sized <span class="quiz">machi-koba (small factories)</span>'
-    ref: "https://ja.wikipedia.org/wiki/大田区#工業"
 ---
 
 <div class="main-desciption country-description">

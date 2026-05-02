@@ -11,7 +11,7 @@ flag: "IT.svg"
 dont_show_usda: true
 jetro_detail: true
 plonkit: true
-sc_title: "Daerah yang mudah tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../san-marino/", "San Marino"],
     ["../monaco/", "Monako"],
@@ -20,7 +20,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 41.903, lng: 12.496, label: "ローマ", type: "capital", note: "首都・古代ローマ帝国の中心" }
+  - { lat: 41.903, lng: 12.496, label: "Roma", type: "capital", note: "首都・古代ローマ帝国の中心" }
   - { lat: 45.464, lng: 9.190, label: "ミラノ", type: "city", note: "ファッションと金融の中心" }
   - { lat: 45.440, lng: 12.316, label: "ヴェネツィア", type: "city", note: "水の都・運河の街" }
   - { lat: 43.770, lng: 11.255, label: "フィレンツェ", type: "city", note: "ルネサンス発祥の地" }

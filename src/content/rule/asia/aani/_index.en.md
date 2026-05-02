@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_distinctive_googlecar: false
-sc_title: "Regions Easy to Misidentify"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../india/", "Regions with High Rainfall in Mainland India"],
     ["../lakshadweep/", "Lakshadweep"],

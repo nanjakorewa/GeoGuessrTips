@@ -14,8 +14,8 @@ jetro_detail: false
 is_unofficial: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 47.010, lng: 28.864, label: "キシナウ", type: "capital", note: "首都・国の政治経済の中心" }
-  - { lat: 47.764, lng: 27.929, label: "バルツィ", type: "city", note: "北部の主要都市" }
+  - { lat: 47.010, lng: 28.864, label: "キシナウ", type: "capital", note: "Capital and the country's political and economic center" }
+  - { lat: 47.764, lng: 27.929, label: "バルツィ", type: "city", note: "Major city in the north" }
   - { lat: 47.768, lng: 27.937, label: "ティラスポリ", type: "city", note: "沿ドニエストルの中心都市" }
   - { lat: 46.836, lng: 29.484, label: "ベンデル", type: "city", note: "ドニエストル川沿いの歴史都市" }
   - { lat: 46.940, lng: 28.819, label: "ミレシュティ・ミチ", type: "landmark", note: "世界最大のワインセラー" }

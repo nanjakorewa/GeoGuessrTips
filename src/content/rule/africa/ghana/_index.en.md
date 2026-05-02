@@ -11,7 +11,7 @@ flag: "GH.svg"
 jetro_detail: true
 plonkit: true
 is_has_distinctive_googlecar: true
-sc_title: "Easily Mistaken Regions"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../reunion/", "Rﾃｩunion"],
 ]

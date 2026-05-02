@@ -16,7 +16,7 @@ map_title: "practice map"
 maps: [
     ["https://www.geoguessr.com/maps/61df8477a94f5d0001ef9f2c", "A Balanced Brazil"],
     ]
-sc_title: "Areas that are easy to mistake"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../colombia/", "Columbia"],
     ["../argentina/", "northern argentina"],

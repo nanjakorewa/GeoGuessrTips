@@ -12,14 +12,14 @@ jetro_detail: true
 jogmec_detail: true
 plonkit: true
 is_has_distinctive_bollard: true
-sc_title: "Wilayah yang Sering Disalahpahami"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../australia", "Australia"],
     ["../australia", "Pulau Tasmania"],
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: -41.286, lng: 174.776, label: "ウェリントン", type: "capital", note: "首都・北島南端の港湾都市" }
+  - { lat: -41.286, lng: 174.776, label: "Wellington", type: "capital", note: "首都・北島南端の港湾都市" }
   - { lat: -36.848, lng: 174.763, label: "オークランド", type: "city", note: "国内最大の都市・帆の街" }
   - { lat: -43.532, lng: 172.636, label: "クライストチャーチ", type: "city", note: "南島最大の都市・庭園都市" }
   - { lat: -45.031, lng: 168.663, label: "クイーンズタウン", type: "city", note: "南島の山岳リゾート都市" }

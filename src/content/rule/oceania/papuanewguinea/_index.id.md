@@ -15,7 +15,7 @@ is_unofficial: true
 flag_height: "600px"
 mapProvider: "osm"
 mapPins:
-  - { lat: -9.443, lng: 147.180, label: "ポートモレスビー", type: "capital", note: "首都・南東部の港湾都市" }
+  - { lat: -9.443, lng: 147.180, label: "Port Moresby", type: "capital", note: "首都・南東部の港湾都市" }
   - { lat: -6.737, lng: 147.001, label: "ラエ", type: "port", note: "国内第二の都市・モロベ州の州都" }
   - { lat: -5.864, lng: 144.295, label: "マウント・ハーゲン", type: "city", note: "高地地方最大の都市" }
   - { lat: -4.219, lng: 152.166, label: "ラバウル", type: "historical", note: "ニューブリテン島の港町・第二次大戦の重要拠点" }

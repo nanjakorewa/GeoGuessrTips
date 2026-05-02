@@ -22,7 +22,7 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 48.857, lng: 2.353, label: "パリ", type: "capital", note: "首都・芸術と文化の中心" }
+  - { lat: 48.857, lng: 2.353, label: "Paris", type: "capital", note: "首都・芸術と文化の中心" }
   - { lat: 43.297, lng: 5.381, label: "マルセイユ", type: "port", note: "地中海最大の港湾都市" }
   - { lat: 45.764, lng: 4.836, label: "リヨン", type: "city", note: "美食の都・フランス第三の都市" }
   - { lat: 43.710, lng: 7.262, label: "ニース", type: "city", note: "コート・ダジュールの中心" }

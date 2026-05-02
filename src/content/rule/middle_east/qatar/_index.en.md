@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: true
 is_has_distinctive_googlecar: true
-sc_title: "Easy-to-confuse regions"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../oman/", "Oman"],
     ["../united_arab_emirates/", "United Arab Emirates"],

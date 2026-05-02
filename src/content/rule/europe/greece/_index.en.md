@@ -11,7 +11,7 @@ bg: "bg/city.jpg"
 flag: "GR.svg"
 jetro_detail: true
 plonkit: true
-sc_title: "Areas that are easy to mistake"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../../middle_east/sba/", "British Sovereign Base Areas Akrotiri and Dekelia"],
     ["../albania/", "Albania"],

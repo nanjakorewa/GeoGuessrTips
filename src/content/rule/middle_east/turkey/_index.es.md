@@ -14,7 +14,7 @@ jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
 is_has_distinctive_googlecar: true
-sc_title: "Áreas que son fáciles de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../europe/macedonia/", "macedonia del norte"],
     ["../../europe/greece/", "Grecia"],

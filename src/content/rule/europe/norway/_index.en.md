@@ -12,7 +12,7 @@ flag: "NO.svg"
 jetro_detail: false
 plonkit: true
 jogmec_detail: false
-sc_title: "Areas that are easy to mistake"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../finland/", "Finland"],
     ["../sweden/", "Sweden"],
@@ -27,7 +27,7 @@ mapPins:
   - { lat: 58.970, lng: 5.733, label: "スタヴァンゲル", type: "port", note: "石油産業の中心" }
   - { lat: 69.649, lng: 18.956, label: "トロムソ", type: "city", note: "北極圏の都市・オーロラ観測地" }
   - { lat: 61.066, lng: 6.851, label: "ソグネフィヨルド", type: "nature", note: "ノルウェー最長のフィヨルド" }
-  - { lat: 58.886, lng: 6.190, label: "プレーケストーレン", type: "nature", note: "断崖絶壁の景勝地" }
+  - { lat: 58.886, lng: 6.190, label: "プレーケストーレン", type: "nature", note: "Scenic cliff coastline" }
 features:
   - text: '複雑に入り組んだ<span class="quiz">フィヨルド</span>海岸線が特徴で、<span class="quiz">北海油田</span>からの石油・天然ガス収入により世界有数の裕福な国'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC"

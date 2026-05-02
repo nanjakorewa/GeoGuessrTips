@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 plonkit: true
 dont_show_usda: true
-sc_title: "Regiones que se confunden fácilmente"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../thai/", "Tailandia"],
     ["../laos/", "Laos"],

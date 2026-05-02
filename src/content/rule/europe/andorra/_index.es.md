@@ -11,7 +11,7 @@ flag: "AD.svg"
 jetro_detail: true
 plonkit: true
 dont_show_usda: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../spain/", "España"],
     ["../italy/", "Oeste de Italia"],

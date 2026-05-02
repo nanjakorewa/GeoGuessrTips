@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "DE.svg"
 jetro_detail: true
 plonkit: true
-sc_title: "Regiones que se confunden"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../austria/", "Austria"],
     ["../luxembourg/", "Luxemburgo"],
@@ -31,7 +31,7 @@ products:
     company_url: "https://www.zwilling.com/jp/"
 mapProvider: "osm"
 mapPins:
-  - { lat: 52.520, lng: 13.405, label: "ベルリン", type: "capital", note: "首都・東西統一の象徴" }
+  - { lat: 52.520, lng: 13.405, label: "Berlín", type: "capital", note: "首都・東西統一の象徴" }
   - { lat: 48.137, lng: 11.575, label: "ミュンヘン", type: "city", note: "バイエルン州の州都・オクトーバーフェスト" }
   - { lat: 53.551, lng: 9.993, label: "ハンブルク", type: "port", note: "ドイツ最大の港湾都市" }
   - { lat: 50.937, lng: 6.960, label: "ケルン", type: "city", note: "大聖堂で有名な歴史都市" }

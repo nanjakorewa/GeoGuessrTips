@@ -14,7 +14,7 @@ mapPins:
   - { lat: 34.347, lng: 134.047, label: "高松駅", type: "capital", note: "香川県の県庁所在地・うどん県" }
   - { lat: 34.331, lng: 134.052, label: "栗林公園", type: "landmark", note: "特別名勝の大名庭園" }
   - { lat: 34.185, lng: 133.815, label: "金刀比羅宮", type: "historical", note: "こんぴらさん" }
-  - { lat: 34.241, lng: 133.815, label: "瀬戸大橋", type: "landmark", note: "本州と四国を結ぶ橋" }
+  - { lat: 34.241, lng: 133.815, label: "Gran Puente de Seto", type: "landmark", note: "Puente que une Honshu y Shikoku" }
   - { lat: 34.476, lng: 134.226, label: "小豆島", type: "nature", note: "瀬戸内海の島・オリーブ" }
   - { lat: 34.286, lng: 133.798, label: "丸亀城", type: "historical", note: "現存天守" }
 features:

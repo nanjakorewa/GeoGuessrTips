@@ -17,7 +17,7 @@ maps: [
     ["https://www.geoguessr.com/maps/6447040b0517cbd5807a5145", "A Learnable Russia"],
     ["https://www.geoguessr.com/maps/62e309bfac02fca31aa404b8", "A Balanced Russia"],
     ]
-sc_title: "Áreas que son fáciles de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../europe/ukraine/", "Ucrania"],
     ["../kyrgyzstan/", "Kirguistán"],

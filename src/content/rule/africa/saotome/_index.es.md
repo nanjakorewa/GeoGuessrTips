@@ -13,7 +13,7 @@ jetro_detail: false
 jogmec_detail: false
 plonkit: false
 flag_height: "350px"
-sc_title: "Regiones comúnmente confundidas"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../nigeria/", "Nigeria"],
 ]

@@ -11,7 +11,7 @@ flag: "UY.svg"
 jetro_detail: true
 plonkit: true
 is_has_distinctive_bollard: true
-sc_title: "Common Mix-ups"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../argentina/", "Argentina"],
     ]

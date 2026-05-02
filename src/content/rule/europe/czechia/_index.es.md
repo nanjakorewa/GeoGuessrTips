@@ -11,7 +11,7 @@ flag: "CZ.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "Lugares que se confunden con facilidad"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../slovakia", "Eslovaquia"],
     ["../slovenia", "Eslovenia"],

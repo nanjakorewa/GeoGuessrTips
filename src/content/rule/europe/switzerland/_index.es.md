@@ -13,7 +13,7 @@ flag_height: "700px"
 jetro_detail: true
 dont_show_usda: true
 plonkit: true
-sc_title: "Áreas que son fáciles de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../austria/", "Austria"],
     ["../liechtenstein/", "liechtenstein"],

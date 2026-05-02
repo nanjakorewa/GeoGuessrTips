@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
-sc_title: "Regiones que suelen confundirse"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../europe/greece/", "Grecia"],
     ]

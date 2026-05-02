@@ -12,7 +12,7 @@ flag: "SK.svg"
 no_detaile_info: true
 jetro_detail: true
 plonkit: true
-sc_title: "Area yang mudah salah"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../czechia", "Ceko"],
     ["../bulgaria/", "Bulgaria"],
@@ -22,7 +22,7 @@ mapPins:
   - { lat: 48.148, lng: 17.107, label: "ブラチスラヴァ", type: "capital", note: "首都・ドナウ川沿いの古都" }
   - { lat: 48.720, lng: 21.258, label: "コシツェ", type: "city", note: "東部最大の都市" }
   - { lat: 49.222, lng: 18.740, label: "ジリナ", type: "city", note: "北西部の主要都市" }
-  - { lat: 48.738, lng: 19.150, label: "バンスカー・ビストリツァ", type: "city", note: "中部の歴史都市" }
+  - { lat: 48.738, lng: 19.150, label: "バンスカー・ビストリツァ", type: "city", note: "Kota bersejarah di tengah" }
   - { lat: 49.001, lng: 20.764, label: "スピシュ城", type: "historical", note: "中欧最大級の城跡・世界遺産" }
   - { lat: 49.156, lng: 20.140, label: "高タトラ山脈", type: "nature", note: "国立公園・スキー保養地" }
   - { lat: 48.819, lng: 20.498, label: "スロバキア・カルスト", type: "nature", note: "鍾乳洞群・世界遺産" }

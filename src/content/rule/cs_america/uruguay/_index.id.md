@@ -11,7 +11,7 @@ flag: "UY.svg"
 jetro_detail: true
 plonkit: true
 is_has_distinctive_bollard: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../argentina/", "Argentina"],
     ]

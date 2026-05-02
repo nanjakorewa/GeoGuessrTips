@@ -14,7 +14,7 @@ map_title: "Peta Latihan"
 maps: [
     ["https://www.geoguessr.com/maps/64b7d73dda09bd9071e66719", "Peru vs Bolivia vs Chile"],
     ]
-sc_title: "Wilayah yang Sering Keliru"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../peru/", "Peru"],
     ["../../n_america/usa/", "Amerika Serikat"],

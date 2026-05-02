@@ -13,7 +13,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../qatar/", "Qatar"],
     ["../oman/", "Oman"],

@@ -14,7 +14,7 @@ is_has_many_trekker: true
 jetro_detail: false
 dont_show_usda: true
 flag_height: "440px"
-sc_title: "Región relacionada"
+sc_title: "Regiones relacionadas"
 sc: [
     ["../../africa/mauritius/", "Mauricio"],
 ]

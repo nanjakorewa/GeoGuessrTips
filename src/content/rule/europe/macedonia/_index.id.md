@@ -11,7 +11,7 @@ flag: "MK.svg"
 plonkit: true
 plonkit_url: "north-macedonia"
 no_detaile_info: true
-sc_title: "Wilayah yang Mudah Tertukar"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../albania/", "Albania"],
     ["../montenegro/", "Montenegro"],
@@ -24,7 +24,7 @@ mapPins:
   - { lat: 41.115, lng: 20.802, label: "オフリド", type: "historical", note: "湖畔の世界遺産都市" }
   - { lat: 41.031, lng: 21.334, label: "ビトラ", type: "city", note: "南部の主要都市" }
   - { lat: 41.745, lng: 22.197, label: "シュティプ", type: "city", note: "東部の文化都市" }
-  - { lat: 41.130, lng: 20.802, label: "オフリド湖", type: "nature", note: "欧州最古級の湖・世界遺産" }
+  - { lat: 41.130, lng: 20.802, label: "Danau Ohrid", type: "nature", note: "欧州最古級の湖・世界遺産" }
   - { lat: 41.738, lng: 21.711, label: "ヴェレス", type: "city", note: "ヴァルダル川沿いの都市" }
 features:
   - text: 'ギリシャとの国名論争を経て2019年に<span class="quiz">北マケドニア</span>共和国に改名した内陸国'

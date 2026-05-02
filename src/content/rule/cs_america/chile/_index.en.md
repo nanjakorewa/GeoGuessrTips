@@ -13,7 +13,7 @@ jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
 plonkit: true
-sc_title: "Areas that are easy to mistake"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../argentina/", "Argentina"],
     ["../../europe/spain/", "Spain"],

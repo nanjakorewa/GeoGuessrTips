@@ -12,7 +12,7 @@ jetro_detail: true
 plonkit: true
 dont_show_usda: true
 is_has_distinctive_googlecar: true
-sc_title: "Wilayah yang Sering Salah Diartikan"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../india/", "India"],
 ]

@@ -12,7 +12,7 @@ flag: "NA.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: false
-sc_title: "Frequently Confused Regions"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../south-africa/", "South Africa"],
     ["../botswana/", "Botswana"],

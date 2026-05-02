@@ -11,7 +11,7 @@ bg: "bg/city.jpg"
 flag: "IM.svg"
 dont_show_usda: true
 flag_height: "400px"
-sc_title: "Regiões semelhantes"
+sc_title: "Regiões facilmente confundidas"
 sc: [
     ["../united-kingdom/", "Reino Unido"],
     ["../jersey/", "Jersey"],

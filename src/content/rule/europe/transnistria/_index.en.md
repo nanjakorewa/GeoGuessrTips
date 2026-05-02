@@ -16,7 +16,7 @@ mapProvider: "osm"
 mapPins:
   - { lat: 46.838, lng: 29.643, label: "ティラスポリ", type: "capital", note: "首都・地域最大の都市" }
   - { lat: 46.836, lng: 29.484, label: "ベンデル", type: "city", note: "ドニエストル川西岸の歴史都市" }
-  - { lat: 47.760, lng: 29.001, label: "ルブニツァ", type: "city", note: "北部の主要都市" }
+  - { lat: 47.760, lng: 29.001, label: "ルブニツァ", type: "city", note: "Major city in the north" }
   - { lat: 47.182, lng: 29.117, label: "ドゥボサル", type: "city", note: "ドニエストル川沿いの町" }
   - { lat: 46.832, lng: 29.479, label: "ベンデル要塞", type: "historical", note: "16世紀のオスマン要塞" }
   - { lat: 46.842, lng: 29.643, label: "ティラスポリ中央広場", type: "landmark", note: "ソ連時代の建築が残る中心" }

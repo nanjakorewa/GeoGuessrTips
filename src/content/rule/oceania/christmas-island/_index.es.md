@@ -15,7 +15,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
-sc_title: "Región fácil de confundir"
+sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../australia/", "Australia"],
     ["../cocos_islands/", "Islas Cocos"],

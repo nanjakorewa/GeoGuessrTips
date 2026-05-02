@@ -17,7 +17,7 @@ maps: [
     ["https://www.geoguessr.com/maps/6447040b0517cbd5807a5145", "A Learnable Russia"],
     ["https://www.geoguessr.com/maps/62e309bfac02fca31aa404b8", "A Balanced Russia"],
     ]
-sc_title: "Area yang mudah salah"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../../europe/ukraine/", "ukraina"],
     ["../kyrgyzstan/", "Kirgistan"],

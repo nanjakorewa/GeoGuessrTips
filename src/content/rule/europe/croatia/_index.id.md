@@ -12,7 +12,7 @@ flag: "HR.svg"
 jetro_detail: true
 dont_show_usda: true
 plonkit: true
-sc_title: "Area yang mudah salah"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../italy/", "Italia"],
     ["../serbia/", "Serbia"],
