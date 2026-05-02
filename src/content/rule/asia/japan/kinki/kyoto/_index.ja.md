@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Kyoto.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.012, lng: 135.768, label: "京都駅", type: "capital", note: "京都府の府庁所在地・古都" }
+  - { lat: 35.039, lng: 135.729, label: "金閣寺", type: "historical", note: "鹿苑寺・世界遺産" }
+  - { lat: 34.995, lng: 135.785, label: "清水寺", type: "historical", note: "舞台造り・世界遺産" }
+  - { lat: 34.967, lng: 135.778, label: "伏見稲荷大社", type: "historical", note: "千本鳥居" }
+  - { lat: 35.017, lng: 135.677, label: "嵐山", type: "nature", note: "渡月橋・竹林の道" }
+  - { lat: 35.572, lng: 135.193, label: "天橋立", type: "landmark", note: "日本三景の一つ" }
 ---
 
 <div class="pref-tips">

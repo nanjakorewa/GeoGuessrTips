@@ -21,6 +21,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8A%E3%82%B3"
   - text: '<span class="quiz">F1モナコグランプリ</span>の開催地であり、<span class="quiz">カジノ</span>で有名な高級リゾート国家で所得税がない'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8A%E3%82%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA"
+mapProvider: "osm"
+mapPins:
+  - { lat: 43.738, lng: 7.424, label: "モナコ", type: "capital", note: "首都・公国の中心" }
+  - { lat: 43.740, lng: 7.428, label: "モンテカルロ", type: "city", note: "カジノで有名な地区" }
+  - { lat: 43.732, lng: 7.420, label: "モナコ・ヴィル", type: "historical", note: "旧市街・大公宮殿" }
+  - { lat: 43.731, lng: 7.421, label: "大公宮殿", type: "landmark", note: "グリマルディ家の居城" }
+  - { lat: 43.736, lng: 7.422, label: "モナコ大聖堂", type: "landmark", note: "歴代大公の墓所" }
+  - { lat: 43.737, lng: 7.422, label: "海洋博物館", type: "landmark", note: "ジャック・クストーで知られる" }
 ---
 
 <div class="main-desciption country-description">

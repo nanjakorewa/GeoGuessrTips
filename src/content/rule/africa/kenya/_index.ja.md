@@ -21,6 +21,15 @@ sc: [
 features:
   - text: '<span class="quiz">マサイマラ国立保護区</span>があり、ヌーの大移動で知られる野生動物の宝庫である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B5%E3%82%A4%E3%83%9E%E3%83%A9%E5%9B%BD%E7%AB%8B%E4%BF%9D%E8%AD%B7%E5%8C%BA"
+mapProvider: "osm"
+mapPins:
+  - { lat: -1.286, lng: 36.817, label: "ナイロビ", type: "capital", note: "首都・東アフリカ最大級の都市" }
+  - { lat: -4.043, lng: 39.668, label: "モンバサ", type: "port", note: "インド洋岸の最大港湾都市" }
+  - { lat: -0.303, lng: 36.080, label: "ナクル", type: "city", note: "リフトバレー州の中心都市" }
+  - { lat: 0.514, lng: 35.270, label: "エルドレット", type: "city", note: "西部高地の都市・長距離走者の街" }
+  - { lat: -0.091, lng: 34.768, label: "キスム", type: "city", note: "ビクトリア湖岸の主要都市" }
+  - { lat: -1.500, lng: 35.250, label: "マサイマラ国立保護区", type: "nature", note: "ヌーの大移動で有名な野生動物保護区" }
+  - { lat: -0.150, lng: 37.308, label: "ケニア山", type: "nature", note: "アフリカ第2位の高峰（5,199m）" }
 ---
 
 <div class="main-desciption country-description">

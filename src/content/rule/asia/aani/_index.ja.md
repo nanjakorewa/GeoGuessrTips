@@ -23,6 +23,16 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%8B%E3%82%B3%E3%83%90%E3%83%AB%E8%AB%B8%E5%B3%B6"
   - text: '先住民族の<span class="quiz">センチネル族</span>は外部との接触を拒否している世界でも稀な部族である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%8D%E3%83%AB%E6%97%8F"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 11.624, lng: 92.726, label: "ポートブレア", type: "capital", note: "アンダマン・ニコバル諸島の中心都市" }
+  - { lat: 13.255, lng: 93.022, label: "サドルピーク", type: "nature", note: "諸島最高峰（標高約732m）" }
+  - { lat: 11.553, lng: 92.616, label: "ハブロック島", type: "nature", note: "美しいビーチで知られる観光地" }
+  - { lat: 11.659, lng: 92.748, label: "ロスアイランド", type: "historical", note: "旧英国植民地の遺跡が残る島" }
+  - { lat: 12.523, lng: 92.928, label: "ランガット", type: "city", note: "中アンダマン地区の主要町" }
+  - { lat: 11.450, lng: 92.700, label: "リトルアンダマン島", type: "nature", note: "南方の島・先住民の居住地" }
 ---
 
 <div class="main-desciption country-description">

@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Tottori.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.500, lng: 134.235, label: "鳥取駅", type: "capital", note: "鳥取県の県庁所在地" }
+  - { lat: 35.539, lng: 134.225, label: "鳥取砂丘", type: "nature", note: "日本最大級の海岸砂丘" }
+  - { lat: 35.428, lng: 133.330, label: "米子", type: "city", note: "県西部の中心" }
+  - { lat: 35.371, lng: 133.547, label: "大山", type: "nature", note: "中国地方最高峰" }
+  - { lat: 35.541, lng: 133.235, label: "境港", type: "port", note: "水木しげるロード" }
+  - { lat: 35.398, lng: 133.842, label: "三朝温泉", type: "nature", note: "ラジウム温泉" }
 ---
 
 <div class="pref-tips">

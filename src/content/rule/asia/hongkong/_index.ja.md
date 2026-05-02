@@ -25,6 +25,17 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
   - text: '<span class="quiz">ヴィクトリア・ハーバー</span>を挟んで香港島と九龍半島が向かい合う世界有数の港湾都市である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 22.302, lng: 114.177, label: "中環", type: "capital", note: "香港島中心部・行政と金融の中心" }
+  - { lat: 22.297, lng: 114.172, label: "ヴィクトリア・ハーバー", type: "landmark", note: "香港島と九龍半島の間の港湾" }
+  - { lat: 22.276, lng: 114.146, label: "ヴィクトリア・ピーク", type: "nature", note: "香港島最高峰・夜景の名所" }
+  - { lat: 22.318, lng: 114.169, label: "九龍", type: "city", note: "香港の主要市街地・繁華街が集中" }
+  - { lat: 22.280, lng: 114.158, label: "セントラル", type: "city", note: "香港島の中心商業地区" }
+  - { lat: 22.262, lng: 113.917, label: "香港国際空港", type: "landmark", note: "ランタオ島の国際空港" }
+  - { lat: 22.215, lng: 113.955, label: "ランタオ島", type: "nature", note: "香港最大の島・大仏と空港の所在地" }
 ---
 
 <div class="main-desciption country-description">

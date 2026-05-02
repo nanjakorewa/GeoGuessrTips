@@ -16,6 +16,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8B%E3%82%A2#%E7%B5%8C%E6%B8%88"
   - text: '西アフリカの主要河川である<span class="quiz">ニジェール川</span>の源流がこの国にある'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%AB%E5%B7%9D"
+mapProvider: "osm"
+mapPins:
+  - { lat: 9.641, lng: -13.578, label: "コナクリ", type: "capital", note: "首都・大西洋岸の港湾都市" }
+  - { lat: 10.385, lng: -13.708, label: "キンディア", type: "city", note: "首都郊外の主要都市" }
+  - { lat: 11.318, lng: -12.282, label: "ラベ", type: "city", note: "中央高地フータ・ジャロンの中心都市" }
+  - { lat: 10.040, lng: -10.740, label: "カンカン", type: "city", note: "東部ニジェール川源流近くの都市" }
+  - { lat: 7.756, lng: -8.823, label: "ンゼレコレ", type: "city", note: "南東部森林地帯の中心都市" }
+  - { lat: 11.443, lng: -12.282, label: "フータ・ジャロン", type: "nature", note: "西アフリカの水源高原" }
 ---
 
 <div class="main-desciption country-description">

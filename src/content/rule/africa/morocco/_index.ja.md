@@ -17,6 +17,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
   - text: '<span class="quiz">リン鉱石</span>の埋蔵量が世界最大であり、主要な輸出品である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.020, lng: -6.842, label: "ラバト", type: "capital", note: "首都・大西洋岸の歴史都市" }
+  - { lat: 33.572, lng: -7.590, label: "カサブランカ", type: "city", note: "最大都市・経済の中心・主要港" }
+  - { lat: 31.630, lng: -7.990, label: "マラケシュ", type: "historical", note: "世界遺産の旧市街・ジャマ・エル・フナ広場" }
+  - { lat: 34.034, lng: -5.000, label: "フェズ", type: "historical", note: "世界遺産のメディナ・最古のイスラム学府" }
+  - { lat: 35.759, lng: -5.834, label: "タンジェ", type: "port", note: "ジブラルタル海峡の港湾都市" }
+  - { lat: 31.515, lng: -9.769, label: "エッサウィラ", type: "city", note: "大西洋岸の世界遺産港町" }
+  - { lat: 31.058, lng: -7.913, label: "トゥブカル山", type: "nature", note: "アトラス山脈最高峰（4,167m）" }
 ---
 
 <div class="main-desciption country-description">

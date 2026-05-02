@@ -12,6 +12,14 @@ relatedIndustry:
   - "/industry/japan-combinat/mizushima/"
   - "/industry/japan-industrial-zones/setouchi/"
   - "/industry/japan-pottery/"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.665, lng: 133.918, label: "岡山駅", type: "capital", note: "岡山県の県庁所在地・桃太郎の街" }
+  - { lat: 34.665, lng: 133.935, label: "岡山城", type: "historical", note: "烏城" }
+  - { lat: 34.667, lng: 133.933, label: "後楽園", type: "landmark", note: "日本三名園の一つ" }
+  - { lat: 34.595, lng: 133.770, label: "倉敷美観地区", type: "historical", note: "白壁の街並み" }
+  - { lat: 34.241, lng: 133.815, label: "瀬戸大橋", type: "landmark", note: "本州と四国を結ぶ橋" }
+  - { lat: 35.069, lng: 134.005, label: "津山", type: "city", note: "城下町" }
 ---
 
 <div class="pref-tips">

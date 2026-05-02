@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8D%E3%82%BA%E3%82%A8%E3%83%A9"
   - text: '落差979mの世界最大の滝である<span class="quiz">エンジェルフォール</span>がある'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB"
+mapProvider: "osm"
+mapPins:
+  - { lat: 10.491, lng: -66.879, label: "カラカス", type: "capital", note: "首都・北部沿岸の山あいに位置する大都市" }
+  - { lat: 10.654, lng: -71.640, label: "マラカイボ", type: "city", note: "石油産業の中心地・第2の都市" }
+  - { lat: 10.067, lng: -69.317, label: "バルキシメト", type: "city", note: "中西部の主要都市" }
+  - { lat: 8.595, lng: -71.144, label: "メリダ", type: "city", note: "アンデス山中の大学都市" }
+  - { lat: 5.967, lng: -62.535, label: "エンジェルフォール", type: "landmark", note: "世界最大の落差979mの滝" }
+  - { lat: 5.152, lng: -60.764, label: "ロライマ山", type: "nature", note: "ギアナ高地のテーブルマウンテン" }
 ---
 
 <div class="main-desciption country-description">

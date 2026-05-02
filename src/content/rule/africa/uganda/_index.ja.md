@@ -22,6 +22,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AC%E3%83%B3%E3%83%80"
   - text: '絶滅危惧種の<span class="quiz">マウンテンゴリラ</span>の生息地として知られ、ブウィンディ原生国立公園が世界遺産に登録されている'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%87%E3%82%A3%E5%8E%9F%E7%94%9F%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92"
+mapProvider: "osm"
+mapPins:
+  - { lat: 0.347, lng: 32.583, label: "カンパラ", type: "capital", note: "首都・ヴィクトリア湖北岸の最大都市" }
+  - { lat: 0.435, lng: 33.204, label: "ジンジャ", type: "city", note: "白ナイル川源流の都市" }
+  - { lat: 2.778, lng: 32.299, label: "グル", type: "city", note: "北部の主要都市" }
+  - { lat: 0.605, lng: 30.652, label: "フォートポータル", type: "city", note: "西部の観光拠点" }
+  - { lat: -1.083, lng: 29.673, label: "カバレ", type: "city", note: "南西部の都市・ブウィンディ原生公園の玄関口" }
+  - { lat: -1.083, lng: 29.700, label: "ブウィンディ原生国立公園", type: "nature", note: "世界遺産・マウンテンゴリラ生息地" }
+  - { lat: -1.000, lng: 33.000, label: "ヴィクトリア湖", type: "nature", note: "アフリカ最大の湖・白ナイル源流" }
 ---
 
 <div class="main-desciption country-description">

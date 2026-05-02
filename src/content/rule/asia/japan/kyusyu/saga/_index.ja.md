@@ -11,6 +11,14 @@ flag: "Saga.svg"
 relatedIndustry:
   - "/industry/japan-pottery/"
   - "/industry/japan-semiconductor/kyushu/"
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.249, lng: 130.298, label: "佐賀駅", type: "capital", note: "佐賀県の県庁所在地" }
+  - { lat: 33.245, lng: 130.299, label: "佐賀城", type: "historical", note: "鍋島藩の城" }
+  - { lat: 33.450, lng: 129.969, label: "唐津", type: "city", note: "唐津焼・唐津くんち" }
+  - { lat: 33.205, lng: 129.916, label: "有田", type: "historical", note: "有田焼の産地" }
+  - { lat: 33.265, lng: 129.881, label: "伊万里", type: "city", note: "伊万里焼の街" }
+  - { lat: 33.106, lng: 130.044, label: "嬉野温泉", type: "nature", note: "美肌の湯" }
 ---
 
 <div class="pref-tips">

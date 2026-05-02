@@ -22,6 +22,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%86%E3%82%A3%E3%83%AA%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%82%B1%E3%83%AA%E3%82%A2"
   - text: '<span class="quiz">アクロティリ</span>と<span class="quiz">デケリア</span>の2つの基地から構成されている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%86%E3%82%A3%E3%83%AA%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%82%B1%E3%83%AA%E3%82%A2"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.591, lng: 32.988, label: "アクロティリ基地", type: "landmark", note: "西側の主権基地・空軍基地がある" }
+  - { lat: 34.988, lng: 33.745, label: "デケリア基地", type: "landmark", note: "東側の主権基地・陸軍駐屯地" }
+  - { lat: 34.628, lng: 32.916, label: "アクロティリ村", type: "city", note: "アクロティリ基地内の集落" }
+  - { lat: 34.978, lng: 33.768, label: "ジロロウ", type: "city", note: "デケリア基地内の村" }
+  - { lat: 34.601, lng: 33.040, label: "アクロティリ塩湖", type: "nature", note: "フラミンゴの飛来地として知られる" }
+  - { lat: 34.707, lng: 33.022, label: "リマソール", type: "city", note: "近隣のキプロス側都市" }
 ---
 
 <div class="main-desciption country-description">

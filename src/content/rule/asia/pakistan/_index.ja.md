@@ -21,6 +21,17 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
   - text: '<span class="quiz">カラコルム・ハイウェイ</span>は世界最高所を通る国際舗装道路として知られる'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%AB%E3%83%A0%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.684, lng: 73.048, label: "イスラマバード", type: "capital", note: "パキスタンの首都・計画都市" }
+  - { lat: 24.861, lng: 67.010, label: "カラチ", type: "port", note: "国内最大の都市・主要港湾" }
+  - { lat: 31.582, lng: 74.329, label: "ラホール", type: "city", note: "東部の文化的中心都市" }
+  - { lat: 34.015, lng: 71.524, label: "ペシャワール", type: "city", note: "北西部の主要都市・歴史的要衝" }
+  - { lat: 35.881, lng: 76.515, label: "K2", type: "nature", note: "世界第2位の高峰（標高8,611m）" }
+  - { lat: 35.000, lng: 75.000, label: "カラコルム山脈", type: "nature", note: "北部の大山脈・世界有数の高峰群" }
+  - { lat: 31.460, lng: 73.135, label: "フェイサラーバード", type: "city", note: "パンジャーブ州の工業都市" }
 ---
 
 <div class="main-desciption country-description">

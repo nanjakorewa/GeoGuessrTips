@@ -18,6 +18,14 @@ sc: [
 features:
   - text: '南米で最も面積が小さい国の一つで、国土全体が<span class="quiz">パンパ</span>と呼ばれる草原地帯に覆われている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%82%B0%E3%82%A2%E3%82%A4"
+mapProvider: "osm"
+mapPins:
+  - { lat: -34.901, lng: -56.165, label: "モンテビデオ", type: "capital", note: "首都・ラプラタ川河口の最大都市" }
+  - { lat: -34.486, lng: -54.343, label: "プンタ・デル・エステ", type: "city", note: "東岸の高級リゾート地" }
+  - { lat: -32.523, lng: -55.764, label: "サルト", type: "city", note: "アルゼンチン国境の北西部都市" }
+  - { lat: -34.471, lng: -57.838, label: "コロニア・デル・サクラメント", type: "historical", note: "ポルトガル時代の旧市街・世界遺産" }
+  - { lat: -32.371, lng: -54.167, label: "メロ", type: "city", note: "ブラジル国境の北東部都市" }
+  - { lat: -34.339, lng: -53.508, label: "ラ・パロマ", type: "port", note: "東岸の漁港町" }
 ---
 
 <div class="main-desciption country-description">

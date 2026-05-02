@@ -9,6 +9,15 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Osaka.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.702, lng: 135.495, label: "大阪駅", type: "capital", note: "大阪府の府庁所在地・西日本最大都市" }
+  - { lat: 34.687, lng: 135.526, label: "大阪城", type: "historical", note: "豊臣秀吉の城" }
+  - { lat: 34.668, lng: 135.500, label: "道頓堀", type: "landmark", note: "繁華街・グリコ看板" }
+  - { lat: 34.652, lng: 135.506, label: "通天閣", type: "landmark", note: "新世界・大阪のシンボル" }
+  - { lat: 34.654, lng: 135.428, label: "海遊館", type: "landmark", note: "天保山・水族館" }
+  - { lat: 34.434, lng: 135.244, label: "関西国際空港", type: "landmark", note: "海上空港" }
+  - { lat: 34.572, lng: 135.482, label: "堺", type: "city", note: "古墳・刃物の街" }
 ---
 
 <div class="pref-tips">

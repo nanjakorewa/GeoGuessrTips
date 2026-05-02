@@ -21,6 +21,17 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3"
   - text: 'アジアで唯一の<span class="quiz">カトリック</span>が多数派を占める国である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3#%E5%AE%97%E6%95%99"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 14.599, lng: 120.984, label: "マニラ", type: "capital", note: "フィリピンの首都・ルソン島最大都市" }
+  - { lat: 14.676, lng: 121.044, label: "ケソン市", type: "city", note: "首都圏最大の都市" }
+  - { lat: 10.317, lng: 123.891, label: "セブ", type: "city", note: "ビサヤ諸島最大の都市" }
+  - { lat: 7.073, lng: 125.613, label: "ダバオ", type: "city", note: "ミンダナオ島の主要都市" }
+  - { lat: 9.838, lng: 118.736, label: "プエルトプリンセサ", type: "nature", note: "パラワン島の都市・地下河川国立公園" }
+  - { lat: 16.412, lng: 120.594, label: "バギオ", type: "city", note: "ルソン島北部の高原都市" }
+  - { lat: 13.257, lng: 123.685, label: "マヨン火山", type: "nature", note: "完璧な円錐形で知られる活火山" }
 ---
 
 <div class="main-desciption country-description">

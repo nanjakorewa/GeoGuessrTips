@@ -17,6 +17,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%AB#%E7%B5%8C%E6%B8%88"
   - text: '国土の約80%が<span class="quiz">サハラ砂漠</span>に覆われており、人口の大部分は南部のニジェール川沿いに集中している'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%AB"
+mapProvider: "osm"
+mapPins:
+  - { lat: 13.512, lng: 2.112, label: "ニアメ", type: "capital", note: "首都・南西部ニジェール川沿いの最大都市" }
+  - { lat: 13.799, lng: 8.988, label: "ザンデール", type: "city", note: "南部の歴史的中心都市・第2の都市" }
+  - { lat: 13.781, lng: 8.989, label: "マラディ", type: "city", note: "南部の経済都市・農業地帯" }
+  - { lat: 16.973, lng: 8.005, label: "アガデス", type: "historical", note: "世界遺産の旧市街・サハラ交易の要衝" }
+  - { lat: 14.430, lng: 7.094, label: "タウア", type: "city", note: "南西部の地方都市" }
+  - { lat: 18.737, lng: 12.910, label: "ビルマ", type: "city", note: "東部サハラの塩交易拠点" }
+  - { lat: 13.350, lng: 13.083, label: "チャド湖", type: "nature", note: "南東国境の湖" }
 ---
 
 <div class="main-desciption country-description">

@@ -22,6 +22,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%B4%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD"
   - text: '世界最大の<span class="quiz">コバルト</span>産出国であり、レアメタルの供給源として重要な役割を担っている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%B4%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: -4.325, lng: 15.322, label: "キンシャサ", type: "capital", note: "首都・コンゴ川沿いの巨大メガシティ" }
+  - { lat: -11.667, lng: 27.479, label: "ルブンバシ", type: "city", note: "南東部カタンガ州都・銅・コバルト産地" }
+  - { lat: -1.679, lng: 29.222, label: "ゴマ", type: "city", note: "東部キブ湖岸の都市・ニーラゴンゴ火山近郊" }
+  - { lat: 0.515, lng: 25.190, label: "キサンガニ", type: "city", note: "コンゴ川中流の主要都市" }
+  - { lat: -5.896, lng: 22.416, label: "ムブジ・マイ", type: "city", note: "中部のダイヤモンド産出都市" }
+  - { lat: -1.521, lng: 29.250, label: "ニーラゴンゴ山", type: "nature", note: "活火山・溶岩湖を持つ" }
+  - { lat: -2.000, lng: 28.500, label: "ヴィルンガ国立公園", type: "nature", note: "アフリカ最古の国立公園・マウンテンゴリラ生息地" }
 ---
 
 <div class="main-desciption country-description">

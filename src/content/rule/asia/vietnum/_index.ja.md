@@ -22,6 +22,17 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AD%E3%83%B3%E6%B9%BE"
   - text: '世界第2位の<span class="quiz">コーヒー</span>生産国でありロブスタ種の生産量は世界一である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 21.028, lng: 105.854, label: "ハノイ", type: "capital", note: "ベトナムの首都・北部の中心都市" }
+  - { lat: 10.823, lng: 106.630, label: "ホーチミン", type: "city", note: "国内最大の都市・南部の経済中心地" }
+  - { lat: 16.054, lng: 108.202, label: "ダナン", type: "port", note: "中部最大の港湾都市・観光地" }
+  - { lat: 16.469, lng: 107.591, label: "フエ", type: "historical", note: "世界遺産・グエン朝の古都" }
+  - { lat: 15.880, lng: 108.338, label: "ホイアン", type: "historical", note: "世界遺産・古い港町" }
+  - { lat: 20.911, lng: 107.183, label: "ハロン湾", type: "nature", note: "世界遺産・奇岩の景勝地" }
+  - { lat: 22.336, lng: 103.844, label: "サパ", type: "nature", note: "北部の山岳地帯・棚田で有名" }
 ---
 
 <div class="main-desciption country-description">

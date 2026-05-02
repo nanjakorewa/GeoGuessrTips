@@ -21,6 +21,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A6%E3%83%B3%E3%83%86%E3%82%A3%E5%8F%B7%E3%81%AE%E5%8F%8D%E4%B9%B1"
   - text: 'イギリスの<span class="quiz">海外領土</span>であり住民は約50人程度しかいない'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%88%E3%82%B1%E3%82%A2%E3%83%B3%E8%AB%B8%E5%B3%B6"
+mapProvider: "osm"
+mapPins:
+  - { lat: -25.066, lng: -130.101, label: "アダムスタウン", type: "capital", note: "首都・諸島で唯一の集落" }
+  - { lat: -25.067, lng: -130.105, label: "ピトケアン島", type: "nature", note: "諸島最大の有人島" }
+  - { lat: -24.349, lng: -128.324, label: "ヘンダーソン島", type: "nature", note: "サンゴ礁の世界自然遺産・無人島" }
+  - { lat: -24.674, lng: -124.787, label: "ドゥーシー島", type: "nature", note: "東端の小さな環礁" }
+  - { lat: -25.367, lng: -130.722, label: "オエノ島", type: "nature", note: "西部の環礁・ピトケアン島民の保養地" }
+  - { lat: -25.066, lng: -130.099, label: "バウンティ湾", type: "port", note: "アダムスタウンの上陸地点" }
 ---
 
 <div class="main-desciption country-description">

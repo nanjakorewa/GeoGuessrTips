@@ -22,6 +22,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%97%E3%83%AD%E3%82%B9"
   - text: '古代から銅の産地として知られ英語の<span class="quiz">copper</span>の語源となった'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%97%E3%83%AD%E3%82%B9%E3%81%AE%E6%AD%B4%E5%8F%B2"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.185, lng: 33.382, label: "ニコシア", type: "capital", note: "首都・南北に分断された街" }
+  - { lat: 34.707, lng: 33.022, label: "リマソール", type: "port", note: "南部最大の港湾都市・観光地" }
+  - { lat: 34.776, lng: 32.422, label: "パフォス", type: "historical", note: "世界遺産の古代遺跡群" }
+  - { lat: 34.917, lng: 33.624, label: "ラルナカ", type: "city", note: "国際空港のある南東部の都市" }
+  - { lat: 35.175, lng: 33.357, label: "アヤナパ", type: "city", note: "東部のリゾート観光地" }
+  - { lat: 34.920, lng: 32.864, label: "トロードス山地", type: "nature", note: "島の中央に広がる山岳地帯" }
 ---
 
 <div class="main-desciption country-description">

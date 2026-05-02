@@ -18,6 +18,16 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9E%E3%83%AB%E3%82%AB%E3%83%B3%E3%83%89"
   - text: '世界に2つしかない<span class="quiz">二重内陸国</span>の一つである'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%BA%E3%83%99%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 41.299, lng: 69.240, label: "タシュケント", type: "capital", note: "ウズベキスタンの首都・中央アジア最大の都市" }
+  - { lat: 39.654, lng: 66.962, label: "サマルカンド", type: "historical", note: "世界遺産・シルクロードの要衝" }
+  - { lat: 39.768, lng: 64.421, label: "ブハラ", type: "historical", note: "世界遺産・古代イスラム文化の中心地" }
+  - { lat: 41.378, lng: 60.351, label: "ヒヴァ", type: "historical", note: "世界遺産・砂漠のオアシス城塞都市" }
+  - { lat: 40.781, lng: 72.347, label: "フェルガナ", type: "city", note: "東部の主要都市・フェルガナ盆地の中心" }
+  - { lat: 42.460, lng: 59.611, label: "ヌクス", type: "city", note: "西部カラカルパクスタン共和国の首都" }
 ---
 
 <div class="main-desciption country-description">

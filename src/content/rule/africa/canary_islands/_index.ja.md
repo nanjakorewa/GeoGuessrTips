@@ -23,6 +23,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%AA%E3%82%A2%E8%AB%B8%E5%B3%B6"
   - text: '<span class="quiz">テイデ山</span>（標高3,718m）はスペイン最高峰であり、世界遺産に登録されている'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%87%E5%B1%B1"
+mapProvider: "osm"
+mapPins:
+  - { lat: 28.464, lng: -16.251, label: "サンタ・クルス・デ・テネリフェ", type: "capital", note: "テネリフェ島の州都" }
+  - { lat: 28.124, lng: -15.436, label: "ラス・パルマス", type: "city", note: "グランカナリア島の最大都市" }
+  - { lat: 28.272, lng: -16.642, label: "テイデ山", type: "nature", note: "スペイン最高峰（3,718m）・世界遺産の活火山" }
+  - { lat: 28.961, lng: -13.547, label: "アレシフェ", type: "city", note: "ランサローテ島の中心都市" }
+  - { lat: 28.501, lng: -13.863, label: "プエルト・デル・ロサリオ", type: "city", note: "フエルテベントゥラ島の州都" }
+  - { lat: 28.083, lng: -17.108, label: "サン・セバスティアン・デ・ラ・ゴメラ", type: "city", note: "ラ・ゴメラ島の州都" }
+  - { lat: 28.681, lng: -17.766, label: "サンタ・クルス・デ・ラ・パルマ", type: "city", note: "ラ・パルマ島の州都" }
 ---
 
 <div class="main-desciption country-description">

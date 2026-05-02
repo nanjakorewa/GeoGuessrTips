@@ -20,6 +20,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%88"
   - text: '<span class="quiz">クウェートタワー</span>は国のシンボル的建造物である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%88%E3%83%BB%E3%82%BF%E3%83%AF%E3%83%BC"
+mapProvider: "osm"
+mapPins:
+  - { lat: 29.378, lng: 47.991, label: "クウェート市", type: "capital", note: "首都・国の政治経済の中心" }
+  - { lat: 29.390, lng: 48.000, label: "クウェートタワー", type: "landmark", note: "国を象徴する3本の塔" }
+  - { lat: 29.305, lng: 48.067, label: "サルミーヤ", type: "city", note: "ペルシャ湾沿いの商業地区" }
+  - { lat: 29.336, lng: 47.971, label: "ハワリー", type: "city", note: "クウェート市南部の人口密集地" }
+  - { lat: 29.097, lng: 48.099, label: "アハマディ", type: "city", note: "石油産業の中心地" }
+  - { lat: 28.738, lng: 48.395, label: "ミナ・アル＝アハマディ", type: "port", note: "国内最大級の石油積出港" }
 ---
 
 <div class="main-desciption country-description">

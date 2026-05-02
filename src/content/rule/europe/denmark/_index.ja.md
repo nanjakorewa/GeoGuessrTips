@@ -24,6 +24,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B4"
   - text: '<span class="quiz">風力発電</span>の先進国で電力の約半分を風力で賄い、自治領として<span class="quiz">グリーンランド</span>とフェロー諸島を持つ'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
+mapProvider: "osm"
+mapPins:
+  - { lat: 55.676, lng: 12.568, label: "コペンハーゲン", type: "capital", note: "首都・北欧の文化中心都市" }
+  - { lat: 56.156, lng: 10.203, label: "オーフス", type: "city", note: "ユラン半島の中心都市" }
+  - { lat: 55.404, lng: 10.402, label: "オーデンセ", type: "city", note: "アンデルセンの故郷" }
+  - { lat: 57.048, lng: 9.921, label: "オールボー", type: "city", note: "北ユラン地方の主要都市" }
+  - { lat: 55.713, lng: 9.535, label: "ビルン", type: "landmark", note: "レゴランド本拠地" }
+  - { lat: 55.692, lng: 12.599, label: "人魚姫像", type: "landmark", note: "コペンハーゲンの象徴" }
+  - { lat: 55.460, lng: 8.450, label: "ヴァッデン海", type: "nature", note: "世界遺産の干潟" }
 ---
 
 <div class="main-desciption country-description">

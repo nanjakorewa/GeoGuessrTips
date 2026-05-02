@@ -22,6 +22,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
   - text: '非武装地帯として国際的に認められており、<span class="quiz">バルト海</span>に浮かぶ約6,700の島々からなる群島'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
+mapProvider: "osm"
+mapPins:
+  - { lat: 60.097, lng: 19.935, label: "マリエハムン", type: "capital", note: "首府・諸島最大の都市" }
+  - { lat: 60.232, lng: 20.026, label: "ヨマラ", type: "city", note: "本島中央の自治体" }
+  - { lat: 60.220, lng: 20.395, label: "スンド", type: "city", note: "本島東部のカステルホルム城跡" }
+  - { lat: 60.255, lng: 19.512, label: "エッケロ", type: "city", note: "本島西端の島・郵便船航路の歴史" }
+  - { lat: 60.235, lng: 20.421, label: "カステルホルム城", type: "historical", note: "中世の城跡" }
+  - { lat: 60.183, lng: 20.633, label: "クッカル諸島", type: "nature", note: "東群島の自然景観" }
 ---
 
 <div class="main-desciption country-description">

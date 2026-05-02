@@ -23,6 +23,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
   - text: '<span class="quiz">タンゴ</span>発祥の地であり、ブエノスアイレスは「南米のパリ」と呼ばれる'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%82%B4"
+mapProvider: "osm"
+mapPins:
+  - { lat: -34.604, lng: -58.382, label: "ブエノスアイレス", type: "capital", note: "首都・南米のパリと呼ばれる文化都市" }
+  - { lat: -31.420, lng: -64.183, label: "コルドバ", type: "city", note: "アルゼンチン第2の都市・大学都市" }
+  - { lat: -32.890, lng: -68.844, label: "メンドーサ", type: "city", note: "アンデス山麓のワイン産地" }
+  - { lat: -32.946, lng: -60.639, label: "ロサリオ", type: "city", note: "パラナ川沿いの主要港湾都市" }
+  - { lat: -25.690, lng: -54.435, label: "イグアスの滝", type: "landmark", note: "ブラジル国境の世界遺産・大瀑布" }
+  - { lat: -50.000, lng: -73.000, label: "パタゴニア", type: "nature", note: "氷河と山岳の南部地方" }
+  - { lat: -54.807, lng: -68.308, label: "ウシュアイア", type: "city", note: "世界最南端の都市の一つ" }
 ---
 
 <div class="main-desciption country-description">

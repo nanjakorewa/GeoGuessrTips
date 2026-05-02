@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Kochi.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.567, lng: 133.543, label: "高知駅", type: "capital", note: "高知県の県庁所在地" }
+  - { lat: 33.561, lng: 133.531, label: "高知城", type: "historical", note: "現存天守" }
+  - { lat: 33.495, lng: 133.572, label: "桂浜", type: "landmark", note: "坂本龍馬像" }
+  - { lat: 33.250, lng: 132.928, label: "四万十川", type: "nature", note: "日本最後の清流" }
+  - { lat: 32.731, lng: 132.985, label: "足摺岬", type: "nature", note: "四国最南端" }
+  - { lat: 33.286, lng: 134.176, label: "室戸岬", type: "nature", note: "ジオパーク" }
 ---
 
 <div class="pref-tips">

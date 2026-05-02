@@ -8,6 +8,17 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 flag: "JP.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.171, lng: 136.882, label: "名古屋駅", type: "city", note: "愛知県の県庁所在地・中部最大都市" }
+  - { lat: 35.422, lng: 136.760, label: "岐阜駅", type: "city", note: "岐阜県の県庁所在地" }
+  - { lat: 34.976, lng: 138.388, label: "静岡駅", type: "city", note: "静岡県の県庁所在地" }
+  - { lat: 35.665, lng: 138.569, label: "甲府駅", type: "city", note: "山梨県の県庁所在地" }
+  - { lat: 36.648, lng: 138.188, label: "長野駅", type: "city", note: "長野県の県庁所在地・善光寺" }
+  - { lat: 37.912, lng: 139.062, label: "新潟駅", type: "city", note: "新潟県の県庁所在地・日本海側最大都市" }
+  - { lat: 36.701, lng: 137.213, label: "富山駅", type: "city", note: "富山県の県庁所在地・立山連峰" }
+  - { lat: 36.578, lng: 136.648, label: "金沢駅", type: "city", note: "石川県の県庁所在地・兼六園" }
+  - { lat: 36.062, lng: 136.222, label: "福井駅", type: "city", note: "福井県の県庁所在地" }
 ---
 
 

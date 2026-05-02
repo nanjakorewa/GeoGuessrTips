@@ -24,10 +24,9 @@ mapPins:
 [台湾](/rule/asia/taiwan/)は世界の<span style="font-weight:700">ファウンドリ（受託製造）</span>の<span style="font-weight:700">約65〜68%</span>を生産し、<span style="font-weight:700">最先端ノード（7nm以下）に限れば約90%</span>が[台湾](/rule/asia/taiwan/)に集中しています{{% cite "trendforce_foundry" %}}。中核企業の<span style="font-weight:700">TSMC（[台湾](/rule/asia/taiwan/)積体電路製造）</span>は世界ファウンドリシェア<span style="font-weight:700">約70%</span>（2025年）を持つ単独首位で、Apple、NVIDIA、AMD、Qualcomm、Broadcomなどの主要半導体ファブレス企業はすべてTSMCの主要顧客です。
 
 <div class="stat-grid">
-<div class="stat-card"><div class="stat-num">~68%</div><div class="stat-label">世界ファウンドリ生産シェア（[台湾](/rule/asia/taiwan/)）</div></div>
-<div class="stat-card"><div class="stat-num">~90%</div><div class="stat-label">7nm以下先端ノードの[台湾](/rule/asia/taiwan/)シェア</div></div>
+<div class="stat-card"><div class="stat-num">~68%</div><div class="stat-label">世界ファウンドリ生産シェア</div></div>
+<div class="stat-card"><div class="stat-num">~90%</div><div class="stat-label">7nm以下先端ノードの台湾シェア</div></div>
 <div class="stat-card"><div class="stat-num">~70%</div><div class="stat-label">TSMC世界ファウンドリシェア（2025年）</div></div>
-<div class="stat-card"><div class="stat-num">3</div><div class="stat-label">主要サイエンスパーク（新竹・中部・南部）</div></div>
 </div>
 
 ## TSMC — 世界の半導体製造の心臓部

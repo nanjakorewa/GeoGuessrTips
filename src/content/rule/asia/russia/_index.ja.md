@@ -26,6 +26,18 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
   - text: '<span class="quiz">シベリア鉄道</span>は全長約9300kmで世界最長の鉄道路線である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%99%E3%83%AA%E3%82%A2%E9%89%84%E9%81%93"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 55.755, lng: 37.617, label: "モスクワ", type: "capital", note: "ロシアの首都・最大都市" }
+  - { lat: 59.934, lng: 30.336, label: "サンクトペテルブルク", type: "city", note: "旧首都・文化と芸術の中心" }
+  - { lat: 55.751, lng: 37.617, label: "赤の広場", type: "landmark", note: "世界遺産・モスクワの象徴" }
+  - { lat: 55.030, lng: 82.920, label: "ノヴォシビルスク", type: "city", note: "シベリア最大の都市" }
+  - { lat: 53.508, lng: 108.075, label: "バイカル湖", type: "nature", note: "世界最深・最古の淡水湖" }
+  - { lat: 43.116, lng: 131.886, label: "ウラジオストク", type: "port", note: "極東地域の主要港湾都市" }
+  - { lat: 56.838, lng: 60.597, label: "エカテリンブルク", type: "city", note: "ウラル地方の主要都市" }
+  - { lat: 56.013, lng: 92.853, label: "クラスノヤルスク", type: "city", note: "シベリア中部の主要都市" }
 ---
 
 <div class="main-desciption country-description">

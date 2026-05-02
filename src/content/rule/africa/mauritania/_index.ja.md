@@ -16,6 +16,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%82%BF%E3%83%8B%E3%82%A2"
   - text: '<span class="quiz">鉄鉱石</span>の輸出が主要産業であり、世界最長の貨物列車が鉱山から港まで運行している'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%82%BF%E3%83%8B%E3%82%A2#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 18.079, lng: -15.965, label: "ヌアクショット", type: "capital", note: "首都・大西洋岸の最大都市" }
+  - { lat: 20.931, lng: -17.034, label: "ヌアディブ", type: "port", note: "第2の都市・鉄鉱石輸出の主要港" }
+  - { lat: 16.524, lng: -9.587, label: "カエディ", type: "city", note: "セネガル川沿いの南部の都市" }
+  - { lat: 22.690, lng: -12.713, label: "ズエラート", type: "city", note: "鉄鉱石採掘地・世界最長貨物列車の起点" }
+  - { lat: 16.629, lng: -11.402, label: "セリバビ", type: "city", note: "南部の地方都市" }
+  - { lat: 20.518, lng: -13.040, label: "シンゲッティ", type: "historical", note: "世界遺産の隊商都市・古い図書館で有名" }
 ---
 
 <div class="main-desciption country-description">

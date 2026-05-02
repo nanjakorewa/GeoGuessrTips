@@ -16,6 +16,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%82%B4"
   - text: '<span class="quiz">リン鉱石</span>の輸出が主要産業であり、ロメ港は西アフリカの重要な貿易拠点となっている'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%82%B4#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.137, lng: 1.213, label: "ロメ", type: "capital", note: "首都・大西洋岸の最大都市・主要港" }
+  - { lat: 8.989, lng: 1.133, label: "ソコデ", type: "city", note: "中部の主要都市・第2の都市" }
+  - { lat: 10.879, lng: 0.214, label: "カラ", type: "city", note: "北部の主要都市" }
+  - { lat: 6.917, lng: 0.633, label: "クパリメ", type: "city", note: "西部山岳地帯の都市" }
+  - { lat: 9.557, lng: 1.190, label: "バサール", type: "city", note: "中部の地方都市" }
+  - { lat: 10.150, lng: 0.617, label: "コウタマコウ", type: "historical", note: "世界遺産のバタマリバ族の伝統的住居群" }
 ---
 
 <div class="main-desciption country-description">

@@ -9,6 +9,14 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Kanagawa.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.466, lng: 139.622, label: "横浜駅", type: "capital", note: "神奈川県の県庁所在地" }
+  - { lat: 35.443, lng: 139.638, label: "みなとみらい", type: "landmark", note: "横浜の海辺の観光地" }
+  - { lat: 35.317, lng: 139.547, label: "鎌倉大仏", type: "historical", note: "高徳院・国宝" }
+  - { lat: 35.532, lng: 139.701, label: "川崎駅", type: "city", note: "工業都市・京浜工業地帯" }
+  - { lat: 35.270, lng: 139.073, label: "箱根", type: "nature", note: "温泉・国立公園" }
+  - { lat: 35.299, lng: 139.483, label: "江ノ島", type: "landmark", note: "湘南の名所" }
 ---
 
 <div class="pref-tips">

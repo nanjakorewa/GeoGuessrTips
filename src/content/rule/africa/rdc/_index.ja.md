@@ -21,6 +21,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B6%E3%83%B4%E3%82%A3%E3%83%AB"
   - text: '旧<span class="quiz">フランス</span>植民地であり、石油輸出が経済の中心となっている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%B4%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: -4.263, lng: 15.242, label: "ブラザヴィル", type: "capital", note: "首都・コンゴ川沿いの最大都市" }
+  - { lat: -4.781, lng: 11.864, label: "ポワントノワール", type: "port", note: "大西洋岸の主要港湾都市・第2の都市" }
+  - { lat: -1.616, lng: 16.052, label: "ウェソ", type: "city", note: "北部の都市・熱帯雨林地帯の拠点" }
+  - { lat: -2.940, lng: 15.911, label: "オワンド", type: "city", note: "中部の地方都市" }
+  - { lat: -4.198, lng: 13.300, label: "ドリジ", type: "city", note: "南西部の都市" }
+  - { lat: -2.500, lng: 16.500, label: "オザラ・コクア国立公園", type: "nature", note: "世界遺産の熱帯雨林保護区" }
 ---
 
 <div class="main-desciption country-description">

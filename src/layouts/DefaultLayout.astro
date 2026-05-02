@@ -376,6 +376,26 @@ const lastmodDisplay = modifiedTime
     .rule-hero-title__main {
       display: inline-block;
     }
+    .rule-hero-title__icons {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4em;
+      margin-left: 0.45em;
+      font-size: 0.55em;
+      vertical-align: middle;
+      color: rgba(255, 255, 255, 0.78);
+    }
+    .rule-hero-title__icons i {
+      color: inherit !important;
+      margin-left: 0 !important;
+    }
+    /* ボラードアイコンは元々 opacity:0 が設定されているため、ヒーロー内では強制表示 */
+    .rule-hero-title__icons i.i-bollard {
+      opacity: 1 !important;
+    }
+    .rule-hero-title__icons i:hover {
+      color: #e07b20 !important;
+    }
     .rule-hero-flag {
       max-width: 240px;
       overflow: hidden;
@@ -548,6 +568,12 @@ const lastmodDisplay = modifiedTime
             {data.title_prefix && <span class="rule-hero-title__prefix">{data.title_prefix}</span>}
             <span class="rule-hero-title__main">{data.title}</span>
             {data.title_suffix && <span class="rule-hero-title__suffix">{data.title_suffix}</span>}
+            <span class="rule-hero-title__icons">
+              {data.is_has_distinctive_googlecar && <i class="fas fa-car-alt i-googlecar" title="特徴的な GoogleCar"></i>}
+              {data.is_has_many_trekker && <i class="fas fa-hiking i-googlecar" title="トレッカーが多い"></i>}
+              {data.is_has_distinctive_bollard && <i class="fas fa-magic i-bollard" title="特徴的なボラード"></i>}
+              {data.is_unofficial && <i class="fa fa-question-circle" title="Geoguessr の公式マップでは出題されない場所"></i>}
+            </span>
           </h1>
           {data.flag && (
             <div class="rule-hero-flag">
@@ -655,14 +681,6 @@ const lastmodDisplay = modifiedTime
                 </span>
               </h1>
             )}
-            {useOSMHero && (
-              <div class="rule-hero-badges mb-3" style="font-size:1.5rem;color:#64748b;">
-                {data.is_has_distinctive_googlecar && <i class="fas fa-car-alt i-googlecar"></i>}
-                {data.is_has_many_trekker && <i class="fas fa-hiking i-googlecar"></i>}
-                {data.is_has_distinctive_bollard && <i class="fas fa-magic i-bollard"></i>}
-                {data.is_unofficial && <i class="fa fa-question-circle"></i>}
-              </div>
-            )}
 
             {/* Flag display（OSM ヒーロー使用時はヒーロー側に移動するので非表示） */}
             {data.flag && !useOSMHero && (
@@ -721,8 +739,8 @@ const lastmodDisplay = modifiedTime
               </div>
             )}
 
-            {/* JSMaps: mapName (individual country pages) */}
-            {data.mapName && (
+            {/* JSMaps: mapName (individual country pages) — OSM ヒーロー使用時は抑止 */}
+            {data.mapName && !useOSMHero && (
               <div class="map-container">
                 <div class="container">
                   <div class="jsmaps-wrapper" id="world-map"></div>
@@ -730,8 +748,8 @@ const lastmodDisplay = modifiedTime
               </div>
             )}
 
-            {/* JSMaps: map_index (section index pages) */}
-            {data.map_index && (
+            {/* JSMaps: map_index (section index pages) — OSM ヒーロー使用時は抑止 */}
+            {data.map_index && !useOSMHero && (
               <div class={`areamap-container ${data.additional_map_class || ""}`}>
                 <div class="container">
                   <div class="jsmaps-wrapper" id="world-map"></div>
@@ -739,8 +757,8 @@ const lastmodDisplay = modifiedTime
               </div>
             )}
 
-            {/* JSMaps init + library scripts */}
-            {data.mapName && (
+            {/* JSMaps init + library scripts — OSM ヒーロー使用時は抑止 */}
+            {data.mapName && !useOSMHero && (
               <Fragment>
                 <script is:inline define:vars={{ mapName: data.mapName }}>
                   $(function() {
@@ -761,7 +779,7 @@ const lastmodDisplay = modifiedTime
                 <script is:inline src={`/mp/maps/${data.mapName}.js`}></script>
               </Fragment>
             )}
-            {data.map_index && !data.mapName && (
+            {data.map_index && !data.mapName && !useOSMHero && (
               <Fragment>
                 <script is:inline define:vars={{ mapIndex: data.map_index }}>
                   $(function() {
@@ -805,8 +823,8 @@ const lastmodDisplay = modifiedTime
             {/* Main content */}
             {hasContent && (
               <div class="content" data-pagefind-body>
-                {/* Country/region features card (from frontmatter) */}
-                {data.features && data.features.length > 0 && data.flag && !data.is_pref && (
+                {/* Country/region features card — OSM hero 使用時は非表示 */}
+                {data.features && data.features.length > 0 && data.flag && !data.is_pref && !useOSMHero && (
                   <div class="pref-tips">
                     <div class="pref-tips-title">{t("country-features", lang)}</div>
                     <ul>

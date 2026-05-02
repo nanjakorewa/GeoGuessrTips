@@ -21,6 +21,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E5%A4%A7%E9%99%B8"
   - text: '<span class="quiz">南極条約</span>により軍事利用が禁止され科学研究のために国際的に管理されている'
     ref: "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E6%9D%A1%E7%B4%84"
+mapProvider: "osm"
+mapPins:
+  - { lat: -69.005, lng: 39.585, label: "昭和基地", type: "landmark", note: "日本の南極観測基地" }
+  - { lat: -77.847, lng: 166.668, label: "マクマード基地", type: "landmark", note: "アメリカの最大級の南極基地" }
+  - { lat: -78.464, lng: 106.838, label: "ヴォストーク基地", type: "landmark", note: "ロシアの内陸基地・最低気温記録地" }
+  - { lat: -90.000, lng: 0.000, label: "南極点", type: "landmark", note: "地球の南端・アムンゼン・スコット基地" }
+  - { lat: -75.100, lng: 123.350, label: "コンコルディア基地", type: "landmark", note: "仏伊共同運営の内陸基地" }
+  - { lat: -77.500, lng: 162.000, label: "ドライバレー", type: "nature", note: "南極大陸の特異な無雪地帯" }
+  - { lat: -75.000, lng: -100.000, label: "西南極氷床", type: "nature", note: "気候変動で注目される氷床" }
 ---
 
 <div class="main-desciption country-description">

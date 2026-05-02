@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Shiga.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.004, lng: 135.868, label: "大津駅", type: "capital", note: "滋賀県の県庁所在地" }
+  - { lat: 35.275, lng: 136.260, label: "彦根城", type: "historical", note: "国宝・現存天守" }
+  - { lat: 35.317, lng: 136.105, label: "琵琶湖", type: "nature", note: "日本最大の湖" }
+  - { lat: 35.382, lng: 136.282, label: "長浜", type: "historical", note: "湖北の城下町" }
+  - { lat: 35.071, lng: 135.840, label: "比叡山延暦寺", type: "historical", note: "天台宗総本山・世界遺産" }
+  - { lat: 35.128, lng: 136.098, label: "近江八幡", type: "historical", note: "近江商人の街" }
 ---
 
 <div class="pref-tips">

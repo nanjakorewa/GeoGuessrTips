@@ -18,6 +18,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%AB_(%E3%82%A4%E3%82%A8%E3%83%A1%E3%83%B3)"
   - text: '首都<span class="quiz">サナア</span>旧市街は世界遺産に登録された独特な建築様式を持つ'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%8A%E3%82%A2"
+mapProvider: "osm"
+mapPins:
+  - { lat: 15.369, lng: 44.191, label: "サナア", type: "capital", note: "首都・旧市街は世界遺産" }
+  - { lat: 12.789, lng: 45.022, label: "アデン", type: "port", note: "南部の主要港湾都市・暫定首都" }
+  - { lat: 13.578, lng: 44.020, label: "タイズ", type: "city", note: "南西部の山岳都市" }
+  - { lat: 14.798, lng: 42.951, label: "ホデイダ", type: "port", note: "紅海沿岸の港湾都市" }
+  - { lat: 15.926, lng: 48.786, label: "シバーム", type: "historical", note: "泥土の摩天楼で知られる世界遺産" }
+  - { lat: 12.500, lng: 53.917, label: "ソコトラ島", type: "nature", note: "固有種の宝庫・世界自然遺産" }
 ---
 
 <div class="main-desciption country-description">

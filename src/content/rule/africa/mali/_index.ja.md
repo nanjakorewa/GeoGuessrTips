@@ -16,6 +16,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%96%E3%82%AF%E3%83%88%E3%82%A5"
   - text: '国土の北部は<span class="quiz">サハラ砂漠</span>が広がり、<span class="quiz">ニジェール川</span>が国を貫流している'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E5%85%B1%E5%92%8C%E5%9B%BD"
+mapProvider: "osm"
+mapPins:
+  - { lat: 12.639, lng: -8.000, label: "バマコ", type: "capital", note: "首都・ニジェール川沿いの最大都市" }
+  - { lat: 16.770, lng: -3.000, label: "トンブクトゥ", type: "historical", note: "世界遺産のサハラ交易都市・イスラム学問の中心地" }
+  - { lat: 13.910, lng: -4.546, label: "ジェンネ", type: "historical", note: "世界遺産の泥モスク・旧市街" }
+  - { lat: 16.272, lng: -0.044, label: "ガオ", type: "city", note: "北東部ニジェール川沿いの歴史都市・アスキアの墓" }
+  - { lat: 14.450, lng: -11.440, label: "カイ", type: "city", note: "西部の主要都市" }
+  - { lat: 12.967, lng: -6.700, label: "セグー", type: "city", note: "中部ニジェール川沿いの都市" }
+  - { lat: 14.500, lng: -3.500, label: "バンディアガラの断崖", type: "landmark", note: "世界遺産のドゴン族居住地" }
 ---
 
 <div class="main-desciption country-description">

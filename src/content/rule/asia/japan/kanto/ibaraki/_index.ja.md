@@ -12,6 +12,14 @@ relatedIndustry:
   - "/industry/japan-combinat/kashima/"
   - "/industry/japan-industrial-zones/kashima/"
   - "/industry/japan-stockpile/"
+mapProvider: "osm"
+mapPins:
+  - { lat: 36.366, lng: 140.471, label: "水戸駅", type: "capital", note: "茨城県の県庁所在地" }
+  - { lat: 36.379, lng: 140.452, label: "偕楽園", type: "landmark", note: "日本三名園の一つ" }
+  - { lat: 36.083, lng: 140.077, label: "つくば", type: "city", note: "学園研究都市" }
+  - { lat: 36.314, lng: 140.575, label: "大洗", type: "port", note: "海浜リゾート" }
+  - { lat: 36.787, lng: 140.477, label: "袋田の滝", type: "nature", note: "日本三名瀑の一つ" }
+  - { lat: 35.948, lng: 140.654, label: "鹿島臨海工業地帯", type: "city", note: "重化学工業の集積地" }
 ---
 
 <div class="pref-tips">

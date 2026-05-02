@@ -22,6 +22,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%9E%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%AD"
   - text: '<span class="quiz">セレンゲティ</span>国立公園はヌーの大移動で世界的に有名な野生動物の宝庫である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AC%E3%83%B3%E3%82%B2%E3%83%86%E3%82%A3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92"
+mapProvider: "osm"
+mapPins:
+  - { lat: -6.173, lng: 35.741, label: "ドドマ", type: "capital", note: "公式首都・中央部の計画都市" }
+  - { lat: -6.792, lng: 39.208, label: "ダルエスサラーム", type: "city", note: "最大都市・経済の中心・主要港" }
+  - { lat: -3.367, lng: 36.683, label: "アルーシャ", type: "city", note: "北部の観光拠点・キリマンジャロの玄関口" }
+  - { lat: -2.517, lng: 32.900, label: "ムワンザ", type: "city", note: "ビクトリア湖岸の主要都市" }
+  - { lat: -3.076, lng: 37.353, label: "キリマンジャロ", type: "nature", note: "アフリカ最高峰（5,895m）の独立峰" }
+  - { lat: -2.333, lng: 34.833, label: "セレンゲティ国立公園", type: "nature", note: "ヌーの大移動で有名な世界遺産" }
+  - { lat: -3.245, lng: 35.503, label: "ンゴロンゴロ保全地域", type: "nature", note: "世界遺産の巨大カルデラと野生動物保護区" }
 ---
 
 <div class="main-desciption country-description">

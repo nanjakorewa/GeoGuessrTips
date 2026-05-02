@@ -17,6 +17,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
   - text: '公用語は<span class="quiz">アラビア語</span>と<span class="quiz">ベルベル語</span>で、旧宗主国フランスの影響でフランス語も広く使われる'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2#%E8%A8%80%E8%AA%9E"
+mapProvider: "osm"
+mapPins:
+  - { lat: 36.737, lng: 3.087, label: "アルジェ", type: "capital", note: "首都・地中海岸の港湾都市" }
+  - { lat: 35.697, lng: -0.634, label: "オラン", type: "city", note: "第2の都市・西部の主要港" }
+  - { lat: 36.365, lng: 6.615, label: "コンスタンティーヌ", type: "city", note: "東部の歴史都市・峡谷の街" }
+  - { lat: 36.190, lng: 5.413, label: "セティフ", type: "city", note: "高原地帯の主要都市" }
+  - { lat: 22.785, lng: 5.523, label: "タマンラセット", type: "city", note: "サハラ南部のトゥアレグ拠点都市" }
+  - { lat: 24.555, lng: 9.484, label: "タッシリ・ナジェール", type: "landmark", note: "世界遺産の岩絵が残るサハラの台地" }
+  - { lat: 32.483, lng: 3.677, label: "グレート・エルグ・オクシデンタル", type: "nature", note: "サハラ砂漠の大砂丘地帯" }
 ---
 
 <div class="main-desciption country-description">

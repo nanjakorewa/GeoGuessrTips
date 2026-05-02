@@ -19,6 +19,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9"
   - text: '絶滅した<span class="quiz">ドードー</span>の生息地として知られ、国章にも描かれている'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%BC%E3%83%89%E3%83%BC"
+mapProvider: "osm"
+mapPins:
+  - { lat: -20.166, lng: 57.500, label: "ポートルイス", type: "capital", note: "首都・北西部の主要港湾都市" }
+  - { lat: -20.236, lng: 57.502, label: "ボーバッサン・ローズヒル", type: "city", note: "首都圏の主要都市" }
+  - { lat: -20.236, lng: 57.488, label: "キュアピップ", type: "city", note: "中央高地の主要都市" }
+  - { lat: -20.349, lng: 57.752, label: "マエブール", type: "historical", note: "南東部の歴史的港町・旧オランダ植民地中心地" }
+  - { lat: -20.387, lng: 57.382, label: "シャマレル七色の大地", type: "nature", note: "南西部の有名な地質景観" }
+  - { lat: -19.700, lng: 63.417, label: "ロドリゲス島", type: "nature", note: "東方600kmの自治島" }
+  - { lat: -19.683, lng: 57.522, label: "ペレ島", type: "nature", note: "本島北部の小島群の一つ" }
 ---
 
 <div class="main-desciption country-description">

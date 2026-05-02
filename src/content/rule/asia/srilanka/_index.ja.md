@@ -24,6 +24,17 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AA%E3%83%A9%E3%83%B3%E3%82%AB"
   - text: '<span class="quiz">セイロン茶</span>の産地として世界的に有名で紅茶の輸出量は世界上位である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%AD%E3%83%B3%E8%8C%B6"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.927, lng: 79.861, label: "コロンボ", type: "capital", note: "スリランカの最大都市・商業の中心" }
+  - { lat: 6.911, lng: 79.886, label: "スリ・ジャヤワルダナプラ・コッテ", type: "capital", note: "公式の首都" }
+  - { lat: 7.290, lng: 80.633, label: "キャンディ", type: "historical", note: "世界遺産・古都・仏歯寺で知られる" }
+  - { lat: 6.054, lng: 80.221, label: "ゴール", type: "historical", note: "世界遺産・要塞都市" }
+  - { lat: 7.957, lng: 80.760, label: "シーギリヤ", type: "landmark", note: "世界遺産・岩山の上の宮殿跡" }
+  - { lat: 6.949, lng: 80.789, label: "ヌワラエリヤ", type: "city", note: "高原リゾート・紅茶の名産地" }
+  - { lat: 9.661, lng: 80.025, label: "ジャフナ", type: "city", note: "北部最大の都市・タミル文化の中心" }
 ---
 
 <div class="main-desciption country-description">

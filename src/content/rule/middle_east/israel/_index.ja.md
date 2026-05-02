@@ -14,6 +14,15 @@ sc_title: "関連ページ"
 sc: [
     ["../palestine/", "ヨルダン川西岸地区"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.768, lng: 35.214, label: "エルサレム", type: "capital", note: "首都・三大宗教の聖地" }
+  - { lat: 32.085, lng: 34.781, label: "テルアビブ", type: "city", note: "経済の中心地・地中海沿岸" }
+  - { lat: 32.794, lng: 34.989, label: "ハイファ", type: "port", note: "北部の主要港湾都市" }
+  - { lat: 31.252, lng: 34.791, label: "ベエルシェバ", type: "city", note: "ネゲブ砂漠の中心都市" }
+  - { lat: 29.553, lng: 34.951, label: "エイラート", type: "city", note: "紅海に面したリゾート都市" }
+  - { lat: 31.500, lng: 35.500, label: "死海", type: "nature", note: "世界でもっとも低い湖・海抜マイナス約430m" }
+  - { lat: 32.708, lng: 35.317, label: "ガリラヤ湖", type: "nature", note: "イスラエル最大の淡水湖" }
 ---
 
 <div class="main-desciption country-description">

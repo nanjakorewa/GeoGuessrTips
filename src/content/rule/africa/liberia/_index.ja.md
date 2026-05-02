@@ -16,6 +16,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%99%E3%83%AA%E3%82%A2"
   - text: '世界最大規模の<span class="quiz">便宜置籍船</span>（リベリア船籍）の登録国として知られる'
     ref: "https://ja.wikipedia.org/wiki/%E4%BE%BF%E5%AE%9C%E7%BD%AE%E7%B1%8D%E8%88%B9"
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.328, lng: -10.798, label: "モンロビア", type: "capital", note: "首都・大西洋岸の最大都市・米モンロー大統領にちなむ" }
+  - { lat: 4.376, lng: -7.715, label: "ハーパー", type: "city", note: "南東部の歴史ある港町" }
+  - { lat: 6.521, lng: -7.700, label: "ガンタ", type: "city", note: "中部内陸の主要都市" }
+  - { lat: 7.379, lng: -8.755, label: "ボロイ", type: "city", note: "北部の都市" }
+  - { lat: 4.752, lng: -9.448, label: "グリーンビル", type: "port", note: "南部の港湾都市" }
+  - { lat: 6.420, lng: -10.830, label: "ロバーツ国際空港", type: "landmark", note: "リベリアの主要空港" }
 ---
 
 <div class="main-desciption country-description">

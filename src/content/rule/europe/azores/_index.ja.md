@@ -23,6 +23,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%AC%E3%82%B9%E8%AB%B8%E5%B3%B6"
   - text: '<span class="quiz">大西洋中央海嶺</span>上に位置し、サンミゲル島には欧州唯一の<span class="quiz">茶</span>のプランテーションがある'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%9F%E3%82%B2%E3%83%AB%E5%B3%B6"
+mapProvider: "osm"
+mapPins:
+  - { lat: 37.741, lng: -25.668, label: "ポンタ・デルガダ", type: "capital", note: "アゾレス諸島の中心都市" }
+  - { lat: 38.654, lng: -27.221, label: "アングラ・ド・エロイズモ", type: "historical", note: "テルセイラ島・世界遺産の旧市街" }
+  - { lat: 38.532, lng: -28.628, label: "オルタ", type: "port", note: "フェイアル島の港町" }
+  - { lat: 37.769, lng: -25.469, label: "フルナス", type: "nature", note: "サンミゲル島の温泉地" }
+  - { lat: 38.474, lng: -28.402, label: "ピコ山", type: "nature", note: "ポルトガル最高峰の火山" }
+  - { lat: 37.870, lng: -25.793, label: "セッテ・シダーデス湖", type: "nature", note: "サンミゲル島の双子のカルデラ湖" }
 ---
 
 <div class="main-desciption country-description">

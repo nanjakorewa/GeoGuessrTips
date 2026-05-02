@@ -13,6 +13,14 @@ relatedIndustry:
   - "/industry/japan-shipbuilding/"
   - "/industry/japan-industrial-zones/setouchi/"
   - "/industry/japan-food-combinat/"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.690, lng: 135.196, label: "神戸三宮駅", type: "capital", note: "兵庫県の県庁所在地" }
+  - { lat: 34.681, lng: 135.183, label: "神戸港", type: "port", note: "国際貿易港" }
+  - { lat: 34.840, lng: 134.694, label: "姫路城", type: "historical", note: "白鷺城・世界遺産" }
+  - { lat: 34.616, lng: 135.020, label: "明石海峡大橋", type: "landmark", note: "本州四国連絡橋" }
+  - { lat: 35.625, lng: 134.804, label: "城崎温泉", type: "nature", note: "但馬の名湯" }
+  - { lat: 34.355, lng: 134.804, label: "淡路島", type: "nature", note: "瀬戸内海最大の島" }
 ---
 
 <div class="pref-tips">

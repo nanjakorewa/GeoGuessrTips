@@ -9,6 +9,14 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Yamanashi.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.665, lng: 138.569, label: "甲府駅", type: "capital", note: "山梨県の県庁所在地" }
+  - { lat: 35.361, lng: 138.728, label: "富士山", type: "nature", note: "日本最高峰・世界文化遺産" }
+  - { lat: 35.500, lng: 138.766, label: "河口湖", type: "nature", note: "富士五湖の一つ" }
+  - { lat: 35.460, lng: 138.589, label: "本栖湖", type: "nature", note: "千円札の富士山" }
+  - { lat: 35.674, lng: 138.578, label: "武田神社", type: "historical", note: "武田信玄を祀る" }
+  - { lat: 35.397, lng: 138.426, label: "身延山", type: "historical", note: "日蓮宗総本山" }
 ---
 
 <div class="pref-tips">

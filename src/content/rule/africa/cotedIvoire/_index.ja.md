@@ -17,6 +17,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%88%E3%82%B8%E3%83%9C%E3%83%AF%E3%83%BC%E3%83%AB#%E7%B5%8C%E6%B8%88"
   - text: '最大都市<span class="quiz">アビジャン</span>は西アフリカ最大級の経済都市で、旧首都でもある'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%82%B8%E3%83%A3%E3%83%B3"
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.827, lng: -5.290, label: "ヤムスクロ", type: "capital", note: "公式首都・平和の聖母大聖堂で有名" }
+  - { lat: 5.345, lng: -4.024, label: "アビジャン", type: "city", note: "経済首都・西アフリカ最大級の都市" }
+  - { lat: 7.689, lng: -5.030, label: "ブアケ", type: "city", note: "中部の主要都市・第2の都市" }
+  - { lat: 9.458, lng: -5.629, label: "コロゴ", type: "city", note: "北部の中心都市" }
+  - { lat: 6.872, lng: -6.450, label: "ダロア", type: "city", note: "中西部の経済都市" }
+  - { lat: 4.747, lng: -6.640, label: "サンペドロ", type: "port", note: "西部の主要港湾都市・カカオ輸出港" }
+  - { lat: 7.418, lng: -7.546, label: "マン", type: "city", note: "西部山岳地帯の中心都市" }
 ---
 
 <div class="main-desciption country-description">

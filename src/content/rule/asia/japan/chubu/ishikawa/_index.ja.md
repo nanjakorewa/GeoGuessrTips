@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Ishikawa.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 36.578, lng: 136.648, label: "金沢駅", type: "capital", note: "石川県の県庁所在地" }
+  - { lat: 36.562, lng: 136.662, label: "兼六園", type: "landmark", note: "日本三名園の一つ" }
+  - { lat: 36.564, lng: 136.660, label: "金沢城", type: "historical", note: "加賀百万石の城" }
+  - { lat: 37.391, lng: 136.901, label: "輪島", type: "city", note: "輪島塗の産地・能登半島" }
+  - { lat: 36.241, lng: 136.357, label: "加賀温泉郷", type: "nature", note: "温泉地" }
+  - { lat: 37.378, lng: 136.794, label: "白米千枚田", type: "landmark", note: "棚田の景観" }
 ---
 
 <div class="pref-tips">

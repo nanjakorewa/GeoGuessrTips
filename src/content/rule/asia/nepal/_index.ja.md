@@ -24,6 +24,17 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%99%E3%83%AC%E3%82%B9%E3%83%88"
   - text: '国旗が世界で唯一<span class="quiz">四角形でない</span>形状（二重三角形）をしている'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E3%81%AE%E5%9B%BD%E6%97%97"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 27.717, lng: 85.324, label: "カトマンズ", type: "capital", note: "ネパールの首都・最大都市" }
+  - { lat: 28.210, lng: 83.991, label: "ポカラ", type: "city", note: "観光リゾート都市・アンナプルナへの拠点" }
+  - { lat: 27.671, lng: 85.428, label: "バクタプル", type: "historical", note: "世界遺産・古都" }
+  - { lat: 27.989, lng: 86.925, label: "エベレスト", type: "nature", note: "世界最高峰（標高8,848m）" }
+  - { lat: 28.596, lng: 83.819, label: "アンナプルナ", type: "nature", note: "ヒマラヤ山脈の名峰群" }
+  - { lat: 27.484, lng: 83.945, label: "ルンビニ", type: "historical", note: "世界遺産・釈迦の生誕地" }
+  - { lat: 28.394, lng: 84.124, label: "マナスル", type: "nature", note: "世界第8位の高峰（標高8,163m）" }
 ---
 
 <div class="main-desciption country-description">

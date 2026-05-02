@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%B9%E3%83%BC%E3%83%80%E3%83%B3"
   - text: '<span class="quiz">白ナイル川</span>が流れ、世界最大級の湿地帯であるスッドが広がっている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%83%E3%83%89"
+mapProvider: "osm"
+mapPins:
+  - { lat: 4.859, lng: 31.572, label: "ジュバ", type: "capital", note: "首都・白ナイル川沿いの最大都市" }
+  - { lat: 9.532, lng: 31.660, label: "マラカル", type: "city", note: "上ナイル州の中心都市" }
+  - { lat: 8.770, lng: 27.985, label: "ベンティウ", type: "city", note: "石油産地・北部の都市" }
+  - { lat: 6.800, lng: 29.700, label: "ルンベク", type: "city", note: "中部レイク州の中心都市" }
+  - { lat: 4.546, lng: 28.369, label: "ヤンビオ", type: "city", note: "南西部西エクアトリア州の州都" }
+  - { lat: 8.500, lng: 30.500, label: "スッド湿地", type: "nature", note: "世界最大級の湿地帯・白ナイル川流域" }
 ---
 
 <div class="main-desciption country-description">

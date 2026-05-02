@@ -22,6 +22,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%84%E3%83%AF%E3%83%8A"
   - text: '<span class="quiz">ダイヤモンド</span>の産出量が世界有数であり、独立後の経済成長を支えている'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%84%E3%83%AF%E3%83%8A#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: -24.628, lng: 25.923, label: "ハボローネ", type: "capital", note: "首都・南東部の最大都市" }
+  - { lat: -21.170, lng: 27.512, label: "フランシスタウン", type: "city", note: "第2の都市・北東部の経済拠点" }
+  - { lat: -24.658, lng: 25.908, label: "モルポロレ", type: "city", note: "南東部の主要都市" }
+  - { lat: -19.984, lng: 23.418, label: "マウン", type: "city", note: "オカバンゴ・デルタへの玄関口" }
+  - { lat: -19.300, lng: 22.900, label: "オカバンゴ・デルタ", type: "nature", note: "世界遺産の内陸デルタ・ボツワナ最大の自然遺産" }
+  - { lat: -18.736, lng: 24.501, label: "チョベ国立公園", type: "nature", note: "ゾウの個体数が世界最多級" }
+  - { lat: -22.500, lng: 23.500, label: "カラハリ砂漠", type: "nature", note: "国土の約70%を占める半砂漠地帯" }
 ---
 
 <div class="main-desciption country-description">

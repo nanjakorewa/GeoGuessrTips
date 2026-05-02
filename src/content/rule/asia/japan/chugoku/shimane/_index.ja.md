@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Shimane.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.467, lng: 133.050, label: "松江駅", type: "capital", note: "島根県の県庁所在地" }
+  - { lat: 35.475, lng: 133.051, label: "松江城", type: "historical", note: "国宝・現存天守" }
+  - { lat: 35.402, lng: 132.685, label: "出雲大社", type: "historical", note: "縁結びの神社" }
+  - { lat: 35.107, lng: 132.437, label: "石見銀山", type: "historical", note: "世界遺産" }
+  - { lat: 36.175, lng: 133.088, label: "隠岐諸島", type: "nature", note: "離島・ジオパーク" }
+  - { lat: 35.462, lng: 133.066, label: "宍道湖", type: "nature", note: "シジミの産地" }
 ---
 
 <div class="pref-tips">

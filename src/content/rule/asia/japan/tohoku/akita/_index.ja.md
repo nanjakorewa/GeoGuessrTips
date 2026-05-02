@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Akita.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 39.720, lng: 140.103, label: "秋田駅", type: "capital", note: "秋田県の県庁所在地" }
+  - { lat: 40.213, lng: 140.787, label: "大館", type: "city", note: "秋田犬の故郷" }
+  - { lat: 40.213, lng: 140.567, label: "小坂鉱山", type: "historical", note: "かつての日本最大の銅鉱山" }
+  - { lat: 39.952, lng: 140.542, label: "田沢湖", type: "nature", note: "日本最深の湖" }
+  - { lat: 40.504, lng: 140.054, label: "白神山地", type: "nature", note: "ブナ原生林・世界遺産" }
+  - { lat: 39.514, lng: 140.487, label: "横手", type: "city", note: "かまくらの街" }
 ---
 
 <div class="pref-tips">

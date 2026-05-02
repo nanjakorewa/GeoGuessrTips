@@ -30,6 +30,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%90%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%95"
   - text: '<span class="quiz">コアラ</span>や<span class="quiz">カンガルー</span>など固有の有袋類が多く生息する'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E3%81%AE%E5%8B%95%E7%89%A9%E7%9B%B8"
+mapProvider: "osm"
+mapPins:
+  - { lat: -35.281, lng: 149.128, label: "キャンベラ", type: "capital", note: "首都・連邦政府の中心" }
+  - { lat: -33.869, lng: 151.209, label: "シドニー", type: "city", note: "国内最大の都市・オペラハウスとハーバーブリッジ" }
+  - { lat: -37.814, lng: 144.963, label: "メルボルン", type: "city", note: "ヴィクトリア州の州都・文化都市" }
+  - { lat: -27.470, lng: 153.026, label: "ブリスベン", type: "city", note: "クイーンズランド州の州都" }
+  - { lat: -31.953, lng: 115.857, label: "パース", type: "city", note: "西オーストラリア州の州都" }
+  - { lat: -25.345, lng: 131.034, label: "ウルル", type: "landmark", note: "巨大な一枚岩・世界遺産" }
+  - { lat: -18.286, lng: 147.700, label: "グレートバリアリーフ", type: "nature", note: "世界最大のサンゴ礁・世界遺産" }
 ---
 
 <div class="main-desciption country-description">

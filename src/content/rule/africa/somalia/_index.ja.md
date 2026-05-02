@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%81%AE%E8%A7%92"
   - text: '世界で最も多くの<span class="quiz">ラクダ</span>を飼育しており、遊牧が伝統的な生活様式となっている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%9E%E3%83%AA%E3%82%A2#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 2.046, lng: 45.318, label: "モガディシュ", type: "capital", note: "首都・インド洋岸の最大都市" }
+  - { lat: 9.560, lng: 44.066, label: "ハルゲイサ", type: "city", note: "ソマリランドの中心都市" }
+  - { lat: 11.286, lng: 49.183, label: "ボサソ", type: "port", note: "プントランドの主要港湾都市" }
+  - { lat: 0.358, lng: 42.546, label: "キスマヨ", type: "port", note: "南部の主要港湾都市" }
+  - { lat: 9.501, lng: 45.014, label: "ブラオ", type: "city", note: "ソマリランド東部の都市" }
+  - { lat: 11.831, lng: 51.276, label: "アフリカの角", type: "landmark", note: "アフリカ大陸最東端の岬グアルダフイ" }
 ---
 
 <div class="main-desciption country-description">

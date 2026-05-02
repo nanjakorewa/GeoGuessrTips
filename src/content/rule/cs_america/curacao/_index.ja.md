@@ -16,6 +16,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%A9%E3%82%BD%E3%83%BC"
   - text: 'カラフルな建物が並ぶ<span class="quiz">ウィレムスタット</span>の歴史地区は世界遺産に登録されている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AC%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%83%E3%83%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 12.109, lng: -68.933, label: "ウィレムスタット", type: "capital", note: "首都・カラフルな歴史地区の世界遺産" }
+  - { lat: 12.131, lng: -68.946, label: "プンダ地区", type: "historical", note: "ハンデルスカーデと女王エマ橋のある旧市街" }
+  - { lat: 12.197, lng: -69.156, label: "クリストッフェル国立公園", type: "nature", note: "島最高峰クリストッフェル山がある自然保護区" }
+  - { lat: 12.378, lng: -69.158, label: "ウェストプント", type: "city", note: "島北西部のビーチが多いエリア" }
+  - { lat: 12.064, lng: -68.864, label: "スパニッシュ・ウォーター", type: "port", note: "南東部の天然湾・マリーナ" }
+  - { lat: 12.302, lng: -69.150, label: "シェテ・ボカ国立公園", type: "nature", note: "海食洞と荒波の海岸線で有名" }
 ---
 
 <div class="main-desciption country-description">

@@ -9,6 +9,14 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Gifu.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.422, lng: 136.760, label: "岐阜駅", type: "capital", note: "岐阜県の県庁所在地" }
+  - { lat: 35.434, lng: 136.781, label: "岐阜城", type: "historical", note: "金華山頂の城" }
+  - { lat: 36.142, lng: 137.252, label: "高山", type: "historical", note: "飛騨高山の古い町並み" }
+  - { lat: 36.258, lng: 136.906, label: "白川郷", type: "historical", note: "合掌造り・世界遺産" }
+  - { lat: 35.349, lng: 136.461, label: "関ヶ原", type: "historical", note: "天下分け目の戦場" }
+  - { lat: 35.444, lng: 136.755, label: "長良川", type: "nature", note: "鵜飼で有名" }
 ---
 
 <div class="pref-tips">

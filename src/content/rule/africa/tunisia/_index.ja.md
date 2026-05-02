@@ -21,6 +21,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%8B%E3%82%B8%E3%82%A2"
   - text: '古代<span class="quiz">カルタゴ</span>の遺跡が世界遺産に登録されており、フェニキア文明の中心地だった'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%B4"
+mapProvider: "osm"
+mapPins:
+  - { lat: 36.806, lng: 10.181, label: "チュニス", type: "capital", note: "首都・地中海岸の最大都市" }
+  - { lat: 36.853, lng: 10.323, label: "カルタゴ遺跡", type: "historical", note: "世界遺産の古代フェニキア・ローマ都市跡" }
+  - { lat: 35.679, lng: 10.100, label: "スース", type: "city", note: "中部地中海岸のリゾート都市・世界遺産メディナ" }
+  - { lat: 34.748, lng: 10.760, label: "スファックス", type: "port", note: "南部の主要港湾都市・第2の都市" }
+  - { lat: 33.886, lng: 10.099, label: "ジェルバ島", type: "nature", note: "南部の観光島" }
+  - { lat: 36.444, lng: 10.736, label: "ハマメット", type: "city", note: "観光リゾート都市" }
+  - { lat: 33.917, lng: 8.133, label: "トズール", type: "city", note: "南部オアシス都市・サハラ観光拠点" }
 ---
 
 <div class="main-desciption country-description">

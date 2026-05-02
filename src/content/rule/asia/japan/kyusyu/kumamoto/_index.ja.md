@@ -12,6 +12,14 @@ flag: "Kumamoto.svg"
 relatedIndustry:
   - "/industry/japan-semiconductor/kyushu/"
   - "/industry/japan-semiconductor/"
+mapProvider: "osm"
+mapPins:
+  - { lat: 32.789, lng: 130.704, label: "熊本駅", type: "capital", note: "熊本県の県庁所在地" }
+  - { lat: 32.806, lng: 130.706, label: "熊本城", type: "historical", note: "加藤清正の城" }
+  - { lat: 32.881, lng: 131.084, label: "阿蘇山", type: "nature", note: "世界最大級のカルデラ" }
+  - { lat: 32.450, lng: 130.196, label: "天草", type: "nature", note: "島嶼部・キリシタンの歴史" }
+  - { lat: 32.211, lng: 130.401, label: "水俣", type: "city", note: "環境再生の街" }
+  - { lat: 33.087, lng: 131.140, label: "黒川温泉", type: "nature", note: "山間の温泉郷" }
 ---
 
 <div class="pref-tips">

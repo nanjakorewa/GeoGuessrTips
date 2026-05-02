@@ -21,6 +21,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
   - text: '1982年にイギリスとアルゼンチンの間で<span class="quiz">フォークランド紛争</span>が起きた'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E7%B4%9B%E4%BA%89"
+mapProvider: "osm"
+mapPins:
+  - { lat: -51.697, lng: -57.852, label: "スタンレー", type: "capital", note: "首都・諸島最大の集落" }
+  - { lat: -51.689, lng: -57.706, label: "マウント・プレザント", type: "landmark", note: "イギリス軍駐留の主要空軍基地" }
+  - { lat: -51.341, lng: -60.058, label: "ポート・ハワード", type: "city", note: "西フォークランド最大の入植地" }
+  - { lat: -51.379, lng: -59.917, label: "サン・カルロス", type: "historical", note: "1982年紛争の英軍上陸地" }
+  - { lat: -52.326, lng: -59.480, label: "シーライオン島", type: "nature", note: "ペンギンや海獣が繁殖する自然の宝庫" }
+  - { lat: -51.340, lng: -60.252, label: "ペブル島", type: "nature", note: "海鳥とペンギンの繁殖地" }
 ---
 
 <div class="main-desciption country-description">

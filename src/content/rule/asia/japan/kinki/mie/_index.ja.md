@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Mie.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.730, lng: 136.508, label: "津駅", type: "capital", note: "三重県の県庁所在地" }
+  - { lat: 34.455, lng: 136.726, label: "伊勢神宮", type: "historical", note: "日本人の心のふるさと" }
+  - { lat: 34.482, lng: 136.842, label: "鳥羽", type: "port", note: "海女・真珠養殖の発祥地" }
+  - { lat: 34.328, lng: 136.829, label: "志摩(英虞湾)", type: "nature", note: "リアス式海岸の景勝地" }
+  - { lat: 34.967, lng: 136.625, label: "四日市", type: "city", note: "石油化学コンビナート" }
+  - { lat: 34.578, lng: 136.527, label: "松阪", type: "city", note: "松阪牛の産地" }
 ---
 
 <div class="pref-tips">

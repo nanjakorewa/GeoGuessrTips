@@ -8,6 +8,15 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Tokyo.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.682, lng: 139.766, label: "東京駅", type: "capital", note: "日本の首都・玄関口" }
+  - { lat: 35.689, lng: 139.692, label: "新宿駅", type: "city", note: "都庁所在地・西の中心" }
+  - { lat: 35.658, lng: 139.745, label: "東京タワー", type: "landmark", note: "高さ333m・東京のシンボル" }
+  - { lat: 35.710, lng: 139.811, label: "東京スカイツリー", type: "landmark", note: "高さ634m・電波塔" }
+  - { lat: 35.715, lng: 139.797, label: "浅草寺", type: "historical", note: "都内最古の寺・観光名所" }
+  - { lat: 35.762, lng: 139.731, label: "池袋駅", type: "city", note: "副都心・サンシャイン" }
+  - { lat: 34.069, lng: 139.527, label: "伊豆諸島(大島)", type: "nature", note: "東京都管轄の島嶼部" }
 ---
 
 <div class="pref-tips">

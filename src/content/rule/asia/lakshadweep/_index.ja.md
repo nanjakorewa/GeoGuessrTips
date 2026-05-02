@@ -21,6 +21,16 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E8%AB%B8%E5%B3%B6"
   - text: '住民の大多数が<span class="quiz">イスラム教</span>を信仰しておりインド本土とは文化的に異なる'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E8%AB%B8%E5%B3%B6"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 10.566, lng: 72.642, label: "カヴァラッティ", type: "capital", note: "ラクシャドウィープの中心都市" }
+  - { lat: 11.000, lng: 72.272, label: "アガッティ島", type: "city", note: "空港のある島・観光の玄関口" }
+  - { lat: 10.823, lng: 72.183, label: "ミニコイ島", type: "nature", note: "南端の島・特徴的な文化を持つ" }
+  - { lat: 11.328, lng: 72.785, label: "アンドロート島", type: "city", note: "最大の島・人口最多" }
+  - { lat: 10.918, lng: 72.214, label: "バンガラム島", type: "nature", note: "リゾートで知られる無人島" }
+  - { lat: 11.708, lng: 72.166, label: "カディマット島", type: "nature", note: "サンゴ礁が美しい島" }
 ---
 
 <div class="main-desciption country-description">

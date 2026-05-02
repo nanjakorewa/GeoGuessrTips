@@ -12,6 +12,14 @@ flag: "Aichi.svg"
 relatedIndustry:
   - "/industry/japan-pottery/"
   - "/industry/japan-combinat/"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.171, lng: 136.882, label: "名古屋駅", type: "capital", note: "愛知県の県庁所在地・中部最大都市" }
+  - { lat: 35.185, lng: 136.900, label: "名古屋城", type: "historical", note: "金鯱で有名" }
+  - { lat: 35.083, lng: 137.156, label: "豊田", type: "city", note: "トヨタ自動車本社" }
+  - { lat: 35.224, lng: 137.087, label: "瀬戸", type: "city", note: "瀬戸焼の産地" }
+  - { lat: 34.857, lng: 136.815, label: "中部国際空港", type: "landmark", note: "セントレア" }
+  - { lat: 35.388, lng: 136.939, label: "犬山城", type: "historical", note: "国宝・現存天守" }
 ---
 
 <div class="pref-tips">

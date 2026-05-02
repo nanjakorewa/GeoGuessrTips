@@ -26,6 +26,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
   - text: '国名はクリストファー・<span class="quiz">コロンブス</span>に由来する'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2#%E5%9B%BD%E5%90%8D"
+mapProvider: "osm"
+mapPins:
+  - { lat: 4.711, lng: -74.072, label: "ボゴタ", type: "capital", note: "首都・標高約2,640mのアンデス高地都市" }
+  - { lat: 6.244, lng: -75.581, label: "メデジン", type: "city", note: "コロンビア第2の都市・常春の街" }
+  - { lat: 3.452, lng: -76.532, label: "カリ", type: "city", note: "サルサ音楽の中心地" }
+  - { lat: 10.391, lng: -75.479, label: "カルタヘナ", type: "city", note: "カリブ海岸の世界遺産・植民地時代の旧市街" }
+  - { lat: 11.241, lng: -74.199, label: "サンタ・マルタ", type: "city", note: "カリブ海岸最古の植民都市" }
+  - { lat: 5.054, lng: -75.508, label: "コーヒー文化的景観", type: "landmark", note: "世界遺産・コーヒー栽培地帯" }
 ---
 
 <div class="main-desciption country-description">

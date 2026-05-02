@@ -17,6 +17,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88"
   - text: '<span class="quiz">ギザの三大ピラミッド</span>や<span class="quiz">スフィンクス</span>など古代エジプト文明の遺跡が多数存在する'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%82%B6%E3%81%AE%E4%B8%89%E5%A4%A7%E3%83%94%E3%83%A9%E3%83%9F%E3%83%83%E3%83%89"
+mapProvider: "osm"
+mapPins:
+  - { lat: 30.044, lng: 31.236, label: "カイロ", type: "capital", note: "首都・アラブ世界最大級の都市" }
+  - { lat: 29.979, lng: 31.134, label: "ギザのピラミッド", type: "landmark", note: "古代エジプトの三大ピラミッドとスフィンクス" }
+  - { lat: 31.200, lng: 29.918, label: "アレクサンドリア", type: "city", note: "地中海岸の第2の都市・主要港" }
+  - { lat: 25.687, lng: 32.640, label: "ルクソール", type: "historical", note: "古代テーベの遺跡群・王家の谷で有名" }
+  - { lat: 24.089, lng: 32.899, label: "アスワン", type: "city", note: "ナイル川上流の都市・アスワンハイダム" }
+  - { lat: 27.717, lng: 33.937, label: "シャルム・エル・シェイク", type: "city", note: "紅海沿岸のリゾート都市" }
+  - { lat: 30.589, lng: 32.273, label: "スエズ運河", type: "landmark", note: "地中海と紅海を結ぶ要衝" }
 ---
 
 <div class="main-desciption country-description">

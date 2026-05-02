@@ -17,6 +17,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A1%E3%83%AB%E3%83%BC%E3%83%B3"
   - text: '<span class="quiz">カメルーン山</span>（標高4,095m）は西アフリカ最高峰の活火山である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A1%E3%83%AB%E3%83%BC%E3%83%B3%E5%B1%B1"
+mapProvider: "osm"
+mapPins:
+  - { lat: 3.848, lng: 11.502, label: "ヤウンデ", type: "capital", note: "首都・中央部の高原都市" }
+  - { lat: 4.061, lng: 9.786, label: "ドゥアラ", type: "city", note: "最大都市・経済の中心・主要港" }
+  - { lat: 5.963, lng: 10.146, label: "バフサム", type: "city", note: "西部高原の都市" }
+  - { lat: 10.595, lng: 14.323, label: "マルア", type: "city", note: "極北州の中心都市" }
+  - { lat: 9.301, lng: 13.398, label: "ガルア", type: "city", note: "北部の主要都市・ベヌエ川の港" }
+  - { lat: 4.203, lng: 9.170, label: "カメルーン山", type: "nature", note: "西アフリカ最高峰の活火山（4,095m）" }
+  - { lat: 5.473, lng: 10.418, label: "バメンダ", type: "city", note: "英語圏の主要都市・北西州の州都" }
 ---
 
 <div class="main-desciption country-description">

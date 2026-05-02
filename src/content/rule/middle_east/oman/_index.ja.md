@@ -26,6 +26,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E4%B9%B3%E9%A6%99"
   - text: 'アラビア半島南東部に位置し<span class="quiz">ホルムズ海峡</span>に面する戦略的要地である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1"
+mapProvider: "osm"
+mapPins:
+  - { lat: 23.588, lng: 58.408, label: "マスカット", type: "capital", note: "首都・アラビア海に面した港湾都市" }
+  - { lat: 22.933, lng: 57.533, label: "ニズワ", type: "historical", note: "内陸の歴史的な要塞都市" }
+  - { lat: 17.019, lng: 54.090, label: "サラーラ", type: "city", note: "南部ザファール地方の中心都市" }
+  - { lat: 24.339, lng: 56.730, label: "ソハール", type: "port", note: "北部の港湾・工業都市" }
+  - { lat: 23.323, lng: 57.531, label: "バフラ要塞", type: "historical", note: "世界遺産の古代要塞" }
+  - { lat: 22.700, lng: 59.000, label: "ワヒバ砂漠", type: "nature", note: "オマーン中部の広大な砂漠" }
 ---
 
 <div class="main-desciption country-description">

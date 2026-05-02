@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B4%E3%83%A9"
   - text: '<span class="quiz">石油</span>と<span class="quiz">ダイヤモンド</span>が主要な輸出品で、サブサハラアフリカ有数の産油国である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B4%E3%83%A9#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: -8.839, lng: 13.289, label: "ルアンダ", type: "capital", note: "首都・大西洋岸の最大都市" }
+  - { lat: -12.578, lng: 13.407, label: "ベンゲラ", type: "port", note: "南部の主要港湾都市" }
+  - { lat: -12.350, lng: 13.547, label: "ロビト", type: "port", note: "鉄道の起点となる重要港" }
+  - { lat: -14.917, lng: 13.500, label: "ルバンゴ", type: "city", note: "南部高原の中心都市" }
+  - { lat: -9.545, lng: 16.341, label: "マランジェ", type: "city", note: "内陸部の主要都市・カランドゥラの滝の近く" }
+  - { lat: -9.075, lng: 16.140, label: "カランドゥラの滝", type: "nature", note: "アフリカ第2位の規模を誇る大瀑布" }
 ---
 
 <div class="main-desciption country-description">

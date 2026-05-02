@@ -22,6 +22,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%AF%E3%83%B3%E3%83%80"
   - text: '1994年の<span class="quiz">ジェノサイド</span>後に急速な経済成長を遂げ、ICT立国として注目されている'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%AF%E3%83%B3%E3%83%80#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: -1.944, lng: 30.061, label: "キガリ", type: "capital", note: "首都・国の中央部に位置する清潔な都市" }
+  - { lat: -1.694, lng: 29.234, label: "ギセニ", type: "city", note: "西部キブ湖岸の観光都市" }
+  - { lat: -2.595, lng: 29.739, label: "ブタレ（フエ）", type: "city", note: "南部の学術都市" }
+  - { lat: -1.501, lng: 29.634, label: "ルヘンゲリ（ムサンゼ）", type: "city", note: "北西部・ヴィルンガ山地の玄関口" }
+  - { lat: -2.038, lng: 30.776, label: "ルワマガナ", type: "city", note: "東部の主要都市" }
+  - { lat: -1.483, lng: 29.500, label: "ヴォルカン国立公園", type: "nature", note: "マウンテンゴリラ生息地" }
+  - { lat: -2.000, lng: 29.000, label: "キブ湖", type: "nature", note: "アフリカ大湖群の一つ・西部国境湖" }
 ---
 
 <div class="main-desciption country-description">

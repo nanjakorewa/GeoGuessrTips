@@ -23,6 +23,17 @@ map_title: "関連ページ"
 maps: [
     ["https://donation.yahoo.co.jp/promo/20240403.html", "台湾地震緊急支援募金"],
     ]
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 25.033, lng: 121.565, label: "台北", type: "capital", note: "中華民国の首都・政治と経済の中心" }
+  - { lat: 22.633, lng: 120.273, label: "高雄", type: "port", note: "南部最大の港湾都市" }
+  - { lat: 24.147, lng: 120.674, label: "台中", type: "city", note: "中部の主要都市" }
+  - { lat: 22.997, lng: 120.227, label: "台南", type: "historical", note: "古都・台湾最古の都市" }
+  - { lat: 25.034, lng: 121.564, label: "台北101", type: "landmark", note: "高さ508mのランドマーク・かつての世界一" }
+  - { lat: 23.872, lng: 121.546, label: "太魯閣峡谷", type: "nature", note: "花蓮の大理石峡谷・国立公園" }
+  - { lat: 23.466, lng: 120.957, label: "阿里山", type: "nature", note: "中央山脈の山岳景勝地・日の出が有名" }
 ---
 
 <div class="main-desciption country-description">

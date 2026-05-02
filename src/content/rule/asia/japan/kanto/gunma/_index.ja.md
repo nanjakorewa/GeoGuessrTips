@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Gunma.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 36.391, lng: 139.060, label: "前橋駅", type: "capital", note: "群馬県の県庁所在地" }
+  - { lat: 36.322, lng: 139.013, label: "高崎", type: "city", note: "県内最大の交通要衝" }
+  - { lat: 36.621, lng: 138.595, label: "草津温泉", type: "nature", note: "日本三名泉の一つ" }
+  - { lat: 36.493, lng: 138.910, label: "伊香保温泉", type: "nature", note: "歴史ある温泉地" }
+  - { lat: 36.255, lng: 138.892, label: "富岡製糸場", type: "historical", note: "世界遺産・近代化産業遺産" }
+  - { lat: 36.927, lng: 139.295, label: "尾瀬", type: "nature", note: "高層湿原・国立公園" }
 ---
 
 <div class="pref-tips">

@@ -20,6 +20,17 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%AB_(%E5%AE%B6%E5%B1%8B)"
   - text: '<span class="quiz">チンギス・ハン</span>が建国したモンゴル帝国は史上最大の陸上帝国であった'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E5%B8%9D%E5%9B%BD"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 47.886, lng: 106.906, label: "ウランバートル", type: "capital", note: "モンゴルの首都・国民の半数近くが居住" }
+  - { lat: 49.034, lng: 104.080, label: "エルデネト", type: "city", note: "国内第二の都市・銅鉱山で有名" }
+  - { lat: 50.044, lng: 106.183, label: "ダルハン", type: "city", note: "北部の主要工業都市" }
+  - { lat: 43.580, lng: 104.420, label: "ゴビ砂漠", type: "nature", note: "アジア最大の砂漠・国土南部に広がる" }
+  - { lat: 48.166, lng: 99.910, label: "フブスグル湖", type: "nature", note: "国内最大の淡水湖・モンゴルの真珠" }
+  - { lat: 47.197, lng: 102.802, label: "カラコルム", type: "historical", note: "モンゴル帝国の旧首都" }
+  - { lat: 49.808, lng: 87.737, label: "アルタイ山脈", type: "nature", note: "西部の大山脈" }
 ---
 
 <div class="main-desciption country-description">

@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Miyazaki.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.911, lng: 131.423, label: "宮崎駅", type: "capital", note: "宮崎県の県庁所在地" }
+  - { lat: 31.806, lng: 131.471, label: "青島", type: "landmark", note: "鬼の洗濯板の景観" }
+  - { lat: 31.376, lng: 131.378, label: "都井岬", type: "nature", note: "野生馬で有名" }
+  - { lat: 32.711, lng: 131.310, label: "高千穂峡", type: "nature", note: "神話の里・渓谷美" }
+  - { lat: 31.934, lng: 130.860, label: "霧島連山(韓国岳)", type: "nature", note: "鹿児島県境の火山群" }
+  - { lat: 31.660, lng: 131.470, label: "鵜戸神宮", type: "historical", note: "海岸洞窟の神社" }
 ---
 
 <div class="pref-tips">

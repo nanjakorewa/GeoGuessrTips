@@ -9,6 +9,14 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Yamaguchi.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.186, lng: 131.471, label: "山口駅", type: "capital", note: "山口県の県庁所在地" }
+  - { lat: 34.169, lng: 132.176, label: "岩国(錦帯橋)", type: "historical", note: "五連アーチの木造橋" }
+  - { lat: 33.957, lng: 130.940, label: "下関", type: "port", note: "本州最西端・関門海峡" }
+  - { lat: 34.408, lng: 131.398, label: "萩", type: "historical", note: "城下町・明治維新の発祥地" }
+  - { lat: 34.225, lng: 131.305, label: "秋吉台", type: "nature", note: "日本最大のカルスト台地" }
+  - { lat: 34.225, lng: 131.305, label: "秋芳洞", type: "nature", note: "日本最大級の鍾乳洞" }
 ---
 
 <div class="pref-tips">

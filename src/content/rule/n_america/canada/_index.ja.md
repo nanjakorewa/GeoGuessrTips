@@ -27,6 +27,16 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
   - text: '国土の大部分が<span class="quiz">針葉樹林（タイガ）</span>とツンドラに覆われている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80#%E5%9C%B0%E7%90%86"
+mapProvider: "osm"
+mapPins:
+  - { lat: 45.421, lng: -75.697, label: "オタワ", type: "capital", note: "首都・オンタリオ州とケベック州の境" }
+  - { lat: 43.653, lng: -79.383, label: "トロント", type: "city", note: "カナダ最大の都市・経済の中心" }
+  - { lat: 45.502, lng: -73.567, label: "モントリオール", type: "city", note: "ケベック州最大都市・フランス語圏" }
+  - { lat: 49.283, lng: -123.121, label: "バンクーバー", type: "city", note: "西海岸最大の都市・太平洋岸の港湾" }
+  - { lat: 51.045, lng: -114.057, label: "カルガリー", type: "city", note: "ロッキー山脈東麓の主要都市" }
+  - { lat: 43.084, lng: -79.075, label: "ナイアガラ滝", type: "landmark", note: "アメリカ国境の世界的な大瀑布" }
+  - { lat: 43.643, lng: -79.387, label: "CN タワー", type: "landmark", note: "トロントの象徴的な電波塔" }
+  - { lat: 51.418, lng: -116.215, label: "ルイーズ湖", type: "nature", note: "カナディアンロッキーの氷河湖" }
 ---
 
 <div class="main-desciption country-description">

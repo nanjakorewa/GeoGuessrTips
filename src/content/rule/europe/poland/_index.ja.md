@@ -22,6 +22,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A3%E3%83%83%E3%83%84%3D%E3%83%93%E3%83%AB%E3%82%B1%E3%83%8A%E3%82%A6%E5%BC%B7%E5%88%B6%E5%8F%8E%E5%AE%B9%E6%89%80"
   - text: '<span class="quiz">ショパン</span>の生誕地であり、<span class="quiz">コペルニクス</span>やキュリー夫人など多くの偉人を輩出した'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%91%E3%83%B3"
+mapProvider: "osm"
+mapPins:
+  - { lat: 52.230, lng: 21.012, label: "ワルシャワ", type: "capital", note: "首都・第二次大戦後に再建された旧市街" }
+  - { lat: 50.064, lng: 19.945, label: "クラクフ", type: "historical", note: "旧首都・世界遺産の歴史地区" }
+  - { lat: 54.352, lng: 18.646, label: "グダニスク", type: "port", note: "バルト海沿岸の歴史都市" }
+  - { lat: 51.110, lng: 17.032, label: "ヴロツワフ", type: "city", note: "シレジア地方の中心都市" }
+  - { lat: 52.407, lng: 16.925, label: "ポズナン", type: "city", note: "西部の主要都市" }
+  - { lat: 50.034, lng: 19.180, label: "アウシュヴィッツ", type: "historical", note: "強制収容所跡・世界遺産" }
+  - { lat: 49.299, lng: 19.949, label: "ザコパネ", type: "nature", note: "タトラ山脈の麓の保養地" }
 ---
 
 <div class="main-desciption country-description">

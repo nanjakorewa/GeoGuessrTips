@@ -17,6 +17,16 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2"
   - text: '世界最古の<span class="quiz">ワイン</span>発祥地の一つとされ約8000年の歴史を持つ'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%B3"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 41.716, lng: 44.783, label: "トビリシ", type: "capital", note: "ジョージアの首都・最大都市" }
+  - { lat: 42.270, lng: 42.708, label: "クタイシ", type: "city", note: "西部の主要都市・古代コルキス王国の都" }
+  - { lat: 41.643, lng: 41.640, label: "バトゥミ", type: "port", note: "黒海沿岸のリゾート・港湾都市" }
+  - { lat: 41.840, lng: 44.717, label: "ムツヘタ", type: "historical", note: "世界遺産・ジョージア最古の都" }
+  - { lat: 42.708, lng: 44.660, label: "カズベキ山", type: "nature", note: "コーカサスの名峰（標高5,047m）" }
+  - { lat: 42.500, lng: 43.000, label: "コーカサス山脈", type: "nature", note: "国土北部を走る大山脈" }
 ---
 
 <div class="main-desciption country-description">

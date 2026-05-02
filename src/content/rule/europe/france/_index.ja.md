@@ -25,6 +25,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%BE%B2%E6%A5%AD"
   - text: '年間約<span class="quiz">9000万人</span>の外国人観光客が訪れる世界最大の<span class="quiz">観光</span>大国で、<span class="quiz">エッフェル塔</span>やルーヴル美術館がある'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%A6%B3%E5%85%89"
+mapProvider: "osm"
+mapPins:
+  - { lat: 48.857, lng: 2.353, label: "パリ", type: "capital", note: "首都・芸術と文化の中心" }
+  - { lat: 43.297, lng: 5.381, label: "マルセイユ", type: "port", note: "地中海最大の港湾都市" }
+  - { lat: 45.764, lng: 4.836, label: "リヨン", type: "city", note: "美食の都・フランス第三の都市" }
+  - { lat: 43.710, lng: 7.262, label: "ニース", type: "city", note: "コート・ダジュールの中心" }
+  - { lat: 48.636, lng: -1.511, label: "モン・サン・ミシェル", type: "landmark", note: "世界遺産の修道院島" }
+  - { lat: 48.858, lng: 2.295, label: "エッフェル塔", type: "landmark", note: "パリのシンボル・1889年完成" }
+  - { lat: 50.629, lng: 3.057, label: "リール", type: "city", note: "フランス北部の中心都市" }
 ---
 
 <div class="main-desciption country-description">

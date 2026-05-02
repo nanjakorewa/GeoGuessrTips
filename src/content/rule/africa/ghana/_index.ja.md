@@ -20,6 +20,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%8A"
   - text: '<span class="quiz">金</span>と<span class="quiz">カカオ</span>の主要産出国であり、旧称は「ゴールドコースト」である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%8A#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 5.604, lng: -0.187, label: "アクラ", type: "capital", note: "首都・大西洋岸の最大都市" }
+  - { lat: 6.700, lng: -1.625, label: "クマシ", type: "city", note: "アシャンティ州都・第2の都市" }
+  - { lat: 4.937, lng: -1.755, label: "タコラディ", type: "port", note: "西部の主要港湾都市" }
+  - { lat: 9.408, lng: -0.847, label: "タマレ", type: "city", note: "北部の中心都市" }
+  - { lat: 5.105, lng: -1.244, label: "ケープ・コースト", type: "historical", note: "世界遺産のケープ・コースト城・奴隷貿易遺産" }
+  - { lat: 7.500, lng: 0.000, label: "ボルタ湖", type: "nature", note: "世界最大級の人造湖" }
+  - { lat: 6.222, lng: -0.405, label: "アコソンボ・ダム", type: "landmark", note: "ボルタ川の水力発電ダム" }
 ---
 
 <div class="main-desciption country-description">

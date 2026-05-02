@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Wakayama.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.227, lng: 135.167, label: "和歌山駅", type: "capital", note: "和歌山県の県庁所在地" }
+  - { lat: 34.227, lng: 135.174, label: "和歌山城", type: "historical", note: "紀州徳川家の城" }
+  - { lat: 34.213, lng: 135.587, label: "高野山", type: "historical", note: "真言宗総本山・世界遺産" }
+  - { lat: 33.668, lng: 135.890, label: "熊野那智大社", type: "historical", note: "熊野三山・世界遺産" }
+  - { lat: 33.674, lng: 135.379, label: "白浜温泉", type: "nature", note: "南紀の温泉地" }
+  - { lat: 33.450, lng: 135.770, label: "潮岬", type: "nature", note: "本州最南端" }
 ---
 
 <div class="pref-tips">

@@ -20,6 +20,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3"
   - text: '<span class="quiz">立憲君主制</span>の公国で、一人当たりGDPが世界トップクラスの裕福な国であり<span class="quiz">スイスフラン</span>を通貨として使用する'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3"
+mapProvider: "osm"
+mapPins:
+  - { lat: 47.141, lng: 9.521, label: "ファドゥーツ", type: "capital", note: "首都・公国の中心" }
+  - { lat: 47.166, lng: 9.511, label: "シャーン", type: "city", note: "国内最大の自治体" }
+  - { lat: 47.124, lng: 9.529, label: "ファドゥーツ城", type: "historical", note: "君主の居城" }
+  - { lat: 47.188, lng: 9.598, label: "トリーゼンベルク", type: "city", note: "山腹の集落" }
+  - { lat: 47.054, lng: 9.502, label: "バルツェルス", type: "city", note: "南部の自治体" }
+  - { lat: 47.090, lng: 9.586, label: "マルブン", type: "nature", note: "唯一のスキーリゾート" }
 ---
 
 <div class="main-desciption country-description">

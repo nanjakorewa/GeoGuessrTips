@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Nagano.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 36.648, lng: 138.188, label: "長野駅", type: "capital", note: "長野県の県庁所在地" }
+  - { lat: 36.661, lng: 138.187, label: "善光寺", type: "historical", note: "信州の名刹" }
+  - { lat: 36.238, lng: 137.972, label: "松本城", type: "historical", note: "国宝・現存天守" }
+  - { lat: 36.350, lng: 138.585, label: "軽井沢", type: "city", note: "高原リゾート" }
+  - { lat: 36.250, lng: 137.756, label: "上高地", type: "nature", note: "北アルプスの景勝地" }
+  - { lat: 36.043, lng: 138.087, label: "諏訪湖", type: "nature", note: "諏訪大社・花火大会" }
 ---
 
 <div class="pref-tips">

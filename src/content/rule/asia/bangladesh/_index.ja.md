@@ -21,6 +21,17 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%82%B7%E3%83%A5"
   - text: '人口密度が非常に高く<span class="quiz">ダッカ</span>は世界有数の人口過密都市である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%83%E3%82%AB"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 23.811, lng: 90.412, label: "ダッカ", type: "capital", note: "バングラデシュの首都・世界有数の人口過密都市" }
+  - { lat: 22.357, lng: 91.783, label: "チッタゴン", type: "port", note: "国内最大の港湾都市" }
+  - { lat: 24.374, lng: 88.604, label: "ラジシャヒ", type: "city", note: "西部の主要都市" }
+  - { lat: 22.846, lng: 89.540, label: "クルナ", type: "city", note: "南西部の主要都市・スンダルバンスへの玄関口" }
+  - { lat: 21.984, lng: 89.183, label: "スンダルバンス", type: "nature", note: "世界遺産・世界最大のマングローブ林" }
+  - { lat: 21.428, lng: 92.005, label: "コックスバザール", type: "landmark", note: "世界最長級の自然海岸ビーチ" }
+  - { lat: 24.475, lng: 90.787, label: "ガンジスデルタ", type: "nature", note: "世界最大のデルタ地帯" }
 ---
 
 <div class="main-desciption country-description">

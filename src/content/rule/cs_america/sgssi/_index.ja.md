@@ -21,6 +21,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%BB%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E8%AB%B8%E5%B3%B6"
   - text: 'かつて<span class="quiz">捕鯨</span>基地として使われ、グリトビケンには廃墟が残る'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%88%E3%83%93%E3%82%B1%E3%83%B3"
+mapProvider: "osm"
+mapPins:
+  - { lat: -54.282, lng: -36.508, label: "グリトビケン", type: "capital", note: "行政中心地・旧捕鯨基地の廃墟" }
+  - { lat: -54.250, lng: -36.500, label: "キング・エドワード・ポイント", type: "landmark", note: "イギリス南極調査所" }
+  - { lat: -54.018, lng: -37.317, label: "ハーキュリーズ湾", type: "port", note: "船上ストリートビューの撮影地" }
+  - { lat: -54.055, lng: -38.054, label: "セント・アンドリュース湾", type: "nature", note: "キングペンギンの大規模繁殖地" }
+  - { lat: -54.500, lng: -36.000, label: "サウスジョージア島", type: "nature", note: "氷河と山岳の主島" }
+  - { lat: -56.300, lng: -27.567, label: "サウスサンドウィッチ諸島", type: "nature", note: "南方の活火山列島" }
 ---
 
 <div class="main-desciption country-description">

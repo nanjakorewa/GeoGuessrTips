@@ -22,6 +22,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
   - text: '<span class="quiz">アフリカ最大の産油国</span>であり、OPECの加盟国として石油輸出が主要産業となっている'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 9.077, lng: 7.499, label: "アブジャ", type: "capital", note: "首都・中央部の計画都市" }
+  - { lat: 6.524, lng: 3.380, label: "ラゴス", type: "city", note: "最大都市・経済の中心・アフリカ屈指のメガシティ" }
+  - { lat: 12.000, lng: 8.516, label: "カノ", type: "city", note: "北部の歴史都市・第3の都市" }
+  - { lat: 7.385, lng: 3.939, label: "イバダン", type: "city", note: "南西部の主要都市" }
+  - { lat: 4.815, lng: 7.050, label: "ポートハーコート", type: "port", note: "ニジェール・デルタの石油産業中心地" }
+  - { lat: 6.339, lng: 5.617, label: "ベニンシティ", type: "historical", note: "旧ベニン王国の都・歴史的中心地" }
+  - { lat: 11.852, lng: 13.160, label: "マイドゥグリ", type: "city", note: "北東部ボルノ州の州都" }
 ---
 
 <div class="main-desciption country-description">

@@ -11,6 +11,14 @@ flag: "Oita.svg"
 relatedIndustry:
   - "/industry/japan-semiconductor/kyushu/"
   - "/industry/japan-combinat/"
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.232, lng: 131.610, label: "大分駅", type: "capital", note: "大分県の県庁所在地・温泉県" }
+  - { lat: 33.279, lng: 131.500, label: "別府温泉", type: "nature", note: "湯量日本一の温泉地" }
+  - { lat: 33.265, lng: 131.357, label: "由布院", type: "nature", note: "高原の温泉地" }
+  - { lat: 33.598, lng: 131.188, label: "中津", type: "historical", note: "中津城・福沢諭吉の街" }
+  - { lat: 33.526, lng: 131.375, label: "宇佐神宮", type: "historical", note: "全国八幡宮の総本宮" }
+  - { lat: 32.957, lng: 131.899, label: "佐伯", type: "port", note: "リアス式海岸の港町" }
 ---
 
 <div class="pref-tips">

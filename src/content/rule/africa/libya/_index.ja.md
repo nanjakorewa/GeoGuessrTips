@@ -17,6 +17,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%93%E3%82%A2"
   - text: '古代ローマの遺跡<span class="quiz">レプティス・マグナ</span>が世界遺産に登録されている'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%97%E3%83%86%E3%82%A3%E3%82%B9%E3%83%BB%E3%83%9E%E3%82%B0%E3%83%8A"
+mapProvider: "osm"
+mapPins:
+  - { lat: 32.887, lng: 13.191, label: "トリポリ", type: "capital", note: "首都・地中海岸の最大都市" }
+  - { lat: 32.117, lng: 20.069, label: "ベンガジ", type: "city", note: "東部キレナイカ地方の中心都市" }
+  - { lat: 32.755, lng: 21.860, label: "アル・バイダ", type: "city", note: "東部高原の都市" }
+  - { lat: 32.376, lng: 15.092, label: "ミスラタ", type: "port", note: "西部の主要港湾都市" }
+  - { lat: 27.038, lng: 14.428, label: "サブハ", type: "city", note: "南西部フェザーン地方の中心都市" }
+  - { lat: 32.638, lng: 14.293, label: "レプティス・マグナ", type: "historical", note: "世界遺産の古代ローマ遺跡" }
+  - { lat: 32.825, lng: 21.860, label: "キレネ遺跡", type: "historical", note: "世界遺産の古代ギリシア・ローマ遺跡" }
 ---
 
 <div class="main-desciption country-description">

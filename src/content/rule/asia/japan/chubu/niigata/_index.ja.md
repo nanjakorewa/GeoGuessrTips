@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Niigata.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 37.912, lng: 139.062, label: "新潟駅", type: "capital", note: "新潟県の県庁所在地・日本海側最大都市" }
+  - { lat: 37.953, lng: 139.060, label: "新潟港", type: "port", note: "佐渡へのフェリー発着地" }
+  - { lat: 38.045, lng: 138.367, label: "佐渡島(両津港)", type: "landmark", note: "金山で知られる離島" }
+  - { lat: 36.937, lng: 138.852, label: "湯沢", type: "nature", note: "スキーリゾート・温泉地" }
+  - { lat: 37.148, lng: 138.249, label: "上越市(高田)", type: "city", note: "桜の名所" }
+  - { lat: 37.446, lng: 138.851, label: "長岡", type: "city", note: "長岡花火で有名" }
 ---
 
 <div class="pref-tips">

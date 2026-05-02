@@ -20,6 +20,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AA%E3%83%AA%E3%83%A3"
   - text: '<span class="quiz">モロッコ</span>との国境にフェンスが設置されており、ヨーロッパとアフリカの境界に位置する'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AA%E3%83%AA%E3%83%A3#%E5%9C%B0%E7%90%86"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.293, lng: -2.939, label: "メリリャ", type: "capital", note: "スペイン領自治都市の中心地" }
+  - { lat: 35.297, lng: -2.937, label: "メリリャ・ラ・ビエハ", type: "historical", note: "16世紀の城塞旧市街" }
+  - { lat: 35.290, lng: -2.949, label: "メリリャ港", type: "port", note: "スペイン本土との連絡港" }
+  - { lat: 35.276, lng: -2.957, label: "メリリャ空港", type: "landmark", note: "市内の小規模空港" }
+  - { lat: 35.295, lng: -2.962, label: "ベニ・エンサル国境", type: "landmark", note: "モロッコとの主要な陸上国境" }
+  - { lat: 35.294, lng: -2.938, label: "プラサ・デ・エスパーニャ", type: "landmark", note: "モデルニスモ建築が並ぶ中心広場" }
 ---
 
 <div class="main-desciption country-description">

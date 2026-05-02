@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Toyama.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 36.701, lng: 137.213, label: "富山駅", type: "capital", note: "富山県の県庁所在地" }
+  - { lat: 36.578, lng: 137.617, label: "立山連峰", type: "nature", note: "北アルプス・立山黒部" }
+  - { lat: 36.755, lng: 137.026, label: "高岡", type: "city", note: "鋳物の街・高岡銅器" }
+  - { lat: 36.762, lng: 137.225, label: "富山港", type: "port", note: "日本海側の重要港湾" }
+  - { lat: 36.825, lng: 137.586, label: "黒部峡谷", type: "nature", note: "深い渓谷・トロッコ電車" }
+  - { lat: 36.413, lng: 136.880, label: "五箇山", type: "historical", note: "合掌造り・世界遺産" }
 ---
 
 <div class="pref-tips">

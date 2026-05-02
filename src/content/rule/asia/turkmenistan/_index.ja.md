@@ -18,6 +18,16 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%AF%E3%83%A0%E7%A0%82%E6%BC%A0"
   - text: '「<span class="quiz">地獄の門</span>」と呼ばれるダルヴァザの天然ガスクレーターが有名である'
     ref: "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%8D%84%E3%81%AE%E9%96%80_(%E3%83%88%E3%83%AB%E3%82%AF%E3%83%A1%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3)"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 37.960, lng: 58.326, label: "アシガバート", type: "capital", note: "トルクメニスタンの首都・白大理石建築で知られる" }
+  - { lat: 40.020, lng: 52.967, label: "トルクメンバシ", type: "port", note: "カスピ海沿岸の主要港湾都市" }
+  - { lat: 37.604, lng: 61.832, label: "マル", type: "city", note: "シルクロードの古代要衝・メルブ遺跡" }
+  - { lat: 40.252, lng: 58.439, label: "ダルヴァザ", type: "landmark", note: "「地獄の門」と呼ばれる天然ガスクレーター" }
+  - { lat: 41.834, lng: 59.967, label: "ダショグズ", type: "city", note: "北部の主要都市・クニャ・ウルゲンチへの拠点" }
+  - { lat: 39.072, lng: 63.578, label: "テュルクメナバート", type: "city", note: "東部の主要都市・アムダリヤ川沿岸" }
 ---
 
 <div class="main-desciption country-description">

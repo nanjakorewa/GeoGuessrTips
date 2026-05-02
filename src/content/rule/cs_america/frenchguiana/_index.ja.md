@@ -16,6 +16,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E3%82%AE%E3%82%A2%E3%83%8A"
   - text: '<span class="quiz">クールー</span>にある宇宙センターからアリアンロケットが打ち上げられる'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%82%A2%E3%83%8A%E5%AE%87%E5%AE%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+mapProvider: "osm"
+mapPins:
+  - { lat: 4.933, lng: -52.327, label: "カイエンヌ", type: "capital", note: "県都・行政の中心" }
+  - { lat: 5.159, lng: -52.650, label: "クールー", type: "city", note: "ギアナ宇宙センターの拠点都市" }
+  - { lat: 5.503, lng: -54.028, label: "サンローラン・デュ・マロニ", type: "city", note: "スリナム国境の旧囚人流刑地" }
+  - { lat: 4.901, lng: -52.305, label: "レミール・モンジョリー", type: "city", note: "カイエンヌ郊外の住宅都市" }
+  - { lat: 5.236, lng: -52.778, label: "ギアナ宇宙センター", type: "landmark", note: "アリアンロケット打ち上げ基地" }
+  - { lat: 5.291, lng: -52.587, label: "サルヴェーション諸島", type: "landmark", note: "悪魔島を含む旧流刑地の島々" }
 ---
 
 <div class="main-desciption country-description">

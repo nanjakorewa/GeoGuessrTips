@@ -16,6 +16,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B3%E3%83%90%E3%83%96%E3%82%A8#%E7%B5%8C%E6%B8%88"
   - text: '世界遺産の<span class="quiz">グレート・ジンバブエ</span>遺跡があり、国名の由来にもなっている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B8%E3%83%B3%E3%83%90%E3%83%96%E3%82%A8%E9%81%BA%E8%B7%A1"
+mapProvider: "osm"
+mapPins:
+  - { lat: -17.825, lng: 31.033, label: "ハラレ", type: "capital", note: "首都・北東部の最大都市" }
+  - { lat: -20.169, lng: 28.589, label: "ブラワヨ", type: "city", note: "南西部の主要都市・第2の都市" }
+  - { lat: -19.450, lng: 29.817, label: "グウェル", type: "city", note: "中央部ミッドランド州都" }
+  - { lat: -18.972, lng: 32.664, label: "ムタレ", type: "city", note: "東部マニカランド州都" }
+  - { lat: -17.924, lng: 25.857, label: "ヴィクトリアの滝（ジンバブエ側）", type: "nature", note: "世界三大瀑布の南岸" }
+  - { lat: -20.275, lng: 30.934, label: "グレート・ジンバブエ遺跡", type: "historical", note: "世界遺産・国名の由来となった石造遺跡" }
+  - { lat: -16.518, lng: 28.764, label: "カリバ湖", type: "nature", note: "ザンビアとの国境湖・人造湖" }
 ---
 
 <div class="main-desciption country-description">

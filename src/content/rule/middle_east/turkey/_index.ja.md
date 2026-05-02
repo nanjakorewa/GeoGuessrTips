@@ -23,6 +23,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%9D%E3%83%A9%E3%82%B9%E6%B5%B7%E5%B3%A1"
   - text: '<span class="quiz">カッパドキア</span>の奇岩群や<span class="quiz">パムッカレ</span>の石灰棚など多くの世界遺産がある'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%83%E3%83%91%E3%83%89%E3%82%AD%E3%82%A2"
+mapProvider: "osm"
+mapPins:
+  - { lat: 39.933, lng: 32.866, label: "アンカラ", type: "capital", note: "首都・アナトリア中央部の都市" }
+  - { lat: 41.013, lng: 28.949, label: "イスタンブール", type: "city", note: "国内最大の都市・ボスポラス海峡を跨ぐ" }
+  - { lat: 38.419, lng: 27.129, label: "イズミル", type: "port", note: "エーゲ海沿岸の主要港湾都市" }
+  - { lat: 36.897, lng: 30.713, label: "アンタルヤ", type: "city", note: "地中海沿岸のリゾート地" }
+  - { lat: 38.643, lng: 34.829, label: "カッパドキア", type: "landmark", note: "奇岩と気球で有名な世界遺産" }
+  - { lat: 37.924, lng: 29.121, label: "パムッカレ", type: "nature", note: "石灰棚の世界遺産" }
+  - { lat: 37.875, lng: 27.264, label: "エフェソス", type: "historical", note: "古代ギリシア・ローマの遺跡" }
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,16 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%94%E3%83%89%E3%83%BC"
   - text: '<span class="quiz">シュエダゴン・パゴダ</span>は高さ約100mの黄金の仏塔でミャンマー最大の聖地である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%80%E3%82%B4%E3%83%B3%E3%83%BB%E3%83%91%E3%82%B4%E3%83%80"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 19.745, lng: 96.115, label: "ネピドー", type: "capital", note: "ミャンマーの首都・2006年に遷都" }
+  - { lat: 16.866, lng: 96.195, label: "ヤンゴン", type: "city", note: "旧首都・最大の経済都市" }
+  - { lat: 16.793, lng: 96.149, label: "シュエダゴン・パゴダ", type: "landmark", note: "黄金の仏塔・ミャンマー最大の聖地" }
+  - { lat: 21.975, lng: 96.084, label: "マンダレー", type: "city", note: "中部の主要都市・最後の王朝の都" }
+  - { lat: 21.171, lng: 94.858, label: "バガン", type: "historical", note: "世界遺産・無数のパゴダが残る古都" }
+  - { lat: 20.368, lng: 96.916, label: "インレー湖", type: "nature", note: "高地にある湖・水上集落で有名" }
 ---
 
 <div class="main-desciption country-description">

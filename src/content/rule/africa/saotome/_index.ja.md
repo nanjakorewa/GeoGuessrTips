@@ -22,6 +22,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%A1%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%9A"
   - text: '旧<span class="quiz">ポルトガル</span>植民地であり、かつてはカカオの世界最大の生産地だった'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%A1%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%9A#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 0.336, lng: 6.731, label: "サントメ", type: "capital", note: "首都・サントメ島の最大都市" }
+  - { lat: 1.638, lng: 7.418, label: "サントアントニオ", type: "city", note: "プリンシペ島の中心都市" }
+  - { lat: 0.183, lng: 6.638, label: "サンタナ", type: "city", note: "サントメ島東部の町" }
+  - { lat: 0.066, lng: 6.532, label: "サンジョアン・ドス・アンゴラレス", type: "city", note: "島南部の町" }
+  - { lat: 0.282, lng: 6.580, label: "ピコ・デ・サントメ", type: "nature", note: "島最高峰（2,024m）の火山" }
+  - { lat: 1.612, lng: 7.404, label: "ピコ・カオン・グランデ", type: "landmark", note: "プリンシペ島の象徴的火山岩塔" }
 ---
 
 <div class="main-desciption country-description">

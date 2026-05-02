@@ -19,6 +19,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%83%E3%82%AB"
   - text: '世界最大の<span class="quiz">原油</span>輸出国であり国営のサウジアラムコは世界最大級の企業である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%A0%E3%82%B3"
+mapProvider: "osm"
+mapPins:
+  - { lat: 24.713, lng: 46.675, label: "リヤド", type: "capital", note: "首都・国内最大の都市" }
+  - { lat: 21.423, lng: 39.826, label: "メッカ", type: "historical", note: "イスラム教最大の聖地" }
+  - { lat: 24.470, lng: 39.612, label: "メディナ", type: "historical", note: "イスラム教第二の聖地" }
+  - { lat: 21.486, lng: 39.193, label: "ジッダ", type: "port", note: "紅海沿岸の主要港湾都市・メッカへの玄関口" }
+  - { lat: 26.420, lng: 50.088, label: "ダンマーム", type: "city", note: "東部州の中心・石油産業の拠点" }
+  - { lat: 18.213, lng: 42.505, label: "アブハー", type: "city", note: "南西部のアシール州の中心都市" }
+  - { lat: 26.629, lng: 37.948, label: "ヘグラ（マダイン・サーレハ）", type: "historical", note: "ナバテア人の遺跡・世界遺産" }
 ---
 
 <div class="main-desciption country-description">

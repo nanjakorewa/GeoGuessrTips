@@ -16,6 +16,14 @@ sc: [
     ["../israel/", "イスラエル"],
     ["../jordan/", "ヨルダン"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.905, lng: 35.204, label: "ラマッラー", type: "capital", note: "事実上の行政中心地" }
+  - { lat: 31.706, lng: 35.207, label: "ベツレヘム", type: "historical", note: "イエス・キリスト生誕の地・聖誕教会" }
+  - { lat: 31.529, lng: 35.097, label: "ヘブロン", type: "city", note: "ヨルダン川西岸地区南部の主要都市" }
+  - { lat: 32.221, lng: 35.262, label: "ナーブルス", type: "city", note: "西岸地区北部の経済・文化の中心" }
+  - { lat: 31.534, lng: 34.467, label: "ガザ", type: "city", note: "ガザ地区の中心都市・地中海沿い" }
+  - { lat: 31.857, lng: 35.461, label: "エリコ", type: "historical", note: "世界最古の都市の一つ" }
 ---
 
 <div class="main-desciption country-description">

@@ -13,6 +13,14 @@ relatedIndustry:
   - "/industry/japan-combinat/keiyo/"
   - "/industry/japan-food-combinat/"
   - "/industry/japan-shipbuilding/"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.613, lng: 140.113, label: "千葉駅", type: "capital", note: "千葉県の県庁所在地" }
+  - { lat: 35.776, lng: 140.318, label: "成田空港", type: "landmark", note: "国際線の玄関口" }
+  - { lat: 35.633, lng: 139.881, label: "浦安(東京ディズニーリゾート)", type: "landmark", note: "国内最大級のテーマパーク" }
+  - { lat: 34.997, lng: 139.844, label: "館山", type: "city", note: "南房総の港町" }
+  - { lat: 35.735, lng: 140.827, label: "銚子", type: "port", note: "本州最東端・醤油の街" }
+  - { lat: 35.376, lng: 139.917, label: "木更津", type: "city", note: "アクアライン東岸" }
 ---
 
 <div class="pref-tips">

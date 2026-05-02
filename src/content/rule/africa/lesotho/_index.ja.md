@@ -19,6 +19,15 @@ sc: [
 features:
   - text: '四方を<span class="quiz">南アフリカ共和国</span>に完全に囲まれた内陸国である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%BD%E3%83%88#%E5%9C%B0%E7%90%86"
+mapProvider: "osm"
+mapPins:
+  - { lat: -29.310, lng: 27.479, label: "マセル", type: "capital", note: "首都・西部国境のカレドン川沿い" }
+  - { lat: -29.523, lng: 27.737, label: "テヤテヤネング", type: "city", note: "北部の主要都市" }
+  - { lat: -29.700, lng: 27.713, label: "マフェテン", type: "city", note: "南西部の都市" }
+  - { lat: -30.150, lng: 27.700, label: "モハレズ・フック", type: "city", note: "南部の中心都市" }
+  - { lat: -29.620, lng: 28.222, label: "タバ・ボシウ", type: "historical", note: "建国王モショエショエ1世の山上要塞" }
+  - { lat: -29.470, lng: 28.768, label: "サニ・パス", type: "landmark", note: "ドラケンスバーグ山脈の峠・標高2,876m" }
+  - { lat: -29.466, lng: 29.272, label: "タバナ・ントレニャナ", type: "nature", note: "南部アフリカ最高峰（3,482m）" }
 ---
 
 <div class="main-desciption country-description">

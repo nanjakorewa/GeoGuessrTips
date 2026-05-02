@@ -16,6 +16,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%A4%E3%82%A2%E3%83%8A"
   - text: '世界最大級の単一落差を持つ<span class="quiz">カイエトゥール滝</span>がある'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%82%A8%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB%E6%BB%9D"
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.802, lng: -58.167, label: "ジョージタウン", type: "capital", note: "首都・大西洋岸の港湾都市" }
+  - { lat: 6.404, lng: -58.625, label: "リンデン", type: "city", note: "ボーキサイト鉱業の中心都市" }
+  - { lat: 6.000, lng: -57.520, label: "ニューアムステルダム", type: "city", note: "東部の主要都市" }
+  - { lat: 5.012, lng: -59.283, label: "カイエトゥール滝", type: "landmark", note: "世界最大級の単一落差226mの滝" }
+  - { lat: 4.000, lng: -58.500, label: "イウォクラマ熱帯雨林", type: "nature", note: "中部の大規模な熱帯雨林保護区" }
+  - { lat: 7.747, lng: -59.214, label: "マブルマ", type: "city", note: "北西部の小さな町・先住民居住地" }
 ---
 
 <div class="main-desciption country-description">

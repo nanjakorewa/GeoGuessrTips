@@ -24,6 +24,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%9E%E3%83%AA%E3%83%8E"
   - text: 'イタリアに完全に囲まれた国で、<span class="quiz">ティターノ山</span>の山頂に3つの塔が立つ景観がシンボルとなっている'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%82%BF%E3%83%BC%E3%83%8E%E5%B1%B1"
+mapProvider: "osm"
+mapPins:
+  - { lat: 43.936, lng: 12.447, label: "サンマリノ市", type: "capital", note: "首都・世界遺産の歴史地区" }
+  - { lat: 43.940, lng: 12.446, label: "ティターノ山", type: "nature", note: "三つの塔を擁する象徴的な山" }
+  - { lat: 43.937, lng: 12.448, label: "グアイタの塔", type: "historical", note: "第一の塔・国旗の象徴" }
+  - { lat: 43.951, lng: 12.434, label: "ボルゴ・マッジョーレ", type: "city", note: "国内第二の都市" }
+  - { lat: 43.960, lng: 12.466, label: "ドガーナ", type: "city", note: "イタリア国境付近の商業地区" }
+  - { lat: 43.980, lng: 12.440, label: "セラヴァッレ", type: "city", note: "国内最大の自治体" }
 ---
 
 <div class="main-desciption country-description">

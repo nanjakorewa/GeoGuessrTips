@@ -21,6 +21,17 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB"
   - text: '<span class="quiz">マーライオン</span>はシンガポールを象徴するランドマークである'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 1.290, lng: 103.851, label: "シンガポール", type: "capital", note: "都市国家・東南アジアの金融ハブ" }
+  - { lat: 1.287, lng: 103.854, label: "マリーナベイサンズ", type: "landmark", note: "象徴的な3棟一体型ホテル" }
+  - { lat: 1.286, lng: 103.854, label: "マーライオン", type: "landmark", note: "シンガポールを象徴する像" }
+  - { lat: 1.282, lng: 103.864, label: "ガーデンズバイザベイ", type: "landmark", note: "巨大な人工植物園" }
+  - { lat: 1.284, lng: 103.851, label: "セントーサ島", type: "nature", note: "南部のリゾート島" }
+  - { lat: 1.434, lng: 103.786, label: "チャンギ国際空港", type: "landmark", note: "世界最高評価の国際空港" }
+  - { lat: 1.305, lng: 103.832, label: "オーチャードロード", type: "city", note: "メインショッピングストリート" }
 ---
 
 <div class="main-desciption country-description">

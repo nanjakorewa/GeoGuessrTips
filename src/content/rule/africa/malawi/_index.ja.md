@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4%E6%B9%96"
   - text: '旧イギリス保護領で公用語は<span class="quiz">英語</span>、「アフリカの温かい心」と呼ばれる'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4"
+mapProvider: "osm"
+mapPins:
+  - { lat: -13.962, lng: 33.774, label: "リロングウェ", type: "capital", note: "首都・中央部の最大都市" }
+  - { lat: -15.786, lng: 35.005, label: "ブランタイヤ", type: "city", note: "南部の経済中心地・第2の都市" }
+  - { lat: -11.467, lng: 34.018, label: "ムズズ", type: "city", note: "北部の中心都市" }
+  - { lat: -15.385, lng: 35.331, label: "ゾンバ", type: "historical", note: "旧首都・植民地時代の中心地" }
+  - { lat: -12.000, lng: 34.500, label: "マラウイ湖", type: "nature", note: "アフリカ第3位の湖・国土の約20%を占める" }
+  - { lat: -14.420, lng: 35.318, label: "ムランジェ山", type: "nature", note: "南部の独立峰（3,002m）" }
 ---
 
 <div class="main-desciption country-description">

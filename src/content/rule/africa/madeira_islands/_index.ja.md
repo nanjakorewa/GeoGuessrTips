@@ -22,6 +22,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%87%E3%82%A4%E3%83%A9%E8%AB%B8%E5%B3%B6"
   - text: 'サッカー選手<span class="quiz">クリスティアーノ・ロナウド</span>の出身地として知られる'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8E%E3%83%BB%E3%83%AD%E3%83%8A%E3%82%A6%E3%83%89"
+mapProvider: "osm"
+mapPins:
+  - { lat: 32.650, lng: -16.908, label: "フンシャル", type: "capital", note: "マデイラ諸島の州都・最大都市" }
+  - { lat: 32.737, lng: -16.764, label: "マシコ", type: "city", note: "歴史ある港町・最初の入植地" }
+  - { lat: 32.749, lng: -17.180, label: "サン・ヴィセンテ", type: "city", note: "北岸の町・火山洞窟で有名" }
+  - { lat: 32.866, lng: -17.196, label: "ポルト・モニス", type: "city", note: "天然海水プールで知られる北西部の町" }
+  - { lat: 32.758, lng: -16.929, label: "ピコ・ルイヴォ", type: "nature", note: "マデイラ最高峰（1,862m）" }
+  - { lat: 33.073, lng: -16.337, label: "ポルト・サント島", type: "nature", note: "黄金の砂浜で有名な姉妹島" }
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E5%8D%97%E6%96%B9%E3%83%BB%E5%8D%97%E6%A5%B5%E5%9C%B0%E5%9F%9F"
   - text: '<span class="quiz">ケルゲレン諸島</span>を含み数種のペンギンやアザラシの繁殖地となっている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%82%B2%E3%83%AC%E3%83%B3%E8%AB%B8%E5%B3%B6"
+mapProvider: "osm"
+mapPins:
+  - { lat: -49.351, lng: 70.219, label: "ポール・オ・フランセ", type: "capital", note: "ケルゲレン諸島の主要研究基地" }
+  - { lat: -49.350, lng: 70.220, label: "ケルゲレン諸島", type: "nature", note: "南インド洋の無人諸島" }
+  - { lat: -37.823, lng: 77.553, label: "アムステルダム島", type: "nature", note: "亜南極の火山島" }
+  - { lat: -38.722, lng: 77.539, label: "サン＝ポール島", type: "nature", note: "アムステルダム島近くの無人火山島" }
+  - { lat: -46.400, lng: 51.700, label: "クローゼ諸島", type: "nature", note: "ペンギンの繁殖地として知られる" }
+  - { lat: -66.667, lng: 140.001, label: "アデリーランド", type: "landmark", note: "南極大陸のフランス領区域・デュモン・デュルヴィル基地" }
 ---
 
 <div class="main-desciption country-description">

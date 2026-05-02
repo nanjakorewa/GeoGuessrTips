@@ -9,6 +9,14 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Fukuoka.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.590, lng: 130.421, label: "博多駅", type: "capital", note: "福岡県の県庁所在地・九州最大都市" }
+  - { lat: 33.589, lng: 130.398, label: "天神", type: "city", note: "福岡の繁華街" }
+  - { lat: 33.876, lng: 130.882, label: "北九州(小倉)", type: "city", note: "工業都市・関門海峡" }
+  - { lat: 33.518, lng: 130.535, label: "太宰府天満宮", type: "historical", note: "学問の神様" }
+  - { lat: 33.585, lng: 130.450, label: "福岡空港", type: "landmark", note: "市街地に近い空港" }
+  - { lat: 33.165, lng: 130.408, label: "柳川", type: "city", note: "水郷の街" }
 ---
 
 <div class="pref-tips">

@@ -20,6 +20,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B0%E3%82%A2%E3%82%A4"
   - text: 'ブラジルとの国境にある<span class="quiz">イタイプダム</span>は世界最大級の水力発電所である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%97%E3%83%80%E3%83%A0"
+mapProvider: "osm"
+mapPins:
+  - { lat: -25.264, lng: -57.575, label: "アスンシオン", type: "capital", note: "首都・パラグアイ川沿いの最大都市" }
+  - { lat: -25.508, lng: -54.611, label: "シウダー・デル・エステ", type: "city", note: "ブラジル国境の商業都市" }
+  - { lat: -25.341, lng: -57.514, label: "ルケ", type: "city", note: "首都圏の主要都市" }
+  - { lat: -27.333, lng: -55.867, label: "エンカルナシオン", type: "city", note: "アルゼンチン国境の南部都市" }
+  - { lat: -25.408, lng: -54.589, label: "イタイプダム", type: "landmark", note: "世界最大級の水力発電ダム" }
+  - { lat: -27.327, lng: -55.541, label: "イエズス会伝道所遺跡", type: "historical", note: "ラ・サンティシマ・トリニダの世界遺産" }
 ---
 
 <div class="main-desciption country-description">

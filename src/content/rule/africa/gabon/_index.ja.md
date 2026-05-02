@@ -16,6 +16,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%9C%E3%83%B3"
   - text: '<span class="quiz">石油</span>と<span class="quiz">マンガン</span>の輸出が経済の中心であり、アフリカの中では比較的所得が高い'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%9C%E3%83%B3#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 0.418, lng: 9.467, label: "リーブルヴィル", type: "capital", note: "首都・大西洋岸の最大都市" }
+  - { lat: -0.717, lng: 8.783, label: "ポール・ジャンティ", type: "port", note: "石油産業の中心地・第2の都市" }
+  - { lat: -1.633, lng: 13.583, label: "フランスヴィル", type: "city", note: "南東部の主要都市・マンガン鉱床" }
+  - { lat: 0.700, lng: 10.250, label: "オエム", type: "city", note: "北部の都市・カカオ生産地" }
+  - { lat: -1.633, lng: 13.583, label: "ムワンダ", type: "city", note: "マンガン鉱業の中心地" }
+  - { lat: -0.700, lng: 12.700, label: "ロペ国立公園", type: "nature", note: "世界遺産の熱帯雨林保護区" }
 ---
 
 <div class="main-desciption country-description">

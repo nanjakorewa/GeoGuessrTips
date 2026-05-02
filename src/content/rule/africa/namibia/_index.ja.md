@@ -24,6 +24,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%9F%E3%83%96%E7%A0%82%E6%BC%A0"
   - text: '人口密度がアフリカで最も低い国の一つであり、<span class="quiz">ダイヤモンド</span>やウランの産出国として知られる'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%9F%E3%83%93%E3%82%A2#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: -22.560, lng: 17.083, label: "ヴィントフック", type: "capital", note: "首都・中央高原の最大都市" }
+  - { lat: -22.679, lng: 14.527, label: "ウォルビスベイ", type: "port", note: "大西洋岸の主要港湾都市" }
+  - { lat: -22.957, lng: 14.508, label: "スワコプムント", type: "city", note: "ドイツ植民地時代の建築が残る海岸都市" }
+  - { lat: -19.764, lng: 17.077, label: "オチワロンゴ", type: "city", note: "北部の主要都市" }
+  - { lat: -24.737, lng: 15.290, label: "ソススブレイ", type: "nature", note: "ナミブ砂漠の赤い砂丘で有名" }
+  - { lat: -19.500, lng: 15.917, label: "エトーシャ国立公園", type: "nature", note: "塩湖と野生動物保護区" }
+  - { lat: -27.673, lng: 17.156, label: "フィッシュリバー・キャニオン", type: "nature", note: "アフリカ最大級の渓谷" }
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
   - text: '2022年に法定通貨として<span class="quiz">ビットコイン</span>を採用した世界で2番目の国である'
     ref: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 4.394, lng: 18.557, label: "バンギ", type: "capital", note: "首都・ウバンギ川沿いの最大都市" }
+  - { lat: 5.952, lng: 20.673, label: "ブリア", type: "city", note: "東部の中心都市・ダイヤモンド産地" }
+  - { lat: 4.733, lng: 22.817, label: "バンガスー", type: "city", note: "南東部の交易都市" }
+  - { lat: 6.257, lng: 14.541, label: "ボッサンゴア", type: "city", note: "北西部の主要都市" }
+  - { lat: 7.262, lng: 18.557, label: "カガ・バンドロ", type: "city", note: "中北部の都市" }
+  - { lat: 8.566, lng: 22.911, label: "ンデレ", type: "city", note: "北部の都市・国境地帯の拠点" }
 ---
 
 <div class="main-desciption country-description">

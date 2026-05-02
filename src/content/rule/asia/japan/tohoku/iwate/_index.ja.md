@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Iwate.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 39.702, lng: 141.137, label: "盛岡駅", type: "capital", note: "岩手県の県庁所在地" }
+  - { lat: 39.143, lng: 141.140, label: "奥州市水沢", type: "city", note: "南部鉄器の産地" }
+  - { lat: 39.084, lng: 141.717, label: "釜石", type: "port", note: "三陸の港町・製鉄の街" }
+  - { lat: 39.288, lng: 141.901, label: "宮古", type: "port", note: "三陸海岸の港町" }
+  - { lat: 39.529, lng: 141.960, label: "浄土ヶ浜", type: "nature", note: "三陸復興国立公園・景勝地" }
+  - { lat: 39.000, lng: 141.117, label: "中尊寺", type: "historical", note: "平泉・世界遺産" }
 ---
 
 <div class="pref-tips">

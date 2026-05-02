@@ -16,6 +16,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E3%81%AE%E6%BB%9D"
   - text: '<span class="quiz">銅</span>の産出で知られるカッパーベルトがあり、銅の輸出が経済の中心となっている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%B3%E3%83%93%E3%82%A2#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: -15.387, lng: 28.323, label: "ルサカ", type: "capital", note: "首都・中部の最大都市" }
+  - { lat: -12.802, lng: 28.214, label: "キトウェ", type: "city", note: "カッパーベルト州の主要都市・銅鉱業中心地" }
+  - { lat: -12.972, lng: 28.638, label: "ンドラ", type: "city", note: "カッパーベルト州都" }
+  - { lat: -10.218, lng: 31.183, label: "カサマ", type: "city", note: "北部州の中心都市" }
+  - { lat: -17.851, lng: 25.866, label: "リビングストン", type: "city", note: "南部の観光都市・ヴィクトリアの滝の玄関口" }
+  - { lat: -17.924, lng: 25.857, label: "ヴィクトリアの滝", type: "nature", note: "世界三大瀑布の一つ・ザンベジ川にかかる" }
+  - { lat: -15.500, lng: 27.000, label: "カフエ国立公園", type: "nature", note: "アフリカ最大級の野生動物保護区" }
 ---
 
 <div class="main-desciption country-description">

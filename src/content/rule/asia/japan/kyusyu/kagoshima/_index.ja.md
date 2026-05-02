@@ -9,6 +9,14 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Kagoshima.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.583, lng: 130.541, label: "鹿児島中央駅", type: "capital", note: "鹿児島県の県庁所在地" }
+  - { lat: 31.589, lng: 130.657, label: "桜島", type: "nature", note: "活火山・鹿児島のシンボル" }
+  - { lat: 31.235, lng: 130.633, label: "指宿", type: "nature", note: "砂むし温泉" }
+  - { lat: 30.385, lng: 130.587, label: "屋久島", type: "nature", note: "縄文杉・世界遺産" }
+  - { lat: 31.617, lng: 130.555, label: "仙巌園", type: "historical", note: "島津家の別邸" }
+  - { lat: 28.378, lng: 129.494, label: "奄美大島", type: "nature", note: "亜熱帯の島・世界遺産" }
 ---
 
 <div class="pref-tips">

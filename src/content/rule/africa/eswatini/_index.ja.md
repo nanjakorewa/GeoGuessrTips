@@ -21,6 +21,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%AF%E3%83%86%E3%82%A3%E3%83%8B"
   - text: '国土は標高によって<span class="quiz">ハイベルト</span>・ミドルベルト・ローベルトの3地域に分かれている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%AF%E3%83%86%E3%82%A3%E3%83%8B#%E5%9C%B0%E7%90%86"
+mapProvider: "osm"
+mapPins:
+  - { lat: -26.305, lng: 31.137, label: "ムババーネ", type: "capital", note: "行政首都・ハイベルト地域の都市" }
+  - { lat: -26.450, lng: 31.200, label: "ロバンバ", type: "capital", note: "王室・立法首都" }
+  - { lat: -26.518, lng: 31.677, label: "マンジニ", type: "city", note: "最大都市・経済の中心地" }
+  - { lat: -26.530, lng: 31.198, label: "エズルウィニ渓谷", type: "nature", note: "観光と王宮の中心地域" }
+  - { lat: -26.823, lng: 31.135, label: "ニャニャ", type: "city", note: "南部の主要都市・砂糖産業の拠点" }
+  - { lat: -27.103, lng: 31.946, label: "ビッグ・ベンド", type: "city", note: "南東部ローベルトの町・サトウキビ栽培で有名" }
 ---
 
 <div class="main-desciption country-description">

@@ -25,6 +25,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3"
   - text: '活火山である<span class="quiz">ピトン・ドゥ・ラ・フルネーズ</span>があり、世界で最も活発な火山の一つとして知られる'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%88%E3%83%B3%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%95%E3%83%AB%E3%83%8D%E3%83%BC%E3%82%BA"
+mapProvider: "osm"
+mapPins:
+  - { lat: -20.879, lng: 55.448, label: "サンドニ", type: "capital", note: "中心都市・北部の県都" }
+  - { lat: -21.341, lng: 55.477, label: "サンピエール", type: "city", note: "南部の主要都市" }
+  - { lat: -21.117, lng: 55.531, label: "サンブノワ", type: "city", note: "東部の中心都市" }
+  - { lat: -21.244, lng: 55.708, label: "ピトン・ドゥ・ラ・フルネーズ", type: "nature", note: "世界有数の活火山（2,632m）" }
+  - { lat: -21.097, lng: 55.474, label: "ピトン・デ・ネージュ", type: "nature", note: "島の最高峰（3,070m）" }
+  - { lat: -21.063, lng: 55.392, label: "シラオス", type: "city", note: "山岳地帯の温泉町" }
 ---
 
 <div class="main-desciption country-description">

@@ -22,6 +22,15 @@ sc: [
 features:
   - text: 'インカ帝国の中心地であり、<span class="quiz">マチュ・ピチュ</span>などの遺跡が世界遺産に登録されている'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BB%E3%83%94%E3%83%81%E3%83%A5"
+mapProvider: "osm"
+mapPins:
+  - { lat: -12.046, lng: -77.043, label: "リマ", type: "capital", note: "首都・太平洋岸の最大都市" }
+  - { lat: -16.409, lng: -71.537, label: "アレキパ", type: "city", note: "南部の白い街・世界遺産" }
+  - { lat: -13.532, lng: -71.967, label: "クスコ", type: "city", note: "旧インカ帝国の都・標高約3,400mの世界遺産" }
+  - { lat: -8.112, lng: -79.029, label: "トルヒーヨ", type: "city", note: "北部沿岸の主要都市" }
+  - { lat: -3.749, lng: -73.254, label: "イキトス", type: "city", note: "アマゾン川流域の最大都市" }
+  - { lat: -13.163, lng: -72.545, label: "マチュ・ピチュ", type: "landmark", note: "標高2,430mのインカ遺跡・世界遺産" }
+  - { lat: -15.823, lng: -69.333, label: "チチカカ湖", type: "landmark", note: "ボリビア国境の高地湖・標高3,810m" }
 ---
 
 <div class="main-desciption country-description">

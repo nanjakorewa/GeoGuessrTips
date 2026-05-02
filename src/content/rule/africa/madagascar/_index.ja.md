@@ -19,6 +19,15 @@ features:
   - text: '<span class="quiz">バオバブ</span>の木が象徴的な景観を形成しており、8種のうち6種がマダガスカル固有種である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AA%E3%83%90%E3%83%96"
   - text: '日本で消費されるバニラの7割以上はマダガスカルから輸入されている'
+mapProvider: "osm"
+mapPins:
+  - { lat: -18.879, lng: 47.508, label: "アンタナナリボ", type: "capital", note: "首都・中央高地の最大都市" }
+  - { lat: -18.155, lng: 49.412, label: "トアマシナ", type: "port", note: "東岸の最大港湾都市" }
+  - { lat: -23.354, lng: 43.667, label: "トリアラ", type: "city", note: "南西部モザンビーク海峡岸の都市" }
+  - { lat: -12.275, lng: 49.292, label: "アンツィラナナ", type: "port", note: "北端の港湾都市・旧ディエゴスアレス" }
+  - { lat: -19.866, lng: 47.034, label: "アンツィラベ", type: "city", note: "中央高地の温泉と工業の街" }
+  - { lat: -20.250, lng: 44.420, label: "バオバブ街道", type: "landmark", note: "ムルンダヴァ近郊の象徴的バオバブ並木" }
+  - { lat: -18.725, lng: 44.815, label: "ツィンギ・デ・ベマラハ", type: "nature", note: "世界遺産の石灰岩尖塔群" }
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B6%E3%83%B3%E3%83%93%E3%83%BC%E3%82%AF"
   - text: '国旗に<span class="quiz">AK-47</span>が描かれている世界で唯一の国である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B6%E3%83%B3%E3%83%93%E3%83%BC%E3%82%AF%E3%81%AE%E5%9B%BD%E6%97%97"
+mapProvider: "osm"
+mapPins:
+  - { lat: -25.966, lng: 32.583, label: "マプト", type: "capital", note: "首都・南端部の港湾首都" }
+  - { lat: -19.834, lng: 34.840, label: "ベイラ", type: "port", note: "中部の主要港湾都市・第2の都市" }
+  - { lat: -15.117, lng: 39.267, label: "ナンプラ", type: "city", note: "北部の主要都市" }
+  - { lat: -12.973, lng: 40.518, label: "ペンバ", type: "port", note: "北部カボデルガード州の州都・港町" }
+  - { lat: -19.117, lng: 33.483, label: "シモイオ", type: "city", note: "中西部の主要都市" }
+  - { lat: -15.030, lng: 40.733, label: "モザンビーク島", type: "historical", note: "世界遺産の旧首都・ポルトガル植民地遺産" }
 ---
 
 <div class="main-desciption country-description">

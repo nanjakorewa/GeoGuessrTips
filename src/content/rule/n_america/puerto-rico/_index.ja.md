@@ -23,6 +23,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3"
   - text: '16世紀にスペインが建設した<span class="quiz">サン・フアン</span>の旧市街は世界遺産に登録されている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A2%E3%83%B3_(%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3)"
+mapProvider: "osm"
+mapPins:
+  - { lat: 18.466, lng: -66.106, label: "サン・フアン", type: "capital", note: "首都・北岸の最大都市・世界遺産の旧市街" }
+  - { lat: 18.201, lng: -67.140, label: "マヤグエス", type: "city", note: "西岸の主要都市" }
+  - { lat: 18.011, lng: -66.614, label: "ポンセ", type: "city", note: "南岸の第2の都市" }
+  - { lat: 18.202, lng: -65.717, label: "ファハルド", type: "port", note: "東岸のヨットハーバー・離島フェリー拠点" }
+  - { lat: 18.471, lng: -66.123, label: "エル・モロ要塞", type: "historical", note: "サン・フアン旧市街の世界遺産城塞" }
+  - { lat: 18.314, lng: -65.792, label: "エル・ユンケ国立森林", type: "nature", note: "米国唯一の熱帯雨林国有林" }
 ---
 
 <div class="main-desciption country-description">

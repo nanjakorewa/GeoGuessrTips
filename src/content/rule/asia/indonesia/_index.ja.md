@@ -26,6 +26,17 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2"
   - text: '世界最大の<span class="quiz">ムスリム</span>人口を擁する国である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E3%81%AE%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%A0"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: -6.208, lng: 106.846, label: "ジャカルタ", type: "capital", note: "インドネシアの首都・最大都市" }
+  - { lat: -7.257, lng: 112.752, label: "スラバヤ", type: "city", note: "ジャワ島東部の主要都市" }
+  - { lat: -6.917, lng: 107.619, label: "バンドン", type: "city", note: "ジャワ島西部の主要都市・高原に位置" }
+  - { lat: -8.409, lng: 115.189, label: "デンパサール", type: "city", note: "バリ島の中心都市" }
+  - { lat: -7.608, lng: 110.204, label: "ボロブドゥール", type: "landmark", note: "世界遺産・世界最大級の仏教遺跡" }
+  - { lat: 3.595, lng: 98.673, label: "メダン", type: "city", note: "スマトラ島最大の都市" }
+  - { lat: -8.342, lng: 115.508, label: "アグン山", type: "nature", note: "バリ島最高峰の活火山（標高3,031m）" }
 ---
 
 <div class="main-desciption country-description">

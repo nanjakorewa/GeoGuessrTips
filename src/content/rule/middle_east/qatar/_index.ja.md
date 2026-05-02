@@ -23,6 +23,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%AB"
   - text: '2022年に中東初の<span class="quiz">FIFAワールドカップ</span>が開催された'
     ref: "https://ja.wikipedia.org/wiki/2022_FIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97"
+mapProvider: "osm"
+mapPins:
+  - { lat: 25.286, lng: 51.534, label: "ドーハ", type: "capital", note: "首都・人口の大半が集中" }
+  - { lat: 25.682, lng: 51.530, label: "アル・ホール", type: "city", note: "北部の漁業・天然ガス産業の街" }
+  - { lat: 25.290, lng: 51.520, label: "イスラム美術館", type: "landmark", note: "ドーハの代表的文化施設" }
+  - { lat: 25.412, lng: 50.842, label: "ドゥハーン", type: "city", note: "西海岸の石油生産地" }
+  - { lat: 25.476, lng: 51.491, label: "アル・ラヤン", type: "city", note: "ドーハ西部の主要都市" }
+  - { lat: 24.880, lng: 51.550, label: "メサイード", type: "port", note: "南部の工業港湾都市" }
 ---
 
 <div class="main-desciption country-description">

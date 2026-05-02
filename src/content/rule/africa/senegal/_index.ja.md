@@ -23,6 +23,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A9%E3%83%AA%E3%83%BC"
   - text: '<span class="quiz">落花生</span>の生産が主要産業であり、国の輸出の大きな割合を占めている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%8D%E3%82%AC%E3%83%AB#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 14.716, lng: -17.467, label: "ダカール", type: "capital", note: "首都・大西洋岸の最大都市" }
+  - { lat: 14.671, lng: -17.439, label: "ゴレ島", type: "historical", note: "世界遺産の旧奴隷貿易拠点" }
+  - { lat: 14.792, lng: -16.927, label: "ティエス", type: "city", note: "西部の主要都市・鉄道の要衝" }
+  - { lat: 14.480, lng: -16.072, label: "カオラック", type: "city", note: "中西部の主要都市・落花生集散地" }
+  - { lat: 16.018, lng: -16.500, label: "サンルイ", type: "historical", note: "世界遺産の旧仏領セネガルの首都" }
+  - { lat: 12.567, lng: -16.267, label: "ジガンショール", type: "city", note: "南部カザマンス地方の中心都市" }
+  - { lat: 14.183, lng: -16.083, label: "シネサルム・デルタ", type: "nature", note: "ユネスコ生物圏保存地域のマングローブデルタ" }
 ---
 
 <div class="main-desciption country-description">

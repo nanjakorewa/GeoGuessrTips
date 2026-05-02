@@ -23,6 +23,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%A9"
   - text: '国土の約80%が<span class="quiz">砂漠</span>であり水資源が極めて乏しい'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%AB%E3%83%80%E3%83%B3"
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.949, lng: 35.933, label: "アンマン", type: "capital", note: "首都・国内最大の都市" }
+  - { lat: 32.073, lng: 35.892, label: "ザルカ", type: "city", note: "工業地帯のある第二の都市" }
+  - { lat: 32.555, lng: 35.851, label: "イルビド", type: "city", note: "北部の主要都市" }
+  - { lat: 30.328, lng: 35.444, label: "ペトラ", type: "historical", note: "ナバテア王国の遺跡・世界遺産" }
+  - { lat: 29.532, lng: 35.006, label: "アカバ", type: "port", note: "紅海に面した唯一の港湾都市" }
+  - { lat: 29.575, lng: 35.420, label: "ワディ・ラム", type: "nature", note: "赤い砂漠の景観・世界遺産" }
+  - { lat: 31.500, lng: 35.500, label: "死海", type: "nature", note: "イスラエルとの国境にある塩湖" }
 ---
 
 <div class="main-desciption country-description">

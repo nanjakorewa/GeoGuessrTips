@@ -26,6 +26,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BF%E3%82%AB%E3%83%9E%E7%A0%82%E6%BC%A0"
   - text: '世界最大の<span class="quiz">銅</span>の生産国であり、鉱業が経済の柱である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%AA#%E9%89%B1%E6%A5%AD"
+mapProvider: "osm"
+mapPins:
+  - { lat: -33.448, lng: -70.669, label: "サンティアゴ", type: "capital", note: "首都・アンデス山麓の最大都市" }
+  - { lat: -33.045, lng: -71.620, label: "バルパライソ", type: "city", note: "中部の港湾都市・世界遺産の旧市街" }
+  - { lat: -36.827, lng: -73.050, label: "コンセプシオン", type: "city", note: "南中部の主要都市" }
+  - { lat: -23.650, lng: -70.398, label: "アントファガスタ", type: "city", note: "アタカマ砂漠の鉱業の中心" }
+  - { lat: -23.500, lng: -68.500, label: "アタカマ砂漠", type: "nature", note: "世界で最も乾燥した砂漠" }
+  - { lat: -27.121, lng: -109.367, label: "イースター島", type: "landmark", note: "モアイ像で知られる絶海の孤島" }
+  - { lat: -41.469, lng: -72.940, label: "プエルト・モン", type: "port", note: "湖水地方とパタゴニアの玄関口" }
 ---
 
 <div class="main-desciption country-description">

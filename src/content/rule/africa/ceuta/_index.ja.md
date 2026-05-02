@@ -22,6 +22,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A6%E3%82%BF"
   - text: '<span class="quiz">モロッコ</span>と陸上国境を接しており、EUの域外国境の一つである'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A6%E3%82%BF#%E5%9C%B0%E7%90%86"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.890, lng: -5.320, label: "セウタ", type: "capital", note: "スペイン領自治都市の中心市街" }
+  - { lat: 35.896, lng: -5.296, label: "モンテ・アチョ", type: "landmark", note: "ヘラクレスの柱の一つとされる山" }
+  - { lat: 35.886, lng: -5.354, label: "ターラハル海岸", type: "nature", note: "西側の海岸線" }
+  - { lat: 35.894, lng: -5.310, label: "セウタ港", type: "port", note: "スペイン本土との連絡フェリー発着地" }
+  - { lat: 35.895, lng: -5.359, label: "モロッコ国境（タラハル）", type: "landmark", note: "EUの陸上対外国境の一つ" }
+  - { lat: 35.886, lng: -5.327, label: "アフリカの聖母大聖堂", type: "historical", note: "セウタの歴史的中心の教会" }
 ---
 
 <div class="main-desciption country-description">

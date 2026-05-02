@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Fukui.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 36.062, lng: 136.222, label: "福井駅", type: "capital", note: "福井県の県庁所在地" }
+  - { lat: 36.236, lng: 136.126, label: "東尋坊", type: "nature", note: "断崖絶壁の景勝地" }
+  - { lat: 36.056, lng: 136.355, label: "永平寺", type: "historical", note: "曹洞宗大本山" }
+  - { lat: 35.645, lng: 136.069, label: "敦賀", type: "port", note: "日本海側の重要港湾" }
+  - { lat: 35.620, lng: 135.776, label: "若狭湾", type: "nature", note: "リアス式海岸" }
+  - { lat: 36.060, lng: 136.500, label: "勝山(恐竜博物館)", type: "landmark", note: "福井県立恐竜博物館" }
 ---
 
 <div class="pref-tips">

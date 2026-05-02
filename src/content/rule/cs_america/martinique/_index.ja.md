@@ -23,6 +23,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC%E3%82%AF"
   - text: '活火山である<span class="quiz">プレー山</span>の1902年の噴火で約3万人が犠牲になった'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%BC%E5%B1%B1"
+mapProvider: "osm"
+mapPins:
+  - { lat: 14.616, lng: -61.058, label: "フォール・ド・フランス", type: "capital", note: "県都・最大の都市と港湾" }
+  - { lat: 14.748, lng: -61.184, label: "サン・ピエール", type: "historical", note: "1902年プレー山噴火で壊滅した旧首都" }
+  - { lat: 14.609, lng: -60.971, label: "ル・ラマンタン", type: "city", note: "島中央部の主要都市・国際空港所在地" }
+  - { lat: 14.609, lng: -60.870, label: "ル・ロベール", type: "city", note: "東岸の港町" }
+  - { lat: 14.813, lng: -61.165, label: "プレー山", type: "nature", note: "標高1,397mの活火山" }
+  - { lat: 14.456, lng: -60.866, label: "サント・アンヌ", type: "city", note: "南部の観光ビーチ地区" }
 ---
 
 <div class="main-desciption country-description">

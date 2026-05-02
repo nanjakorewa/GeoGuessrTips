@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%A9%E3%83%91%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6"
   - text: 'ダーウィンが<span class="quiz">進化論</span>の着想を得た地として知られ、世界初の世界遺産の一つ'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%A9%E3%83%91%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6#%E6%AD%B4%E5%8F%B2"
+mapProvider: "osm"
+mapPins:
+  - { lat: -0.743, lng: -90.314, label: "プエルト・アヨラ", type: "capital", note: "サンタ・クルス島の中心都市・諸島最大の集落" }
+  - { lat: -0.901, lng: -89.611, label: "プエルト・バケリソ・モレノ", type: "city", note: "サン・クリストバル島の州都" }
+  - { lat: -1.270, lng: -90.426, label: "プエルト・ビジャミル", type: "city", note: "イサベラ島最大の集落" }
+  - { lat: -0.371, lng: -90.425, label: "バルトラ島", type: "landmark", note: "主要空港セイモアのある北部の島" }
+  - { lat: -0.305, lng: -91.546, label: "ダーウィン火山", type: "nature", note: "イサベラ島北部の活火山・標高1,330m" }
+  - { lat: -0.397, lng: -91.391, label: "シエラ・ネグラ火山", type: "nature", note: "世界第2位のカルデラを持つ活火山" }
 ---
 
 <div class="main-desciption country-description">

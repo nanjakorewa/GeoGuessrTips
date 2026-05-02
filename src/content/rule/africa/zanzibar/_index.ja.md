@@ -20,6 +20,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%B3%E3%82%B8%E3%83%90%E3%83%AB"
   - text: '「<span class="quiz">スパイスの島</span>」と呼ばれ、クローブやナツメグなどの香辛料の産地として歴史的に知られる'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%B3%E3%82%B8%E3%83%90%E3%83%AB#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: -6.165, lng: 39.198, label: "ザンジバル・シティ", type: "capital", note: "ウングジャ島の中心都市・行政府所在地" }
+  - { lat: -6.165, lng: 39.190, label: "ストーンタウン", type: "historical", note: "世界遺産の旧市街・スワヒリ文化の中心" }
+  - { lat: -5.722, lng: 39.302, label: "ヌングウィ", type: "city", note: "島北端のビーチリゾート" }
+  - { lat: -6.380, lng: 39.541, label: "パジェ", type: "city", note: "東岸の白浜ビーチで知られる町" }
+  - { lat: -5.310, lng: 39.741, label: "ペンバ島", type: "nature", note: "ザンジバル北部の姉妹島・クローブの主産地" }
+  - { lat: -6.304, lng: 39.412, label: "ジョザニ・チュワカ湾国立公園", type: "nature", note: "固有種ザンジバル・アカコロブスの生息地" }
 ---
 
 <div class="main-desciption country-description">

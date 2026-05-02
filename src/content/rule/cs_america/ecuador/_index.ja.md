@@ -23,6 +23,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB"
   - text: '世界有数の<span class="quiz">バナナ</span>輸出国であり、石油も主要な輸出品である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: -0.180, lng: -78.467, label: "キト", type: "capital", note: "首都・標高約2,850mのアンデス高地都市・世界遺産" }
+  - { lat: -2.170, lng: -79.922, label: "グアヤキル", type: "city", note: "エクアドル最大の都市・主要港湾" }
+  - { lat: -2.900, lng: -79.005, label: "クエンカ", type: "city", note: "アンデス南部の植民地時代の街・世界遺産" }
+  - { lat: -1.243, lng: -78.617, label: "アンバート", type: "city", note: "中央高地の商業都市" }
+  - { lat: -0.252, lng: -78.526, label: "赤道記念碑", type: "landmark", note: "ミタッド・デル・ムンドの赤道直下のモニュメント" }
+  - { lat: -0.685, lng: -78.437, label: "コトパクシ山", type: "nature", note: "標高5,897mの世界最高峰級の活火山" }
 ---
 
 <div class="main-desciption country-description">

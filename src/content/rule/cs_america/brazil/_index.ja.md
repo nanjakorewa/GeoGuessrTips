@@ -28,6 +28,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
   - text: '国土の約60%を<span class="quiz">アマゾン熱帯雨林</span>が占め、世界最大の生物多様性を有する'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E7%86%B1%E5%B8%AF%E9%9B%A8%E6%9E%97"
+mapProvider: "osm"
+mapPins:
+  - { lat: -15.794, lng: -47.882, label: "ブラジリア", type: "capital", note: "計画首都・世界遺産の近代建築都市" }
+  - { lat: -23.550, lng: -46.633, label: "サンパウロ", type: "city", note: "南米最大の都市・経済の中心" }
+  - { lat: -22.907, lng: -43.172, label: "リオデジャネイロ", type: "city", note: "旧首都・カーニバルとビーチで有名" }
+  - { lat: -3.119, lng: -60.022, label: "マナウス", type: "city", note: "アマゾン中流域の中心都市" }
+  - { lat: -8.054, lng: -34.881, label: "レシフェ", type: "city", note: "北東部の港湾都市・ブラジルのヴェネツィア" }
+  - { lat: -25.687, lng: -54.444, label: "イグアスの滝", type: "landmark", note: "アルゼンチン国境の世界最大級の滝" }
+  - { lat: -22.952, lng: -43.211, label: "キリスト像", type: "landmark", note: "コルコバードの丘の象徴的な巨像" }
 ---
 
 <div class="main-desciption country-description">

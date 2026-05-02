@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 flag: "JP.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.397, lng: 132.475, label: "広島駅", type: "city", note: "広島県の県庁所在地・中国地方最大都市" }
+  - { lat: 34.066, lng: 131.474, label: "山口駅", type: "city", note: "山口県の県庁所在地" }
+  - { lat: 34.665, lng: 133.918, label: "岡山駅", type: "city", note: "岡山県の県庁所在地・桃太郎" }
+  - { lat: 35.467, lng: 133.050, label: "松江駅", type: "city", note: "島根県の県庁所在地・松江城" }
+  - { lat: 35.500, lng: 134.235, label: "鳥取駅", type: "city", note: "鳥取県の県庁所在地・鳥取砂丘" }
+  - { lat: 34.296, lng: 132.320, label: "厳島神社", type: "landmark", note: "広島県・世界遺産の海上鳥居" }
 ---
 
 

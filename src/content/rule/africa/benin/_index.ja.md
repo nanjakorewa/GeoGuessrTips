@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%83%89%E3%82%A5%E3%83%BC%E6%95%99"
   - text: '旧フランス植民地で公用語は<span class="quiz">フランス語</span>、かつてはダホメ王国として知られていた'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8A%E3%83%B3"
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.497, lng: 2.605, label: "ポルトノボ", type: "capital", note: "公式首都・南部の歴史都市" }
+  - { lat: 6.366, lng: 2.428, label: "コトヌー", type: "city", note: "事実上の経済首都・最大都市" }
+  - { lat: 9.341, lng: 2.625, label: "パラクー", type: "city", note: "中部の交通拠点都市" }
+  - { lat: 7.182, lng: 1.991, label: "アボメ", type: "historical", note: "旧ダホメ王国の都・世界遺産の王宮跡" }
+  - { lat: 6.366, lng: 2.085, label: "ウィダ", type: "historical", note: "奴隷貿易の歴史を持つ港町・ブードゥー教の聖地" }
+  - { lat: 6.450, lng: 2.420, label: "ガンビエ", type: "landmark", note: "ノクエ湖上の水上集落で有名" }
 ---
 
 <div class="main-desciption country-description">

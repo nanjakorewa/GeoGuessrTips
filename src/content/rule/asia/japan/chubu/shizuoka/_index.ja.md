@@ -9,6 +9,14 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Shizuoka.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.976, lng: 138.388, label: "静岡駅", type: "capital", note: "静岡県の県庁所在地" }
+  - { lat: 34.710, lng: 137.726, label: "浜松駅", type: "city", note: "県西部の中心・楽器産業" }
+  - { lat: 35.361, lng: 138.728, label: "富士山", type: "nature", note: "山梨県との県境" }
+  - { lat: 34.998, lng: 138.519, label: "三保の松原", type: "landmark", note: "富士山世界遺産構成資産" }
+  - { lat: 34.875, lng: 138.946, label: "伊豆半島", type: "nature", note: "温泉地・観光地" }
+  - { lat: 34.975, lng: 138.385, label: "駿府城", type: "historical", note: "徳川家康の隠居城" }
 ---
 
 <div class="pref-tips">

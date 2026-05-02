@@ -23,6 +23,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%88%E3%83%B3%E5%90%88%E6%84%8F"
   - text: '首都<span class="quiz">サラエボ</span>は1984年の冬季オリンピック開催地であり、オスマン帝国時代の<span class="quiz">バシチャルシヤ</span>旧市街が残る'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%82%A8%E3%83%9C"
+mapProvider: "osm"
+mapPins:
+  - { lat: 43.857, lng: 18.413, label: "サラエボ", type: "capital", note: "首都・1984年冬季五輪開催地" }
+  - { lat: 44.773, lng: 17.191, label: "バニャ・ルカ", type: "city", note: "スルプスカ共和国の中心都市" }
+  - { lat: 43.343, lng: 17.808, label: "モスタル", type: "historical", note: "世界遺産のスタリ・モスト橋" }
+  - { lat: 44.538, lng: 18.667, label: "トゥズラ", type: "city", note: "北東部の主要都市" }
+  - { lat: 44.201, lng: 17.911, label: "ゼニツァ", type: "city", note: "中央部の工業都市" }
+  - { lat: 43.262, lng: 17.679, label: "ポチテリ", type: "historical", note: "オスマン時代の歴史地区" }
 ---
 
 <div class="main-desciption country-description">

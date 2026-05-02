@@ -24,6 +24,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4"
   - text: '世界一高い超高層ビル<span class="quiz">ブルジュ・ハリファ</span>がドバイにある'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%95%E3%82%A1"
+mapProvider: "osm"
+mapPins:
+  - { lat: 24.453, lng: 54.377, label: "アブダビ", type: "capital", note: "首都・最大の首長国" }
+  - { lat: 25.276, lng: 55.296, label: "ドバイ", type: "city", note: "国内最大の都市・国際的な経済ハブ" }
+  - { lat: 25.197, lng: 55.274, label: "ブルジュ・ハリファ", type: "landmark", note: "世界一高いビル（828m）" }
+  - { lat: 25.347, lng: 55.380, label: "シャルジャ", type: "city", note: "ドバイ近郊の文化都市" }
+  - { lat: 25.789, lng: 55.943, label: "ラアス・アル＝ハイマ", type: "city", note: "北部の首長国・観光地" }
+  - { lat: 25.115, lng: 56.343, label: "フジャイラ", type: "port", note: "オマーン湾に面する東岸の港湾都市" }
+  - { lat: 24.230, lng: 55.760, label: "アル・アイン", type: "historical", note: "オアシス都市・世界遺産の遺跡群" }
 ---
 
 <div class="main-desciption country-description">

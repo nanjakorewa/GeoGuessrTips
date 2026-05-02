@@ -25,6 +25,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
   - text: '<span class="quiz">喜望峰</span>があり、金やダイヤモンドの産出でアフリカ最大の経済大国となっている'
     ref: "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: -25.747, lng: 28.229, label: "プレトリア", type: "capital", note: "行政首都・北部のジャカランダの街" }
+  - { lat: -26.204, lng: 28.045, label: "ヨハネスブルグ", type: "city", note: "最大都市・経済の中心・金鉱で発展" }
+  - { lat: -33.925, lng: 18.424, label: "ケープタウン", type: "capital", note: "立法首都・テーブルマウンテンの麓の港湾都市" }
+  - { lat: -29.858, lng: 31.022, label: "ダーバン", type: "port", note: "東岸の最大港湾都市" }
+  - { lat: -29.119, lng: 26.215, label: "ブルームフォンテーン", type: "capital", note: "司法首都・中央高原の都市" }
+  - { lat: -34.358, lng: 18.473, label: "喜望峰", type: "landmark", note: "アフリカ大陸最南西端の岬" }
+  - { lat: -25.000, lng: 31.500, label: "クルーガー国立公園", type: "nature", note: "アフリカ最大級の野生動物保護区" }
 ---
 
 <div class="main-desciption country-description">

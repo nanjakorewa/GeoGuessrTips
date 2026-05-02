@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Tochigi.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 36.560, lng: 139.884, label: "宇都宮駅", type: "capital", note: "栃木県の県庁所在地・餃子の街" }
+  - { lat: 36.754, lng: 139.598, label: "日光東照宮", type: "historical", note: "世界遺産・徳川家康を祀る" }
+  - { lat: 36.737, lng: 139.486, label: "中禅寺湖", type: "nature", note: "奥日光の景勝地" }
+  - { lat: 36.379, lng: 139.737, label: "栃木市", type: "historical", note: "蔵の街" }
+  - { lat: 37.001, lng: 139.978, label: "那須高原", type: "nature", note: "高原リゾート" }
+  - { lat: 36.314, lng: 139.578, label: "佐野", type: "city", note: "佐野ラーメンの街" }
 ---
 
 <div class="pref-tips">

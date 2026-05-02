@@ -21,6 +21,15 @@ sc: [
 features:
   - text: '国旗の中央に描かれた<span class="quiz">レバノン杉</span>は国のシンボルである'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%90%E3%83%8E%E3%83%B3%E6%9D%89"
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.888, lng: 35.495, label: "ベイルート", type: "capital", note: "首都・地中海沿岸の中心都市" }
+  - { lat: 33.562, lng: 35.372, label: "サイダ", type: "port", note: "南部の歴史的な港湾都市" }
+  - { lat: 33.271, lng: 35.214, label: "ティール", type: "historical", note: "古代フェニキアの港町・世界遺産" }
+  - { lat: 34.436, lng: 35.844, label: "トリポリ", type: "city", note: "北部最大の都市・港湾都市" }
+  - { lat: 34.007, lng: 36.204, label: "バールベック", type: "historical", note: "ローマ時代の神殿遺跡・世界遺産" }
+  - { lat: 34.247, lng: 36.066, label: "カディーシャ渓谷", type: "nature", note: "レバノン杉の聖なる谷・世界遺産" }
+  - { lat: 34.121, lng: 35.652, label: "ジュベイル（ビブロス）", type: "historical", note: "世界最古の連続居住都市の一つ" }
 ---
 
 <div class="main-desciption country-description">

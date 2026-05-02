@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Nara.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.685, lng: 135.805, label: "奈良駅", type: "capital", note: "奈良県の県庁所在地" }
+  - { lat: 34.689, lng: 135.840, label: "東大寺", type: "historical", note: "大仏・世界遺産" }
+  - { lat: 34.685, lng: 135.843, label: "奈良公園", type: "landmark", note: "鹿で有名" }
+  - { lat: 34.614, lng: 135.734, label: "法隆寺", type: "historical", note: "世界最古の木造建築・世界遺産" }
+  - { lat: 34.366, lng: 135.852, label: "吉野山", type: "nature", note: "桜の名所・世界遺産" }
+  - { lat: 34.681, lng: 135.848, label: "春日大社", type: "historical", note: "世界遺産" }
 ---
 
 <div class="pref-tips">

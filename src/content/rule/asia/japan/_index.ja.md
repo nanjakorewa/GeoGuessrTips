@@ -18,6 +18,16 @@ maps: [
     ["https://www.geoguessr.com/maps/615877afcbf30d0001bee009", "日本の市街地"],
     ["https://www.geoguessr.com/maps/59cf49695d2de4db80351e6e", "Japan • 日本 60k+"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.682, lng: 139.766, label: "東京駅", type: "capital", note: "日本の首都・最大の都市圏" }
+  - { lat: 34.702, lng: 135.495, label: "大阪駅", type: "city", note: "西日本最大の経済都市" }
+  - { lat: 35.012, lng: 135.768, label: "京都駅", type: "historical", note: "千年の都・歴史と文化の街" }
+  - { lat: 43.069, lng: 141.351, label: "札幌駅", type: "city", note: "北海道の中心都市" }
+  - { lat: 33.590, lng: 130.421, label: "福岡(博多駅)", type: "city", note: "九州の中心都市・アジアへの玄関" }
+  - { lat: 26.213, lng: 127.679, label: "那覇", type: "city", note: "沖縄県の県庁所在地・南国の都市" }
+  - { lat: 35.361, lng: 138.728, label: "富士山", type: "nature", note: "日本最高峰(3,776m)・世界文化遺産" }
+  - { lat: 34.296, lng: 132.320, label: "厳島神社", type: "landmark", note: "広島県・世界遺産の海上鳥居" }
 ---
 
 <div class="main-desciption country-description">

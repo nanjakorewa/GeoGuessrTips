@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 is_pref: true
 flag: "Saitama.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.906, lng: 139.624, label: "さいたま新都心", type: "capital", note: "埼玉県の県庁所在地" }
+  - { lat: 35.925, lng: 139.485, label: "川越", type: "historical", note: "小江戸・蔵造りの街並み" }
+  - { lat: 35.799, lng: 139.469, label: "所沢", type: "city", note: "ベッドタウン" }
+  - { lat: 36.071, lng: 139.121, label: "秩父", type: "nature", note: "山岳観光地・秩父神社" }
+  - { lat: 36.181, lng: 139.378, label: "熊谷", type: "city", note: "猛暑で有名な内陸都市" }
+  - { lat: 35.871, lng: 139.737, label: "草加", type: "city", note: "草加せんべいの産地" }
 ---
 
 <div class="pref-tips">

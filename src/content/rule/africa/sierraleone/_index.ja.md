@@ -16,6 +16,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A8%E3%83%A9%E3%83%AC%E3%82%AA%E3%83%8D"
   - text: '<span class="quiz">ダイヤモンド</span>の産出国として知られ、紛争ダイヤモンドが内戦の資金源となった歴史がある'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A8%E3%83%A9%E3%83%AC%E3%82%AA%E3%83%8D%E5%86%85%E6%88%A6"
+mapProvider: "osm"
+mapPins:
+  - { lat: 8.484, lng: -13.234, label: "フリータウン", type: "capital", note: "首都・大西洋岸の最大都市・解放奴隷の街" }
+  - { lat: 7.876, lng: -11.190, label: "ボー", type: "city", note: "南部の主要都市・第2の都市" }
+  - { lat: 7.957, lng: -11.738, label: "ケネマ", type: "city", note: "東部の主要都市・ダイヤモンド交易地" }
+  - { lat: 8.879, lng: -11.760, label: "マケニ", type: "city", note: "北部の主要都市" }
+  - { lat: 8.629, lng: -13.184, label: "ロンギ", type: "port", note: "首都圏の港湾・国際空港" }
+  - { lat: 8.500, lng: -13.220, label: "シエラレオネ山脈", type: "nature", note: "国名の由来となった半島の山並み" }
 ---
 
 <div class="main-desciption country-description">

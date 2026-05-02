@@ -23,6 +23,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B1%E3%83%89%E3%83%8B%E3%82%A2%E5%91%BC%E7%A7%B0%E5%95%8F%E9%A1%8C"
   - text: '<span class="quiz">オフリド湖</span>はヨーロッパ最古の湖の一つで、湖畔の町と共にユネスコ<span class="quiz">世界遺産</span>に登録されている'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%83%AA%E3%83%89%E6%B9%96"
+mapProvider: "osm"
+mapPins:
+  - { lat: 41.998, lng: 21.426, label: "スコピエ", type: "capital", note: "首都・国の中心都市" }
+  - { lat: 41.115, lng: 20.802, label: "オフリド", type: "historical", note: "湖畔の世界遺産都市" }
+  - { lat: 41.031, lng: 21.334, label: "ビトラ", type: "city", note: "南部の主要都市" }
+  - { lat: 41.745, lng: 22.197, label: "シュティプ", type: "city", note: "東部の文化都市" }
+  - { lat: 41.130, lng: 20.802, label: "オフリド湖", type: "nature", note: "欧州最古級の湖・世界遺産" }
+  - { lat: 41.738, lng: 21.711, label: "ヴェレス", type: "city", note: "ヴァルダル川沿いの都市" }
 ---
 
 

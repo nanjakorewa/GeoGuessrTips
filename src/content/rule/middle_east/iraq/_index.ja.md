@@ -17,6 +17,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BD%E3%83%9D%E3%82%BF%E3%83%9F%E3%82%A2"
   - text: '首都<span class="quiz">バグダード</span>はかつてアッバース朝の首都として繁栄した'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B0%E3%83%80%E3%83%BC%E3%83%89"
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.315, lng: 44.366, label: "バグダード", type: "capital", note: "首都・アッバース朝の旧都" }
+  - { lat: 36.340, lng: 43.130, label: "モスル", type: "city", note: "イラク北部の主要都市・チグリス川沿い" }
+  - { lat: 30.508, lng: 47.783, label: "バスラ", type: "port", note: "南部の港湾都市・石油の積出港" }
+  - { lat: 35.467, lng: 44.392, label: "キルクーク", type: "city", note: "クルド地域に近い石油都市" }
+  - { lat: 36.190, lng: 44.009, label: "アルビル", type: "city", note: "クルディスタン地域の中心都市" }
+  - { lat: 32.470, lng: 44.421, label: "バビロン", type: "historical", note: "古代メソポタミア文明の遺跡" }
+  - { lat: 32.616, lng: 44.025, label: "カルバラー", type: "historical", note: "シーア派の聖地" }
 ---
 
 <div class="main-desciption country-description">

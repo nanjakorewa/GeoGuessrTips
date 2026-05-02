@@ -17,6 +17,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%89%E6%B9%96"
   - text: '公用語は<span class="quiz">フランス語</span>と<span class="quiz">アラビア語</span>で、南部はサバナ気候、北部はサハラ砂漠が広がる'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%89"
+mapProvider: "osm"
+mapPins:
+  - { lat: 12.108, lng: 15.045, label: "ンジャメナ", type: "capital", note: "首都・シャリ川沿いの最大都市" }
+  - { lat: 9.110, lng: 18.391, label: "サール", type: "city", note: "南部の主要都市・農業地帯" }
+  - { lat: 8.622, lng: 16.067, label: "ムンドゥー", type: "city", note: "南西部の経済都市・綿花産地" }
+  - { lat: 10.911, lng: 14.886, label: "ボンゴール", type: "city", note: "南西部の都市" }
+  - { lat: 13.829, lng: 20.832, label: "アベシェ", type: "city", note: "東部の主要都市・歴史的隊商交易地" }
+  - { lat: 13.500, lng: 14.500, label: "チャド湖", type: "nature", note: "国名の由来となった湖・近年大幅縮小" }
+  - { lat: 21.000, lng: 17.000, label: "エネディ高原", type: "nature", note: "サハラ北部の世界遺産・奇岩地形" }
 ---
 
 <div class="main-desciption country-description">

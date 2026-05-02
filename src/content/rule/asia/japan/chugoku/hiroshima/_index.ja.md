@@ -12,6 +12,14 @@ relatedIndustry:
   - "/industry/japan-shipbuilding/"
   - "/industry/japan-industrial-zones/setouchi/"
   - "/industry/japan-semiconductor/"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.397, lng: 132.475, label: "広島駅", type: "capital", note: "広島県の県庁所在地" }
+  - { lat: 34.395, lng: 132.453, label: "原爆ドーム", type: "historical", note: "世界遺産・平和記念" }
+  - { lat: 34.296, lng: 132.320, label: "厳島神社", type: "historical", note: "世界遺産・海上鳥居" }
+  - { lat: 34.391, lng: 132.452, label: "広島平和記念公園", type: "landmark", note: "平和への祈り" }
+  - { lat: 34.249, lng: 132.566, label: "呉", type: "port", note: "海軍の街・大和ミュージアム" }
+  - { lat: 34.402, lng: 133.196, label: "尾道", type: "city", note: "坂と寺と猫の街" }
 ---
 
 <div class="pref-tips">

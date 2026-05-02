@@ -21,6 +21,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%8F"
   - text: '国民一人当たりの<span class="quiz">ビール</span>消費量が世界一で、<span class="quiz">ピルスナー</span>ビール発祥の地であるプルゼニがある'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%BC%E3%83%8B"
+mapProvider: "osm"
+mapPins:
+  - { lat: 50.088, lng: 14.420, label: "プラハ", type: "capital", note: "首都・百塔の街・世界遺産の旧市街" }
+  - { lat: 49.195, lng: 16.608, label: "ブルノ", type: "city", note: "モラヴィア地方の中心都市" }
+  - { lat: 49.748, lng: 13.378, label: "プルゼニ", type: "city", note: "ピルスナービール発祥の地" }
+  - { lat: 49.836, lng: 18.293, label: "オストラヴァ", type: "city", note: "シレジア地方の工業都市" }
+  - { lat: 48.808, lng: 14.314, label: "チェスキー・クルムロフ", type: "historical", note: "世界遺産の中世の街" }
+  - { lat: 50.762, lng: 15.732, label: "リベレツ", type: "city", note: "北部の都市・冬季スポーツ拠点" }
+  - { lat: 50.230, lng: 12.871, label: "カルロヴィ・ヴァリ", type: "city", note: "西部の温泉保養地" }
 ---
 
 <div class="main-desciption country-description">

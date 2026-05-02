@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%B3%E8%AB%B8%E5%B3%B6"
   - text: '1917年にデンマークから<span class="quiz">2500万ドル</span>で購入された旧デンマーク領西インド諸島'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%B3%E8%AB%B8%E5%B3%B6#%E6%AD%B4%E5%8F%B2"
+mapProvider: "osm"
+mapPins:
+  - { lat: 18.336, lng: -64.928, label: "シャーロット・アマリー", type: "capital", note: "首都・セント・トーマス島の主要都市" }
+  - { lat: 17.742, lng: -64.703, label: "クリスチャンステッド", type: "city", note: "セント・クロイ島の主要都市・歴史地区" }
+  - { lat: 17.713, lng: -64.881, label: "フレデリックステッド", type: "city", note: "セント・クロイ島西部の港町" }
+  - { lat: 18.331, lng: -64.793, label: "クルーズ・ベイ", type: "city", note: "セント・ジョン島の中心地" }
+  - { lat: 18.349, lng: -64.731, label: "ヴァージン諸島国立公園", type: "nature", note: "セント・ジョン島の大半を占める国立公園" }
+  - { lat: 18.358, lng: -64.762, label: "トランク・ベイ", type: "nature", note: "世界的に有名なビーチとシュノーケリングスポット" }
 ---
 
 <div class="main-desciption country-description">

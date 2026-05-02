@@ -22,6 +22,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E8%AB%B8%E5%B3%B6"
   - text: '独自の言語<span class="quiz">フェロー語</span>を持ち、18の島からなる群島で<span class="quiz">海底トンネル</span>で島同士が結ばれている'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E8%AA%9E"
+mapProvider: "osm"
+mapPins:
+  - { lat: 62.012, lng: -6.770, label: "トースハウン", type: "capital", note: "世界最古級の首都・諸島最大の都市" }
+  - { lat: 62.212, lng: -6.589, label: "クラクスヴィーク", type: "city", note: "第二の都市・漁業の中心" }
+  - { lat: 62.103, lng: -7.456, label: "ヴェストマンナ", type: "city", note: "鳥の崖で有名な町" }
+  - { lat: 62.292, lng: -7.183, label: "ガーサダルル", type: "nature", note: "代表的な滝の景観" }
+  - { lat: 61.444, lng: -6.794, label: "スーズロイ島", type: "nature", note: "最南端の島" }
+  - { lat: 62.139, lng: -7.434, label: "ソルヴァーグル", type: "city", note: "ヴァーガル島の中心" }
 ---
 
 <div class="main-desciption country-description">

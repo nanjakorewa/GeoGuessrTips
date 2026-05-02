@@ -34,6 +34,17 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD"
   - text: '仏教国であり国内には約<span class="quiz">4万</span>の仏教寺院が存在する'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD#%E5%AE%97%E6%95%99"
+
+# ===== OSM ヒーロー設定 =====
+mapProvider: "osm"
+mapPins:
+  - { lat: 13.756, lng: 100.502, label: "バンコク", type: "capital", note: "タイ王国の首都・東南アジアの大都市" }
+  - { lat: 13.751, lng: 100.493, label: "ワットポー", type: "landmark", note: "巨大な寝釈迦仏で有名な寺院" }
+  - { lat: 18.788, lng: 98.985, label: "チェンマイ", type: "city", note: "北部最大の都市・古都ランナー王国の都" }
+  - { lat: 7.880, lng: 98.398, label: "プーケット", type: "nature", note: "南部の主要リゾート島" }
+  - { lat: 14.353, lng: 100.569, label: "アユタヤ", type: "historical", note: "世界遺産・古都" }
+  - { lat: 12.923, lng: 100.882, label: "パタヤ", type: "city", note: "観光リゾート都市" }
+  - { lat: 17.992, lng: 99.806, label: "ランパーン", type: "city", note: "北部の歴史ある都市" }
 ---
 
 <div class="main-desciption country-description">

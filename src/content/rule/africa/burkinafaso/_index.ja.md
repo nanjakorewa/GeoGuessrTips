@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%AD%E3%83%8A%E3%83%95%E3%82%A1%E3%82%BD"
   - text: '旧フランス植民地で公用語は<span class="quiz">フランス語</span>、<span class="quiz">綿花</span>が主要な輸出品である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%AD%E3%83%8A%E3%83%95%E3%82%A1%E3%82%BD#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 12.371, lng: -1.520, label: "ワガドゥグー", type: "capital", note: "首都・国の政治経済の中心" }
+  - { lat: 11.178, lng: -4.297, label: "ボボ・デュラッソ", type: "city", note: "第2の都市・西部の経済中心" }
+  - { lat: 12.265, lng: -2.363, label: "クドゥグー", type: "city", note: "中部の主要都市" }
+  - { lat: 13.075, lng: -0.034, label: "カヤ", type: "city", note: "北中部の交易拠点" }
+  - { lat: 11.090, lng: -0.355, label: "ティエベレ", type: "historical", note: "グルンシ族の伝統的彩色家屋で有名" }
+  - { lat: 14.040, lng: 0.140, label: "ドリ", type: "city", note: "サヘル地域の都市・遊牧民の交易地" }
 ---
 
 <div class="main-desciption country-description">

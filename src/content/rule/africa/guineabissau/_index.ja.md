@@ -17,6 +17,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8B%E3%82%A2%E3%83%93%E3%82%B5%E3%82%A6"
   - text: '<span class="quiz">カシューナッツ</span>の生産が主要な産業であり、輸出の大部分を占める'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8B%E3%82%A2%E3%83%93%E3%82%B5%E3%82%A6#%E7%B5%8C%E6%B8%88"
+mapProvider: "osm"
+mapPins:
+  - { lat: 11.862, lng: -15.598, label: "ビサウ", type: "capital", note: "首都・最大都市・主要港湾" }
+  - { lat: 12.275, lng: -14.219, label: "バファタ", type: "city", note: "東部内陸の主要都市" }
+  - { lat: 12.285, lng: -14.681, label: "ガブー", type: "city", note: "東部の交易拠点" }
+  - { lat: 11.110, lng: -14.350, label: "ボラマ", type: "historical", note: "旧首都・植民地時代の歴史都市" }
+  - { lat: 11.300, lng: -16.000, label: "ビジャゴス諸島", type: "nature", note: "ユネスコ生物圏保存地域の島々" }
+  - { lat: 12.673, lng: -16.038, label: "カシュー", type: "city", note: "北西部の港町" }
 ---
 
 <div class="main-desciption country-description">

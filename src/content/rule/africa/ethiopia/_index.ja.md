@@ -17,6 +17,15 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%A8%E3%82%BA%E6%96%87%E5%AD%97"
   - text: '<span class="quiz">コーヒー</span>発祥の地とされ、独自の暦（エチオピア暦）を使用している'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2#%E6%96%87%E5%8C%96"
+mapProvider: "osm"
+mapPins:
+  - { lat: 9.030, lng: 38.749, label: "アディスアベバ", type: "capital", note: "首都・アフリカ連合本部所在地" }
+  - { lat: 11.595, lng: 37.391, label: "バハルダール", type: "city", note: "タナ湖南岸の都市・観光拠点" }
+  - { lat: 13.479, lng: 39.476, label: "メケレ", type: "city", note: "ティグレ州都・北部の中心都市" }
+  - { lat: 7.052, lng: 38.476, label: "ハワサ", type: "city", note: "南部諸民族州の中心都市" }
+  - { lat: 9.350, lng: 42.794, label: "ハラール", type: "historical", note: "世界遺産の城壁都市・イスラム文化の中心" }
+  - { lat: 12.610, lng: 37.470, label: "ゴンダール", type: "historical", note: "旧帝都・世界遺産のファシル・ゲビ" }
+  - { lat: 12.030, lng: 39.043, label: "ラリベラ", type: "historical", note: "岩窟教会群で知られる世界遺産の聖地" }
 ---
 
 <div class="main-desciption country-description">

@@ -12,6 +12,14 @@ relatedIndustry:
   - "/industry/japan-shipbuilding/"
   - "/industry/japan-semiconductor/kyushu/"
   - "/industry/japan-stockpile/"
+mapProvider: "osm"
+mapPins:
+  - { lat: 32.748, lng: 129.877, label: "長崎駅", type: "capital", note: "長崎県の県庁所在地・港町" }
+  - { lat: 32.773, lng: 129.864, label: "平和公園・原爆資料館", type: "historical", note: "平和への祈り" }
+  - { lat: 32.734, lng: 129.870, label: "グラバー園", type: "historical", note: "明治の洋館" }
+  - { lat: 32.626, lng: 129.738, label: "軍艦島(端島)", type: "historical", note: "世界遺産・廃坑島" }
+  - { lat: 33.179, lng: 129.715, label: "佐世保", type: "city", note: "ハウステンボス・米軍基地" }
+  - { lat: 32.757, lng: 130.297, label: "雲仙岳", type: "nature", note: "活火山・温泉" }
 ---
 
 <div class="pref-tips">

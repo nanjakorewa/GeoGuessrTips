@@ -9,6 +9,14 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Aomori.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 40.829, lng: 140.741, label: "青森駅", type: "capital", note: "青森県の県庁所在地" }
+  - { lat: 40.521, lng: 141.488, label: "八戸駅", type: "city", note: "県南の中心・港町" }
+  - { lat: 40.607, lng: 140.464, label: "弘前駅", type: "city", note: "弘前城・桜の名所" }
+  - { lat: 41.236, lng: 140.348, label: "大間崎", type: "landmark", note: "本州最北端・マグロの街" }
+  - { lat: 40.652, lng: 140.882, label: "八甲田山", type: "nature", note: "火山群・スキーリゾート" }
+  - { lat: 40.464, lng: 140.882, label: "十和田湖", type: "nature", note: "カルデラ湖・景勝地" }
 ---
 
 <div class="pref-tips">
