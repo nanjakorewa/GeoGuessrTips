@@ -12,6 +12,7 @@ import Sidebar from "@components/navigation/Sidebar.astro";
 import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
 import TableOfContents from "@components/TableOfContents.astro";
+import IndustryOSMMap from "@components/IndustryOSMMap.astro";
 
 interface Props {
   entry: any;
@@ -289,7 +290,8 @@ const modifiedTime = data.lastmod ? new Date(data.lastmod) : publishedTime;
 
 // --- Conditional features ---
 const needsJQuery36 = !!data.import_jquery_36;
-const needsJSMaps = !!data.mapName || !!data.map_index;
+const useOSMHero = data.mapProvider === "osm";
+const needsJSMaps = !useOSMHero && (!!data.mapName || !!data.map_index);
 const isQuizPage = data.pagetype === "quiz";
 
 // --- Flag path ---
@@ -333,6 +335,203 @@ const lastmodDisplay = modifiedTime
     needsJQuery36={needsJQuery36}
     needsJSMaps={needsJSMaps}
   />
+  <style is:global>
+    /* ============================================
+       Rule Hero Section（mapProvider: osm の国別ページ）
+       ============================================ */
+    .rule-hero-section {
+      background: #1a2535;
+      padding: 1.5rem 0;
+      color: #fff;
+    }
+    .rule-hero-section__inner {
+      display: grid;
+      grid-template-columns: minmax(260px, 360px) minmax(0, 1fr);
+      gap: 1.25rem 2.5rem;
+      align-items: center;
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+    }
+    .rule-hero-title {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    .rule-hero-title__h1 {
+      font-size: clamp(1.6rem, 2.6vw, 2.3rem);
+      line-height: 1.25;
+      margin: 0;
+      color: #fff;
+      font-weight: 700;
+    }
+    .rule-hero-title__prefix,
+    .rule-hero-title__suffix {
+      display: inline-block;
+      font-size: 0.62em;
+      font-weight: 500;
+      color: rgba(255, 255, 255, 0.72);
+      margin: 0 0.4em;
+    }
+    .rule-hero-title__main {
+      display: inline-block;
+    }
+    .rule-hero-flag {
+      max-width: 240px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+    }
+    .rule-hero-flag img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    /* ヒーロー左カラム内の「間違えやすい地域」「練習用マップ」 */
+    .rule-hero-links {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+    .rule-hero-links__label {
+      font-size: 0.75rem;
+      color: rgba(255, 255, 255, 0.65);
+      text-transform: none;
+      letter-spacing: 0.02em;
+      display: flex;
+      align-items: center;
+      gap: 0.4em;
+    }
+    .rule-hero-links__label i {
+      color: #e07b20;
+    }
+    .rule-hero-links__list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .rule-hero-links__list li {
+      margin: 0;
+    }
+    .rule-hero-links__list a {
+      display: inline-block;
+      padding: 4px 12px;
+      background: rgba(255, 255, 255, 0.08);
+      color: #fff;
+      font-size: 0.78rem;
+      text-decoration: none;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      transition: background 0.15s ease, border-color 0.15s ease;
+      line-height: 1.4;
+    }
+    .rule-hero-links__list a:hover {
+      background: rgba(224, 123, 32, 0.18);
+      border-color: rgba(224, 123, 32, 0.6);
+      color: #fff;
+    }
+
+    @media (max-width: 900px) {
+      .rule-hero-section__inner {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        padding: 1rem 1rem 0;
+      }
+      .rule-hero-flag {
+        max-width: 180px;
+      }
+    }
+
+    /* ヒーロー下のスライドショー（hero と同じ紺色で連続感を出す） */
+    .rule-hero-gallery {
+      position: relative;
+      overflow: hidden;
+      background: #1a2535;
+      padding: 12px 0 10px;
+      margin-bottom: 0;
+    }
+    /* 左右のフェード（hero 背景色へ自然に溶け込む） */
+    .rule-hero-gallery::before,
+    .rule-hero-gallery::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 80px;
+      pointer-events: none;
+      z-index: 2;
+    }
+    .rule-hero-gallery::before {
+      left: 0;
+      background: linear-gradient(to right, #1a2535, rgba(26, 37, 53, 0));
+    }
+    .rule-hero-gallery::after {
+      right: 0;
+      background: linear-gradient(to left, #1a2535, rgba(26, 37, 53, 0));
+    }
+    .rule-hero-gallery__track {
+      display: flex;
+      gap: 12px;
+      animation: rule-hero-gallery-scroll 80s linear infinite;
+      width: max-content;
+    }
+    .rule-hero-gallery__item {
+      flex: 0 0 auto;
+      width: 280px;
+      height: 188px;
+      margin: 0;
+      overflow: hidden;
+      border-radius: 8px;
+      background: #0f1722;
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.35);
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+    }
+    .rule-hero-gallery__item:hover {
+      transform: translateY(-2px) scale(1.01);
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.5);
+    }
+    .rule-hero-gallery__item img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    @keyframes rule-hero-gallery-scroll {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+    .rule-hero-gallery:hover .rule-hero-gallery__track {
+      animation-play-state: paused;
+    }
+    @media (max-width: 700px) {
+      .rule-hero-gallery__item {
+        width: 220px;
+        height: 148px;
+      }
+      .rule-hero-gallery::before,
+      .rule-hero-gallery::after {
+        width: 40px;
+      }
+    }
+
+    /* OSM ヒーロー使用時の article-surface 上部余白を圧縮（hidden h1 のスペースを除去） */
+    .article-surface--osm-hero {
+      padding-top: 1.25rem;
+    }
+    /* ギャラリー直後の section の上余白を圧縮 */
+    .single.single--osm-hero {
+      padding-top: 1.25rem !important;
+    }
+    /* コンテンツ下に表示するパンくずは控えめに */
+    .article-breadcrumb--bottom {
+      margin-top: 1.25rem !important;
+      margin-bottom: 0 !important;
+      opacity: 0.85;
+      font-size: 0.85rem;
+    }
+  </style>
 </head>
 <body>
   {/* Header */}
@@ -340,8 +539,85 @@ const lastmodDisplay = modifiedTime
     <Navbar lang={lang} isHome={false} />
   </header>
 
+  {/* OSM ヒーロー（mapProvider: osm の国別ページのみ） */}
+  {useOSMHero && (
+    <section class="rule-hero-section">
+      <div class="rule-hero-section__inner">
+        <div class="rule-hero-title">
+          <h1 class="rule-hero-title__h1">
+            {data.title_prefix && <span class="rule-hero-title__prefix">{data.title_prefix}</span>}
+            <span class="rule-hero-title__main">{data.title}</span>
+            {data.title_suffix && <span class="rule-hero-title__suffix">{data.title_suffix}</span>}
+          </h1>
+          {data.flag && (
+            <div class="rule-hero-flag">
+              <img
+                src={flagPath}
+                alt={lang === "ja" ? `${data.title}の国旗` : `national flag of ${data.title}`}
+                width="240"
+                height="160"
+                loading="eager"
+                decoding="async"
+              />
+            </div>
+          )}
+          {data.sc && (
+            <div class="rule-hero-links">
+              <div class="rule-hero-links__label">
+                <i class="far fa-question-circle"></i>{data.sc_title}
+              </div>
+              <ul class="rule-hero-links__list">
+                {data.sc.map((item: [string, string]) => (
+                  <li><a href={item[0]}>{item[1]}</a></li>
+                ))}
+              </ul>
+            </div>
+          )}
+          {data.maps && (
+            <div class="rule-hero-links">
+              <div class="rule-hero-links__label">
+                <i class="fas fa-map-marked-alt"></i>{data.map_title}
+              </div>
+              <ul class="rule-hero-links__list">
+                {data.maps.map((item: [string, string]) => (
+                  <li><a href={item[0]} target="_blank" rel="noopener">{item[1]}</a></li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+        <div class="rule-hero-map">
+          <IndustryOSMMap
+            pins={data.mapPins || []}
+            center={data.mapCenter}
+            zoom={data.mapZoom}
+            regions={data.mapRegions}
+          />
+        </div>
+      </div>
+    </section>
+  )}
+
+  {/* ヒーロー下のスライドショー（heroGallery 指定時のみ） */}
+  {useOSMHero && data.heroGallery && data.heroGallery.length > 0 && (
+    <div class="rule-hero-gallery">
+      <div class="rule-hero-gallery__track">
+        {data.heroGallery.map((src: string) => (
+          <figure class="rule-hero-gallery__item">
+            <img src={src} alt="" loading="lazy" />
+          </figure>
+        ))}
+        {data.heroGallery.map((src: string) => (
+          <figure class="rule-hero-gallery__item" aria-hidden="true">
+            <img src={src} alt="" loading="lazy" />
+          </figure>
+        ))}
+      </div>
+    </div>
+  )}
+
   {/* Main content */}
-  <section class={`single section-sm pb-0${isQuizPage ? " quiz-page" : ""}`}>
+  <section class={`single section-sm pb-0${isQuizPage ? " quiz-page" : ""}${useOSMHero ? " single--osm-hero" : ""}`}>
     <div class={isQuizPage ? "container-lg" : "container"}>
       <div class="row">
         {/* Sidebar (hidden for quiz pages) */}
@@ -353,30 +629,43 @@ const lastmodDisplay = modifiedTime
 
         {/* Content */}
         <div class={isQuizPage ? "col-lg-8 offset-lg-2" : "col-lg-9"}>
-          <ol class="breadcrumb article-breadcrumb">
-            {crumbs.map((crumb, i) =>
-              i === crumbs.length - 1
-                ? <li>{crumb.name}</li>
-                : <li><a href={crumb.url}>{crumb.name}</a></li>
-            )}
-          </ol>
+          {/* OSM ヒーロー使用時はパンくずを下部へ移動（重複した上部スペースを解消） */}
+          {!useOSMHero && (
+            <ol class="breadcrumb article-breadcrumb">
+              {crumbs.map((crumb, i) =>
+                i === crumbs.length - 1
+                  ? <li>{crumb.name}</li>
+                  : <li><a href={crumb.url}>{crumb.name}</a></li>
+              )}
+            </ol>
+          )}
 
-          <div class="article-surface">
-            <h1 class={isQuizPage ? "mb-3 quiz-page-title" : "mb-5"}>
-              {data.title_prefix && <span class="small-title">{data.title_prefix}</span>}
-              {data.title}
-              {data.title_suffix && <span class="small-title">{data.title_suffix}</span>}
-              {isQuizPage && data.quiz_suffix && <span class="quiz-suffix">{data.quiz_suffix}</span>}
-              <span style="font-size:0.5em">
+          <div class={`article-surface${useOSMHero ? " article-surface--osm-hero" : ""}`}>
+            {!useOSMHero && (
+              <h1 class={isQuizPage ? "mb-3 quiz-page-title" : "mb-5"}>
+                {data.title_prefix && <span class="small-title">{data.title_prefix}</span>}
+                {data.title}
+                {data.title_suffix && <span class="small-title">{data.title_suffix}</span>}
+                {isQuizPage && data.quiz_suffix && <span class="quiz-suffix">{data.quiz_suffix}</span>}
+                <span style="font-size:0.5em">
+                  {data.is_has_distinctive_googlecar && <i class="fas fa-car-alt i-googlecar"></i>}
+                  {data.is_has_many_trekker && <i class="fas fa-hiking i-googlecar"></i>}
+                  {data.is_has_distinctive_bollard && <i class="fas fa-magic i-bollard"></i>}
+                  {data.is_unofficial && <i class="fa fa-question-circle"></i>}
+                </span>
+              </h1>
+            )}
+            {useOSMHero && (
+              <div class="rule-hero-badges mb-3" style="font-size:1.5rem;color:#64748b;">
                 {data.is_has_distinctive_googlecar && <i class="fas fa-car-alt i-googlecar"></i>}
                 {data.is_has_many_trekker && <i class="fas fa-hiking i-googlecar"></i>}
                 {data.is_has_distinctive_bollard && <i class="fas fa-magic i-bollard"></i>}
                 {data.is_unofficial && <i class="fa fa-question-circle"></i>}
-              </span>
-            </h1>
+              </div>
+            )}
 
-            {/* Flag display */}
-            {data.flag && (
+            {/* Flag display（OSM ヒーロー使用時はヒーロー側に移動するので非表示） */}
+            {data.flag && !useOSMHero && (
               <div
                 class={`content unclickable ${!data.flag_height ? "top-flagarea" : ""}`}
                 style={data.flag_height ? `height:${data.flag_height};` : undefined}
@@ -392,8 +681,8 @@ const lastmodDisplay = modifiedTime
               </div>
             )}
 
-            {/* SC area (shortcut links) */}
-            {data.sc && (
+            {/* SC area (shortcut links) — OSM ヒーロー使用時はヒーロー側へ移動 */}
+            {data.sc && !useOSMHero && (
               <div class="sc_area">
                 <ul>
                   <li class="sc-title">
@@ -412,8 +701,8 @@ const lastmodDisplay = modifiedTime
               </div>
             )}
 
-            {/* Map links */}
-            {data.maps && (
+            {/* Map links — OSM ヒーロー使用時はヒーロー側へ移動 */}
+            {data.maps && !useOSMHero && (
               <div class="sc_area">
                 <ul>
                   <li class="sc-title">
@@ -604,6 +893,17 @@ const lastmodDisplay = modifiedTime
               geoguessr（ジオゲッサー）のプレイログを記録したページです。
             </div>
           </div>
+
+          {/* OSM ヒーロー使用時のパンくず（コンテンツ下に表示） */}
+          {useOSMHero && (
+            <ol class="breadcrumb article-breadcrumb article-breadcrumb--bottom">
+              {crumbs.map((crumb, i) =>
+                i === crumbs.length - 1
+                  ? <li>{crumb.name}</li>
+                  : <li><a href={crumb.url}>{crumb.name}</a></li>
+              )}
+            </ol>
+          )}
         </div>
       </div>
     </div>

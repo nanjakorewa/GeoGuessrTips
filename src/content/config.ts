@@ -78,6 +78,34 @@ const ruleCollection = defineCollection({
     map_index: z.string().optional(),
     additional_map_class: z.string().optional(),
 
+    // OSM hero map（産業ページと同じ仕組み）— 国別ページ上部に
+    // 「タイトル＋国旗 / OSM 地図」を 2 カラム表示するためのフィールド
+    mapProvider: z.enum(["osm"]).optional(),
+    mapCenter: z.tuple([z.number(), z.number()]).optional(),
+    mapZoom: z.number().optional(),
+    mapPins: z.array(z.object({
+      lat: z.number(),
+      lng: z.number(),
+      label: z.string(),
+      note: z.string().optional(),
+      type: z.string().optional(),
+      link: z.string().optional(),
+    })).optional(),
+    mapRegions: z.object({
+      source: z.string(),
+      topojsonObject: z.string().optional(),
+      property: z.string(),
+      groups: z.array(z.object({
+        name: z.string(),
+        color: z.string(),
+        regions: z.array(z.string()),
+        note: z.string().optional(),
+      })),
+      legendTitle: z.string().optional(),
+    }).optional(),
+    /** ヒーロー下に表示するスライドショー画像のパス配列（public からの絶対 URL） */
+    heroGallery: z.array(z.string()).optional(),
+
     // Linked content
     add_rule_link: z.boolean().optional().default(false),
     add_flagindex: z.boolean().optional().default(false),

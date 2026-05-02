@@ -25,6 +25,25 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%91%E3%82%B9"
   - text: '<span class="quiz">ウユニ塩湖</span>は世界最大の塩原として知られる'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A6%E3%83%8B%E5%A1%A9%E6%B9%96"
+
+# ===== OSM ヒーロー設定（PoC） =====
+mapProvider: "osm"
+mapPins:
+  - { lat: -16.500, lng: -68.150, label: "ラパス", type: "capital", note: "事実上の首都・標高約3,600mの世界最高首都圏" }
+  - { lat: -19.034, lng: -65.262, label: "スクレ", type: "capital", note: "憲法上の首都・世界遺産の白い街" }
+  - { lat: -17.783, lng: -63.182, label: "サンタクルス", type: "city", note: "ボリビア最大の都市・経済の中心" }
+  - { lat: -17.394, lng: -66.157, label: "コチャバンバ", type: "city", note: "中央高原の都市・温暖な気候で知られる" }
+  - { lat: -19.586, lng: -65.753, label: "ポトシ", type: "city", note: "セロ・リコ銀山の街・スペイン植民地時代の銀生産地" }
+  - { lat: -20.261, lng: -67.628, label: "ウユニ塩湖", type: "landmark", note: "世界最大の塩原（約10,500km²）・乾季は鏡張りに" }
+  - { lat: -15.823, lng: -69.333, label: "チチカカ湖", type: "landmark", note: "ペルー国境の高地湖・標高3,810m" }
+  - { lat: -18.106, lng: -68.882, label: "サハマ山", type: "landmark", note: "ボリビア最高峰の火山（標高6,542m）" }
+heroGallery:
+  - "/rule/cs_america/bolivia/sajama_bolivia_volcano_way.jpg"
+  - "/rule/cs_america/bolivia/salt_salar_landscape_salar.jpg"
+  - "/rule/cs_america/bolivia/la_paz_andes_south.jpg"
+  - "/rule/cs_america/bolivia/Cemitério_de_trens,_Uyuni,_Bolivia.jpg"
+  - "/rule/cs_america/bolivia/ilha_do_sol14.jpg"
+  - "/rule/cs_america/bolivia/19683170924_abbf5210de_c.jpg"
 ---
 
 <div class="main-desciption country-description">
