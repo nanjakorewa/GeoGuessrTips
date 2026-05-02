@@ -23,6 +23,20 @@ sc: [
     ["../srilanka/", "Sri Lanka"],
     ["../aani/", "Kepulauan Andaman"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 28.614, lng: 77.209, label: "ニューデリー", type: "capital", note: "インド共和国の首都" }
+  - { lat: 19.076, lng: 72.878, label: "ムンバイ", type: "city", note: "インド最大の経済都市・金融の中心" }
+  - { lat: 12.972, lng: 77.594, label: "バンガロール", type: "city", note: "インドのIT産業の中心都市" }
+  - { lat: 22.572, lng: 88.364, label: "コルカタ", type: "city", note: "東部の文化・商業の中心都市" }
+  - { lat: 13.083, lng: 80.270, label: "チェンナイ", type: "city", note: "南インドの主要港湾都市" }
+  - { lat: 27.175, lng: 78.042, label: "タージマハル", type: "landmark", note: "アーグラの世界遺産・大理石の霊廟" }
+  - { lat: 25.318, lng: 82.973, label: "ヴァーラーナシー", type: "historical", note: "ガンジス川の聖地・ヒンドゥー教の中心地" }
+features:
+  - text: '公用語は<span class="quiz">ヒンディー語</span>と英語であり22の指定言語が憲法で認められている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E5%85%AC%E7%94%A8%E8%AA%9E"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

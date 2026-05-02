@@ -11,6 +11,19 @@ flag: "MR.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 18.079, lng: -15.965, label: "Nouakchott", type: "capital", note: "Ibu kota, kota terbesar di pesisir Atlantik" }
+  - { lat: 20.931, lng: -17.034, label: "Nouadhibou", type: "port", note: "Kota terbesar kedua, pelabuhan utama ekspor bijih besi" }
+  - { lat: 16.524, lng: -9.587, label: "Kaedi", type: "city", note: "Kota selatan di tepi Sungai Senegal" }
+  - { lat: 22.690, lng: -12.713, label: "Zouerat", type: "city", note: "Lokasi tambang bijih besi, titik awal kereta barang terpanjang di dunia" }
+  - { lat: 16.629, lng: -11.402, label: "Selibaby", type: "city", note: "Kota daerah di selatan" }
+  - { lat: 20.518, lng: -13.040, label: "Chinguetti", type: "historical", note: "Kota karavan warisan dunia, terkenal dengan perpustakaan tua" }
+features:
+  - text: 'Sebagian besar wilayah ditutupi <span class="quiz">Gurun Sahara</span>, dan pertanian terbatas di sepanjang Sungai Senegal'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%82%BF%E3%83%8B%E3%82%A2"
+  - text: 'Ekspor <span class="quiz">bijih besi</span> menjadi industri utama, dan kereta barang terpanjang di dunia beroperasi dari tambang ke pelabuhan'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%82%BF%E3%83%8B%E3%82%A2#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

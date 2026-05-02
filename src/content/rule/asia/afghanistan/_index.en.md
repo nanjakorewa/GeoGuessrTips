@@ -13,6 +13,21 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.555, lng: 69.207, label: "カーブル", type: "capital", note: "アフガニスタンの首都・最大都市" }
+  - { lat: 31.610, lng: 65.710, label: "カンダハール", type: "city", note: "南部の主要都市・歴史的中心地" }
+  - { lat: 34.342, lng: 62.204, label: "ヘラート", type: "city", note: "西部の文化都市・シルクロードの要衝" }
+  - { lat: 36.728, lng: 67.110, label: "マザーリシャリーフ", type: "city", note: "北部の主要都市・聖廟で知られる" }
+  - { lat: 34.800, lng: 67.825, label: "バーミヤン", type: "historical", note: "世界遺産・破壊された大仏で知られる" }
+  - { lat: 36.500, lng: 71.500, label: "ヒンドゥークシュ山脈", type: "nature", note: "国土を縦断する山脈・最高峰7,492m" }
+features:
+  - text: '公用語は<span class="quiz">ダリー語</span>と<span class="quiz">パシュトー語</span>の2つである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3"
+  - text: '首都は<span class="quiz">カーブル</span>であり国内最大の都市でもある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%96%E3%83%AB"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Shizuoka.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.976, lng: 138.388, label: "Shizuoka Station", type: "capital", note: "Capital of Shizuoka Prefecture" }
+  - { lat: 34.710, lng: 137.726, label: "Hamamatsu Station", type: "city", note: "Center of western Shizuoka, musical instrument industry" }
+  - { lat: 35.361, lng: 138.728, label: "Mt. Fuji", type: "nature", note: "Border with Yamanashi Prefecture" }
+  - { lat: 34.998, lng: 138.519, label: "Miho no Matsubara", type: "landmark", note: "Component of Mt. Fuji World Heritage Site" }
+  - { lat: 34.875, lng: 138.946, label: "Izu Peninsula", type: "nature", note: "Hot spring and tourist area" }
+  - { lat: 34.975, lng: 138.385, label: "Sunpu Castle", type: "historical", note: "Retirement castle of Tokugawa Ieyasu" }
+features:
+  - text: 'Top in Japan for <span class="quiz">tea</span> production, with vast tea fields centered on the Makinohara Plateau'
+    ref: "https://ja.wikipedia.org/wiki/静岡県#農業"
+  - text: 'Hamamatsu is a major production hub for <span class="quiz">musical instruments</span> (Yamaha, Kawai) and <span class="quiz">motorcycles</span> (Suzuki, Yamaha Motor)'
+    ref: "https://ja.wikipedia.org/wiki/浜松市#工業"
 ---
 
 

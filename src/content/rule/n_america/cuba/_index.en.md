@@ -14,6 +14,20 @@ dont_show_usda: true
 is_has_distinctive_googlecar: false
 is_unofficial: true
 flag_height: "400px"
+mapProvider: "osm"
+mapPins:
+  - { lat: 23.135, lng: -82.359, label: "Havana", type: "capital", note: "Capital, the largest city in the Caribbean, with a World Heritage old town" }
+  - { lat: 20.022, lng: -75.829, label: "Santiago de Cuba", type: "city", note: "Second-largest city in eastern Cuba" }
+  - { lat: 21.380, lng: -77.917, label: "Camaguey", type: "city", note: "Major central city and World Heritage Site" }
+  - { lat: 22.408, lng: -79.964, label: "Santa Clara", type: "city", note: "Central city with a history tied to the revolution" }
+  - { lat: 21.893, lng: -82.769, label: "Cienfuegos", type: "port", note: "Southern port city and World Heritage Site" }
+  - { lat: 21.804, lng: -79.984, label: "Trinidad", type: "historical", note: "World Heritage Site preserving colonial-era streetscapes" }
+  - { lat: 22.616, lng: -83.708, label: "Vinales Valley", type: "nature", note: "World Heritage tobacco-growing region" }
+features:
+  - text: 'The largest island in the Caribbean, governed under a <span class="quiz">socialist</span> system'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90"
+  - text: 'Due to the US embargo, <span class="quiz">1950s classic cars</span> are still in everyday use'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90#%E4%BA%A4%E9%80%9A"
 ---
 
 <div class="main-desciption country-description">

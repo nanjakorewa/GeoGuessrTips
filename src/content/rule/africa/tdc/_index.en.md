@@ -15,6 +15,19 @@ sc_title: "Related Pages"
 sc: [
     ["../../europe/united-kingdom/", "United Kingdom"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -37.067, lng: -12.311, label: "Edinburgh of the Seven Seas", type: "capital", note: "Capital and the island's only settlement" }
+  - { lat: -37.092, lng: -12.282, label: "Queen Mary's Peak", type: "nature", note: "Active volcano and the island's highest point (2,062 m)" }
+  - { lat: -37.317, lng: -12.683, label: "Inaccessible Island", type: "nature", note: "World Heritage seabird breeding ground" }
+  - { lat: -37.417, lng: -12.483, label: "Nightingale Island", type: "nature", note: "Small island for seabird conservation" }
+  - { lat: -40.350, lng: -9.878, label: "Gough Island", type: "nature", note: "World Heritage site; uninhabited but hosts a weather station" }
+  - { lat: -37.067, lng: -12.317, label: "Calvert Point", type: "landmark", note: "Cape near Edinburgh" }
+features:
+  - text: 'A British Overseas Territory often called the <span class="quiz">most isolated inhabited island</span> in the world'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%82%AF%E3%83%BC%E3%83%8B%E3%83%A3"
+  - text: 'Population is around <span class="quiz">250</span>; there is no airport, so access is only by ship'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%82%AF%E3%83%BC%E3%83%8B%E3%83%A3#%E4%BA%BA%E5%8F%A3"
 ---
 
 <div class="main-desciption country-description">

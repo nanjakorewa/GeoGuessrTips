@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Kanagawa.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.466, lng: 139.622, label: "Stasiun Yokohama", type: "capital", note: "Ibu kota Prefektur Kanagawa" }
+  - { lat: 35.443, lng: 139.638, label: "Minato Mirai", type: "landmark", note: "Kawasan wisata tepi laut Yokohama" }
+  - { lat: 35.317, lng: 139.547, label: "Buddha Agung Kamakura", type: "historical", note: "Kuil Kotoku-in, Harta Nasional" }
+  - { lat: 35.532, lng: 139.701, label: "Stasiun Kawasaki", type: "city", note: "Kota industri, Kawasan Industri Keihin" }
+  - { lat: 35.270, lng: 139.073, label: "Hakone", type: "nature", note: "Onsen, taman nasional" }
+  - { lat: 35.299, lng: 139.483, label: "Pulau Enoshima", type: "landmark", note: "Tempat terkenal Shonan" }
+features:
+  - text: '<span class="quiz">Pelabuhan Yokohama</span> adalah pelabuhan perdagangan internasional utama Jepang sejak dibuka pada akhir zaman Edo'
+    ref: "https://ja.wikipedia.org/wiki/横浜港"
+  - text: 'Menjadi inti Kawasan Industri Keihin, dengan klaster <span class="quiz">industri berat</span> seperti otomotif dan petrokimia'
+    ref: "https://ja.wikipedia.org/wiki/京浜工業地帯"
 ---
 
 

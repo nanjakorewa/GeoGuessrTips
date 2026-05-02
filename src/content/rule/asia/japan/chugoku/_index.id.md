@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 flag: "JP.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.397, lng: 132.475, label: "Stasiun Hiroshima", type: "city", note: "Ibu kota Prefektur Hiroshima, kota terbesar di Chugoku" }
+  - { lat: 34.066, lng: 131.474, label: "Stasiun Yamaguchi", type: "city", note: "Ibu kota Prefektur Yamaguchi" }
+  - { lat: 34.665, lng: 133.918, label: "Stasiun Okayama", type: "city", note: "Ibu kota Prefektur Okayama, Momotaro" }
+  - { lat: 35.467, lng: 133.050, label: "Stasiun Matsue", type: "city", note: "Ibu kota Prefektur Shimane, Kastil Matsue" }
+  - { lat: 35.500, lng: 134.235, label: "Stasiun Tottori", type: "city", note: "Ibu kota Prefektur Tottori, Bukit Pasir Tottori" }
+  - { lat: 34.296, lng: 132.320, label: "Kuil Itsukushima", type: "landmark", note: "Prefektur Hiroshima, gerbang torii laut Warisan Dunia" }
 ---
 
 

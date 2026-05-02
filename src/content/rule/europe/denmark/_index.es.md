@@ -19,6 +19,20 @@ sc: [
     ["../netherlands/", "Países Bajos"],
     ["../france/", "Francia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 55.676, lng: 12.568, label: "Copenhague", type: "capital", note: "Capital, centro cultural de Escandinavia" }
+  - { lat: 56.156, lng: 10.203, label: "Aarhus", type: "city", note: "Ciudad principal de la península de Jutlandia" }
+  - { lat: 55.404, lng: 10.402, label: "Odense", type: "city", note: "Ciudad natal de Andersen" }
+  - { lat: 57.048, lng: 9.921, label: "Aalborg", type: "city", note: "Ciudad principal del norte de Jutlandia" }
+  - { lat: 55.713, lng: 9.535, label: "Billund", type: "landmark", note: "Sede de Legoland" }
+  - { lat: 55.692, lng: 12.599, label: "La Sirenita", type: "landmark", note: "Símbolo de Copenhague" }
+  - { lat: 55.460, lng: 8.450, label: "Mar de Wadden", type: "nature", note: "Marismas Patrimonio Mundial" }
+features:
+  - text: 'Una de las monarquías más antiguas del mundo; conocida como cuna de los bloques <span class="quiz">LEGO</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B4"
+  - text: 'Pionera en <span class="quiz">energía eólica</span>, cubre cerca de la mitad de su electricidad; tiene como territorios autónomos <span class="quiz">Groenlandia</span> y las Islas Feroe'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

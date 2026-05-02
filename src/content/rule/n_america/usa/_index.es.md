@@ -23,6 +23,21 @@ maps: [
     ["https://www.geoguessr.com/maps/5fb4a16924491b00010c608d", "US State-Specific Clues"],
     ["https://www.geoguessr.com/maps/5ab6b56818399e27583294d0", "United States (no blurry)"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 38.895, lng: -77.037, label: "ワシントンD.C.", type: "capital", note: "首都・連邦政府の中心" }
+  - { lat: 40.713, lng: -74.006, label: "ニューヨーク", type: "city", note: "アメリカ最大の都市・東海岸の経済の中心" }
+  - { lat: 34.052, lng: -118.244, label: "ロサンゼルス", type: "city", note: "西海岸最大の都市・エンタメ産業の中心" }
+  - { lat: 41.878, lng: -87.630, label: "シカゴ", type: "city", note: "中西部最大の都市・五大湖南岸" }
+  - { lat: 25.762, lng: -80.192, label: "マイアミ", type: "city", note: "南東部のリゾート都市・カリブ海への玄関口" }
+  - { lat: 36.107, lng: -112.113, label: "グランドキャニオン", type: "nature", note: "アリゾナ州の世界遺産の大渓谷" }
+  - { lat: 40.689, lng: -74.044, label: "自由の女神", type: "landmark", note: "ニューヨーク港の象徴的な世界遺産" }
+  - { lat: 38.898, lng: -77.037, label: "ホワイトハウス", type: "landmark", note: "大統領官邸" }
+features:
+  - text: '50の州と1つの連邦直轄地からなり、世界最大の<span class="quiz">GDP</span>を持つ国家である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+  - text: '国土は北米大陸の中央部と<span class="quiz">アラスカ</span>・ハワイの飛び地から構成される'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

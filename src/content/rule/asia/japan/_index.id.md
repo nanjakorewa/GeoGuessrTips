@@ -18,6 +18,16 @@ maps: [
     ["https://www.geoguessr.com/maps/615877afcbf30d0001bee009", "Kawasan Kota Jepang"],
     ["https://www.geoguessr.com/maps/59cf49695d2de4db80351e6e", "Japan • 日本 60k+"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.682, lng: 139.766, label: "Stasiun Tokyo", type: "capital", note: "Ibu kota Jepang dan kawasan metropolitan terbesar" }
+  - { lat: 34.702, lng: 135.495, label: "Stasiun Osaka", type: "city", note: "Kota ekonomi terbesar di Jepang Barat" }
+  - { lat: 35.012, lng: 135.768, label: "Stasiun Kyoto", type: "historical", note: "Ibu kota seribu tahun, kota sejarah dan budaya" }
+  - { lat: 43.069, lng: 141.351, label: "Stasiun Sapporo", type: "city", note: "Kota utama Hokkaido" }
+  - { lat: 33.590, lng: 130.421, label: "Fukuoka (Stasiun Hakata)", type: "city", note: "Kota utama Kyushu, pintu gerbang ke Asia" }
+  - { lat: 26.213, lng: 127.679, label: "Naha", type: "city", note: "Ibu kota Prefektur Okinawa, kota tropis" }
+  - { lat: 35.361, lng: 138.728, label: "Gunung Fuji", type: "nature", note: "Puncak tertinggi Jepang (3.776 m), Warisan Budaya Dunia" }
+  - { lat: 34.296, lng: 132.320, label: "Kuil Itsukushima", type: "landmark", note: "Prefektur Hiroshima, gerbang torii laut Warisan Dunia" }
 ---
 
 <div class="main-desciption country-description">

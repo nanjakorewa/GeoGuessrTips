@@ -16,6 +16,14 @@ sc: [
     ["../israel/", "Israel"],
     ["../jordan/", "Jordania"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.905, lng: 35.204, label: "Ramala", type: "capital", note: "Centro administrativo de facto" }
+  - { lat: 31.706, lng: 35.207, label: "Belén", type: "historical", note: "Lugar de nacimiento de Jesucristo: basílica de la Natividad" }
+  - { lat: 31.529, lng: 35.097, label: "Hebrón", type: "city", note: "Ciudad principal del sur de Cisjordania" }
+  - { lat: 32.221, lng: 35.262, label: "Nablus", type: "city", note: "Centro económico y cultural del norte de Cisjordania" }
+  - { lat: 31.534, lng: 34.467, label: "Gaza", type: "city", note: "Ciudad principal de la franja de Gaza, junto al Mediterráneo" }
+  - { lat: 31.857, lng: 35.461, label: "Jericó", type: "historical", note: "Una de las ciudades más antiguas del mundo" }
 ---
 
 <div class="main-desciption country-description">

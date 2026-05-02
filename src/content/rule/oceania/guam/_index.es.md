@@ -20,6 +20,19 @@ sc: [
     ["../northern_mariana_islands/", "Islas Marianas del Norte"],
     ["../../cs_america/colombia/", "Islas remotas de Colombia"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 13.475, lng: 144.752, label: "ハガニア", type: "capital", note: "首都・行政の中心地" }
+  - { lat: 13.479, lng: 144.795, label: "タモン", type: "city", note: "観光ホテルが集中するリゾート地区" }
+  - { lat: 13.444, lng: 144.737, label: "アガナ湾", type: "nature", note: "首都に隣接する美しい湾" }
+  - { lat: 13.456, lng: 144.788, label: "アガニア・ハイツ", type: "city", note: "中部の住宅地" }
+  - { lat: 13.585, lng: 144.857, label: "アンダーセン空軍基地", type: "landmark", note: "島北部の主要米軍基地" }
+  - { lat: 13.376, lng: 144.661, label: "アプラ港", type: "port", note: "西海岸の主要港湾・米海軍基地" }
+features:
+  - text: '<span class="quiz">アメリカ合衆国</span>の非自治的編入地域であり米軍基地が島の約3割を占める'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%A0"
+  - text: '日本から約3時間半で行ける<span class="quiz">リゾート</span>地として人気が高い'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%A0"
 ---
 
 <div class="main-desciption country-description">

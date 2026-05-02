@@ -17,6 +17,20 @@ sc: [
     ["../romania/", "Rumunia"],
     ["../ukraine/", "Ukraina"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 52.230, lng: 21.012, label: "Varsóvia", type: "capital", note: "Capital com centro histórico reconstruído após a Segunda Guerra Mundial" }
+  - { lat: 50.064, lng: 19.945, label: "Cracóvia", type: "historical", note: "Antiga capital, centro histórico Patrimônio Mundial" }
+  - { lat: 54.352, lng: 18.646, label: "Gdańsk", type: "port", note: "Cidade histórica na costa do Báltico" }
+  - { lat: 51.110, lng: 17.032, label: "Wrocław", type: "city", note: "Principal cidade da região da Silésia" }
+  - { lat: 52.407, lng: 16.925, label: "Poznań", type: "city", note: "Principal cidade do oeste" }
+  - { lat: 50.034, lng: 19.180, label: "Auschwitz", type: "historical", note: "Antigo campo de concentração, Patrimônio Mundial" }
+  - { lat: 49.299, lng: 19.949, label: "Zakopane", type: "nature", note: "Estação climática aos pés das montanhas Tatras" }
+features:
+  - text: 'Possui um dos maiores territórios da Europa Central e abriga 14 <span class="quiz">Patrimônios Mundiais</span>, incluindo o antigo campo de concentração de <span class="quiz">Auschwitz</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A3%E3%83%83%E3%83%84%3D%E3%83%93%E3%83%AB%E3%82%B1%E3%83%8A%E3%82%A6%E5%BC%B7%E5%88%B6%E5%8F%8E%E5%AE%B9%E6%89%80"
+  - text: 'Terra natal de <span class="quiz">Chopin</span>, deu ao mundo grandes nomes como <span class="quiz">Copérnico</span> e Marie Curie'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%91%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

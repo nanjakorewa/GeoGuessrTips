@@ -12,6 +12,21 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 41.716, lng: 44.783, label: "Tbilisi", type: "capital", note: "Ibu kota dan kota terbesar Georgia" }
+  - { lat: 42.270, lng: 42.708, label: "Kutaisi", type: "city", note: "Kota utama di barat, ibu kota Kerajaan Kolkhis kuno" }
+  - { lat: 41.643, lng: 41.640, label: "Batumi", type: "port", note: "Kota resor dan pelabuhan di pesisir Laut Hitam" }
+  - { lat: 41.840, lng: 44.717, label: "Mtskheta", type: "historical", note: "Warisan dunia, ibu kota tertua Georgia" }
+  - { lat: 42.708, lng: 44.660, label: "Gunung Kazbek", type: "nature", note: "Puncak terkenal Kaukasus (5.047 m)" }
+  - { lat: 42.500, lng: 43.000, label: "Pegunungan Kaukasus", type: "nature", note: "Pegunungan besar yang membentang di utara negara" }
+features:
+  - text: 'Terletak di sisi selatan <span class="quiz">Pegunungan Kaukasus</span>, di perbatasan antara Eropa dan Asia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2"
+  - text: 'Dianggap sebagai salah satu tempat asal <span class="quiz">anggur</span> tertua di dunia dengan sejarah sekitar 8.000 tahun'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%B3"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

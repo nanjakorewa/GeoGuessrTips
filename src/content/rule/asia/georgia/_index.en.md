@@ -12,6 +12,21 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 41.716, lng: 44.783, label: "Tbilisi", type: "capital", note: "Capital and largest city of Georgia" }
+  - { lat: 42.270, lng: 42.708, label: "Kutaisi", type: "city", note: "Major western city; capital of the ancient Kingdom of Colchis" }
+  - { lat: 41.643, lng: 41.640, label: "Batumi", type: "port", note: "Resort and port city on the Black Sea coast" }
+  - { lat: 41.840, lng: 44.717, label: "Mtskheta", type: "historical", note: "World Heritage site; Georgia's oldest capital" }
+  - { lat: 42.708, lng: 44.660, label: "Mount Kazbek", type: "nature", note: "Famed Caucasus peak (5,047 m)" }
+  - { lat: 42.500, lng: 43.000, label: "Caucasus Mountains", type: "nature", note: "Major mountain range across the north" }
+features:
+  - text: 'Located on the south side of the <span class="quiz">Caucasus Mountains</span>, on the boundary between Europe and Asia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2"
+  - text: 'Considered one of the world''s oldest <span class="quiz">wine</span>-producing regions, with a history of about 8,000 years'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%B3"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

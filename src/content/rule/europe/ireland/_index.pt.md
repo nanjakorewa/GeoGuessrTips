@@ -17,6 +17,20 @@ sc: [
     ["../mannin/", "Ilha de Man"],
     ["../malta/", "Malta"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 53.350, lng: -6.260, label: "Dublin", type: "capital", note: "Capital e berço da cerveja Guinness" }
+  - { lat: 51.898, lng: -8.475, label: "Cork", type: "city", note: "Principal cidade do sul" }
+  - { lat: 52.668, lng: -8.630, label: "Limerick", type: "city", note: "Cidade histórica às margens do rio Shannon" }
+  - { lat: 53.272, lng: -9.050, label: "Galway", type: "city", note: "Cidade cultural da costa oeste" }
+  - { lat: 52.993, lng: -9.428, label: "Penhascos de Moher", type: "nature", note: "Falésia atlântica e atração turística" }
+  - { lat: 51.770, lng: -10.541, label: "Anel de Kerry", type: "nature", note: "Rota panorâmica do sudoeste" }
+  - { lat: 53.391, lng: -6.392, label: "Phoenix Park", type: "nature", note: "Um dos maiores parques urbanos da Europa" }
+features:
+  - text: 'Chamado de "<span class="quiz">Ilha Esmeralda</span>" pela exuberância de sua natureza, é conhecido como berço da <span class="quiz">cerveja Guinness</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8D%E3%82%B9_(%E3%83%93%E3%83%BC%E3%83%AB)"
+  - text: 'Centro da <span class="quiz">cultura celta</span>, tem como idiomas oficiais o irlandês (<span class="quiz">gaélico</span>) e o inglês'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

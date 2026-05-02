@@ -11,6 +11,21 @@ flag: "LA.svg"
 jetro_detail: true
 plonkit: true
 is_has_distinctive_googlecar: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 17.975, lng: 102.633, label: "Vientiane", type: "capital", note: "Capital of Laos on the Mekong River" }
+  - { lat: 19.886, lng: 102.135, label: "Luang Prabang", type: "historical", note: "World Heritage former capital" }
+  - { lat: 15.121, lng: 105.798, label: "Pakse", type: "city", note: "Largest city in the south" }
+  - { lat: 19.612, lng: 103.736, label: "Xiangkhouang", type: "historical", note: "Famous for the Plain of Jars (mysterious stone jars)" }
+  - { lat: 17.412, lng: 104.787, label: "Savannakhet", type: "city", note: "Major city in central Laos" }
+  - { lat: 17.500, lng: 104.500, label: "Mekong River", type: "nature", note: "Great Southeast Asian river running through the country" }
+features:
+  - text: 'Southeast Asia''s only <span class="quiz">landlocked</span> country, traversed by the <span class="quiz">Mekong River</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AA%E3%82%B9"
+  - text: 'World Heritage <span class="quiz">Luang Prabang</span> is a former capital famed for its many Buddhist temples'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%91%E3%83%90%E3%83%BC%E3%83%B3%E3%81%AE%E7%94%BA"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

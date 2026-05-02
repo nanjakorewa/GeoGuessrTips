@@ -17,6 +17,23 @@ sc: [
     ["../macau/", "Makau"],
     ["../hongkong/", "Hong Kong"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 39.904, lng: 116.407, label: "Beijing", type: "capital", note: "Ibu kota Republik Rakyat Tiongkok, pusat politik dan budaya" }
+  - { lat: 31.230, lng: 121.474, label: "Shanghai", type: "city", note: "Kota ekonomi terbesar Tiongkok, pusat keuangan internasional" }
+  - { lat: 22.302, lng: 114.177, label: "Hong Kong", type: "city", note: "Daerah Administratif Khusus, pusat keuangan internasional" }
+  - { lat: 39.907, lng: 116.397, label: "Tiananmen", type: "landmark", note: "Lapangan bersejarah di pusat kota Beijing" }
+  - { lat: 40.432, lng: 116.570, label: "Tembok Besar Tiongkok", type: "historical", note: "Warisan dunia, benteng pertahanan kuno sepanjang sekitar 20.000 km" }
+  - { lat: 30.659, lng: 104.066, label: "Chengdu", type: "city", note: "Ibu kota Provinsi Sichuan, pusat penelitian penangkaran panda" }
+  - { lat: 29.561, lng: 106.553, label: "Chongqing", type: "city", note: "Kota terbesar di barat daya Tiongkok yang langsung di bawah pemerintah pusat" }
+  - { lat: 23.129, lng: 113.264, label: "Guangzhou", type: "city", note: "Pusat ekonomi wilayah Tiongkok Selatan" }
+features:
+  - text: 'Salah satu negara dengan <span class="quiz">populasi</span> terbesar di dunia, merupakan negara multietnis yang terdiri dari 56 kelompok etnis'
+    ref: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+  - text: '<span class="quiz">Tembok Besar Tiongkok</span> terdaftar sebagai warisan dunia dengan panjang sekitar 20.000 km'
+    ref: "https://ja.wikipedia.org/wiki/%E4%B8%87%E9%87%8C%E3%81%AE%E9%95%B7%E5%9F%8E"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

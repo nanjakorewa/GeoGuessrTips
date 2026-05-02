@@ -17,6 +17,20 @@ sc: [
     ["../hungary/", "Hungría"],
     ["../slovakia/", "Eslovaquia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 42.698, lng: 23.322, label: "Sofía", type: "capital", note: "Capital, centro político y económico del país" }
+  - { lat: 42.150, lng: 24.749, label: "Plovdiv", type: "historical", note: "Una de las ciudades más antiguas de Europa, capital cultural europea 2019" }
+  - { lat: 43.207, lng: 27.915, label: "Varna", type: "port", note: "Principal ciudad portuaria del mar Negro" }
+  - { lat: 42.510, lng: 27.461, label: "Burgas", type: "port", note: "Ciudad portuaria del mar Negro" }
+  - { lat: 42.624, lng: 25.395, label: "Kazanlak", type: "city", note: "Valle de las Rosas, productor de aceite de rosas" }
+  - { lat: 42.135, lng: 23.341, label: "Monasterio de Rila", type: "landmark", note: "Monasterio ortodoxo Patrimonio Mundial" }
+  - { lat: 42.179, lng: 24.749, label: "Casco antiguo de Plovdiv", type: "historical", note: "Conserva ruinas de la época romana" }
+features:
+  - text: 'Considerado cuna del <span class="quiz">alfabeto cirílico</span>; único país de la UE que lo utiliza oficialmente'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%AB%E6%96%87%E5%AD%97"
+  - text: 'El <span class="quiz">Valle de las Rosas</span> (zona de Kazanlak) produce cerca del 85% del <span class="quiz">aceite de rosas</span> del mundo, materia prima para la industria del perfume'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%81%AE%E8%B0%B7"
 ---
 
 <div class="main-desciption country-description">

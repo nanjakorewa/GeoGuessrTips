@@ -13,6 +13,19 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 15.369, lng: 44.191, label: "Sanaa", type: "capital", note: "Ibu kota, kota tuanya merupakan warisan dunia" }
+  - { lat: 12.789, lng: 45.022, label: "Aden", type: "port", note: "Kota pelabuhan utama di selatan, ibu kota sementara" }
+  - { lat: 13.578, lng: 44.020, label: "Taiz", type: "city", note: "Kota pegunungan di barat daya" }
+  - { lat: 14.798, lng: 42.951, label: "Hodeidah", type: "port", note: "Kota pelabuhan di pesisir Laut Merah" }
+  - { lat: 15.926, lng: 48.786, label: "Shibam", type: "historical", note: "Warisan dunia yang dikenal dengan pencakar langit dari tanah liat" }
+  - { lat: 12.500, lng: 53.917, label: "Pulau Socotra", type: "nature", note: "Kekayaan spesies endemik, warisan alam dunia" }
+features:
+  - text: 'Tempat asal <span class="quiz">kopi Mocha</span> dengan sejarah budidaya kopi yang panjang'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%AB_(%E3%82%A4%E3%82%A8%E3%83%A1%E3%83%B3)"
+  - text: 'Kota tua ibu kota <span class="quiz">Sanaa</span> memiliki gaya arsitektur unik yang terdaftar sebagai warisan dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%8A%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

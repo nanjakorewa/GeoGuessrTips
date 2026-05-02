@@ -21,6 +21,19 @@ sc: [
     ["../ecuador/", "Ekuador"],
     ["../../n_america/mexico/", "Meksiko"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 4.711, lng: -74.072, label: "Bogota", type: "capital", note: "Ibu kota, kota dataran tinggi Andes dengan ketinggian sekitar 2.640 m" }
+  - { lat: 6.244, lng: -75.581, label: "Medellin", type: "city", note: "Kota terbesar kedua di Kolombia, kota beriklim semi sepanjang tahun" }
+  - { lat: 3.452, lng: -76.532, label: "Cali", type: "city", note: "Pusat musik salsa" }
+  - { lat: 10.391, lng: -75.479, label: "Cartagena", type: "city", note: "Kota tua era kolonial warisan dunia di pesisir Karibia" }
+  - { lat: 11.241, lng: -74.199, label: "Santa Marta", type: "city", note: "Kota kolonial tertua di pesisir Karibia" }
+  - { lat: 5.054, lng: -75.508, label: "Lanskap Budaya Kopi", type: "landmark", note: "Daerah perkebunan kopi warisan dunia" }
+features:
+  - text: 'Satu-satunya negara di Amerika Selatan yang berbatasan dengan Samudra Pasifik dan Laut Karibia, serta merupakan produsen utama <span class="quiz">kopi</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+  - text: 'Nama negara ini berasal dari Christopher <span class="quiz">Columbus</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2#%E5%9B%BD%E5%90%8D"
 ---
 
 <div class="main-desciption country-description">

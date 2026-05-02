@@ -11,6 +11,19 @@ flag: "CW.svg"
 no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_googlecar: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 12.109, lng: -68.933, label: "Willemstad", type: "capital", note: "Capital with a colorful World Heritage historic district" }
+  - { lat: 12.131, lng: -68.946, label: "Punda", type: "historical", note: "Old town with the Handelskade and Queen Emma Bridge" }
+  - { lat: 12.197, lng: -69.156, label: "Christoffel National Park", type: "nature", note: "Nature reserve home to Mount Christoffel, the island's highest peak" }
+  - { lat: 12.378, lng: -69.158, label: "Westpunt", type: "city", note: "Beach-rich area in the northwest of the island" }
+  - { lat: 12.064, lng: -68.864, label: "Spanish Water", type: "port", note: "Natural bay and marina in the southeast" }
+  - { lat: 12.302, lng: -69.150, label: "Shete Boka National Park", type: "nature", note: "Famous for sea caves and a rugged coastline" }
+features:
+  - text: 'A constituent country of the <span class="quiz">Netherlands</span> in the Caribbean, where Papiamento is widely spoken'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%A9%E3%82%BD%E3%83%BC"
+  - text: 'The historic district of <span class="quiz">Willemstad</span>, lined with colorful buildings, is a UNESCO World Heritage Site'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AC%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%83%E3%83%88"
 ---
 
 <div class="main-desciption country-description">

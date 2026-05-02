@@ -15,6 +15,17 @@ sc_title: "Wilayah yang Mudah Tertukar"
 sc: [
     ["../argentina/", "Argentina"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -34.901, lng: -56.165, label: "Montevideo", type: "capital", note: "Ibu kota, kota terbesar di muara Sungai La Plata" }
+  - { lat: -34.486, lng: -54.343, label: "Punta del Este", type: "city", note: "Resor mewah di pesisir timur" }
+  - { lat: -32.523, lng: -55.764, label: "Salto", type: "city", note: "Kota di barat laut, di perbatasan Argentina" }
+  - { lat: -34.471, lng: -57.838, label: "Colonia del Sacramento", type: "historical", note: "Kota tua era Portugis, warisan dunia" }
+  - { lat: -32.371, lng: -54.167, label: "Melo", type: "city", note: "Kota di timur laut, di perbatasan Brasil" }
+  - { lat: -34.339, lng: -53.508, label: "La Paloma", type: "port", note: "Kota nelayan di pesisir timur" }
+features:
+  - text: 'Salah satu negara terkecil di Amerika Selatan, dengan seluruh wilayahnya tertutup padang rumput yang disebut <span class="quiz">Pampa</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%82%B0%E3%82%A2%E3%82%A4"
 ---
 
 <div class="main-desciption country-description">

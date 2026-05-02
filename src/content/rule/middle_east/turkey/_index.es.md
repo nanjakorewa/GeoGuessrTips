@@ -19,6 +19,20 @@ sc: [
     ["../../europe/macedonia/", "macedonia del norte"],
     ["../../europe/greece/", "Grecia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 39.933, lng: 32.866, label: "Ankara", type: "capital", note: "Capital, ubicada en el centro de Anatolia" }
+  - { lat: 41.013, lng: 28.949, label: "Estambul", type: "city", note: "Ciudad más grande del país, a ambos lados del Bósforo" }
+  - { lat: 38.419, lng: 27.129, label: "Esmirna", type: "port", note: "Principal ciudad portuaria de la costa del Egeo" }
+  - { lat: 36.897, lng: 30.713, label: "Antalya", type: "city", note: "Centro turístico de la costa mediterránea" }
+  - { lat: 38.643, lng: 34.829, label: "Capadocia", type: "landmark", note: "Patrimonio Mundial famoso por sus formaciones rocosas y globos aerostáticos" }
+  - { lat: 37.924, lng: 29.121, label: "Pamukkale", type: "nature", note: "Patrimonio Mundial: terrazas calcáreas" }
+  - { lat: 37.875, lng: 27.264, label: "Éfeso", type: "historical", note: "Ruinas de la antigua Grecia y Roma" }
+features:
+  - text: 'Se extiende entre Asia y Europa; el <span class="quiz">estrecho del Bósforo</span> separa ambos continentes'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%9D%E3%83%A9%E3%82%B9%E6%B5%B7%E5%B3%A1"
+  - text: 'Cuenta con numerosos sitios Patrimonio Mundial, como las formaciones rocosas de <span class="quiz">Capadocia</span> y las terrazas de <span class="quiz">Pamukkale</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%83%E3%83%91%E3%83%89%E3%82%AD%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

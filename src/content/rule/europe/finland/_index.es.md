@@ -20,6 +20,20 @@ sc: [
     ]
 additional_link:
     - ["Finland Doc for Geoguessr", "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.g14913b7a907_1_0"]
+mapProvider: "osm"
+mapPins:
+  - { lat: 60.169, lng: 24.938, label: "Helsinki", type: "capital", note: "Capital, ciudad principal a orillas del Báltico" }
+  - { lat: 60.451, lng: 22.267, label: "Turku", type: "city", note: "Antigua capital, ciudad histórica" }
+  - { lat: 61.498, lng: 23.760, label: "Tampere", type: "city", note: "Mayor ciudad del interior" }
+  - { lat: 65.012, lng: 25.471, label: "Oulu", type: "city", note: "Ciudad principal del norte" }
+  - { lat: 66.504, lng: 25.730, label: "Rovaniemi", type: "city", note: "Centro de Laponia, aldea de Papá Noel" }
+  - { lat: 60.151, lng: 24.950, label: "Fortaleza de Suomenlinna", type: "landmark", note: "Fortaleza marítima Patrimonio Mundial" }
+  - { lat: 61.687, lng: 27.272, label: "Lago Saimaa", type: "nature", note: "Mayor lago del país" }
+features:
+  - text: 'Tiene unos <span class="quiz">188.000</span> lagos y se la llama "el <span class="quiz">país de los mil lagos</span>"; cuna de la sauna'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
+  - text: 'Reconocida mundialmente por su nivel educativo; sede de <span class="quiz">Nokia</span>, pionera de la industria de la telefonía móvil'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%AD%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

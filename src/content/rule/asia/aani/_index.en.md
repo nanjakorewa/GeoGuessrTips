@@ -18,6 +18,21 @@ sc: [
     ["../india/", "Regions with High Rainfall in Mainland India"],
     ["../lakshadweep/", "Lakshadweep"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 11.624, lng: 92.726, label: "Port Blair", type: "capital", note: "Hub city of the Andaman and Nicobar Islands" }
+  - { lat: 13.255, lng: 93.022, label: "Saddle Peak", type: "nature", note: "Highest peak in the archipelago (about 732 m)" }
+  - { lat: 11.553, lng: 92.616, label: "Havelock Island", type: "nature", note: "Tourist destination famed for its beautiful beaches" }
+  - { lat: 11.659, lng: 92.748, label: "Ross Island", type: "historical", note: "Island with ruins of the former British colony" }
+  - { lat: 12.523, lng: 92.928, label: "Rangat", type: "city", note: "Main town in the Middle Andaman district" }
+  - { lat: 11.450, lng: 92.700, label: "Little Andaman Island", type: "nature", note: "Southern island and home to indigenous peoples" }
+features:
+  - text: 'A Union Territory of India located in the <span class="quiz">Bay of Bengal</span>, made up of about 570 islands'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%8B%E3%82%B3%E3%83%90%E3%83%AB%E8%AB%B8%E5%B3%B6"
+  - text: 'The indigenous <span class="quiz">Sentinelese</span> are one of the world''s rare tribes that refuse contact with outsiders'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%8D%E3%83%AB%E6%97%8F"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

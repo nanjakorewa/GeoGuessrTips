@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Kumamoto.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 32.789, lng: 130.704, label: "Kumamoto Station", type: "capital", note: "Capital of Kumamoto Prefecture" }
+  - { lat: 32.806, lng: 130.706, label: "Kumamoto Castle", type: "historical", note: "Castle of Kato Kiyomasa" }
+  - { lat: 32.881, lng: 131.084, label: "Mt. Aso", type: "nature", note: "One of the world''s largest calderas" }
+  - { lat: 32.450, lng: 130.196, label: "Amakusa", type: "nature", note: "Islands, Christian history" }
+  - { lat: 32.211, lng: 130.401, label: "Minamata", type: "city", note: "City of environmental restoration" }
+  - { lat: 33.087, lng: 131.140, label: "Kurokawa Onsen", type: "nature", note: "Mountain hot spring resort" }
+features:
+  - text: '<span class="quiz">Mt. Aso</span> is an active volcano with one of the world''s largest calderas, surrounded by vast grasslands'
+    ref: "https://ja.wikipedia.org/wiki/阿蘇山"
+  - text: 'With TSMC''s factory entry, the <span class="quiz">semiconductor industry</span> is rapidly clustering'
+    ref: "https://ja.wikipedia.org/wiki/Japan_Advanced_Semiconductor_Manufacturing"
 ---
 
 

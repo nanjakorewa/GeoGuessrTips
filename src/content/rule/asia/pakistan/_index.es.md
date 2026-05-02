@@ -16,6 +16,22 @@ sc_title: "Regiones que se confunden"
 sc: [
     ["../india/", "India"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.684, lng: 73.048, label: "Islamabad", type: "capital", note: "Capital de Pakistán, ciudad planificada" }
+  - { lat: 24.861, lng: 67.010, label: "Karachi", type: "port", note: "Mayor ciudad del país y principal puerto" }
+  - { lat: 31.582, lng: 74.329, label: "Lahore", type: "city", note: "Centro cultural del este" }
+  - { lat: 34.015, lng: 71.524, label: "Peshawar", type: "city", note: "Ciudad principal del noroeste, histórico enclave estratégico" }
+  - { lat: 35.881, lng: 76.515, label: "K2", type: "nature", note: "Segunda montaña más alta del mundo (8.611 m)" }
+  - { lat: 35.000, lng: 75.000, label: "Karakórum", type: "nature", note: "Gran cordillera del norte, con algunos de los picos más altos del mundo" }
+  - { lat: 31.460, lng: 73.135, label: "Faisalabad", type: "city", note: "Ciudad industrial del Punyab" }
+features:
+  - text: 'El nombre del país significa "tierra de los puros" y su religión oficial es el <span class="quiz">islam</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+  - text: 'La <span class="quiz">Carretera del Karakórum</span> es conocida como la carretera internacional pavimentada de mayor altitud del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%AB%E3%83%A0%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

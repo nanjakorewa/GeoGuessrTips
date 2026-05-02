@@ -18,6 +18,18 @@ sc: [
     ["../montenegro/", "Montenegro"],
     ["../greece/", "Grecia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 45.815, lng: 15.982, label: "Zagreb", type: "capital", note: "Capital, ciudad principal del país" }
+  - { lat: 43.509, lng: 16.440, label: "Split", type: "city", note: "Palacio de Diocleciano, Patrimonio Mundial" }
+  - { lat: 42.650, lng: 18.094, label: "Dubrovnik", type: "historical", note: "Perla del Adriático, Patrimonio Mundial" }
+  - { lat: 45.328, lng: 14.442, label: "Rijeka", type: "port", note: "Ciudad portuaria del Adriático septentrional" }
+  - { lat: 45.066, lng: 13.640, label: "Pula", type: "city", note: "Famosa por su anfiteatro romano" }
+  - { lat: 44.881, lng: 15.620, label: "Lagos de Plitvice", type: "nature", note: "16 lagos y cascadas, Patrimonio Mundial" }
+  - { lat: 45.487, lng: 17.401, label: "Osijek", type: "city", note: "Ciudad principal de Eslavonia oriental" }
+features:
+  - text: 'La región de <span class="quiz">Dalmacia</span>, en la costa adriática, es un destino turístico mundial; el casco antiguo de <span class="quiz">Dubrovnik</span> es Patrimonio Mundial conocido como "la perla del Adriático"'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A5%E3%83%96%E3%83%AD%E3%83%B4%E3%83%8B%E3%82%AF"
 ---
 
 <div class="main-desciption country-description">

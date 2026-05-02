@@ -13,6 +13,21 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 40.409, lng: 49.867, label: "Baku", type: "capital", note: "Ibu kota Azerbaijan, kota pelabuhan di pesisir Laut Kaspia" }
+  - { lat: 40.685, lng: 46.361, label: "Ganja", type: "city", note: "Kota terbesar kedua di negara ini" }
+  - { lat: 40.589, lng: 49.668, label: "Sumqayit", type: "city", note: "Kota industri di pesisir Laut Kaspia" }
+  - { lat: 41.198, lng: 47.170, label: "Shaki", type: "historical", note: "Persinggahan penting Jalur Sutra, terkenal dengan Istana Khan" }
+  - { lat: 40.082, lng: 49.460, label: "Gobustan", type: "landmark", note: "Warisan dunia, terkenal dengan ukiran batu kuno" }
+  - { lat: 41.300, lng: 48.500, label: "Pegunungan Kaukasus", type: "nature", note: "Pegunungan besar yang melintasi wilayah perbatasan" }
+features:
+  - text: 'Negara ini berbatasan dengan <span class="quiz">Laut Kaspia</span> dan merupakan penghasil minyak serta gas alam'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BC%E3%83%AB%E3%83%90%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%B3"
+  - text: 'Ibu kota <span class="quiz">Baku</span> memiliki kota tua yang terdaftar sebagai warisan dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AF%E3%83%BC"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

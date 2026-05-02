@@ -18,6 +18,18 @@ sc: [
     ["../jordan/", "Jordan"],
     ["../../asia/india/", "India"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.888, lng: 35.495, label: "Beirut", type: "capital", note: "Capital; main city on the Mediterranean coast" }
+  - { lat: 33.562, lng: 35.372, label: "Sidon", type: "port", note: "Historic southern port city" }
+  - { lat: 33.271, lng: 35.214, label: "Tyre", type: "historical", note: "Ancient Phoenician port; World Heritage Site" }
+  - { lat: 34.436, lng: 35.844, label: "Tripoli", type: "city", note: "Largest city in the north and a port" }
+  - { lat: 34.007, lng: 36.204, label: "Baalbek", type: "historical", note: "Roman temple ruins; World Heritage Site" }
+  - { lat: 34.247, lng: 36.066, label: "Qadisha Valley", type: "nature", note: "Sacred valley of the Cedars of Lebanon; World Heritage Site" }
+  - { lat: 34.121, lng: 35.652, label: "Byblos (Jbeil)", type: "historical", note: "One of the world's oldest continuously inhabited cities" }
+features:
+  - text: 'The <span class="quiz">Cedar of Lebanon</span> at the center of the flag is the country''s emblem'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%90%E3%83%8E%E3%83%B3%E6%9D%89"
 ---
 
 <div class="main-desciption country-description">

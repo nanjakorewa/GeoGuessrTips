@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Kumamoto.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 32.789, lng: 130.704, label: "Estación de Kumamoto", type: "capital", note: "Capital de la Prefectura de Kumamoto" }
+  - { lat: 32.806, lng: 130.706, label: "Castillo de Kumamoto", type: "historical", note: "Castillo de Kato Kiyomasa" }
+  - { lat: 32.881, lng: 131.084, label: "Monte Aso", type: "nature", note: "Una de las mayores calderas del mundo" }
+  - { lat: 32.450, lng: 130.196, label: "Amakusa", type: "nature", note: "Archipiélago con historia cristiana" }
+  - { lat: 32.211, lng: 130.401, label: "Minamata", type: "city", note: "Ciudad de la regeneración ambiental" }
+  - { lat: 33.087, lng: 131.140, label: "Aguas termales de Kurokawa", type: "nature", note: "Pueblo termal de montaña" }
+features:
+  - text: 'El <span class="quiz">monte Aso</span> es un volcán activo con una de las mayores calderas del mundo, rodeado de vastas praderas'
+    ref: "https://ja.wikipedia.org/wiki/阿蘇山"
+  - text: 'Con la implantación de la fábrica de TSMC, la concentración de la <span class="quiz">industria de semiconductores</span> avanza rápidamente'
+    ref: "https://ja.wikipedia.org/wiki/Japan_Advanced_Semiconductor_Manufacturing"
 ---
 
 

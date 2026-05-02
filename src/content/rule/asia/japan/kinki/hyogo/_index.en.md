@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Hyogo.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.690, lng: 135.196, label: "Kobe-Sannomiya Station", type: "capital", note: "Capital of Hyogo Prefecture" }
+  - { lat: 34.681, lng: 135.183, label: "Port of Kobe", type: "port", note: "International trade port" }
+  - { lat: 34.840, lng: 134.694, label: "Himeji Castle", type: "historical", note: "White Heron Castle, World Heritage" }
+  - { lat: 34.616, lng: 135.020, label: "Akashi Kaikyo Bridge", type: "landmark", note: "Honshu-Shikoku connecting bridge" }
+  - { lat: 35.625, lng: 134.804, label: "Kinosaki Onsen", type: "nature", note: "Famous hot spring of Tajima" }
+  - { lat: 34.355, lng: 134.804, label: "Awaji Island", type: "nature", note: "Largest island in the Seto Inland Sea" }
+features:
+  - text: 'The Port of Kobe is one of Japan''s leading international trade ports, and <span class="quiz">Kobe Beef</span> is a globally famous wagyu brand'
+    ref: "https://ja.wikipedia.org/wiki/神戸ビーフ"
+  - text: 'The Harima area has concentrated <span class="quiz">steel and heavy chemical industries</span>, and Himeji Castle is a registered World Heritage Site'
+    ref: "https://ja.wikipedia.org/wiki/兵庫県#工業"
 ---
 
 

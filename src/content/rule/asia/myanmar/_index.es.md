@@ -12,6 +12,21 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 19.745, lng: 96.115, label: "Naipyidó", type: "capital", note: "Capital de Myanmar; el traslado se realizó en 2006" }
+  - { lat: 16.866, lng: 96.195, label: "Rangún", type: "city", note: "Antigua capital y mayor ciudad económica" }
+  - { lat: 16.793, lng: 96.149, label: "Pagoda Shwedagon", type: "landmark", note: "Estupa dorada, lugar más sagrado de Myanmar" }
+  - { lat: 21.975, lng: 96.084, label: "Mandalay", type: "city", note: "Ciudad principal del centro y capital de la última dinastía" }
+  - { lat: 21.171, lng: 94.858, label: "Bagan", type: "historical", note: "Patrimonio Mundial: antigua ciudad con numerosas pagodas" }
+  - { lat: 20.368, lng: 96.916, label: "Lago Inle", type: "nature", note: "Lago de altura, famoso por sus aldeas flotantes" }
+features:
+  - text: 'En 2006 la capital se trasladó de <span class="quiz">Rangún</span> a <span class="quiz">Naipyidó</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%94%E3%83%89%E3%83%BC"
+  - text: 'La <span class="quiz">Pagoda Shwedagon</span> es una estupa dorada de unos 100 m, el lugar más sagrado de Myanmar'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%80%E3%82%B4%E3%83%B3%E3%83%BB%E3%83%91%E3%82%B4%E3%83%80"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

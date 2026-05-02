@@ -16,6 +16,19 @@ sc_title: "Regiões semelhantes"
 sc: [
     ["../italy/", "Itália"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 43.738, lng: 7.424, label: "Mônaco", type: "capital", note: "Capital e centro do principado" }
+  - { lat: 43.740, lng: 7.428, label: "Monte Carlo", type: "city", note: "Bairro famoso pelos cassinos" }
+  - { lat: 43.732, lng: 7.420, label: "Mônaco-Cidade", type: "historical", note: "Centro histórico e Palácio do Príncipe" }
+  - { lat: 43.731, lng: 7.421, label: "Palácio do Príncipe", type: "landmark", note: "Residência da família Grimaldi" }
+  - { lat: 43.736, lng: 7.422, label: "Catedral de Mônaco", type: "landmark", note: "Local de sepultamento dos príncipes" }
+  - { lat: 43.737, lng: 7.422, label: "Museu Oceanográfico", type: "landmark", note: "Conhecido pela atuação de Jacques Cousteau" }
+features:
+  - text: 'Segundo menor país do mundo, atrás apenas do Vaticano, é uma <span class="quiz">cidade-estado</span> com cerca de <span class="quiz">2 km²</span> de área'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8A%E3%82%B3"
+  - text: 'Sede do <span class="quiz">Grande Prêmio de Mônaco de F1</span>, é um sofisticado destino turístico famoso por seus <span class="quiz">cassinos</span> e por não cobrar imposto de renda'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8A%E3%82%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA"
 ---
 
 <div class="main-desciption country-description">

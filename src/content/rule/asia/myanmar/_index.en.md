@@ -12,6 +12,21 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 19.745, lng: 96.115, label: "Naypyidaw", type: "capital", note: "Capital of Myanmar; capital was moved here in 2006" }
+  - { lat: 16.866, lng: 96.195, label: "Yangon", type: "city", note: "Former capital and largest economic city" }
+  - { lat: 16.793, lng: 96.149, label: "Shwedagon Pagoda", type: "landmark", note: "Golden stupa and Myanmar's holiest site" }
+  - { lat: 21.975, lng: 96.084, label: "Mandalay", type: "city", note: "Major central city; capital of the last royal dynasty" }
+  - { lat: 21.171, lng: 94.858, label: "Bagan", type: "historical", note: "World Heritage ancient city with countless pagodas" }
+  - { lat: 20.368, lng: 96.916, label: "Inle Lake", type: "nature", note: "Highland lake famous for stilt-house villages" }
+features:
+  - text: 'In 2006 the capital was moved from <span class="quiz">Yangon</span> to <span class="quiz">Naypyidaw</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%94%E3%83%89%E3%83%BC"
+  - text: 'The <span class="quiz">Shwedagon Pagoda</span> is a roughly 100 m tall golden stupa and Myanmar''s holiest site'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%80%E3%82%B4%E3%83%B3%E3%83%BB%E3%83%91%E3%82%B4%E3%83%80"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

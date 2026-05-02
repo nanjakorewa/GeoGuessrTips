@@ -19,6 +19,20 @@ sc: [
     ["../oman/", "Oman"],
     ["../lebanon/", "Lebanon"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 24.453, lng: 54.377, label: "Abu Dhabi", type: "capital", note: "Capital and largest emirate" }
+  - { lat: 25.276, lng: 55.296, label: "Dubai", type: "city", note: "Largest city in the country and a global economic hub" }
+  - { lat: 25.197, lng: 55.274, label: "Burj Khalifa", type: "landmark", note: "World's tallest building (828 m)" }
+  - { lat: 25.347, lng: 55.380, label: "Sharjah", type: "city", note: "Cultural city near Dubai" }
+  - { lat: 25.789, lng: 55.943, label: "Ras Al Khaimah", type: "city", note: "Northern emirate and tourist destination" }
+  - { lat: 25.115, lng: 56.343, label: "Fujairah", type: "port", note: "Port city on the east coast facing the Gulf of Oman" }
+  - { lat: 24.230, lng: 55.760, label: "Al Ain", type: "historical", note: "Oasis city with World Heritage archaeological sites" }
+features:
+  - text: 'A federation of seven emirates; <span class="quiz">Dubai</span> is one of the world''s leading commercial and tourist cities'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4"
+  - text: 'The world''s tallest skyscraper, <span class="quiz">Burj Khalifa</span>, is located in Dubai'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%95%E3%82%A1"
 ---
 
 <div class="main-desciption country-description">

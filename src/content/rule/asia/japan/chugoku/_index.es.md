@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 flag: "JP.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.397, lng: 132.475, label: "Estación de Hiroshima", type: "city", note: "Capital de la Prefectura de Hiroshima y mayor ciudad de la región de Chugoku" }
+  - { lat: 34.066, lng: 131.474, label: "Estación de Yamaguchi", type: "city", note: "Capital de la Prefectura de Yamaguchi" }
+  - { lat: 34.665, lng: 133.918, label: "Estación de Okayama", type: "city", note: "Capital de la Prefectura de Okayama y ciudad de Momotaro" }
+  - { lat: 35.467, lng: 133.050, label: "Estación de Matsue", type: "city", note: "Capital de la Prefectura de Shimane y castillo de Matsue" }
+  - { lat: 35.500, lng: 134.235, label: "Estación de Tottori", type: "city", note: "Capital de la Prefectura de Tottori y dunas de Tottori" }
+  - { lat: 34.296, lng: 132.320, label: "Santuario de Itsukushima", type: "landmark", note: "Prefectura de Hiroshima, torii sobre el mar declarado Patrimonio de la Humanidad" }
 ---
 
 

@@ -12,6 +12,14 @@ flag_height: "700px"
 no_detaile_info: true
 jetro_detail: false
 no_rel_info: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 42.459, lng: 2.864, label: "Le Perthus", type: "landmark", note: "Frontera entre Francia y España" }
+  - { lat: 47.582, lng: 7.589, label: "Triple frontera de Basilea", type: "landmark", note: "Triple frontera Francia-Alemania-Suiza" }
+  - { lat: 50.755, lng: 6.020, label: "Vaals", type: "landmark", note: "Triple frontera Países Bajos-Alemania-Bélgica" }
+  - { lat: 52.158, lng: 7.197, label: "Frontera Países Bajos-Alemania", type: "landmark", note: "Frontera representativa de Europa Occidental" }
+  - { lat: 49.012, lng: 12.218, label: "Frontera Alemania-Chequia", type: "landmark", note: "Límite con Europa del Este" }
+  - { lat: 41.998, lng: -8.890, label: "Frontera Portugal-España", type: "landmark", note: "Frontera a orillas del río Miño" }
 ---
 
 

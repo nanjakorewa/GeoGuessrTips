@@ -12,6 +12,20 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 12.108, lng: 15.045, label: "Yamena", type: "capital", note: "Capital y ciudad más grande, junto al río Chari" }
+  - { lat: 9.110, lng: 18.391, label: "Sarh", type: "city", note: "Ciudad principal del sur, zona agrícola" }
+  - { lat: 8.622, lng: 16.067, label: "Moundou", type: "city", note: "Ciudad económica del suroeste, productora de algodón" }
+  - { lat: 10.911, lng: 14.886, label: "Bongor", type: "city", note: "Ciudad del suroeste" }
+  - { lat: 13.829, lng: 20.832, label: "Abéché", type: "city", note: "Ciudad principal del este, histórica plaza de comercio caravanero" }
+  - { lat: 13.500, lng: 14.500, label: "Lago Chad", type: "nature", note: "Lago que da nombre al país; muy reducido en las últimas décadas" }
+  - { lat: 21.000, lng: 17.000, label: "Macizo del Ennedi", type: "nature", note: "Patrimonio Mundial del Sáhara septentrional, formaciones rocosas singulares" }
+features:
+  - text: 'El <span class="quiz">lago Chad</span>, que da nombre al país, ha disminuido enormemente en las últimas décadas'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%89%E6%B9%96"
+  - text: 'Las lenguas oficiales son el <span class="quiz">francés</span> y el <span class="quiz">árabe</span>; el sur tiene clima de sabana y el norte forma parte del Sáhara'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

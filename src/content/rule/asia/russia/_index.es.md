@@ -22,6 +22,21 @@ sc: [
     ["../../europe/ukraine/", "Ucrania"],
     ["../kyrgyzstan/", "Kirguistán"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 55.755, lng: 37.617, label: "Moscú", type: "capital", note: "Capital y mayor ciudad de Rusia" }
+  - { lat: 59.934, lng: 30.336, label: "San Petersburgo", type: "city", note: "Antigua capital, centro cultural y artístico" }
+  - { lat: 55.751, lng: 37.617, label: "Plaza Roja", type: "landmark", note: "Patrimonio Mundial y símbolo de Moscú" }
+  - { lat: 55.030, lng: 82.920, label: "Novosibirsk", type: "city", note: "Mayor ciudad de Siberia" }
+  - { lat: 53.508, lng: 108.075, label: "Lago Baikal", type: "nature", note: "Lago de agua dulce más profundo y antiguo del mundo" }
+  - { lat: 43.116, lng: 131.886, label: "Vladivostok", type: "port", note: "Principal ciudad portuaria del Lejano Oriente" }
+  - { lat: 56.838, lng: 60.597, label: "Ekaterimburgo", type: "city", note: "Ciudad principal de los Urales" }
+  - { lat: 56.013, lng: 92.853, label: "Krasnoyarsk", type: "city", note: "Ciudad principal del centro de Siberia" }
+features:
+  - text: 'Es el país con la mayor <span class="quiz">superficie</span> del mundo y abarca once <span class="quiz">husos horarios</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

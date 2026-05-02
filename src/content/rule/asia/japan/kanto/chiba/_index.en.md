@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Chiba.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.613, lng: 140.113, label: "Chiba Station", type: "capital", note: "Capital of Chiba Prefecture" }
+  - { lat: 35.776, lng: 140.318, label: "Narita Airport", type: "landmark", note: "Gateway for international flights" }
+  - { lat: 35.633, lng: 139.881, label: "Urayasu (Tokyo Disney Resort)", type: "landmark", note: "One of Japan''s largest theme parks" }
+  - { lat: 34.997, lng: 139.844, label: "Tateyama", type: "city", note: "Port town in southern Boso" }
+  - { lat: 35.735, lng: 140.827, label: "Choshi", type: "port", note: "Easternmost point of Honshu, soy sauce city" }
+  - { lat: 35.376, lng: 139.917, label: "Kisarazu", type: "city", note: "East end of the Aqua-Line" }
+features:
+  - text: 'Home to Narita International Airport, Japan''s key <span class="quiz">aerial gateway</span> and a hub for international logistics'
+    ref: "https://ja.wikipedia.org/wiki/成田国際空港"
+  - text: 'Top in Japan for <span class="quiz">peanut</span> production, accounting for about 80% of the national output'
+    ref: "https://ja.wikipedia.org/wiki/千葉県#農業"
 ---
 
 

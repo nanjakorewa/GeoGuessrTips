@@ -12,6 +12,19 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: -49.351, lng: 70.219, label: "Port-aux-Francais", type: "capital", note: "Pangkalan penelitian utama di Kepulauan Kerguelen" }
+  - { lat: -49.350, lng: 70.220, label: "Kepulauan Kerguelen", type: "nature", note: "Kepulauan tak berpenghuni di Samudra Hindia bagian selatan" }
+  - { lat: -37.823, lng: 77.553, label: "Pulau Amsterdam", type: "nature", note: "Pulau vulkanik subantarktika" }
+  - { lat: -38.722, lng: 77.539, label: "Pulau Saint-Paul", type: "nature", note: "Pulau vulkanik tak berpenghuni di dekat Pulau Amsterdam" }
+  - { lat: -46.400, lng: 51.700, label: "Kepulauan Crozet", type: "nature", note: "Dikenal sebagai tempat berkembang biak penguin" }
+  - { lat: -66.667, lng: 140.001, label: "Tanah Adelie", type: "landmark", note: "Wilayah klaim Prancis di benua Antarktika, Pangkalan Dumont d'Urville" }
+features:
+  - text: 'Gugusan pulau tak berpenghuni di Samudra Hindia bagian selatan dan sekitar Antarktika yang dikelola oleh <span class="quiz">Prancis</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E5%8D%97%E6%96%B9%E3%83%BB%E5%8D%97%E6%A5%B5%E5%9C%B0%E5%9F%9F"
+  - text: 'Mencakup <span class="quiz">Kepulauan Kerguelen</span> yang menjadi tempat berkembang biak beberapa jenis penguin dan anjing laut'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%82%B2%E3%83%AC%E3%83%B3%E8%AB%B8%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

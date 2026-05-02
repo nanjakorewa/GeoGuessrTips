@@ -20,6 +20,20 @@ sc: [
     ["../luxembourg/", "Luxembourg"],
     ["../portugal/", "Portugal"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 50.847, lng: 4.357, label: "Brussels", type: "capital", note: "Ibu kota, lokasi markas Uni Eropa" }
+  - { lat: 51.221, lng: 4.402, label: "Antwerpen", type: "port", note: "Kota pelabuhan terbesar kedua di Eropa" }
+  - { lat: 51.054, lng: 3.717, label: "Gent", type: "city", note: "Kota kanal abad pertengahan" }
+  - { lat: 51.209, lng: 3.225, label: "Brugge", type: "city", note: "Venesia Utara, warisan dunia" }
+  - { lat: 50.633, lng: 5.567, label: "Liege", type: "city", note: "Kota pusat wilayah Wallonia" }
+  - { lat: 50.851, lng: 2.886, label: "Ieper", type: "historical", note: "Medan pertempuran sengit Perang Dunia I" }
+  - { lat: 50.467, lng: 4.872, label: "Namur", type: "city", note: "Ibu kota provinsi wilayah Wallonia" }
+features:
+  - text: 'Memiliki ibu kota Brussels yang merupakan lokasi markas <span class="quiz">Uni Eropa</span> dan markas <span class="quiz">NATO</span>, serta menjadi pusat politik Eropa'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%A5%E3%83%83%E3%82%BB%E3%83%AB"
+  - text: 'Terbagi menjadi wilayah berbahasa Belanda <span class="quiz">Flandria</span> dan wilayah berbahasa Prancis Wallonia, terkenal di dunia dengan produksi <span class="quiz">cokelat</span> dan birnya'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

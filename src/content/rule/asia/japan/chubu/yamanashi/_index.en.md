@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Yamanashi.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.665, lng: 138.569, label: "Kofu Station", type: "capital", note: "Capital of Yamanashi Prefecture" }
+  - { lat: 35.361, lng: 138.728, label: "Mt. Fuji", type: "nature", note: "Japan''s highest peak, World Cultural Heritage" }
+  - { lat: 35.500, lng: 138.766, label: "Lake Kawaguchi", type: "nature", note: "One of the Fuji Five Lakes" }
+  - { lat: 35.460, lng: 138.589, label: "Lake Motosu", type: "nature", note: "Mt. Fuji on the 1,000-yen note" }
+  - { lat: 35.674, lng: 138.578, label: "Takeda Shrine", type: "historical", note: "Dedicated to Takeda Shingen" }
+  - { lat: 35.397, lng: 138.426, label: "Mt. Minobu", type: "historical", note: "Head temple of the Nichiren sect" }
+features:
+  - text: 'Top in Japan for <span class="quiz">grapes and peaches</span>, with extensive fruit cultivation centered on the Kofu Basin'
+    ref: "https://ja.wikipedia.org/wiki/山梨県#農業"
+  - text: 'Located on the northern foot of <span class="quiz">Mt. Fuji</span> (elevation 3,776m), Japan''s highest mountain, and home to the Fuji Five Lakes'
+    ref: "https://ja.wikipedia.org/wiki/富士山"
 ---
 
 

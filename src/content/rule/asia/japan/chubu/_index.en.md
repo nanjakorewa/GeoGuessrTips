@@ -8,6 +8,17 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 flag: "JP.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.171, lng: 136.882, label: "Nagoya Station", type: "city", note: "Capital of Aichi Prefecture, largest city in Chubu" }
+  - { lat: 35.422, lng: 136.760, label: "Gifu Station", type: "city", note: "Capital of Gifu Prefecture" }
+  - { lat: 34.976, lng: 138.388, label: "Shizuoka Station", type: "city", note: "Capital of Shizuoka Prefecture" }
+  - { lat: 35.665, lng: 138.569, label: "Kofu Station", type: "city", note: "Capital of Yamanashi Prefecture" }
+  - { lat: 36.648, lng: 138.188, label: "Nagano Station", type: "city", note: "Capital of Nagano Prefecture, Zenko-ji Temple" }
+  - { lat: 37.912, lng: 139.062, label: "Niigata Station", type: "city", note: "Capital of Niigata Prefecture, largest city on the Sea of Japan side" }
+  - { lat: 36.701, lng: 137.213, label: "Toyama Station", type: "city", note: "Capital of Toyama Prefecture, Tateyama Mountain Range" }
+  - { lat: 36.578, lng: 136.648, label: "Kanazawa Station", type: "city", note: "Capital of Ishikawa Prefecture, Kenroku-en Garden" }
+  - { lat: 36.062, lng: 136.222, label: "Fukui Station", type: "city", note: "Capital of Fukui Prefecture" }
 ---
 
 

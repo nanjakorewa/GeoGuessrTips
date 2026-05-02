@@ -12,6 +12,19 @@ flag_height: "340px"
 no_detaile_info: true
 jetro_detail: false
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 47.010, lng: 28.864, label: "Chișinău", type: "capital", note: "Capital e centro político e econômico do país" }
+  - { lat: 47.764, lng: 27.929, label: "Bălți", type: "city", note: "Principal cidade do norte" }
+  - { lat: 47.768, lng: 27.937, label: "Tiraspol", type: "city", note: "Principal cidade da Transnístria" }
+  - { lat: 46.836, lng: 29.484, label: "Bender", type: "city", note: "Cidade histórica às margens do rio Dniestre" }
+  - { lat: 46.940, lng: 28.819, label: "Mileștii Mici", type: "landmark", note: "Maior adega de vinhos do mundo" }
+  - { lat: 47.300, lng: 28.836, label: "Orheiul Vechi", type: "historical", note: "Ruínas de mosteiro medieval" }
+features:
+  - text: 'Considerada um dos países mais pobres da Europa, tem o <span class="quiz">romeno</span> como idioma oficial e é a única antiga república soviética de língua <span class="quiz">românica</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%89%E3%83%90"
+  - text: 'É um dos maiores produtores mundiais de <span class="quiz">vinho</span>, e <span class="quiz">Mileștii Mici</span> está registrada no Guinness como a maior adega do mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AC%E3%82%B7%E3%83%A5%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9F%E3%83%81"
 ---
 
 <div class="main-desciption country-description">

@@ -11,6 +11,21 @@ flag: "RU.svg"
 jetro_detail: true
 plonkit: true
 jogmec_detail: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 55.755, lng: 37.617, label: "Moscow", type: "capital", note: "Capital and largest city of Russia" }
+  - { lat: 59.934, lng: 30.336, label: "Saint Petersburg", type: "city", note: "Former capital and cultural center" }
+  - { lat: 55.751, lng: 37.617, label: "Red Square", type: "landmark", note: "World Heritage symbol of Moscow" }
+  - { lat: 55.030, lng: 82.920, label: "Novosibirsk", type: "city", note: "Largest city in Siberia" }
+  - { lat: 53.508, lng: 108.075, label: "Lake Baikal", type: "nature", note: "World's deepest and oldest freshwater lake" }
+  - { lat: 43.116, lng: 131.886, label: "Vladivostok", type: "port", note: "Major port city in the Russian Far East" }
+  - { lat: 56.838, lng: 60.597, label: "Yekaterinburg", type: "city", note: "Major city in the Urals region" }
+  - { lat: 56.013, lng: 92.853, label: "Krasnoyarsk", type: "city", note: "Major city in central Siberia" }
+features:
+  - text: 'The world''s largest country by <span class="quiz">land area</span>, spanning 11 <span class="quiz">time zones</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

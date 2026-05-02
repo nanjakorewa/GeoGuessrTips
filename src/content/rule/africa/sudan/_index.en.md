@@ -12,6 +12,19 @@ flag_height: "380px"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 15.500, lng: 32.559, label: "Khartoum", type: "capital", note: "Capital; confluence of the Blue Nile and the White Nile" }
+  - { lat: 15.598, lng: 32.534, label: "Omdurman", type: "city", note: "Sister city with the largest population in the metro area" }
+  - { lat: 19.617, lng: 37.217, label: "Port Sudan", type: "port", note: "Major port city on the Red Sea coast" }
+  - { lat: 13.183, lng: 30.217, label: "Nyala", type: "city", note: "Hub of the western Darfur region" }
+  - { lat: 14.400, lng: 33.519, label: "Wad Madani", type: "city", note: "Capital of central Gezira State and an agricultural area" }
+  - { lat: 16.939, lng: 33.749, label: "Meroe Pyramids", type: "historical", note: "World Heritage pyramids of the ancient Kingdom of Kush" }
+features:
+  - text: 'Before South Sudan''s independence, it was the <span class="quiz">largest</span> country by area on the African continent'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%80%E3%83%B3"
+  - text: 'Land of the ancient <span class="quiz">Nubian</span> civilization; the Meroe pyramids are a World Heritage Site'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AD%E3%82%A8"
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,21 @@ sc: [
     ["../india/", "Regiones de la India continental con alta precipitación"],
     ["../lakshadweep/", "Lakshadweep"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 11.624, lng: 92.726, label: 'Port Blair', type: "capital", note: 'Ciudad principal de las islas Andamán y Nicobar' }
+  - { lat: 13.255, lng: 93.022, label: 'Saddle Peak', type: "nature", note: 'Cumbre más alta del archipiélago (unos 732 m)' }
+  - { lat: 11.553, lng: 92.616, label: 'Isla Havelock', type: "nature", note: 'Destino turístico conocido por sus hermosas playas' }
+  - { lat: 11.659, lng: 92.748, label: 'Ross Island', type: "historical", note: 'Isla con ruinas de la antigua colonia británica' }
+  - { lat: 12.523, lng: 92.928, label: 'Rangat', type: "city", note: 'Pueblo principal del distrito de Andamán Central' }
+  - { lat: 11.450, lng: 92.700, label: 'Pequeña Andamán', type: "nature", note: 'Isla del sur, habitada por pueblos indígenas' }
+features:
+  - text: 'Territorio de la Unión de la India situado en el <span class="quiz">golfo de Bengala</span>, formado por unas 570 islas'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%8B%E3%82%B3%E3%83%90%E3%83%AB%E8%AB%B8%E5%B3%B6"
+  - text: 'El pueblo indígena <span class="quiz">sentinelés</span> rechaza todo contacto con el exterior y constituye una de las tribus más singulares del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%8D%E3%83%AB%E6%97%8F"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

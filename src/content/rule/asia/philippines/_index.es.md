@@ -17,6 +17,22 @@ sc: [
     ["../thai/", "Tailandia"],
     ["../vietnum/", "Vietnam"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 14.599, lng: 120.984, label: "Manila", type: "capital", note: "Capital de Filipinas, mayor ciudad de la isla de Luzón" }
+  - { lat: 14.676, lng: 121.044, label: "Ciudad Quezón", type: "city", note: "Mayor ciudad del área metropolitana" }
+  - { lat: 10.317, lng: 123.891, label: "Cebú", type: "city", note: "Mayor ciudad de las Visayas" }
+  - { lat: 7.073, lng: 125.613, label: "Davao", type: "city", note: "Ciudad principal de la isla de Mindanao" }
+  - { lat: 9.838, lng: 118.736, label: "Puerto Princesa", type: "nature", note: "Ciudad de Palawan, parque nacional del río subterráneo" }
+  - { lat: 16.412, lng: 120.594, label: "Baguio", type: "city", note: "Ciudad de altura en el norte de Luzón" }
+  - { lat: 13.257, lng: 123.685, label: "Volcán Mayon", type: "nature", note: "Volcán activo célebre por su cono perfecto" }
+features:
+  - text: 'Es un país archipielágico del Sudeste Asiático compuesto por unas <span class="quiz">7641</span> islas'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3"
+  - text: 'Es el único país de Asia con mayoría <span class="quiz">católica</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3#%E5%AE%97%E6%95%99"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

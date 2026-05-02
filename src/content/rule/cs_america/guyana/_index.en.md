@@ -11,6 +11,19 @@ flag: "GY.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.802, lng: -58.167, label: "Georgetown", type: "capital", note: "Capital and Atlantic coast port city" }
+  - { lat: 6.404, lng: -58.625, label: "Linden", type: "city", note: "Center of bauxite mining" }
+  - { lat: 6.000, lng: -57.520, label: "New Amsterdam", type: "city", note: "Major eastern city" }
+  - { lat: 5.012, lng: -59.283, label: "Kaieteur Falls", type: "landmark", note: "Waterfall with one of the world's largest single drops at 226 m" }
+  - { lat: 4.000, lng: -58.500, label: "Iwokrama Rainforest", type: "nature", note: "Large rainforest reserve in central Guyana" }
+  - { lat: 7.747, lng: -59.214, label: "Mabaruma", type: "city", note: "Small northwestern town and indigenous settlement" }
+features:
+  - text: 'The only country on the South American mainland with <span class="quiz">English</span> as its official language; a former British colony'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%A4%E3%82%A2%E3%83%8A"
+  - text: 'Home to <span class="quiz">Kaieteur Falls</span>, one of the world''s largest single-drop waterfalls'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%82%A8%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB%E6%BB%9D"
 ---
 
 <div class="main-desciption country-description">

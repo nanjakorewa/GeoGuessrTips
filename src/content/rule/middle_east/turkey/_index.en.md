@@ -19,6 +19,20 @@ sc: [
     ["../../europe/macedonia/", "north macedonia"],
     ["../../europe/greece/", "Greece"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 39.933, lng: 32.866, label: "Ankara", type: "capital", note: "Capital; city in central Anatolia" }
+  - { lat: 41.013, lng: 28.949, label: "Istanbul", type: "city", note: "Largest city in the country, straddling the Bosphorus" }
+  - { lat: 38.419, lng: 27.129, label: "Izmir", type: "port", note: "Major port city on the Aegean coast" }
+  - { lat: 36.897, lng: 30.713, label: "Antalya", type: "city", note: "Mediterranean coastal resort" }
+  - { lat: 38.643, lng: 34.829, label: "Cappadocia", type: "landmark", note: "World Heritage site famed for rock formations and hot-air balloons" }
+  - { lat: 37.924, lng: 29.121, label: "Pamukkale", type: "nature", note: "World Heritage travertine terraces" }
+  - { lat: 37.875, lng: 27.264, label: "Ephesus", type: "historical", note: "Ancient Greek and Roman ruins" }
+features:
+  - text: 'Spans both Asia and Europe, with the <span class="quiz">Bosphorus Strait</span> separating the two continents'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%9D%E3%83%A9%E3%82%B9%E6%B5%B7%E5%B3%A1"
+  - text: 'Home to many World Heritage Sites, including the rock formations of <span class="quiz">Cappadocia</span> and the travertines of <span class="quiz">Pamukkale</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%83%E3%83%91%E3%83%89%E3%82%AD%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

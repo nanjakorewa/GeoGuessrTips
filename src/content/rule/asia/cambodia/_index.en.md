@@ -13,6 +13,22 @@ jetro_detail: false
 plonkit: true
 dont_show_usda: true
 is_has_distinctive_googlecar: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 11.562, lng: 104.916, label: "Phnom Penh", type: "capital", note: "Capital and largest city of Cambodia" }
+  - { lat: 13.412, lng: 103.864, label: "Siem Reap", type: "city", note: "Gateway to the Angkor temple complex" }
+  - { lat: 13.412, lng: 103.866, label: "Angkor Wat", type: "landmark", note: "World Heritage masterpiece of Khmer architecture" }
+  - { lat: 10.609, lng: 103.522, label: "Sihanoukville", type: "port", note: "Southern port city and major resort destination" }
+  - { lat: 13.094, lng: 103.197, label: "Battambang", type: "city", note: "Major western city; heart of the rice-growing region" }
+  - { lat: 12.929, lng: 104.087, label: "Tonle Sap Lake", type: "nature", note: "Largest lake in Southeast Asia" }
+  - { lat: 12.250, lng: 104.500, label: "Mekong River", type: "nature", note: "Southeast Asia's largest river, running through central Cambodia" }
+features:
+  - text: 'The Angkor temple complex, including <span class="quiz">Angkor Wat</span>, is a World Heritage Site'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%AF%E3%83%83%E3%83%88"
+  - text: 'The <span class="quiz">Mekong River</span> runs through central Cambodia, and <span class="quiz">Tonle Sap Lake</span> is the largest lake in Southeast Asia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%AC%E3%82%B5%E3%83%83%E3%83%97%E6%B9%96"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

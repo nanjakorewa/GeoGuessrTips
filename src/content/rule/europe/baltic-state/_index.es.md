@@ -4,6 +4,14 @@ date: 2023-02-26
 description: "Cómo distinguir Estonia, Letonia y Lituania"
 weight: 2
 add_flagindex: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 54.687, lng: 25.280, label: "Vilna", type: "capital", note: "Capital de Lituania, casco antiguo Patrimonio Mundial" }
+  - { lat: 56.946, lng: 24.106, label: "Riga", type: "capital", note: "Capital de Letonia, mayor ciudad de los Estados bálticos" }
+  - { lat: 59.437, lng: 24.754, label: "Tallin", type: "capital", note: "Capital de Estonia, casco antiguo medieval" }
+  - { lat: 54.898, lng: 23.904, label: "Kaunas", type: "city", note: "Segunda ciudad de Lituania" }
+  - { lat: 56.512, lng: 21.011, label: "Liepāja", type: "port", note: "Ciudad portuaria del oeste de Letonia" }
+  - { lat: 58.378, lng: 26.729, label: "Tartu", type: "city", note: "Ciudad universitaria de Estonia" }
 ---
 
 ## Cómo reconocerlos

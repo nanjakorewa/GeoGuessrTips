@@ -12,6 +12,21 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 42.874, lng: 74.612, label: "Bishkek", type: "capital", note: "Capital and largest city of Kyrgyzstan" }
+  - { lat: 40.515, lng: 72.799, label: "Osh", type: "city", note: "Second city, in the southern Fergana Valley" }
+  - { lat: 42.491, lng: 78.394, label: "Karakol", type: "city", note: "Main town on the eastern shore of Lake Issyk-Kul" }
+  - { lat: 42.428, lng: 77.252, label: "Lake Issyk-Kul", type: "nature", note: "Mountain lake with the world's second-highest water clarity" }
+  - { lat: 42.034, lng: 80.115, label: "Khan Tengri", type: "nature", note: "Famous Tian Shan peak (7,010 m)" }
+  - { lat: 41.000, lng: 75.000, label: "Tian Shan Mountains", type: "nature", note: "Vast mountain range covering most of the country" }
+features:
+  - text: 'A Central Asian mountainous country dominated by the <span class="quiz">Tian Shan</span> range'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AB%E3%82%AE%E3%82%B9"
+  - text: '<span class="quiz">Lake Issyk-Kul</span> has the world''s second-highest water clarity among mountain lakes'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B7%E3%82%AF%E3%83%BB%E3%82%AF%E3%83%AB%E6%B9%96"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

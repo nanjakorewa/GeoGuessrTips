@@ -19,6 +19,19 @@ sc: [
     ["../colombia/", "Columbia"],
     ["../../asia/india/", "India"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -0.180, lng: -78.467, label: "Quito", type: "capital", note: "Capital, ciudad andina a unos 2.850 m, Patrimonio Mundial" }
+  - { lat: -2.170, lng: -79.922, label: "Guayaquil", type: "city", note: "Mayor ciudad de Ecuador, principal puerto" }
+  - { lat: -2.900, lng: -79.005, label: "Cuenca", type: "city", note: "Ciudad colonial de los Andes del sur, Patrimonio Mundial" }
+  - { lat: -1.243, lng: -78.617, label: "Ambato", type: "city", note: "Ciudad comercial del altiplano central" }
+  - { lat: -0.252, lng: -78.526, label: "Monumento al Ecuador", type: "landmark", note: "Monumento de la Mitad del Mundo sobre la línea ecuatorial" }
+  - { lat: -0.685, lng: -78.437, label: "Cotopaxi", type: "nature", note: "Volcán activo de 5.897 m, uno de los más altos del mundo" }
+features:
+  - text: 'El nombre del país significa "<span class="quiz">ecuador</span>" en español; la línea ecuatorial atraviesa su territorio'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB"
+  - text: 'Uno de los principales exportadores mundiales de <span class="quiz">banano</span>; el petróleo también es un producto clave de exportación'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

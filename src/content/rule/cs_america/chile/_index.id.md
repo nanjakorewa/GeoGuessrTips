@@ -17,6 +17,20 @@ sc: [
     ["../argentina/", "Argentina"],
     ["../../europe/spain/", "Spanyol"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -33.448, lng: -70.669, label: "Santiago", type: "capital", note: "Ibu kota, kota terbesar di kaki Pegunungan Andes" }
+  - { lat: -33.045, lng: -71.620, label: "Valparaiso", type: "city", note: "Kota pelabuhan tengah, kota tua warisan dunia" }
+  - { lat: -36.827, lng: -73.050, label: "Concepcion", type: "city", note: "Kota utama di tengah-selatan" }
+  - { lat: -23.650, lng: -70.398, label: "Antofagasta", type: "city", note: "Pusat pertambangan Gurun Atacama" }
+  - { lat: -23.500, lng: -68.500, label: "Gurun Atacama", type: "nature", note: "Gurun terkering di dunia" }
+  - { lat: -27.121, lng: -109.367, label: "Pulau Paskah", type: "landmark", note: "Pulau terpencil di tengah laut yang dikenal dengan patung Moai" }
+  - { lat: -41.469, lng: -72.940, label: "Puerto Montt", type: "port", note: "Pintu gerbang ke wilayah danau dan Patagonia" }
+features:
+  - text: 'Negara memanjang utara-selatan sekitar 4.300 km, dan memiliki <span class="quiz">Gurun Atacama</span> yang merupakan gurun terkering di dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BF%E3%82%AB%E3%83%9E%E7%A0%82%E6%BC%A0"
+  - text: 'Produsen <span class="quiz">tembaga</span> terbesar di dunia, dan pertambangan menjadi tulang punggung perekonomian'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%AA#%E9%89%B1%E6%A5%AD"
 ---
 
 <div class="main-desciption country-description">

@@ -9,6 +9,20 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Osaka.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.702, lng: 135.495, label: "Stasiun Osaka", type: "capital", note: "Ibu kota Prefektur Osaka, kota terbesar di Jepang Barat" }
+  - { lat: 34.687, lng: 135.526, label: "Kastil Osaka", type: "historical", note: "Kastil Toyotomi Hideyoshi" }
+  - { lat: 34.668, lng: 135.500, label: "Dotonbori", type: "landmark", note: "Kawasan hiburan, papan reklame Glico" }
+  - { lat: 34.652, lng: 135.506, label: "Tsutenkaku", type: "landmark", note: "Shinsekai, simbol Osaka" }
+  - { lat: 34.654, lng: 135.428, label: "Kaiyukan", type: "landmark", note: "Tempozan, akuarium" }
+  - { lat: 34.434, lng: 135.244, label: "Bandara Internasional Kansai", type: "landmark", note: "Bandara di atas laut" }
+  - { lat: 34.572, lng: 135.482, label: "Sakai", type: "city", note: "Kota gundukan kuno (kofun) dan pisau" }
+features:
+  - text: 'Kawasan ekonomi terbesar di Jepang Barat, dengan tradisi sebagai "Dapur Negara" yang merupakan pusat <span class="quiz">perdagangan dan grosir</span>'
+    ref: "https://ja.wikipedia.org/wiki/大阪府#経済"
+  - text: 'Industri <span class="quiz">pisau dan bilah</span> yang berpusat di Sakai memiliki sejarah lebih dari 600 tahun, dengan sekitar 90% pangsa domestik untuk pisau profesional'
+    ref: "https://ja.wikipedia.org/wiki/堺市#工業"
 ---
 
 

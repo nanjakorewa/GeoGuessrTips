@@ -12,6 +12,19 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 18.336, lng: -64.928, label: "Charlotte Amalie", type: "capital", note: "Capital e principal cidade da ilha de Saint Thomas" }
+  - { lat: 17.742, lng: -64.703, label: "Christiansted", type: "city", note: "Principal cidade e centro histórico de Saint Croix" }
+  - { lat: 17.713, lng: -64.881, label: "Frederiksted", type: "city", note: "Cidade portuária no oeste de Saint Croix" }
+  - { lat: 18.331, lng: -64.793, label: "Cruz Bay", type: "city", note: "Centro da ilha de Saint John" }
+  - { lat: 18.349, lng: -64.731, label: "Parque Nacional das Ilhas Virgens", type: "nature", note: "Parque nacional que ocupa a maior parte de Saint John" }
+  - { lat: 18.358, lng: -64.762, label: "Trunk Bay", type: "nature", note: "Praia e ponto de mergulho com snorkel mundialmente famoso" }
+features:
+  - text: '<span class="quiz">Território não incorporado dos Estados Unidos</span> situado no Mar do Caribe, com Saint Thomas, Saint Croix e Saint John como principais ilhas'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%B3%E8%AB%B8%E5%B3%B6"
+  - text: 'Antigas Índias Ocidentais Dinamarquesas, compradas da Dinamarca em 1917 por <span class="quiz">25 milhões de dólares</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%B3%E8%AB%B8%E5%B3%B6#%E6%AD%B4%E5%8F%B2"
 ---
 
 <div class="main-desciption country-description">

@@ -16,6 +16,20 @@ sc: [
     ["../../asia/russia/", "Rusia"],
     ["../ukraine/", "Ucrania"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 53.902, lng: 27.559, label: "Minsk", type: "capital", note: "Capital, centro político y económico del país" }
+  - { lat: 52.099, lng: 23.734, label: "Brest", type: "city", note: "Ciudad histórica en la frontera con Polonia" }
+  - { lat: 53.677, lng: 23.829, label: "Grodno", type: "city", note: "Ciudad cultural del oeste" }
+  - { lat: 55.184, lng: 30.202, label: "Vítebsk", type: "city", note: "Ciudad natal de Chagall" }
+  - { lat: 52.425, lng: 31.014, label: "Gómel", type: "city", note: "Ciudad principal del sureste" }
+  - { lat: 52.700, lng: 23.867, label: "Belavezhskaya Pushcha", type: "nature", note: "Mayor bosque primario de Europa, Patrimonio Mundial" }
+  - { lat: 53.870, lng: 25.840, label: "Castillo de Mir", type: "historical", note: "Castillo del siglo XVI, Patrimonio Mundial" }
+features:
+  - text: 'Conocida como la última <span class="quiz">dictadura</span> de Europa; el presidente <span class="quiz">Lukashenko</span> ostenta el poder desde 1994'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%83%AB%E3%82%AB%E3%82%B7%E3%82%A7%E3%83%B3%E3%82%B3"
+  - text: 'Cerca del 40% del territorio está cubierto por <span class="quiz">bosques</span>, incluido el mayor bosque primario de Europa, <span class="quiz">Belavezhskaya Pushcha</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%B4%E3%82%A7%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AB%E3%83%A4%E3%83%BB%E3%83%97%E3%83%BC%E3%82%B7%E3%83%A3"
 ---
 
 <div class="main-desciption country-description">

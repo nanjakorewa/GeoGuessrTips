@@ -12,6 +12,19 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: -8.839, lng: 13.289, label: "Luanda", type: "capital", note: "Capital e maior cidade na costa atlântica" }
+  - { lat: -12.578, lng: 13.407, label: "Benguela", type: "port", note: "Principal cidade portuária do sul" }
+  - { lat: -12.350, lng: 13.547, label: "Lobito", type: "port", note: "Porto importante e ponto de partida da ferrovia" }
+  - { lat: -14.917, lng: 13.500, label: "Lubango", type: "city", note: "Cidade central do planalto sul" }
+  - { lat: -9.545, lng: 16.341, label: "Malanje", type: "city", note: "Principal cidade do interior, próxima às Quedas de Kalandula" }
+  - { lat: -9.075, lng: 16.140, label: "Quedas de Kalandula", type: "nature", note: "Segunda maior cachoeira da África" }
+features:
+  - text: 'O idioma oficial é o <span class="quiz">português</span>, e o país é uma ex-colônia portuguesa'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B4%E3%83%A9"
+  - text: '<span class="quiz">Petróleo</span> e <span class="quiz">diamantes</span> são os principais produtos de exportação, e é um dos maiores produtores de petróleo da África Subsaariana'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B4%E3%83%A9#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

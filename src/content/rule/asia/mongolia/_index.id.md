@@ -15,6 +15,22 @@ sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../kyrgyzstan/", "Kirgizstan"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 47.886, lng: 106.906, label: "Ulan Bator", type: "capital", note: "Ibu kota Mongolia, dihuni hampir setengah penduduk negara" }
+  - { lat: 49.034, lng: 104.080, label: "Erdenet", type: "city", note: "Kota terbesar kedua di negara, terkenal dengan tambang tembaga" }
+  - { lat: 50.044, lng: 106.183, label: "Darkhan", type: "city", note: "Kota industri utama di utara" }
+  - { lat: 43.580, lng: 104.420, label: "Gurun Gobi", type: "nature", note: "Gurun terbesar di Asia, membentang di bagian selatan negara" }
+  - { lat: 48.166, lng: 99.910, label: "Danau Khovsgol", type: "nature", note: "Danau air tawar terbesar di negara, mutiara Mongolia" }
+  - { lat: 47.197, lng: 102.802, label: "Karakorum", type: "historical", note: "Bekas ibu kota Kekaisaran Mongol" }
+  - { lat: 49.808, lng: 87.737, label: "Pegunungan Altai", type: "nature", note: "Pegunungan besar di barat" }
+features:
+  - text: '<span class="quiz">Ger</span>, tempat tinggal tradisional yang dapat dipindahkan dari para nomaden, masih banyak digunakan hingga kini'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%AB_(%E5%AE%B6%E5%B1%8B)"
+  - text: 'Kekaisaran Mongol yang didirikan oleh <span class="quiz">Genghis Khan</span> adalah kekaisaran daratan terbesar dalam sejarah'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E5%B8%9D%E5%9B%BD"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

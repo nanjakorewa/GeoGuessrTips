@@ -12,6 +12,19 @@ flag_height: "380px"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 4.859, lng: 31.572, label: "Yuba", type: "capital", note: "Capital y ciudad más grande, junto al Nilo Blanco" }
+  - { lat: 9.532, lng: 31.660, label: "Malakal", type: "city", note: "Ciudad principal del estado del Alto Nilo" }
+  - { lat: 8.770, lng: 27.985, label: "Bentiu", type: "city", note: "Ciudad del norte y zona productora de petróleo" }
+  - { lat: 6.800, lng: 29.700, label: "Rumbek", type: "city", note: "Ciudad principal del estado central de los Lagos" }
+  - { lat: 4.546, lng: 28.369, label: "Yambio", type: "city", note: "Capital del estado de Ecuatoria Occidental, en el suroeste" }
+  - { lat: 8.500, lng: 30.500, label: "Pantanos del Sudd", type: "nature", note: "Uno de los humedales más grandes del mundo, en el Nilo Blanco" }
+features:
+  - text: 'Es el país más reciente del mundo, independizado de Sudán en <span class="quiz">2011</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%B9%E3%83%BC%E3%83%80%E3%83%B3"
+  - text: 'Por su territorio fluye el <span class="quiz">Nilo Blanco</span> y se extiende el Sudd, uno de los mayores humedales del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%83%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

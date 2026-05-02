@@ -13,6 +13,21 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 41.299, lng: 69.240, label: "Tashkent", type: "capital", note: "Ibu kota Uzbekistan, kota terbesar di Asia Tengah" }
+  - { lat: 39.654, lng: 66.962, label: "Samarkand", type: "historical", note: "Warisan dunia, pusat penting Jalur Sutra" }
+  - { lat: 39.768, lng: 64.421, label: "Bukhara", type: "historical", note: "Warisan dunia, pusat budaya Islam kuno" }
+  - { lat: 41.378, lng: 60.351, label: "Khiva", type: "historical", note: "Warisan dunia, kota oase berbenteng di gurun" }
+  - { lat: 40.781, lng: 72.347, label: "Fergana", type: "city", note: "Kota utama di timur, pusat Lembah Fergana" }
+  - { lat: 42.460, lng: 59.611, label: "Nukus", type: "city", note: "Ibu kota Republik Karakalpakstan di barat" }
+features:
+  - text: '<span class="quiz">Samarkand</span> yang dahulu menjadi pusat Jalur Sutra terdaftar sebagai warisan dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9E%E3%83%AB%E3%82%AB%E3%83%B3%E3%83%89"
+  - text: 'Salah satu dari hanya dua <span class="quiz">negara terkurung daratan ganda</span> di dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%BA%E3%83%99%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

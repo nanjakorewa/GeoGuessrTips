@@ -8,6 +8,15 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 flag: "JP.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.682, lng: 139.766, label: "Tokyo Station", type: "capital", note: "Center of Tokyo, capital of Japan" }
+  - { lat: 35.466, lng: 139.622, label: "Yokohama Station", type: "city", note: "Capital of Kanagawa Prefecture, port city" }
+  - { lat: 35.906, lng: 139.624, label: "Saitama-Shintoshin", type: "city", note: "Capital of Saitama Prefecture" }
+  - { lat: 35.613, lng: 140.113, label: "Chiba Station", type: "city", note: "Capital of Chiba Prefecture" }
+  - { lat: 36.366, lng: 140.471, label: "Mito Station", type: "city", note: "Capital of Ibaraki Prefecture, Kairakuen Garden" }
+  - { lat: 36.560, lng: 139.884, label: "Utsunomiya Station", type: "city", note: "Capital of Tochigi Prefecture, gyoza city" }
+  - { lat: 36.391, lng: 139.060, label: "Maebashi Station", type: "city", note: "Capital of Gunma Prefecture" }
 ---
 
 

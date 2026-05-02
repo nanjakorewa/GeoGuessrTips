@@ -13,6 +13,21 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.555, lng: 69.207, label: "Kabul", type: "capital", note: "Ibu kota dan kota terbesar Afghanistan" }
+  - { lat: 31.610, lng: 65.710, label: "Kandahar", type: "city", note: "Kota utama di selatan, pusat sejarah" }
+  - { lat: 34.342, lng: 62.204, label: "Herat", type: "city", note: "Kota budaya di barat, persinggahan penting Jalur Sutra" }
+  - { lat: 36.728, lng: 67.110, label: "Mazar-i-Sharif", type: "city", note: "Kota utama di utara, terkenal dengan makam suci" }
+  - { lat: 34.800, lng: 67.825, label: "Bamiyan", type: "historical", note: "Warisan dunia, terkenal dengan Buddha raksasa yang dihancurkan" }
+  - { lat: 36.500, lng: 71.500, label: "Pegunungan Hindu Kush", type: "nature", note: "Pegunungan yang melintasi negara, puncak tertinggi 7.492 m" }
+features:
+  - text: 'Bahasa resmi adalah <span class="quiz">Bahasa Dari</span> dan <span class="quiz">Bahasa Pashto</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3"
+  - text: 'Ibu kotanya adalah <span class="quiz">Kabul</span>, yang juga merupakan kota terbesar di negara ini'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%96%E3%83%AB"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

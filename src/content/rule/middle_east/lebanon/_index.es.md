@@ -18,6 +18,18 @@ sc: [
     ["../jordan/", "Jordania"],
     ["../../asia/india/", "India"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.888, lng: 35.495, label: "Beirut", type: "capital", note: "Capital y ciudad principal de la costa mediterránea" }
+  - { lat: 33.562, lng: 35.372, label: "Saida", type: "port", note: "Histórica ciudad portuaria del sur" }
+  - { lat: 33.271, lng: 35.214, label: "Tiro", type: "historical", note: "Antigua ciudad portuaria fenicia, Patrimonio Mundial" }
+  - { lat: 34.436, lng: 35.844, label: "Trípoli", type: "city", note: "Mayor ciudad portuaria del norte" }
+  - { lat: 34.007, lng: 36.204, label: "Baalbek", type: "historical", note: "Patrimonio Mundial: ruinas de templos romanos" }
+  - { lat: 34.247, lng: 36.066, label: "Valle de Qadisha", type: "nature", note: "Patrimonio Mundial: valle sagrado de los cedros del Líbano" }
+  - { lat: 34.121, lng: 35.652, label: "Jubail (Biblos)", type: "historical", note: "Una de las ciudades habitadas continuamente más antiguas del mundo" }
+features:
+  - text: 'El <span class="quiz">cedro del Líbano</span> que figura en el centro de la bandera es el símbolo nacional'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%90%E3%83%8E%E3%83%B3%E6%9D%89"
 ---
 
 <div class="main-desciption country-description">

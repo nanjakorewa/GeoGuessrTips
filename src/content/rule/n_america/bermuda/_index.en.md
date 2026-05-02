@@ -13,6 +13,19 @@ jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
 is_has_many_trekker: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 32.293, lng: -64.782, label: "Hamilton", type: "capital", note: "Capital and largest city in the islands" }
+  - { lat: 32.380, lng: -64.679, label: "St. George's", type: "historical", note: "Former capital and a World Heritage colonial town" }
+  - { lat: 32.319, lng: -64.819, label: "Pembroke", type: "city", note: "Main residential area on the outskirts of the capital" }
+  - { lat: 32.262, lng: -64.770, label: "Warwick", type: "city", note: "South coast district with many pink-sand beaches" }
+  - { lat: 32.318, lng: -64.840, label: "Southampton", type: "city", note: "Western district known for its lighthouse and tourism" }
+  - { lat: 32.331, lng: -64.687, label: "Fort St. Catherine", type: "historical", note: "Historic fortress on the eastern tip" }
+features:
+  - text: 'A British overseas territory in the North Atlantic, made up of about 150 islands surrounded by <span class="quiz">coral reefs</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%80%E8%AB%B8%E5%B3%B6"
+  - text: 'Roofs are built in stepped <span class="quiz">white limestone</span> to collect rainwater'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%80%E8%AB%B8%E5%B3%B6#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

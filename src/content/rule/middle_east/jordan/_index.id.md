@@ -18,6 +18,20 @@ sc: [
     ["../palestine/", "Tepi Barat"],
     ["../../cs_america/argentina/", "Argentina"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.949, lng: 35.933, label: "Amman", type: "capital", note: "Ibu kota, kota terbesar di negara" }
+  - { lat: 32.073, lng: 35.892, label: "Zarqa", type: "city", note: "Kota terbesar kedua dengan kawasan industri" }
+  - { lat: 32.555, lng: 35.851, label: "Irbid", type: "city", note: "Kota utama di utara" }
+  - { lat: 30.328, lng: 35.444, label: "Petra", type: "historical", note: "Reruntuhan Kerajaan Nabatea, warisan dunia" }
+  - { lat: 29.532, lng: 35.006, label: "Aqaba", type: "port", note: "Satu-satunya kota pelabuhan yang menghadap Laut Merah" }
+  - { lat: 29.575, lng: 35.420, label: "Wadi Rum", type: "nature", note: "Pemandangan gurun merah, warisan dunia" }
+  - { lat: 31.500, lng: 35.500, label: "Laut Mati", type: "nature", note: "Danau garam di perbatasan dengan Israel" }
+features:
+  - text: 'Kota kuno <span class="quiz">Petra</span> terdaftar sebagai warisan dunia dan merupakan salah satu Tujuh Keajaiban Dunia Baru'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%A9"
+  - text: 'Sekitar 80% wilayah negara berupa <span class="quiz">gurun</span> dengan sumber daya air yang sangat terbatas'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%AB%E3%83%80%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

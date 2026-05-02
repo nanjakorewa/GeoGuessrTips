@@ -11,6 +11,21 @@ flag: "MO.svg"
 no_detaile_info: true
 jogmec_detail: false
 dont_show_usda: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 22.198, lng: 113.544, label: "Macau Peninsula", type: "capital", note: "Central area of the Macau Special Administrative Region" }
+  - { lat: 22.187, lng: 113.555, label: "Senado Square", type: "historical", note: "World Heritage central square of the historic district" }
+  - { lat: 22.197, lng: 113.541, label: "Ruins of St. Paul's", type: "landmark", note: "World Heritage iconic facade of Macau" }
+  - { lat: 22.149, lng: 113.560, label: "Taipa", type: "city", note: "Central island; site of the international airport" }
+  - { lat: 22.122, lng: 113.559, label: "Cotai", type: "city", note: "District concentrated with massive casino resorts" }
+  - { lat: 22.106, lng: 113.564, label: "Coloane", type: "nature", note: "Southern island with preserved nature" }
+features:
+  - text: 'A former <span class="quiz">Portuguese</span> colony that was returned to China in 1999'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%82%AA"
+  - text: 'Has one of the world''s largest <span class="quiz">casino</span> industries and is known as the "Las Vegas of the East"'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%82%AA#%E7%B5%8C%E6%B8%88"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

@@ -13,6 +13,20 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 12.115, lng: -86.236, label: "Manágua", type: "capital", note: "Capital e maior cidade, na margem sul do lago Manágua" }
+  - { lat: 11.934, lng: -85.957, label: "Granada", type: "city", note: "Cidade colonial às margens do lago Nicarágua" }
+  - { lat: 12.435, lng: -86.878, label: "León", type: "city", note: "Histórica cidade universitária do oeste" }
+  - { lat: 12.144, lng: -86.302, label: "Masaya", type: "city", note: "Principal cidade da região central, próxima a um vulcão ativo" }
+  - { lat: 11.539, lng: -85.572, label: "Ilha de Ometepe", type: "nature", note: "Ilha vulcânica dupla no lago Nicarágua" }
+  - { lat: 11.985, lng: -86.161, label: "Vulcão Masaya", type: "nature", note: "Vulcão ativo e parque nacional" }
+  - { lat: 11.766, lng: -85.583, label: "Lago Nicarágua", type: "nature", note: "Maior lago da América Central, abriga tubarões de água doce" }
+features:
+  - text: 'Possui a maior área da América Central e tem litoral tanto no <span class="quiz">Pacífico</span> quanto no Caribe'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AB%E3%83%A9%E3%82%B0%E3%82%A2"
+  - text: 'Abriga o <span class="quiz">lago Nicarágua</span>, o maior da América Central, onde vivem tubarões de água doce'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AB%E3%83%A9%E3%82%B0%E3%82%A2%E6%B9%96"
 ---
 
 <div class="main-desciption country-description">

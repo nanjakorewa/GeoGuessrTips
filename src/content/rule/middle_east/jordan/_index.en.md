@@ -12,6 +12,20 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 plonkit: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.949, lng: 35.933, label: "Amman", type: "capital", note: "Capital and the country's largest city" }
+  - { lat: 32.073, lng: 35.892, label: "Zarqa", type: "city", note: "Second city with major industrial zones" }
+  - { lat: 32.555, lng: 35.851, label: "Irbid", type: "city", note: "Major city in the north" }
+  - { lat: 30.328, lng: 35.444, label: "Petra", type: "historical", note: "Nabataean ruins; World Heritage Site" }
+  - { lat: 29.532, lng: 35.006, label: "Aqaba", type: "port", note: "The country's only port city, on the Red Sea" }
+  - { lat: 29.575, lng: 35.420, label: "Wadi Rum", type: "nature", note: "Iconic red desert landscape; World Heritage Site" }
+  - { lat: 31.500, lng: 35.500, label: "Dead Sea", type: "nature", note: "Salt lake on the border with Israel" }
+features:
+  - text: 'The ancient city of <span class="quiz">Petra</span> is a World Heritage Site and one of the New Seven Wonders of the World'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%A9"
+  - text: 'About 80% of the country is <span class="quiz">desert</span>, with extremely scarce water resources'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%AB%E3%83%80%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

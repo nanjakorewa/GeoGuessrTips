@@ -19,6 +19,19 @@ sc: [
     ["../../asia/philippines/", "Philippines"],
     ["../../oceania/pitcairn/", "Pitcairn Islands"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 9.928, lng: -84.091, label: "San Jose", type: "capital", note: "Capital and largest city of the Central Valley" }
+  - { lat: 9.998, lng: -84.117, label: "Heredia", type: "city", note: "Major city in the northern metropolitan area" }
+  - { lat: 10.633, lng: -85.437, label: "Liberia", type: "city", note: "Capital of the northwestern Guanacaste province" }
+  - { lat: 9.976, lng: -83.034, label: "Limon", type: "port", note: "Main port city on the Caribbean coast" }
+  - { lat: 10.463, lng: -84.703, label: "Arenal Volcano", type: "nature", note: "Active volcano (1,670 m) and national park" }
+  - { lat: 8.481, lng: -83.581, label: "Corcovado National Park", type: "nature", note: "Biodiverse rainforest on the Osa Peninsula" }
+features:
+  - text: 'A Central American country famously known for <span class="quiz">having no army</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB"
+  - text: 'About 25% of the country is designated as <span class="quiz">national parks and nature reserves</span>, supporting rich biodiversity'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

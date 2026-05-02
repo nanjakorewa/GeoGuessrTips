@@ -17,6 +17,19 @@ sc_title: "Regiones que suelen confundirse"
 sc: [
     ["../../europe/greece/", "Grecia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.591, lng: 32.988, label: "Base de Acrotiri", type: "landmark", note: "Base soberana occidental con base aérea" }
+  - { lat: 34.988, lng: 33.745, label: "Base de Dhekelia", type: "landmark", note: "Base soberana oriental con guarnición del ejército" }
+  - { lat: 34.628, lng: 32.916, label: "Pueblo de Acrotiri", type: "city", note: "Asentamiento dentro de la base de Acrotiri" }
+  - { lat: 34.978, lng: 33.768, label: "Xylotymbou", type: "city", note: "Pueblo dentro de la base de Dhekelia" }
+  - { lat: 34.601, lng: 33.040, label: "Lago salado de Acrotiri", type: "nature", note: "Conocido por la llegada de flamencos" }
+  - { lat: 34.707, lng: 33.022, label: "Limasol", type: "city", note: "Ciudad cercana del lado chipriota" }
+features:
+  - text: 'Es un territorio militar de ultramar del <span class="quiz">Reino Unido</span> en la isla de Chipre'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%86%E3%82%A3%E3%83%AA%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%82%B1%E3%83%AA%E3%82%A2"
+  - text: 'Está formado por las dos bases de <span class="quiz">Acrotiri</span> y <span class="quiz">Dhekelia</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%86%E3%82%A3%E3%83%AA%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%82%B1%E3%83%AA%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,20 @@ sc: [
     ["../../africa/senegal/", "Senegal"],
     ["../../africa/kenya/", "Kenya"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 8.984, lng: -79.518, label: "Panama City", type: "capital", note: "Capital and largest city at the southern end of the canal" }
+  - { lat: 9.355, lng: -79.901, label: "Colon", type: "port", note: "Caribbean-side port city at the northern end of the canal" }
+  - { lat: 8.434, lng: -82.435, label: "David", type: "city", note: "Major western city near the Costa Rican border" }
+  - { lat: 9.080, lng: -79.680, label: "Panama Canal", type: "landmark", note: "Canal connecting the Pacific and the Atlantic" }
+  - { lat: 8.971, lng: -79.557, label: "Panama Viejo", type: "historical", note: "World Heritage ruins of the old Panama City" }
+  - { lat: 9.342, lng: -82.243, label: "Bocas del Toro", type: "city", note: "Caribbean coast archipelago and tourist destination" }
+  - { lat: 8.819, lng: -82.470, label: "Volcan Baru", type: "nature", note: "Country's highest peak at 3,475 m" }
+features:
+  - text: 'A transportation crossroads, home to the <span class="quiz">Panama Canal</span> connecting the Pacific and the Atlantic'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E%E9%81%8B%E6%B2%B3"
+  - text: 'The currency is the <span class="quiz">US dollar</span> (at par with the balboa)'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Shizuoka.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.976, lng: 138.388, label: "Stasiun Shizuoka", type: "capital", note: "Ibu kota Prefektur Shizuoka" }
+  - { lat: 34.710, lng: 137.726, label: "Stasiun Hamamatsu", type: "city", note: "Pusat barat prefektur, industri alat musik" }
+  - { lat: 35.361, lng: 138.728, label: "Gunung Fuji", type: "nature", note: "Perbatasan dengan Prefektur Yamanashi" }
+  - { lat: 34.998, lng: 138.519, label: "Miho no Matsubara", type: "landmark", note: "Aset komponen Warisan Dunia Gunung Fuji" }
+  - { lat: 34.875, lng: 138.946, label: "Semenanjung Izu", type: "nature", note: "Kawasan onsen dan wisata" }
+  - { lat: 34.975, lng: 138.385, label: "Kastil Sunpu", type: "historical", note: "Kastil pensiun Tokugawa Ieyasu" }
+features:
+  - text: 'Produksi <span class="quiz">teh</span> peringkat 1 nasional, dengan ladang teh luas terutama di dataran tinggi Makinohara'
+    ref: "https://ja.wikipedia.org/wiki/静岡県#農業"
+  - text: 'Kota Hamamatsu adalah pusat produksi utama <span class="quiz">alat musik</span> (Yamaha, Kawai) dan <span class="quiz">sepeda motor</span> (Suzuki, Yamaha Motor)'
+    ref: "https://ja.wikipedia.org/wiki/浜松市#工業"
 ---
 
 

@@ -18,6 +18,19 @@ sc: [
     ["../../oceania/guam/", "Guam"],
     ["../../oceania/northern_mariana_islands/", "Northern Mariana Islands"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 18.466, lng: -66.106, label: "San Juan", type: "capital", note: "Capital and largest city on the north coast, with a World Heritage old town" }
+  - { lat: 18.201, lng: -67.140, label: "Mayaguez", type: "city", note: "Major city on the west coast" }
+  - { lat: 18.011, lng: -66.614, label: "Ponce", type: "city", note: "Second-largest city on the south coast" }
+  - { lat: 18.202, lng: -65.717, label: "Fajardo", type: "port", note: "East-coast yacht harbor and ferry hub for the offshore islands" }
+  - { lat: 18.471, lng: -66.123, label: "Castillo San Felipe del Morro", type: "historical", note: "World Heritage fortress in old San Juan" }
+  - { lat: 18.314, lng: -65.792, label: "El Yunque National Forest", type: "nature", note: "The only tropical rainforest in the US National Forest System" }
+features:
+  - text: 'A <span class="quiz">US territory</span> in the Caribbean with Spanish and English as official languages'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3"
+  - text: 'The 16th-century Spanish-built old town of <span class="quiz">San Juan</span> is a UNESCO World Heritage Site'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A2%E3%83%B3_(%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3)"
 ---
 
 <div class="main-desciption country-description">

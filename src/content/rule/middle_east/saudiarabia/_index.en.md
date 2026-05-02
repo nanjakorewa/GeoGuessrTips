@@ -14,6 +14,20 @@ dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 24.713, lng: 46.675, label: "Riyadh", type: "capital", note: "Capital and the country's largest city" }
+  - { lat: 21.423, lng: 39.826, label: "Mecca", type: "historical", note: "Islam's holiest city" }
+  - { lat: 24.470, lng: 39.612, label: "Medina", type: "historical", note: "Islam's second-holiest city" }
+  - { lat: 21.486, lng: 39.193, label: "Jeddah", type: "port", note: "Major port on the Red Sea and gateway to Mecca" }
+  - { lat: 26.420, lng: 50.088, label: "Dammam", type: "city", note: "Hub of the Eastern Province and the oil industry" }
+  - { lat: 18.213, lng: 42.505, label: "Abha", type: "city", note: "Main city of southwestern Asir Province" }
+  - { lat: 26.629, lng: 37.948, label: "Hegra (Mada''in Salih)", type: "historical", note: "World Heritage Nabatean ruins" }
+features:
+  - text: 'Home to the two holiest cities of Islam, <span class="quiz">Mecca</span> and <span class="quiz">Medina</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%83%E3%82%AB"
+  - text: 'The world''s largest exporter of <span class="quiz">crude oil</span>; the state-owned Saudi Aramco is one of the world''s largest companies'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%A0%E3%82%B3"
 ---
 
 <div class="main-desciption country-description">

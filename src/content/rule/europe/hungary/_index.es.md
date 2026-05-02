@@ -16,6 +16,20 @@ sc: [
     ["../serbia/", "Serbia"],
     ["../croatia/", "Croacia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 47.498, lng: 19.040, label: "ブダペスト", type: "capital", note: "首都・ドナウ川を挟む二都市の合体" }
+  - { lat: 47.532, lng: 21.625, label: "デブレツェン", type: "city", note: "東部の中心都市" }
+  - { lat: 46.253, lng: 20.149, label: "セゲド", type: "city", note: "南部の文化都市" }
+  - { lat: 47.687, lng: 17.635, label: "ジェール", type: "city", note: "北西部の主要都市" }
+  - { lat: 46.920, lng: 17.890, label: "バラトン湖", type: "nature", note: "中央欧州最大の湖" }
+  - { lat: 47.910, lng: 19.890, label: "エゲル", type: "historical", note: "城とワインで知られる街" }
+  - { lat: 47.498, lng: 19.044, label: "国会議事堂", type: "landmark", note: "ブダペストの象徴的建築" }
+features:
+  - text: '国土の大部分が<span class="quiz">大平原</span>（プスタ）で、<span class="quiz">ドナウ川</span>が首都ブダペストを二分して流れる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%B9%E3%82%BF"
+  - text: '<span class="quiz">マジャル人</span>の国で、ヨーロッパでは珍しく<span class="quiz">ウラル語族</span>に属するハンガリー語を話す'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

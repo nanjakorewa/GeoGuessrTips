@@ -12,6 +12,20 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "350px"
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 9.030, lng: 38.749, label: "Adís Abeba", type: "capital", note: "Capital y sede de la Unión Africana" }
+  - { lat: 11.595, lng: 37.391, label: "Bahir Dar", type: "city", note: "Ciudad turística a orillas del lago Tana" }
+  - { lat: 13.479, lng: 39.476, label: "Mekelle", type: "city", note: "Capital de Tigray, ciudad principal del norte" }
+  - { lat: 7.052, lng: 38.476, label: "Awasa", type: "city", note: "Ciudad principal de la Región de las Naciones del Sur" }
+  - { lat: 9.350, lng: 42.794, label: "Harar", type: "historical", note: "Patrimonio Mundial: ciudad amurallada, centro de cultura islámica" }
+  - { lat: 12.610, lng: 37.470, label: "Gondar", type: "historical", note: "Antigua capital imperial; el complejo Fasil Ghebbi es Patrimonio Mundial" }
+  - { lat: 12.030, lng: 39.043, label: "Lalibela", type: "historical", note: "Lugar sagrado Patrimonio Mundial, célebre por sus iglesias excavadas en la roca" }
+features:
+  - text: 'Es uno de los países independientes más antiguos de África y utiliza la <span class="quiz">escritura ge''ez</span> (alfabeto etíope)'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%A8%E3%82%BA%E6%96%87%E5%AD%97"
+  - text: 'Está considerada la cuna del <span class="quiz">café</span> y utiliza su propio calendario (el calendario etíope)'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2#%E6%96%87%E5%8C%96"
 ---
 
 <div class="main-desciption country-description">

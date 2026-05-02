@@ -12,6 +12,20 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 36.737, lng: 3.087, label: "Argel", type: "capital", note: "Capital e cidade portuária na costa do Mediterrâneo" }
+  - { lat: 35.697, lng: -0.634, label: "Oran", type: "city", note: "Segunda maior cidade e principal porto do oeste" }
+  - { lat: 36.365, lng: 6.615, label: "Constantina", type: "city", note: "Cidade histórica do leste, conhecida por seus desfiladeiros" }
+  - { lat: 36.190, lng: 5.413, label: "Sétif", type: "city", note: "Principal cidade do planalto" }
+  - { lat: 22.785, lng: 5.523, label: "Tamanrasset", type: "city", note: "Centro tuaregue no sul do Saara" }
+  - { lat: 24.555, lng: 9.484, label: "Tassili n'Ajjer", type: "landmark", note: "Planalto saariano com pinturas rupestres, Patrimônio Mundial" }
+  - { lat: 32.483, lng: 3.677, label: "Grande Erg Ocidental", type: "nature", note: "Grande região de dunas do deserto do Saara" }
+features:
+  - text: 'Mais de <span class="quiz">80%</span> do território é coberto pelo deserto do Saara, sendo o maior país em área da África'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+  - text: 'Os idiomas oficiais são o <span class="quiz">árabe</span> e o <span class="quiz">berbere</span>, e o francês também é amplamente usado por influência da antiga metrópole França'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2#%E8%A8%80%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

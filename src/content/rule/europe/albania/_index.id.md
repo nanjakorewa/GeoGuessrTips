@@ -18,6 +18,20 @@ sc: [
     ["../montenegro/", "Montenegro"],
     ["../greece/", "Yunani"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 41.327, lng: 19.819, label: "Tirana", type: "capital", note: "Ibu kota, pusat politik dan ekonomi negara" }
+  - { lat: 41.317, lng: 19.448, label: "Durres", type: "port", note: "Kota pelabuhan utama di pesisir Laut Adriatik" }
+  - { lat: 40.625, lng: 19.781, label: "Vlore", type: "city", note: "Tempat deklarasi kemerdekaan, kota pelabuhan di selatan" }
+  - { lat: 41.124, lng: 20.082, label: "Elbasan", type: "city", note: "Kota bersejarah di tengah" }
+  - { lat: 40.075, lng: 20.142, label: "Gjirokaster", type: "historical", note: "Kawasan bersejarah warisan dunia" }
+  - { lat: 40.706, lng: 19.945, label: "Berat", type: "historical", note: "Kota seribu jendela, warisan dunia" }
+  - { lat: 40.910, lng: 20.787, label: "Danau Ohrid", type: "nature", note: "Danau kuno yang dimiliki bersama dengan Makedonia Utara" }
+features:
+  - text: 'Negara komunis terakhir di Eropa yang berada dalam <span class="quiz">isolasi</span>, dengan sekitar 170.000 <span class="quiz">bunker</span> (benteng pertahanan beton) yang tersisa di seluruh negeri'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E3%81%AE%E3%83%88%E3%83%BC%E3%83%81%E3%82%AB"
+  - text: 'Sekitar 70% wilayahnya merupakan <span class="quiz">daerah pegunungan</span>, dan memiliki kawasan bersejarah <span class="quiz">Berat</span> dan Gjirokaster yang merupakan warisan dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%88%E3%81%A8%E3%82%B8%E3%83%AD%E3%82%AB%E3%82%B9%E3%83%88%E3%83%A9%E3%81%AE%E6%AD%B4%E5%8F%B2%E5%9C%B0%E5%8C%BA%E7%BE%A4"
 ---
 
 <div class="main-desciption country-description">

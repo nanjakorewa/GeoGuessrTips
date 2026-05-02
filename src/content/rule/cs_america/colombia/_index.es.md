@@ -21,6 +21,19 @@ sc: [
     ["../ecuador/", "Ecuador"],
     ["../../n_america/mexico/", "México"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 4.711, lng: -74.072, label: "Bogotá", type: "capital", note: "Capital, ciudad andina a unos 2.640 m de altitud" }
+  - { lat: 6.244, lng: -75.581, label: "Medellín", type: "city", note: "Segunda ciudad de Colombia, la ciudad de la eterna primavera" }
+  - { lat: 3.452, lng: -76.532, label: "Cali", type: "city", note: "Capital de la salsa" }
+  - { lat: 10.391, lng: -75.479, label: "Cartagena", type: "city", note: "Patrimonio Mundial en el Caribe, casco antiguo colonial" }
+  - { lat: 11.241, lng: -74.199, label: "Santa Marta", type: "city", note: "Ciudad colonial más antigua de la costa caribeña" }
+  - { lat: 5.054, lng: -75.508, label: "Paisaje Cultural Cafetero", type: "landmark", note: "Patrimonio Mundial, zona cafetera" }
+features:
+  - text: 'Único país de Sudamérica con costa en el Pacífico y en el Caribe; gran productor mundial de <span class="quiz">café</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+  - text: 'Su nombre proviene de Cristóbal <span class="quiz">Colón</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2#%E5%9B%BD%E5%90%8D"
 ---
 
 <div class="main-desciption country-description">

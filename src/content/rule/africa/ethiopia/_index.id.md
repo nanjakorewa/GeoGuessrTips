@@ -12,6 +12,20 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "350px"
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 9.030, lng: 38.749, label: "Addis Ababa", type: "capital", note: "Ibu kota, lokasi markas Uni Afrika" }
+  - { lat: 11.595, lng: 37.391, label: "Bahir Dar", type: "city", note: "Kota di tepi selatan Danau Tana, pusat wisata" }
+  - { lat: 13.479, lng: 39.476, label: "Mekelle", type: "city", note: "Ibu kota wilayah Tigray, kota pusat di utara" }
+  - { lat: 7.052, lng: 38.476, label: "Hawassa", type: "city", note: "Kota pusat di wilayah Bangsa-Bangsa Selatan" }
+  - { lat: 9.350, lng: 42.794, label: "Harar", type: "historical", note: "Kota berbenteng warisan dunia, pusat budaya Islam" }
+  - { lat: 12.610, lng: 37.470, label: "Gondar", type: "historical", note: "Bekas ibu kota kekaisaran, Fasil Ghebbi yang merupakan warisan dunia" }
+  - { lat: 12.030, lng: 39.043, label: "Lalibela", type: "historical", note: "Tempat suci warisan dunia, terkenal dengan gereja-gereja yang dipahat dari batu" }
+features:
+  - text: 'Salah satu negara merdeka tertua di Afrika, dan menggunakan aksara unik <span class="quiz">Geez</span> (aksara Etiopia)'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%A8%E3%82%BA%E6%96%87%E5%AD%97"
+  - text: 'Dianggap sebagai tempat asal <span class="quiz">kopi</span>, dan menggunakan kalender khasnya sendiri (kalender Etiopia)'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2#%E6%96%87%E5%8C%96"
 ---
 
 <div class="main-desciption country-description">

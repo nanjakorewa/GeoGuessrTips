@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Gifu.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.422, lng: 136.760, label: "Stasiun Gifu", type: "capital", note: "Ibu kota Prefektur Gifu" }
+  - { lat: 35.434, lng: 136.781, label: "Kastil Gifu", type: "historical", note: "Kastil di puncak Gunung Kinka" }
+  - { lat: 36.142, lng: 137.252, label: "Takayama", type: "historical", note: "Kawasan kota tua Hida-Takayama" }
+  - { lat: 36.258, lng: 136.906, label: "Shirakawa-go", type: "historical", note: "Rumah gassho-zukuri, Warisan Dunia" }
+  - { lat: 35.349, lng: 136.461, label: "Sekigahara", type: "historical", note: "Medan pertempuran penentu nasib bangsa" }
+  - { lat: 35.444, lng: 136.755, label: "Sungai Nagara", type: "nature", note: "Terkenal dengan ukai (memancing dengan burung kormoran)" }
+features:
+  - text: 'Desa <span class="quiz">gassho-zukuri</span> di Shirakawa-go terdaftar sebagai Warisan Dunia UNESCO'
+    ref: "https://ja.wikipedia.org/wiki/白川郷・五箇山の合掌造り集落"
+  - text: 'Terkenal sebagai pusat produksi <span class="quiz">pisau dan bilah</span>, Kota Seki adalah produsen pisau terbesar di Jepang'
+    ref: "https://ja.wikipedia.org/wiki/関市#工業"
 ---
 
 

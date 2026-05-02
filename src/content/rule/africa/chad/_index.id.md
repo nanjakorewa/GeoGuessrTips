@@ -12,6 +12,20 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 12.108, lng: 15.045, label: "N'Djamena", type: "capital", note: "Ibu kota, kota terbesar di tepi Sungai Chari" }
+  - { lat: 9.110, lng: 18.391, label: "Sarh", type: "city", note: "Kota utama di selatan, kawasan pertanian" }
+  - { lat: 8.622, lng: 16.067, label: "Moundou", type: "city", note: "Kota ekonomi di barat daya, daerah penghasil kapas" }
+  - { lat: 10.911, lng: 14.886, label: "Bongor", type: "city", note: "Kota di barat daya" }
+  - { lat: 13.829, lng: 20.832, label: "Abeche", type: "city", note: "Kota utama di timur, pusat perdagangan karavan bersejarah" }
+  - { lat: 13.500, lng: 14.500, label: "Danau Chad", type: "nature", note: "Danau yang menjadi asal nama negara, menyusut drastis dalam beberapa tahun terakhir" }
+  - { lat: 21.000, lng: 17.000, label: "Dataran Tinggi Ennedi", type: "nature", note: "Warisan dunia di utara Sahara, lanskap batu yang unik" }
+features:
+  - text: '<span class="quiz">Danau Chad</span> yang menjadi asal nama negara telah menyusut drastis selama beberapa dekade terakhir'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%89%E6%B9%96"
+  - text: 'Bahasa resmi adalah <span class="quiz">Prancis</span> dan <span class="quiz">Arab</span>, dengan iklim sabana di selatan dan Gurun Sahara di utara'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

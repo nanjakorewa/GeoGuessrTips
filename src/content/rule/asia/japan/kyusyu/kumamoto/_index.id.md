@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Kumamoto.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 32.789, lng: 130.704, label: "Stasiun Kumamoto", type: "capital", note: "Ibu kota Prefektur Kumamoto" }
+  - { lat: 32.806, lng: 130.706, label: "Kastil Kumamoto", type: "historical", note: "Kastil Kato Kiyomasa" }
+  - { lat: 32.881, lng: 131.084, label: "Gunung Aso", type: "nature", note: "Salah satu kaldera terbesar di dunia" }
+  - { lat: 32.450, lng: 130.196, label: "Amakusa", type: "nature", note: "Kepulauan, sejarah Kristen" }
+  - { lat: 32.211, lng: 130.401, label: "Minamata", type: "city", note: "Kota regenerasi lingkungan" }
+  - { lat: 33.087, lng: 131.140, label: "Onsen Kurokawa", type: "nature", note: "Kawasan onsen pegunungan" }
+features:
+  - text: '<span class="quiz">Gunung Aso</span> adalah gunung berapi aktif dengan salah satu kaldera terbesar di dunia, dikelilingi padang rumput yang luas'
+    ref: "https://ja.wikipedia.org/wiki/阿蘇山"
+  - text: 'Dengan masuknya pabrik TSMC, klaster <span class="quiz">industri semikonduktor</span> berkembang pesat'
+    ref: "https://ja.wikipedia.org/wiki/Japan_Advanced_Semiconductor_Manufacturing"
 ---
 
 

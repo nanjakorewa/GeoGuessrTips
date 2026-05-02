@@ -16,6 +16,19 @@ sc_title: "Easy-To-Mix-Up Areas"
 sc: [
     ["../sgssi/", "South Georgia and the South Sandwich Islands"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -51.697, lng: -57.852, label: "Stanley", type: "capital", note: "Capital and largest settlement in the islands" }
+  - { lat: -51.689, lng: -57.706, label: "Mount Pleasant", type: "landmark", note: "Main air base hosting British forces" }
+  - { lat: -51.341, lng: -60.058, label: "Port Howard", type: "city", note: "Largest settlement on West Falkland" }
+  - { lat: -51.379, lng: -59.917, label: "San Carlos", type: "historical", note: "British landing site during the 1982 conflict" }
+  - { lat: -52.326, lng: -59.480, label: "Sea Lion Island", type: "nature", note: "Wildlife haven where penguins and marine mammals breed" }
+  - { lat: -51.340, lng: -60.252, label: "Pebble Island", type: "nature", note: "Breeding ground for seabirds and penguins" }
+features:
+  - text: 'A <span class="quiz">British</span> overseas territory in the South Atlantic, also claimed by Argentina'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
+  - text: 'In 1982, the <span class="quiz">Falklands War</span> took place between Britain and Argentina'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E7%B4%9B%E4%BA%89"
 ---
 
 <div class="main-desciption country-description">

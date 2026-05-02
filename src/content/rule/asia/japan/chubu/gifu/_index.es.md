@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Gifu.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.422, lng: 136.760, label: "Estación de Gifu", type: "capital", note: "Capital de la Prefectura de Gifu" }
+  - { lat: 35.434, lng: 136.781, label: "Castillo de Gifu", type: "historical", note: "Castillo en la cima del monte Kinka" }
+  - { lat: 36.142, lng: 137.252, label: "Takayama", type: "historical", note: "Casco antiguo de Hida-Takayama" }
+  - { lat: 36.258, lng: 136.906, label: "Shirakawa-go", type: "historical", note: "Casas gassho-zukuri y Patrimonio de la Humanidad" }
+  - { lat: 35.349, lng: 136.461, label: "Sekigahara", type: "historical", note: "Campo de batalla decisivo de Japón" }
+  - { lat: 35.444, lng: 136.755, label: "Río Nagara", type: "nature", note: "Famoso por la pesca con cormoranes" }
+features:
+  - text: 'Las aldeas <span class="quiz">gassho-zukuri</span> de Shirakawa-go están inscritas como Patrimonio de la Humanidad de la UNESCO'
+    ref: "https://ja.wikipedia.org/wiki/白川郷・五箇山の合掌造り集落"
+  - text: 'Famosa por la producción de <span class="quiz">cuchillos y herramientas de corte</span>; la ciudad de Seki ocupa el primer lugar nacional en producción'
+    ref: "https://ja.wikipedia.org/wiki/関市#工業"
 ---
 
 

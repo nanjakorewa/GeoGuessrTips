@@ -18,6 +18,19 @@ sc: [
     ["../../africa/madeira_islands/", "Kepulauan Madeira"],
     ["../../africa/canary_islands/", "Kepulauan Canary"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 37.741, lng: -25.668, label: "Ponta Delgada", type: "capital", note: "Kota pusat Kepulauan Azores" }
+  - { lat: 38.654, lng: -27.221, label: "Angra do Heroismo", type: "historical", note: "Pulau Terceira, kota tua warisan dunia" }
+  - { lat: 38.532, lng: -28.628, label: "Horta", type: "port", note: "Kota pelabuhan di Pulau Faial" }
+  - { lat: 37.769, lng: -25.469, label: "Furnas", type: "nature", note: "Daerah pemandian air panas di Pulau Sao Miguel" }
+  - { lat: 38.474, lng: -28.402, label: "Gunung Pico", type: "nature", note: "Gunung berapi tertinggi di Portugal" }
+  - { lat: 37.870, lng: -25.793, label: "Danau Sete Cidades", type: "nature", note: "Danau kaldera kembar di Pulau Sao Miguel" }
+features:
+  - text: '<span class="quiz">Kepulauan vulkanik</span> milik Portugal yang terletak di tengah Samudra Atlantik, terdiri dari 9 pulau dan dipenuhi bunga <span class="quiz">hortensia</span> di mana-mana'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%AC%E3%82%B9%E8%AB%B8%E5%B3%B6"
+  - text: 'Terletak di atas <span class="quiz">Punggung Atlantik Tengah</span>, dan Pulau Sao Miguel memiliki satu-satunya perkebunan <span class="quiz">teh</span> di Eropa'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%9F%E3%82%B2%E3%83%AB%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

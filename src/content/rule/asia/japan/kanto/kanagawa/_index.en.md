@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Kanagawa.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.466, lng: 139.622, label: "Yokohama Station", type: "capital", note: "Capital of Kanagawa Prefecture" }
+  - { lat: 35.443, lng: 139.638, label: "Minato Mirai", type: "landmark", note: "Yokohama waterfront tourist area" }
+  - { lat: 35.317, lng: 139.547, label: "Great Buddha of Kamakura", type: "historical", note: "Kotoku-in Temple, National Treasure" }
+  - { lat: 35.532, lng: 139.701, label: "Kawasaki Station", type: "city", note: "Industrial city, Keihin Industrial Zone" }
+  - { lat: 35.270, lng: 139.073, label: "Hakone", type: "nature", note: "Hot springs, national park" }
+  - { lat: 35.299, lng: 139.483, label: "Enoshima", type: "landmark", note: "Famous spot in Shonan" }
+features:
+  - text: '<span class="quiz">Yokohama Port</span> has been one of Japan''s leading international trade ports since opening in the late Edo period'
+    ref: "https://ja.wikipedia.org/wiki/横浜港"
+  - text: 'A core part of the Keihin Industrial Zone, with concentrated <span class="quiz">heavy industries</span> such as automotive and petrochemicals'
+    ref: "https://ja.wikipedia.org/wiki/京浜工業地帯"
 ---
 
 

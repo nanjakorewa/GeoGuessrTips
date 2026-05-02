@@ -16,6 +16,19 @@ sc_title: "Wilayah yang Mudah Tertukar"
 sc: [
     ["../falkland_islands/", "Kepulauan Falkland"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -54.282, lng: -36.508, label: "Grytviken", type: "capital", note: "Pusat administrasi, reruntuhan bekas pangkalan perburuan paus" }
+  - { lat: -54.250, lng: -36.500, label: "King Edward Point", type: "landmark", note: "Stasiun Penelitian Antartika Inggris" }
+  - { lat: -54.018, lng: -37.317, label: "Teluk Hercules", type: "port", note: "Lokasi pengambilan Street View dari kapal" }
+  - { lat: -54.055, lng: -38.054, label: "Teluk Saint Andrews", type: "nature", note: "Tempat berkembang biak penguin raja dalam jumlah besar" }
+  - { lat: -54.500, lng: -36.000, label: "Pulau Georgia Selatan", type: "nature", note: "Pulau utama dengan gletser dan pegunungan" }
+  - { lat: -56.300, lng: -27.567, label: "Kepulauan Sandwich Selatan", type: "nature", note: "Rangkaian pulau gunung berapi aktif di selatan" }
+features:
+  - text: 'Wilayah seberang laut <span class="quiz">Inggris</span> di Atlantik Selatan, tanpa penduduk tetap'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%BB%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E8%AB%B8%E5%B3%B6"
+  - text: 'Dahulu digunakan sebagai pangkalan <span class="quiz">perburuan paus</span>, dan reruntuhannya tersisa di Grytviken'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%88%E3%83%93%E3%82%B1%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

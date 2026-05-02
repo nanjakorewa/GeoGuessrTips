@@ -16,6 +16,18 @@ sc: [
     ["../slovakia", "Eslovaquia"],
     ["../slovenia", "Eslovenia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 50.088, lng: 14.420, label: "Praga", type: "capital", note: "Capital, ciudad de las cien torres, casco antiguo Patrimonio Mundial" }
+  - { lat: 49.195, lng: 16.608, label: "Brno", type: "city", note: "Ciudad principal de Moravia" }
+  - { lat: 49.748, lng: 13.378, label: "Plzeň", type: "city", note: "Cuna de la cerveza Pilsner" }
+  - { lat: 49.836, lng: 18.293, label: "Ostrava", type: "city", note: "Ciudad industrial de Silesia" }
+  - { lat: 48.808, lng: 14.314, label: "Český Krumlov", type: "historical", note: "Ciudad medieval Patrimonio Mundial" }
+  - { lat: 50.762, lng: 15.732, label: "Liberec", type: "city", note: "Ciudad del norte, polo de deportes de invierno" }
+  - { lat: 50.230, lng: 12.871, label: "Karlovy Vary", type: "city", note: "Balneario termal del oeste" }
+features:
+  - text: 'Tiene el mayor consumo de <span class="quiz">cerveza</span> per cápita del mundo; Plzeň es cuna de la cerveza <span class="quiz">Pilsner</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%BC%E3%83%8B"
 ---
 
 <div class="main-desciption country-description">

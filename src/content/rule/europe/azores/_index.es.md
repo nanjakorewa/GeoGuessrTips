@@ -18,6 +18,19 @@ sc: [
     ["../../africa/madeira_islands/", "Madeira"],
     ["../../africa/canary_islands/", "Islas Canarias"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 37.741, lng: -25.668, label: "Ponta Delgada", type: "capital", note: "Ciudad principal del archipiélago de las Azores" }
+  - { lat: 38.654, lng: -27.221, label: "Angra do Heroísmo", type: "historical", note: "Casco antiguo de la isla Terceira, Patrimonio Mundial" }
+  - { lat: 38.532, lng: -28.628, label: "Horta", type: "port", note: "Pueblo portuario de la isla de Faial" }
+  - { lat: 37.769, lng: -25.469, label: "Furnas", type: "nature", note: "Zona termal de la isla de São Miguel" }
+  - { lat: 38.474, lng: -28.402, label: "Pico", type: "nature", note: "Volcán más alto de Portugal" }
+  - { lat: 37.870, lng: -25.793, label: "Sete Cidades", type: "nature", note: "Lagos gemelos en una caldera de la isla de São Miguel" }
+features:
+  - text: '<span class="quiz">Archipiélago volcánico</span> portugués en el centro del Atlántico; nueve islas donde abundan las flores de <span class="quiz">hortensia</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%AC%E3%82%B9%E8%AB%B8%E5%B3%B6"
+  - text: 'Situado sobre la <span class="quiz">dorsal mesoatlántica</span>; en la isla de São Miguel está la única plantación de <span class="quiz">té</span> de Europa'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%9F%E3%82%B2%E3%83%AB%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

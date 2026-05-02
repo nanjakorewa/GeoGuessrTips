@@ -21,6 +21,19 @@ sc: [
     ["../../asia/kazakhstan/", "Kazajistán"],
     ["../israel/", "Israel"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 23.588, lng: 58.408, label: "Mascate", type: "capital", note: "Capital y ciudad portuaria frente al mar Arábigo" }
+  - { lat: 22.933, lng: 57.533, label: "Nizwa", type: "historical", note: "Histórica ciudad fortificada del interior" }
+  - { lat: 17.019, lng: 54.090, label: "Salalah", type: "city", note: "Ciudad principal de la región de Dhofar, en el sur" }
+  - { lat: 24.339, lng: 56.730, label: "Sohar", type: "port", note: "Ciudad portuaria e industrial del norte" }
+  - { lat: 23.323, lng: 57.531, label: "Fuerte de Bahla", type: "historical", note: "Antigua fortaleza Patrimonio Mundial" }
+  - { lat: 22.700, lng: 59.000, label: "Desierto de Wahiba", type: "nature", note: "Vasto desierto en el centro de Omán" }
+features:
+  - text: 'Conocido desde la antigüedad como tierra del <span class="quiz">incienso</span>, prosperó gracias al comercio'
+    ref: "https://ja.wikipedia.org/wiki/%E4%B9%B3%E9%A6%99"
+  - text: 'Situado en el sureste de la península arábiga, ocupa un lugar estratégico frente al <span class="quiz">estrecho de Ormuz</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1"
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,20 @@ sc: [
     ["../montenegro/", "Montenegro"],
     ["../greece/", "Grecia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 41.327, lng: 19.819, label: "Tirana", type: "capital", note: "Capital, centro político y económico del país" }
+  - { lat: 41.317, lng: 19.448, label: "Durrës", type: "port", note: "Principal ciudad portuaria del Adriático" }
+  - { lat: 40.625, lng: 19.781, label: "Vlora", type: "city", note: "Lugar de la declaración de independencia, ciudad portuaria del sur" }
+  - { lat: 41.124, lng: 20.082, label: "Elbasan", type: "city", note: "Ciudad histórica del centro" }
+  - { lat: 40.075, lng: 20.142, label: "Gjirokastra", type: "historical", note: "Casco histórico Patrimonio Mundial" }
+  - { lat: 40.706, lng: 19.945, label: "Berat", type: "historical", note: "Ciudad de las mil ventanas, Patrimonio Mundial" }
+  - { lat: 40.910, lng: 20.787, label: "Lago Ohrid", type: "nature", note: "Antiguo lago compartido con Macedonia del Norte" }
+features:
+  - text: 'Último país comunista que estuvo <span class="quiz">aislado</span> en Europa; conserva unos 170.000 <span class="quiz">búnkeres</span> de hormigón por todo el país'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E3%81%AE%E3%83%88%E3%83%BC%E3%83%81%E3%82%AB"
+  - text: 'Cerca del 70% del territorio es <span class="quiz">montañoso</span>; los cascos históricos de <span class="quiz">Berat</span> y Gjirokastra son Patrimonio Mundial'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%88%E3%81%A8%E3%82%B8%E3%83%AD%E3%82%AB%E3%82%B9%E3%83%88%E3%83%A9%E3%81%AE%E6%AD%B4%E5%8F%B2%E5%9C%B0%E5%8C%BA%E7%BE%A4"
 ---
 
 <div class="main-desciption country-description">

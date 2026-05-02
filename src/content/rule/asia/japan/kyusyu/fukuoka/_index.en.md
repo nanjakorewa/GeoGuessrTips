@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Fukuoka.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.590, lng: 130.421, label: "Hakata Station", type: "capital", note: "Capital of Fukuoka Prefecture, largest city in Kyushu" }
+  - { lat: 33.589, lng: 130.398, label: "Tenjin", type: "city", note: "Fukuoka''s downtown" }
+  - { lat: 33.876, lng: 130.882, label: "Kitakyushu (Kokura)", type: "city", note: "Industrial city, Kanmon Strait" }
+  - { lat: 33.518, lng: 130.535, label: "Dazaifu Tenmangu Shrine", type: "historical", note: "Deity of learning" }
+  - { lat: 33.585, lng: 130.450, label: "Fukuoka Airport", type: "landmark", note: "Airport close to the city center" }
+  - { lat: 33.165, lng: 130.408, label: "Yanagawa", type: "city", note: "City of waterways" }
+features:
+  - text: 'Home to Fukuoka City, the largest city in Kyushu, with <span class="quiz">Hakata</span> being a long-standing trading hub with Asia'
+    ref: "https://ja.wikipedia.org/wiki/福岡市"
+  - text: 'Kitakyushu City is the birthplace of the Japanese steel industry, starting with the <span class="quiz">government-run Yawata Steel Works</span>, and is the core of the Kitakyushu Industrial Zone'
+    ref: "https://ja.wikipedia.org/wiki/官営八幡製鉄所"
 ---
 
 

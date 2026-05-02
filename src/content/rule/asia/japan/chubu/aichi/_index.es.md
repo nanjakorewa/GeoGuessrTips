@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Aichi.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.171, lng: 136.882, label: "Estación de Nagoya", type: "capital", note: "Capital de la Prefectura de Aichi y mayor ciudad de Chubu" }
+  - { lat: 35.185, lng: 136.900, label: "Castillo de Nagoya", type: "historical", note: "Famoso por sus shachihoko dorados" }
+  - { lat: 35.083, lng: 137.156, label: "Toyota", type: "city", note: "Sede central de Toyota Motor" }
+  - { lat: 35.224, lng: 137.087, label: "Seto", type: "city", note: "Productora de cerámica Seto" }
+  - { lat: 34.857, lng: 136.815, label: "Aeropuerto Internacional de Chubu", type: "landmark", note: "Centrair" }
+  - { lat: 35.388, lng: 136.939, label: "Castillo de Inuyama", type: "historical", note: "Tesoro Nacional con torre original" }
+features:
+  - text: 'Prefectura industrial número uno de Japón en valor de envíos manufactureros, centrada en la ciudad de Toyota, sede de <span class="quiz">Toyota Motor</span>'
+    ref: "https://ja.wikipedia.org/wiki/愛知県#工業"
+  - text: 'La ciudad de Nagoya es el núcleo de la <span class="quiz">región de Chukyo</span>, una de las tres grandes áreas metropolitanas de Japón'
+    ref: "https://ja.wikipedia.org/wiki/中京圏"
 ---
 
 <div class="main-desciption country-description">

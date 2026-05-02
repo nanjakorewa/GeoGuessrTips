@@ -16,6 +16,22 @@ sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../bhutan/", "Bhutan"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 27.717, lng: 85.324, label: "Kathmandu", type: "capital", note: "Ibu kota Nepal, kota terbesar" }
+  - { lat: 28.210, lng: 83.991, label: "Pokhara", type: "city", note: "Kota wisata, basis menuju Annapurna" }
+  - { lat: 27.671, lng: 85.428, label: "Bhaktapur", type: "historical", note: "Warisan dunia, kota tua" }
+  - { lat: 27.989, lng: 86.925, label: "Everest", type: "nature", note: "Puncak tertinggi di dunia (8.848 m)" }
+  - { lat: 28.596, lng: 83.819, label: "Annapurna", type: "nature", note: "Gugusan puncak terkenal di Pegunungan Himalaya" }
+  - { lat: 27.484, lng: 83.945, label: "Lumbini", type: "historical", note: "Warisan dunia, tempat kelahiran Buddha" }
+  - { lat: 28.394, lng: 84.124, label: "Manaslu", type: "nature", note: "Puncak tertinggi kedelapan di dunia (8.163 m)" }
+features:
+  - text: 'Puncak tertinggi di dunia, <span class="quiz">Everest</span> (8.848 m), berada di perbatasan dengan Tiongkok'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%99%E3%83%AC%E3%82%B9%E3%83%88"
+  - text: 'Bendera negara satu-satunya di dunia yang <span class="quiz">tidak berbentuk persegi panjang</span> (dua segitiga bertumpuk)'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E3%81%AE%E5%9B%BD%E6%97%97"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

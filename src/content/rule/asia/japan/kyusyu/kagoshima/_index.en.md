@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Kagoshima.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.583, lng: 130.541, label: "Kagoshima-Chuo Station", type: "capital", note: "Capital of Kagoshima Prefecture" }
+  - { lat: 31.589, lng: 130.657, label: "Sakurajima", type: "nature", note: "Active volcano, symbol of Kagoshima" }
+  - { lat: 31.235, lng: 130.633, label: "Ibusuki", type: "nature", note: "Sand-bath hot springs" }
+  - { lat: 30.385, lng: 130.587, label: "Yakushima", type: "nature", note: "Jomon Sugi cedar, World Heritage" }
+  - { lat: 31.617, lng: 130.555, label: "Sengan-en Garden", type: "historical", note: "Villa of the Shimazu family" }
+  - { lat: 28.378, lng: 129.494, label: "Amami-Oshima", type: "nature", note: "Subtropical island, World Heritage" }
+features:
+  - text: 'The active volcano <span class="quiz">Sakurajima</span> is the prefecture''s symbol, with areas where volcanic ash falls daily'
+    ref: "https://ja.wikipedia.org/wiki/桜島"
+  - text: 'A leading producer of <span class="quiz">tea</span> and <span class="quiz">sweet potatoes</span>, with livestock (Kurobuta pork, Kuroge wagyu) also among Japan''s top'
+    ref: "https://ja.wikipedia.org/wiki/鹿児島県#農業"
 ---
 
 

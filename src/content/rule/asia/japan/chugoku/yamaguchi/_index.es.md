@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Yamaguchi.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.186, lng: 131.471, label: "Estación de Yamaguchi", type: "capital", note: "Capital de la Prefectura de Yamaguchi" }
+  - { lat: 34.169, lng: 132.176, label: "Iwakuni (Puente Kintai)", type: "historical", note: "Puente de madera con cinco arcos" }
+  - { lat: 33.957, lng: 130.940, label: "Shimonoseki", type: "port", note: "Extremo más occidental de Honshu y estrecho de Kanmon" }
+  - { lat: 34.408, lng: 131.398, label: "Hagi", type: "historical", note: "Ciudad-castillo y cuna de la Restauración Meiji" }
+  - { lat: 34.225, lng: 131.305, label: "Meseta de Akiyoshidai", type: "nature", note: "Mayor meseta kárstica de Japón" }
+  - { lat: 34.225, lng: 131.305, label: "Cueva Akiyoshido", type: "nature", note: "Una de las mayores cuevas calcáreas de Japón" }
+features:
+  - text: 'En la zona de Shunan-Kudamatsu se concentra un <span class="quiz">complejo petroquímico</span>, también conocido por sus paisajes nocturnos industriales'
+    ref: "https://ja.wikipedia.org/wiki/周南コンビナート"
+  - text: 'La ciudad de Shimonoseki ocupa el primer lugar nacional en volumen de manipulación de <span class="quiz">fugu</span> (llamado «fuku» en Shimonoseki)'
+    ref: "https://ja.wikipedia.org/wiki/下関市#水産業"
 ---
 
 

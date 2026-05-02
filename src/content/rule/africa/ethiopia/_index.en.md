@@ -12,6 +12,20 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "350px"
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 9.030, lng: 38.749, label: "Addis Ababa", type: "capital", note: "Capital and headquarters of the African Union" }
+  - { lat: 11.595, lng: 37.391, label: "Bahir Dar", type: "city", note: "City on the south shore of Lake Tana; tourism hub" }
+  - { lat: 13.479, lng: 39.476, label: "Mekelle", type: "city", note: "Capital of Tigray; main city in the north" }
+  - { lat: 7.052, lng: 38.476, label: "Hawassa", type: "city", note: "Hub of the Southern Nations region" }
+  - { lat: 9.350, lng: 42.794, label: "Harar", type: "historical", note: "World Heritage walled city; center of Islamic culture" }
+  - { lat: 12.610, lng: 37.470, label: "Gondar", type: "historical", note: "Former imperial capital; World Heritage Fasil Ghebbi" }
+  - { lat: 12.030, lng: 39.043, label: "Lalibela", type: "historical", note: "Sacred World Heritage site famed for its rock-hewn churches" }
+features:
+  - text: 'One of Africa''s oldest independent nations, using its own <span class="quiz">Ge''ez script</span> (Ethiopic alphabet)'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%A8%E3%82%BA%E6%96%87%E5%AD%97"
+  - text: 'Considered the birthplace of <span class="quiz">coffee</span> and uses its own calendar (the Ethiopian calendar)'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2#%E6%96%87%E5%8C%96"
 ---
 
 <div class="main-desciption country-description">

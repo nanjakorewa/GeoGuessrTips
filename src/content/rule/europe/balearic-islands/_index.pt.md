@@ -17,6 +17,19 @@ sc: [
     ["../malta/", "Malta"],
     ["../italy/", "Itália"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 39.570, lng: 2.650, label: "Palma", type: "capital", note: "Principal cidade de Maiorca e do arquipélago" }
+  - { lat: 38.909, lng: 1.433, label: "Ibiza", type: "city", note: "Meca da música de clube" }
+  - { lat: 39.890, lng: 4.265, label: "Maó", type: "port", note: "Cidade portuária de Menorca" }
+  - { lat: 38.972, lng: 1.535, label: "Santa Eulària", type: "city", note: "Estância turística no leste de Ibiza" }
+  - { lat: 39.722, lng: 2.802, label: "Valldemossa", type: "historical", note: "Vila de montanha onde Chopin se hospedou" }
+  - { lat: 39.851, lng: 3.119, label: "Alcúdia", type: "city", note: "Centro histórico no norte de Maiorca" }
+features:
+  - text: 'Arquipélago no Mediterrâneo, no leste da Espanha, formado por destinos turísticos como <span class="quiz">Maiorca</span>, Menorca e <span class="quiz">Ibiza</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AC%E3%82%A2%E3%83%AC%E3%82%B9%E8%AB%B8%E5%B3%B6"
+  - text: 'Ibiza é mundialmente conhecida como meca da <span class="quiz">música de clube</span>, e a ilha inteira é <span class="quiz">Patrimônio Mundial da UNESCO</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%93%E3%82%B5%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

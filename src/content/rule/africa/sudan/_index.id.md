@@ -12,6 +12,19 @@ flag_height: "380px"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 15.500, lng: 32.559, label: "Khartoum", type: "capital", note: "Ibu kota, titik pertemuan Sungai Nil Biru dan Nil Putih" }
+  - { lat: 15.598, lng: 32.534, label: "Omdurman", type: "city", note: "Kota kembar dengan populasi terbesar di kawasan ibu kota" }
+  - { lat: 19.617, lng: 37.217, label: "Port Sudan", type: "port", note: "Kota pelabuhan utama di pesisir Laut Merah" }
+  - { lat: 13.183, lng: 30.217, label: "Nyala", type: "city", note: "Kota pusat di wilayah Darfur barat" }
+  - { lat: 14.400, lng: 33.519, label: "Wad Madani", type: "city", note: "Ibu kota negara bagian Gezira di tengah, kawasan pertanian" }
+  - { lat: 16.939, lng: 33.749, label: "Situs Meroe", type: "historical", note: "Warisan dunia, gugusan piramida Kerajaan Kush kuno" }
+features:
+  - text: 'Sebelum kemerdekaan Sudan Selatan, negara ini memiliki wilayah <span class="quiz">terluas</span> di benua Afrika'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%80%E3%83%B3"
+  - text: 'Tanah peradaban <span class="quiz">Nubia</span> kuno, dan gugusan piramida Meroe terdaftar sebagai warisan dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AD%E3%82%A8"
 ---
 
 <div class="main-desciption country-description">

@@ -20,6 +20,20 @@ sc: [
     ["../luxembourg/", "Luxemburgo"],
     ["../../n_america/saint-pierre-miquelon/", "San Pedro y Miquelón"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 48.857, lng: 2.353, label: "París", type: "capital", note: "Capital, centro del arte y la cultura" }
+  - { lat: 43.297, lng: 5.381, label: "Marsella", type: "port", note: "Mayor ciudad portuaria del Mediterráneo" }
+  - { lat: 45.764, lng: 4.836, label: "Lyon", type: "city", note: "Capital gastronómica, tercera ciudad de Francia" }
+  - { lat: 43.710, lng: 7.262, label: "Niza", type: "city", note: "Centro de la Costa Azul" }
+  - { lat: 48.636, lng: -1.511, label: "Mont Saint-Michel", type: "landmark", note: "Isla con abadía, Patrimonio Mundial" }
+  - { lat: 48.858, lng: 2.295, label: "Torre Eiffel", type: "landmark", note: "Símbolo de París, terminada en 1889" }
+  - { lat: 50.629, lng: 3.057, label: "Lille", type: "city", note: "Ciudad principal del norte de Francia" }
+features:
+  - text: 'Mayor potencia <span class="quiz">agrícola</span> de la UE; la producción de <span class="quiz">vino</span> y queso es de las primeras del mundo y la convierte en "el país de la gastronomía"'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%BE%B2%E6%A5%AD"
+  - text: 'Mayor potencia <span class="quiz">turística</span> del mundo, con unos <span class="quiz">90 millones</span> de turistas extranjeros al año; alberga la <span class="quiz">Torre Eiffel</span> y el Museo del Louvre'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%A6%B3%E5%85%89"
 ---
 
 <div class="main-desciption country-description">

@@ -20,6 +20,19 @@ sc: [
     ["../ukraine/", "Ucrania"],
     ["../bosnah/", "Bosnia y Herzegovina"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 44.787, lng: 20.448, label: "ベオグラード", type: "capital", note: "首都・ドナウ川とサヴァ川の合流点" }
+  - { lat: 45.255, lng: 19.843, label: "ノヴィ・サド", type: "city", note: "ヴォイヴォディナの中心都市" }
+  - { lat: 43.321, lng: 21.896, label: "ニシュ", type: "city", note: "南部の主要都市" }
+  - { lat: 43.726, lng: 20.690, label: "クラグエヴァツ", type: "city", note: "中部の歴史都市" }
+  - { lat: 43.900, lng: 20.349, label: "ジチャ修道院", type: "historical", note: "中世セルビア王の戴冠地" }
+  - { lat: 43.301, lng: 20.262, label: "ストゥデニツァ修道院", type: "landmark", note: "世界遺産の正教会修道院" }
+features:
+  - text: '<span class="quiz">ニコラ・テスラ</span>の出身地域であり、首都<span class="quiz">ベオグラード</span>はドナウ川とサヴァ川の合流点に位置する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%89"
+  - text: '<span class="quiz">キリル文字</span>とラテン文字の両方が日常的に使われ、<span class="quiz">正教会</span>の文化が色濃く残る'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

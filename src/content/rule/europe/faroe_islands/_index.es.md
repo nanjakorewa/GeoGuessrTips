@@ -17,6 +17,19 @@ sc: [
     ["../iceland/", "Islandia"],
     ["../svalbard/", "Svalbard"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 62.012, lng: -6.770, label: "Tórshavn", type: "capital", note: "Una de las capitales más antiguas del mundo, mayor ciudad del archipiélago" }
+  - { lat: 62.212, lng: -6.589, label: "Klaksvík", type: "city", note: "Segunda ciudad, centro pesquero" }
+  - { lat: 62.103, lng: -7.456, label: "Vestmanna", type: "city", note: "Pueblo famoso por sus acantilados llenos de aves" }
+  - { lat: 62.292, lng: -7.183, label: "Gásadalur", type: "nature", note: "Cascada emblemática" }
+  - { lat: 61.444, lng: -6.794, label: "Suðuroy", type: "nature", note: "Isla más meridional" }
+  - { lat: 62.139, lng: -7.434, label: "Sørvágur", type: "city", note: "Ciudad principal de la isla de Vágar" }
+features:
+  - text: 'Territorio autónomo de <span class="quiz">Dinamarca</span>; el nombre significa "<span class="quiz">islas de las ovejas</span>" en nórdico antiguo y hay más ovejas que habitantes'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E8%AB%B8%E5%B3%B6"
+  - text: 'Tiene su propia lengua, el <span class="quiz">feroés</span>; archipiélago de 18 islas conectadas entre sí por <span class="quiz">túneles submarinos</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

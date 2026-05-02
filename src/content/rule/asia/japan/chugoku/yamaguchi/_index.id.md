@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Yamaguchi.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.186, lng: 131.471, label: "Stasiun Yamaguchi", type: "capital", note: "Ibu kota Prefektur Yamaguchi" }
+  - { lat: 34.169, lng: 132.176, label: "Iwakuni (Jembatan Kintaikyo)", type: "historical", note: "Jembatan kayu lima lengkungan" }
+  - { lat: 33.957, lng: 130.940, label: "Shimonoseki", type: "port", note: "Titik paling barat Honshu, Selat Kanmon" }
+  - { lat: 34.408, lng: 131.398, label: "Hagi", type: "historical", note: "Kota kastil, tempat asal Restorasi Meiji" }
+  - { lat: 34.225, lng: 131.305, label: "Dataran Akiyoshi", type: "nature", note: "Dataran karst terbesar di Jepang" }
+  - { lat: 34.225, lng: 131.305, label: "Gua Akiyoshi", type: "nature", note: "Salah satu gua kapur terbesar di Jepang" }
+features:
+  - text: 'Distrik Shunan dan Kudamatsu memiliki klaster <span class="quiz">kompleks petrokimia</span>, dan dikenal dengan pemandangan pabrik di malam hari'
+    ref: "https://ja.wikipedia.org/wiki/周南コンビナート"
+  - text: 'Volume penanganan <span class="quiz">ikan buntal (fugu)</span> (di Shimonoseki disebut "fuku") di Kota Shimonoseki adalah yang terbesar di Jepang'
+    ref: "https://ja.wikipedia.org/wiki/下関市#水産業"
 ---
 
 

@@ -18,6 +18,19 @@ sc: [
     ["../../oceania/new-zealand/", "New Zealand"],
     ["../../n_america/costa_rica/", "Costa Rica"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 14.616, lng: -61.058, label: "Fort-de-France", type: "capital", note: "Department capital and largest city and port" }
+  - { lat: 14.748, lng: -61.184, label: "Saint-Pierre", type: "historical", note: "Former capital destroyed by the 1902 eruption of Mount Pelee" }
+  - { lat: 14.609, lng: -60.971, label: "Le Lamentin", type: "city", note: "Central city home to the international airport" }
+  - { lat: 14.609, lng: -60.870, label: "Le Robert", type: "city", note: "Port town on the east coast" }
+  - { lat: 14.813, lng: -61.165, label: "Mount Pelee", type: "nature", note: "Active volcano, 1,397 m" }
+  - { lat: 14.456, lng: -60.866, label: "Sainte-Anne", type: "city", note: "Tourist beach district in the south" }
+features:
+  - text: 'An overseas department of <span class="quiz">France</span> in the Caribbean and one of the EU''s outermost regions'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC%E3%82%AF"
+  - text: 'The 1902 eruption of the active volcano <span class="quiz">Mount Pelee</span> killed about 30,000 people'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%BC%E5%B1%B1"
 ---
 
 <div class="main-desciption country-description">

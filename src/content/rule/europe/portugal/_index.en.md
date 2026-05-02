@@ -17,6 +17,20 @@ sc: [
     ["../../africa/madeira_islands/", "Madeira Islands"],
     ["../belgium/", "Belgium"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 38.722, lng: -9.139, label: "リスボン", type: "capital", note: "首都・テージョ川沿いの古都" }
+  - { lat: 41.157, lng: -8.629, label: "ポルト", type: "city", note: "ポートワイン産地・世界遺産旧市街" }
+  - { lat: 38.797, lng: -9.391, label: "シントラ", type: "historical", note: "世界遺産の文化的景観" }
+  - { lat: 37.018, lng: -7.930, label: "ファロ", type: "city", note: "アルガルヴェ地方の中心" }
+  - { lat: 40.640, lng: -8.650, label: "アヴェイロ", type: "city", note: "運河の街・ポルトガルのヴェネツィア" }
+  - { lat: 40.211, lng: -8.430, label: "コインブラ", type: "historical", note: "古都・最古の大学都市" }
+  - { lat: 38.692, lng: -9.216, label: "ベレンの塔", type: "landmark", note: "大航海時代の世界遺産" }
+features:
+  - text: '大航海時代に<span class="quiz">ヴァスコ・ダ・ガマ</span>がインド航路を発見するなど、海洋探検の先駆者となった国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%80%E3%83%BB%E3%82%AC%E3%83%9E"
+  - text: '<span class="quiz">アズレージョ</span>と呼ばれる装飾タイルが街中に見られ、<span class="quiz">ファド</span>は国民的な音楽としてユネスコ無形文化遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

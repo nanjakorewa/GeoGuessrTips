@@ -8,6 +8,16 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 flag: "JP.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.590, lng: 130.421, label: "Hakata Station", type: "city", note: "Center of Fukuoka, largest city in Kyushu" }
+  - { lat: 33.249, lng: 130.298, label: "Saga Station", type: "city", note: "Capital of Saga Prefecture" }
+  - { lat: 32.748, lng: 129.877, label: "Nagasaki Station", type: "city", note: "Capital of Nagasaki Prefecture, port city" }
+  - { lat: 32.789, lng: 130.704, label: "Kumamoto Station", type: "city", note: "Capital of Kumamoto Prefecture, Kumamoto Castle" }
+  - { lat: 33.232, lng: 131.610, label: "Oita Station", type: "city", note: "Capital of Oita Prefecture, hot spring prefecture" }
+  - { lat: 31.911, lng: 131.423, label: "Miyazaki Station", type: "city", note: "Capital of Miyazaki Prefecture" }
+  - { lat: 31.583, lng: 130.541, label: "Kagoshima-Chuo Station", type: "city", note: "Capital of Kagoshima Prefecture, Sakurajima" }
+  - { lat: 26.213, lng: 127.679, label: "Naha", type: "city", note: "Capital of Okinawa Prefecture" }
 ---
 
 

@@ -9,6 +9,20 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "OKINAWA.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 26.213, lng: 127.679, label: "Naha", type: "capital", note: "Capital of Okinawa Prefecture" }
+  - { lat: 26.217, lng: 127.719, label: "Shuri Castle", type: "historical", note: "Royal castle of the Ryukyu Kingdom, World Heritage" }
+  - { lat: 26.215, lng: 127.687, label: "Kokusai-dori (International Street)", type: "city", note: "Naha''s main shopping street" }
+  - { lat: 26.694, lng: 127.878, label: "Churaumi Aquarium", type: "landmark", note: "Motobu Town, large tank" }
+  - { lat: 24.339, lng: 124.156, label: "Ishigaki Island", type: "nature", note: "Center of the Yaeyama Islands" }
+  - { lat: 24.812, lng: 125.281, label: "Miyako Island", type: "nature", note: "Beautiful beaches" }
+  - { lat: 26.870, lng: 128.265, label: "Cape Hedo", type: "nature", note: "Northernmost point of Okinawa''s main island" }
+features:
+  - text: 'A subtropical prefecture, the southernmost in Japan, surrounded by <span class="quiz">coral reef</span> seas'
+    ref: "https://ja.wikipedia.org/wiki/沖縄県"
+  - text: 'Due to its history under U.S. administration until 1972, there are many <span class="quiz">U.S. military bases</span>'
+    ref: "https://ja.wikipedia.org/wiki/沖縄県#米軍基地"
 ---
 
 <div class="main-desciption country-description">

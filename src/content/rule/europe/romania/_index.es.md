@@ -17,6 +17,20 @@ sc: [
     ["../bulgaria/", "Bulgaria"],
     ["../hungary/", "Hungría"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 44.439, lng: 26.097, label: "ブカレスト", type: "capital", note: "首都・東欧のパリと呼ばれた都市" }
+  - { lat: 46.770, lng: 23.591, label: "クルージュ＝ナポカ", type: "city", note: "トランシルヴァニアの中心都市" }
+  - { lat: 45.654, lng: 25.611, label: "ブラショヴ", type: "city", note: "中世の城塞都市" }
+  - { lat: 45.749, lng: 21.227, label: "ティミショアラ", type: "city", note: "西部の文化都市" }
+  - { lat: 45.515, lng: 25.367, label: "ブラン城", type: "historical", note: "ドラキュラ城のモデル" }
+  - { lat: 45.792, lng: 24.151, label: "シビウ", type: "historical", note: "ドイツ系移住者の旧市街" }
+  - { lat: 45.115, lng: 29.567, label: "ドナウ・デルタ", type: "nature", note: "欧州最大の湿地・世界遺産" }
+features:
+  - text: '<span class="quiz">ドラキュラ</span>伝説の舞台として知られる<span class="quiz">トランシルヴァニア</span>地方があり、中世の城塞都市が多く残る'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2"
+  - text: 'スラヴ語圏に囲まれながら<span class="quiz">ラテン語</span>系のルーマニア語を話す独自の文化を持ち、<span class="quiz">ドナウ・デルタ</span>はヨーロッパ最大の湿地帯'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%82%A6%E3%83%BB%E3%83%87%E3%83%AB%E3%82%BF"
 ---
 
 <div class="main-desciption country-description">

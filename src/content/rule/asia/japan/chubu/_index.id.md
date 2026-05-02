@@ -8,6 +8,17 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 flag: "JP.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.171, lng: 136.882, label: "Stasiun Nagoya", type: "city", note: "Ibu kota Prefektur Aichi, kota terbesar di Chubu" }
+  - { lat: 35.422, lng: 136.760, label: "Stasiun Gifu", type: "city", note: "Ibu kota Prefektur Gifu" }
+  - { lat: 34.976, lng: 138.388, label: "Stasiun Shizuoka", type: "city", note: "Ibu kota Prefektur Shizuoka" }
+  - { lat: 35.665, lng: 138.569, label: "Stasiun Kofu", type: "city", note: "Ibu kota Prefektur Yamanashi" }
+  - { lat: 36.648, lng: 138.188, label: "Stasiun Nagano", type: "city", note: "Ibu kota Prefektur Nagano, Kuil Zenko-ji" }
+  - { lat: 37.912, lng: 139.062, label: "Stasiun Niigata", type: "city", note: "Ibu kota Prefektur Niigata, kota terbesar di pesisir Laut Jepang" }
+  - { lat: 36.701, lng: 137.213, label: "Stasiun Toyama", type: "city", note: "Ibu kota Prefektur Toyama, Pegunungan Tateyama" }
+  - { lat: 36.578, lng: 136.648, label: "Stasiun Kanazawa", type: "city", note: "Ibu kota Prefektur Ishikawa, Taman Kenroku-en" }
+  - { lat: 36.062, lng: 136.222, label: "Stasiun Fukui", type: "city", note: "Ibu kota Prefektur Fukui" }
 ---
 
 

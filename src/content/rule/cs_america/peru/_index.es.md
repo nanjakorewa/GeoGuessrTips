@@ -20,6 +20,18 @@ sc: [
     ["../ecuador/", "Ecuador"],
     ["../../asia/", "campo del sudeste asiático"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -12.046, lng: -77.043, label: "Lima", type: "capital", note: "Capital, mayor ciudad de la costa del Pacífico" }
+  - { lat: -16.409, lng: -71.537, label: "Arequipa", type: "city", note: "Ciudad blanca del sur, Patrimonio Mundial" }
+  - { lat: -13.532, lng: -71.967, label: "Cuzco", type: "city", note: "Antigua capital inca a unos 3.400 m, Patrimonio Mundial" }
+  - { lat: -8.112, lng: -79.029, label: "Trujillo", type: "city", note: "Ciudad principal de la costa norte" }
+  - { lat: -3.749, lng: -73.254, label: "Iquitos", type: "city", note: "Mayor ciudad de la cuenca amazónica" }
+  - { lat: -13.163, lng: -72.545, label: "Machu Picchu", type: "landmark", note: "Sitio inca a 2.430 m, Patrimonio Mundial" }
+  - { lat: -15.823, lng: -69.333, label: "Lago Titicaca", type: "landmark", note: "Lago de altura en la frontera con Bolivia, a 3.810 m" }
+features:
+  - text: 'Centro del Imperio inca; ruinas como <span class="quiz">Machu Picchu</span> figuran como Patrimonio de la Humanidad'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BB%E3%83%94%E3%83%81%E3%83%A5"
 ---
 
 <div class="main-desciption country-description">

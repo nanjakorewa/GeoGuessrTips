@@ -12,6 +12,19 @@ flag_height: "380px"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 4.859, lng: 31.572, label: "Juba", type: "capital", note: "Ibu kota, kota terbesar di tepi Sungai Nil Putih" }
+  - { lat: 9.532, lng: 31.660, label: "Malakal", type: "city", note: "Kota pusat di negara bagian Nil Hulu" }
+  - { lat: 8.770, lng: 27.985, label: "Bentiu", type: "city", note: "Daerah penghasil minyak, kota di utara" }
+  - { lat: 6.800, lng: 29.700, label: "Rumbek", type: "city", note: "Kota pusat di negara bagian Lakes (tengah)" }
+  - { lat: 4.546, lng: 28.369, label: "Yambio", type: "city", note: "Ibu kota negara bagian Equatoria Barat di barat daya" }
+  - { lat: 8.500, lng: 30.500, label: "Rawa Sudd", type: "nature", note: "Salah satu rawa terbesar di dunia, di lembah Sungai Nil Putih" }
+features:
+  - text: 'Negara termuda di dunia yang merdeka dari Sudan pada tahun <span class="quiz">2011</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%B9%E3%83%BC%E3%83%80%E3%83%B3"
+  - text: '<span class="quiz">Sungai Nil Putih</span> mengalir di sini, dengan rawa Sudd yang merupakan salah satu rawa terbesar di dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%83%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

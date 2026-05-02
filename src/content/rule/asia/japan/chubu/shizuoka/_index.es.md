@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Shizuoka.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.976, lng: 138.388, label: "Estación de Shizuoka", type: "capital", note: "Capital de la Prefectura de Shizuoka" }
+  - { lat: 34.710, lng: 137.726, label: "Estación de Hamamatsu", type: "city", note: "Centro del oeste de la prefectura e industria de instrumentos musicales" }
+  - { lat: 35.361, lng: 138.728, label: "Monte Fuji", type: "nature", note: "Frontera con la Prefectura de Yamanashi" }
+  - { lat: 34.998, lng: 138.519, label: "Miho no Matsubara", type: "landmark", note: "Componente del Patrimonio de la Humanidad del Monte Fuji" }
+  - { lat: 34.875, lng: 138.946, label: "Península de Izu", type: "nature", note: "Aguas termales y zona turística" }
+  - { lat: 34.975, lng: 138.385, label: "Castillo de Sumpu", type: "historical", note: "Castillo de retiro de Tokugawa Ieyasu" }
+features:
+  - text: 'Ocupa el primer lugar nacional en producción de <span class="quiz">té</span>, con vastos campos de té centrados en la meseta de Makinohara'
+    ref: "https://ja.wikipedia.org/wiki/静岡県#農業"
+  - text: 'La ciudad de Hamamatsu es un gran centro productor de <span class="quiz">instrumentos musicales</span> (Yamaha, Kawai) y <span class="quiz">motocicletas</span> (Suzuki, Yamaha Motor)'
+    ref: "https://ja.wikipedia.org/wiki/浜松市#工業"
 ---
 
 

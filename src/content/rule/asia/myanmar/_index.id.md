@@ -12,6 +12,21 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 19.745, lng: 96.115, label: "Naypyidaw", type: "capital", note: "Ibu kota Myanmar, dipindahkan pada tahun 2006" }
+  - { lat: 16.866, lng: 96.195, label: "Yangon", type: "city", note: "Bekas ibu kota, kota ekonomi terbesar" }
+  - { lat: 16.793, lng: 96.149, label: "Pagoda Shwedagon", type: "landmark", note: "Pagoda emas, situs suci terbesar di Myanmar" }
+  - { lat: 21.975, lng: 96.084, label: "Mandalay", type: "city", note: "Kota utama di tengah, ibu kota dinasti terakhir" }
+  - { lat: 21.171, lng: 94.858, label: "Bagan", type: "historical", note: "Warisan dunia, kota tua dengan ribuan pagoda" }
+  - { lat: 20.368, lng: 96.916, label: "Danau Inle", type: "nature", note: "Danau di dataran tinggi, terkenal dengan permukiman terapung" }
+features:
+  - text: 'Pada tahun 2006, ibu kota dipindahkan dari <span class="quiz">Yangon</span> ke <span class="quiz">Naypyidaw</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%94%E3%83%89%E3%83%BC"
+  - text: '<span class="quiz">Pagoda Shwedagon</span> adalah pagoda emas setinggi sekitar 100 m dan merupakan situs suci terbesar di Myanmar'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%80%E3%82%B4%E3%83%B3%E3%83%BB%E3%83%91%E3%82%B4%E3%83%80"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

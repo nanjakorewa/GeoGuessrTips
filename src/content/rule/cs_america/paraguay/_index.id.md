@@ -15,6 +15,19 @@ sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../brazil/", "Brasil"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -25.264, lng: -57.575, label: "Asuncion", type: "capital", note: "Ibu kota, kota terbesar di sepanjang Sungai Paraguay" }
+  - { lat: -25.508, lng: -54.611, label: "Ciudad del Este", type: "city", note: "Kota perdagangan di perbatasan Brasil" }
+  - { lat: -25.341, lng: -57.514, label: "Luque", type: "city", note: "Kota utama di kawasan ibu kota" }
+  - { lat: -27.333, lng: -55.867, label: "Encarnacion", type: "city", note: "Kota di selatan, di perbatasan Argentina" }
+  - { lat: -25.408, lng: -54.589, label: "Bendungan Itaipu", type: "landmark", note: "Salah satu pembangkit listrik tenaga air terbesar di dunia" }
+  - { lat: -27.327, lng: -55.541, label: "Reruntuhan Misi Yesuit", type: "historical", note: "Warisan dunia La Santisima Trinidad" }
+features:
+  - text: '<span class="quiz">Negara terkurung daratan</span> di Amerika Selatan, dengan bahasa resmi Spanyol dan bahasa adat <span class="quiz">Guarani</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B0%E3%82%A2%E3%82%A4"
+  - text: '<span class="quiz">Bendungan Itaipu</span> di perbatasan Brasil adalah salah satu pembangkit listrik tenaga air terbesar di dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%97%E3%83%80%E3%83%A0"
 ---
 
 <div class="main-desciption country-description">

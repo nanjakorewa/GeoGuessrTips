@@ -18,6 +18,19 @@ sc: [
     ["../../oceania/new-zealand/", "Nueva Zelanda"],
     ["../../n_america/costa_rica/", "Costa Rica"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 14.616, lng: -61.058, label: "Fort-de-France", type: "capital", note: "Capital del departamento, mayor ciudad y puerto" }
+  - { lat: 14.748, lng: -61.184, label: "Saint-Pierre", type: "historical", note: "Antigua capital arrasada por la erupción del monte Pelée en 1902" }
+  - { lat: 14.609, lng: -60.971, label: "Le Lamentin", type: "city", note: "Ciudad principal del centro de la isla, sede del aeropuerto internacional" }
+  - { lat: 14.609, lng: -60.870, label: "Le Robert", type: "city", note: "Pueblo portuario de la costa este" }
+  - { lat: 14.813, lng: -61.165, label: "Monte Pelée", type: "nature", note: "Volcán activo de 1.397 m" }
+  - { lat: 14.456, lng: -60.866, label: "Sainte-Anne", type: "city", note: "Zona turística de playas en el sur" }
+features:
+  - text: 'Departamento de ultramar de <span class="quiz">Francia</span> en el Caribe, una de las regiones ultraperiféricas de la UE'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC%E3%82%AF"
+  - text: 'La erupción del volcán activo <span class="quiz">Monte Pelée</span> en 1902 causó unas 30.000 víctimas'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%BC%E5%B1%B1"
 ---
 
 <div class="main-desciption country-description">

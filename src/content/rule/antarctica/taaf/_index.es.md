@@ -12,6 +12,19 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: -49.351, lng: 70.219, label: "Port-aux-Français", type: "capital", note: "Principal base de investigación de las islas Kerguelen" }
+  - { lat: -49.350, lng: 70.220, label: "Islas Kerguelen", type: "nature", note: "Archipiélago deshabitado del sur del océano Índico" }
+  - { lat: -37.823, lng: 77.553, label: "Isla Ámsterdam", type: "nature", note: "Isla volcánica subantártica" }
+  - { lat: -38.722, lng: 77.539, label: "Isla San Pablo", type: "nature", note: "Isla volcánica deshabitada cerca de la isla Ámsterdam" }
+  - { lat: -46.400, lng: 51.700, label: "Islas Crozet", type: "nature", note: "Conocidas como zona de cría de pingüinos" }
+  - { lat: -66.667, lng: 140.001, label: "Tierra Adelia", type: "landmark", note: "Sector francés de la Antártida, base Dumont d''Urville" }
+features:
+  - text: 'Conjunto de islas deshabitadas del sur del océano Índico y del entorno antártico administradas por <span class="quiz">Francia</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E5%8D%97%E6%96%B9%E3%83%BB%E5%8D%97%E6%A5%B5%E5%9C%B0%E5%9F%9F"
+  - text: 'Incluye las <span class="quiz">islas Kerguelen</span> y es zona de reproducción de varias especies de pingüinos y focas'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%82%B2%E3%83%AC%E3%83%B3%E8%AB%B8%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

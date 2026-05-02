@@ -17,6 +17,19 @@ sc: [
     ["../jersey/", "Jersey"],
     ["../ireland/", "Irlanda"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 54.150, lng: -4.481, label: "ダグラス", type: "capital", note: "首府・島最大の都市" }
+  - { lat: 54.328, lng: -4.388, label: "ラムジー", type: "city", note: "北部の港町" }
+  - { lat: 54.080, lng: -4.778, label: "キャッスルタウン", type: "historical", note: "旧首都・ラッシェン城" }
+  - { lat: 54.196, lng: -4.732, label: "ピール", type: "city", note: "西海岸の港町・ピール城跡" }
+  - { lat: 54.085, lng: -4.674, label: "ポート・エリン", type: "city", note: "南西部のリゾート" }
+  - { lat: 54.413, lng: -4.378, label: "スネーフェル山", type: "nature", note: "島最高峰" }
+features:
+  - text: 'イギリスとアイルランドの間のアイリッシュ海に位置する<span class="quiz">イギリス王室属領</span>で、世界最古のオートバイレース<span class="quiz">TTレース</span>で有名'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E5%B3%B6TT%E3%83%AC%E3%83%BC%E3%82%B9"
+  - text: '三本の足が回転する<span class="quiz">トリスケリオン</span>が島の紋章であり、独自の議会<span class="quiz">ティンワルド</span>は世界最古の継続する議会とされる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%B3%E3%83%AF%E3%83%AB%E3%83%89"
 ---
 
 

@@ -16,6 +16,14 @@ sc_title: "Regiões semelhantes"
 sc: [
     ["../united-kingdom/", "Escócia continental"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 60.155, lng: -1.146, label: "Lerwick", type: "capital", note: "Principal cidade do arquipélago Shetland" }
+  - { lat: 60.337, lng: -1.323, label: "Scalloway", type: "historical", note: "Antiga capital, com ruínas de castelo" }
+  - { lat: 60.608, lng: -1.272, label: "Yell", type: "city", note: "Localidade no centro da ilha principal" }
+  - { lat: 60.831, lng: -0.852, label: "Unst", type: "nature", note: "Ilha habitada mais setentrional do Reino Unido" }
+  - { lat: 59.876, lng: -1.273, label: "Cabo Sumburgh", type: "nature", note: "Ponto mais ao sul da ilha principal e área de reprodução de papagaios-do-mar" }
+  - { lat: 60.491, lng: -1.501, label: "Eshaness", type: "nature", note: "Costa de falésias do oeste" }
 ---
 
 <div class="main-desciption country-description">

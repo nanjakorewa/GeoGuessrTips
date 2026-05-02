@@ -23,6 +23,20 @@ sc: [
     ["../../asia/indonesia/", "Indonesia"],
     ["../../asia/thai/", "Thailand"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -15.794, lng: -47.882, label: "Brasilia", type: "capital", note: "Ibu kota terencana, kota arsitektur modern warisan dunia" }
+  - { lat: -23.550, lng: -46.633, label: "Sao Paulo", type: "city", note: "Kota terbesar di Amerika Selatan, pusat ekonomi" }
+  - { lat: -22.907, lng: -43.172, label: "Rio de Janeiro", type: "city", note: "Bekas ibu kota, terkenal dengan karnaval dan pantainya" }
+  - { lat: -3.119, lng: -60.022, label: "Manaus", type: "city", note: "Kota pusat di kawasan tengah Sungai Amazon" }
+  - { lat: -8.054, lng: -34.881, label: "Recife", type: "city", note: "Kota pelabuhan di timur laut, dijuluki Venesia-nya Brasil" }
+  - { lat: -25.687, lng: -54.444, label: "Air Terjun Iguazu", type: "landmark", note: "Salah satu air terjun terbesar di dunia di perbatasan Argentina" }
+  - { lat: -22.952, lng: -43.211, label: "Patung Kristus Penebus", type: "landmark", note: "Patung raksasa ikonik di Bukit Corcovado" }
+features:
+  - text: 'Memiliki luas wilayah dan populasi terbesar di Amerika Selatan, dengan bahasa resmi <span class="quiz">Portugis</span> yang merupakan satu-satunya di Amerika Selatan'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+  - text: 'Sekitar 60% wilayah negara ini tertutup <span class="quiz">Hutan Hujan Amazon</span>, dengan keanekaragaman hayati terbesar di dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E7%86%B1%E5%B8%AF%E9%9B%A8%E6%9E%97"
 ---
 
 <div class="main-desciption country-description">

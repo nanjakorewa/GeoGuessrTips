@@ -22,6 +22,19 @@ sc: [
     ["../ecuador/", "ecuador"],
     ["../../n_america/mexico/", "Mexico"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 4.711, lng: -74.072, label: "Bogota", type: "capital", note: "Capital, an Andean highland city at about 2,640 m" }
+  - { lat: 6.244, lng: -75.581, label: "Medellin", type: "city", note: "Colombia's second-largest city, the City of Eternal Spring" }
+  - { lat: 3.452, lng: -76.532, label: "Cali", type: "city", note: "Center of salsa music" }
+  - { lat: 10.391, lng: -75.479, label: "Cartagena", type: "city", note: "Caribbean coast World Heritage colonial old town" }
+  - { lat: 11.241, lng: -74.199, label: "Santa Marta", type: "city", note: "The oldest colonial city on the Caribbean coast" }
+  - { lat: 5.054, lng: -75.508, label: "Coffee Cultural Landscape", type: "landmark", note: "World Heritage coffee-growing region" }
+features:
+  - text: 'The only South American country with both Pacific and Caribbean coastlines, and a major producer of <span class="quiz">coffee</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+  - text: 'The country''s name comes from Christopher <span class="quiz">Columbus</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2#%E5%9B%BD%E5%90%8D"
 ---
 
 <div class="main-desciption country-description">

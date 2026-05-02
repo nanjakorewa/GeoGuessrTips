@@ -12,6 +12,19 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.497, lng: 2.605, label: "Porto-Novo", type: "capital", note: "Capital oficial e cidade histórica do sul" }
+  - { lat: 6.366, lng: 2.428, label: "Cotonou", type: "city", note: "Capital econômica de fato e maior cidade" }
+  - { lat: 9.341, lng: 2.625, label: "Parakou", type: "city", note: "Polo de transportes do centro do país" }
+  - { lat: 7.182, lng: 1.991, label: "Abomei", type: "historical", note: "Antiga capital do Reino do Daomé, palácios reais Patrimônio Mundial" }
+  - { lat: 6.366, lng: 2.085, label: "Ouidah", type: "historical", note: "Cidade portuária ligada ao tráfico de escravos e centro do vodu" }
+  - { lat: 6.450, lng: 2.420, label: "Ganvié", type: "landmark", note: "Famosa aldeia lacustre sobre o lago Nokoué" }
+features:
+  - text: 'Considerado o berço do <span class="quiz">vodu</span>, religião praticada hoje por cerca de 17% da população'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%83%89%E3%82%A5%E3%83%BC%E6%95%99"
+  - text: 'Ex-colônia francesa, tem o <span class="quiz">francês</span> como idioma oficial e era antigamente conhecido como Reino do Daomé'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8A%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

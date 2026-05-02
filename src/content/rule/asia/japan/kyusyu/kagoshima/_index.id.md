@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Kagoshima.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.583, lng: 130.541, label: "Stasiun Kagoshima-Chuo", type: "capital", note: "Ibu kota Prefektur Kagoshima" }
+  - { lat: 31.589, lng: 130.657, label: "Sakurajima", type: "nature", note: "Gunung berapi aktif, simbol Kagoshima" }
+  - { lat: 31.235, lng: 130.633, label: "Ibusuki", type: "nature", note: "Onsen mandi pasir" }
+  - { lat: 30.385, lng: 130.587, label: "Yakushima", type: "nature", note: "Cedar Jomon, Warisan Dunia" }
+  - { lat: 31.617, lng: 130.555, label: "Sengan-en", type: "historical", note: "Vila keluarga Shimazu" }
+  - { lat: 28.378, lng: 129.494, label: "Pulau Amami Oshima", type: "nature", note: "Pulau subtropis, Warisan Dunia" }
+features:
+  - text: 'Gunung berapi aktif <span class="quiz">Sakurajima</span> adalah simbol prefektur, dengan beberapa kawasan yang abu vulkaniknya turun setiap hari'
+    ref: "https://ja.wikipedia.org/wiki/桜島"
+  - text: 'Produksi <span class="quiz">teh</span> dan <span class="quiz">ubi jalar</span> berkembang pesat, dan peternakan (babi hitam, sapi hitam) juga termasuk yang terkemuka di Jepang'
+    ref: "https://ja.wikipedia.org/wiki/鹿児島県#農業"
 ---
 
 

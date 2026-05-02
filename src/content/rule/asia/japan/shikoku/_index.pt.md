@@ -8,6 +8,13 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 flag: "JP.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.347, lng: 134.047, label: "Estação de Takamatsu", type: "city", note: "Capital de Kagawa, província conhecida pelo udon" }
+  - { lat: 34.066, lng: 134.551, label: "Estação de Tokushima", type: "city", note: "Capital de Tokushima, sede do festival Awa Odori" }
+  - { lat: 33.839, lng: 132.752, label: "Estação de Matsuyama", type: "city", note: "Capital de Ehime, com as termas de Dōgo Onsen" }
+  - { lat: 33.567, lng: 133.543, label: "Estação de Kochi", type: "city", note: "Capital de Kochi, com o castelo de Kochi" }
+  - { lat: 34.241, lng: 133.961, label: "Ponte Seto Ohashi", type: "landmark", note: "Ponte que liga Honshu a Shikoku, atração turística" }
 ---
 
 

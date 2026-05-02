@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Yamanashi.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.665, lng: 138.569, label: "Estación de Kofu", type: "capital", note: "Capital de la Prefectura de Yamanashi" }
+  - { lat: 35.361, lng: 138.728, label: "Monte Fuji", type: "nature", note: "Pico más alto de Japón y Patrimonio Cultural de la Humanidad" }
+  - { lat: 35.500, lng: 138.766, label: "Lago Kawaguchi", type: "nature", note: "Uno de los Cinco Lagos del Fuji" }
+  - { lat: 35.460, lng: 138.589, label: "Lago Motosu", type: "nature", note: "El Monte Fuji del billete de mil yenes" }
+  - { lat: 35.674, lng: 138.578, label: "Santuario Takeda", type: "historical", note: "Dedicado a Takeda Shingen" }
+  - { lat: 35.397, lng: 138.426, label: "Monte Minobu", type: "historical", note: "Sede principal del budismo Nichiren" }
+features:
+  - text: 'Ocupa el primer lugar nacional en producción de <span class="quiz">uvas y melocotones</span>, con un próspero cultivo frutícola en torno a la cuenca de Kofu'
+    ref: "https://ja.wikipedia.org/wiki/山梨県#農業"
+  - text: 'Situada al norte del <span class="quiz">Monte Fuji</span> (3.776 m), la montaña más alta de Japón, alberga los Cinco Lagos del Fuji'
+    ref: "https://ja.wikipedia.org/wiki/富士山"
 ---
 
 

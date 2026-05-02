@@ -23,6 +23,21 @@ sc: [
     ["../../europe/finland/", "Finland"],
     ["../../europe/sweden/", "Sweden"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 45.421, lng: -75.697, label: "Ottawa", type: "capital", note: "Capital, on the border of Ontario and Quebec" }
+  - { lat: 43.653, lng: -79.383, label: "Toronto", type: "city", note: "Canada's largest city and economic center" }
+  - { lat: 45.502, lng: -73.567, label: "Montreal", type: "city", note: "Largest city in Quebec, in the Francophone region" }
+  - { lat: 49.283, lng: -123.121, label: "Vancouver", type: "city", note: "Largest west coast city and Pacific port" }
+  - { lat: 51.045, lng: -114.057, label: "Calgary", type: "city", note: "Major city at the eastern foot of the Rocky Mountains" }
+  - { lat: 43.084, lng: -79.075, label: "Niagara Falls", type: "landmark", note: "World-famous waterfall on the US border" }
+  - { lat: 43.643, lng: -79.387, label: "CN Tower", type: "landmark", note: "Iconic communications tower of Toronto" }
+  - { lat: 51.418, lng: -116.215, label: "Lake Louise", type: "nature", note: "Glacial lake in the Canadian Rockies" }
+features:
+  - text: 'The world''s second-largest country by area, with <span class="quiz">English and French</span> as official languages'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+  - text: 'Most of the country is covered by <span class="quiz">boreal forest (taiga)</span> and tundra'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

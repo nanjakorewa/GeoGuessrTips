@@ -19,6 +19,20 @@ sc: [
     ["../india/", "India"],
     ["../thai/", "Thailand"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.927, lng: 79.861, label: "Colombo", type: "capital", note: "Sri Lanka's largest city and commercial center" }
+  - { lat: 6.911, lng: 79.886, label: "Sri Jayawardenepura Kotte", type: "capital", note: "The official capital" }
+  - { lat: 7.290, lng: 80.633, label: "Kandy", type: "historical", note: "World Heritage former capital; known for the Temple of the Tooth" }
+  - { lat: 6.054, lng: 80.221, label: "Galle", type: "historical", note: "World Heritage fortified city" }
+  - { lat: 7.957, lng: 80.760, label: "Sigiriya", type: "landmark", note: "World Heritage palace ruins atop a rock" }
+  - { lat: 6.949, lng: 80.789, label: "Nuwara Eliya", type: "city", note: "Mountain resort and famed tea-growing region" }
+  - { lat: 9.661, lng: 80.025, label: "Jaffna", type: "city", note: "Largest city in the north; center of Tamil culture" }
+features:
+  - text: 'World-famous as a producer of <span class="quiz">Ceylon tea</span>; among the world''s leading tea exporters'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%AD%E3%83%B3%E8%8C%B6"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,21 @@ sc_title: "Wilayah Terkait"
 sc: [
     ["../../africa/mauritius/", "Mauritius"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -7.313, lng: 72.411, label: "Pulau Diego Garcia", type: "landmark", note: "Lokasi strategis dengan pangkalan militer Amerika Serikat" }
+  - { lat: -5.367, lng: 71.833, label: "Atol Peros Banhos", type: "nature", note: "Gugusan atol dengan banyak Street View" }
+  - { lat: -6.250, lng: 71.250, label: "Atol Kepulauan Salomon", type: "nature", note: "Atol utama Kepulauan Chagos" }
+  - { lat: -6.683, lng: 72.366, label: "Kepulauan Egmont", type: "nature", note: "Gugusan pulau kecil di barat daya" }
+  - { lat: -5.250, lng: 72.250, label: "Great Chagos Bank", type: "nature", note: "Salah satu struktur terumbu karang terbesar di dunia" }
+  - { lat: -6.000, lng: 71.500, label: "Kepulauan Chagos", type: "nature", note: "Gugusan atol di tengah Samudra Hindia" }
+features:
+  - text: 'Terdiri dari gugusan atol yang terletak hampir di tengah <span class="quiz">Samudra Hindia</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6"
+  - text: 'Lokasi strategis tempat <span class="quiz">Pangkalan Diego Garcia</span> milik militer AS berada'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A8%E3%82%B4%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2%E5%B3%B6"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

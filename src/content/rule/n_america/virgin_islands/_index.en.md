@@ -12,6 +12,19 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 18.336, lng: -64.928, label: "Charlotte Amalie", type: "capital", note: "Capital and main town of Saint Thomas" }
+  - { lat: 17.742, lng: -64.703, label: "Christiansted", type: "city", note: "Main town and historic district on Saint Croix" }
+  - { lat: 17.713, lng: -64.881, label: "Frederiksted", type: "city", note: "Western port town on Saint Croix" }
+  - { lat: 18.331, lng: -64.793, label: "Cruz Bay", type: "city", note: "Hub of Saint John" }
+  - { lat: 18.349, lng: -64.731, label: "Virgin Islands National Park", type: "nature", note: "National park covering most of Saint John" }
+  - { lat: 18.358, lng: -64.762, label: "Trunk Bay", type: "nature", note: "World-famous beach and snorkeling spot" }
+features:
+  - text: 'A <span class="quiz">US unincorporated territory</span> in the Caribbean, with Saint Thomas, Saint Croix, and Saint John as its main islands'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%B3%E8%AB%B8%E5%B3%B6"
+  - text: 'Formerly the Danish West Indies, purchased from Denmark in 1917 for <span class="quiz">25 million dollars</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%B3%E8%AB%B8%E5%B3%B6#%E6%AD%B4%E5%8F%B2"
 ---
 
 <div class="main-desciption country-description">

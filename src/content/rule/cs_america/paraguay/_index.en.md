@@ -15,6 +15,19 @@ sc_title: "Commonly Confused Regions"
 sc: [
     ["../brazil/", "Brazil"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -25.264, lng: -57.575, label: "Asuncion", type: "capital", note: "Capital and largest city along the Paraguay River" }
+  - { lat: -25.508, lng: -54.611, label: "Ciudad del Este", type: "city", note: "Commercial city on the Brazilian border" }
+  - { lat: -25.341, lng: -57.514, label: "Luque", type: "city", note: "Major city in the metropolitan area" }
+  - { lat: -27.333, lng: -55.867, label: "Encarnacion", type: "city", note: "Southern city on the Argentine border" }
+  - { lat: -25.408, lng: -54.589, label: "Itaipu Dam", type: "landmark", note: "One of the world's largest hydroelectric dams" }
+  - { lat: -27.327, lng: -55.541, label: "Jesuit Missions", type: "historical", note: "World Heritage ruins at La Santisima Trinidad" }
+features:
+  - text: 'A <span class="quiz">landlocked country</span> in South America with Spanish and the indigenous <span class="quiz">Guarani</span> as official languages'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B0%E3%82%A2%E3%82%A4"
+  - text: 'The <span class="quiz">Itaipu Dam</span> on the Brazilian border is one of the world''s largest hydroelectric power stations'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%97%E3%83%80%E3%83%A0"
 ---
 
 <div class="main-desciption country-description">

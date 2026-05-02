@@ -17,6 +17,22 @@ sc: [
     ["../cambodia/", "Cambodia"],
     ["../thai/", "Thailand"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 21.028, lng: 105.854, label: "Hanoi", type: "capital", note: "Capital of Vietnam and the main city in the north" }
+  - { lat: 10.823, lng: 106.630, label: "Ho Chi Minh City", type: "city", note: "Largest city; economic hub of the south" }
+  - { lat: 16.054, lng: 108.202, label: "Da Nang", type: "port", note: "Largest port city in central Vietnam; a tourist destination" }
+  - { lat: 16.469, lng: 107.591, label: "Hue", type: "historical", note: "World Heritage former capital of the Nguyen Dynasty" }
+  - { lat: 15.880, lng: 108.338, label: "Hoi An", type: "historical", note: "World Heritage ancient port town" }
+  - { lat: 20.911, lng: 107.183, label: "Ha Long Bay", type: "nature", note: "World Heritage scenic area of karst islands" }
+  - { lat: 22.336, lng: 103.844, label: "Sa Pa", type: "nature", note: "Northern mountainous area famed for terraced rice fields" }
+features:
+  - text: 'A long, narrow country stretching north-south; <span class="quiz">Ha Long Bay</span> is a World Heritage Site'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AD%E3%83%B3%E6%B9%BE"
+  - text: 'The world''s second-largest <span class="quiz">coffee</span> producer and the largest producer of Robusta beans'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

@@ -12,6 +12,20 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.020, lng: -6.842, label: "Rabat", type: "capital", note: "Capital; historic city on the Atlantic coast" }
+  - { lat: 33.572, lng: -7.590, label: "Casablanca", type: "city", note: "Largest city, economic hub, and major port" }
+  - { lat: 31.630, lng: -7.990, label: "Marrakesh", type: "historical", note: "World Heritage old town and Jemaa el-Fnaa square" }
+  - { lat: 34.034, lng: -5.000, label: "Fez", type: "historical", note: "World Heritage medina; home to the world's oldest university" }
+  - { lat: 35.759, lng: -5.834, label: "Tangier", type: "port", note: "Port city on the Strait of Gibraltar" }
+  - { lat: 31.515, lng: -9.769, label: "Essaouira", type: "city", note: "World Heritage port town on the Atlantic coast" }
+  - { lat: 31.058, lng: -7.913, label: "Mount Toubkal", type: "nature", note: "Highest peak of the Atlas Mountains (4,167 m)" }
+features:
+  - text: 'Home to multiple World Heritage Sites, including the old city of <span class="quiz">Marrakesh</span> and the medina of <span class="quiz">Fez</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+  - text: 'Holds the world''s largest reserves of <span class="quiz">phosphate rock</span>, which is a major export'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

@@ -19,6 +19,18 @@ sc: [
     ["../ecuador/", "Ekuador"],
     ["../../asia/", "Desa di Asia Tenggara"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -12.046, lng: -77.043, label: "Lima", type: "capital", note: "Ibu kota, kota terbesar di pesisir Pasifik" }
+  - { lat: -16.409, lng: -71.537, label: "Arequipa", type: "city", note: "Kota putih di selatan, warisan dunia" }
+  - { lat: -13.532, lng: -71.967, label: "Cusco", type: "city", note: "Bekas ibu kota Kekaisaran Inca, warisan dunia di ketinggian sekitar 3.400 m" }
+  - { lat: -8.112, lng: -79.029, label: "Trujillo", type: "city", note: "Kota utama di pesisir utara" }
+  - { lat: -3.749, lng: -73.254, label: "Iquitos", type: "city", note: "Kota terbesar di kawasan Sungai Amazon" }
+  - { lat: -13.163, lng: -72.545, label: "Machu Picchu", type: "landmark", note: "Reruntuhan Inca di ketinggian 2.430 m, warisan dunia" }
+  - { lat: -15.823, lng: -69.333, label: "Danau Titicaca", type: "landmark", note: "Danau dataran tinggi di perbatasan Bolivia, ketinggian 3.810 m" }
+features:
+  - text: 'Pusat Kekaisaran Inca, dan reruntuhan seperti <span class="quiz">Machu Picchu</span> terdaftar sebagai warisan dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BB%E3%83%94%E3%83%81%E3%83%A5"
 ---
 
 <div class="main-desciption country-description">

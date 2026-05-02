@@ -11,6 +11,19 @@ flag: "FR.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 4.933, lng: -52.327, label: "Cayena", type: "capital", note: "Capital del departamento, centro administrativo" }
+  - { lat: 5.159, lng: -52.650, label: "Kourou", type: "city", note: "Ciudad sede del Centro Espacial Guayanés" }
+  - { lat: 5.503, lng: -54.028, label: "Saint-Laurent-du-Maroni", type: "city", note: "Antiguo penal en la frontera con Surinam" }
+  - { lat: 4.901, lng: -52.305, label: "Rémire-Montjoly", type: "city", note: "Suburbio residencial de Cayena" }
+  - { lat: 5.236, lng: -52.778, label: "Centro Espacial Guayanés", type: "landmark", note: "Base de lanzamiento de los cohetes Ariane" }
+  - { lat: 5.291, lng: -52.587, label: "Islas de la Salvación", type: "landmark", note: "Antiguas islas penitenciarias, incluyen la Isla del Diablo" }
+features:
+  - text: 'Departamento de ultramar de <span class="quiz">Francia</span> en el continente sudamericano; forma parte del territorio de la UE'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E3%82%AE%E3%82%A2%E3%83%8A"
+  - text: 'Desde el centro espacial de <span class="quiz">Kourou</span> se lanzan los cohetes Ariane'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%82%A2%E3%83%8A%E5%AE%87%E5%AE%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

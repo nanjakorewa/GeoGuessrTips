@@ -17,6 +17,20 @@ sc: [
     ["../hungary/", "Hungaria"],
     ["../slovakia/", "Slovakia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 42.698, lng: 23.322, label: "ソフィア", type: "capital", note: "首都・国の政治経済の中心" }
+  - { lat: 42.150, lng: 24.749, label: "プロヴディフ", type: "historical", note: "欧州最古級の都市・2019年欧州文化首都" }
+  - { lat: 43.207, lng: 27.915, label: "ヴァルナ", type: "port", note: "黒海沿岸の主要港湾都市" }
+  - { lat: 42.510, lng: 27.461, label: "ブルガス", type: "port", note: "黒海沿岸の港湾都市" }
+  - { lat: 42.624, lng: 25.395, label: "カザンラク", type: "city", note: "バラの谷・バラ油生産地" }
+  - { lat: 42.135, lng: 23.341, label: "リラ修道院", type: "landmark", note: "世界遺産の正教会修道院" }
+  - { lat: 42.179, lng: 24.749, label: "プロヴディフ旧市街", type: "historical", note: "ローマ時代の遺跡が残る" }
+features:
+  - text: '<span class="quiz">キリル文字</span>発祥の地とされ、EU加盟国で唯一キリル文字を公式に使用する国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%AB%E6%96%87%E5%AD%97"
+  - text: '世界の<span class="quiz">バラ油</span>生産量の約85%を占める<span class="quiz">バラの谷</span>（カザンラク周辺）があり、香水産業の原料供給地として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%81%AE%E8%B0%B7"
 ---
 
 <div class="main-desciption country-description">

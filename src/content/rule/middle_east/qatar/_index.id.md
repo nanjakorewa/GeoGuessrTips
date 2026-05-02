@@ -18,6 +18,19 @@ sc: [
     ["../oman/", "Oman"],
     ["../united_arab_emirates/", "Uni Emirat Arab"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 25.286, lng: 51.534, label: "Doha", type: "capital", note: "Ibu kota, terkonsentrasinya sebagian besar populasi" }
+  - { lat: 25.682, lng: 51.530, label: "Al Khor", type: "city", note: "Kota industri perikanan dan gas alam di utara" }
+  - { lat: 25.290, lng: 51.520, label: "Museum Seni Islam", type: "landmark", note: "Fasilitas budaya ikonik di Doha" }
+  - { lat: 25.412, lng: 50.842, label: "Dukhan", type: "city", note: "Daerah produksi minyak di pantai barat" }
+  - { lat: 25.476, lng: 51.491, label: "Al Rayyan", type: "city", note: "Kota utama di sebelah barat Doha" }
+  - { lat: 24.880, lng: 51.550, label: "Mesaieed", type: "port", note: "Kota pelabuhan industri di selatan" }
+features:
+  - text: 'Memiliki salah satu cadangan <span class="quiz">gas alam</span> terbesar di dunia, dengan PDB per kapita tertinggi di dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%AB"
+  - text: 'Pada tahun 2022 menjadi tuan rumah <span class="quiz">Piala Dunia FIFA</span> pertama di Timur Tengah'
+    ref: "https://ja.wikipedia.org/wiki/2022_FIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97"
 ---
 
 <div class="main-desciption country-description">

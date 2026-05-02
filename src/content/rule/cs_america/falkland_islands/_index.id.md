@@ -16,6 +16,19 @@ sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../sgssi/", "Kepulauan Georgia Selatan dan Kepulauan Sandwich Selatan"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -51.697, lng: -57.852, label: "Stanley", type: "capital", note: "Ibu kota, permukiman terbesar di kepulauan" }
+  - { lat: -51.689, lng: -57.706, label: "Mount Pleasant", type: "landmark", note: "Pangkalan udara utama tempat pasukan Inggris ditempatkan" }
+  - { lat: -51.341, lng: -60.058, label: "Port Howard", type: "city", note: "Permukiman terbesar di Falkland Barat" }
+  - { lat: -51.379, lng: -59.917, label: "San Carlos", type: "historical", note: "Lokasi pendaratan tentara Inggris dalam konflik 1982" }
+  - { lat: -52.326, lng: -59.480, label: "Pulau Sea Lion", type: "nature", note: "Surga alam tempat berkembang biak penguin dan mamalia laut" }
+  - { lat: -51.340, lng: -60.252, label: "Pulau Pebble", type: "nature", note: "Tempat berkembang biak burung laut dan penguin" }
+features:
+  - text: 'Wilayah seberang laut <span class="quiz">Inggris</span> di Atlantik Selatan, yang juga diklaim oleh Argentina'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
+  - text: 'Pada tahun 1982 terjadi <span class="quiz">Perang Falkland</span> antara Inggris dan Argentina'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E7%B4%9B%E4%BA%89"
 ---
 
 <div class="main-desciption country-description">

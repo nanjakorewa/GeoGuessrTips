@@ -13,6 +13,19 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 15.369, lng: 44.191, label: "Sana'a", type: "capital", note: "Capital; the old city is a World Heritage Site" }
+  - { lat: 12.789, lng: 45.022, label: "Aden", type: "port", note: "Major southern port and provisional capital" }
+  - { lat: 13.578, lng: 44.020, label: "Taiz", type: "city", note: "Mountain city in the southwest" }
+  - { lat: 14.798, lng: 42.951, label: "Hodeidah", type: "port", note: "Port city on the Red Sea coast" }
+  - { lat: 15.926, lng: 48.786, label: "Shibam", type: "historical", note: "World Heritage city famed for its mudbrick skyscrapers" }
+  - { lat: 12.500, lng: 53.917, label: "Socotra Island", type: "nature", note: "Natural World Heritage Site rich in endemic species" }
+features:
+  - text: 'The birthplace of <span class="quiz">Mocha coffee</span>, with a long history of coffee cultivation'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%AB_(%E3%82%A4%E3%82%A8%E3%83%A1%E3%83%B3)"
+  - text: 'The old city of the capital <span class="quiz">Sana''a</span> is a World Heritage Site featuring distinctive architecture'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%8A%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

@@ -11,6 +11,19 @@ flag: "GY.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.802, lng: -58.167, label: "Georgetown", type: "capital", note: "Ibu kota, kota pelabuhan di pesisir Atlantik" }
+  - { lat: 6.404, lng: -58.625, label: "Linden", type: "city", note: "Kota pusat pertambangan bauksit" }
+  - { lat: 6.000, lng: -57.520, label: "New Amsterdam", type: "city", note: "Kota utama di bagian timur" }
+  - { lat: 5.012, lng: -59.283, label: "Air Terjun Kaieteur", type: "landmark", note: "Air terjun dengan ketinggian jatuh tunggal terbesar di dunia, 226 m" }
+  - { lat: 4.000, lng: -58.500, label: "Hutan Hujan Iwokrama", type: "nature", note: "Cagar hutan hujan tropis berskala besar di tengah" }
+  - { lat: 7.747, lng: -59.214, label: "Mabaruma", type: "city", note: "Kota kecil di barat laut, tempat tinggal masyarakat adat" }
+features:
+  - text: 'Satu-satunya negara di benua Amerika Selatan yang memiliki bahasa resmi <span class="quiz">Inggris</span>, dan merupakan bekas koloni Inggris'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%A4%E3%82%A2%E3%83%8A"
+  - text: 'Memiliki <span class="quiz">Air Terjun Kaieteur</span> dengan ketinggian jatuh tunggal terbesar di dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%82%A8%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB%E6%BB%9D"
 ---
 
 <div class="main-desciption country-description">

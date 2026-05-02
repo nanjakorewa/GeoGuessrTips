@@ -12,6 +12,20 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.315, lng: 44.366, label: "Bagdad", type: "capital", note: "Capital, antigua sede del califato abasí" }
+  - { lat: 36.340, lng: 43.130, label: "Mosul", type: "city", note: "Ciudad principal del norte de Irak, junto al río Tigris" }
+  - { lat: 30.508, lng: 47.783, label: "Basora", type: "port", note: "Ciudad portuaria del sur y puerto petrolero" }
+  - { lat: 35.467, lng: 44.392, label: "Kirkuk", type: "city", note: "Ciudad petrolera cercana a la región kurda" }
+  - { lat: 36.190, lng: 44.009, label: "Erbil", type: "city", note: "Ciudad principal del Kurdistán iraquí" }
+  - { lat: 32.470, lng: 44.421, label: "Babilonia", type: "historical", note: "Ruinas de la antigua civilización mesopotámica" }
+  - { lat: 32.616, lng: 44.025, label: "Kerbala", type: "historical", note: "Lugar sagrado del islam chií" }
+features:
+  - text: 'Cuna de la civilización mesopotámica, situada entre los ríos <span class="quiz">Tigris</span> y <span class="quiz">Éufrates</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BD%E3%83%9D%E3%82%BF%E3%83%9F%E3%82%A2"
+  - text: 'La capital, <span class="quiz">Bagdad</span>, prosperó antiguamente como capital del califato abasí'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B0%E3%83%80%E3%83%BC%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

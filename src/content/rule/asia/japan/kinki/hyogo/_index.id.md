@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Hyogo.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.690, lng: 135.196, label: "Stasiun Kobe Sannomiya", type: "capital", note: "Ibu kota Prefektur Hyogo" }
+  - { lat: 34.681, lng: 135.183, label: "Pelabuhan Kobe", type: "port", note: "Pelabuhan perdagangan internasional" }
+  - { lat: 34.840, lng: 134.694, label: "Kastil Himeji", type: "historical", note: "Kastil Bangau Putih, Warisan Dunia" }
+  - { lat: 34.616, lng: 135.020, label: "Jembatan Akashi Kaikyo", type: "landmark", note: "Jembatan penghubung Honshu-Shikoku" }
+  - { lat: 35.625, lng: 134.804, label: "Onsen Kinosaki", type: "nature", note: "Onsen terkenal di Tajima" }
+  - { lat: 34.355, lng: 134.804, label: "Pulau Awaji", type: "nature", note: "Pulau terbesar di Laut Pedalaman Seto" }
+features:
+  - text: 'Pelabuhan Kobe adalah salah satu pelabuhan perdagangan internasional terkemuka di Jepang, dan <span class="quiz">Kobe Beef</span> adalah merek wagyu yang terkenal di dunia'
+    ref: "https://ja.wikipedia.org/wiki/神戸ビーフ"
+  - text: 'Kawasan Harima memiliki klaster <span class="quiz">industri baja dan industri kimia berat</span>, dan Kastil Himeji terdaftar sebagai Warisan Dunia'
+    ref: "https://ja.wikipedia.org/wiki/兵庫県#工業"
 ---
 
 

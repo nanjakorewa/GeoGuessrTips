@@ -11,6 +11,19 @@ flag: "FR.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 4.933, lng: -52.327, label: "Cayenne", type: "capital", note: "Ibu kota departemen, pusat pemerintahan" }
+  - { lat: 5.159, lng: -52.650, label: "Kourou", type: "city", note: "Kota tempat Pusat Antariksa Guyana berada" }
+  - { lat: 5.503, lng: -54.028, label: "Saint-Laurent-du-Maroni", type: "city", note: "Bekas tempat pengasingan tahanan di perbatasan Suriname" }
+  - { lat: 4.901, lng: -52.305, label: "Remire-Montjoly", type: "city", note: "Kota permukiman di pinggiran Cayenne" }
+  - { lat: 5.236, lng: -52.778, label: "Pusat Antariksa Guyana", type: "landmark", note: "Pangkalan peluncuran roket Ariane" }
+  - { lat: 5.291, lng: -52.587, label: "Kepulauan Salvation", type: "landmark", note: "Bekas kepulauan pengasingan termasuk Pulau Setan" }
+features:
+  - text: 'Departemen seberang laut <span class="quiz">Prancis</span> yang terletak di benua Amerika Selatan, dan merupakan bagian dari wilayah Uni Eropa'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E3%82%AE%E3%82%A2%E3%83%8A"
+  - text: 'Roket Ariane diluncurkan dari pusat antariksa di <span class="quiz">Kourou</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%82%A2%E3%83%8A%E5%AE%87%E5%AE%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

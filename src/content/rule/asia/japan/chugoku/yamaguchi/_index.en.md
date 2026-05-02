@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Yamaguchi.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.186, lng: 131.471, label: "Yamaguchi Station", type: "capital", note: "Capital of Yamaguchi Prefecture" }
+  - { lat: 34.169, lng: 132.176, label: "Iwakuni (Kintaikyo Bridge)", type: "historical", note: "Wooden bridge with five arches" }
+  - { lat: 33.957, lng: 130.940, label: "Shimonoseki", type: "port", note: "Westernmost point of Honshu, Kanmon Strait" }
+  - { lat: 34.408, lng: 131.398, label: "Hagi", type: "historical", note: "Castle town, birthplace of the Meiji Restoration" }
+  - { lat: 34.225, lng: 131.305, label: "Akiyoshidai", type: "nature", note: "Japan''s largest karst plateau" }
+  - { lat: 34.225, lng: 131.305, label: "Akiyoshido Cave", type: "nature", note: "One of Japan''s largest limestone caves" }
+features:
+  - text: 'The Shunan-Kudamatsu area has clustered <span class="quiz">petrochemical complexes</span>, also known for factory night views'
+    ref: "https://ja.wikipedia.org/wiki/周南コンビナート"
+  - text: 'Shimonoseki City handles the largest volume of <span class="quiz">fugu (pufferfish)</span> (called "fuku" in Shimonoseki) in Japan'
+    ref: "https://ja.wikipedia.org/wiki/下関市#水産業"
 ---
 
 

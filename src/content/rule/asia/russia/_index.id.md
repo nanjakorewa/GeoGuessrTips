@@ -22,6 +22,21 @@ sc: [
     ["../../europe/ukraine/", "ukraina"],
     ["../kyrgyzstan/", "Kirgistan"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 55.755, lng: 37.617, label: "Moskow", type: "capital", note: "Ibu kota Rusia, kota terbesar" }
+  - { lat: 59.934, lng: 30.336, label: "Sankt Peterburg", type: "city", note: "Bekas ibu kota, pusat budaya dan seni" }
+  - { lat: 55.751, lng: 37.617, label: "Lapangan Merah", type: "landmark", note: "Warisan dunia, simbol Moskow" }
+  - { lat: 55.030, lng: 82.920, label: "Novosibirsk", type: "city", note: "Kota terbesar di Siberia" }
+  - { lat: 53.508, lng: 108.075, label: "Danau Baikal", type: "nature", note: "Danau air tawar terdalam dan tertua di dunia" }
+  - { lat: 43.116, lng: 131.886, label: "Vladivostok", type: "port", note: "Kota pelabuhan utama di kawasan Timur Jauh" }
+  - { lat: 56.838, lng: 60.597, label: "Yekaterinburg", type: "city", note: "Kota utama di kawasan Ural" }
+  - { lat: 56.013, lng: 92.853, label: "Krasnoyarsk", type: "city", note: "Kota utama di tengah Siberia" }
+features:
+  - text: 'Memiliki <span class="quiz">luas wilayah</span> terbesar di dunia dan terbentang melintasi 11 <span class="quiz">zona waktu</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

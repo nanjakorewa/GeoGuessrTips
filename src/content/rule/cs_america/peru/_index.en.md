@@ -20,6 +20,18 @@ sc: [
     ["../ecuador/", "ecuador"],
     ["../../asia/", "countryside of southeast asia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -12.046, lng: -77.043, label: "Lima", type: "capital", note: "Capital and largest city on the Pacific coast" }
+  - { lat: -16.409, lng: -71.537, label: "Arequipa", type: "city", note: "Southern White City and World Heritage Site" }
+  - { lat: -13.532, lng: -71.967, label: "Cusco", type: "city", note: "Capital of the former Inca Empire, a World Heritage city at about 3,400 m" }
+  - { lat: -8.112, lng: -79.029, label: "Trujillo", type: "city", note: "Major city on the northern coast" }
+  - { lat: -3.749, lng: -73.254, label: "Iquitos", type: "city", note: "Largest city in the Amazon River basin" }
+  - { lat: -13.163, lng: -72.545, label: "Machu Picchu", type: "landmark", note: "World Heritage Inca ruins at 2,430 m" }
+  - { lat: -15.823, lng: -69.333, label: "Lake Titicaca", type: "landmark", note: "High-altitude lake on the Bolivian border at 3,810 m" }
+features:
+  - text: 'The heartland of the Inca Empire; ruins such as <span class="quiz">Machu Picchu</span> are inscribed as UNESCO World Heritage Sites'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BB%E3%83%94%E3%83%81%E3%83%A5"
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,21 @@ sc: [
     ["../cambodia/", "Camboya"],
     ["../../n_america/guatemala/", "Guatemala"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 17.975, lng: 102.633, label: "ビエンチャン", type: "capital", note: "ラオスの首都・メコン川沿岸の都市" }
+  - { lat: 19.886, lng: 102.135, label: "ルアンパバーン", type: "historical", note: "世界遺産・古都" }
+  - { lat: 15.121, lng: 105.798, label: "パークセー", type: "city", note: "南部最大の都市" }
+  - { lat: 19.612, lng: 103.736, label: "シェンクワン", type: "historical", note: "ジャール平原（謎の石壺）で有名" }
+  - { lat: 17.412, lng: 104.787, label: "サワンナケート", type: "city", note: "中部の主要都市" }
+  - { lat: 17.500, lng: 104.500, label: "メコン川", type: "nature", note: "国土を縦断する東南アジアの大河" }
+features:
+  - text: '東南アジア唯一の<span class="quiz">内陸国</span>であり<span class="quiz">メコン川</span>が国土を縦断している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AA%E3%82%B9"
+  - text: '世界遺産の<span class="quiz">ルアンパバーン</span>は仏教寺院が数多く残る古都である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%91%E3%83%90%E3%83%BC%E3%83%B3%E3%81%AE%E7%94%BA"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

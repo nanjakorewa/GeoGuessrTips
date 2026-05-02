@@ -17,6 +17,19 @@ sc_title: "Easily Confused Regions"
 sc: [
     ["../../europe/greece/", "Greece"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.591, lng: 32.988, label: "Akrotiri Base", type: "landmark", note: "Western Sovereign Base; site of an air force base" }
+  - { lat: 34.988, lng: 33.745, label: "Dhekelia Base", type: "landmark", note: "Eastern Sovereign Base; army garrison" }
+  - { lat: 34.628, lng: 32.916, label: "Akrotiri Village", type: "city", note: "Settlement within Akrotiri Base" }
+  - { lat: 34.978, lng: 33.768, label: "Xylotymbou", type: "city", note: "Village within Dhekelia Base" }
+  - { lat: 34.601, lng: 33.040, label: "Akrotiri Salt Lake", type: "nature", note: "Known as a destination for flamingos" }
+  - { lat: 34.707, lng: 33.022, label: "Limassol", type: "city", note: "Nearby Cypriot city" }
+features:
+  - text: 'A <span class="quiz">British</span> overseas military base territory on the island of Cyprus'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%86%E3%82%A3%E3%83%AA%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%82%B1%E3%83%AA%E3%82%A2"
+  - text: 'Comprises two bases: <span class="quiz">Akrotiri</span> and <span class="quiz">Dhekelia</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%86%E3%82%A3%E3%83%AA%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%82%B1%E3%83%AA%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,19 @@ sc: [
     ["../jersey/", "Jersey"],
     ["../ireland/", "Irlanda"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 54.150, lng: -4.481, label: "Douglas", type: "capital", note: "Capital e maior cidade da ilha" }
+  - { lat: 54.328, lng: -4.388, label: "Ramsey", type: "city", note: "Cidade portuária do norte" }
+  - { lat: 54.080, lng: -4.778, label: "Castletown", type: "historical", note: "Antiga capital, com o Castelo Rushen" }
+  - { lat: 54.196, lng: -4.732, label: "Peel", type: "city", note: "Cidade portuária da costa oeste, com ruínas do Castelo Peel" }
+  - { lat: 54.085, lng: -4.674, label: "Port Erin", type: "city", note: "Estância turística do sudoeste" }
+  - { lat: 54.413, lng: -4.378, label: "Monte Snaefell", type: "nature", note: "Ponto mais alto da ilha" }
+features:
+  - text: '<span class="quiz">Dependência da Coroa Britânica</span> situada no Mar da Irlanda, entre Reino Unido e Irlanda, famosa pelo <span class="quiz">TT Race</span>, a corrida de motos mais antiga do mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E5%B3%B6TT%E3%83%AC%E3%83%BC%E3%82%B9"
+  - text: 'O brasão da ilha exibe a <span class="quiz">trisquélion</span>, três pernas em movimento, e seu parlamento próprio, o <span class="quiz">Tynwald</span>, é considerado o parlamento contínuo mais antigo do mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%B3%E3%83%AF%E3%83%AB%E3%83%89"
 ---
 
 

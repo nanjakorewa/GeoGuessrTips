@@ -16,6 +16,20 @@ sc_title: "Regions Easy to Misidentify"
 sc: [
     ["../india/", "India"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 23.811, lng: 90.412, label: "Dhaka", type: "capital", note: "Capital of Bangladesh; one of the most densely populated cities in the world" }
+  - { lat: 22.357, lng: 91.783, label: "Chittagong", type: "port", note: "Country's largest port city" }
+  - { lat: 24.374, lng: 88.604, label: "Rajshahi", type: "city", note: "Major city in the west" }
+  - { lat: 22.846, lng: 89.540, label: "Khulna", type: "city", note: "Major southwestern city; gateway to the Sundarbans" }
+  - { lat: 21.984, lng: 89.183, label: "Sundarbans", type: "nature", note: "World Heritage site; world's largest mangrove forest" }
+  - { lat: 21.428, lng: 92.005, label: "Cox's Bazar", type: "landmark", note: "One of the world's longest natural beaches" }
+  - { lat: 24.475, lng: 90.787, label: "Ganges Delta", type: "nature", note: "World's largest river delta" }
+features:
+  - text: 'Has one of the world''s largest <span class="quiz">river deltas</span>, with most of the country lying on low-lying land'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%82%B7%E3%83%A5"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

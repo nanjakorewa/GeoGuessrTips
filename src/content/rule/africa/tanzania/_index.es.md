@@ -17,6 +17,20 @@ sc: [
     ["../madagascar/", "Madagascar"],
     ["../zanzibar/", "Zanzíbar"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -6.173, lng: 35.741, label: "Dodoma", type: "capital", note: "Capital oficial, ciudad planificada en el centro del país" }
+  - { lat: -6.792, lng: 39.208, label: "Dar es-Salam", type: "city", note: "Ciudad más grande, centro económico y puerto principal" }
+  - { lat: -3.367, lng: 36.683, label: "Arusha", type: "city", note: "Centro turístico del norte y puerta de entrada al Kilimanjaro" }
+  - { lat: -2.517, lng: 32.900, label: "Mwanza", type: "city", note: "Ciudad principal a orillas del lago Victoria" }
+  - { lat: -3.076, lng: 37.353, label: "Kilimanjaro", type: "nature", note: "Pico más alto de África (5.895 m), montaña aislada" }
+  - { lat: -2.333, lng: 34.833, label: "Parque Nacional del Serengueti", type: "nature", note: "Patrimonio Mundial, famoso por la gran migración de ñus" }
+  - { lat: -3.245, lng: 35.503, label: "Área de Conservación del Ngorongoro", type: "nature", note: "Patrimonio Mundial: enorme caldera y reserva de fauna salvaje" }
+features:
+  - text: 'Cuenta con el <span class="quiz">Kilimanjaro</span>, el pico más alto de África, una montaña aislada de 5.895 m de altitud'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%9E%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%AD"
+  - text: 'El Parque Nacional del <span class="quiz">Serengueti</span> es un santuario de fauna mundialmente famoso por la gran migración de ñus'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AC%E3%83%B3%E3%82%B2%E3%83%86%E3%82%A3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92"
 ---
 
 <div class="main-desciption country-description">

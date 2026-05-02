@@ -20,6 +20,22 @@ sc: [
     ["../../cs_america/brazil/", "Brasil"],
     ["../india/", "India"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 11.562, lng: 104.916, label: "Phnom Penh", type: "capital", note: "Ibu kota dan kota terbesar Kamboja" }
+  - { lat: 13.412, lng: 103.864, label: "Siem Reap", type: "city", note: "Gerbang menuju kompleks reruntuhan Angkor" }
+  - { lat: 13.412, lng: 103.866, label: "Angkor Wat", type: "landmark", note: "Warisan dunia, mahakarya arsitektur Khmer" }
+  - { lat: 10.609, lng: 103.522, label: "Sihanoukville", type: "port", note: "Kota pelabuhan di selatan, resor utama" }
+  - { lat: 13.094, lng: 103.197, label: "Battambang", type: "city", note: "Kota utama di barat, pusat lumbung padi" }
+  - { lat: 12.929, lng: 104.087, label: "Danau Tonle Sap", type: "nature", note: "Danau terbesar di Asia Tenggara" }
+  - { lat: 12.250, lng: 104.500, label: "Sungai Mekong", type: "nature", note: "Sungai terbesar di Asia Tenggara, mengalir di tengah negara" }
+features:
+  - text: 'Kompleks reruntuhan Angkor termasuk <span class="quiz">Angkor Wat</span> terdaftar sebagai warisan dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%AF%E3%83%83%E3%83%88"
+  - text: '<span class="quiz">Sungai Mekong</span> mengalir di tengah negara dan <span class="quiz">Danau Tonle Sap</span> merupakan danau terbesar di Asia Tenggara'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%AC%E3%82%B5%E3%83%83%E3%83%97%E6%B9%96"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

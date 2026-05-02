@@ -16,6 +16,14 @@ sc_title: "Regiones que se confunden"
 sc: [
     ["../united-kingdom/", "Escocia continental"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 60.155, lng: -1.146, label: "ラーウィック", type: "capital", note: "シェットランド諸島の中心都市" }
+  - { lat: 60.337, lng: -1.323, label: "スカロウェイ", type: "historical", note: "旧首府・城跡が残る" }
+  - { lat: 60.608, lng: -1.272, label: "ヤール", type: "city", note: "本島中部の集落" }
+  - { lat: 60.831, lng: -0.852, label: "アンスト", type: "nature", note: "英国最北の有人島" }
+  - { lat: 59.876, lng: -1.273, label: "サンバラ岬", type: "nature", note: "本島最南端のパフィン繁殖地" }
+  - { lat: 60.491, lng: -1.501, label: "エシャネス", type: "nature", note: "西部の断崖海岸" }
 ---
 
 <div class="main-desciption country-description">

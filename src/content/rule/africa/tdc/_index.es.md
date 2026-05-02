@@ -15,6 +15,19 @@ sc_title: "Páginas relacionadas"
 sc: [
     ["../../europe/united-kingdom/", "Reino Unido"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -37.067, lng: -12.311, label: "Edimburgo de los Siete Mares", type: "capital", note: "Capital y único asentamiento de la isla" }
+  - { lat: -37.092, lng: -12.282, label: "Pico Queen Mary", type: "nature", note: "Volcán activo, punto más alto de la isla (2.062 m)" }
+  - { lat: -37.317, lng: -12.683, label: "Isla Inaccesible", type: "nature", note: "Patrimonio Mundial, zona de cría de aves marinas" }
+  - { lat: -37.417, lng: -12.483, label: "Isla Nightingale", type: "nature", note: "Pequeña isla protegida por sus aves marinas" }
+  - { lat: -40.350, lng: -9.878, label: "Isla Gough", type: "nature", note: "Patrimonio Mundial, deshabitada salvo por una base meteorológica" }
+  - { lat: -37.067, lng: -12.317, label: "Calvert Point", type: "landmark", note: "Cabo cerca de Edimburgo" }
+features:
+  - text: 'Es un territorio británico de ultramar conocido como la <span class="quiz">isla habitada más aislada</span> del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%82%AF%E3%83%BC%E3%83%8B%E3%83%A3"
+  - text: 'Tiene una población de unos <span class="quiz">250 habitantes</span>, no posee aeropuerto y solo se puede acceder en barco'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%82%AF%E3%83%BC%E3%83%8B%E3%83%A3#%E4%BA%BA%E5%8F%A3"
 ---
 
 <div class="main-desciption country-description">

@@ -22,6 +22,20 @@ products:
   - title: "Aceite de oliva virgen extra AFRUTADO"
     url: https://amzn.to/3FaXRiR
     description: "アタカマ砂漠周辺（<a href='https://maps.app.goo.gl/qcUjzPs4yBtAF3sG6' target='_blank'>ここ？</a>）で生産しているオリーブだけを使ったオリーブオイル。"
+mapProvider: "osm"
+mapPins:
+  - { lat: -33.448, lng: -70.669, label: "Santiago", type: "capital", note: "Capital, mayor ciudad al pie de los Andes" }
+  - { lat: -33.045, lng: -71.620, label: "Valparaíso", type: "city", note: "Ciudad portuaria del centro, casco antiguo Patrimonio Mundial" }
+  - { lat: -36.827, lng: -73.050, label: "Concepción", type: "city", note: "Ciudad principal del centro-sur" }
+  - { lat: -23.650, lng: -70.398, label: "Antofagasta", type: "city", note: "Centro minero del desierto de Atacama" }
+  - { lat: -23.500, lng: -68.500, label: "Desierto de Atacama", type: "nature", note: "El desierto más árido del mundo" }
+  - { lat: -27.121, lng: -109.367, label: "Isla de Pascua", type: "landmark", note: "Isla aislada conocida por sus moáis" }
+  - { lat: -41.469, lng: -72.940, label: "Puerto Montt", type: "port", note: "Puerta de entrada a la Región de Los Lagos y la Patagonia" }
+features:
+  - text: 'Territorio alargado de unos 4.300 km de norte a sur que alberga el desierto más árido del mundo, el <span class="quiz">Atacama</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BF%E3%82%AB%E3%83%9E%E7%A0%82%E6%BC%A0"
+  - text: 'Mayor productor mundial de <span class="quiz">cobre</span>; la minería es el pilar de su economía'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%AA#%E9%89%B1%E6%A5%AD"
 ---
 
 <div class="main-desciption country-description">

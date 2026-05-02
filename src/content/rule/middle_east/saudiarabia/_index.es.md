@@ -14,6 +14,20 @@ dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 24.713, lng: 46.675, label: "Riad", type: "capital", note: "Capital y ciudad más grande del país" }
+  - { lat: 21.423, lng: 39.826, label: "La Meca", type: "historical", note: "Lugar más sagrado del islam" }
+  - { lat: 24.470, lng: 39.612, label: "Medina", type: "historical", note: "Segundo lugar más sagrado del islam" }
+  - { lat: 21.486, lng: 39.193, label: "Yeda", type: "port", note: "Principal puerto del mar Rojo y puerta de entrada a La Meca" }
+  - { lat: 26.420, lng: 50.088, label: "Dammam", type: "city", note: "Capital de la Provincia Oriental, núcleo de la industria petrolera" }
+  - { lat: 18.213, lng: 42.505, label: "Abha", type: "city", note: "Ciudad principal de la provincia de Asir, en el suroeste" }
+  - { lat: 26.629, lng: 37.948, label: "Hegra (Madain Saleh)", type: "historical", note: "Patrimonio Mundial: ruinas nabateas" }
+features:
+  - text: 'Alberga los dos lugares más sagrados del islam: <span class="quiz">La Meca</span> y <span class="quiz">Medina</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%83%E3%82%AB"
+  - text: 'Es el mayor exportador mundial de <span class="quiz">petróleo crudo</span>; la estatal Saudi Aramco es una de las mayores empresas del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%A0%E3%82%B3"
 ---
 
 <div class="main-desciption country-description">

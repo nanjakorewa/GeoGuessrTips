@@ -20,6 +20,22 @@ sc: [
     ["../japan/", "Jepang"],
     ["../singapore/", "Singapura"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 22.302, lng: 114.177, label: "Central", type: "capital", note: "Pusat Pulau Hong Kong, pusat administrasi dan keuangan" }
+  - { lat: 22.297, lng: 114.172, label: "Pelabuhan Victoria", type: "landmark", note: "Pelabuhan antara Pulau Hong Kong dan Semenanjung Kowloon" }
+  - { lat: 22.276, lng: 114.146, label: "Victoria Peak", type: "nature", note: "Puncak tertinggi Pulau Hong Kong, terkenal dengan pemandangan malam" }
+  - { lat: 22.318, lng: 114.169, label: "Kowloon", type: "city", note: "Kawasan kota utama Hong Kong dengan pusat keramaian" }
+  - { lat: 22.280, lng: 114.158, label: "Central", type: "city", note: "Distrik bisnis utama Pulau Hong Kong" }
+  - { lat: 22.262, lng: 113.917, label: "Bandara Internasional Hong Kong", type: "landmark", note: "Bandara internasional di Pulau Lantau" }
+  - { lat: 22.215, lng: 113.955, label: "Pulau Lantau", type: "nature", note: "Pulau terbesar Hong Kong, lokasi Buddha raksasa dan bandara" }
+features:
+  - text: 'Merupakan <span class="quiz">Daerah Administratif Khusus</span> Tiongkok dengan otonomi tinggi di bawah prinsip "Satu Negara Dua Sistem"'
+    ref: "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+  - text: 'Salah satu kota pelabuhan terkemuka di dunia dengan Pulau Hong Kong dan Semenanjung Kowloon yang berhadapan melalui <span class="quiz">Pelabuhan Victoria</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

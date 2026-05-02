@@ -11,6 +11,19 @@ flag: "FR.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 4.933, lng: -52.327, label: "Cayenne", type: "capital", note: "Department capital and administrative center" }
+  - { lat: 5.159, lng: -52.650, label: "Kourou", type: "city", note: "Hub city for the Guiana Space Centre" }
+  - { lat: 5.503, lng: -54.028, label: "Saint-Laurent-du-Maroni", type: "city", note: "Former penal colony on the Suriname border" }
+  - { lat: 4.901, lng: -52.305, label: "Remire-Montjoly", type: "city", note: "Residential city on the outskirts of Cayenne" }
+  - { lat: 5.236, lng: -52.778, label: "Guiana Space Centre", type: "landmark", note: "Ariane rocket launch site" }
+  - { lat: 5.291, lng: -52.587, label: "Salvation Islands", type: "landmark", note: "Former penal colony islands including Devil's Island" }
+features:
+  - text: 'An overseas department of <span class="quiz">France</span> on the South American mainland and part of the EU'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E3%82%AE%E3%82%A2%E3%83%8A"
+  - text: 'Ariane rockets are launched from the space center at <span class="quiz">Kourou</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%82%A2%E3%83%8A%E5%AE%87%E5%AE%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

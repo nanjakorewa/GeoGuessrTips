@@ -20,6 +20,20 @@ sc: [
     ["../luxembourg/", "Luxemburgo"],
     ["../portugal/", "Portugal"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 50.847, lng: 4.357, label: "Bruselas", type: "capital", note: "Capital, sede de la UE" }
+  - { lat: 51.221, lng: 4.402, label: "Amberes", type: "port", note: "Segundo mayor puerto de Europa" }
+  - { lat: 51.054, lng: 3.717, label: "Gante", type: "city", note: "Ciudad medieval de canales" }
+  - { lat: 51.209, lng: 3.225, label: "Brujas", type: "city", note: "La Venecia del Norte, Patrimonio Mundial" }
+  - { lat: 50.633, lng: 5.567, label: "Lieja", type: "city", note: "Ciudad principal de la región de Valonia" }
+  - { lat: 50.851, lng: 2.886, label: "Ypres", type: "historical", note: "Escenario de duros combates en la Primera Guerra Mundial" }
+  - { lat: 50.467, lng: 4.872, label: "Namur", type: "city", note: "Capital provincial de Valonia" }
+features:
+  - text: 'Su capital, Bruselas, alberga las sedes de la <span class="quiz">UE</span> y la <span class="quiz">OTAN</span>: centro político de Europa'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%A5%E3%83%83%E3%82%BB%E3%83%AB"
+  - text: 'Dividida entre la <span class="quiz">Flandes</span> neerlandófona y la Valonia francófona; mundialmente famosa por su producción de <span class="quiz">chocolate</span> y cerveza'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

@@ -21,6 +21,20 @@ sc: [
     ["../panama/", "Panama"],
     ["../usa/", "United States"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 19.433, lng: -99.133, label: "Mexico City", type: "capital", note: "Capital and the second-most populous metropolis in Latin America" }
+  - { lat: 20.660, lng: -103.349, label: "Guadalajara", type: "city", note: "Second-largest city in the west and birthplace of tequila" }
+  - { lat: 25.687, lng: -100.316, label: "Monterrey", type: "city", note: "Economic hub of the north" }
+  - { lat: 21.161, lng: -86.851, label: "Cancun", type: "city", note: "Major Caribbean coast resort area" }
+  - { lat: 19.692, lng: -98.844, label: "Teotihuacan", type: "landmark", note: "World Heritage Site with the Pyramids of the Sun and Moon" }
+  - { lat: 20.682, lng: -88.568, label: "Chichen Itza", type: "landmark", note: "Major Maya ruins on the Yucatan Peninsula, a World Heritage Site" }
+  - { lat: 16.859, lng: -99.877, label: "Acapulco", type: "port", note: "Historic resort port on the Pacific coast" }
+features:
+  - text: 'The second-most populous country in Latin America, with a heritage from the <span class="quiz">Aztec</span> and Maya civilizations'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3"
+  - text: 'One of the world''s leading producers of <span class="quiz">silver</span>; mining is a key industry'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3#%E9%89%B1%E6%A5%AD"
 ---
 
 <div class="main-desciption country-description">

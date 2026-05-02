@@ -18,6 +18,19 @@ sc: [
     ["../oman/", "Omán"],
     ["../united_arab_emirates/", "Emiratos Árabes Unidos"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 25.286, lng: 51.534, label: "Doha", type: "capital", note: "Capital, donde se concentra la mayor parte de la población" }
+  - { lat: 25.682, lng: 51.530, label: "Al Khor", type: "city", note: "Ciudad pesquera y de la industria del gas natural en el norte" }
+  - { lat: 25.290, lng: 51.520, label: "Museo de Arte Islámico", type: "landmark", note: "Principal institución cultural de Doha" }
+  - { lat: 25.412, lng: 50.842, label: "Dukhan", type: "city", note: "Zona de producción petrolera en la costa oeste" }
+  - { lat: 25.476, lng: 51.491, label: "Al Rayán", type: "city", note: "Ciudad principal al oeste de Doha" }
+  - { lat: 24.880, lng: 51.550, label: "Mesaieed", type: "port", note: "Ciudad portuaria e industrial del sur" }
+features:
+  - text: 'Posee unas de las mayores reservas mundiales de <span class="quiz">gas natural</span> y uno de los PIB per cápita más altos del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%AB"
+  - text: 'En 2022 acogió la primera <span class="quiz">Copa Mundial de la FIFA</span> celebrada en Oriente Medio'
+    ref: "https://ja.wikipedia.org/wiki/2022_FIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97"
 ---
 
 <div class="main-desciption country-description">

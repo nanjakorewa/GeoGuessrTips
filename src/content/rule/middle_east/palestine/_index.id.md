@@ -16,6 +16,14 @@ sc: [
     ["../israel/", "Israel"],
     ["../jordan/", "Yordania"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.905, lng: 35.204, label: "Ramallah", type: "capital", note: "Pusat administratif de facto" }
+  - { lat: 31.706, lng: 35.207, label: "Betlehem", type: "historical", note: "Tempat kelahiran Yesus Kristus, Gereja Kelahiran" }
+  - { lat: 31.529, lng: 35.097, label: "Hebron", type: "city", note: "Kota utama di bagian selatan Tepi Barat" }
+  - { lat: 32.221, lng: 35.262, label: "Nablus", type: "city", note: "Pusat ekonomi dan budaya di bagian utara Tepi Barat" }
+  - { lat: 31.534, lng: 34.467, label: "Gaza", type: "city", note: "Kota pusat Jalur Gaza, di pesisir Mediterania" }
+  - { lat: 31.857, lng: 35.461, label: "Yerikho", type: "historical", note: "Salah satu kota tertua di dunia" }
 ---
 
 <div class="main-desciption country-description">

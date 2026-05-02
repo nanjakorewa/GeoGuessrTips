@@ -22,6 +22,20 @@ products:
   - title: "FRUITY extra virgin olive oil"
     url: https://amzn.to/3FaXRiR
     description: "アタカマ砂漠周辺（<a href='https://maps.app.goo.gl/qcUjzPs4yBtAF3sG6' target='_blank'>ここ？</a>）で生産しているオリーブだけを使ったオリーブオイル。"
+mapProvider: "osm"
+mapPins:
+  - { lat: -33.448, lng: -70.669, label: "Santiago", type: "capital", note: "Capital and largest city at the foot of the Andes" }
+  - { lat: -33.045, lng: -71.620, label: "Valparaiso", type: "city", note: "Central port city with a World Heritage old town" }
+  - { lat: -36.827, lng: -73.050, label: "Concepcion", type: "city", note: "Major city in the south-central region" }
+  - { lat: -23.650, lng: -70.398, label: "Antofagasta", type: "city", note: "Mining hub of the Atacama Desert" }
+  - { lat: -23.500, lng: -68.500, label: "Atacama Desert", type: "nature", note: "The driest desert in the world" }
+  - { lat: -27.121, lng: -109.367, label: "Easter Island", type: "landmark", note: "Remote island known for its Moai statues" }
+  - { lat: -41.469, lng: -72.940, label: "Puerto Montt", type: "port", note: "Gateway to the Lake District and Patagonia" }
+features:
+  - text: 'A long, narrow country stretching about 4,300 km from north to south, home to the world''s driest <span class="quiz">Atacama Desert</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BF%E3%82%AB%E3%83%9E%E7%A0%82%E6%BC%A0"
+  - text: 'The world''s largest producer of <span class="quiz">copper</span>; mining is the backbone of the economy'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%AA#%E9%89%B1%E6%A5%AD"
 ---
 
 <div class="main-desciption country-description">

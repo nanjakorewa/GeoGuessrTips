@@ -14,6 +14,15 @@ sc_title: "Related pages"
 sc: [
     ["../palestine/", "West Bank"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.768, lng: 35.214, label: "Jerusalem", type: "capital", note: "Capital; sacred site of three major religions" }
+  - { lat: 32.085, lng: 34.781, label: "Tel Aviv", type: "city", note: "Economic center on the Mediterranean coast" }
+  - { lat: 32.794, lng: 34.989, label: "Haifa", type: "port", note: "Major port city in the north" }
+  - { lat: 31.252, lng: 34.791, label: "Beersheba", type: "city", note: "Hub city of the Negev Desert" }
+  - { lat: 29.553, lng: 34.951, label: "Eilat", type: "city", note: "Resort city on the Red Sea" }
+  - { lat: 31.500, lng: 35.500, label: "Dead Sea", type: "nature", note: "World's lowest lake, about 430 m below sea level" }
+  - { lat: 32.708, lng: 35.317, label: "Sea of Galilee", type: "nature", note: "Israel's largest freshwater lake" }
 ---
 
 <div class="main-desciption country-description">

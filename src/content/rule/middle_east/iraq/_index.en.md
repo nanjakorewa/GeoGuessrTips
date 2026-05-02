@@ -12,6 +12,20 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.315, lng: 44.366, label: "Baghdad", type: "capital", note: "Capital and former seat of the Abbasid Caliphate" }
+  - { lat: 36.340, lng: 43.130, label: "Mosul", type: "city", note: "Major northern city on the Tigris River" }
+  - { lat: 30.508, lng: 47.783, label: "Basra", type: "port", note: "Southern port and oil-export city" }
+  - { lat: 35.467, lng: 44.392, label: "Kirkuk", type: "city", note: "Oil city near the Kurdish region" }
+  - { lat: 36.190, lng: 44.009, label: "Erbil", type: "city", note: "Capital of the Kurdistan region" }
+  - { lat: 32.470, lng: 44.421, label: "Babylon", type: "historical", note: "Ruins of the ancient Mesopotamian civilization" }
+  - { lat: 32.616, lng: 44.025, label: "Karbala", type: "historical", note: "Holy city of Shia Islam" }
+features:
+  - text: 'The cradle of Mesopotamian civilization, between the <span class="quiz">Tigris</span> and <span class="quiz">Euphrates</span> rivers'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BD%E3%83%9D%E3%82%BF%E3%83%9F%E3%82%A2"
+  - text: 'The capital, <span class="quiz">Baghdad</span>, once flourished as the capital of the Abbasid Caliphate'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B0%E3%83%80%E3%83%BC%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

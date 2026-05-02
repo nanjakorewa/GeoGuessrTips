@@ -19,6 +19,19 @@ sc: [
     ["../ireland/", "Irlanda"],
     ["../france/", "França"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 49.187, lng: -2.107, label: "Saint Helier", type: "capital", note: "Capital e maior cidade da ilha de Jersey" }
+  - { lat: 49.183, lng: -2.012, label: "Gorey", type: "city", note: "Cidade portuária da costa leste" }
+  - { lat: 49.226, lng: -2.181, label: "Saint John", type: "city", note: "Paróquia do norte" }
+  - { lat: 49.179, lng: -2.180, label: "Saint Lawrence", type: "city", note: "Paróquia central" }
+  - { lat: 49.220, lng: -2.140, label: "Jersey War Tunnels", type: "historical", note: "Vestígios da Segunda Guerra Mundial" }
+  - { lat: 49.182, lng: -2.022, label: "Castelo Mont Orgueil", type: "historical", note: "Fortaleza do século XII" }
+features:
+  - text: '<span class="quiz">Dependência da Coroa Britânica</span> situada próximo à costa noroeste da França, é um <span class="quiz">paraíso fiscal</span> com parlamento e sistema jurídico próprios'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%BC"
+  - text: 'Conhecida como local de origem da <span class="quiz">vaca Jersey</span>, é a maior ilha do arquipélago do Canal, com cerca de <span class="quiz">116 km²</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%BC%E7%A7%8D"
 ---
 
 <div class="main-desciption country-description">

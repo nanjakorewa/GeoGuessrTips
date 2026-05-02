@@ -16,6 +16,19 @@ sc: [
     ["../spain/", "Spain"],
     ["../italy/", "Western Italy"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 42.506, lng: 1.522, label: "アンドラ・ラ・ベリャ", type: "capital", note: "首都・欧州最高所の首都" }
+  - { lat: 42.546, lng: 1.586, label: "エスカルデス", type: "city", note: "温泉で知られる都市" }
+  - { lat: 42.539, lng: 1.737, label: "カニーリョ", type: "city", note: "東部の山岳教区" }
+  - { lat: 42.567, lng: 1.678, label: "エンカンプ", type: "city", note: "ピレネー山脈の集落" }
+  - { lat: 42.578, lng: 1.658, label: "グラウ・ロイグ", type: "nature", note: "スキーリゾート地" }
+  - { lat: 42.476, lng: 1.491, label: "サン・ジュリア・デ・ロリア", type: "city", note: "南部最大の教区" }
+features:
+  - text: '<span class="quiz">ピレネー山脈</span>に位置する小国で、国家元首がフランス大統領とスペインの<span class="quiz">ウルヘル司教</span>の共同統治'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9"
+  - text: '消費税が無く<span class="quiz">免税</span>ショッピングで知られ、<span class="quiz">スキーリゾート</span>が主要な観光産業'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9"
 ---
 
 <div class="main-desciption country-description">

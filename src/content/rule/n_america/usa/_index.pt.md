@@ -23,6 +23,21 @@ maps: [
     ["https://www.geoguessr.com/maps/5fb4a16924491b00010c608d", "US State-Specific Clues"],
     ["https://www.geoguessr.com/maps/5ab6b56818399e27583294d0", "United States (no blurry)"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 38.895, lng: -77.037, label: "Washington D.C.", type: "capital", note: "Capital e centro do governo federal" }
+  - { lat: 40.713, lng: -74.006, label: "Nova Iorque", type: "city", note: "Maior cidade dos EUA e centro econômico da costa leste" }
+  - { lat: 34.052, lng: -118.244, label: "Los Angeles", type: "city", note: "Maior cidade da costa oeste e centro da indústria do entretenimento" }
+  - { lat: 41.878, lng: -87.630, label: "Chicago", type: "city", note: "Maior cidade do meio-oeste, na margem sul dos Grandes Lagos" }
+  - { lat: 25.762, lng: -80.192, label: "Miami", type: "city", note: "Cidade-resort do sudeste e porta de entrada para o Caribe" }
+  - { lat: 36.107, lng: -112.113, label: "Grand Canyon", type: "nature", note: "Grande desfiladeiro Patrimônio Mundial no Arizona" }
+  - { lat: 40.689, lng: -74.044, label: "Estátua da Liberdade", type: "landmark", note: "Patrimônio Mundial símbolo do porto de Nova Iorque" }
+  - { lat: 38.898, lng: -77.037, label: "Casa Branca", type: "landmark", note: "Residência oficial do presidente" }
+features:
+  - text: 'País formado por 50 estados e um distrito federal, possui o maior <span class="quiz">PIB</span> do mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+  - text: 'Seu território é composto pela parte central do continente norte-americano e pelos enclaves do <span class="quiz">Alasca</span> e do Havaí'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

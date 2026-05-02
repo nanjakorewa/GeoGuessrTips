@@ -19,6 +19,19 @@ sc: [
     ["../../asia/philippines/", "Filipinas"],
     ["../../oceania/pitcairn/", "Ilhas Pitcairn"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 9.928, lng: -84.091, label: "San José", type: "capital", note: "Capital e maior cidade do planalto central" }
+  - { lat: 9.998, lng: -84.117, label: "Heredia", type: "city", note: "Principal cidade da região metropolitana norte" }
+  - { lat: 10.633, lng: -85.437, label: "Liberia", type: "city", note: "Capital da província de Guanacaste, no noroeste" }
+  - { lat: 9.976, lng: -83.034, label: "Limón", type: "port", note: "Principal cidade portuária na costa do Caribe" }
+  - { lat: 10.463, lng: -84.703, label: "Vulcão Arenal", type: "nature", note: "Vulcão ativo de 1.670 m e parque nacional" }
+  - { lat: 8.481, lng: -83.581, label: "Parque Nacional Corcovado", type: "nature", note: "Floresta tropical de grande biodiversidade na península de Osa" }
+features:
+  - text: 'Localizada na América Central, é conhecida por <span class="quiz">não possuir forças armadas</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB"
+  - text: 'Cerca de 25% do território é designado como <span class="quiz">parques nacionais ou áreas de proteção</span>, com grande biodiversidade'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

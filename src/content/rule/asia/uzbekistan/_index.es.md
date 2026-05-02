@@ -13,6 +13,21 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 41.299, lng: 69.240, label: "Taskent", type: "capital", note: "Capital de Uzbekistán y mayor ciudad de Asia Central" }
+  - { lat: 39.654, lng: 66.962, label: "Samarcanda", type: "historical", note: "Patrimonio Mundial, enclave clave de la Ruta de la Seda" }
+  - { lat: 39.768, lng: 64.421, label: "Bujará", type: "historical", note: "Patrimonio Mundial, antiguo centro de la cultura islámica" }
+  - { lat: 41.378, lng: 60.351, label: "Jiva", type: "historical", note: "Patrimonio Mundial: ciudad fortificada del oasis del desierto" }
+  - { lat: 40.781, lng: 72.347, label: "Fergana", type: "city", note: "Ciudad principal del este, en el centro del valle de Fergana" }
+  - { lat: 42.460, lng: 59.611, label: "Nukus", type: "city", note: "Capital de la república occidental de Karakalpakistán" }
+features:
+  - text: '<span class="quiz">Samarcanda</span>, antigua plaza clave de la Ruta de la Seda, es Patrimonio Mundial'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9E%E3%83%AB%E3%82%AB%E3%83%B3%E3%83%89"
+  - text: 'Es uno de los dos únicos <span class="quiz">países doblemente sin litoral</span> del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%BA%E3%83%99%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

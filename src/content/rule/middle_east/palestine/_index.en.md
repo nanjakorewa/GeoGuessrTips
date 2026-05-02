@@ -16,6 +16,14 @@ sc: [
     ["../israel/", "Israel"],
     ["../jordan/", "Jordan"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.905, lng: 35.204, label: "Ramallah", type: "capital", note: "De facto administrative center" }
+  - { lat: 31.706, lng: 35.207, label: "Bethlehem", type: "historical", note: "Birthplace of Jesus Christ; Church of the Nativity" }
+  - { lat: 31.529, lng: 35.097, label: "Hebron", type: "city", note: "Major city in the southern West Bank" }
+  - { lat: 32.221, lng: 35.262, label: "Nablus", type: "city", note: "Economic and cultural hub of the northern West Bank" }
+  - { lat: 31.534, lng: 34.467, label: "Gaza", type: "city", note: "Main city of the Gaza Strip on the Mediterranean coast" }
+  - { lat: 31.857, lng: 35.461, label: "Jericho", type: "historical", note: "One of the world's oldest cities" }
 ---
 
 <div class="main-desciption country-description">

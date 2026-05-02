@@ -13,6 +13,21 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 40.409, lng: 49.867, label: "Baku", type: "capital", note: "Capital of Azerbaijan; port city on the Caspian Sea" }
+  - { lat: 40.685, lng: 46.361, label: "Ganja", type: "city", note: "Country's second city" }
+  - { lat: 40.589, lng: 49.668, label: "Sumgait", type: "city", note: "Industrial city on the Caspian Sea coast" }
+  - { lat: 41.198, lng: 47.170, label: "Sheki", type: "historical", note: "Silk Road hub famed for the Khan's Palace" }
+  - { lat: 40.082, lng: 49.460, label: "Gobustan", type: "landmark", note: "World Heritage Site known for its ancient rock art" }
+  - { lat: 41.300, lng: 48.500, label: "Caucasus Mountains", type: "nature", note: "Major mountain range running along the border" }
+features:
+  - text: 'Faces the <span class="quiz">Caspian Sea</span> and is a producer of oil and natural gas'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BC%E3%83%AB%E3%83%90%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%B3"
+  - text: 'The capital, <span class="quiz">Baku</span>, has a World Heritage old city'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AF%E3%83%BC"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

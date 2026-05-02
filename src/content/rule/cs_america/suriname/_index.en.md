@@ -11,6 +11,19 @@ flag: "SR.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 5.852, lng: -55.204, label: "Paramaribo", type: "capital", note: "Capital and World Heritage city with Dutch colonial architecture" }
+  - { lat: 5.650, lng: -55.219, label: "Lelydorp", type: "city", note: "Major suburb of the capital" }
+  - { lat: 5.886, lng: -55.221, label: "Domburg", type: "city", note: "Municipality north of the metropolitan area" }
+  - { lat: 5.872, lng: -55.467, label: "Wageningen", type: "city", note: "Western agricultural region" }
+  - { lat: 5.892, lng: -55.553, label: "Nani Swamp Nature Reserve", type: "nature", note: "Coastal wetlands and bird haven" }
+  - { lat: 4.400, lng: -56.000, label: "Central Suriname Nature Reserve", type: "nature", note: "World Heritage rainforest covering about 12% of the country" }
+features:
+  - text: 'The only country in South America with <span class="quiz">Dutch</span> as its official language; gained independence from the Netherlands in 1975'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AA%E3%83%8A%E3%83%A0"
+  - text: 'The historic district of the capital <span class="quiz">Paramaribo</span> preserves Dutch colonial architecture and is a UNESCO World Heritage Site'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%83%9E%E3%83%AA%E3%83%9C%E5%B8%82%E8%A1%97%E6%AD%B4%E5%8F%B2%E5%9C%B0%E5%8C%BA"
 ---
 
 <div class="main-desciption country-description">

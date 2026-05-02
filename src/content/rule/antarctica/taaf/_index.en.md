@@ -12,6 +12,19 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: -49.351, lng: 70.219, label: "Port-aux-Francais", type: "capital", note: "Main research station on the Kerguelen Islands" }
+  - { lat: -49.350, lng: 70.220, label: "Kerguelen Islands", type: "nature", note: "Uninhabited archipelago in the southern Indian Ocean" }
+  - { lat: -37.823, lng: 77.553, label: "Amsterdam Island", type: "nature", note: "Subantarctic volcanic island" }
+  - { lat: -38.722, lng: 77.539, label: "Saint-Paul Island", type: "nature", note: "Uninhabited volcanic island near Amsterdam Island" }
+  - { lat: -46.400, lng: 51.700, label: "Crozet Islands", type: "nature", note: "Known as a breeding ground for penguins" }
+  - { lat: -66.667, lng: 140.001, label: "Adelie Land", type: "landmark", note: "French sector on Antarctica; site of Dumont d''Urville Station" }
+features:
+  - text: 'A group of uninhabited islands in the southern Indian Ocean and around Antarctica, administered by <span class="quiz">France</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E5%8D%97%E6%96%B9%E3%83%BB%E5%8D%97%E6%A5%B5%E5%9C%B0%E5%9F%9F"
+  - text: 'Includes the <span class="quiz">Kerguelen Islands</span>, a breeding ground for several species of penguins and seals'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%82%B2%E3%83%AC%E3%83%B3%E8%AB%B8%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

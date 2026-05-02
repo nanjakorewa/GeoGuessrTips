@@ -13,6 +13,19 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 15.369, lng: 44.191, label: "Saná", type: "capital", note: "Capital; su casco antiguo es Patrimonio Mundial" }
+  - { lat: 12.789, lng: 45.022, label: "Adén", type: "port", note: "Principal puerto del sur y capital provisional" }
+  - { lat: 13.578, lng: 44.020, label: "Taiz", type: "city", note: "Ciudad montañosa del suroeste" }
+  - { lat: 14.798, lng: 42.951, label: "Al-Hudayda", type: "port", note: "Ciudad portuaria a orillas del mar Rojo" }
+  - { lat: 15.926, lng: 48.786, label: "Shibam", type: "historical", note: "Patrimonio Mundial conocido por sus rascacielos de adobe" }
+  - { lat: 12.500, lng: 53.917, label: "Isla de Socotra", type: "nature", note: "Patrimonio Natural Mundial, refugio de especies endémicas" }
+features:
+  - text: 'Cuna del <span class="quiz">café moca</span>, con una larga historia de cultivo del café'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%AB_(%E3%82%A4%E3%82%A8%E3%83%A1%E3%83%B3)"
+  - text: 'El casco antiguo de la capital, <span class="quiz">Saná</span>, está inscrito como Patrimonio Mundial por su arquitectura única'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%8A%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Chiba.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.613, lng: 140.113, label: "Estación de Chiba", type: "capital", note: "Capital de la Prefectura de Chiba" }
+  - { lat: 35.776, lng: 140.318, label: "Aeropuerto de Narita", type: "landmark", note: "Puerta de entrada para vuelos internacionales" }
+  - { lat: 35.633, lng: 139.881, label: "Urayasu (Tokyo Disney Resort)", type: "landmark", note: "Uno de los mayores parques temáticos del país" }
+  - { lat: 34.997, lng: 139.844, label: "Tateyama", type: "city", note: "Ciudad portuaria del sur de Boso" }
+  - { lat: 35.735, lng: 140.827, label: "Choshi", type: "port", note: "Extremo más oriental de Honshu y ciudad de la salsa de soja" }
+  - { lat: 35.376, lng: 139.917, label: "Kisarazu", type: "city", note: "Lado oriental del puente Aqua-Line" }
+features:
+  - text: 'Cuenta con el Aeropuerto Internacional de Narita, <span class="quiz">puerta aérea</span> de Japón y eje de la logística internacional'
+    ref: "https://ja.wikipedia.org/wiki/成田国際空港"
+  - text: 'Ocupa el primer lugar nacional en producción de <span class="quiz">cacahuetes</span>, con cerca del 80 % de la cuota nacional'
+    ref: "https://ja.wikipedia.org/wiki/千葉県#農業"
 ---
 
 

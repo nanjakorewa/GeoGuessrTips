@@ -17,6 +17,20 @@ sc: [
     ["../croatia/", "Croacia"],
     ["../montenegro/", "Montenegro"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 46.056, lng: 14.508, label: "リュブリャナ", type: "capital", note: "首都・国の中心都市" }
+  - { lat: 46.555, lng: 15.646, label: "マリボル", type: "city", note: "第二の都市・ワイン産地" }
+  - { lat: 46.369, lng: 14.114, label: "ブレッド湖", type: "landmark", note: "湖上教会で有名な景勝地" }
+  - { lat: 45.776, lng: 14.203, label: "ポストイナ鍾乳洞", type: "nature", note: "欧州最大級のカルスト洞窟" }
+  - { lat: 45.546, lng: 13.730, label: "ピラン", type: "historical", note: "アドリア海沿いの中世都市" }
+  - { lat: 46.222, lng: 13.583, label: "トリグラフ国立公園", type: "nature", note: "ユリアン・アルプスの自然保護区" }
+  - { lat: 45.892, lng: 13.730, label: "シュコツィアン洞窟群", type: "nature", note: "世界遺産の鍾乳洞" }
+features:
+  - text: '国土の約<span class="quiz">60%</span>が森林に覆われ、<span class="quiz">ポストイナ鍾乳洞</span>はヨーロッパ最大級のカルスト洞窟'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B9%E3%83%88%E3%82%A4%E3%83%8A%E9%8D%BE%E4%B9%B3%E6%B4%9E"
+  - text: '旧ユーゴスラビア構成国の中で最も早くEUに加盟し、<span class="quiz">ブレッド湖</span>の湖上教会は国の象徴的な景観'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E6%B9%96"
 ---
 
 <div class="main-desciption country-description">

@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Gifu.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.422, lng: 136.760, label: "Gifu Station", type: "capital", note: "Capital of Gifu Prefecture" }
+  - { lat: 35.434, lng: 136.781, label: "Gifu Castle", type: "historical", note: "Castle atop Mt. Kinka" }
+  - { lat: 36.142, lng: 137.252, label: "Takayama", type: "historical", note: "Hida Takayama old townscape" }
+  - { lat: 36.258, lng: 136.906, label: "Shirakawa-go", type: "historical", note: "Gassho-zukuri, World Heritage" }
+  - { lat: 35.349, lng: 136.461, label: "Sekigahara", type: "historical", note: "Site of the decisive battle" }
+  - { lat: 35.444, lng: 136.755, label: "Nagara River", type: "nature", note: "Famous for cormorant fishing" }
+features:
+  - text: 'The <span class="quiz">gassho-zukuri</span> village of Shirakawa-go is registered as a UNESCO World Heritage Site'
+    ref: "https://ja.wikipedia.org/wiki/白川郷・五箇山の合掌造り集落"
+  - text: 'Famous as a producer of <span class="quiz">cutlery</span>, Seki City has the largest blade production in Japan'
+    ref: "https://ja.wikipedia.org/wiki/関市#工業"
 ---
 
 

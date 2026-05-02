@@ -4,6 +4,14 @@ date: 2023-02-26
 description: "Negara di Amerika Selatan"
 weight: 2
 add_flagindex: True
+mapProvider: "osm"
+mapPins:
+  - { lat: 54.687, lng: 25.280, label: "Vilnius", type: "capital", note: "Ibu kota Lituania, kota tua warisan dunia" }
+  - { lat: 56.946, lng: 24.106, label: "Riga", type: "capital", note: "Ibu kota Latvia, kota terbesar di tiga negara Baltik" }
+  - { lat: 59.437, lng: 24.754, label: "Tallinn", type: "capital", note: "Ibu kota Estonia, kota tua abad pertengahan" }
+  - { lat: 54.898, lng: 23.904, label: "Kaunas", type: "city", note: "Kota terbesar kedua di Lituania" }
+  - { lat: 56.512, lng: 21.011, label: "Liepaja", type: "port", note: "Kota pelabuhan di barat Latvia" }
+  - { lat: 58.378, lng: 26.729, label: "Tartu", type: "city", note: "Kota universitas di Estonia" }
 ---
 
 ## Cara Membedakan

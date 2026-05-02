@@ -18,6 +18,16 @@ maps: [
     ["https://www.geoguessr.com/maps/615877afcbf30d0001bee009", "日本の市街地"],
     ["https://www.geoguessr.com/maps/59cf49695d2de4db80351e6e", "Japan • 日本 60k+"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.682, lng: 139.766, label: "Tokyo Station", type: "capital", note: "Capital of Japan and largest metropolitan area" }
+  - { lat: 34.702, lng: 135.495, label: "Osaka Station", type: "city", note: "Largest economic city in western Japan" }
+  - { lat: 35.012, lng: 135.768, label: "Kyoto Station", type: "historical", note: "Thousand-year capital, city of history and culture" }
+  - { lat: 43.069, lng: 141.351, label: "Sapporo Station", type: "city", note: "Central city of Hokkaido" }
+  - { lat: 33.590, lng: 130.421, label: "Fukuoka (Hakata Station)", type: "city", note: "Central city of Kyushu and gateway to Asia" }
+  - { lat: 26.213, lng: 127.679, label: "Naha", type: "city", note: "Capital of Okinawa Prefecture, tropical city" }
+  - { lat: 35.361, lng: 138.728, label: "Mt. Fuji", type: "nature", note: "Japan''s highest peak (3,776m), World Cultural Heritage" }
+  - { lat: 34.296, lng: 132.320, label: "Itsukushima Shrine", type: "landmark", note: "Hiroshima, World Heritage floating torii" }
 ---
 
 <div class="main-desciption country-description">

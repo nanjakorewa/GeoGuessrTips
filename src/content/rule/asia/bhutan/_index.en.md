@@ -18,6 +18,21 @@ sc: [
     ["../nepal/", "Nepal"],
     ["../../cs_america/peru/", "Peru"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 27.472, lng: 89.639, label: "Thimphu", type: "capital", note: "Capital and largest city of Bhutan" }
+  - { lat: 27.430, lng: 89.417, label: "Paro", type: "city", note: "Town with the international airport" }
+  - { lat: 27.575, lng: 89.881, label: "Punakha", type: "historical", note: "Former capital, known for Punakha Dzong" }
+  - { lat: 27.494, lng: 89.364, label: "Taktsang Monastery", type: "landmark", note: "Iconic clifftop Buddhist temple (Tiger's Nest)" }
+  - { lat: 27.466, lng: 91.491, label: "Bumthang", type: "city", note: "Cultural center in central Bhutan" }
+  - { lat: 28.028, lng: 90.453, label: "Gangkhar Puensum", type: "nature", note: "World's highest unclimbed peak (7,570 m)" }
+features:
+  - text: 'Uses the unique <span class="quiz">Gross National Happiness (GNH)</span> index to measure citizens'' well-being'
+    ref: "https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E7%B7%8F%E5%B9%B8%E7%A6%8F%E9%87%8F"
+  - text: 'Located at the eastern end of the <span class="quiz">Himalayas</span>, with most of the country mountainous'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%82%BF%E3%83%B3"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

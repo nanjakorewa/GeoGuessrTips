@@ -19,6 +19,19 @@ sc: [
     ["../ireland/", "Ireland"],
     ["../france/", "France"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 49.187, lng: -2.107, label: "セント・ヘリア", type: "capital", note: "首府・ジャージー島最大の街" }
+  - { lat: 49.183, lng: -2.012, label: "ゴーリー", type: "city", note: "東海岸の港町" }
+  - { lat: 49.226, lng: -2.181, label: "セント・ジョン", type: "city", note: "北部の教区" }
+  - { lat: 49.179, lng: -2.180, label: "セント・ローレンス", type: "city", note: "中央部の教区" }
+  - { lat: 49.220, lng: -2.140, label: "ジャージー戦争トンネル", type: "historical", note: "第二次大戦遺構" }
+  - { lat: 49.182, lng: -2.022, label: "モン・オルゲイユ城", type: "historical", note: "12世紀の城塞" }
+features:
+  - text: 'フランス北西部の海岸近くに位置する<span class="quiz">イギリス王室属領</span>で、独自の議会と法制度を持つ<span class="quiz">タックスヘイブン</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%BC"
+  - text: '<span class="quiz">ジャージー牛</span>の原産地として知られ、面積は約<span class="quiz">116km²</span>のチャンネル諸島最大の島'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%BC%E7%A7%8D"
 ---
 
 <div class="main-desciption country-description">

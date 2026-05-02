@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Chiba.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.613, lng: 140.113, label: "Stasiun Chiba", type: "capital", note: "Ibu kota Prefektur Chiba" }
+  - { lat: 35.776, lng: 140.318, label: "Bandara Narita", type: "landmark", note: "Pintu gerbang penerbangan internasional" }
+  - { lat: 35.633, lng: 139.881, label: "Urayasu (Tokyo Disney Resort)", type: "landmark", note: "Salah satu taman bermain terbesar di Jepang" }
+  - { lat: 34.997, lng: 139.844, label: "Tateyama", type: "city", note: "Kota pelabuhan di Boso Selatan" }
+  - { lat: 35.735, lng: 140.827, label: "Choshi", type: "port", note: "Titik paling timur Honshu, kota kecap" }
+  - { lat: 35.376, lng: 139.917, label: "Kisarazu", type: "city", note: "Pesisir timur Aqua-Line" }
+features:
+  - text: 'Memiliki Bandara Internasional Narita, sebagai <span class="quiz">pintu gerbang udara</span> Jepang dan pusat logistik internasional'
+    ref: "https://ja.wikipedia.org/wiki/成田国際空港"
+  - text: 'Produksi <span class="quiz">kacang tanah</span> peringkat 1 nasional, mencakup sekitar 80% produksi nasional'
+    ref: "https://ja.wikipedia.org/wiki/千葉県#農業"
 ---
 
 

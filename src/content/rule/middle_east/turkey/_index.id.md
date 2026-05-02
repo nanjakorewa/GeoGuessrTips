@@ -19,6 +19,20 @@ sc: [
     ["../../europe/macedonia/", "Makedonia Utara"],
     ["../../europe/greece/", "Yunani"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 39.933, lng: 32.866, label: "Ankara", type: "capital", note: "Ibu kota, kota di pusat Anatolia" }
+  - { lat: 41.013, lng: 28.949, label: "Istanbul", type: "city", note: "Kota terbesar di negara, terbentang melintasi Selat Bosporus" }
+  - { lat: 38.419, lng: 27.129, label: "Izmir", type: "port", note: "Kota pelabuhan utama di pesisir Laut Aegea" }
+  - { lat: 36.897, lng: 30.713, label: "Antalya", type: "city", note: "Tempat wisata pantai di pesisir Mediterania" }
+  - { lat: 38.643, lng: 34.829, label: "Cappadocia", type: "landmark", note: "Warisan dunia yang terkenal dengan formasi batu unik dan balon udara" }
+  - { lat: 37.924, lng: 29.121, label: "Pamukkale", type: "nature", note: "Warisan dunia berupa teras kapur" }
+  - { lat: 37.875, lng: 27.264, label: "Efesus", type: "historical", note: "Reruntuhan kuno Yunani dan Romawi" }
+features:
+  - text: 'Terbentang antara Asia dan Eropa, dengan <span class="quiz">Selat Bosporus</span> memisahkan kedua benua'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%9D%E3%83%A9%E3%82%B9%E6%B5%B7%E5%B3%A1"
+  - text: 'Memiliki banyak warisan dunia seperti formasi batu <span class="quiz">Cappadocia</span> dan teras kapur <span class="quiz">Pamukkale</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%83%E3%83%91%E3%83%89%E3%82%AD%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Fukuoka.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.590, lng: 130.421, label: "Stasiun Hakata", type: "capital", note: "Ibu kota Prefektur Fukuoka, kota terbesar di Kyushu" }
+  - { lat: 33.589, lng: 130.398, label: "Tenjin", type: "city", note: "Kawasan hiburan Fukuoka" }
+  - { lat: 33.876, lng: 130.882, label: "Kitakyushu (Kokura)", type: "city", note: "Kota industri, Selat Kanmon" }
+  - { lat: 33.518, lng: 130.535, label: "Kuil Dazaifu Tenmangu", type: "historical", note: "Dewa pembelajaran" }
+  - { lat: 33.585, lng: 130.450, label: "Bandara Fukuoka", type: "landmark", note: "Bandara dekat pusat kota" }
+  - { lat: 33.165, lng: 130.408, label: "Yanagawa", type: "city", note: "Kota kanal" }
+features:
+  - text: 'Memiliki Kota Fukuoka, kota terbesar di Kyushu, dan <span class="quiz">Hakata</span> telah lama menjadi pusat perdagangan dengan Asia'
+    ref: "https://ja.wikipedia.org/wiki/福岡市"
+  - text: 'Kota Kitakyushu adalah tempat asal industri baja yang dimulai dari <span class="quiz">Pabrik Baja Kekaisaran Yawata</span>, dan menjadi inti Kawasan Industri Kitakyushu'
+    ref: "https://ja.wikipedia.org/wiki/官営八幡製鉄所"
 ---
 
 

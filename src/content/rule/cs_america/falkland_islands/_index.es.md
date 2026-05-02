@@ -16,6 +16,19 @@ sc_title: "Zonas que se confunden con facilidad"
 sc: [
     ["../sgssi/", "Islas Georgia del Sur y Sandwich del Sur"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -51.697, lng: -57.852, label: "Stanley", type: "capital", note: "Capital, mayor asentamiento del archipiélago" }
+  - { lat: -51.689, lng: -57.706, label: "Mount Pleasant", type: "landmark", note: "Principal base aérea con tropas británicas" }
+  - { lat: -51.341, lng: -60.058, label: "Port Howard", type: "city", note: "Mayor asentamiento de la Gran Malvina" }
+  - { lat: -51.379, lng: -59.917, label: "San Carlos", type: "historical", note: "Lugar del desembarco británico durante el conflicto de 1982" }
+  - { lat: -52.326, lng: -59.480, label: "Isla de los Leones Marinos", type: "nature", note: "Rica en fauna; cría de pingüinos y mamíferos marinos" }
+  - { lat: -51.340, lng: -60.252, label: "Isla Borbón (Pebble)", type: "nature", note: "Lugar de cría de aves marinas y pingüinos" }
+features:
+  - text: 'Territorio británico de ultramar en el Atlántico Sur; <span class="quiz">Reino Unido</span>, también reclamado por Argentina'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
+  - text: 'En 1982 estalló entre el Reino Unido y Argentina la <span class="quiz">Guerra de las Malvinas</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E7%B4%9B%E4%BA%89"
 ---
 
 <div class="main-desciption country-description">

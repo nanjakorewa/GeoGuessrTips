@@ -16,6 +16,20 @@ sc_title: "Wilayah yang Sering Salah Diartikan"
 sc: [
     ["../india/", "India"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 23.811, lng: 90.412, label: "Dhaka", type: "capital", note: "Ibu kota Bangladesh, salah satu kota terpadat di dunia" }
+  - { lat: 22.357, lng: 91.783, label: "Chittagong", type: "port", note: "Kota pelabuhan terbesar di negara ini" }
+  - { lat: 24.374, lng: 88.604, label: "Rajshahi", type: "city", note: "Kota utama di wilayah barat" }
+  - { lat: 22.846, lng: 89.540, label: "Khulna", type: "city", note: "Kota utama di barat daya, gerbang menuju Sundarbans" }
+  - { lat: 21.984, lng: 89.183, label: "Sundarbans", type: "nature", note: "Warisan dunia, hutan bakau terbesar di dunia" }
+  - { lat: 21.428, lng: 92.005, label: "Cox's Bazar", type: "landmark", note: "Salah satu pantai alami terpanjang di dunia" }
+  - { lat: 24.475, lng: 90.787, label: "Delta Sungai Gangga", type: "nature", note: "Delta terbesar di dunia" }
+features:
+  - text: 'Memiliki salah satu <span class="quiz">delta</span> terbesar di dunia, sebagian besar wilayahnya berupa dataran rendah'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%82%B7%E3%83%A5"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

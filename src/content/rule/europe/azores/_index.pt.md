@@ -18,6 +18,19 @@ sc: [
     ["../../africa/madeira_islands/", "Madeira"],
     ["../../africa/canary_islands/", "Canárias"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 37.741, lng: -25.668, label: "Ponta Delgada", type: "capital", note: "Principal cidade do arquipélago dos Açores" }
+  - { lat: 38.654, lng: -27.221, label: "Angra do Heroísmo", type: "historical", note: "Centro histórico de Terceira, Patrimônio Mundial" }
+  - { lat: 38.532, lng: -28.628, label: "Horta", type: "port", note: "Cidade portuária da ilha do Faial" }
+  - { lat: 37.769, lng: -25.469, label: "Furnas", type: "nature", note: "Estância termal de São Miguel" }
+  - { lat: 38.474, lng: -28.402, label: "Montanha do Pico", type: "nature", note: "Vulcão, ponto mais alto de Portugal" }
+  - { lat: 37.870, lng: -25.793, label: "Lagoa das Sete Cidades", type: "nature", note: "Lagoas gêmeas em cratera, em São Miguel" }
+features:
+  - text: '<span class="quiz">Arquipélago vulcânico</span> português situado no centro do Atlântico, formado por nove ilhas onde florescem <span class="quiz">hortênsias</span> por toda parte'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%AC%E3%82%B9%E8%AB%B8%E5%B3%B6"
+  - text: 'Localizado sobre a <span class="quiz">Dorsal Mesoatlântica</span>, a ilha de São Miguel abriga a única plantação de <span class="quiz">chá</span> da Europa'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%9F%E3%82%B2%E3%83%AB%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

@@ -20,6 +20,30 @@ sc: [
     ["../peru/", "Peru"],
     ["../../n_america/usa/", "America"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -16.500, lng: -68.150, label: "La Paz", type: "capital", note: "De facto capital and the world's highest metropolitan area at about 3,600 m" }
+  - { lat: -19.034, lng: -65.262, label: "Sucre", type: "capital", note: "Constitutional capital, a World Heritage white-walled city" }
+  - { lat: -17.783, lng: -63.182, label: "Santa Cruz", type: "city", note: "Bolivia's largest city and economic center" }
+  - { lat: -17.394, lng: -66.157, label: "Cochabamba", type: "city", note: "City in the central highlands known for its mild climate" }
+  - { lat: -19.586, lng: -65.753, label: "Potosi", type: "city", note: "City of Cerro Rico silver mine, a colonial-era silver-producing center" }
+  - { lat: -20.261, lng: -67.628, label: "Salar de Uyuni", type: "landmark", note: "The world's largest salt flat (about 10,500 km2); turns into a mirror in the dry season" }
+  - { lat: -15.823, lng: -69.333, label: "Lake Titicaca", type: "landmark", note: "High-altitude lake on the Peruvian border at 3,810 m" }
+  - { lat: -18.106, lng: -68.882, label: "Sajama", type: "landmark", note: "Bolivia's highest volcano (6,542 m)" }
+features:
+  - text: 'A landlocked country in South America; the capital La Paz is the world''s highest <span class="quiz">capital</span> at about 3,600 m'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%91%E3%82%B9"
+  - text: '<span class="quiz">Salar de Uyuni</span> is known as the world''s largest salt flat'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A6%E3%83%8B%E5%A1%A9%E6%B9%96"
+
+# ===== OSM ヒーロー設定（PoC） =====
+heroGallery:
+  - "/rule/cs_america/bolivia/sajama_bolivia_volcano_way.jpg"
+  - "/rule/cs_america/bolivia/salt_salar_landscape_salar.jpg"
+  - "/rule/cs_america/bolivia/la_paz_andes_south.jpg"
+  - "/rule/cs_america/bolivia/Cemitério_de_trens,_Uyuni,_Bolivia.jpg"
+  - "/rule/cs_america/bolivia/ilha_do_sol14.jpg"
+  - "/rule/cs_america/bolivia/19683170924_abbf5210de_c.jpg"
 ---
 
 <div class="main-desciption country-description">

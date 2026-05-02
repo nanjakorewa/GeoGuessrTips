@@ -17,6 +17,19 @@ sc: [
     ["../united-kingdom/", "Reino Unido"],
     ["../spain/", "Espanha"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 36.140, lng: -5.353, label: "Gibraltar", type: "capital", note: "Capital e centro do território ultramarino britânico" }
+  - { lat: 36.140, lng: -5.342, label: "Rochedo de Gibraltar", type: "landmark", note: "Maciço calcário de 426 m de altura" }
+  - { lat: 36.123, lng: -5.346, label: "Europa Point", type: "landmark", note: "Cabo na ponta sul da península" }
+  - { lat: 36.145, lng: -5.353, label: "Main Street", type: "city", note: "Rua comercial do centro" }
+  - { lat: 36.151, lng: -5.350, label: "Aeroporto de Gibraltar", type: "landmark", note: "Aeroporto onde a estrada cruza a pista" }
+  - { lat: 36.126, lng: -5.345, label: "Apes' Den", type: "nature", note: "Habitat dos macacos-de-barbária" }
+features:
+  - text: 'Território ultramarino do <span class="quiz">Reino Unido</span> situado no extremo sul da Península Ibérica, com apenas cerca de <span class="quiz">6,5 km²</span> de área'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%96%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AB"
+  - text: 'O <span class="quiz">Rochedo de Gibraltar</span> (The Rock) é o símbolo da cidade e abriga os <span class="quiz">macacos-de-barbária</span> selvagens, os únicos primatas selvagens da Europa'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%96%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AB%E3%81%AE%E5%B2%A9"
 ---
 
 <div class="main-desciption country-description">

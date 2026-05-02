@@ -21,6 +21,19 @@ sc: [
     ["../../asia/kazakhstan/", "Kazakhstan"],
     ["../israel/", "Israel"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 23.588, lng: 58.408, label: "Muscat", type: "capital", note: "Capital and port city on the Arabian Sea" }
+  - { lat: 22.933, lng: 57.533, label: "Nizwa", type: "historical", note: "Historic fortified city in the interior" }
+  - { lat: 17.019, lng: 54.090, label: "Salalah", type: "city", note: "Hub of the southern Dhofar region" }
+  - { lat: 24.339, lng: 56.730, label: "Sohar", type: "port", note: "Northern port and industrial city" }
+  - { lat: 23.323, lng: 57.531, label: "Bahla Fort", type: "historical", note: "World Heritage ancient fortress" }
+  - { lat: 22.700, lng: 59.000, label: "Wahiba Sands", type: "nature", note: "Vast desert in central Oman" }
+features:
+  - text: 'Known since antiquity as a producer of <span class="quiz">frankincense</span> and prospered through trade'
+    ref: "https://ja.wikipedia.org/wiki/%E4%B9%B3%E9%A6%99"
+  - text: 'Located on the southeastern Arabian Peninsula, a strategic site facing the <span class="quiz">Strait of Hormuz</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1"
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,19 @@ sc: [
     ["../liechtenstein/", "Liechtenstein"],
     ["../switzerland/", "Swiss"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 48.209, lng: 16.373, label: "Wina", type: "capital", note: "Ibu kota, kota musik" }
+  - { lat: 47.811, lng: 13.055, label: "Salzburg", type: "city", note: "Tempat kelahiran Mozart" }
+  - { lat: 47.270, lng: 11.404, label: "Innsbruck", type: "city", note: "Ibu kota negara bagian Tirol, tuan rumah Olimpiade Musim Dingin" }
+  - { lat: 47.071, lng: 15.439, label: "Graz", type: "city", note: "Kota terbesar kedua di Austria" }
+  - { lat: 47.580, lng: 13.647, label: "Hallstatt", type: "landmark", note: "Desa tepi danau warisan dunia" }
+  - { lat: 47.305, lng: 11.876, label: "Pegunungan Alpen", type: "nature", note: "Pegunungan yang mencakup 62% wilayah negara" }
+features:
+  - text: 'Memiliki ibu kota <span class="quiz">Wina</span> sebagai kota musik, dan merupakan negara besar musik yang melahirkan banyak komposer seperti <span class="quiz">Mozart</span> dan Strauss'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B3"
+  - text: 'Sekitar 62% wilayahnya tertutup <span class="quiz">Pegunungan Alpen</span>, dan sebagai pusat <span class="quiz">Wangsa Habsburg</span> berkuasa di Eropa selama sekitar 640 tahun'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%97%E3%82%B9%E3%83%96%E3%83%AB%E3%82%AF%E5%AE%B6"
 ---
 
 <div class="main-desciption country-description">

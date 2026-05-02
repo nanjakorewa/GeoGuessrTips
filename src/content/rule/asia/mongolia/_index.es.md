@@ -15,6 +15,22 @@ sc_title: "Regiones que se confunden fácilmente"
 sc: [
     ["../kyrgyzstan/", "Kirguistán"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 47.886, lng: 106.906, label: "Ulán Bator", type: "capital", note: "Capital de Mongolia, donde reside cerca de la mitad de la población" }
+  - { lat: 49.034, lng: 104.080, label: "Erdenet", type: "city", note: "Segunda ciudad del país, famosa por su mina de cobre" }
+  - { lat: 50.044, lng: 106.183, label: "Darjan", type: "city", note: "Principal ciudad industrial del norte" }
+  - { lat: 43.580, lng: 104.420, label: "Desierto de Gobi", type: "nature", note: "Mayor desierto de Asia, ocupa el sur del país" }
+  - { lat: 48.166, lng: 99.910, label: "Lago Khövsgöl", type: "nature", note: "Mayor lago de agua dulce del país, la perla de Mongolia" }
+  - { lat: 47.197, lng: 102.802, label: "Karakórum", type: "historical", note: "Antigua capital del Imperio mongol" }
+  - { lat: 49.808, lng: 87.737, label: "Cordillera de Altái", type: "nature", note: "Gran cordillera del oeste" }
+features:
+  - text: 'La vivienda tradicional móvil de los nómadas, la <span class="quiz">ger</span>, sigue utilizándose ampliamente'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%AB_(%E5%AE%B6%E5%B1%8B)"
+  - text: 'El Imperio mongol fundado por <span class="quiz">Gengis Kan</span> fue el mayor imperio terrestre de la historia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E5%B8%9D%E5%9B%BD"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

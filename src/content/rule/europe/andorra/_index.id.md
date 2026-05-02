@@ -16,6 +16,19 @@ sc: [
     ["../spain/", "Spanyol"],
     ["../italy/", "Italia Barat"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 42.506, lng: 1.522, label: "Andorra la Vella", type: "capital", note: "Ibu kota, ibu kota tertinggi di Eropa" }
+  - { lat: 42.546, lng: 1.586, label: "Escaldes", type: "city", note: "Kota yang terkenal dengan pemandian air panas" }
+  - { lat: 42.539, lng: 1.737, label: "Canillo", type: "city", note: "Paroki pegunungan di timur" }
+  - { lat: 42.567, lng: 1.678, label: "Encamp", type: "city", note: "Permukiman di Pegunungan Pirenia" }
+  - { lat: 42.578, lng: 1.658, label: "Grau Roig", type: "nature", note: "Kawasan resor ski" }
+  - { lat: 42.476, lng: 1.491, label: "Sant Julia de Loria", type: "city", note: "Paroki terbesar di selatan" }
+features:
+  - text: 'Negara kecil di <span class="quiz">Pegunungan Pirenia</span>, yang kepala negaranya merupakan kondominium antara Presiden Prancis dan <span class="quiz">Uskup Urgell</span> dari Spanyol'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9"
+  - text: 'Dikenal dengan belanja <span class="quiz">bebas pajak</span> karena tidak ada pajak konsumsi, dan <span class="quiz">resor ski</span> merupakan industri pariwisata utama'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9"
 ---
 
 <div class="main-desciption country-description">

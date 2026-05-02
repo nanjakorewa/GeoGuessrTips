@@ -18,6 +18,19 @@ sc: [
     ["../colombia/", "Kolombia"],
     ["../../asia/india/", "India"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -0.180, lng: -78.467, label: "Quito", type: "capital", note: "Ibu kota, kota dataran tinggi Andes dengan ketinggian sekitar 2.850 m, warisan dunia" }
+  - { lat: -2.170, lng: -79.922, label: "Guayaquil", type: "city", note: "Kota terbesar di Ekuador, pelabuhan utama" }
+  - { lat: -2.900, lng: -79.005, label: "Cuenca", type: "city", note: "Kota era kolonial di selatan Andes, warisan dunia" }
+  - { lat: -1.243, lng: -78.617, label: "Ambato", type: "city", note: "Kota perdagangan di dataran tinggi tengah" }
+  - { lat: -0.252, lng: -78.526, label: "Monumen Khatulistiwa", type: "landmark", note: "Monumen Mitad del Mundo tepat di garis khatulistiwa" }
+  - { lat: -0.685, lng: -78.437, label: "Gunung Cotopaxi", type: "nature", note: "Salah satu gunung berapi aktif tertinggi di dunia dengan ketinggian 5.897 m" }
+features:
+  - text: 'Nama negara dalam bahasa Spanyol berarti "<span class="quiz">khatulistiwa</span>", dan garis khatulistiwa melintasi wilayahnya'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB"
+  - text: 'Salah satu eksportir <span class="quiz">pisang</span> terbesar di dunia, dan minyak juga merupakan komoditas ekspor utama'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

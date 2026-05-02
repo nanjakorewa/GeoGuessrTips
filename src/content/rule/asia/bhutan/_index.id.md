@@ -18,6 +18,21 @@ sc: [
     ["../nepal/", "Nepal"],
     ["../../cs_america/peru/", "Peru"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 27.472, lng: 89.639, label: "Thimphu", type: "capital", note: "Ibu kota dan kota terbesar Bhutan" }
+  - { lat: 27.430, lng: 89.417, label: "Paro", type: "city", note: "Kota dengan bandara internasional" }
+  - { lat: 27.575, lng: 89.881, label: "Punakha", type: "historical", note: "Bekas ibu kota, terkenal dengan Punakha Dzong" }
+  - { lat: 27.494, lng: 89.364, label: "Biara Taktsang", type: "landmark", note: "Kuil Buddha ikonik di tebing (Sarang Harimau)" }
+  - { lat: 27.466, lng: 91.491, label: "Bumthang", type: "city", note: "Pusat budaya di wilayah tengah" }
+  - { lat: 28.028, lng: 90.453, label: "Gangkhar Puensum", type: "nature", note: "Puncak tertinggi di dunia yang belum didaki (7.570 m)" }
+features:
+  - text: 'Bhutan menggunakan indikator unik bernama <span class="quiz">Kebahagiaan Nasional Bruto (GNH)</span> untuk mengukur kesejahteraan warga'
+    ref: "https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E7%B7%8F%E5%B9%B8%E7%A6%8F%E9%87%8F"
+  - text: 'Terletak di ujung timur <span class="quiz">Pegunungan Himalaya</span>, sebagian besar wilayahnya berupa pegunungan'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%82%BF%E3%83%B3"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

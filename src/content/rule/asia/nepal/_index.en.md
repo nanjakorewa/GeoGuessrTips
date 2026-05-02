@@ -19,6 +19,22 @@ sc: [
     ["../srilanka/", "Sri Lanka"],
     ["../bhutan/", "Bhutan"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 27.717, lng: 85.324, label: "Kathmandu", type: "capital", note: "Capital and largest city of Nepal" }
+  - { lat: 28.210, lng: 83.991, label: "Pokhara", type: "city", note: "Tourist resort city and gateway to Annapurna" }
+  - { lat: 27.671, lng: 85.428, label: "Bhaktapur", type: "historical", note: "World Heritage former capital" }
+  - { lat: 27.989, lng: 86.925, label: "Mount Everest", type: "nature", note: "World's highest peak (8,848 m)" }
+  - { lat: 28.596, lng: 83.819, label: "Annapurna", type: "nature", note: "Famed peaks of the Himalayas" }
+  - { lat: 27.484, lng: 83.945, label: "Lumbini", type: "historical", note: "World Heritage birthplace of the Buddha" }
+  - { lat: 28.394, lng: 84.124, label: "Manaslu", type: "nature", note: "World's 8th-highest peak (8,163 m)" }
+features:
+  - text: 'The world''s highest peak, <span class="quiz">Mount Everest</span> (8,848 m), lies on the border with China'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%99%E3%83%AC%E3%82%B9%E3%83%88"
+  - text: 'Has the world''s only <span class="quiz">non-rectangular</span> national flag (a double pennant)'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E3%81%AE%E5%9B%BD%E6%97%97"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

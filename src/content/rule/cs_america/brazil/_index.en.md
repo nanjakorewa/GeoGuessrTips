@@ -24,6 +24,20 @@ sc: [
     ["../../asia/indonesia/", "Indonesia"],
     ["../../asia/thai/", "Thailand"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -15.794, lng: -47.882, label: "Brasilia", type: "capital", note: "Planned capital and a World Heritage modernist city" }
+  - { lat: -23.550, lng: -46.633, label: "Sao Paulo", type: "city", note: "South America's largest city and economic center" }
+  - { lat: -22.907, lng: -43.172, label: "Rio de Janeiro", type: "city", note: "Former capital, famous for Carnival and beaches" }
+  - { lat: -3.119, lng: -60.022, label: "Manaus", type: "city", note: "Hub city of the central Amazon basin" }
+  - { lat: -8.054, lng: -34.881, label: "Recife", type: "city", note: "Northeastern port city, the Venice of Brazil" }
+  - { lat: -25.687, lng: -54.444, label: "Iguazu Falls", type: "landmark", note: "One of the world's largest waterfalls on the Argentine border" }
+  - { lat: -22.952, lng: -43.211, label: "Christ the Redeemer", type: "landmark", note: "Iconic giant statue atop Corcovado Hill" }
+features:
+  - text: 'The largest country in South America by area and population; the only one whose official language is <span class="quiz">Portuguese</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+  - text: 'About 60% of the country is covered by the <span class="quiz">Amazon rainforest</span>, home to the greatest biodiversity in the world'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E7%86%B1%E5%B8%AF%E9%9B%A8%E6%9E%97"
 ---
 
 <div class="main-desciption country-description">

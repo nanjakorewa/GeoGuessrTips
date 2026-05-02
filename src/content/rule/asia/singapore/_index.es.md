@@ -16,6 +16,20 @@ sc: [
     ["../macau/", "Macao"],
     ["../malaysia/", "Malasia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 1.290, lng: 103.851, label: "Singapur", type: "capital", note: "Ciudad-Estado, centro financiero del Sudeste Asiático" }
+  - { lat: 1.287, lng: 103.854, label: "Marina Bay Sands", type: "landmark", note: "Emblemático hotel formado por tres torres unidas" }
+  - { lat: 1.286, lng: 103.854, label: "Merlion", type: "landmark", note: "Estatua símbolo de Singapur" }
+  - { lat: 1.282, lng: 103.864, label: "Gardens by the Bay", type: "landmark", note: "Enorme jardín botánico artificial" }
+  - { lat: 1.284, lng: 103.851, label: "Isla de Sentosa", type: "nature", note: "Isla turística del sur" }
+  - { lat: 1.434, lng: 103.786, label: "Aeropuerto Internacional de Changi", type: "landmark", note: "Aeropuerto internacional con las mejores valoraciones del mundo" }
+  - { lat: 1.305, lng: 103.832, label: "Orchard Road", type: "city", note: "Principal calle comercial" }
+features:
+  - text: 'Ciudad-Estado de unos <span class="quiz">730 km²</span>, una superficie similar a la de los 23 distritos especiales de Tokio'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

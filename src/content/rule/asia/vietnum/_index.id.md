@@ -11,6 +11,22 @@ flag: "VN.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 21.028, lng: 105.854, label: "Hanoi", type: "capital", note: "Ibu kota Vietnam, kota pusat di utara" }
+  - { lat: 10.823, lng: 106.630, label: "Ho Chi Minh", type: "city", note: "Kota terbesar di negara, pusat ekonomi di selatan" }
+  - { lat: 16.054, lng: 108.202, label: "Da Nang", type: "port", note: "Kota pelabuhan terbesar di tengah, tempat wisata" }
+  - { lat: 16.469, lng: 107.591, label: "Hue", type: "historical", note: "Warisan dunia, ibu kota tua Dinasti Nguyen" }
+  - { lat: 15.880, lng: 108.338, label: "Hoi An", type: "historical", note: "Warisan dunia, kota pelabuhan tua" }
+  - { lat: 20.911, lng: 107.183, label: "Teluk Halong", type: "nature", note: "Warisan dunia, pemandangan batu karang yang unik" }
+  - { lat: 22.336, lng: 103.844, label: "Sa Pa", type: "nature", note: "Daerah pegunungan di utara, terkenal dengan terasering" }
+features:
+  - text: 'Memiliki wilayah panjang membentang utara-selatan, dan <span class="quiz">Teluk Halong</span> terdaftar sebagai warisan dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AD%E3%83%B3%E6%B9%BE"
+  - text: 'Penghasil <span class="quiz">kopi</span> terbesar kedua di dunia, dan produsen kopi Robusta terbesar di dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

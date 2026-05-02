@@ -11,6 +11,19 @@ flag: "CW.svg"
 no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_googlecar: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 12.109, lng: -68.933, label: "Willemstad", type: "capital", note: "Capital, casco histórico colorido Patrimonio de la Humanidad" }
+  - { lat: 12.131, lng: -68.946, label: "Distrito de Punda", type: "historical", note: "Casco antiguo con el Handelskade y el puente Reina Emma" }
+  - { lat: 12.197, lng: -69.156, label: "Parque Nacional Christoffel", type: "nature", note: "Reserva natural con el monte Christoffel, el más alto de la isla" }
+  - { lat: 12.378, lng: -69.158, label: "Westpunt", type: "city", note: "Zona de muchas playas en el noroeste de la isla" }
+  - { lat: 12.064, lng: -68.864, label: "Spanish Water", type: "port", note: "Bahía natural y puerto deportivo del sureste" }
+  - { lat: 12.302, lng: -69.150, label: "Parque Nacional Shete Boka", type: "nature", note: "Famoso por sus cuevas marinas y costa de oleaje bravo" }
+features:
+  - text: 'País constituyente de los <span class="quiz">Países Bajos</span> en el Caribe; el papiamento se habla ampliamente'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%A9%E3%82%BD%E3%83%BC"
+  - text: 'El casco histórico de <span class="quiz">Willemstad</span>, con sus edificios coloridos, está inscrito como Patrimonio de la Humanidad'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AC%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%83%E3%83%88"
 ---
 
 <div class="main-desciption country-description">

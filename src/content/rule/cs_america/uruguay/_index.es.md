@@ -15,6 +15,17 @@ sc_title: "Regiones Similares"
 sc: [
     ["../argentina/", "Argentina"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -34.901, lng: -56.165, label: "Montevideo", type: "capital", note: "Capital, mayor ciudad en la desembocadura del Río de la Plata" }
+  - { lat: -34.486, lng: -54.343, label: "Punta del Este", type: "city", note: "Centro turístico de lujo en la costa este" }
+  - { lat: -32.523, lng: -55.764, label: "Salto", type: "city", note: "Ciudad del noroeste en la frontera con Argentina" }
+  - { lat: -34.471, lng: -57.838, label: "Colonia del Sacramento", type: "historical", note: "Casco antiguo de la época portuguesa, Patrimonio Mundial" }
+  - { lat: -32.371, lng: -54.167, label: "Melo", type: "city", note: "Ciudad del nordeste en la frontera con Brasil" }
+  - { lat: -34.339, lng: -53.508, label: "La Paloma", type: "port", note: "Pueblo pesquero de la costa este" }
+features:
+  - text: 'Uno de los países más pequeños de Sudamérica; todo el territorio está cubierto por las praderas de la <span class="quiz">Pampa</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%82%B0%E3%82%A2%E3%82%A4"
 ---
 
 <div class="main-desciption country-description">

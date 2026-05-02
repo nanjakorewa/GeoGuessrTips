@@ -14,6 +14,20 @@ dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 24.713, lng: 46.675, label: "Riyadh", type: "capital", note: "Ibu kota, kota terbesar di negara" }
+  - { lat: 21.423, lng: 39.826, label: "Mekkah", type: "historical", note: "Kota suci utama dalam Islam" }
+  - { lat: 24.470, lng: 39.612, label: "Madinah", type: "historical", note: "Kota suci kedua dalam Islam" }
+  - { lat: 21.486, lng: 39.193, label: "Jeddah", type: "port", note: "Kota pelabuhan utama di pesisir Laut Merah, gerbang menuju Mekkah" }
+  - { lat: 26.420, lng: 50.088, label: "Dammam", type: "city", note: "Pusat Provinsi Timur, basis industri minyak" }
+  - { lat: 18.213, lng: 42.505, label: "Abha", type: "city", note: "Kota pusat Provinsi Asir di barat daya" }
+  - { lat: 26.629, lng: 37.948, label: "Hegra (Mada'in Saleh)", type: "historical", note: "Reruntuhan bangsa Nabatea, warisan dunia" }
+features:
+  - text: 'Memiliki dua kota suci utama umat Islam, yaitu <span class="quiz">Mekkah</span> dan <span class="quiz">Madinah</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%83%E3%82%AB"
+  - text: 'Pengekspor <span class="quiz">minyak mentah</span> terbesar di dunia, dan Saudi Aramco yang dimiliki negara merupakan salah satu perusahaan terbesar di dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%A0%E3%82%B3"
 ---
 
 <div class="main-desciption country-description">

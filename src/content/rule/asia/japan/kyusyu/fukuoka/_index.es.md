@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Fukuoka.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.590, lng: 130.421, label: "Estación de Hakata", type: "capital", note: "Capital de la Prefectura de Fukuoka y mayor ciudad de Kyushu" }
+  - { lat: 33.589, lng: 130.398, label: "Tenjin", type: "city", note: "Distrito comercial de Fukuoka" }
+  - { lat: 33.876, lng: 130.882, label: "Kitakyushu (Kokura)", type: "city", note: "Ciudad industrial y estrecho de Kanmon" }
+  - { lat: 33.518, lng: 130.535, label: "Santuario Dazaifu Tenmangu", type: "historical", note: "Dios del saber" }
+  - { lat: 33.585, lng: 130.450, label: "Aeropuerto de Fukuoka", type: "landmark", note: "Aeropuerto cercano al centro urbano" }
+  - { lat: 33.165, lng: 130.408, label: "Yanagawa", type: "city", note: "Ciudad de los canales" }
+features:
+  - text: 'Alberga Fukuoka, la mayor ciudad de Kyushu; <span class="quiz">Hakata</span> ha sido históricamente un centro de comercio con Asia'
+    ref: "https://ja.wikipedia.org/wiki/福岡市"
+  - text: 'La ciudad de Kitakyushu es la cuna de la industria siderúrgica japonesa, originada en la <span class="quiz">acería estatal de Yawata</span>, y es el núcleo de la zona industrial de Kitakyushu'
+    ref: "https://ja.wikipedia.org/wiki/官営八幡製鉄所"
 ---
 
 

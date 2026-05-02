@@ -9,6 +9,20 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Osaka.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.702, lng: 135.495, label: "Osaka Station", type: "capital", note: "Capital of Osaka Prefecture, largest city in western Japan" }
+  - { lat: 34.687, lng: 135.526, label: "Osaka Castle", type: "historical", note: "Castle of Toyotomi Hideyoshi" }
+  - { lat: 34.668, lng: 135.500, label: "Dotonbori", type: "landmark", note: "Entertainment district, Glico sign" }
+  - { lat: 34.652, lng: 135.506, label: "Tsutenkaku Tower", type: "landmark", note: "Shinsekai, symbol of Osaka" }
+  - { lat: 34.654, lng: 135.428, label: "Osaka Aquarium Kaiyukan", type: "landmark", note: "Tempozan aquarium" }
+  - { lat: 34.434, lng: 135.244, label: "Kansai International Airport", type: "landmark", note: "Offshore airport" }
+  - { lat: 34.572, lng: 135.482, label: "Sakai", type: "city", note: "City of ancient burial mounds and cutlery" }
+features:
+  - text: 'The largest economic area in western Japan, with the tradition of being the "Nation''s Kitchen" as a center of <span class="quiz">commerce and wholesale</span>'
+    ref: "https://ja.wikipedia.org/wiki/大阪府#経済"
+  - text: 'The <span class="quiz">cutlery</span> industry centered on Sakai City has over 600 years of history and holds about 90% of Japan''s domestic share of professional kitchen knives'
+    ref: "https://ja.wikipedia.org/wiki/堺市#工業"
 ---
 
 

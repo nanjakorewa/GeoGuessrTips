@@ -15,6 +15,17 @@ sc_title: "Common Mix-ups"
 sc: [
     ["../argentina/", "Argentina"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -34.901, lng: -56.165, label: "Montevideo", type: "capital", note: "Capital and largest city at the mouth of the Rio de la Plata" }
+  - { lat: -34.486, lng: -54.343, label: "Punta del Este", type: "city", note: "Upscale resort town on the east coast" }
+  - { lat: -32.523, lng: -55.764, label: "Salto", type: "city", note: "Northwestern city on the Argentine border" }
+  - { lat: -34.471, lng: -57.838, label: "Colonia del Sacramento", type: "historical", note: "Portuguese-era old town and World Heritage Site" }
+  - { lat: -32.371, lng: -54.167, label: "Melo", type: "city", note: "Northeastern city on the Brazilian border" }
+  - { lat: -34.339, lng: -53.508, label: "La Paloma", type: "port", note: "East coast fishing port town" }
+features:
+  - text: 'One of the smallest countries in South America, almost entirely covered by grasslands known as the <span class="quiz">Pampas</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%82%B0%E3%82%A2%E3%82%A4"
 ---
 
 <div class="main-desciption country-description">

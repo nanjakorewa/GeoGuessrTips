@@ -23,6 +23,21 @@ maps: [
     ["https://www.geoguessr.com/maps/5fb4a16924491b00010c608d", "US State-Specific Clues"],
     ["https://www.geoguessr.com/maps/5ab6b56818399e27583294d0", "United States (no blurry)"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 38.895, lng: -77.037, label: "Washington, D.C.", type: "capital", note: "Capital and seat of the federal government" }
+  - { lat: 40.713, lng: -74.006, label: "New York", type: "city", note: "Largest US city and East Coast economic hub" }
+  - { lat: 34.052, lng: -118.244, label: "Los Angeles", type: "city", note: "Largest West Coast city and entertainment-industry center" }
+  - { lat: 41.878, lng: -87.630, label: "Chicago", type: "city", note: "Largest Midwestern city, on the southern shore of the Great Lakes" }
+  - { lat: 25.762, lng: -80.192, label: "Miami", type: "city", note: "Southeastern resort city and gateway to the Caribbean" }
+  - { lat: 36.107, lng: -112.113, label: "Grand Canyon", type: "nature", note: "World Heritage canyon in Arizona" }
+  - { lat: 40.689, lng: -74.044, label: "Statue of Liberty", type: "landmark", note: "Iconic World Heritage monument in New York Harbor" }
+  - { lat: 38.898, lng: -77.037, label: "White House", type: "landmark", note: "Official residence of the president" }
+features:
+  - text: 'A nation made up of 50 states and one federal district, with the world''s largest <span class="quiz">GDP</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+  - text: 'Its territory consists of the central part of North America plus the exclaves of <span class="quiz">Alaska</span> and Hawaii'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

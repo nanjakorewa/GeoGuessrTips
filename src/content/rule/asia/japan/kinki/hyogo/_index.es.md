@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Hyogo.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.690, lng: 135.196, label: "Estación de Kobe Sannomiya", type: "capital", note: "Capital de la Prefectura de Hyogo" }
+  - { lat: 34.681, lng: 135.183, label: "Puerto de Kobe", type: "port", note: "Puerto comercial internacional" }
+  - { lat: 34.840, lng: 134.694, label: "Castillo de Himeji", type: "historical", note: "Castillo de la Garza Blanca y Patrimonio de la Humanidad" }
+  - { lat: 34.616, lng: 135.020, label: "Puente Akashi Kaikyo", type: "landmark", note: "Puente del enlace Honshu-Shikoku" }
+  - { lat: 35.625, lng: 134.804, label: "Aguas termales de Kinosaki", type: "nature", note: "Termas célebres de Tajima" }
+  - { lat: 34.355, lng: 134.804, label: "Isla de Awaji", type: "nature", note: "Isla más grande del mar Interior de Seto" }
+features:
+  - text: 'El puerto de Kobe es uno de los principales puertos comerciales internacionales de Japón y la <span class="quiz">carne de Kobe</span> es una marca wagyu reconocida mundialmente'
+    ref: "https://ja.wikipedia.org/wiki/神戸ビーフ"
+  - text: 'La región de Harima concentra <span class="quiz">industria siderúrgica y química pesada</span>, y el castillo de Himeji está inscrito como Patrimonio de la Humanidad'
+    ref: "https://ja.wikipedia.org/wiki/兵庫県#工業"
 ---
 
 

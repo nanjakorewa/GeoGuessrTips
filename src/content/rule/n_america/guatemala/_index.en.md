@@ -16,6 +16,20 @@ sc_title: "Commonly Confused Locations"
 sc: [
     ["../../asia/laos/", "Laos"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 14.634, lng: -90.506, label: "Guatemala City", type: "capital", note: "Capital and the largest city in Central America" }
+  - { lat: 14.557, lng: -90.733, label: "Antigua", type: "historical", note: "Former capital and World Heritage colonial city" }
+  - { lat: 14.836, lng: -91.518, label: "Quetzaltenango", type: "city", note: "Second-largest city in the western highlands" }
+  - { lat: 17.222, lng: -89.624, label: "Tikal", type: "landmark", note: "Major Mayan ruins in the Peten region, a World Heritage Site" }
+  - { lat: 14.692, lng: -91.202, label: "Lake Atitlan", type: "nature", note: "Scenic highland lake surrounded by volcanoes" }
+  - { lat: 15.471, lng: -89.348, label: "Rio Dulce", type: "nature", note: "Caribbean coast canyon and waterway" }
+  - { lat: 14.473, lng: -90.880, label: "Volcan de Fuego", type: "nature", note: "Highly active volcano at 3,763 m" }
+features:
+  - text: 'A heartland of the <span class="quiz">Maya civilization</span>, with ruins such as Tikal'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9"
+  - text: 'The most populous Central American country; <span class="quiz">indigenous Maya people</span> make up about 40% of the population'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9#%E4%BD%8F%E6%B0%91"
 ---
 
 <div class="main-desciption country-description">

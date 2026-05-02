@@ -16,6 +16,22 @@ sc_title: "Wilayah yang Mudah Tertukar"
 sc: [
     ["../india/", "India"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.684, lng: 73.048, label: "Islamabad", type: "capital", note: "Ibu kota Pakistan, kota terencana" }
+  - { lat: 24.861, lng: 67.010, label: "Karachi", type: "port", note: "Kota terbesar di negara, pelabuhan utama" }
+  - { lat: 31.582, lng: 74.329, label: "Lahore", type: "city", note: "Pusat budaya di timur" }
+  - { lat: 34.015, lng: 71.524, label: "Peshawar", type: "city", note: "Kota utama di barat laut, pusat strategis bersejarah" }
+  - { lat: 35.881, lng: 76.515, label: "K2", type: "nature", note: "Puncak tertinggi kedua di dunia (8.611 m)" }
+  - { lat: 35.000, lng: 75.000, label: "Pegunungan Karakoram", type: "nature", note: "Pegunungan besar di utara, gugusan puncak tertinggi di dunia" }
+  - { lat: 31.460, lng: 73.135, label: "Faisalabad", type: "city", note: "Kota industri di Provinsi Punjab" }
+features:
+  - text: 'Nama negara berarti "tanah suci" dan agama negara adalah <span class="quiz">Islam</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+  - text: '<span class="quiz">Karakoram Highway</span> dikenal sebagai jalan beraspal internasional yang melintasi titik tertinggi di dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%AB%E3%83%A0%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

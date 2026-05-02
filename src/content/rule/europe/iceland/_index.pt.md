@@ -17,6 +17,20 @@ sc_title: "Regiões semelhantes"
 sc: [
     ["../faroe_islands/", "Ilhas Faroé"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 64.146, lng: -21.942, label: "Reiquiavique", type: "capital", note: "Capital e capital mais setentrional do mundo" }
+  - { lat: 65.683, lng: -18.111, label: "Akureyri", type: "city", note: "Principal cidade do norte" }
+  - { lat: 63.830, lng: -20.260, label: "Selfoss", type: "city", note: "Principal cidade do sul" }
+  - { lat: 64.255, lng: -21.124, label: "Þingvellir", type: "nature", note: "Limite tectônico, Patrimônio Mundial" }
+  - { lat: 64.327, lng: -20.121, label: "Geysir", type: "nature", note: "Área geotérmica famosa pelo gêiser" }
+  - { lat: 64.014, lng: -19.991, label: "Gullfoss", type: "nature", note: "Cascata Dourada" }
+  - { lat: 63.430, lng: -19.066, label: "Eyjafjallajökull", type: "nature", note: "Vulcão glaciar que entrou em erupção em 2010" }
+features:
+  - text: 'País-ilha onde coexistem <span class="quiz">vulcões</span> e <span class="quiz">geleiras</span>; cerca de 11% do território é coberto por gelo e há mais de 30 vulcões ativos'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89"
+  - text: 'O <span class="quiz">Althing</span>, considerado o <span class="quiz">parlamento</span> mais antigo do mundo, foi fundado em 930, e a energia geotérmica supre a maior parte da eletricidade do país'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3%E3%82%B0"
 ---
 
 <div class="main-desciption country-description">

@@ -24,6 +24,20 @@ sc: [
     ["../../asia/indonesia/", "Indonesia"],
     ["../../asia/thai/", "Tailandia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -15.794, lng: -47.882, label: "Brasilia", type: "capital", note: "Capital planificada, ciudad de arquitectura moderna Patrimonio Mundial" }
+  - { lat: -23.550, lng: -46.633, label: "São Paulo", type: "city", note: "Mayor ciudad de Sudamérica, centro económico" }
+  - { lat: -22.907, lng: -43.172, label: "Río de Janeiro", type: "city", note: "Antigua capital, famosa por su carnaval y playas" }
+  - { lat: -3.119, lng: -60.022, label: "Manaos", type: "city", note: "Ciudad central del medio Amazonas" }
+  - { lat: -8.054, lng: -34.881, label: "Recife", type: "city", note: "Ciudad portuaria del nordeste, la Venecia de Brasil" }
+  - { lat: -25.687, lng: -54.444, label: "Cataratas del Iguazú", type: "landmark", note: "Una de las mayores cataratas del mundo, en la frontera con Argentina" }
+  - { lat: -22.952, lng: -43.211, label: "Cristo Redentor", type: "landmark", note: "Estatua emblemática en el cerro del Corcovado" }
+features:
+  - text: 'Mayor superficie y población de Sudamérica; el único país de la región con el <span class="quiz">portugués</span> como idioma oficial'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+  - text: 'Cerca del 60% del territorio lo ocupa la <span class="quiz">selva amazónica</span>, con la mayor biodiversidad del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E7%86%B1%E5%B8%AF%E9%9B%A8%E6%9E%97"
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,19 @@ sc: [
     ["../finland/", "Finlandia"],
     ["../../n_america/saint-pierre-miquelon/", "Saint-Pierre y Miquelón"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 60.097, lng: 19.935, label: "Mariehamn", type: "capital", note: "Capital, mayor ciudad del archipiélago" }
+  - { lat: 60.232, lng: 20.026, label: "Jomala", type: "city", note: "Municipio del centro de la isla principal" }
+  - { lat: 60.220, lng: 20.395, label: "Sund", type: "city", note: "Ruinas del castillo de Kastelholm en el este de la isla principal" }
+  - { lat: 60.255, lng: 19.512, label: "Eckerö", type: "city", note: "Isla del extremo oeste, histórica ruta del barco postal" }
+  - { lat: 60.235, lng: 20.421, label: "Castillo de Kastelholm", type: "historical", note: "Ruinas de un castillo medieval" }
+  - { lat: 60.183, lng: 20.633, label: "Kökar", type: "nature", note: "Paisaje natural del archipiélago oriental" }
+features:
+  - text: 'A pesar de ser una <span class="quiz">región autónoma</span> de Finlandia, su único idioma oficial es el <span class="quiz">sueco</span>, una situación singular'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
+  - text: 'Reconocido internacionalmente como zona desmilitarizada; archipiélago de unas 6.700 islas en el <span class="quiz">mar Báltico</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

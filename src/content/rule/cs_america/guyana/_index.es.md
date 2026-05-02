@@ -11,6 +11,19 @@ flag: "GY.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.802, lng: -58.167, label: "Georgetown", type: "capital", note: "Capital, ciudad portuaria en la costa atlántica" }
+  - { lat: 6.404, lng: -58.625, label: "Linden", type: "city", note: "Centro de la minería de bauxita" }
+  - { lat: 6.000, lng: -57.520, label: "New Amsterdam", type: "city", note: "Ciudad principal del este" }
+  - { lat: 5.012, lng: -59.283, label: "Cataratas del Kaieteur", type: "landmark", note: "Una de las mayores cascadas de salto único, 226 m" }
+  - { lat: 4.000, lng: -58.500, label: "Selva de Iwokrama", type: "nature", note: "Gran reserva de selva tropical en el centro del país" }
+  - { lat: 7.747, lng: -59.214, label: "Mabaruma", type: "city", note: "Pequeña localidad del noroeste, asentamiento indígena" }
+features:
+  - text: 'Único país sudamericano cuyo idioma oficial es el <span class="quiz">inglés</span>; antigua colonia británica'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%A4%E3%82%A2%E3%83%8A"
+  - text: 'Cuenta con las <span class="quiz">cataratas del Kaieteur</span>, una de las mayores caídas de agua de salto único del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%82%A8%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB%E6%BB%9D"
 ---
 
 <div class="main-desciption country-description">

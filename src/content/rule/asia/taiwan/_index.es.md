@@ -23,6 +23,15 @@ map_title: "Páginas relacionadas"
 maps: [
     ["https://donation.yahoo.co.jp/promo/20240403.html", "Fondo de emergencia para el terremoto de Taiwán"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 25.033, lng: 121.565, label: "Taipéi", type: "capital", note: "Capital de la República de China, centro político y económico" }
+  - { lat: 22.633, lng: 120.273, label: "Kaohsiung", type: "port", note: "Mayor ciudad portuaria del sur" }
+  - { lat: 24.147, lng: 120.674, label: "Taichung", type: "city", note: "Ciudad principal del centro" }
+  - { lat: 22.997, lng: 120.227, label: "Tainan", type: "historical", note: "Antigua capital y ciudad más vieja de Taiwán" }
+  - { lat: 25.034, lng: 121.564, label: "Taipéi 101", type: "landmark", note: "Edificio emblemático de 508 m de altura, antiguo récord mundial" }
+  - { lat: 23.872, lng: 121.546, label: "Garganta de Taroko", type: "nature", note: "Cañón de mármol en Hualien, parque nacional" }
+  - { lat: 23.466, lng: 120.957, label: "Alishan", type: "nature", note: "Paraje de montaña en la Cordillera Central, famoso por sus amaneceres" }
 ---
 
 <div class="main-desciption country-description">

@@ -28,6 +28,22 @@ products:
   - title: "レオビール 330ml×24本"
     url: https://amzn.to/3HaNFra
     description: "Aunque es una cerveza tailandesa, también está muy distribuida en Camboya y se ve a menudo en los puestos callejeros."
+mapProvider: "osm"
+mapPins:
+  - { lat: 11.562, lng: 104.916, label: "プノンペン", type: "capital", note: "カンボジアの首都・最大都市" }
+  - { lat: 13.412, lng: 103.864, label: "シェムリアップ", type: "city", note: "アンコール遺跡群への玄関口" }
+  - { lat: 13.412, lng: 103.866, label: "アンコールワット", type: "landmark", note: "世界遺産・クメール建築の傑作" }
+  - { lat: 10.609, lng: 103.522, label: "シハヌークビル", type: "port", note: "南部の港湾都市・主要リゾート地" }
+  - { lat: 13.094, lng: 103.197, label: "バッタンバン", type: "city", note: "西部の主要都市・米作地帯の中心" }
+  - { lat: 12.929, lng: 104.087, label: "トンレサップ湖", type: "nature", note: "東南アジア最大の湖" }
+  - { lat: 12.250, lng: 104.500, label: "メコン川", type: "nature", note: "国土中央を流れる東南アジア最大の河川" }
+features:
+  - text: '<span class="quiz">アンコール・ワット</span>を含むアンコール遺跡群が世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%AF%E3%83%83%E3%83%88"
+  - text: '国土の中央を<span class="quiz">メコン川</span>が流れ<span class="quiz">トンレサップ湖</span>は東南アジア最大の湖である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%AC%E3%82%B5%E3%83%83%E3%83%97%E6%B9%96"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

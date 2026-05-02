@@ -624,7 +624,7 @@ const lastmodDisplay = modifiedTime
           {data.features && data.features.length > 0 && (
             <div class="rule-hero-features">
               <div class="rule-hero-features__title">
-                {data.is_pref ? "県の特徴" : t("country-features", lang)}
+                {data.is_pref ? t("prefecture-features", lang) : t("country-features", lang)}
               </div>
               <ul class="rule-hero-features__list">
                 {data.features.map((f: { text: string; ref?: string }) => (

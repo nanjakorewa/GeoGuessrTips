@@ -18,6 +18,18 @@ sc: [
     ["../jordan/", "Yordania"],
     ["../../asia/india/", "India"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.888, lng: 35.495, label: "Beirut", type: "capital", note: "Ibu kota, kota pusat di pesisir Mediterania" }
+  - { lat: 33.562, lng: 35.372, label: "Sidon", type: "port", note: "Kota pelabuhan bersejarah di selatan" }
+  - { lat: 33.271, lng: 35.214, label: "Tirus", type: "historical", note: "Kota pelabuhan Fenisia kuno, warisan dunia" }
+  - { lat: 34.436, lng: 35.844, label: "Tripoli", type: "city", note: "Kota terbesar di utara, kota pelabuhan" }
+  - { lat: 34.007, lng: 36.204, label: "Baalbek", type: "historical", note: "Reruntuhan kuil era Romawi, warisan dunia" }
+  - { lat: 34.247, lng: 36.066, label: "Lembah Qadisha", type: "nature", note: "Lembah suci pohon cedar Lebanon, warisan dunia" }
+  - { lat: 34.121, lng: 35.652, label: "Jbeil (Byblos)", type: "historical", note: "Salah satu kota terus-menerus dihuni tertua di dunia" }
+features:
+  - text: 'Pohon <span class="quiz">cedar Lebanon</span> yang digambarkan di tengah bendera adalah simbol negara'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%90%E3%83%8E%E3%83%B3%E6%9D%89"
 ---
 
 <div class="main-desciption country-description">

@@ -19,6 +19,20 @@ sc: [
     ["../croatia/", "croatia mediterranean side"],
     ["../../middle_east/turkey/", "Along the west coast of Türkiye"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 37.984, lng: 23.728, label: "アテネ", type: "capital", note: "首都・古代ギリシャの中心" }
+  - { lat: 40.640, lng: 22.944, label: "テッサロニキ", type: "city", note: "第二の都市・北部の中心" }
+  - { lat: 37.977, lng: 23.726, label: "アクロポリス", type: "landmark", note: "パルテノン神殿で知られる世界遺産" }
+  - { lat: 36.394, lng: 25.464, label: "サントリーニ島", type: "landmark", note: "白壁と青屋根の景観" }
+  - { lat: 35.339, lng: 25.144, label: "ヘラクリオン", type: "city", note: "クレタ島の中心都市" }
+  - { lat: 38.482, lng: 22.501, label: "デルフィ", type: "historical", note: "古代の聖地・世界遺産" }
+  - { lat: 39.713, lng: 21.628, label: "メテオラ", type: "landmark", note: "奇岩上の修道院群・世界遺産" }
+features:
+  - text: '西洋文明の発祥地であり、<span class="quiz">民主主義</span>・<span class="quiz">哲学</span>・オリンピックの起源となった古代ギリシャの歴史を持つ'
+    ref: "https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BB%A3%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2"
+  - text: '約<span class="quiz">6,000</span>の島々を持ち、<span class="quiz">サントリーニ島</span>やミコノス島など白壁と青い屋根の景観で知られるエーゲ海の島々が有名'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%8B%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

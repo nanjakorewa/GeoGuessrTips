@@ -13,6 +13,21 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.555, lng: 69.207, label: "Cabul", type: "capital", note: "Capital e maior cidade do Afeganistão" }
+  - { lat: 31.610, lng: 65.710, label: "Candaar", type: "city", note: "Principal cidade do sul, centro histórico" }
+  - { lat: 34.342, lng: 62.204, label: "Herat", type: "city", note: "Cidade cultural do oeste, ponto-chave da Rota da Seda" }
+  - { lat: 36.728, lng: 67.110, label: "Mazar-e Sharif", type: "city", note: "Principal cidade do norte, conhecida por seu santuário" }
+  - { lat: 34.800, lng: 67.825, label: "Bamiyan", type: "historical", note: "Patrimônio Mundial conhecido pelos Budas destruídos" }
+  - { lat: 36.500, lng: 71.500, label: "Hindu Kush", type: "nature", note: "Cordilheira que atravessa o país, cume mais alto a 7.492 m" }
+features:
+  - text: 'Os idiomas oficiais são o <span class="quiz">dari</span> e o <span class="quiz">pashto</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3"
+  - text: 'A capital é <span class="quiz">Cabul</span>, que também é a maior cidade do país'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%96%E3%83%AB"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

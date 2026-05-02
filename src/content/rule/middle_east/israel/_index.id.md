@@ -14,6 +14,15 @@ sc_title: "Halaman terkait"
 sc: [
     ["../palestine/", "Tepi Barat"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.768, lng: 35.214, label: "Yerusalem", type: "capital", note: "Ibu kota, kota suci tiga agama besar" }
+  - { lat: 32.085, lng: 34.781, label: "Tel Aviv", type: "city", note: "Pusat ekonomi, di pesisir Mediterania" }
+  - { lat: 32.794, lng: 34.989, label: "Haifa", type: "port", note: "Kota pelabuhan utama di utara" }
+  - { lat: 31.252, lng: 34.791, label: "Beersheba", type: "city", note: "Kota pusat di Gurun Negev" }
+  - { lat: 29.553, lng: 34.951, label: "Eilat", type: "city", note: "Kota wisata yang menghadap Laut Merah" }
+  - { lat: 31.500, lng: 35.500, label: "Laut Mati", type: "nature", note: "Danau terendah di dunia, sekitar 430 m di bawah permukaan laut" }
+  - { lat: 32.708, lng: 35.317, label: "Danau Galilea", type: "nature", note: "Danau air tawar terbesar di Israel" }
 ---
 
 <div class="main-desciption country-description">

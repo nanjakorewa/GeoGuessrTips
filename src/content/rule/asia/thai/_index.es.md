@@ -30,6 +30,22 @@ products:
   - title: "Curry verde tailandés Roi 250ml"
     url: https://amzn.to/4dIlJHd
     description: "Sofría los ingredientes, agregue esto y cocine a fuego lento un rato para hacer un buen curry verde (creo que se vende en algunas tiendas Kaldi, pero no pude encontrar ninguna cerca de mí).Algunas reseñas dicen que es demasiado indulgente, pero no creo que sea así."
+mapProvider: "osm"
+mapPins:
+  - { lat: 13.756, lng: 100.502, label: "Bangkok", type: "capital", note: "Capital del Reino de Tailandia y gran metrópoli del Sudeste Asiático" }
+  - { lat: 13.751, lng: 100.493, label: "Wat Pho", type: "landmark", note: "Templo famoso por su enorme buda reclinado" }
+  - { lat: 18.788, lng: 98.985, label: "Chiang Mai", type: "city", note: "Mayor ciudad del norte, antigua capital del reino Lan Na" }
+  - { lat: 7.880, lng: 98.398, label: "Phuket", type: "nature", note: "Principal isla turística del sur" }
+  - { lat: 14.353, lng: 100.569, label: "Ayutthaya", type: "historical", note: "Patrimonio Mundial, antigua capital" }
+  - { lat: 12.923, lng: 100.882, label: "Pattaya", type: "city", note: "Ciudad turística de playa" }
+  - { lat: 17.992, lng: 99.806, label: "Lampang", type: "city", note: "Histórica ciudad del norte" }
+features:
+  - text: 'Es conocido como el único país del Sudeste Asiático que nunca fue <span class="quiz">colonizado</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD"
+  - text: 'País budista con cerca de <span class="quiz">40 000</span> templos budistas repartidos por su territorio'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD#%E5%AE%97%E6%95%99"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,19 @@ sc_title: "Wilayah yang Mudah Tertukar"
 sc: [
     ["../../europe/greece/", "Yunani"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.591, lng: 32.988, label: "Pangkalan Akrotiri", type: "landmark", note: "Pangkalan kedaulatan barat, terdapat pangkalan Angkatan Udara" }
+  - { lat: 34.988, lng: 33.745, label: "Pangkalan Dhekelia", type: "landmark", note: "Pangkalan kedaulatan timur, garnisun Angkatan Darat" }
+  - { lat: 34.628, lng: 32.916, label: "Desa Akrotiri", type: "city", note: "Permukiman di dalam Pangkalan Akrotiri" }
+  - { lat: 34.978, lng: 33.768, label: "Xylotymvou", type: "city", note: "Desa di dalam Pangkalan Dhekelia" }
+  - { lat: 34.601, lng: 33.040, label: "Danau Garam Akrotiri", type: "nature", note: "Dikenal sebagai tempat bermigrasi flamingo" }
+  - { lat: 34.707, lng: 33.022, label: "Limassol", type: "city", note: "Kota Siprus tetangga" }
+features:
+  - text: 'Wilayah pangkalan militer luar negeri <span class="quiz">Inggris</span> di Pulau Siprus'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%86%E3%82%A3%E3%83%AA%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%82%B1%E3%83%AA%E3%82%A2"
+  - text: 'Terdiri dari dua pangkalan, yaitu <span class="quiz">Akrotiri</span> dan <span class="quiz">Dhekelia</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%86%E3%82%A3%E3%83%AA%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%82%B1%E3%83%AA%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

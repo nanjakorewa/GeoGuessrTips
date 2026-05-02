@@ -18,6 +18,21 @@ sc: [
     ["../india/", "Wilayah dengan curah hujan tinggi di daratan utama India"],
     ["../lakshadweep/", "Lakshadweep"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 11.624, lng: 92.726, label: "Port Blair", type: "capital", note: "Kota utama Kepulauan Andaman dan Nicobar" }
+  - { lat: 13.255, lng: 93.022, label: "Saddle Peak", type: "nature", note: "Puncak tertinggi kepulauan (sekitar 732 m)" }
+  - { lat: 11.553, lng: 92.616, label: "Pulau Havelock", type: "nature", note: "Tujuan wisata terkenal dengan pantai yang indah" }
+  - { lat: 11.659, lng: 92.748, label: "Ross Island", type: "historical", note: "Pulau dengan reruntuhan bekas koloni Inggris" }
+  - { lat: 12.523, lng: 92.928, label: "Rangat", type: "city", note: "Kota utama di wilayah Andaman Tengah" }
+  - { lat: 11.450, lng: 92.700, label: "Pulau Andaman Kecil", type: "nature", note: "Pulau di selatan, tempat tinggal masyarakat adat" }
+features:
+  - text: '<span class="quiz">Teluk Benggala</span> menjadi lokasi wilayah persatuan India ini yang terdiri dari sekitar 570 pulau'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%8B%E3%82%B3%E3%83%90%E3%83%AB%E8%AB%B8%E5%B3%B6"
+  - text: 'Suku asli <span class="quiz">Sentinel</span> adalah salah satu suku langka di dunia yang menolak kontak dengan dunia luar'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%8D%E3%83%AB%E6%97%8F"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

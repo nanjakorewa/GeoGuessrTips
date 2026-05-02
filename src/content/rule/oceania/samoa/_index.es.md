@@ -19,6 +19,19 @@ sc: [
     ["../guam/", "Guam"],
     ["../northern_mariana_islands/", "Islas Marianas del Norte"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -14.275, lng: -170.702, label: "パゴパゴ", type: "capital", note: "首都・トゥトゥイラ島の主要港" }
+  - { lat: -14.331, lng: -170.711, label: "タフナ", type: "city", note: "国際空港のある主要集落" }
+  - { lat: -14.255, lng: -170.689, label: "ファガトゴ", type: "city", note: "事実上の行政中心地" }
+  - { lat: -14.180, lng: -169.668, label: "オフ島", type: "nature", note: "マヌア諸島の自然豊かな島" }
+  - { lat: -14.215, lng: -169.475, label: "タウ島", type: "nature", note: "マヌア諸島最大の島" }
+  - { lat: -14.282, lng: -170.682, label: "ナショナルパーク・オブ・アメリカン・サモア", type: "nature", note: "熱帯雨林とサンゴ礁の国立公園" }
+features:
+  - text: 'アメリカ合衆国唯一の<span class="quiz">南半球</span>に位置する領土である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%82%B5%E3%83%A2%E3%82%A2"
+  - text: '<span class="quiz">ポリネシア</span>文化が色濃く残り伝統的な村落共同体が維持されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%82%B5%E3%83%A2%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

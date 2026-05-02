@@ -18,6 +18,22 @@ sc: [
     ["../cambodia/", "Camboya"],
     ["../thai/", "Tailandia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 21.028, lng: 105.854, label: "Hanói", type: "capital", note: "Capital de Vietnam, ciudad principal del norte" }
+  - { lat: 10.823, lng: 106.630, label: "Ciudad Ho Chi Minh", type: "city", note: "Mayor ciudad del país y centro económico del sur" }
+  - { lat: 16.054, lng: 108.202, label: "Da Nang", type: "port", note: "Principal ciudad portuaria y turística del centro" }
+  - { lat: 16.469, lng: 107.591, label: "Hue", type: "historical", note: "Patrimonio Mundial: antigua capital de la dinastía Nguyễn" }
+  - { lat: 15.880, lng: 108.338, label: "Hoi An", type: "historical", note: "Patrimonio Mundial: antigua ciudad portuaria" }
+  - { lat: 20.911, lng: 107.183, label: "Bahía de Halong", type: "nature", note: "Patrimonio Mundial: paisaje de formaciones rocosas singulares" }
+  - { lat: 22.336, lng: 103.844, label: "Sapa", type: "nature", note: "Región montañosa del norte, famosa por sus terrazas de arroz" }
+features:
+  - text: 'País largo y estrecho de norte a sur; la <span class="quiz">bahía de Halong</span> está inscrita como Patrimonio Mundial'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AD%E3%83%B3%E6%B9%BE"
+  - text: 'Es el segundo productor mundial de <span class="quiz">café</span> y el primero en producción de la variedad robusta'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

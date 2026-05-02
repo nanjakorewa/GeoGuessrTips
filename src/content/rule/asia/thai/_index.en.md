@@ -11,6 +11,22 @@ flag: "TH.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 13.756, lng: 100.502, label: "Bangkok", type: "capital", note: "Capital of Thailand and a major Southeast Asian metropolis" }
+  - { lat: 13.751, lng: 100.493, label: "Wat Pho", type: "landmark", note: "Temple famous for its giant reclining Buddha" }
+  - { lat: 18.788, lng: 98.985, label: "Chiang Mai", type: "city", note: "Largest city in the north; former capital of the Lan Na Kingdom" }
+  - { lat: 7.880, lng: 98.398, label: "Phuket", type: "nature", note: "Major resort island in the south" }
+  - { lat: 14.353, lng: 100.569, label: "Ayutthaya", type: "historical", note: "World Heritage former capital" }
+  - { lat: 12.923, lng: 100.882, label: "Pattaya", type: "city", note: "Tourist resort city" }
+  - { lat: 17.992, lng: 99.806, label: "Lampang", type: "city", note: "Historic city in the north" }
+features:
+  - text: 'Known as the only Southeast Asian country never <span class="quiz">colonized</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD"
+  - text: 'A Buddhist nation with about <span class="quiz">40,000</span> Buddhist temples'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD#%E5%AE%97%E6%95%99"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 

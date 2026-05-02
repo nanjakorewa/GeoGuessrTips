@@ -19,6 +19,20 @@ sc: [
     ["../oman/", "Omán"],
     ["../lebanon/", "Líbano"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 24.453, lng: 54.377, label: "Abu Dabi", type: "capital", note: "Capital y mayor emirato del país" }
+  - { lat: 25.276, lng: 55.296, label: "Dubái", type: "city", note: "Ciudad más grande y centro económico internacional" }
+  - { lat: 25.197, lng: 55.274, label: "Burj Khalifa", type: "landmark", note: "El edificio más alto del mundo (828 m)" }
+  - { lat: 25.347, lng: 55.380, label: "Sharjah", type: "city", note: "Ciudad cultural cercana a Dubái" }
+  - { lat: 25.789, lng: 55.943, label: "Ras al-Jaima", type: "city", note: "Emirato del norte y destino turístico" }
+  - { lat: 25.115, lng: 56.343, label: "Fuyaira", type: "port", note: "Ciudad portuaria de la costa oriental, frente al golfo de Omán" }
+  - { lat: 24.230, lng: 55.760, label: "Al Ain", type: "historical", note: "Ciudad oasis con sitios arqueológicos Patrimonio Mundial" }
+features:
+  - text: 'Está formado por siete emiratos y <span class="quiz">Dubái</span> es una de las principales ciudades comerciales y turísticas del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4"
+  - text: 'El rascacielos más alto del mundo, <span class="quiz">Burj Khalifa</span>, se encuentra en Dubái'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%95%E3%82%A1"
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,21 @@ sc_title: "Related Regions"
 sc: [
     ["../../africa/mauritius/", "Mauritius"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -7.313, lng: 72.411, label: "Diego Garcia", type: "landmark", note: "Strategic site hosting a US military base" }
+  - { lat: -5.367, lng: 71.833, label: "Peros Banhos Atoll", type: "nature", note: "Atoll group with extensive Street View coverage" }
+  - { lat: -6.250, lng: 71.250, label: "Salomon Islands Atoll", type: "nature", note: "Main atoll of the Chagos Archipelago" }
+  - { lat: -6.683, lng: 72.366, label: "Egmont Islands", type: "nature", note: "Small islands in the southwest" }
+  - { lat: -5.250, lng: 72.250, label: "Great Chagos Bank", type: "nature", note: "One of the world's largest coral reef structures" }
+  - { lat: -6.000, lng: 71.500, label: "Chagos Archipelago", type: "nature", note: "Atoll group in the central Indian Ocean" }
+features:
+  - text: 'Comprises atolls in roughly the center of the <span class="quiz">Indian Ocean</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6"
+  - text: 'A strategic location hosting the US military''s <span class="quiz">Diego Garcia Base</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A8%E3%82%B4%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2%E5%B3%B6"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

@@ -19,6 +19,20 @@ sc: [
     ["../brazil/", "Brasil"],
     ["../peru/", "Perú"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -34.604, lng: -58.382, label: "Buenos Aires", type: "capital", note: "Capital, ciudad cultural conocida como la París de Sudamérica" }
+  - { lat: -31.420, lng: -64.183, label: "Córdoba", type: "city", note: "Segunda ciudad de Argentina, ciudad universitaria" }
+  - { lat: -32.890, lng: -68.844, label: "Mendoza", type: "city", note: "Región vitivinícola al pie de los Andes" }
+  - { lat: -32.946, lng: -60.639, label: "Rosario", type: "city", note: "Importante ciudad portuaria a orillas del río Paraná" }
+  - { lat: -25.690, lng: -54.435, label: "Cataratas del Iguazú", type: "landmark", note: "Patrimonio Mundial en la frontera con Brasil, gran cascada" }
+  - { lat: -50.000, lng: -73.000, label: "Patagonia", type: "nature", note: "Región sur de glaciares y montañas" }
+  - { lat: -54.807, lng: -68.308, label: "Ushuaia", type: "city", note: "Una de las ciudades más australes del mundo" }
+features:
+  - text: 'Segunda mayor superficie de Sudamérica; en las grandes llanuras llamadas <span class="quiz">Pampa</span> abunda la ganadería'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
+  - text: 'Cuna del <span class="quiz">tango</span>; Buenos Aires es conocida como "la París de Sudamérica"'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%82%B4"
 ---
 
 <div class="main-desciption country-description">

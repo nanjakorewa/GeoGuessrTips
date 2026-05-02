@@ -14,6 +14,15 @@ sc_title: "Páginas relacionadas"
 sc: [
     ["../palestine/", "Cisjordania"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.768, lng: 35.214, label: "Jerusalén", type: "capital", note: "Capital y lugar sagrado de las tres grandes religiones" }
+  - { lat: 32.085, lng: 34.781, label: "Tel Aviv", type: "city", note: "Centro económico, en la costa mediterránea" }
+  - { lat: 32.794, lng: 34.989, label: "Haifa", type: "port", note: "Principal ciudad portuaria del norte" }
+  - { lat: 31.252, lng: 34.791, label: "Beerseba", type: "city", note: "Ciudad principal del desierto del Néguev" }
+  - { lat: 29.553, lng: 34.951, label: "Eilat", type: "city", note: "Ciudad turística junto al mar Rojo" }
+  - { lat: 31.500, lng: 35.500, label: "Mar Muerto", type: "nature", note: "Lago más bajo del mundo, unos 430 m bajo el nivel del mar" }
+  - { lat: 32.708, lng: 35.317, label: "Mar de Galilea", type: "nature", note: "Mayor lago de agua dulce de Israel" }
 ---
 
 <div class="main-desciption country-description">

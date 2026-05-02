@@ -17,6 +17,20 @@ sc: [
     ["../mannin/", "Isle of Man"],
     ["../malta/", "Malta"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 53.350, lng: -6.260, label: "ダブリン", type: "capital", note: "首都・ギネスビール発祥地" }
+  - { lat: 51.898, lng: -8.475, label: "コーク", type: "city", note: "南部の主要都市" }
+  - { lat: 52.668, lng: -8.630, label: "リムリック", type: "city", note: "シャノン川沿いの歴史都市" }
+  - { lat: 53.272, lng: -9.050, label: "ゴールウェイ", type: "city", note: "西海岸の文化都市" }
+  - { lat: 52.993, lng: -9.428, label: "モハーの断崖", type: "nature", note: "大西洋の絶壁・観光名所" }
+  - { lat: 51.770, lng: -10.541, label: "リング・オブ・ケリー", type: "nature", note: "南西部の景勝ドライブルート" }
+  - { lat: 53.391, lng: -6.392, label: "フェニックス公園", type: "nature", note: "欧州最大級の都市公園" }
+features:
+  - text: '「<span class="quiz">エメラルドの島</span>」と呼ばれる緑豊かな国で、<span class="quiz">ギネスビール</span>発祥の地として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8D%E3%82%B9_(%E3%83%93%E3%83%BC%E3%83%AB)"
+  - text: '<span class="quiz">ケルト文化</span>の中心地であり、アイルランド語（<span class="quiz">ゲール語</span>）と英語の二言語が公用語となっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

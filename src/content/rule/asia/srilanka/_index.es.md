@@ -19,6 +19,20 @@ sc: [
     ["../india/", "India"],
     ["../thai/", "Tailandia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.927, lng: 79.861, label: "Colombo", type: "capital", note: "Mayor ciudad de Sri Lanka, centro comercial" }
+  - { lat: 6.911, lng: 79.886, label: "Sri Jayawardenapura Kotte", type: "capital", note: "Capital oficial" }
+  - { lat: 7.290, lng: 80.633, label: "Kandy", type: "historical", note: "Patrimonio Mundial, antigua capital, célebre por el Templo del Diente" }
+  - { lat: 6.054, lng: 80.221, label: "Galle", type: "historical", note: "Patrimonio Mundial: ciudad fortificada" }
+  - { lat: 7.957, lng: 80.760, label: "Sigiriya", type: "landmark", note: "Patrimonio Mundial: ruinas de palacio sobre una roca" }
+  - { lat: 6.949, lng: 80.789, label: "Nuwara Eliya", type: "city", note: "Centro turístico de altura, famoso por su té" }
+  - { lat: 9.661, lng: 80.025, label: "Jaffna", type: "city", note: "Mayor ciudad del norte y centro de la cultura tamil" }
+features:
+  - text: 'Famoso productor de <span class="quiz">té de Ceilán</span>, figura entre los principales exportadores de té del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%AD%E3%83%B3%E8%8C%B6"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

@@ -16,6 +16,19 @@ sc: [
     ["../spain/", "España"],
     ["../italy/", "Oeste de Italia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 42.506, lng: 1.522, label: "Andorra la Vella", type: "capital", note: "Capital, la capital más alta de Europa" }
+  - { lat: 42.546, lng: 1.586, label: "Escaldes-Engordany", type: "city", note: "Ciudad conocida por sus aguas termales" }
+  - { lat: 42.539, lng: 1.737, label: "Canillo", type: "city", note: "Parroquia de montaña en el este" }
+  - { lat: 42.567, lng: 1.678, label: "Encamp", type: "city", note: "Asentamiento en los Pirineos" }
+  - { lat: 42.578, lng: 1.658, label: "Grau Roig", type: "nature", note: "Estación de esquí" }
+  - { lat: 42.476, lng: 1.491, label: "Sant Julià de Lòria", type: "city", note: "Mayor parroquia del sur" }
+features:
+  - text: 'Pequeño país en los <span class="quiz">Pirineos</span>; cogobierno entre el presidente de Francia y el <span class="quiz">obispo de Urgel</span> de España'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9"
+  - text: 'Sin IVA y conocido por su comercio <span class="quiz">libre de impuestos</span>; las <span class="quiz">estaciones de esquí</span> son su principal industria turística'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9"
 ---
 
 <div class="main-desciption country-description">

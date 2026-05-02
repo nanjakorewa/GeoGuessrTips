@@ -106,6 +106,13 @@ export const translations: Record<string, Record<Language, string>> = {
     es: "Características del país / región",
     pt: "Características do país / região",
   },
+  "prefecture-features": {
+    ja: "県の特徴",
+    en: "Prefecture Features",
+    id: "Karakteristik Prefektur",
+    es: "Características de la prefectura",
+    pt: "Características da província",
+  },
   "rel-site": {
     ja: "参考ページ",
     en: "Reference Pages",

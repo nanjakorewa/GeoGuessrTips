@@ -8,6 +8,15 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 flag: "JP.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 43.069, lng: 141.351, label: "札幌駅", type: "city", note: "北海道の中心都市" }
+  - { lat: 40.829, lng: 140.741, label: "青森駅", type: "city", note: "青森県の県庁所在地" }
+  - { lat: 39.702, lng: 141.137, label: "盛岡駅", type: "city", note: "岩手県の県庁所在地" }
+  - { lat: 39.720, lng: 140.103, label: "秋田駅", type: "city", note: "秋田県の県庁所在地" }
+  - { lat: 38.260, lng: 140.882, label: "仙台駅", type: "city", note: "宮城県の県庁所在地・東北最大都市" }
+  - { lat: 38.241, lng: 140.364, label: "山形駅", type: "city", note: "山形県の県庁所在地" }
+  - { lat: 37.754, lng: 140.459, label: "福島駅", type: "city", note: "福島県の県庁所在地" }
 ---
 
 

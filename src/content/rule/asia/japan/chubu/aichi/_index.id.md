@@ -9,6 +9,19 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Aichi.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.171, lng: 136.882, label: "Stasiun Nagoya", type: "capital", note: "Ibu kota Prefektur Aichi, kota terbesar di Chubu" }
+  - { lat: 35.185, lng: 136.900, label: "Kastil Nagoya", type: "historical", note: "Terkenal dengan kinshachi (lumba-lumba emas)" }
+  - { lat: 35.083, lng: 137.156, label: "Toyota", type: "city", note: "Kantor pusat Toyota Motor" }
+  - { lat: 35.224, lng: 137.087, label: "Seto", type: "city", note: "Pusat produksi keramik Seto" }
+  - { lat: 34.857, lng: 136.815, label: "Bandara Internasional Chubu", type: "landmark", note: "Centrair" }
+  - { lat: 35.388, lng: 136.939, label: "Kastil Inuyama", type: "historical", note: "Harta Nasional, menara utama asli" }
+features:
+  - text: 'Prefektur industri dengan nilai pengiriman manufaktur peringkat 1 nasional, berpusat di Toyota City tempat kantor pusat <span class="quiz">Toyota Motor</span> berada'
+    ref: "https://ja.wikipedia.org/wiki/愛知県#工業"
+  - text: 'Kota Nagoya adalah pusat <span class="quiz">kawasan Chukyo</span>, salah satu dari tiga kawasan metropolitan terbesar di Jepang'
+    ref: "https://ja.wikipedia.org/wiki/中京圏"
 ---
 
 <div class="main-desciption country-description">

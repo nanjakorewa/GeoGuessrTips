@@ -17,6 +17,19 @@ sc: [
     ["../liechtenstein/", "Liechtenstein"],
     ["../switzerland/", "Suiza"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 48.209, lng: 16.373, label: "Viena", type: "capital", note: "Capital, ciudad de la música" }
+  - { lat: 47.811, lng: 13.055, label: "Salzburgo", type: "city", note: "Ciudad natal de Mozart" }
+  - { lat: 47.270, lng: 11.404, label: "Innsbruck", type: "city", note: "Capital del Tirol, sede de los JJ. OO. de invierno" }
+  - { lat: 47.071, lng: 15.439, label: "Graz", type: "city", note: "Segunda ciudad de Austria" }
+  - { lat: 47.580, lng: 13.647, label: "Hallstatt", type: "landmark", note: "Pueblo a orillas del lago, Patrimonio Mundial" }
+  - { lat: 47.305, lng: 11.876, label: "Alpes", type: "nature", note: "Cordillera que ocupa el 62% del territorio" }
+features:
+  - text: 'Tiene como capital <span class="quiz">Viena</span>, ciudad de la música; gran país musical con compositores como <span class="quiz">Mozart</span> o Strauss'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B3"
+  - text: 'Cerca del 62% del territorio está cubierto por los <span class="quiz">Alpes</span>; sede de la <span class="quiz">Casa de Habsburgo</span> que reinó en Europa unos 640 años'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%97%E3%82%B9%E3%83%96%E3%83%AB%E3%82%AF%E5%AE%B6"
 ---
 
 <div class="main-desciption country-description">

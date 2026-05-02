@@ -13,6 +13,21 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 40.409, lng: 49.867, label: "Bacu", type: "capital", note: "Capital do Azerbaijão, cidade portuária no Mar Cáspio" }
+  - { lat: 40.685, lng: 46.361, label: "Ganja", type: "city", note: "Segunda maior cidade do país" }
+  - { lat: 40.589, lng: 49.668, label: "Sumgait", type: "city", note: "Cidade industrial na costa do Cáspio" }
+  - { lat: 41.198, lng: 47.170, label: "Sheki", type: "historical", note: "Ponto-chave da Rota da Seda, famoso pelo palácio do Khan" }
+  - { lat: 40.082, lng: 49.460, label: "Gobustan", type: "landmark", note: "Patrimônio Mundial famoso por suas pinturas rupestres" }
+  - { lat: 41.300, lng: 48.500, label: "Cordilheira do Cáucaso", type: "nature", note: "Grande cordilheira que atravessa a região fronteiriça" }
+features:
+  - text: 'Banhado pelo <span class="quiz">Mar Cáspio</span>, é um produtor de petróleo e gás natural'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BC%E3%83%AB%E3%83%90%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%B3"
+  - text: 'A capital <span class="quiz">Bacu</span> tem um centro histórico inscrito como Patrimônio Mundial'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AF%E3%83%BC"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

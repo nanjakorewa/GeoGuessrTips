@@ -23,6 +23,15 @@ map_title: "Halaman Terkait"
 maps: [
     ["https://donation.yahoo.co.jp/promo/20240403.html", "Dana Darurat untuk Gempa Bumi di Taiwan"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 25.033, lng: 121.565, label: "Taipei", type: "capital", note: "Ibu kota Republik Tiongkok, pusat politik dan ekonomi" }
+  - { lat: 22.633, lng: 120.273, label: "Kaohsiung", type: "port", note: "Kota pelabuhan terbesar di selatan" }
+  - { lat: 24.147, lng: 120.674, label: "Taichung", type: "city", note: "Kota utama di tengah" }
+  - { lat: 22.997, lng: 120.227, label: "Tainan", type: "historical", note: "Kota tua, kota tertua di Taiwan" }
+  - { lat: 25.034, lng: 121.564, label: "Taipei 101", type: "landmark", note: "Penanda kota setinggi 508 m, dahulu tertinggi di dunia" }
+  - { lat: 23.872, lng: 121.546, label: "Ngarai Taroko", type: "nature", note: "Ngarai marmer di Hualien, taman nasional" }
+  - { lat: 23.466, lng: 120.957, label: "Alishan", type: "nature", note: "Pegunungan indah di Pegunungan Tengah, terkenal dengan matahari terbit" }
 ---
 
 <div class="main-desciption country-description">

@@ -15,6 +15,19 @@ sc_title: "Regiões confundidas"
 sc: [
     ["../brazil/", "Brasil"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -25.264, lng: -57.575, label: "Assunção", type: "capital", note: "Capital e maior cidade, às margens do rio Paraguai" }
+  - { lat: -25.508, lng: -54.611, label: "Ciudad del Este", type: "city", note: "Cidade comercial na fronteira com o Brasil" }
+  - { lat: -25.341, lng: -57.514, label: "Luque", type: "city", note: "Cidade importante da região metropolitana da capital" }
+  - { lat: -27.333, lng: -55.867, label: "Encarnación", type: "city", note: "Cidade do sul, na fronteira com a Argentina" }
+  - { lat: -25.408, lng: -54.589, label: "Itaipu", type: "landmark", note: "Uma das maiores usinas hidrelétricas do mundo" }
+  - { lat: -27.327, lng: -55.541, label: "Ruínas Jesuíticas", type: "historical", note: "Patrimônio Mundial de La Santísima Trinidad" }
+features:
+  - text: '<span class="quiz">País sem saída para o mar</span> da América do Sul, tem como idiomas oficiais o espanhol e o <span class="quiz">guarani</span>, língua indígena'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B0%E3%82%A2%E3%82%A4"
+  - text: 'A <span class="quiz">Itaipu</span>, na fronteira com o Brasil, é uma das maiores usinas hidrelétricas do mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%97%E3%83%80%E3%83%A0"
 ---
 
 <div class="main-desciption country-description">

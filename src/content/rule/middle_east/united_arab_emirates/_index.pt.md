@@ -19,6 +19,20 @@ sc: [
     ["../oman/", "Omã"],
     ["../lebanon/", "Líbano"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 24.453, lng: 54.377, label: "Abu Dhabi", type: "capital", note: "Capital e maior emirado" }
+  - { lat: 25.276, lng: 55.296, label: "Dubai", type: "city", note: "Maior cidade do país e polo econômico internacional" }
+  - { lat: 25.197, lng: 55.274, label: "Burj Khalifa", type: "landmark", note: "Edifício mais alto do mundo (828 m)" }
+  - { lat: 25.347, lng: 55.380, label: "Sharjah", type: "city", note: "Cidade cultural próxima a Dubai" }
+  - { lat: 25.789, lng: 55.943, label: "Ras Al Khaimah", type: "city", note: "Emirado do norte e destino turístico" }
+  - { lat: 25.115, lng: 56.343, label: "Fujairah", type: "port", note: "Cidade portuária na costa leste, no Golfo de Omã" }
+  - { lat: 24.230, lng: 55.760, label: "Al Ain", type: "historical", note: "Cidade-oásis com sítios arqueológicos Patrimônio Mundial" }
+features:
+  - text: 'Composto por 7 emirados, sendo <span class="quiz">Dubai</span> uma das maiores cidades comerciais e turísticas do mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4"
+  - text: 'O arranha-céu mais alto do mundo, o <span class="quiz">Burj Khalifa</span>, fica em Dubai'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%95%E3%82%A1"
 ---
 
 <div class="main-desciption country-description">

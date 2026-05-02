@@ -16,6 +16,20 @@ sc: [
     ["../macau/", "Makau"],
     ["../malaysia/", "Malaysia"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 1.290, lng: 103.851, label: "Singapura", type: "capital", note: "Negara kota, pusat keuangan Asia Tenggara" }
+  - { lat: 1.287, lng: 103.854, label: "Marina Bay Sands", type: "landmark", note: "Hotel ikonik dengan tiga menara terhubung" }
+  - { lat: 1.286, lng: 103.854, label: "Merlion", type: "landmark", note: "Patung yang menjadi simbol Singapura" }
+  - { lat: 1.282, lng: 103.864, label: "Gardens by the Bay", type: "landmark", note: "Taman buatan raksasa" }
+  - { lat: 1.284, lng: 103.851, label: "Pulau Sentosa", type: "nature", note: "Pulau wisata di selatan" }
+  - { lat: 1.434, lng: 103.786, label: "Bandara Internasional Changi", type: "landmark", note: "Bandara internasional dengan peringkat tertinggi di dunia" }
+  - { lat: 1.305, lng: 103.832, label: "Orchard Road", type: "city", note: "Jalan utama untuk berbelanja" }
+features:
+  - text: 'Luas wilayah negara sekitar <span class="quiz">730 km persegi</span>, sebuah negara kota dengan luas hampir sama dengan 23 distrik Tokyo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

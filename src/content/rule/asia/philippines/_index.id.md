@@ -15,6 +15,22 @@ sc: [
     ["../indonesia/", "Indonesia"],
     ["../thai/", "Thailand"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 14.599, lng: 120.984, label: "Manila", type: "capital", note: "Ibu kota Filipina, kota terbesar di Pulau Luzon" }
+  - { lat: 14.676, lng: 121.044, label: "Quezon City", type: "city", note: "Kota terbesar di kawasan ibu kota" }
+  - { lat: 10.317, lng: 123.891, label: "Cebu", type: "city", note: "Kota terbesar di Kepulauan Visayas" }
+  - { lat: 7.073, lng: 125.613, label: "Davao", type: "city", note: "Kota utama di Pulau Mindanao" }
+  - { lat: 9.838, lng: 118.736, label: "Puerto Princesa", type: "nature", note: "Kota di Pulau Palawan, taman nasional sungai bawah tanah" }
+  - { lat: 16.412, lng: 120.594, label: "Baguio", type: "city", note: "Kota pegunungan di utara Pulau Luzon" }
+  - { lat: 13.257, lng: 123.685, label: "Gunung Mayon", type: "nature", note: "Gunung api aktif yang dikenal dengan bentuk kerucut sempurna" }
+features:
+  - text: 'Negara kepulauan di Asia Tenggara yang terdiri dari sekitar <span class="quiz">7.641</span> pulau'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3"
+  - text: 'Satu-satunya negara di Asia dengan mayoritas penduduk beragama <span class="quiz">Katolik</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3#%E5%AE%97%E6%95%99"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

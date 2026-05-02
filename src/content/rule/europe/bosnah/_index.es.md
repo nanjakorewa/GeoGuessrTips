@@ -18,6 +18,19 @@ sc: [
     ["../montenegro/", "Montenegro"],
     ["../bulgaria/", "Bulgaria"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 43.857, lng: 18.413, label: "Sarajevo", type: "capital", note: "Capital, sede de los JJ. OO. de invierno de 1984" }
+  - { lat: 44.773, lng: 17.191, label: "Banja Luka", type: "city", note: "Ciudad principal de la República Srpska" }
+  - { lat: 43.343, lng: 17.808, label: "Mostar", type: "historical", note: "Puente Stari Most, Patrimonio Mundial" }
+  - { lat: 44.538, lng: 18.667, label: "Tuzla", type: "city", note: "Ciudad principal del nordeste" }
+  - { lat: 44.201, lng: 17.911, label: "Zenica", type: "city", note: "Ciudad industrial del centro" }
+  - { lat: 43.262, lng: 17.679, label: "Počitelj", type: "historical", note: "Casco histórico de la época otomana" }
+features:
+  - text: 'Formada por dos entidades, la <span class="quiz">Federación de Bosnia y Herzegovina</span> y la <span class="quiz">República Srpska</span>; el régimen actual se estableció con los <span class="quiz">Acuerdos de Dayton</span> de 1995'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%88%E3%83%B3%E5%90%88%E6%84%8F"
+  - text: 'Su capital, <span class="quiz">Sarajevo</span>, fue sede de los JJ. OO. de invierno de 1984 y conserva la <span class="quiz">Baščaršija</span>, casco antiguo de la época otomana'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%82%A8%E3%83%9C"
 ---
 
 <div class="main-desciption country-description">

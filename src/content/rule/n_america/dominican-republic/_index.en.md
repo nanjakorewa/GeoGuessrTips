@@ -16,6 +16,19 @@ sc_title: "Easy-To-Mix-Up Areas"
 sc: [
     ["../puerto-rico/", "Puerto Rico"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 18.486, lng: -69.931, label: "Santo Domingo", type: "capital", note: "Capital and the oldest colonial city in the New World, a World Heritage Site" }
+  - { lat: 19.451, lng: -70.697, label: "Santiago de los Caballeros", type: "city", note: "Second-largest city in the north, center of the Cibao Valley" }
+  - { lat: 19.222, lng: -70.529, label: "La Vega", type: "city", note: "Central city famous for its carnival" }
+  - { lat: 18.667, lng: -68.450, label: "Punta Cana", type: "city", note: "Major resort area on the east coast" }
+  - { lat: 19.778, lng: -70.692, label: "Puerto Plata", type: "port", note: "Tourist port city on the north coast" }
+  - { lat: 19.020, lng: -71.000, label: "Pico Duarte", type: "nature", note: "The Caribbean's highest peak at 3,098 m" }
+features:
+  - text: 'Occupies the eastern two-thirds of the Caribbean island of <span class="quiz">Hispaniola</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+  - text: 'Major industries are <span class="quiz">tourism</span> and agriculture such as sugar and tobacco'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

@@ -10,6 +10,16 @@ bg: "bg/city.jpg"
 flag: "JP.svg"
 jetro_detail: true
 jogmec_detail: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 35.682, lng: 139.766, label: "Estación de Tokio", type: "capital", note: "Capital de Japón y mayor área metropolitana" }
+  - { lat: 34.702, lng: 135.495, label: "Estación de Osaka", type: "city", note: "Mayor ciudad económica del oeste de Japón" }
+  - { lat: 35.012, lng: 135.768, label: "Estación de Kioto", type: "historical", note: "Capital milenaria, ciudad de historia y cultura" }
+  - { lat: 43.069, lng: 141.351, label: "Estación de Sapporo", type: "city", note: "Ciudad principal de Hokkaidō" }
+  - { lat: 33.590, lng: 130.421, label: "Fukuoka (estación de Hakata)", type: "city", note: "Ciudad principal de Kyūshū y puerta de entrada hacia Asia" }
+  - { lat: 26.213, lng: 127.679, label: "Naha", type: "city", note: "Capital de la prefectura de Okinawa, ciudad subtropical" }
+  - { lat: 35.361, lng: 138.728, label: "Monte Fuji", type: "nature", note: "Pico más alto de Japón (3.776 m), Patrimonio Cultural Mundial" }
+  - { lat: 34.296, lng: 132.320, label: "Santuario de Itsukushima", type: "landmark", note: "Hiroshima: torii sobre el mar, Patrimonio Mundial" }
 ---
 
 <div class="main-desciption country-description">

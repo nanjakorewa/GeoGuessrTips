@@ -19,6 +19,20 @@ sc: [
     ["../india/", "India"],
     ["../thai/", "Thailand"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 6.927, lng: 79.861, label: "Colombo", type: "capital", note: "Kota terbesar di Sri Lanka, pusat perdagangan" }
+  - { lat: 6.911, lng: 79.886, label: "Sri Jayawardenepura Kotte", type: "capital", note: "Ibu kota resmi" }
+  - { lat: 7.290, lng: 80.633, label: "Kandy", type: "historical", note: "Warisan dunia, kota tua, terkenal dengan Kuil Gigi Buddha" }
+  - { lat: 6.054, lng: 80.221, label: "Galle", type: "historical", note: "Warisan dunia, kota berbenteng" }
+  - { lat: 7.957, lng: 80.760, label: "Sigiriya", type: "landmark", note: "Warisan dunia, reruntuhan istana di atas batu" }
+  - { lat: 6.949, lng: 80.789, label: "Nuwara Eliya", type: "city", note: "Tempat wisata pegunungan, daerah penghasil teh" }
+  - { lat: 9.661, lng: 80.025, label: "Jaffna", type: "city", note: "Kota terbesar di utara, pusat budaya Tamil" }
+features:
+  - text: 'Terkenal di dunia sebagai produsen <span class="quiz">teh Ceylon</span>, dan termasuk pengekspor teh terbesar di dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%AD%E3%83%B3%E8%8C%B6"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,19 @@ sc: [
     ["../../n_america/greenland/", "Groenlândia"],
     ["../norway/", "Noruega"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 78.222, lng: 15.640, label: "Longyearbyen", type: "capital", note: "Centro de fato e o assentamento mais setentrional do mundo" }
+  - { lat: 78.062, lng: 14.214, label: "Barentsburg", type: "city", note: "Vila mineira habitada por russos" }
+  - { lat: 78.918, lng: 11.928, label: "Ny-Ålesund", type: "city", note: "Polo internacional de pesquisa científica" }
+  - { lat: 78.236, lng: 15.491, label: "Reserva Mundial de Sementes", type: "landmark", note: "Instalação de preservação de sementes agrícolas do mundo" }
+  - { lat: 77.000, lng: 15.000, label: "Ilha Spitsbergen", type: "nature", note: "Maior ilha do arquipélago" }
+  - { lat: 78.250, lng: 15.500, label: "Habitat de ursos-polares", type: "nature", note: "A população de ursos supera a humana" }
+features:
+  - text: 'Arquipélago situado no Círculo Polar Ártico, território da <span class="quiz">Noruega</span>, onde a população de <span class="quiz">ursos-polares</span> supera a humana'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%AB%E3%83%90%E3%83%AB%E8%AB%B8%E5%B3%B6"
+  - text: 'Abriga a <span class="quiz">Reserva Mundial de Sementes de Svalbard</span>, que preserva sementes agrícolas do planeta, e <span class="quiz">Longyearbyen</span>, o assentamento mais setentrional'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%AB%E3%83%90%E3%83%AB%E4%B8%96%E7%95%8C%E7%A8%AE%E5%AD%90%E8%B2%AF%E8%94%B5%E5%BA%AB"
 ---
 
 <div class="main-desciption country-description">

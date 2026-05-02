@@ -19,6 +19,20 @@ sc: [
     ["../brazil/", "Brazil"],
     ["../peru/", "Peru"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -34.604, lng: -58.382, label: "Buenos Aires", type: "capital", note: "Capital and cultural city known as the Paris of South America" }
+  - { lat: -31.420, lng: -64.183, label: "Cordoba", type: "city", note: "Argentina's second-largest city and a university town" }
+  - { lat: -32.890, lng: -68.844, label: "Mendoza", type: "city", note: "Wine-producing region at the foot of the Andes" }
+  - { lat: -32.946, lng: -60.639, label: "Rosario", type: "city", note: "Major port city along the Parana River" }
+  - { lat: -25.690, lng: -54.435, label: "Iguazu Falls", type: "landmark", note: "World Heritage waterfall on the Brazilian border" }
+  - { lat: -50.000, lng: -73.000, label: "Patagonia", type: "nature", note: "Southern region of glaciers and mountains" }
+  - { lat: -54.807, lng: -68.308, label: "Ushuaia", type: "city", note: "One of the southernmost cities in the world" }
+features:
+  - text: 'The second-largest country in South America, with extensive cattle ranching on the grasslands known as the <span class="quiz">Pampas</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
+  - text: 'The birthplace of <span class="quiz">tango</span>, with Buenos Aires often called the "Paris of South America"'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%82%B4"
 ---
 
 <div class="main-desciption country-description">

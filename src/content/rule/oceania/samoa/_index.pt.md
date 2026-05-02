@@ -19,6 +19,19 @@ sc: [
     ["../guam/", "Guam"],
     ["../northern_mariana_islands/", "Ilhas Marianas do Norte"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -14.275, lng: -170.702, label: "Pago Pago", type: "capital", note: "Capital e principal porto da ilha de Tutuila" }
+  - { lat: -14.331, lng: -170.711, label: "Tafuna", type: "city", note: "Principal localidade onde fica o aeroporto internacional" }
+  - { lat: -14.255, lng: -170.689, label: "Fagatogo", type: "city", note: "Centro administrativo de fato" }
+  - { lat: -14.180, lng: -169.668, label: "Ilha de Ofu", type: "nature", note: "Ilha rica em natureza no arquipélago de Manu'a" }
+  - { lat: -14.215, lng: -169.475, label: "Ilha de Ta'u", type: "nature", note: "Maior ilha do arquipélago de Manu'a" }
+  - { lat: -14.282, lng: -170.682, label: "Parque Nacional da Samoa Americana", type: "nature", note: "Parque nacional de floresta tropical e recifes de coral" }
+features:
+  - text: 'É o único território dos Estados Unidos localizado no <span class="quiz">Hemisfério Sul</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%82%B5%E3%83%A2%E3%82%A2"
+  - text: 'A cultura <span class="quiz">polinésia</span> permanece fortemente presente e as comunidades aldeãs tradicionais são mantidas'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%82%B5%E3%83%A2%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

@@ -19,6 +19,20 @@ sc: [
     ["../oman/", "Oman"],
     ["../lebanon/", "Lebanon"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 24.453, lng: 54.377, label: "Abu Dhabi", type: "capital", note: "Ibu kota, emirat terbesar" }
+  - { lat: 25.276, lng: 55.296, label: "Dubai", type: "city", note: "Kota terbesar di negara, pusat ekonomi internasional" }
+  - { lat: 25.197, lng: 55.274, label: "Burj Khalifa", type: "landmark", note: "Gedung tertinggi di dunia (828 m)" }
+  - { lat: 25.347, lng: 55.380, label: "Sharjah", type: "city", note: "Kota budaya dekat Dubai" }
+  - { lat: 25.789, lng: 55.943, label: "Ras Al Khaimah", type: "city", note: "Emirat di utara, tempat wisata" }
+  - { lat: 25.115, lng: 56.343, label: "Fujairah", type: "port", note: "Kota pelabuhan di pesisir timur menghadap Teluk Oman" }
+  - { lat: 24.230, lng: 55.760, label: "Al Ain", type: "historical", note: "Kota oasis, gugusan situs warisan dunia" }
+features:
+  - text: 'Terdiri dari tujuh emirat, dengan <span class="quiz">Dubai</span> sebagai salah satu kota komersial dan pariwisata terkemuka dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4"
+  - text: 'Gedung pencakar langit tertinggi di dunia, <span class="quiz">Burj Khalifa</span>, berada di Dubai'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%95%E3%82%A1"
 ---
 
 <div class="main-desciption country-description">

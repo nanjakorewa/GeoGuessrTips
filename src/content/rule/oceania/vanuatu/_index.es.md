@@ -12,6 +12,19 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
+mapProvider: "osm"
+mapPins:
+  - { lat: -17.733, lng: 168.317, label: "ポートビラ", type: "capital", note: "首都・エファテ島南西の港町" }
+  - { lat: -19.530, lng: 169.442, label: "ヤスル山", type: "nature", note: "タンナ島の活火山・観光地" }
+  - { lat: -15.521, lng: 167.171, label: "ルーガンビル", type: "city", note: "エスピリトゥサント島の中心都市" }
+  - { lat: -19.531, lng: 169.272, label: "タンナ島", type: "nature", note: "ヤスル山と伝統文化で知られる" }
+  - { lat: -15.376, lng: 167.182, label: "エスピリトゥサント島", type: "nature", note: "国内最大の島" }
+  - { lat: -17.755, lng: 168.327, label: "メレ・カスケード", type: "nature", note: "エファテ島の人気の滝" }
+features:
+  - text: '活火山<span class="quiz">ヤスール山</span>は世界で最もアクセスしやすい活火山の一つである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%B9%E3%83%BC%E3%83%AB%E5%B1%B1"
+  - text: '<span class="quiz">バンジージャンプ</span>の起源とされるナゴール（ランドダイビング）の儀式がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B4%E3%83%BC%E3%83%AB"
 ---
 
 <div class="main-desciption country-description">

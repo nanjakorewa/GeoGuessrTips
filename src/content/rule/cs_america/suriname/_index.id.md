@@ -11,6 +11,19 @@ flag: "SR.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 5.852, lng: -55.204, label: "Paramaribo", type: "capital", note: "Ibu kota, warisan dunia dengan arsitektur kolonial Belanda" }
+  - { lat: 5.650, lng: -55.219, label: "Lelydorp", type: "city", note: "Kota utama di pinggiran ibu kota" }
+  - { lat: 5.886, lng: -55.221, label: "Domburg", type: "city", note: "Munisipalitas di utara kawasan ibu kota" }
+  - { lat: 5.872, lng: -55.467, label: "Wageningen", type: "city", note: "Daerah pertanian di bagian barat" }
+  - { lat: 5.892, lng: -55.553, label: "Cagar Alam Rawa Nani", type: "nature", note: "Lahan basah di sepanjang pantai, surga burung liar" }
+  - { lat: 4.400, lng: -56.000, label: "Cagar Alam Suriname Tengah", type: "nature", note: "Hutan hujan warisan dunia yang mencakup sekitar 12% wilayah negara" }
+features:
+  - text: 'Satu-satunya negara di Amerika Selatan dengan bahasa resmi <span class="quiz">Belanda</span>, dan merdeka dari Belanda pada tahun 1975'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AA%E3%83%8A%E3%83%A0"
+  - text: 'Kawasan bersejarah ibu kota <span class="quiz">Paramaribo</span> mempertahankan arsitektur era kolonial Belanda dan terdaftar sebagai warisan dunia'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%83%9E%E3%83%AA%E3%83%9C%E5%B8%82%E8%A1%97%E6%AD%B4%E5%8F%B2%E5%9C%B0%E5%8C%BA"
 ---
 
 <div class="main-desciption country-description">

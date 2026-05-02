@@ -8,6 +8,16 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 flag: "JP.svg"
+mapProvider: "osm"
+mapPins:
+  - { lat: 33.590, lng: 130.421, label: "Stasiun Hakata", type: "city", note: "Pusat Prefektur Fukuoka, kota terbesar di Kyushu" }
+  - { lat: 33.249, lng: 130.298, label: "Stasiun Saga", type: "city", note: "Ibu kota Prefektur Saga" }
+  - { lat: 32.748, lng: 129.877, label: "Stasiun Nagasaki", type: "city", note: "Ibu kota Prefektur Nagasaki, kota pelabuhan" }
+  - { lat: 32.789, lng: 130.704, label: "Stasiun Kumamoto", type: "city", note: "Ibu kota Prefektur Kumamoto, Kastil Kumamoto" }
+  - { lat: 33.232, lng: 131.610, label: "Stasiun Oita", type: "city", note: "Ibu kota Prefektur Oita, prefektur onsen" }
+  - { lat: 31.911, lng: 131.423, label: "Stasiun Miyazaki", type: "city", note: "Ibu kota Prefektur Miyazaki" }
+  - { lat: 31.583, lng: 130.541, label: "Stasiun Kagoshima-Chuo", type: "city", note: "Ibu kota Prefektur Kagoshima, Sakurajima" }
+  - { lat: 26.213, lng: 127.679, label: "Naha", type: "city", note: "Ibu kota Prefektur Okinawa" }
 ---
 
 

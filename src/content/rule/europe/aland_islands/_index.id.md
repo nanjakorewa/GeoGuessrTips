@@ -17,6 +17,19 @@ sc: [
     ["../finland/", "Finlandia"],
     ["../../n_america/saint-pierre-miquelon/", "Pulau Saint Pierre dan Miquelon"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 60.097, lng: 19.935, label: "Mariehamn", type: "capital", note: "Ibu kota, kota terbesar di kepulauan" }
+  - { lat: 60.232, lng: 20.026, label: "Jomala", type: "city", note: "Munisipalitas di tengah pulau utama" }
+  - { lat: 60.220, lng: 20.395, label: "Sund", type: "city", note: "Reruntuhan Kastil Kastelholm di timur pulau utama" }
+  - { lat: 60.255, lng: 19.512, label: "Eckero", type: "city", note: "Pulau di ujung barat pulau utama, sejarah jalur kapal pos" }
+  - { lat: 60.235, lng: 20.421, label: "Kastil Kastelholm", type: "historical", note: "Reruntuhan kastil abad pertengahan" }
+  - { lat: 60.183, lng: 20.633, label: "Kepulauan Kokar", type: "nature", note: "Lanskap alam kepulauan timur" }
+features:
+  - text: 'Memiliki status unik sebagai <span class="quiz">wilayah otonom</span> Finlandia tetapi bahasa resminya hanya <span class="quiz">Swedia</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
+  - text: 'Diakui secara internasional sebagai zona demiliterisasi, dan merupakan kepulauan dengan sekitar 6.700 pulau di <span class="quiz">Laut Baltik</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

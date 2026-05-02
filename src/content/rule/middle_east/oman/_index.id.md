@@ -22,6 +22,19 @@ sc: [
     ["../../asia/kazakhstan/", "Kazakstan"],
     ["../israel/", "Israel"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 23.588, lng: 58.408, label: "Muscat", type: "capital", note: "Ibu kota, kota pelabuhan menghadap Laut Arab" }
+  - { lat: 22.933, lng: 57.533, label: "Nizwa", type: "historical", note: "Kota benteng bersejarah di pedalaman" }
+  - { lat: 17.019, lng: 54.090, label: "Salalah", type: "city", note: "Kota pusat di wilayah Dhofar selatan" }
+  - { lat: 24.339, lng: 56.730, label: "Sohar", type: "port", note: "Kota pelabuhan dan industri di utara" }
+  - { lat: 23.323, lng: 57.531, label: "Benteng Bahla", type: "historical", note: "Benteng kuno yang merupakan warisan dunia" }
+  - { lat: 22.700, lng: 59.000, label: "Gurun Wahiba", type: "nature", note: "Gurun luas di tengah Oman" }
+features:
+  - text: 'Sejak zaman kuno dikenal sebagai daerah penghasil <span class="quiz">kemenyan</span> dan berkembang melalui perdagangan'
+    ref: "https://ja.wikipedia.org/wiki/%E4%B9%B3%E9%A6%99"
+  - text: 'Terletak di tenggara Semenanjung Arab, lokasi strategis yang menghadap <span class="quiz">Selat Hormuz</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1"
 ---
 
 <div class="main-desciption country-description">

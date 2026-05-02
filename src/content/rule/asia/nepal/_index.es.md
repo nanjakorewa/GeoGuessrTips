@@ -19,6 +19,22 @@ sc: [
     ["../srilanka/", "Sri Lanka"],
     ["../bhutan/", "Bután"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 27.717, lng: 85.324, label: "Katmandú", type: "capital", note: "Capital y mayor ciudad de Nepal" }
+  - { lat: 28.210, lng: 83.991, label: "Pokhara", type: "city", note: "Ciudad turística y base hacia el Annapurna" }
+  - { lat: 27.671, lng: 85.428, label: "Bhaktapur", type: "historical", note: "Patrimonio Mundial: ciudad histórica" }
+  - { lat: 27.989, lng: 86.925, label: "Everest", type: "nature", note: "Pico más alto del mundo (8.848 m)" }
+  - { lat: 28.596, lng: 83.819, label: "Annapurna", type: "nature", note: "Macizo de cumbres famosas del Himalaya" }
+  - { lat: 27.484, lng: 83.945, label: "Lumbini", type: "historical", note: "Patrimonio Mundial: lugar de nacimiento de Buda" }
+  - { lat: 28.394, lng: 84.124, label: "Manaslu", type: "nature", note: "Octava montaña más alta del mundo (8.163 m)" }
+features:
+  - text: 'El <span class="quiz">Everest</span> (8.848 m), pico más alto del mundo, se encuentra en su frontera con China'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%99%E3%83%AC%E3%82%B9%E3%83%88"
+  - text: 'Su bandera es la única del mundo cuya forma <span class="quiz">no es rectangular</span> (dos triángulos superpuestos)'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E3%81%AE%E5%9B%BD%E6%97%97"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

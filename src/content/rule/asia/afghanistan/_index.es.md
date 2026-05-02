@@ -13,6 +13,21 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 34.555, lng: 69.207, label: 'Kabul', type: "capital", note: 'Capital y mayor ciudad de Afganistán' }
+  - { lat: 31.610, lng: 65.710, label: 'Kandahar', type: "city", note: 'Ciudad principal del sur, centro histórico' }
+  - { lat: 34.342, lng: 62.204, label: 'Herat', type: "city", note: 'Ciudad cultural del oeste, enclave de la Ruta de la Seda' }
+  - { lat: 36.728, lng: 67.110, label: 'Mazar-i-Sharif', type: "city", note: 'Ciudad principal del norte, célebre por su santuario' }
+  - { lat: 34.800, lng: 67.825, label: 'Bamiyán', type: "historical", note: 'Patrimonio Mundial, famosa por los Budas destruidos' }
+  - { lat: 36.500, lng: 71.500, label: 'Cordillera del Hindú Kush', type: "nature", note: 'Cordillera que atraviesa el país, con cumbres de hasta 7.492 m' }
+features:
+  - text: 'Las lenguas oficiales son el <span class="quiz">dari</span> y el <span class="quiz">pastún</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3"
+  - text: 'La capital es <span class="quiz">Kabul</span>, también la ciudad más grande del país'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%96%E3%83%AB"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

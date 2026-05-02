@@ -12,6 +12,22 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 13.756, lng: 100.502, label: "Bangkok", type: "capital", note: "Ibu kota Kerajaan Thailand, kota besar Asia Tenggara" }
+  - { lat: 13.751, lng: 100.493, label: "Wat Pho", type: "landmark", note: "Kuil terkenal dengan patung Buddha berbaring raksasa" }
+  - { lat: 18.788, lng: 98.985, label: "Chiang Mai", type: "city", note: "Kota terbesar di utara, ibu kota tua Kerajaan Lanna" }
+  - { lat: 7.880, lng: 98.398, label: "Phuket", type: "nature", note: "Pulau wisata utama di selatan" }
+  - { lat: 14.353, lng: 100.569, label: "Ayutthaya", type: "historical", note: "Warisan dunia, ibu kota tua" }
+  - { lat: 12.923, lng: 100.882, label: "Pattaya", type: "city", note: "Kota wisata pantai" }
+  - { lat: 17.992, lng: 99.806, label: "Lampang", type: "city", note: "Kota bersejarah di utara" }
+features:
+  - text: 'Dikenal sebagai satu-satunya negara di Asia Tenggara yang tidak pernah <span class="quiz">dijajah</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD"
+  - text: 'Negara Buddha dengan sekitar <span class="quiz">40 ribu</span> kuil Buddha di dalam negeri'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD#%E5%AE%97%E6%95%99"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

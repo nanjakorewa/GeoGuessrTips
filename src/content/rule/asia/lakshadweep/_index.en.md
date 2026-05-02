@@ -16,6 +16,21 @@ sc_title: "Regiones que se confunden fácilmente"
 sc: [
     ["../india/", "India continental"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 10.566, lng: 72.642, label: "Kavaratti", type: "capital", note: "Hub city of Lakshadweep" }
+  - { lat: 11.000, lng: 72.272, label: "Agatti Island", type: "city", note: "Island with the airport; gateway for tourism" }
+  - { lat: 10.823, lng: 72.183, label: "Minicoy Island", type: "nature", note: "Southernmost island with a distinctive culture" }
+  - { lat: 11.328, lng: 72.785, label: "Androth Island", type: "city", note: "Largest island and most populous" }
+  - { lat: 10.918, lng: 72.214, label: "Bangaram Island", type: "nature", note: "Uninhabited island known for its resort" }
+  - { lat: 11.708, lng: 72.166, label: "Kadmat Island", type: "nature", note: "Island with beautiful coral reefs" }
+features:
+  - text: 'A <span class="quiz">Union Territory</span> of India consisting of 36 <span class="quiz">coral reef</span> islands'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E8%AB%B8%E5%B3%B6"
+  - text: 'The vast majority of residents practice <span class="quiz">Islam</span>, making it culturally different from mainland India'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E8%AB%B8%E5%B3%B6"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

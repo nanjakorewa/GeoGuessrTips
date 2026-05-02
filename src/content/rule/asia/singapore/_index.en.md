@@ -16,6 +16,20 @@ sc: [
     ["../macau/", "Macau"],
     ["../malaysia/", "Malaysia"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 1.290, lng: 103.851, label: "Singapore", type: "capital", note: "City-state and Southeast Asian financial hub" }
+  - { lat: 1.287, lng: 103.854, label: "Marina Bay Sands", type: "landmark", note: "Iconic three-tower integrated resort" }
+  - { lat: 1.286, lng: 103.854, label: "Merlion", type: "landmark", note: "Statue that symbolizes Singapore" }
+  - { lat: 1.282, lng: 103.864, label: "Gardens by the Bay", type: "landmark", note: "Vast man-made botanical park" }
+  - { lat: 1.284, lng: 103.851, label: "Sentosa Island", type: "nature", note: "Resort island in the south" }
+  - { lat: 1.434, lng: 103.786, label: "Changi International Airport", type: "landmark", note: "One of the world's top-rated airports" }
+  - { lat: 1.305, lng: 103.832, label: "Orchard Road", type: "city", note: "Main shopping street" }
+features:
+  - text: 'A city-state with an area of about <span class="quiz">730 sq km</span>, roughly the size of Tokyo''s 23 wards'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB"
+
+# ===== OSM ヒーロー設定 =====
 ---
 
 <div class="main-desciption country-description">

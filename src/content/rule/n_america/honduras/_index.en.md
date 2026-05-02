@@ -13,6 +13,20 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+mapProvider: "osm"
+mapPins:
+  - { lat: 14.072, lng: -87.192, label: "Tegucigalpa", type: "capital", note: "Capital and largest city in the central highlands" }
+  - { lat: 15.504, lng: -88.025, label: "San Pedro Sula", type: "city", note: "Economic hub of the north and second-largest city" }
+  - { lat: 15.762, lng: -86.787, label: "La Ceiba", type: "port", note: "Port city on the Caribbean coast" }
+  - { lat: 15.778, lng: -86.793, label: "Tela", type: "city", note: "North coast beach and wetland town" }
+  - { lat: 14.838, lng: -89.142, label: "Copan Ruins", type: "landmark", note: "World Heritage Maya ruins" }
+  - { lat: 16.300, lng: -86.583, label: "Roatan Island", type: "nature", note: "Caribbean coral-reef diving destination" }
+  - { lat: 15.083, lng: -85.250, label: "Rio Platano Biosphere Reserve", type: "nature", note: "World Heritage rainforest in the east" }
+features:
+  - text: 'A Central American country known for exporting <span class="quiz">bananas</span>, the original "banana republic"'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%A9%E3%82%B9"
+  - text: 'The Maya ruins of <span class="quiz">Copan</span> are inscribed as a UNESCO World Heritage Site'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%91%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,20 @@ sc: [
     ["../palestine/", "Cisjordania"],
     ["../../cs_america/argentina/", "Argentina"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 31.949, lng: 35.933, label: "Ammán", type: "capital", note: "Capital y ciudad más grande del país" }
+  - { lat: 32.073, lng: 35.892, label: "Zarqa", type: "city", note: "Segunda ciudad, con un importante polígono industrial" }
+  - { lat: 32.555, lng: 35.851, label: "Irbid", type: "city", note: "Ciudad principal del norte" }
+  - { lat: 30.328, lng: 35.444, label: "Petra", type: "historical", note: "Patrimonio Mundial: ruinas del reino nabateo" }
+  - { lat: 29.532, lng: 35.006, label: "Áqaba", type: "port", note: "Única ciudad portuaria del país, en el mar Rojo" }
+  - { lat: 29.575, lng: 35.420, label: "Wadi Rum", type: "nature", note: "Patrimonio Mundial: paisaje de desierto rojo" }
+  - { lat: 31.500, lng: 35.500, label: "Mar Muerto", type: "nature", note: "Lago salado en la frontera con Israel" }
+features:
+  - text: 'La antigua ciudad de <span class="quiz">Petra</span> es Patrimonio Mundial y una de las nuevas siete maravillas del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%A9"
+  - text: 'Cerca del 80% del territorio es <span class="quiz">desierto</span> y los recursos hídricos son sumamente escasos'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%AB%E3%83%80%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

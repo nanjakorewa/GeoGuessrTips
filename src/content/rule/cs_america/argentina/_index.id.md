@@ -18,6 +18,20 @@ sc: [
     ["../brazil/", "Brasil"],
     ["../peru/", "Peru"],
 ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -34.604, lng: -58.382, label: "Buenos Aires", type: "capital", note: "Ibu kota, kota budaya yang dijuluki Paris-nya Amerika Selatan" }
+  - { lat: -31.420, lng: -64.183, label: "Cordoba", type: "city", note: "Kota terbesar kedua Argentina, kota universitas" }
+  - { lat: -32.890, lng: -68.844, label: "Mendoza", type: "city", note: "Daerah penghasil anggur di kaki Pegunungan Andes" }
+  - { lat: -32.946, lng: -60.639, label: "Rosario", type: "city", note: "Kota pelabuhan utama di sepanjang Sungai Parana" }
+  - { lat: -25.690, lng: -54.435, label: "Air Terjun Iguazu", type: "landmark", note: "Air terjun besar warisan dunia di perbatasan Brasil" }
+  - { lat: -50.000, lng: -73.000, label: "Patagonia", type: "nature", note: "Wilayah selatan dengan gletser dan pegunungan" }
+  - { lat: -54.807, lng: -68.308, label: "Ushuaia", type: "city", note: "Salah satu kota paling selatan di dunia" }
+features:
+  - text: 'Memiliki luas wilayah terbesar kedua di Amerika Selatan, dengan padang rumput luas yang disebut <span class="quiz">Pampa</span> sebagai pusat peternakan'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
+  - text: 'Tempat lahirnya <span class="quiz">Tango</span>, dan Buenos Aires dijuluki "Paris-nya Amerika Selatan"'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%82%B4"
 ---
 
 <div class="main-desciption country-description">

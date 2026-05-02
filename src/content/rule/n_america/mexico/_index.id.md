@@ -22,6 +22,20 @@ sc: [
     ["../panama/", "Panama"],
     ["../usa/", "Amerika"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: 19.433, lng: -99.133, label: "メキシコシティ", type: "capital", note: "首都・ラテンアメリカ第2の人口大都市" }
+  - { lat: 20.660, lng: -103.349, label: "グアダラハラ", type: "city", note: "西部の第2の都市・テキーラ発祥地" }
+  - { lat: 25.687, lng: -100.316, label: "モンテレイ", type: "city", note: "北部の経済の中心都市" }
+  - { lat: 21.161, lng: -86.851, label: "カンクン", type: "city", note: "カリブ海岸の主要リゾート地" }
+  - { lat: 19.692, lng: -98.844, label: "ティオティワカン", type: "landmark", note: "太陽と月のピラミッドの世界遺産" }
+  - { lat: 20.682, lng: -88.568, label: "チチェン・イッツァ", type: "landmark", note: "ユカタン半島のマヤ文明大遺跡・世界遺産" }
+  - { lat: 16.859, lng: -99.877, label: "アカプルコ", type: "port", note: "太平洋岸の老舗リゾート港湾" }
+features:
+  - text: '<span class="quiz">アステカ文明</span>やマヤ文明が栄えた歴史を持つラテンアメリカ第2位の人口大国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3"
+  - text: '世界有数の<span class="quiz">銀</span>の生産国であり、鉱業が重要な産業である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3#%E9%89%B1%E6%A5%AD"
 ---
 
 <div class="main-desciption country-description">

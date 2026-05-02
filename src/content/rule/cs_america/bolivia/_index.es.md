@@ -20,6 +20,30 @@ sc: [
     ["../peru/", "Perú"],
     ["../../n_america/usa/", "América"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -16.500, lng: -68.150, label: "La Paz", type: "capital", note: "Capital de facto, área metropolitana más alta del mundo (~3.600 m)" }
+  - { lat: -19.034, lng: -65.262, label: "Sucre", type: "capital", note: "Capital constitucional, ciudad blanca Patrimonio de la Humanidad" }
+  - { lat: -17.783, lng: -63.182, label: "Santa Cruz", type: "city", note: "Mayor ciudad de Bolivia, centro económico" }
+  - { lat: -17.394, lng: -66.157, label: "Cochabamba", type: "city", note: "Ciudad del altiplano central, conocida por su clima templado" }
+  - { lat: -19.586, lng: -65.753, label: "Potosí", type: "city", note: "Ciudad del Cerro Rico, productora de plata en la era colonial" }
+  - { lat: -20.261, lng: -67.628, label: "Salar de Uyuni", type: "landmark", note: "Mayor salar del mundo (~10.500 km²); en seca actúa como espejo" }
+  - { lat: -15.823, lng: -69.333, label: "Lago Titicaca", type: "landmark", note: "Lago de altura en la frontera con Perú, a 3.810 m" }
+  - { lat: -18.106, lng: -68.882, label: "Nevado Sajama", type: "landmark", note: "Volcán más alto de Bolivia (6.542 m)" }
+features:
+  - text: 'País sin litoral en Sudamérica; su capital La Paz es la <span class="quiz">capital</span> más alta del mundo (~3.600 m)'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%91%E3%82%B9"
+  - text: 'El <span class="quiz">Salar de Uyuni</span> es conocido como el mayor salar del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A6%E3%83%8B%E5%A1%A9%E6%B9%96"
+
+# ===== OSM ヒーロー設定（PoC） =====
+heroGallery:
+  - "/rule/cs_america/bolivia/sajama_bolivia_volcano_way.jpg"
+  - "/rule/cs_america/bolivia/salt_salar_landscape_salar.jpg"
+  - "/rule/cs_america/bolivia/la_paz_andes_south.jpg"
+  - "/rule/cs_america/bolivia/Cemitério_de_trens,_Uyuni,_Bolivia.jpg"
+  - "/rule/cs_america/bolivia/ilha_do_sol14.jpg"
+  - "/rule/cs_america/bolivia/19683170924_abbf5210de_c.jpg"
 ---
 
 <div class="main-desciption country-description">

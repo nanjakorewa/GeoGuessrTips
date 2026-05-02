@@ -15,6 +15,19 @@ sc_title: "Regiones que se confunden"
 sc: [
     ["../brazil/", "Brasil"],
     ]
+mapProvider: "osm"
+mapPins:
+  - { lat: -25.264, lng: -57.575, label: "Asunción", type: "capital", note: "Capital, mayor ciudad a orillas del río Paraguay" }
+  - { lat: -25.508, lng: -54.611, label: "Ciudad del Este", type: "city", note: "Ciudad comercial en la frontera con Brasil" }
+  - { lat: -25.341, lng: -57.514, label: "Luque", type: "city", note: "Ciudad principal del área metropolitana" }
+  - { lat: -27.333, lng: -55.867, label: "Encarnación", type: "city", note: "Ciudad del sur en la frontera con Argentina" }
+  - { lat: -25.408, lng: -54.589, label: "Represa de Itaipú", type: "landmark", note: "Una de las mayores hidroeléctricas del mundo" }
+  - { lat: -27.327, lng: -55.541, label: "Ruinas jesuíticas", type: "historical", note: "Patrimonio Mundial de La Santísima Trinidad" }
+features:
+  - text: 'País <span class="quiz">sin litoral</span> de Sudamérica; tiene como idiomas oficiales el español y el <span class="quiz">guaraní</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B0%E3%82%A2%E3%82%A4"
+  - text: 'La <span class="quiz">represa de Itaipú</span>, en la frontera con Brasil, es una de las mayores centrales hidroeléctricas del mundo'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%97%E3%83%80%E3%83%A0"
 ---
 
 <div class="main-desciption country-description">
