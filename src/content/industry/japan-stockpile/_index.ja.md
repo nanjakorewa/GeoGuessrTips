@@ -240,10 +240,9 @@ LPガス（プロパン・ブタン）は家庭用・タクシー用・化学原
 <td>{{% corplink "https://www.mitsubishicorp.com/jp/en/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8058" %}}</td>
 </tr>
-<tr>
-<td>三井物産</td>
-<td>{{% minkabu 8031 %}}</td>
-<td>大手総合商社。LNG・石油の上流開発・中流・販売で国際的なプレゼンスを有する。オーストラリア
+</tbody>
+</table>
+</div>
 
 
 {{% references %}}
