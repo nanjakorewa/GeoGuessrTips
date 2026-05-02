@@ -14,16 +14,16 @@ dont_show_usda: true
 is_has_distinctive_googlecar: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 18.336, lng: -64.928, label: "シャーロット・アマリー", type: "capital", note: "首都・セント・トーマス島の主要都市" }
-  - { lat: 17.742, lng: -64.703, label: "クリスチャンステッド", type: "city", note: "セント・クロイ島の主要都市・歴史地区" }
-  - { lat: 17.713, lng: -64.881, label: "フレデリックステッド", type: "city", note: "セント・クロイ島西部の港町" }
-  - { lat: 18.331, lng: -64.793, label: "クルーズ・ベイ", type: "city", note: "セント・ジョン島の中心地" }
-  - { lat: 18.349, lng: -64.731, label: "ヴァージン諸島国立公園", type: "nature", note: "セント・ジョン島の大半を占める国立公園" }
-  - { lat: 18.358, lng: -64.762, label: "トランク・ベイ", type: "nature", note: "世界的に有名なビーチとシュノーケリングスポット" }
+  - { lat: 18.336, lng: -64.928, label: "Charlotte Amalie", type: "capital", note: "Ibu kota; kota utama di Pulau Saint Thomas" }
+  - { lat: 17.742, lng: -64.703, label: "Christiansted", type: "city", note: "Kota utama Pulau Saint Croix; kawasan bersejarah" }
+  - { lat: 17.713, lng: -64.881, label: "Frederiksted", type: "city", note: "Kota pelabuhan di barat Pulau Saint Croix" }
+  - { lat: 18.331, lng: -64.793, label: "Cruz Bay", type: "city", note: "Pusat Pulau Saint John" }
+  - { lat: 18.349, lng: -64.731, label: "Taman Nasional Virgin Islands", type: "nature", note: "Taman nasional yang mencakup sebagian besar Pulau Saint John" }
+  - { lat: 18.358, lng: -64.762, label: "Trunk Bay", type: "nature", note: "Pantai dan lokasi snorkel terkenal di dunia" }
 features:
-  - text: 'カリブ海に位置する<span class="quiz">アメリカの非法人領土</span>で、セント・トーマス島・セント・クロイ島・セント・ジョン島が主な島'
+  - text: '<span class="quiz">Wilayah tak berinkorporasi AS</span> di Karibia, dengan pulau utama Saint Thomas, Saint Croix, dan Saint John'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%B3%E8%AB%B8%E5%B3%B6"
-  - text: '1917年にデンマークから<span class="quiz">2500万ドル</span>で購入された旧デンマーク領西インド諸島'
+  - text: 'Bekas Hindia Barat Denmark yang dibeli dari Denmark seharga <span class="quiz">25 juta dolar</span> pada tahun 1917'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%B3%E8%AB%B8%E5%B3%B6#%E6%AD%B4%E5%8F%B2"
 ---
 

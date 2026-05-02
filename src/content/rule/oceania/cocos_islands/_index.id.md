@@ -23,16 +23,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: -12.188, lng: 96.829, label: "ウェスト・アイランド", type: "capital", note: "事実上の主邑・行政の中心" }
-  - { lat: -12.123, lng: 96.890, label: "ホーム・アイランド", type: "city", note: "マレー系住民の主要居住島" }
-  - { lat: -12.189, lng: 96.834, label: "ココス諸島空港", type: "landmark", note: "島唯一の空港" }
-  - { lat: -12.073, lng: 96.881, label: "ノース・キーリング島", type: "nature", note: "国立公園に指定された無人島" }
-  - { lat: -12.108, lng: 96.903, label: "ディレクション島", type: "nature", note: "シュノーケリングで人気の小島" }
-  - { lat: -12.181, lng: 96.832, label: "ココス諸島ラグーン", type: "nature", note: "サンゴ礁に囲まれた静かな海域" }
+  - { lat: -12.188, lng: 96.829, label: "West Island", type: "capital", note: "Permukiman utama de facto; pusat administrasi" }
+  - { lat: -12.123, lng: 96.890, label: "Home Island", type: "city", note: "Pulau hunian utama bagi penduduk keturunan Melayu" }
+  - { lat: -12.189, lng: 96.834, label: "Bandara Kepulauan Cocos", type: "landmark", note: "Satu-satunya bandara di kepulauan ini" }
+  - { lat: -12.073, lng: 96.881, label: "Pulau North Keeling", type: "nature", note: "Pulau tak berpenghuni yang ditetapkan sebagai taman nasional" }
+  - { lat: -12.108, lng: 96.903, label: "Direction Island", type: "nature", note: "Pulau kecil populer untuk snorkeling" }
+  - { lat: -12.181, lng: 96.832, label: "Laguna Kepulauan Cocos", type: "nature", note: "Perairan tenang yang dikelilingi terumbu karang" }
 features:
-  - text: '27の<span class="quiz">サンゴ礁</span>の島からなり人が住むのは2島のみである'
+  - text: 'Terdiri dari 27 pulau <span class="quiz">terumbu karang</span> dan hanya 2 pulau yang berpenghuni'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B3%E3%82%B9%E8%AB%B8%E5%B3%B6"
-  - text: '住民の多くは<span class="quiz">マレー系</span>であり独自の文化が残っている'
+  - text: 'Sebagian besar penduduk adalah keturunan <span class="quiz">Melayu</span> dengan budaya khas yang masih lestari'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B3%E3%82%B9%E8%AB%B8%E5%B3%B6"
 ---
 

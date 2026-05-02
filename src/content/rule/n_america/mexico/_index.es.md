@@ -24,17 +24,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 19.433, lng: -99.133, label: "Ciudad de México", type: "capital", note: "首都・ラテンアメリカ第2の人口大都市" }
-  - { lat: 20.660, lng: -103.349, label: "グアダラハラ", type: "city", note: "西部の第2の都市・テキーラ発祥地" }
-  - { lat: 25.687, lng: -100.316, label: "モンテレイ", type: "city", note: "北部の経済の中心都市" }
-  - { lat: 21.161, lng: -86.851, label: "カンクン", type: "city", note: "カリブ海岸の主要リゾート地" }
-  - { lat: 19.692, lng: -98.844, label: "ティオティワカン", type: "landmark", note: "太陽と月のピラミッドの世界遺産" }
-  - { lat: 20.682, lng: -88.568, label: "チチェン・イッツァ", type: "landmark", note: "ユカタン半島のマヤ文明大遺跡・世界遺産" }
-  - { lat: 16.859, lng: -99.877, label: "アカプルコ", type: "port", note: "太平洋岸の老舗リゾート港湾" }
+  - { lat: 19.433, lng: -99.133, label: "Ciudad de México", type: "capital", note: "Capital y segunda metrópoli más poblada de América Latina" }
+  - { lat: 20.660, lng: -103.349, label: "Guadalajara", type: "city", note: "Segunda ciudad del país y cuna del tequila" }
+  - { lat: 25.687, lng: -100.316, label: "Monterrey", type: "city", note: "Centro económico del norte" }
+  - { lat: 21.161, lng: -86.851, label: "Cancún", type: "city", note: "Principal destino turístico de la costa caribeña" }
+  - { lat: 19.692, lng: -98.844, label: "Teotihuacán", type: "landmark", note: "Patrimonio de la Humanidad con las pirámides del Sol y la Luna" }
+  - { lat: 20.682, lng: -88.568, label: "Chichén Itzá", type: "landmark", note: "Gran sitio maya de la península de Yucatán, Patrimonio de la Humanidad" }
+  - { lat: 16.859, lng: -99.877, label: "Acapulco", type: "port", note: "Puerto turístico tradicional de la costa del Pacífico" }
 features:
-  - text: '<span class="quiz">アステカ文明</span>やマヤ文明が栄えた歴史を持つラテンアメリカ第2位の人口大国'
+  - text: 'Es el segundo país más poblado de América Latina, con un pasado en el que florecieron la <span class="quiz">civilización azteca</span> y la maya'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3"
-  - text: '世界有数の<span class="quiz">銀</span>の生産国であり、鉱業が重要な産業である'
+  - text: 'Es uno de los mayores productores mundiales de <span class="quiz">plata</span> y la minería es un sector clave'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3#%E9%89%B1%E6%A5%AD"
 ---
 

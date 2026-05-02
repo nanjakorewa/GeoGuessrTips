@@ -15,17 +15,17 @@ dont_show_usda: true
 is_unofficial: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 12.115, lng: -86.236, label: "マナグア", type: "capital", note: "首都・マナグア湖南岸の最大都市" }
-  - { lat: 11.934, lng: -85.957, label: "グラナダ", type: "city", note: "ニカラグア湖畔の植民地時代の街" }
-  - { lat: 12.435, lng: -86.878, label: "レオン", type: "city", note: "西部の歴史的な大学都市" }
-  - { lat: 12.144, lng: -86.302, label: "マサヤ", type: "city", note: "中部の主要都市・活火山が近接" }
-  - { lat: 11.539, lng: -85.572, label: "オメテペ島", type: "nature", note: "ニカラグア湖の二つの火山島" }
-  - { lat: 11.985, lng: -86.161, label: "マサヤ火山", type: "nature", note: "活発な活火山・国立公園" }
-  - { lat: 11.766, lng: -85.583, label: "ニカラグア湖", type: "nature", note: "中米最大の湖・淡水サメが棲息" }
+  - { lat: 12.115, lng: -86.236, label: "Managua", type: "capital", note: "Capital y mayor ciudad de la orilla sur del lago Managua" }
+  - { lat: 11.934, lng: -85.957, label: "Granada", type: "city", note: "Ciudad colonial a orillas del lago de Nicaragua" }
+  - { lat: 12.435, lng: -86.878, label: "León", type: "city", note: "Histórica ciudad universitaria del oeste" }
+  - { lat: 12.144, lng: -86.302, label: "Masaya", type: "city", note: "Principal ciudad central, cercana a un volcán activo" }
+  - { lat: 11.539, lng: -85.572, label: "Isla de Ometepe", type: "nature", note: "Isla con dos volcanes en el lago de Nicaragua" }
+  - { lat: 11.985, lng: -86.161, label: "Volcán Masaya", type: "nature", note: "Volcán muy activo y parque nacional" }
+  - { lat: 11.766, lng: -85.583, label: "Lago de Nicaragua", type: "nature", note: "Mayor lago de Centroamérica, hogar de tiburones de agua dulce" }
 features:
-  - text: '中米最大の面積を持ち、<span class="quiz">太平洋</span>とカリブ海の両方に面している'
+  - text: 'Es el país más extenso de Centroamérica y tiene costa tanto en el <span class="quiz">Pacífico</span> como en el Caribe'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AB%E3%83%A9%E3%82%B0%E3%82%A2"
-  - text: '中米最大の湖である<span class="quiz">ニカラグア湖</span>があり淡水サメが生息する'
+  - text: 'Alberga el <span class="quiz">lago de Nicaragua</span>, el mayor de Centroamérica, donde habitan tiburones de agua dulce'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AB%E3%83%A9%E3%82%B0%E3%82%A2%E6%B9%96"
 ---
 

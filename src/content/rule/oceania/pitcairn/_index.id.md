@@ -18,16 +18,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: -25.066, lng: -130.101, label: "アダムスタウン", type: "capital", note: "首都・諸島で唯一の集落" }
-  - { lat: -25.067, lng: -130.105, label: "ピトケアン島", type: "nature", note: "諸島最大の有人島" }
-  - { lat: -24.349, lng: -128.324, label: "ヘンダーソン島", type: "nature", note: "サンゴ礁の世界自然遺産・無人島" }
-  - { lat: -24.674, lng: -124.787, label: "ドゥーシー島", type: "nature", note: "東端の小さな環礁" }
-  - { lat: -25.367, lng: -130.722, label: "オエノ島", type: "nature", note: "西部の環礁・ピトケアン島民の保養地" }
-  - { lat: -25.066, lng: -130.099, label: "バウンティ湾", type: "port", note: "アダムスタウンの上陸地点" }
+  - { lat: -25.066, lng: -130.101, label: "Adamstown", type: "capital", note: "Ibu kota; satu-satunya permukiman di kepulauan ini" }
+  - { lat: -25.067, lng: -130.105, label: "Pulau Pitcairn", type: "nature", note: "Pulau berpenghuni terbesar di kepulauan ini" }
+  - { lat: -24.349, lng: -128.324, label: "Pulau Henderson", type: "nature", note: "Warisan Dunia alami terumbu karang; tak berpenghuni" }
+  - { lat: -24.674, lng: -124.787, label: "Pulau Ducie", type: "nature", note: "Atol kecil di ujung timur" }
+  - { lat: -25.367, lng: -130.722, label: "Pulau Oeno", type: "nature", note: "Atol di bagian barat; tempat rekreasi penduduk Pitcairn" }
+  - { lat: -25.066, lng: -130.099, label: "Bounty Bay", type: "port", note: "Titik pendaratan Adamstown" }
 features:
-  - text: '<span class="quiz">バウンティ号</span>の反乱者の子孫が住む世界で最も人口の少ない地域の一つである'
+  - text: 'Salah satu wilayah berpenduduk paling sedikit di dunia, dihuni keturunan pemberontak <span class="quiz">Bounty</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A6%E3%83%B3%E3%83%86%E3%82%A3%E5%8F%B7%E3%81%AE%E5%8F%8D%E4%B9%B1"
-  - text: 'イギリスの<span class="quiz">海外領土</span>であり住民は約50人程度しかいない'
+  - text: '<span class="quiz">Wilayah seberang laut</span> Inggris dengan jumlah penduduk hanya sekitar 50 orang'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%88%E3%82%B1%E3%82%A2%E3%83%B3%E8%AB%B8%E5%B3%B6"
 ---
 

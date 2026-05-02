@@ -23,16 +23,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: -12.188, lng: 96.829, label: "ウェスト・アイランド", type: "capital", note: "事実上の主邑・行政の中心" }
-  - { lat: -12.123, lng: 96.890, label: "ホーム・アイランド", type: "city", note: "マレー系住民の主要居住島" }
-  - { lat: -12.189, lng: 96.834, label: "ココス諸島空港", type: "landmark", note: "島唯一の空港" }
-  - { lat: -12.073, lng: 96.881, label: "ノース・キーリング島", type: "nature", note: "国立公園に指定された無人島" }
-  - { lat: -12.108, lng: 96.903, label: "ディレクション島", type: "nature", note: "シュノーケリングで人気の小島" }
-  - { lat: -12.181, lng: 96.832, label: "ココス諸島ラグーン", type: "nature", note: "サンゴ礁に囲まれた静かな海域" }
+  - { lat: -12.188, lng: 96.829, label: "West Island", type: "capital", note: "Capital de facto y centro administrativo" }
+  - { lat: -12.123, lng: 96.890, label: "Home Island", type: "city", note: "Principal isla habitada por la población malaya" }
+  - { lat: -12.189, lng: 96.834, label: "Aeropuerto de las Islas Cocos", type: "landmark", note: "Único aeropuerto del archipiélago" }
+  - { lat: -12.073, lng: 96.881, label: "Isla North Keeling", type: "nature", note: "Isla deshabitada incluida en un parque nacional" }
+  - { lat: -12.108, lng: 96.903, label: "Direction Island", type: "nature", note: "Pequeña isla popular para hacer snorkel" }
+  - { lat: -12.181, lng: 96.832, label: "Laguna de las Islas Cocos", type: "nature", note: "Aguas tranquilas rodeadas de arrecifes de coral" }
 features:
-  - text: '27の<span class="quiz">サンゴ礁</span>の島からなり人が住むのは2島のみである'
+  - text: 'Está formado por 27 islas de <span class="quiz">arrecife de coral</span>, de las que solo dos están habitadas'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B3%E3%82%B9%E8%AB%B8%E5%B3%B6"
-  - text: '住民の多くは<span class="quiz">マレー系</span>であり独自の文化が残っている'
+  - text: 'La mayor parte de la población es de origen <span class="quiz">malayo</span> y conserva una cultura propia'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B3%E3%82%B9%E8%AB%B8%E5%B3%B6"
 ---
 

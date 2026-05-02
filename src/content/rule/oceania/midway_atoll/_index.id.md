@@ -18,16 +18,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 28.207, lng: -177.378, label: "サンド島", type: "capital", note: "ミッドウェー諸島最大の島・行政施設がある" }
-  - { lat: 28.214, lng: -177.353, label: "イースタン島", type: "landmark", note: "戦時中の主要滑走路があった島" }
-  - { lat: 28.223, lng: -177.355, label: "スピット島", type: "nature", note: "小さな砂州" }
-  - { lat: 28.211, lng: -177.380, label: "ヘンダーソン飛行場", type: "landmark", note: "現在も使用される滑走路" }
-  - { lat: 28.207, lng: -177.376, label: "ミッドウェー海戦記念碑", type: "historical", note: "1942年の海戦を記念" }
-  - { lat: 28.200, lng: -177.350, label: "ミッドウェー環礁ラグーン", type: "nature", note: "アホウドリの繁殖海域" }
+  - { lat: 28.207, lng: -177.378, label: "Pulau Sand", type: "capital", note: "Pulau terbesar di Kepulauan Midway; terdapat fasilitas administrasi" }
+  - { lat: 28.214, lng: -177.353, label: "Pulau Eastern", type: "landmark", note: "Pulau dengan landasan pacu utama di masa perang" }
+  - { lat: 28.223, lng: -177.355, label: "Pulau Spit", type: "nature", note: "Gosong pasir kecil" }
+  - { lat: 28.211, lng: -177.380, label: "Lapangan Henderson", type: "landmark", note: "Landasan pacu yang masih digunakan hingga kini" }
+  - { lat: 28.207, lng: -177.376, label: "Tugu Pertempuran Midway", type: "historical", note: "Memperingati pertempuran tahun 1942" }
+  - { lat: 28.200, lng: -177.350, label: "Laguna Atol Midway", type: "nature", note: "Perairan tempat berbiaknya albatros" }
 features:
-  - text: '1942年の<span class="quiz">ミッドウェー海戦</span>の舞台となった太平洋戦争の重要な戦場である'
+  - text: 'Medan tempur penting Perang Pasifik yang menjadi panggung <span class="quiz">Pertempuran Midway</span> pada tahun 1942'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%83%E3%83%89%E3%82%A6%E3%82%A7%E3%83%BC%E6%B5%B7%E6%88%A6"
-  - text: '現在は<span class="quiz">国立野生生物保護区</span>に指定されアホウドリの繁殖地となっている'
+  - text: 'Kini ditetapkan sebagai <span class="quiz">Suaka Margasatwa Nasional</span> dan menjadi tempat berbiaknya albatros'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%83%E3%83%89%E3%82%A6%E3%82%A7%E3%83%BC%E5%B3%B6"
 ---
 

@@ -20,16 +20,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 46.778, lng: -56.176, label: "サンピエール", type: "capital", note: "県都・最大の集落と港湾" }
-  - { lat: 47.106, lng: -56.382, label: "ミクロン", type: "city", note: "ミクロン島北部の主要集落" }
-  - { lat: 46.967, lng: -56.336, label: "ラングラード", type: "city", note: "ミクロン島南部の小集落" }
-  - { lat: 46.756, lng: -56.150, label: "イル・オ・マリン", type: "landmark", note: "サンピエール港の歴史的な小島" }
-  - { lat: 46.796, lng: -56.328, label: "コロンビエ岬", type: "nature", note: "西部の岩礁海岸" }
-  - { lat: 46.838, lng: -56.310, label: "ガリーヌ岬", type: "nature", note: "野鳥が集まる岬の自然保護区" }
+  - { lat: 46.778, lng: -56.176, label: "Saint-Pierre", type: "capital", note: "Ibu kota wilayah; permukiman dan pelabuhan terbesar" }
+  - { lat: 47.106, lng: -56.382, label: "Miquelon", type: "city", note: "Permukiman utama di utara Pulau Miquelon" }
+  - { lat: 46.967, lng: -56.336, label: "Langlade", type: "city", note: "Permukiman kecil di selatan Pulau Miquelon" }
+  - { lat: 46.756, lng: -56.150, label: "Ile aux Marins", type: "landmark", note: "Pulau bersejarah di pelabuhan Saint-Pierre" }
+  - { lat: 46.796, lng: -56.328, label: "Tanjung Colombier", type: "nature", note: "Pesisir berbatu di bagian barat" }
+  - { lat: 46.838, lng: -56.310, label: "Tanjung Galine", type: "nature", note: "Cagar alam tanjung tempat berkumpulnya burung liar" }
 features:
-  - text: '北米大陸に残る唯一の<span class="quiz">フランス海外領土</span>で、カナダのニューファンドランド島南方に位置する'
+  - text: 'Satu-satunya <span class="quiz">wilayah seberang laut Prancis</span> yang tersisa di benua Amerika Utara, terletak di selatan Pulau Newfoundland, Kanada'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%94%E3%82%A8%E3%83%BC%E3%83%AB%E5%B3%B6%E3%83%BB%E3%83%9F%E3%82%AF%E3%83%AD%E3%83%B3%E5%B3%B6"
-  - text: 'かつて<span class="quiz">タラ漁</span>の基地として栄えたが漁業資源の枯渇により衰退した'
+  - text: 'Pernah berjaya sebagai pangkalan <span class="quiz">penangkapan ikan kod</span>, tetapi merosot akibat menipisnya sumber daya perikanan'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%94%E3%82%A8%E3%83%BC%E3%83%AB%E5%B3%B6%E3%83%BB%E3%83%9F%E3%82%AF%E3%83%AD%E3%83%B3%E5%B3%B6#%E7%B5%8C%E6%B8%88"
 ---
 

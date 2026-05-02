@@ -15,17 +15,17 @@ is_unofficial: true
 flag_height: "600px"
 mapProvider: "osm"
 mapPins:
-  - { lat: -9.443, lng: 147.180, label: "Port Moresby", type: "capital", note: "首都・南東部の港湾都市" }
-  - { lat: -6.737, lng: 147.001, label: "ラエ", type: "port", note: "国内第二の都市・モロベ州の州都" }
-  - { lat: -5.864, lng: 144.295, label: "マウント・ハーゲン", type: "city", note: "高地地方最大の都市" }
-  - { lat: -4.219, lng: 152.166, label: "ラバウル", type: "historical", note: "ニューブリテン島の港町・第二次大戦の重要拠点" }
-  - { lat: -2.567, lng: 150.794, label: "カビエン", type: "city", note: "ニューアイルランド州の州都" }
-  - { lat: -4.215, lng: 145.788, label: "マダン", type: "port", note: "北海岸の港湾都市" }
-  - { lat: -5.900, lng: 144.500, label: "ニューギニア高地", type: "nature", note: "豊かな自然と多様な部族文化" }
+  - { lat: -9.443, lng: 147.180, label: "Port Moresby", type: "capital", note: "Capital y ciudad portuaria del sureste" }
+  - { lat: -6.737, lng: 147.001, label: "Lae", type: "port", note: "Segunda ciudad del país y capital de la provincia de Morobe" }
+  - { lat: -5.864, lng: 144.295, label: "Mount Hagen", type: "city", note: "Mayor ciudad de las tierras altas" }
+  - { lat: -4.219, lng: 152.166, label: "Rabaul", type: "historical", note: "Ciudad portuaria de Nueva Bretaña y bastión clave en la Segunda Guerra Mundial" }
+  - { lat: -2.567, lng: 150.794, label: "Kavieng", type: "city", note: "Capital de la provincia de Nueva Irlanda" }
+  - { lat: -4.215, lng: 145.788, label: "Madang", type: "port", note: "Ciudad portuaria de la costa norte" }
+  - { lat: -5.900, lng: 144.500, label: "Tierras Altas de Nueva Guinea", type: "nature", note: "Naturaleza exuberante y diversa cultura tribal" }
 features:
-  - text: '世界で最も<span class="quiz">言語</span>の多様性が高く800以上の言語が話されている'
+  - text: 'Tiene la mayor diversidad <span class="quiz">lingüística</span> del mundo, con más de 800 idiomas hablados'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%97%E3%82%A2%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AE%E3%83%8B%E3%82%A2"
-  - text: 'ニューギニア島の東半分を占め<span class="quiz">熱帯雨林</span>が国土の大部分を覆う'
+  - text: 'Ocupa la mitad oriental de la isla de Nueva Guinea y la mayor parte del territorio está cubierta de <span class="quiz">selva tropical</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AE%E3%83%8B%E3%82%A2%E5%B3%B6"
 ---
 

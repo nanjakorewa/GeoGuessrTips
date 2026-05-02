@@ -16,17 +16,17 @@ is_unofficial: true
 flag_height: "400px"
 mapProvider: "osm"
 mapPins:
-  - { lat: 13.692, lng: -89.218, label: "サンサルバドル", type: "capital", note: "首都・中央部の最大都市" }
-  - { lat: 13.700, lng: -89.560, label: "サンタ・アナ", type: "city", note: "西部の第2の都市" }
-  - { lat: 13.494, lng: -88.179, label: "サン・ミゲル", type: "city", note: "Ciudad principal del este" }
-  - { lat: 13.486, lng: -88.450, label: "ウスルタン", type: "city", note: "南東部の地方都市" }
-  - { lat: 13.737, lng: -89.629, label: "サンタ・アナ火山", type: "nature", note: "国内最高峰の活火山・標高2,381m" }
-  - { lat: 13.782, lng: -89.675, label: "コアテペケ湖", type: "nature", note: "火山カルデラ湖" }
-  - { lat: 14.325, lng: -89.388, label: "ホヤ・デ・セレン", type: "historical", note: "中米のポンペイ・世界遺産のマヤ農村遺跡" }
+  - { lat: 13.692, lng: -89.218, label: "San Salvador", type: "capital", note: "Capital y mayor ciudad del centro del país" }
+  - { lat: 13.700, lng: -89.560, label: "Santa Ana", type: "city", note: "Segunda ciudad del país, en el oeste" }
+  - { lat: 13.494, lng: -88.179, label: "San Miguel", type: "city", note: "Ciudad principal del este" }
+  - { lat: 13.486, lng: -88.450, label: "Usulután", type: "city", note: "Ciudad regional del sureste" }
+  - { lat: 13.737, lng: -89.629, label: "Volcán de Santa Ana", type: "nature", note: "Volcán activo más alto del país, 2.381 m" }
+  - { lat: 13.782, lng: -89.675, label: "Lago de Coatepeque", type: "nature", note: "Lago en una caldera volcánica" }
+  - { lat: 14.325, lng: -89.388, label: "Joya de Cerén", type: "historical", note: "La Pompeya de América, sitio maya rural Patrimonio de la Humanidad" }
 features:
-  - text: '中米で最も面積が小さく、<span class="quiz">太平洋</span>側のみに面している唯一の中米の国'
+  - text: 'Es el país más pequeño de Centroamérica y el único centroamericano con costa solo en el <span class="quiz">Pacífico</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%82%B5%E3%83%AB%E3%83%90%E3%83%89%E3%83%AB"
-  - text: '国土の多くが<span class="quiz">火山</span>地帯にあり、20以上の火山が存在する'
+  - text: 'Gran parte del territorio está en zona <span class="quiz">volcánica</span>, con más de 20 volcanes'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%82%B5%E3%83%AB%E3%83%90%E3%83%89%E3%83%AB#%E5%9C%B0%E7%90%86"
 ---
 

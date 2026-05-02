@@ -22,16 +22,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: -10.421, lng: 105.679, label: "フライング・フィッシュ・コーブ", type: "capital", note: "事実上の主邑・行政の中心" }
-  - { lat: -10.487, lng: 105.633, label: "セトルメント", type: "city", note: "北西部の集落" }
-  - { lat: -10.495, lng: 105.677, label: "クリスマス島空港", type: "landmark", note: "島唯一の空港" }
-  - { lat: -10.509, lng: 105.694, label: "ドリュー・ヒル", type: "nature", note: "島中央部の高地" }
-  - { lat: -10.505, lng: 105.553, label: "西海岸ビーチ", type: "nature", note: "クリスマスアカガニの大移動経路" }
-  - { lat: -10.485, lng: 105.633, label: "クリスマス島国立公園", type: "nature", note: "島の約3分の2を占める保護区" }
+  - { lat: -10.421, lng: 105.679, label: "Flying Fish Cove", type: "capital", note: "Permukiman utama de facto; pusat administrasi" }
+  - { lat: -10.487, lng: 105.633, label: "Settlement", type: "city", note: "Permukiman di barat laut" }
+  - { lat: -10.495, lng: 105.677, label: "Bandara Pulau Christmas", type: "landmark", note: "Satu-satunya bandara di pulau ini" }
+  - { lat: -10.509, lng: 105.694, label: "Drumsite", type: "nature", note: "Dataran tinggi di tengah pulau" }
+  - { lat: -10.505, lng: 105.553, label: "Pantai pesisir barat", type: "nature", note: "Jalur migrasi besar Kepiting Merah Christmas" }
+  - { lat: -10.485, lng: 105.633, label: "Taman Nasional Pulau Christmas", type: "nature", note: "Kawasan lindung yang mencakup sekitar dua pertiga pulau" }
 features:
-  - text: '毎年数千万匹の<span class="quiz">クリスマスアカガニ</span>が産卵のため海へ大移動する'
+  - text: 'Setiap tahun puluhan juta <span class="quiz">Kepiting Merah Christmas</span> bermigrasi besar-besaran ke laut untuk bertelur'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%AC%E3%83%8B"
-  - text: 'インド洋に浮かぶ<span class="quiz">オーストラリア</span>の外部領土である'
+  - text: 'Wilayah luar <span class="quiz">Australia</span> yang terletak di Samudra Hindia'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E5%B3%B6_(%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82_2)"
 ---
 

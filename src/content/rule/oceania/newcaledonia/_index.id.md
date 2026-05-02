@@ -14,16 +14,16 @@ dont_show_usda: true
 is_unofficial: true
 mapProvider: "osm"
 mapPins:
-  - { lat: -22.276, lng: 166.458, label: "Noumea", type: "capital", note: "首都・グランドテール島南端の港町" }
-  - { lat: -20.722, lng: 165.250, label: "コネ", type: "city", note: "北部州の中心地・ニッケル鉱山の街" }
-  - { lat: -22.591, lng: 167.483, label: "イル・デ・パン", type: "nature", note: "松の島・南太平洋の楽園と称される" }
-  - { lat: -20.918, lng: 167.265, label: "リフー島", type: "nature", note: "ロイヤルティ諸島最大の島" }
-  - { lat: -21.500, lng: 165.500, label: "グランドテール島", type: "nature", note: "ニューカレドニア本島・世界遺産のサンゴ礁" }
-  - { lat: -22.265, lng: 166.420, label: "ヌメア湾", type: "port", note: "首都の主要港湾" }
+  - { lat: -22.276, lng: 166.458, label: "Noumea", type: "capital", note: "Ibu kota; kota pelabuhan di ujung selatan Pulau Grande Terre" }
+  - { lat: -20.722, lng: 165.250, label: "Kone", type: "city", note: "Pusat Provinsi Utara; kota tambang nikel" }
+  - { lat: -22.591, lng: 167.483, label: "Ile des Pins", type: "nature", note: "Pulau Pinus; dijuluki surga Pasifik Selatan" }
+  - { lat: -20.918, lng: 167.265, label: "Pulau Lifou", type: "nature", note: "Pulau terbesar di Kepulauan Loyalty" }
+  - { lat: -21.500, lng: 165.500, label: "Pulau Grande Terre", type: "nature", note: "Pulau utama Kaledonia Baru; terumbu karang Warisan Dunia" }
+  - { lat: -22.265, lng: 166.420, label: "Teluk Noumea", type: "port", note: "Pelabuhan utama ibu kota" }
 features:
-  - text: '<span class="quiz">フランス</span>の海外領土であり世界有数の<span class="quiz">ニッケル</span>産出地である'
+  - text: 'Wilayah seberang laut <span class="quiz">Prancis</span> dan salah satu penghasil <span class="quiz">nikel</span> terbesar di dunia'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%AC%E3%83%89%E3%83%8B%E3%82%A2"
-  - text: '周囲のサンゴ礁は<span class="quiz">世界遺産</span>に登録されており生物多様性が豊かである'
+  - text: 'Terumbu karang di sekitarnya terdaftar sebagai <span class="quiz">Warisan Dunia</span> dan kaya keanekaragaman hayati'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%AC%E3%83%89%E3%83%8B%E3%82%A2%E3%81%AE%E3%83%A9%E3%82%B0%E3%83%BC%E3%83%B3"
 ---
 

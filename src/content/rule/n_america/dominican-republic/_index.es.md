@@ -18,16 +18,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 18.486, lng: -69.931, label: "サントドミンゴ", type: "capital", note: "首都・新世界最古の植民都市・世界遺産" }
-  - { lat: 19.451, lng: -70.697, label: "サンティアゴ・デ・ロス・カバジェロス", type: "city", note: "北部第2の都市・シバオ渓谷の中心" }
-  - { lat: 19.222, lng: -70.529, label: "ラ・ベガ", type: "city", note: "中央部のカーニバルで有名な都市" }
-  - { lat: 18.667, lng: -68.450, label: "プンタカナ", type: "city", note: "東岸の主要リゾート地" }
-  - { lat: 19.778, lng: -70.692, label: "プエルト・プラタ", type: "port", note: "北岸の観光港湾都市" }
-  - { lat: 19.020, lng: -71.000, label: "ピコ・ドゥアルテ", type: "nature", note: "カリブ海最高峰・標高3,098m" }
+  - { lat: 18.486, lng: -69.931, label: "Santo Domingo", type: "capital", note: "Capital, ciudad colonial más antigua del Nuevo Mundo y Patrimonio de la Humanidad" }
+  - { lat: 19.451, lng: -70.697, label: "Santiago de los Caballeros", type: "city", note: "Segunda ciudad del país y centro del valle del Cibao, en el norte" }
+  - { lat: 19.222, lng: -70.529, label: "La Vega", type: "city", note: "Ciudad central famosa por su carnaval" }
+  - { lat: 18.667, lng: -68.450, label: "Punta Cana", type: "city", note: "Principal zona turística de la costa este" }
+  - { lat: 19.778, lng: -70.692, label: "Puerto Plata", type: "port", note: "Ciudad portuaria turística de la costa norte" }
+  - { lat: 19.020, lng: -71.000, label: "Pico Duarte", type: "nature", note: "Pico más alto del Caribe, 3.098 m" }
 features:
-  - text: 'カリブ海の<span class="quiz">イスパニョーラ島</span>の東側3分の2を占める'
+  - text: 'Ocupa los dos tercios orientales de la <span class="quiz">isla La Española</span> en el Caribe'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
-  - text: '主要産業は<span class="quiz">観光</span>と砂糖・タバコなどの農業である'
+  - text: 'Sus principales sectores son el <span class="quiz">turismo</span> y la agricultura, sobre todo la caña de azúcar y el tabaco'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
 ---
 

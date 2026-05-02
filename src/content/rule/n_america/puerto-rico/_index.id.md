@@ -20,16 +20,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 18.466, lng: -66.106, label: "サン・フアン", type: "capital", note: "首都・北岸の最大都市・世界遺産の旧市街" }
-  - { lat: 18.201, lng: -67.140, label: "マヤグエス", type: "city", note: "西岸の主要都市" }
-  - { lat: 18.011, lng: -66.614, label: "ポンセ", type: "city", note: "南岸の第2の都市" }
-  - { lat: 18.202, lng: -65.717, label: "ファハルド", type: "port", note: "東岸のヨットハーバー・離島フェリー拠点" }
-  - { lat: 18.471, lng: -66.123, label: "エル・モロ要塞", type: "historical", note: "サン・フアン旧市街の世界遺産城塞" }
-  - { lat: 18.314, lng: -65.792, label: "エル・ユンケ国立森林", type: "nature", note: "米国唯一の熱帯雨林国有林" }
+  - { lat: 18.466, lng: -66.106, label: "San Juan", type: "capital", note: "Ibu kota; kota terbesar di pesisir utara; kota tua Warisan Dunia" }
+  - { lat: 18.201, lng: -67.140, label: "Mayaguez", type: "city", note: "Kota utama di pesisir barat" }
+  - { lat: 18.011, lng: -66.614, label: "Ponce", type: "city", note: "Kota kedua di pesisir selatan" }
+  - { lat: 18.202, lng: -65.717, label: "Fajardo", type: "port", note: "Pelabuhan kapal layar di pesisir timur; titik feri ke pulau-pulau" }
+  - { lat: 18.471, lng: -66.123, label: "Benteng El Morro", type: "historical", note: "Benteng Warisan Dunia di kota tua San Juan" }
+  - { lat: 18.314, lng: -65.792, label: "Hutan Nasional El Yunque", type: "nature", note: "Satu-satunya hutan negara hujan tropis milik AS" }
 features:
-  - text: 'カリブ海に位置する<span class="quiz">アメリカの自治領</span>で、スペイン語と英語が公用語'
+  - text: '<span class="quiz">Wilayah persemakmuran AS</span> yang terletak di Karibia, dengan bahasa Spanyol dan Inggris sebagai bahasa resmi'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3"
-  - text: '16世紀にスペインが建設した<span class="quiz">サン・フアン</span>の旧市街は世界遺産に登録されている'
+  - text: 'Kota tua <span class="quiz">San Juan</span> yang dibangun Spanyol pada abad ke-16 terdaftar sebagai Warisan Dunia'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A2%E3%83%B3_(%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3)"
 ---
 

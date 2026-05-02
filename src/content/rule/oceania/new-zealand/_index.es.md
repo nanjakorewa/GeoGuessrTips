@@ -19,17 +19,17 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: -41.286, lng: 174.776, label: "Wellington", type: "capital", note: "首都・北島南端の港湾都市" }
-  - { lat: -36.848, lng: 174.763, label: "オークランド", type: "city", note: "国内最大の都市・帆の街" }
-  - { lat: -43.532, lng: 172.636, label: "クライストチャーチ", type: "city", note: "南島最大の都市・庭園都市" }
-  - { lat: -45.031, lng: 168.663, label: "クイーンズタウン", type: "city", note: "南島の山岳リゾート都市" }
-  - { lat: -44.673, lng: 167.926, label: "ミルフォード・サウンド", type: "nature", note: "フィヨルドの絶景・世界遺産" }
-  - { lat: -39.297, lng: 174.064, label: "タラナキ山", type: "nature", note: "北島の独立峰" }
-  - { lat: -38.137, lng: 176.250, label: "ロトルア", type: "city", note: "間欠泉と温泉の街・マオリ文化" }
+  - { lat: -41.286, lng: 174.776, label: "Wellington", type: "capital", note: "Capital y ciudad portuaria del extremo sur de la Isla Norte" }
+  - { lat: -36.848, lng: 174.763, label: "Auckland", type: "city", note: "Mayor ciudad del país, conocida como la Ciudad de las Velas" }
+  - { lat: -43.532, lng: 172.636, label: "Christchurch", type: "city", note: "Mayor ciudad de la Isla Sur y ciudad jardín" }
+  - { lat: -45.031, lng: 168.663, label: "Queenstown", type: "city", note: "Centro turístico de montaña en la Isla Sur" }
+  - { lat: -44.673, lng: 167.926, label: "Milford Sound", type: "nature", note: "Espectacular fiordo, Patrimonio de la Humanidad" }
+  - { lat: -39.297, lng: 174.064, label: "Monte Taranaki", type: "nature", note: "Volcán aislado en la Isla Norte" }
+  - { lat: -38.137, lng: 176.250, label: "Rotorua", type: "city", note: "Ciudad de géiseres y aguas termales con cultura maorí" }
 features:
-  - text: '先住民<span class="quiz">マオリ</span>の文化が色濃く残り<span class="quiz">ハカ</span>は世界的に有名である'
+  - text: 'La cultura del pueblo indígena <span class="quiz">maorí</span> sigue muy presente y la <span class="quiz">haka</span> es famosa en todo el mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AA%E3%83%AA"
-  - text: '人口よりも<span class="quiz">羊</span>の数が多く世界有数の乳製品輸出国である'
+  - text: 'Hay más <span class="quiz">ovejas</span> que personas y es uno de los principales exportadores de productos lácteos del mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
 ---
 

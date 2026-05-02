@@ -18,17 +18,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 14.634, lng: -90.506, label: "Guatemala City", type: "capital", note: "首都・中米最大の都市" }
-  - { lat: 14.557, lng: -90.733, label: "アンティグア", type: "historical", note: "旧首都・世界遺産の植民地都市" }
-  - { lat: 14.836, lng: -91.518, label: "ケツァルテナンゴ", type: "city", note: "西部高地の第2の都市" }
-  - { lat: 17.222, lng: -89.624, label: "ティカル", type: "landmark", note: "ペテン地方のマヤ文明大遺跡・世界遺産" }
-  - { lat: 14.692, lng: -91.202, label: "アティトラン湖", type: "nature", note: "火山に囲まれた風光明媚な高地湖" }
-  - { lat: 15.471, lng: -89.348, label: "リオ・ドゥルセ", type: "nature", note: "カリブ海岸の渓谷と運河" }
-  - { lat: 14.473, lng: -90.880, label: "フエゴ火山", type: "nature", note: "活発な活火山・標高3,763m" }
+  - { lat: 14.634, lng: -90.506, label: "Guatemala City", type: "capital", note: "Ibu kota; kota terbesar di Amerika Tengah" }
+  - { lat: 14.557, lng: -90.733, label: "Antigua", type: "historical", note: "Bekas ibu kota; kota kolonial Warisan Dunia" }
+  - { lat: 14.836, lng: -91.518, label: "Quetzaltenango", type: "city", note: "Kota kedua di dataran tinggi barat" }
+  - { lat: 17.222, lng: -89.624, label: "Tikal", type: "landmark", note: "Situs besar peradaban Maya di wilayah Peten; Warisan Dunia" }
+  - { lat: 14.692, lng: -91.202, label: "Danau Atitlan", type: "nature", note: "Danau dataran tinggi memesona yang dikelilingi gunung berapi" }
+  - { lat: 15.471, lng: -89.348, label: "Rio Dulce", type: "nature", note: "Lembah dan kanal di pesisir Karibia" }
+  - { lat: 14.473, lng: -90.880, label: "Gunung Fuego", type: "nature", note: "Gunung berapi yang aktif; ketinggian 3.763 m" }
 features:
-  - text: '<span class="quiz">マヤ文明</span>の中心地であり、ティカル遺跡などが残る'
+  - text: 'Pusat <span class="quiz">peradaban Maya</span>, dengan situs seperti Tikal yang masih tersisa'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9"
-  - text: '中米最大の人口を持ち、先住民族の<span class="quiz">マヤ系住民</span>が人口の約4割を占める'
+  - text: 'Berpenduduk terbanyak di Amerika Tengah, dengan <span class="quiz">penduduk Maya</span> mencapai sekitar 40% populasi'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9#%E4%BD%8F%E6%B0%91"
 ---
 

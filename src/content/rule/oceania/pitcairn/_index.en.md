@@ -18,16 +18,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: -25.066, lng: -130.101, label: "アダムスタウン", type: "capital", note: "首都・諸島で唯一の集落" }
-  - { lat: -25.067, lng: -130.105, label: "ピトケアン島", type: "nature", note: "諸島最大の有人島" }
-  - { lat: -24.349, lng: -128.324, label: "ヘンダーソン島", type: "nature", note: "サンゴ礁の世界自然遺産・無人島" }
-  - { lat: -24.674, lng: -124.787, label: "ドゥーシー島", type: "nature", note: "東端の小さな環礁" }
-  - { lat: -25.367, lng: -130.722, label: "オエノ島", type: "nature", note: "西部の環礁・ピトケアン島民の保養地" }
-  - { lat: -25.066, lng: -130.099, label: "バウンティ湾", type: "port", note: "アダムスタウンの上陸地点" }
+  - { lat: -25.066, lng: -130.101, label: "Adamstown", type: "capital", note: "Capital; the only settlement in the islands" }
+  - { lat: -25.067, lng: -130.105, label: "Pitcairn Island", type: "nature", note: "Largest inhabited island of the group" }
+  - { lat: -24.349, lng: -128.324, label: "Henderson Island", type: "nature", note: "Coral reef World Natural Heritage Site; uninhabited" }
+  - { lat: -24.674, lng: -124.787, label: "Ducie Island", type: "nature", note: "Small atoll at the eastern end" }
+  - { lat: -25.367, lng: -130.722, label: "Oeno Island", type: "nature", note: "Western atoll; recreation spot for Pitcairn Islanders" }
+  - { lat: -25.066, lng: -130.099, label: "Bounty Bay", type: "port", note: "Landing point at Adamstown" }
 features:
-  - text: '<span class="quiz">バウンティ号</span>の反乱者の子孫が住む世界で最も人口の少ない地域の一つである'
+  - text: 'Home to the descendants of the <span class="quiz">HMS Bounty</span> mutineers; one of the least populated regions in the world'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A6%E3%83%B3%E3%83%86%E3%82%A3%E5%8F%B7%E3%81%AE%E5%8F%8D%E4%B9%B1"
-  - text: 'イギリスの<span class="quiz">海外領土</span>であり住民は約50人程度しかいない'
+  - text: 'A British <span class="quiz">overseas territory</span> with only about 50 residents'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%88%E3%82%B1%E3%82%A2%E3%83%B3%E8%AB%B8%E5%B3%B6"
 ---
 

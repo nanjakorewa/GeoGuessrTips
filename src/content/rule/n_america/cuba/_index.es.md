@@ -16,17 +16,17 @@ is_unofficial: true
 flag_height: "400px"
 mapProvider: "osm"
 mapPins:
-  - { lat: 23.135, lng: -82.359, label: "La Habana", type: "capital", note: "首都・カリブ海最大の都市・世界遺産の旧市街" }
-  - { lat: 20.022, lng: -75.829, label: "サンティアゴ・デ・クーバ", type: "city", note: "東部の第2の都市" }
-  - { lat: 21.380, lng: -77.917, label: "カマグエイ", type: "city", note: "中央部の主要都市・世界遺産" }
-  - { lat: 22.408, lng: -79.964, label: "サンタ・クララ", type: "city", note: "中央部の革命の歴史を持つ都市" }
-  - { lat: 21.893, lng: -82.769, label: "シエンフエゴス", type: "port", note: "南部の港湾都市・世界遺産" }
-  - { lat: 21.804, lng: -79.984, label: "トリニダ", type: "historical", note: "植民地時代の街並みが残る世界遺産" }
-  - { lat: 22.616, lng: -83.708, label: "ビニャーレス渓谷", type: "nature", note: "葉巻タバコ栽培地の世界遺産" }
+  - { lat: 23.135, lng: -82.359, label: "La Habana", type: "capital", note: "Capital, mayor ciudad del Caribe y casco antiguo Patrimonio de la Humanidad" }
+  - { lat: 20.022, lng: -75.829, label: "Santiago de Cuba", type: "city", note: "Segunda ciudad del país, en el oriente" }
+  - { lat: 21.380, lng: -77.917, label: "Camagüey", type: "city", note: "Principal ciudad central y Patrimonio de la Humanidad" }
+  - { lat: 22.408, lng: -79.964, label: "Santa Clara", type: "city", note: "Ciudad central con historia revolucionaria" }
+  - { lat: 21.893, lng: -82.769, label: "Cienfuegos", type: "port", note: "Ciudad portuaria del sur, Patrimonio de la Humanidad" }
+  - { lat: 21.804, lng: -79.984, label: "Trinidad", type: "historical", note: "Patrimonio de la Humanidad con casco colonial conservado" }
+  - { lat: 22.616, lng: -83.708, label: "Valle de Viñales", type: "nature", note: "Patrimonio de la Humanidad y zona de cultivo de tabaco para puros" }
 features:
-  - text: 'カリブ海最大の島で、<span class="quiz">社会主義</span>体制の国家である'
+  - text: 'Es la mayor isla del Caribe y un Estado de régimen <span class="quiz">socialista</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90"
-  - text: 'アメリカの経済制裁の影響で<span class="quiz">1950年代のクラシックカー</span>が現役で走っている'
+  - text: 'Debido al embargo económico de Estados Unidos, todavía circulan <span class="quiz">coches clásicos de los años 50</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90#%E4%BA%A4%E9%80%9A"
 ---
 

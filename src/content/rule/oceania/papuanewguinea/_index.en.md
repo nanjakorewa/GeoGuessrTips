@@ -15,17 +15,17 @@ is_unofficial: true
 flag_height: "600px"
 mapProvider: "osm"
 mapPins:
-  - { lat: -9.443, lng: 147.180, label: "Port Moresby", type: "capital", note: "首都・南東部の港湾都市" }
-  - { lat: -6.737, lng: 147.001, label: "ラエ", type: "port", note: "国内第二の都市・モロベ州の州都" }
-  - { lat: -5.864, lng: 144.295, label: "マウント・ハーゲン", type: "city", note: "高地地方最大の都市" }
-  - { lat: -4.219, lng: 152.166, label: "ラバウル", type: "historical", note: "ニューブリテン島の港町・第二次大戦の重要拠点" }
-  - { lat: -2.567, lng: 150.794, label: "カビエン", type: "city", note: "ニューアイルランド州の州都" }
-  - { lat: -4.215, lng: 145.788, label: "マダン", type: "port", note: "北海岸の港湾都市" }
-  - { lat: -5.900, lng: 144.500, label: "ニューギニア高地", type: "nature", note: "豊かな自然と多様な部族文化" }
+  - { lat: -9.443, lng: 147.180, label: "Port Moresby", type: "capital", note: "Capital; port city in the southeastern part" }
+  - { lat: -6.737, lng: 147.001, label: "Lae", type: "port", note: "Second-largest city in the country; capital of Morobe Province" }
+  - { lat: -5.864, lng: 144.295, label: "Mount Hagen", type: "city", note: "Largest city in the Highlands region" }
+  - { lat: -4.219, lng: 152.166, label: "Rabaul", type: "historical", note: "Port town on New Britain Island; key WWII base" }
+  - { lat: -2.567, lng: 150.794, label: "Kavieng", type: "city", note: "Capital of New Ireland Province" }
+  - { lat: -4.215, lng: 145.788, label: "Madang", type: "port", note: "Port city on the north coast" }
+  - { lat: -5.900, lng: 144.500, label: "New Guinea Highlands", type: "nature", note: "Rich nature and diverse tribal cultures" }
 features:
-  - text: '世界で最も<span class="quiz">言語</span>の多様性が高く800以上の言語が話されている'
+  - text: 'Has the highest <span class="quiz">linguistic</span> diversity in the world, with more than 800 languages spoken'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%97%E3%82%A2%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AE%E3%83%8B%E3%82%A2"
-  - text: 'ニューギニア島の東半分を占め<span class="quiz">熱帯雨林</span>が国土の大部分を覆う'
+  - text: 'Occupies the eastern half of New Guinea Island, with <span class="quiz">tropical rainforest</span> covering most of the country'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AE%E3%83%8B%E3%82%A2%E5%B3%B6"
 ---
 

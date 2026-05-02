@@ -14,16 +14,16 @@ dont_show_usda: true
 is_unofficial: true
 mapProvider: "osm"
 mapPins:
-  - { lat: -22.276, lng: 166.458, label: "Noumea", type: "capital", note: "首都・グランドテール島南端の港町" }
-  - { lat: -20.722, lng: 165.250, label: "コネ", type: "city", note: "北部州の中心地・ニッケル鉱山の街" }
-  - { lat: -22.591, lng: 167.483, label: "イル・デ・パン", type: "nature", note: "松の島・南太平洋の楽園と称される" }
-  - { lat: -20.918, lng: 167.265, label: "リフー島", type: "nature", note: "ロイヤルティ諸島最大の島" }
-  - { lat: -21.500, lng: 165.500, label: "グランドテール島", type: "nature", note: "ニューカレドニア本島・世界遺産のサンゴ礁" }
-  - { lat: -22.265, lng: 166.420, label: "ヌメア湾", type: "port", note: "首都の主要港湾" }
+  - { lat: -22.276, lng: 166.458, label: "Noumea", type: "capital", note: "Capital; port town at the southern end of Grande Terre" }
+  - { lat: -20.722, lng: 165.250, label: "Kone", type: "city", note: "Center of North Province; nickel mining town" }
+  - { lat: -22.591, lng: 167.483, label: "Isle of Pines", type: "nature", note: "Island of pines; called the paradise of the South Pacific" }
+  - { lat: -20.918, lng: 167.265, label: "Lifou Island", type: "nature", note: "Largest island of the Loyalty Islands" }
+  - { lat: -21.500, lng: 165.500, label: "Grande Terre", type: "nature", note: "Main island of New Caledonia; World Heritage coral reef" }
+  - { lat: -22.265, lng: 166.420, label: "Noumea Bay", type: "port", note: "Main port of the capital" }
 features:
-  - text: '<span class="quiz">フランス</span>の海外領土であり世界有数の<span class="quiz">ニッケル</span>産出地である'
+  - text: 'A <span class="quiz">French</span> overseas territory and one of the world''s leading <span class="quiz">nickel</span> producers'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%AC%E3%83%89%E3%83%8B%E3%82%A2"
-  - text: '周囲のサンゴ礁は<span class="quiz">世界遺産</span>に登録されており生物多様性が豊かである'
+  - text: 'The surrounding coral reefs are registered as a <span class="quiz">World Heritage Site</span> and host rich biodiversity'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%AC%E3%83%89%E3%83%8B%E3%82%A2%E3%81%AE%E3%83%A9%E3%82%B0%E3%83%BC%E3%83%B3"
 ---
 

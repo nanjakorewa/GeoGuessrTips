@@ -21,17 +21,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 8.984, lng: -79.518, label: "パナマシティ", type: "capital", note: "首都・運河南端の最大都市" }
-  - { lat: 9.355, lng: -79.901, label: "コロン", type: "port", note: "運河北端のカリブ海側港湾都市" }
-  - { lat: 8.434, lng: -82.435, label: "ダビ", type: "city", note: "コスタリカ国境近くの西部主要都市" }
-  - { lat: 9.080, lng: -79.680, label: "パナマ運河", type: "landmark", note: "太平洋と大西洋を結ぶ運河" }
-  - { lat: 8.971, lng: -79.557, label: "パナマ・ビエホ", type: "historical", note: "旧パナマ市の世界遺産" }
-  - { lat: 9.342, lng: -82.243, label: "ボカス・デル・トロ", type: "city", note: "カリブ海岸の群島観光地" }
-  - { lat: 8.819, lng: -82.470, label: "バル火山", type: "nature", note: "国内最高峰・標高3,475m" }
+  - { lat: 8.984, lng: -79.518, label: "Panama City", type: "capital", note: "Ibu kota; kota terbesar di ujung selatan Terusan" }
+  - { lat: 9.355, lng: -79.901, label: "Colon", type: "port", note: "Kota pelabuhan sisi Karibia di ujung utara Terusan" }
+  - { lat: 8.434, lng: -82.435, label: "David", type: "city", note: "Kota utama barat dekat perbatasan Kosta Rika" }
+  - { lat: 9.080, lng: -79.680, label: "Terusan Panama", type: "landmark", note: "Terusan yang menghubungkan Pasifik dan Atlantik" }
+  - { lat: 8.971, lng: -79.557, label: "Panama Viejo", type: "historical", note: "Warisan Dunia kota Panama lama" }
+  - { lat: 9.342, lng: -82.243, label: "Bocas del Toro", type: "city", note: "Kawasan wisata kepulauan di pesisir Karibia" }
+  - { lat: 8.819, lng: -82.470, label: "Gunung Baru", type: "nature", note: "Puncak tertinggi di negeri ini; ketinggian 3.475 m" }
 features:
-  - text: '太平洋と大西洋を結ぶ<span class="quiz">パナマ運河</span>が通る交通の要衝である'
+  - text: 'Titik strategis transportasi yang dilalui <span class="quiz">Terusan Panama</span> yang menghubungkan Pasifik dan Atlantik'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E%E9%81%8B%E6%B2%B3"
-  - text: '通貨は<span class="quiz">米ドル</span>（バルボアと等価）が使用されている'
+  - text: 'Mata uang yang digunakan adalah <span class="quiz">dolar AS</span> (setara dengan Balboa)'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E#%E7%B5%8C%E6%B8%88"
 ---
 

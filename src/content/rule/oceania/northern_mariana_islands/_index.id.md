@@ -21,16 +21,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 15.213, lng: 145.755, label: "ススペ", type: "capital", note: "首都・サイパン島南西部" }
-  - { lat: 15.184, lng: 145.751, label: "ガラパン", type: "city", note: "サイパン島最大の街・観光の中心" }
-  - { lat: 15.119, lng: 145.708, label: "サイパン国際空港", type: "landmark", note: "島南部の国際空港" }
-  - { lat: 14.171, lng: 145.226, label: "ティニアン島", type: "historical", note: "原爆を搭載したエノラ・ゲイ離陸地" }
-  - { lat: 14.152, lng: 145.211, label: "ロタ島", type: "nature", note: "南マリアナの自然豊かな島" }
-  - { lat: 15.273, lng: 145.819, label: "バンザイクリフ", type: "historical", note: "サイパン島北端の戦跡・断崖" }
+  - { lat: 15.213, lng: 145.755, label: "Susupe", type: "capital", note: "Ibu kota; bagian barat daya Pulau Saipan" }
+  - { lat: 15.184, lng: 145.751, label: "Garapan", type: "city", note: "Kota terbesar di Pulau Saipan; pusat pariwisata" }
+  - { lat: 15.119, lng: 145.708, label: "Bandara Internasional Saipan", type: "landmark", note: "Bandara internasional di selatan pulau" }
+  - { lat: 14.171, lng: 145.226, label: "Pulau Tinian", type: "historical", note: "Tempat lepas landas Enola Gay yang membawa bom atom" }
+  - { lat: 14.152, lng: 145.211, label: "Pulau Rota", type: "nature", note: "Pulau Mariana selatan dengan alam yang kaya" }
+  - { lat: 15.273, lng: 145.819, label: "Banzai Cliff", type: "historical", note: "Situs perang dan tebing di ujung utara Pulau Saipan" }
 features:
-  - text: '日本統治時代の名残で<span class="quiz">日本語</span>由来の地名や建造物が残っている'
+  - text: 'Sisa peninggalan masa pemerintahan Jepang berupa nama tempat dan bangunan dari <span class="quiz">bahasa Jepang</span> masih tersisa'
     ref: "https://ja.wikipedia.org/wiki/%E5%8C%97%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%8A%E8%AB%B8%E5%B3%B6"
-  - text: '<span class="quiz">サイパン島</span>が主島であり太平洋戦争の激戦地でもあった'
+  - text: '<span class="quiz">Pulau Saipan</span> adalah pulau utamanya, juga merupakan medan tempur sengit dalam Perang Pasifik'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%91%E3%83%B3%E3%81%AE%E6%88%A6%E3%81%84"
 ---
 

@@ -22,16 +22,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 13.475, lng: 144.752, label: "ハガニア", type: "capital", note: "首都・行政の中心地" }
-  - { lat: 13.479, lng: 144.795, label: "タモン", type: "city", note: "観光ホテルが集中するリゾート地区" }
-  - { lat: 13.444, lng: 144.737, label: "アガナ湾", type: "nature", note: "首都に隣接する美しい湾" }
-  - { lat: 13.456, lng: 144.788, label: "アガニア・ハイツ", type: "city", note: "中部の住宅地" }
-  - { lat: 13.585, lng: 144.857, label: "アンダーセン空軍基地", type: "landmark", note: "島北部の主要米軍基地" }
-  - { lat: 13.376, lng: 144.661, label: "アプラ港", type: "port", note: "西海岸の主要港湾・米海軍基地" }
+  - { lat: 13.475, lng: 144.752, label: "Hagatna", type: "capital", note: "Ibu kota; pusat administrasi" }
+  - { lat: 13.479, lng: 144.795, label: "Tumon", type: "city", note: "Distrik resor dengan banyak hotel wisata" }
+  - { lat: 13.444, lng: 144.737, label: "Teluk Agana", type: "nature", note: "Teluk indah yang berdampingan dengan ibu kota" }
+  - { lat: 13.456, lng: 144.788, label: "Agana Heights", type: "city", note: "Kawasan permukiman di bagian tengah" }
+  - { lat: 13.585, lng: 144.857, label: "Pangkalan Udara Andersen", type: "landmark", note: "Pangkalan utama militer AS di utara pulau" }
+  - { lat: 13.376, lng: 144.661, label: "Pelabuhan Apra", type: "port", note: "Pelabuhan utama pesisir barat; pangkalan AL AS" }
 features:
-  - text: '<span class="quiz">アメリカ合衆国</span>の非自治的編入地域であり米軍基地が島の約3割を占める'
+  - text: 'Wilayah berinkorporasi tak berpemerintahan sendiri milik <span class="quiz">Amerika Serikat</span>; pangkalan militer AS mencakup sekitar 30% pulau'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%A0"
-  - text: '日本から約3時間半で行ける<span class="quiz">リゾート</span>地として人気が高い'
+  - text: 'Populer sebagai <span class="quiz">resor</span> yang dapat dijangkau dari Jepang dalam sekitar 3,5 jam'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%A0"
 ---
 

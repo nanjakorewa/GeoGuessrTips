@@ -15,17 +15,17 @@ dont_show_usda: true
 is_unofficial: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 14.072, lng: -87.192, label: "テグシガルパ", type: "capital", note: "首都・中央高地の最大都市" }
-  - { lat: 15.504, lng: -88.025, label: "サン・ペドロ・スーラ", type: "city", note: "北部の経済の中心地・第2の都市" }
-  - { lat: 15.762, lng: -86.787, label: "ラ・セイバ", type: "port", note: "カリブ海岸の港湾都市" }
-  - { lat: 15.778, lng: -86.793, label: "テラ", type: "city", note: "北岸のビーチと湿地の町" }
-  - { lat: 14.838, lng: -89.142, label: "コパン遺跡", type: "landmark", note: "マヤ文明の世界遺産遺跡" }
-  - { lat: 16.300, lng: -86.583, label: "ロアタン島", type: "nature", note: "カリブ海のサンゴ礁ダイビング地" }
-  - { lat: 15.083, lng: -85.250, label: "リオ・プラタノ生物圏保護区", type: "nature", note: "東部の世界遺産の熱帯雨林" }
+  - { lat: 14.072, lng: -87.192, label: "Tegucigalpa", type: "capital", note: "Capital y mayor ciudad del altiplano central" }
+  - { lat: 15.504, lng: -88.025, label: "San Pedro Sula", type: "city", note: "Centro económico del norte y segunda ciudad del país" }
+  - { lat: 15.762, lng: -86.787, label: "La Ceiba", type: "port", note: "Ciudad portuaria de la costa caribeña" }
+  - { lat: 15.778, lng: -86.793, label: "Tela", type: "city", note: "Ciudad de la costa norte con playas y humedales" }
+  - { lat: 14.838, lng: -89.142, label: "Ruinas de Copán", type: "landmark", note: "Sitio maya Patrimonio de la Humanidad" }
+  - { lat: 16.300, lng: -86.583, label: "Roatán", type: "nature", note: "Destino de buceo en el arrecife caribeño" }
+  - { lat: 15.083, lng: -85.250, label: "Reserva de la Biosfera del Río Plátano", type: "nature", note: "Selva tropical del este, Patrimonio de la Humanidad" }
 features:
-  - text: '中米に位置し、<span class="quiz">バナナ</span>の輸出で知られ「バナナ共和国」の語源となった'
+  - text: 'Situado en Centroamérica, es famoso por la exportación de <span class="quiz">banano</span> y dio origen al término "república bananera"'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%A9%E3%82%B9"
-  - text: 'マヤ文明の遺跡<span class="quiz">コパン</span>が世界遺産に登録されている'
+  - text: 'El sitio arqueológico maya de <span class="quiz">Copán</span> está inscrito como Patrimonio de la Humanidad'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%91%E3%83%B3"
 ---
 
