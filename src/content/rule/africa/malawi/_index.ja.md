@@ -15,7 +15,7 @@ is_unofficial: true
 features:
   - text: '国土の約<span class="quiz">20%</span>を<span class="quiz">マラウイ湖</span>が占めており、アフリカで3番目に大きい湖である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4%E6%B9%96"
-  - text: '旧イギリス保護領で公用語は<span class="quiz">英語</span>、「アフリカの温かい心」と呼ばれる'
+  - text: '旧イギリス保護領で公用語は<span class="quiz">英語</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4"
 mapProvider: "osm"
 mapPins:

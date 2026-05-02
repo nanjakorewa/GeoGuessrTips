@@ -19,8 +19,6 @@ sc: [
 features:
   - text: '国土面積は約<span class="quiz">730平方km</span>で東京23区とほぼ同じ面積の都市国家である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB"
-  - text: '<span class="quiz">マーライオン</span>はシンガポールを象徴するランドマークである'
-    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3"
 
 # ===== OSM ヒーロー設定 =====
 mapProvider: "osm"
