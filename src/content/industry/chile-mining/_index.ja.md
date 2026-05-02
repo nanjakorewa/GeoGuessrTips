@@ -28,13 +28,13 @@ mapPins:
 加えて[チリ](/rule/cs_america/chile/)は<span style="font-weight:700">世界第2位のリチウム生産国</span> （1位は[オーストラリア](/rule/oceania/australia/)）で、アタカマ塩湖（Salar de Atacama）のかん水から世界の<span style="font-weight:700">約34%</span> ものリチウムが採れるとされ、隣接する[アルゼンチン](/rule/cs_america/argentina/)・[ボリビア](/rule/cs_america/bolivia/)と合わせた<span style="font-weight:700">「リチウムトライアングル」</span> は世界リチウム資源の約56%を占めます{{% cite "fastmarkets_lithium_triangle" %}}。
 
 <div class="stat-grid">
-<div class="stat-card"><div class="stat-num">~550万t</div><div class="stat-label">2024年 [チリ](/rule/cs_america/chile/)銅生産量（世界1位）</div></div>
+<div class="stat-card"><div class="stat-num">~550万t</div><div class="stat-label">2024年 チリ銅生産量（世界1位）</div></div>
 <div class="stat-card"><div class="stat-num">~24%</div><div class="stat-label">世界銅鉱山生産シェア</div></div>
 <div class="stat-card"><div class="stat-num">~21.3%</div><div class="stat-label">世界銅埋蔵量シェア</div></div>
 <div class="stat-card"><div class="stat-num">~34%</div><div class="stat-label">アタカマ塩湖の世界リチウム供給シェア</div></div>
 </div>
 
-## [チリ](/rule/cs_america/chile/)の銅鉱業
+## チリの銅鉱業
 
 ### 主要銅鉱山
 
