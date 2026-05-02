@@ -293,6 +293,13 @@ const needsJQuery36 = !!data.import_jquery_36;
 const useOSMHero = data.mapProvider === "osm";
 const needsJSMaps = !useOSMHero && (!!data.mapName || !!data.map_index);
 const isQuizPage = data.pagetype === "quiz";
+// /rule/ ルートのワールドマップは OSM ではないが、OSM ヒーローと同等の見た目
+// (タイトル左 / マップ右 / 紺色フルブリード / パンくずを下部に) にしたい。
+// 影響範囲を最小化するため、コレクションのルート (currentSlug が空) で
+// map_index のみ指定されているケースに限定する。
+const useWorldJSMapHero =
+  !useOSMHero && !!data.map_index && !data.mapName && currentSlug === "";
+const useHeroLayout = useOSMHero || useWorldJSMapHero;
 
 // --- Flag path ---
 const flagPath = data.flag ? `/flags/${data.flag}` : "";
@@ -673,6 +680,26 @@ const lastmodDisplay = modifiedTime
     </section>
   )}
 
+  {/* JSMap ヒーロー（map_index のセクションインデックス: /rule/ ワールドマップ等） */}
+  {useWorldJSMapHero && (
+    <section class="rule-hero-section rule-hero-section--jsmap">
+      <div class="rule-hero-section__inner rule-hero-section__inner--jsmap">
+        <div class="rule-hero-title">
+          <h1 class="rule-hero-title__h1">
+            {data.title_prefix && <span class="rule-hero-title__prefix">{data.title_prefix}</span>}
+            <span class="rule-hero-title__main">{data.title}</span>
+            {data.title_suffix && <span class="rule-hero-title__suffix">{data.title_suffix}</span>}
+          </h1>
+        </div>
+        <div class="rule-hero-map">
+          <div class={`areamap-container areamap-container--hero ${data.additional_map_class || ""}`}>
+            <div class="jsmaps-wrapper" id="world-map"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+
   {/* ヒーロー下のスライドショー（heroGallery 指定時のみ） */}
   {useOSMHero && data.heroGallery && data.heroGallery.length > 0 && (
     <div class="rule-hero-gallery">
@@ -692,7 +719,7 @@ const lastmodDisplay = modifiedTime
   )}
 
   {/* Main content */}
-  <section class={`single section-sm pb-0${isQuizPage ? " quiz-page" : ""}${useOSMHero ? " single--osm-hero" : ""}`}>
+  <section class={`single section-sm pb-0${isQuizPage ? " quiz-page" : ""}${useHeroLayout ? " single--osm-hero" : ""}`}>
     <div class={isQuizPage ? "container-lg" : "container"}>
       <div class="row">
         {/* Sidebar (hidden for quiz pages) */}
@@ -704,8 +731,8 @@ const lastmodDisplay = modifiedTime
 
         {/* Content */}
         <div class={isQuizPage ? "col-lg-8 offset-lg-2" : "col-lg-9"}>
-          {/* OSM ヒーロー使用時はパンくずを下部へ移動（重複した上部スペースを解消） */}
-          {!useOSMHero && (
+          {/* ヒーロー使用時 (OSM / JSMap) はパンくずを下部へ移動 */}
+          {!useHeroLayout && (
             <ol class="breadcrumb article-breadcrumb">
               {crumbs.map((crumb, i) =>
                 i === crumbs.length - 1
@@ -715,8 +742,8 @@ const lastmodDisplay = modifiedTime
             </ol>
           )}
 
-          <div class={`article-surface${useOSMHero ? " article-surface--osm-hero" : ""}`}>
-            {!useOSMHero && (
+          <div class={`article-surface${useHeroLayout ? " article-surface--osm-hero" : ""}`}>
+            {!useHeroLayout && (
               <h1 class={isQuizPage ? "mb-3 quiz-page-title" : "mb-5"}>
                 {data.title_prefix && <span class="small-title">{data.title_prefix}</span>}
                 {data.title}
@@ -797,8 +824,8 @@ const lastmodDisplay = modifiedTime
               </div>
             )}
 
-            {/* JSMaps: map_index (section index pages) — OSM ヒーロー使用時は抑止 */}
-            {data.map_index && !useOSMHero && (
+            {/* JSMaps: map_index (section index pages) — ヒーロー使用時はヒーロー側へ移動 */}
+            {data.map_index && !useHeroLayout && (
               <div class={`areamap-container ${data.additional_map_class || ""}`}>
                 <div class="container">
                   <div class="jsmaps-wrapper" id="world-map"></div>
@@ -961,8 +988,8 @@ const lastmodDisplay = modifiedTime
             </div>
           </div>
 
-          {/* OSM ヒーロー使用時のパンくず（コンテンツ下に表示） */}
-          {useOSMHero && (
+          {/* ヒーロー使用時 (OSM / JSMap) のパンくず（コンテンツ下に表示） */}
+          {useHeroLayout && (
             <ol class="breadcrumb article-breadcrumb article-breadcrumb--bottom">
               {crumbs.map((crumb, i) =>
                 i === crumbs.length - 1

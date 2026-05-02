@@ -21,16 +21,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: -14.275, lng: -170.702, label: "パゴパゴ", type: "capital", note: "首都・トゥトゥイラ島の主要港" }
-  - { lat: -14.331, lng: -170.711, label: "タフナ", type: "city", note: "国際空港のある主要集落" }
-  - { lat: -14.255, lng: -170.689, label: "ファガトゴ", type: "city", note: "Centro administrativo de facto" }
-  - { lat: -14.180, lng: -169.668, label: "オフ島", type: "nature", note: "マヌア諸島の自然豊かな島" }
-  - { lat: -14.215, lng: -169.475, label: "タウ島", type: "nature", note: "マヌア諸島最大の島" }
-  - { lat: -14.282, lng: -170.682, label: "ナショナルパーク・オブ・アメリカン・サモア", type: "nature", note: "熱帯雨林とサンゴ礁の国立公園" }
+  - { lat: -14.275, lng: -170.702, label: "Pago Pago", type: "capital", note: "Capital y principal puerto de la isla de Tutuila" }
+  - { lat: -14.331, lng: -170.711, label: "Tafuna", type: "city", note: "Núcleo principal donde se encuentra el aeropuerto internacional" }
+  - { lat: -14.255, lng: -170.689, label: "Fagatogo", type: "city", note: "Centro administrativo de facto" }
+  - { lat: -14.180, lng: -169.668, label: "Isla Ofu", type: "nature", note: "Isla de gran riqueza natural en las Manu'a" }
+  - { lat: -14.215, lng: -169.475, label: "Isla Ta'ū", type: "nature", note: "Mayor isla del archipiélago de Manu'a" }
+  - { lat: -14.282, lng: -170.682, label: "Parque Nacional de Samoa Americana", type: "nature", note: "Parque nacional de selva tropical y arrecifes de coral" }
 features:
-  - text: 'アメリカ合衆国唯一の<span class="quiz">南半球</span>に位置する領土である'
+  - text: 'Es el único territorio de Estados Unidos situado en el <span class="quiz">hemisferio sur</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%82%B5%E3%83%A2%E3%82%A2"
-  - text: '<span class="quiz">ポリネシア</span>文化が色濃く残り伝統的な村落共同体が維持されている'
+  - text: 'La cultura <span class="quiz">polinesia</span> sigue muy presente y se conservan las comunidades tradicionales de aldea'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%82%B5%E3%83%A2%E3%82%A2"
 ---
 

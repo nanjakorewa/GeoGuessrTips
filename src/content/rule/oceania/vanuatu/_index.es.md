@@ -14,16 +14,16 @@ dont_show_usda: true
 is_has_many_trekker: true
 mapProvider: "osm"
 mapPins:
-  - { lat: -17.733, lng: 168.317, label: "Port Vila", type: "capital", note: "首都・エファテ島南西の港町" }
-  - { lat: -19.530, lng: 169.442, label: "ヤスル山", type: "nature", note: "タンナ島の活火山・観光地" }
-  - { lat: -15.521, lng: 167.171, label: "ルーガンビル", type: "city", note: "エスピリトゥサント島の中心都市" }
-  - { lat: -19.531, lng: 169.272, label: "タンナ島", type: "nature", note: "ヤスル山と伝統文化で知られる" }
-  - { lat: -15.376, lng: 167.182, label: "エスピリトゥサント島", type: "nature", note: "国内最大の島" }
-  - { lat: -17.755, lng: 168.327, label: "メレ・カスケード", type: "nature", note: "エファテ島の人気の滝" }
+  - { lat: -17.733, lng: 168.317, label: "Port Vila", type: "capital", note: "Capital y ciudad portuaria del suroeste de la isla de Éfaté" }
+  - { lat: -19.530, lng: 169.442, label: "Monte Yasur", type: "nature", note: "Volcán activo y atractivo turístico de la isla de Tanna" }
+  - { lat: -15.521, lng: 167.171, label: "Luganville", type: "city", note: "Principal ciudad de la isla de Espíritu Santo" }
+  - { lat: -19.531, lng: 169.272, label: "Isla Tanna", type: "nature", note: "Conocida por el monte Yasur y su cultura tradicional" }
+  - { lat: -15.376, lng: 167.182, label: "Isla Espíritu Santo", type: "nature", note: "Mayor isla del país" }
+  - { lat: -17.755, lng: 168.327, label: "Cascadas de Mele", type: "nature", note: "Cascadas populares de la isla de Éfaté" }
 features:
-  - text: '活火山<span class="quiz">ヤスール山</span>は世界で最もアクセスしやすい活火山の一つである'
+  - text: 'El volcán activo <span class="quiz">monte Yasur</span> es uno de los volcanes activos más accesibles del mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%B9%E3%83%BC%E3%83%AB%E5%B1%B1"
-  - text: '<span class="quiz">バンジージャンプ</span>の起源とされるナゴール（ランドダイビング）の儀式がある'
+  - text: 'Cuenta con la ceremonia del nagol (salto de tierra), considerada el origen del <span class="quiz">puenting</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B4%E3%83%BC%E3%83%AB"
 ---
 

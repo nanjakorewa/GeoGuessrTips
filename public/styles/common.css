@@ -2809,6 +2809,51 @@ div.areamap-container.wide-map3 div.jsmaps svg {
   padding-left: 4%;
 }
 
+/* /rule/ ルートのワールドマップは OSM ヒーローと同等のヒーローセクションに
+   描画される (DefaultLayout の useWorldJSMapHero)。ヒーロー側で紺色背景を
+   提供するので、内側の areamap-container--hero は背景・影・余白を消す。 */
+.rule-hero-section--jsmap .rule-hero-section__inner--jsmap {
+  /* 「マップを画面横一杯に」: max-width 制約を外して左右パディングだけにする */
+  max-width: none;
+  padding: 0 1.5rem;
+  grid-template-columns: minmax(220px, 320px) minmax(0, 1fr);
+}
+
+div.areamap-container--hero {
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  max-width: none !important;
+  min-height: 0 !important;
+}
+
+div.areamap-container--hero div.jsmaps {
+  width: 100% !important;
+  display: flex;
+  justify-content: center;
+}
+
+div.areamap-container--hero div.jsmaps svg {
+  max-width: 100% !important;
+  max-height: 520px !important;
+  margin: 0 auto !important;
+  padding-left: 0 !important;
+}
+
+/* 紺色背景の上では JSMaps の国名略号 (text 要素) を白寄りにして可読性を確保 */
+div.areamap-container--hero div.jsmaps svg text {
+  fill: rgba(255, 255, 255, 0.85);
+}
+
+@media (max-width: 900px) {
+  .rule-hero-section--jsmap .rule-hero-section__inner--jsmap {
+    grid-template-columns: 1fr;
+    padding: 1rem 1rem 0;
+  }
+}
+
 
 @media screen and (min-width: 800px) {
   div.areamap-container {
