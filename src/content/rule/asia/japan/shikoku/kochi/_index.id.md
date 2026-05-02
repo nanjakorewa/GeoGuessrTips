@@ -10,16 +10,16 @@ is_pref: true
 flag: "Kochi.svg"
 mapProvider: "osm"
 mapPins:
-  - { lat: 33.567, lng: 133.543, label: "高知駅", type: "capital", note: "高知県の県庁所在地" }
-  - { lat: 33.561, lng: 133.531, label: "高知城", type: "historical", note: "現存天守" }
-  - { lat: 33.495, lng: 133.572, label: "桂浜", type: "landmark", note: "坂本龍馬像" }
-  - { lat: 33.250, lng: 132.928, label: "四万十川", type: "nature", note: "日本最後の清流" }
-  - { lat: 32.731, lng: 132.985, label: "足摺岬", type: "nature", note: "四国最南端" }
-  - { lat: 33.286, lng: 134.176, label: "室戸岬", type: "nature", note: "ジオパーク" }
+  - { lat: 33.567, lng: 133.543, label: "Stasiun Kochi", type: "capital", note: "Ibu kota Prefektur Kochi" }
+  - { lat: 33.561, lng: 133.531, label: "Kastil Kochi", type: "historical", note: "Menara utama yang masih ada" }
+  - { lat: 33.495, lng: 133.572, label: "Pantai Katsurahama", type: "landmark", note: "Patung Sakamoto Ryoma" }
+  - { lat: 33.250, lng: 132.928, label: "Sungai Shimanto", type: "nature", note: "Sungai jernih terakhir di Jepang" }
+  - { lat: 32.731, lng: 132.985, label: "Tanjung Ashizuri", type: "nature", note: "Ujung paling selatan Shikoku" }
+  - { lat: 33.286, lng: 134.176, label: "Tanjung Muroto", type: "nature", note: "Geopark" }
 features:
-  - text: '<span class="quiz">かつお</span>の一本釣りが盛んで、かつおの消費量は全国1位'
+  - text: 'Penangkapan <span class="quiz">cakalang</span> dengan teknik joran tunggal sangat populer, dan konsumsi cakalangnya menempati peringkat pertama di seluruh Jepang'
     ref: "https://ja.wikipedia.org/wiki/高知県#水産業"
-  - text: '温暖な気候を活かした<span class="quiz">促成栽培</span>（なす・ピーマン・みょうが）で全国有数の園芸農業県'
+  - text: 'Memanfaatkan iklim hangat untuk <span class="quiz">budidaya percepatan</span> (terong, paprika, myoga), menjadi salah satu prefektur unggulan dalam pertanian hortikultura nasional'
     ref: "https://ja.wikipedia.org/wiki/高知県#農業"
 ---
 

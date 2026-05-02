@@ -10,16 +10,16 @@ is_pref: true
 flag: "Iwate.svg"
 mapProvider: "osm"
 mapPins:
-  - { lat: 39.702, lng: 141.137, label: "盛岡駅", type: "capital", note: "岩手県の県庁所在地" }
-  - { lat: 39.143, lng: 141.140, label: "奥州市水沢", type: "city", note: "南部鉄器の産地" }
-  - { lat: 39.084, lng: 141.717, label: "釜石", type: "port", note: "三陸の港町・製鉄の街" }
-  - { lat: 39.288, lng: 141.901, label: "宮古", type: "port", note: "三陸海岸の港町" }
-  - { lat: 39.529, lng: 141.960, label: "浄土ヶ浜", type: "nature", note: "三陸復興国立公園・景勝地" }
-  - { lat: 39.000, lng: 141.117, label: "中尊寺", type: "historical", note: "平泉・世界遺産" }
+  - { lat: 39.702, lng: 141.137, label: "Morioka Station", type: "capital", note: "Capital of Iwate Prefecture" }
+  - { lat: 39.143, lng: 141.140, label: "Mizusawa, Oshu", type: "city", note: "Center of Nambu ironware production" }
+  - { lat: 39.084, lng: 141.717, label: "Kamaishi", type: "port", note: "Sanriku port town; steelmaking center" }
+  - { lat: 39.288, lng: 141.901, label: "Miyako", type: "port", note: "Port town on the Sanriku coast" }
+  - { lat: 39.529, lng: 141.960, label: "Jodogahama", type: "nature", note: "Sanriku Fukko National Park; scenic spot" }
+  - { lat: 39.000, lng: 141.117, label: "Chusonji Temple", type: "historical", note: "Hiraizumi; World Heritage site" }
 features:
-  - text: '南部鉄器に代表される<span class="quiz">鋳物産業</span>が盛んで、奥州市水沢区は日本有数の鋳物の街'
+  - text: 'A thriving <span class="quiz">cast-metal industry</span> typified by Nambu ironware, with the Mizusawa district of Oshu being one of Japan''s leading casting towns'
     ref: "https://ja.wikipedia.org/wiki/南部鉄器"
-  - text: '三陸海岸沿いは<span class="quiz">水産加工業</span>が集積し、わかめ養殖は全国1位'
+  - text: '<span class="quiz">Marine processing</span> industries concentrate along the Sanriku coast, and wakame seaweed cultivation ranks first in Japan'
     ref: "https://ja.wikipedia.org/wiki/岩手県#水産業"
 ---
 

@@ -14,16 +14,16 @@ dont_show_usda: true
 is_unofficial: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 41.716, lng: 44.783, label: "トビリシ", type: "capital", note: "ジョージアの首都・最大都市" }
-  - { lat: 42.270, lng: 42.708, label: "クタイシ", type: "city", note: "西部の主要都市・古代コルキス王国の都" }
-  - { lat: 41.643, lng: 41.640, label: "バトゥミ", type: "port", note: "黒海沿岸のリゾート・港湾都市" }
-  - { lat: 41.840, lng: 44.717, label: "ムツヘタ", type: "historical", note: "世界遺産・ジョージア最古の都" }
-  - { lat: 42.708, lng: 44.660, label: "カズベキ山", type: "nature", note: "コーカサスの名峰（標高5,047m）" }
-  - { lat: 42.500, lng: 43.000, label: "コーカサス山脈", type: "nature", note: "国土北部を走る大山脈" }
+  - { lat: 41.716, lng: 44.783, label: "Tiflis", type: "capital", note: "Capital y mayor ciudad de Georgia" }
+  - { lat: 42.270, lng: 42.708, label: "Kutaisi", type: "city", note: "Principal ciudad del oeste, antigua capital del reino de Cólquida" }
+  - { lat: 41.643, lng: 41.640, label: "Batumi", type: "port", note: "Ciudad turística y portuaria del mar Negro" }
+  - { lat: 41.840, lng: 44.717, label: "Mtsjeta", type: "historical", note: "Patrimonio Mundial, ciudad más antigua de Georgia" }
+  - { lat: 42.708, lng: 44.660, label: "Monte Kazbek", type: "nature", note: "Cumbre emblemática del Cáucaso (5.047 m)" }
+  - { lat: 42.500, lng: 43.000, label: "Cordillera del Cáucaso", type: "nature", note: "Gran cordillera que recorre el norte del país" }
 features:
-  - text: '<span class="quiz">コーカサス山脈</span>の南側に位置しヨーロッパとアジアの境界にある'
+  - text: 'Se encuentra en el lado sur de la <span class="quiz">cordillera del Cáucaso</span>, en la frontera entre Europa y Asia'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2"
-  - text: '世界最古の<span class="quiz">ワイン</span>発祥地の一つとされ約8000年の歴史を持つ'
+  - text: 'Está considerada una de las cunas más antiguas del <span class="quiz">vino</span>, con unos 8.000 años de historia'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%B3"
 
 # ===== OSM ヒーロー設定 =====

@@ -15,16 +15,16 @@ dont_show_usda: true
 is_unofficial: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 40.409, lng: 49.867, label: "バクー", type: "capital", note: "アゼルバイジャンの首都・カスピ海沿岸の港湾都市" }
-  - { lat: 40.685, lng: 46.361, label: "ガンジャ", type: "city", note: "国内第二の都市" }
-  - { lat: 40.589, lng: 49.668, label: "スムガイト", type: "city", note: "カスピ海沿岸の工業都市" }
-  - { lat: 41.198, lng: 47.170, label: "シェキ", type: "historical", note: "シルクロードの要衝・ハーン宮殿で有名" }
-  - { lat: 40.082, lng: 49.460, label: "ゴブスタン", type: "landmark", note: "世界遺産・古代岩絵で知られる" }
-  - { lat: 41.300, lng: 48.500, label: "コーカサス山脈", type: "nature", note: "国境地帯を走る大山脈" }
+  - { lat: 40.409, lng: 49.867, label: "Bakú", type: "capital", note: "Capital de Azerbaiyán y ciudad portuaria del mar Caspio" }
+  - { lat: 40.685, lng: 46.361, label: "Ganyá", type: "city", note: "Segunda ciudad del país" }
+  - { lat: 40.589, lng: 49.668, label: "Sumgait", type: "city", note: "Ciudad industrial en la costa del Caspio" }
+  - { lat: 41.198, lng: 47.170, label: "Sheki", type: "historical", note: "Enclave de la Ruta de la Seda, famosa por el Palacio del Kan" }
+  - { lat: 40.082, lng: 49.460, label: "Gobustán", type: "landmark", note: "Patrimonio Mundial, conocido por sus petroglifos antiguos" }
+  - { lat: 41.300, lng: 48.500, label: "Cordillera del Cáucaso", type: "nature", note: "Gran cordillera que recorre la zona fronteriza" }
 features:
-  - text: '<span class="quiz">カスピ海</span>に面しており石油や天然ガスの産出国である'
+  - text: 'Está bañado por el <span class="quiz">mar Caspio</span> y es un país productor de petróleo y gas natural'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BC%E3%83%AB%E3%83%90%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%B3"
-  - text: '首都<span class="quiz">バクー</span>は世界遺産に登録された旧市街を持つ'
+  - text: 'La capital, <span class="quiz">Bakú</span>, posee un casco antiguo declarado Patrimonio Mundial'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AF%E3%83%BC"
 
 # ===== OSM ヒーロー設定 =====

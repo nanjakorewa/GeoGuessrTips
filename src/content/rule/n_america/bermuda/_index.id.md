@@ -15,16 +15,16 @@ is_has_distinctive_googlecar: true
 is_has_many_trekker: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 32.293, lng: -64.782, label: "ハミルトン", type: "capital", note: "首都・諸島最大の都市" }
-  - { lat: 32.380, lng: -64.679, label: "セント・ジョージ", type: "historical", note: "旧首都・世界遺産の植民地都市" }
-  - { lat: 32.319, lng: -64.819, label: "ペンブローク", type: "city", note: "首都郊外の主要住宅地区" }
-  - { lat: 32.262, lng: -64.770, label: "ウォリック", type: "city", note: "南岸ピンクサンドビーチが多い地区" }
-  - { lat: 32.318, lng: -64.840, label: "サウサンプトン", type: "city", note: "西部の灯台がある観光地区" }
-  - { lat: 32.331, lng: -64.687, label: "セント・キャサリンズ砦", type: "historical", note: "東端の歴史的要塞" }
+  - { lat: 32.293, lng: -64.782, label: "Hamilton", type: "capital", note: "Ibu kota dan kota terbesar di kepulauan ini" }
+  - { lat: 32.380, lng: -64.679, label: "Saint George", type: "historical", note: "Bekas ibu kota; kota kolonial Warisan Dunia" }
+  - { lat: 32.319, lng: -64.819, label: "Pembroke", type: "city", note: "Kawasan permukiman utama di pinggiran ibu kota" }
+  - { lat: 32.262, lng: -64.770, label: "Warwick", type: "city", note: "Kawasan dengan banyak pantai pasir merah muda di pesisir selatan" }
+  - { lat: 32.318, lng: -64.840, label: "Southampton", type: "city", note: "Kawasan wisata dengan mercusuar di bagian barat" }
+  - { lat: 32.331, lng: -64.687, label: "Benteng Saint Catherine", type: "historical", note: "Benteng bersejarah di ujung timur" }
 features:
-  - text: '北大西洋に浮かぶイギリスの海外領土で、<span class="quiz">サンゴ礁</span>に囲まれた約150の島々からなる'
+  - text: 'Wilayah seberang laut Inggris di Atlantik Utara, terdiri dari sekitar 150 pulau yang dikelilingi <span class="quiz">terumbu karang</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%80%E8%AB%B8%E5%B3%B6"
-  - text: '雨水を集めるために屋根が<span class="quiz">白い石灰岩</span>の階段状に造られている'
+  - text: 'Atap rumah dibuat berundak dari <span class="quiz">batu kapur putih</span> untuk menampung air hujan'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%80%E8%AB%B8%E5%B3%B6#%E5%9C%B0%E7%90%86"
 ---
 

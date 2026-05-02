@@ -23,16 +23,16 @@ sc: [
 mapProvider: "osm"
 mapPins:
   - { lat: 40.417, lng: -3.704, label: "Madrid", type: "capital", note: "Capital, centro político y económico del país" }
-  - { lat: 41.385, lng: 2.173, label: "バルセロナ", type: "city", note: "カタルーニャ州都・地中海の港湾都市" }
-  - { lat: 37.389, lng: -5.984, label: "セビリア", type: "city", note: "アンダルシア地方の中心" }
-  - { lat: 39.470, lng: -0.376, label: "バレンシア", type: "city", note: "パエリア発祥の地" }
-  - { lat: 41.404, lng: 2.174, label: "サグラダ・ファミリア", type: "landmark", note: "ガウディの未完の大聖堂" }
-  - { lat: 37.176, lng: -3.588, label: "アルハンブラ宮殿", type: "landmark", note: "イスラム建築の世界遺産" }
-  - { lat: 43.263, lng: -2.935, label: "ビルバオ", type: "city", note: "バスク地方の中心都市" }
+  - { lat: 41.385, lng: 2.173, label: "Barcelona", type: "city", note: "Capital de Cataluña, ciudad portuaria del Mediterráneo" }
+  - { lat: 37.389, lng: -5.984, label: "Sevilla", type: "city", note: "Centro de la región de Andalucía" }
+  - { lat: 39.470, lng: -0.376, label: "Valencia", type: "city", note: "Cuna de la paella" }
+  - { lat: 41.404, lng: 2.174, label: "Sagrada Familia", type: "landmark", note: "Catedral inacabada de Gaudí" }
+  - { lat: 37.176, lng: -3.588, label: "Alhambra", type: "landmark", note: "Patrimonio Mundial de arquitectura islámica" }
+  - { lat: 43.263, lng: -2.935, label: "Bilbao", type: "city", note: "Ciudad principal del País Vasco" }
 features:
-  - text: '<span class="quiz">フラメンコ</span>や<span class="quiz">闘牛</span>で知られる情熱の国で、ガウディの<span class="quiz">サグラダ・ファミリア</span>など独創的な建築が多い'
+  - text: 'Es un país apasionado, conocido por el <span class="quiz">flamenco</span> y las <span class="quiz">corridas de toros</span>, con muchas obras arquitectónicas originales como la <span class="quiz">Sagrada Familia</span> de Gaudí'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B0%E3%83%A9%E3%83%80%E3%83%BB%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%82%A2"
-  - text: 'カスティーリャ語（スペイン語）のほか<span class="quiz">カタルーニャ語</span>・バスク語・ガリシア語など複数の地域言語が公用語として認められている'
+  - text: 'Además del castellano (español), están reconocidas como lenguas oficiales varias lenguas regionales como el <span class="quiz">catalán</span>, el euskera y el gallego'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E3%81%AE%E8%A8%80%E8%AA%9E"
 ---
 

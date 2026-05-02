@@ -10,16 +10,16 @@ is_pref: true
 flag: "Fukushima.svg"
 mapProvider: "osm"
 mapPins:
-  - { lat: 37.754, lng: 140.459, label: "福島駅", type: "capital", note: "福島県の県庁所在地" }
-  - { lat: 37.494, lng: 139.929, label: "郡山", type: "city", note: "県中央の交通要衝" }
-  - { lat: 37.050, lng: 140.887, label: "いわき", type: "city", note: "浜通りの中心都市" }
-  - { lat: 37.495, lng: 139.930, label: "会津若松", type: "historical", note: "鶴ヶ城・会津漆器" }
-  - { lat: 37.500, lng: 140.107, label: "猪苗代湖", type: "nature", note: "日本第4位の湖" }
-  - { lat: 37.640, lng: 140.075, label: "磐梯山", type: "nature", note: "会津の名峰" }
+  - { lat: 37.754, lng: 140.459, label: "Stasiun Fukushima", type: "capital", note: "Ibu kota Prefektur Fukushima" }
+  - { lat: 37.494, lng: 139.929, label: "Koriyama", type: "city", note: "Simpul transportasi penting di pusat prefektur" }
+  - { lat: 37.050, lng: 140.887, label: "Iwaki", type: "city", note: "Kota pusat wilayah Hamadori" }
+  - { lat: 37.495, lng: 139.930, label: "Aizu-Wakamatsu", type: "historical", note: "Kastil Tsuruga, lakquer Aizu" }
+  - { lat: 37.500, lng: 140.107, label: "Danau Inawashiro", type: "nature", note: "Danau peringkat ke-4 di Jepang" }
+  - { lat: 37.640, lng: 140.075, label: "Gunung Bandai", type: "nature", note: "Gunung terkenal di Aizu" }
 features:
-  - text: '会津地方は<span class="quiz">漆器・酒造</span>が盛んで、会津塗は400年以上の歴史を持つ伝統工芸'
+  - text: 'Wilayah Aizu terkenal dengan <span class="quiz">kerajinan lakquer dan pembuatan sake</span>, dan lakquer Aizu adalah kerajinan tradisional dengan sejarah lebih dari 400 tahun'
     ref: "https://ja.wikipedia.org/wiki/会津塗"
-  - text: 'いわき市周辺は<span class="quiz">化学・製造業</span>の工場が集積する工業地帯'
+  - text: 'Sekitar Kota Iwaki adalah kawasan industri tempat pabrik <span class="quiz">kimia dan manufaktur</span> berkumpul'
     ref: "https://ja.wikipedia.org/wiki/福島県#工業"
 ---
 

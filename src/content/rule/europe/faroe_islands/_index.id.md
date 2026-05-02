@@ -19,16 +19,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 62.012, lng: -6.770, label: "トースハウン", type: "capital", note: "世界最古級の首都・諸島最大の都市" }
-  - { lat: 62.212, lng: -6.589, label: "クラクスヴィーク", type: "city", note: "第二の都市・漁業の中心" }
-  - { lat: 62.103, lng: -7.456, label: "ヴェストマンナ", type: "city", note: "鳥の崖で有名な町" }
-  - { lat: 62.292, lng: -7.183, label: "ガーサダルル", type: "nature", note: "代表的な滝の景観" }
-  - { lat: 61.444, lng: -6.794, label: "スーズロイ島", type: "nature", note: "最南端の島" }
-  - { lat: 62.139, lng: -7.434, label: "ソルヴァーグル", type: "city", note: "ヴァーガル島の中心" }
+  - { lat: 62.012, lng: -6.770, label: "Torshavn", type: "capital", note: "Salah satu ibu kota tertua di dunia, kota terbesar di kepulauan" }
+  - { lat: 62.212, lng: -6.589, label: "Klaksvik", type: "city", note: "Kota kedua, pusat industri perikanan" }
+  - { lat: 62.103, lng: -7.456, label: "Vestmanna", type: "city", note: "Kota yang terkenal dengan tebing burung" }
+  - { lat: 62.292, lng: -7.183, label: "Gasadalur", type: "nature", note: "Pemandangan air terjun yang ikonik" }
+  - { lat: 61.444, lng: -6.794, label: "Pulau Suduroy", type: "nature", note: "Pulau paling selatan" }
+  - { lat: 62.139, lng: -7.434, label: "Sorvagur", type: "city", note: "Pusat Pulau Vagar" }
 features:
-  - text: '<span class="quiz">デンマーク</span>の自治領で、名前は古ノルド語で「<span class="quiz">羊の島</span>」を意味し、人口より羊の数が多い'
+  - text: 'Wilayah otonomi <span class="quiz">Denmark</span>; namanya berasal dari bahasa Norse Kuno yang berarti "<span class="quiz">Pulau Domba</span>", dan jumlah dombanya lebih banyak daripada penduduknya'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E8%AB%B8%E5%B3%B6"
-  - text: '独自の言語<span class="quiz">フェロー語</span>を持ち、18の島からなる群島で<span class="quiz">海底トンネル</span>で島同士が結ばれている'
+  - text: 'Memiliki bahasa sendiri yaitu <span class="quiz">bahasa Faroe</span>; merupakan kepulauan yang terdiri dari 18 pulau yang dihubungkan satu sama lain melalui <span class="quiz">terowongan bawah laut</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E8%AA%9E"
 ---
 

@@ -15,17 +15,17 @@ dont_show_usda: true
 import_jquery_36: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 37.566, lng: 126.978, label: "Seoul", type: "capital", note: "大韓民国の首都・政治と経済の中心" }
-  - { lat: 35.180, lng: 129.075, label: "釜山", type: "port", note: "韓国第二の都市・国内最大の港湾都市" }
-  - { lat: 37.456, lng: 126.706, label: "仁川", type: "city", note: "首都圏の港湾都市・国際空港の所在地" }
-  - { lat: 35.871, lng: 128.601, label: "大邱", type: "city", note: "嶺南地方の中心都市" }
-  - { lat: 33.500, lng: 126.531, label: "済州島", type: "nature", note: "韓国南部の火山島・世界自然遺産" }
-  - { lat: 37.583, lng: 127.000, label: "北漢山", type: "nature", note: "ソウル北部の国立公園・花崗岩の山岳" }
-  - { lat: 38.318, lng: 127.494, label: "板門店付近", type: "historical", note: "南北軍事境界線・歴史的な分断ライン" }
+  - { lat: 37.566, lng: 126.978, label: "Seoul", type: "capital", note: "Ibu kota Republik Korea, pusat politik dan ekonomi" }
+  - { lat: 35.180, lng: 129.075, label: "Busan", type: "port", note: "Kota terbesar kedua di Korea, kota pelabuhan terbesar di negara ini" }
+  - { lat: 37.456, lng: 126.706, label: "Incheon", type: "city", note: "Kota pelabuhan kawasan ibu kota, lokasi bandara internasional" }
+  - { lat: 35.871, lng: 128.601, label: "Daegu", type: "city", note: "Kota pusat wilayah Yeongnam" }
+  - { lat: 33.500, lng: 126.531, label: "Pulau Jeju", type: "nature", note: "Pulau vulkanik di Korea selatan, warisan alam dunia" }
+  - { lat: 37.583, lng: 127.000, label: "Bukhansan", type: "nature", note: "Taman nasional di utara Seoul, pegunungan granit" }
+  - { lat: 38.318, lng: 127.494, label: "Sekitar Panmunjom", type: "historical", note: "Garis demarkasi militer Utara-Selatan, garis pemisah bersejarah" }
 features:
-  - text: '文字体系として<span class="quiz">ハングル</span>を使用しており世宗大王が15世紀に制定した'
+  - text: 'Menggunakan <span class="quiz">Hangeul</span> sebagai sistem aksaranya yang ditetapkan oleh Raja Sejong pada abad ke-15'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B0%E3%83%AB"
-  - text: '北緯38度線付近の<span class="quiz">軍事境界線</span>により朝鮮半島は南北に分断されている'
+  - text: 'Semenanjung Korea terbagi menjadi utara dan selatan oleh <span class="quiz">garis demarkasi militer</span> di sekitar lintang utara 38 derajat'
     ref: "https://ja.wikipedia.org/wiki/%E8%BB%8D%E4%BA%8B%E5%A2%83%E7%95%8C%E7%B7%9A_(%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6)"
 
 # ===== OSM ヒーロー設定 =====

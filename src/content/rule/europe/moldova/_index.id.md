@@ -14,16 +14,16 @@ jetro_detail: false
 is_unofficial: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 47.010, lng: 28.864, label: "キシナウ", type: "capital", note: "Ibu kota, pusat politik dan ekonomi negara" }
-  - { lat: 47.764, lng: 27.929, label: "バルツィ", type: "city", note: "Kota utama di utara" }
-  - { lat: 47.768, lng: 27.937, label: "ティラスポリ", type: "city", note: "沿ドニエストルの中心都市" }
-  - { lat: 46.836, lng: 29.484, label: "ベンデル", type: "city", note: "ドニエストル川沿いの歴史都市" }
-  - { lat: 46.940, lng: 28.819, label: "ミレシュティ・ミチ", type: "landmark", note: "世界最大のワインセラー" }
-  - { lat: 47.300, lng: 28.836, label: "オルヘイ・ヴェッキ", type: "historical", note: "中世修道院の遺跡" }
+  - { lat: 47.010, lng: 28.864, label: "Chisinau", type: "capital", note: "Ibu kota, pusat politik dan ekonomi negara" }
+  - { lat: 47.764, lng: 27.929, label: "Balti", type: "city", note: "Kota utama di utara" }
+  - { lat: 47.768, lng: 27.937, label: "Tiraspol", type: "city", note: "Kota utama Transnistria" }
+  - { lat: 46.836, lng: 29.484, label: "Bender", type: "city", note: "Kota bersejarah di tepi Sungai Dniester" }
+  - { lat: 46.940, lng: 28.819, label: "Milestii Mici", type: "landmark", note: "Gudang anggur terbesar di dunia" }
+  - { lat: 47.300, lng: 28.836, label: "Orheiul Vechi", type: "historical", note: "Reruntuhan biara abad pertengahan" }
 features:
-  - text: 'ヨーロッパ最貧国の一つとされ、公用語は<span class="quiz">ルーマニア語</span>で旧ソ連構成国の中では唯一の<span class="quiz">ロマンス語</span>圏'
+  - text: 'Salah satu negara termiskin di Eropa, dengan bahasa resmi <span class="quiz">bahasa Rumania</span>; merupakan satu-satunya wilayah berbahasa <span class="quiz">Roman</span> di antara bekas negara Uni Soviet'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%89%E3%83%90"
-  - text: '世界有数の<span class="quiz">ワイン</span>生産国で、<span class="quiz">ミレシュティ・ミチ</span>は世界最大のワインセラーとしてギネス記録に登録されている'
+  - text: 'Salah satu negara produsen <span class="quiz">anggur</span> terbesar di dunia, <span class="quiz">Milestii Mici</span> tercatat dalam Guinness sebagai gudang anggur terbesar di dunia'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AC%E3%82%B7%E3%83%A5%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9F%E3%83%81"
 ---
 

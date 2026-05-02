@@ -12,17 +12,17 @@ jetro_detail: true
 plonkit: true
 mapProvider: "osm"
 mapPins:
-  - { lat: -6.208, lng: 106.846, label: "Yakarta", type: "capital", note: "インドネシアの首都・最大都市" }
-  - { lat: -7.257, lng: 112.752, label: "スラバヤ", type: "city", note: "ジャワ島東部の主要都市" }
-  - { lat: -6.917, lng: 107.619, label: "バンドン", type: "city", note: "ジャワ島西部の主要都市・高原に位置" }
-  - { lat: -8.409, lng: 115.189, label: "デンパサール", type: "city", note: "バリ島の中心都市" }
-  - { lat: -7.608, lng: 110.204, label: "ボロブドゥール", type: "landmark", note: "世界遺産・世界最大級の仏教遺跡" }
-  - { lat: 3.595, lng: 98.673, label: "メダン", type: "city", note: "スマトラ島最大の都市" }
-  - { lat: -8.342, lng: 115.508, label: "アグン山", type: "nature", note: "バリ島最高峰の活火山（標高3,031m）" }
+  - { lat: -6.208, lng: 106.846, label: "Yakarta", type: "capital", note: "Capital y mayor ciudad de Indonesia" }
+  - { lat: -7.257, lng: 112.752, label: "Surabaya", type: "city", note: "Principal ciudad del este de Java" }
+  - { lat: -6.917, lng: 107.619, label: "Bandung", type: "city", note: "Principal ciudad del oeste de Java, situada en una meseta" }
+  - { lat: -8.409, lng: 115.189, label: "Denpasar", type: "city", note: "Ciudad principal de Bali" }
+  - { lat: -7.608, lng: 110.204, label: "Borobudur", type: "landmark", note: "Patrimonio Mundial, uno de los mayores complejos budistas del mundo" }
+  - { lat: 3.595, lng: 98.673, label: "Medan", type: "city", note: "La mayor ciudad de Sumatra" }
+  - { lat: -8.342, lng: 115.508, label: "Monte Agung", type: "nature", note: "Volcán activo y cumbre más alta de Bali (3.031 m)" }
 features:
-  - text: '約<span class="quiz">1万7000</span>の島々からなる世界最大の<span class="quiz">島嶼国家</span>である'
+  - text: 'Es el mayor <span class="quiz">Estado insular</span> del mundo, formado por unas <span class="quiz">17.000</span> islas'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2"
-  - text: '世界最大の<span class="quiz">ムスリム</span>人口を擁する国である'
+  - text: 'Es el país con la mayor población <span class="quiz">musulmana</span> del mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E3%81%AE%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%A0"
 
 # ===== OSM ヒーロー設定 =====

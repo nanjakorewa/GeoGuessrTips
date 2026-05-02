@@ -21,17 +21,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 46.948, lng: 7.447, label: "ベルン", type: "capital", note: "首都・世界遺産の旧市街" }
-  - { lat: 47.376, lng: 8.541, label: "チューリッヒ", type: "city", note: "金融の中心・最大の都市" }
-  - { lat: 46.204, lng: 6.143, label: "ジュネーヴ", type: "city", note: "国際機関の集積地" }
-  - { lat: 47.050, lng: 8.310, label: "ルツェルン", type: "city", note: "湖畔の観光都市" }
-  - { lat: 45.977, lng: 7.659, label: "マッターホルン", type: "nature", note: "アルプスの象徴的な山" }
-  - { lat: 46.534, lng: 7.962, label: "ユングフラウヨッホ", type: "landmark", note: "ヨーロッパ最高所の鉄道駅" }
-  - { lat: 47.558, lng: 7.587, label: "バーゼル", type: "city", note: "ライン川沿いの文化都市" }
+  - { lat: 46.948, lng: 7.447, label: "Bern", type: "capital", note: "Capital with a World Heritage old town" }
+  - { lat: 47.376, lng: 8.541, label: "Zurich", type: "city", note: "Financial center and largest city" }
+  - { lat: 46.204, lng: 6.143, label: "Geneva", type: "city", note: "Hub of international organizations" }
+  - { lat: 47.050, lng: 8.310, label: "Lucerne", type: "city", note: "Lakeside tourist city" }
+  - { lat: 45.977, lng: 7.659, label: "Matterhorn", type: "nature", note: "Iconic mountain of the Alps" }
+  - { lat: 46.534, lng: 7.962, label: "Jungfraujoch", type: "landmark", note: "Europe''s highest-altitude railway station" }
+  - { lat: 47.558, lng: 7.587, label: "Basel", type: "city", note: "Cultural city on the Rhine River" }
 features:
-  - text: '<span class="quiz">永世中立国</span>であり、<span class="quiz">ドイツ語</span>・フランス語・イタリア語・ロマンシュ語の4つの公用語を持つ'
+  - text: 'A <span class="quiz">permanently neutral country</span> with four official languages: <span class="quiz">German</span>, French, Italian, and Romansh'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
-  - text: '<span class="quiz">赤十字</span>国際委員会や多くの国際機関の本部が<span class="quiz">ジュネーヴ</span>に置かれ、精密時計産業でも世界的に有名'
+  - text: 'The headquarters of the International Committee of the <span class="quiz">Red Cross</span> and many international organizations are located in <span class="quiz">Geneva</span>, and the country is also world-famous for its precision watch industry'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%8D%E3%83%BC%E3%83%B4"
 ---
 

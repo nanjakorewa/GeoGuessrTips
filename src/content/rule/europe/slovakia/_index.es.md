@@ -19,17 +19,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 48.148, lng: 17.107, label: "ブラチスラヴァ", type: "capital", note: "首都・ドナウ川沿いの古都" }
-  - { lat: 48.720, lng: 21.258, label: "コシツェ", type: "city", note: "東部最大の都市" }
-  - { lat: 49.222, lng: 18.740, label: "ジリナ", type: "city", note: "北西部の主要都市" }
-  - { lat: 48.738, lng: 19.150, label: "バンスカー・ビストリツァ", type: "city", note: "Ciudad histórica del centro" }
-  - { lat: 49.001, lng: 20.764, label: "スピシュ城", type: "historical", note: "中欧最大級の城跡・世界遺産" }
-  - { lat: 49.156, lng: 20.140, label: "高タトラ山脈", type: "nature", note: "国立公園・スキー保養地" }
-  - { lat: 48.819, lng: 20.498, label: "スロバキア・カルスト", type: "nature", note: "鍾乳洞群・世界遺産" }
+  - { lat: 48.148, lng: 17.107, label: "Bratislava", type: "capital", note: "Capital, ciudad histórica a orillas del Danubio" }
+  - { lat: 48.720, lng: 21.258, label: "Košice", type: "city", note: "Mayor ciudad del este" }
+  - { lat: 49.222, lng: 18.740, label: "Žilina", type: "city", note: "Principal ciudad del noroeste" }
+  - { lat: 48.738, lng: 19.150, label: "Banská Bystrica", type: "city", note: "Ciudad histórica del centro" }
+  - { lat: 49.001, lng: 20.764, label: "Castillo de Spiš", type: "historical", note: "Uno de los mayores castillos de Europa Central, Patrimonio Mundial" }
+  - { lat: 49.156, lng: 20.140, label: "Altos Tatras", type: "nature", note: "Parque nacional, estación de esquí" }
+  - { lat: 48.819, lng: 20.498, label: "Karst Eslovaco", type: "nature", note: "Conjunto de cuevas, Patrimonio Mundial" }
 features:
-  - text: '1993年にチェコスロバキアから平和的に分離した「<span class="quiz">ビロード離婚</span>」で誕生した国'
+  - text: 'Es un país nacido en 1993 tras la separación pacífica de Checoslovaquia conocida como el «<span class="quiz">divorcio de terciopelo</span>»'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AD%E3%83%BC%E3%83%89%E9%9B%A2%E5%A9%9A"
-  - text: '国土の北部に<span class="quiz">タトラ山脈</span>がそびえ、<span class="quiz">スピシュ城</span>などの中世の城が数多く残る'
+  - text: 'En el norte del país se alzan los <span class="quiz">Tatras</span>, y se conservan numerosos castillos medievales como el <span class="quiz">castillo de Spiš</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%88%E3%83%A9%E5%B1%B1%E8%84%88"
 ---
 

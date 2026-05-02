@@ -12,15 +12,15 @@ jetro_detail: true
 jogmec_detail: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 28.614, lng: 77.209, label: "ニューデリー", type: "capital", note: "インド共和国の首都" }
-  - { lat: 19.076, lng: 72.878, label: "ムンバイ", type: "city", note: "インド最大の経済都市・金融の中心" }
-  - { lat: 12.972, lng: 77.594, label: "バンガロール", type: "city", note: "インドのIT産業の中心都市" }
-  - { lat: 22.572, lng: 88.364, label: "コルカタ", type: "city", note: "東部の文化・商業の中心都市" }
-  - { lat: 13.083, lng: 80.270, label: "チェンナイ", type: "city", note: "南インドの主要港湾都市" }
-  - { lat: 27.175, lng: 78.042, label: "タージマハル", type: "landmark", note: "アーグラの世界遺産・大理石の霊廟" }
-  - { lat: 25.318, lng: 82.973, label: "ヴァーラーナシー", type: "historical", note: "ガンジス川の聖地・ヒンドゥー教の中心地" }
+  - { lat: 28.614, lng: 77.209, label: "Nueva Delhi", type: "capital", note: "Capital de la República de la India" }
+  - { lat: 19.076, lng: 72.878, label: "Bombay", type: "city", note: "Mayor ciudad económica de la India y centro financiero" }
+  - { lat: 12.972, lng: 77.594, label: "Bangalore", type: "city", note: "Principal ciudad de la industria de las TI de la India" }
+  - { lat: 22.572, lng: 88.364, label: "Calcuta", type: "city", note: "Centro cultural y comercial del este" }
+  - { lat: 13.083, lng: 80.270, label: "Chennai", type: "city", note: "Principal ciudad portuaria del sur de la India" }
+  - { lat: 27.175, lng: 78.042, label: "Taj Mahal", type: "landmark", note: "Patrimonio Mundial en Agra, mausoleo de mármol" }
+  - { lat: 25.318, lng: 82.973, label: "Varanasi", type: "historical", note: "Ciudad sagrada del Ganges y centro del hinduismo" }
 features:
-  - text: '公用語は<span class="quiz">ヒンディー語</span>と英語であり22の指定言語が憲法で認められている'
+  - text: 'Las lenguas oficiales son el <span class="quiz">hindi</span> y el inglés, y la Constitución reconoce 22 idiomas oficiales'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E5%85%AC%E7%94%A8%E8%AA%9E"
 
 # ===== OSM ヒーロー設定 =====

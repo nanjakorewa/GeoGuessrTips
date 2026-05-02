@@ -28,12 +28,12 @@ sc: [
 mapProvider: "osm"
 mapPins:
   - { lat: -35.281, lng: 149.128, label: "Canberra", type: "capital", note: "Capital and seat of the federal government" }
-  - { lat: -33.869, lng: 151.209, label: "シドニー", type: "city", note: "国内最大の都市・オペラハウスとハーバーブリッジ" }
-  - { lat: -37.814, lng: 144.963, label: "メルボルン", type: "city", note: "ヴィクトリア州の州都・文化都市" }
-  - { lat: -27.470, lng: 153.026, label: "ブリスベン", type: "city", note: "クイーンズランド州の州都" }
-  - { lat: -31.953, lng: 115.857, label: "パース", type: "city", note: "西オーストラリア州の州都" }
-  - { lat: -25.345, lng: 131.034, label: "ウルル", type: "landmark", note: "巨大な一枚岩・世界遺産" }
-  - { lat: -18.286, lng: 147.700, label: "グレートバリアリーフ", type: "nature", note: "世界最大のサンゴ礁・世界遺産" }
+  - { lat: -33.869, lng: 151.209, label: "Sydney", type: "city", note: "Largest city in the country; Opera House and Harbour Bridge" }
+  - { lat: -37.814, lng: 144.963, label: "Melbourne", type: "city", note: "Capital of Victoria; cultural city" }
+  - { lat: -27.470, lng: 153.026, label: "Brisbane", type: "city", note: "Capital of Queensland" }
+  - { lat: -31.953, lng: 115.857, label: "Perth", type: "city", note: "Capital of Western Australia" }
+  - { lat: -25.345, lng: 131.034, label: "Uluru", type: "landmark", note: "Massive monolith; World Heritage Site" }
+  - { lat: -18.286, lng: 147.700, label: "Great Barrier Reef", type: "nature", note: "World''s largest coral reef; World Heritage Site" }
 ---
 
 <div class="main-description country-description">

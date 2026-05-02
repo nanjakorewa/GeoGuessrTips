@@ -18,15 +18,15 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 50.088, lng: 14.420, label: "Praha", type: "capital", note: "首都・百塔の街・世界遺産の旧市街" }
-  - { lat: 49.195, lng: 16.608, label: "ブルノ", type: "city", note: "モラヴィア地方の中心都市" }
-  - { lat: 49.748, lng: 13.378, label: "プルゼニ", type: "city", note: "ピルスナービール発祥の地" }
-  - { lat: 49.836, lng: 18.293, label: "オストラヴァ", type: "city", note: "シレジア地方の工業都市" }
-  - { lat: 48.808, lng: 14.314, label: "チェスキー・クルムロフ", type: "historical", note: "世界遺産の中世の街" }
-  - { lat: 50.762, lng: 15.732, label: "リベレツ", type: "city", note: "北部の都市・冬季スポーツ拠点" }
-  - { lat: 50.230, lng: 12.871, label: "カルロヴィ・ヴァリ", type: "city", note: "西部の温泉保養地" }
+  - { lat: 50.088, lng: 14.420, label: "Praha", type: "capital", note: "Ibu kota, Kota Seratus Menara, kota tua warisan dunia UNESCO" }
+  - { lat: 49.195, lng: 16.608, label: "Brno", type: "city", note: "Kota utama wilayah Moravia" }
+  - { lat: 49.748, lng: 13.378, label: "Plzen", type: "city", note: "Tempat lahir bir Pilsner" }
+  - { lat: 49.836, lng: 18.293, label: "Ostrava", type: "city", note: "Kota industri di wilayah Silesia" }
+  - { lat: 48.808, lng: 14.314, label: "Cesky Krumlov", type: "historical", note: "Kota abad pertengahan warisan dunia UNESCO" }
+  - { lat: 50.762, lng: 15.732, label: "Liberec", type: "city", note: "Kota di bagian utara, pusat olahraga musim dingin" }
+  - { lat: 50.230, lng: 12.871, label: "Karlovy Vary", type: "city", note: "Resor pemandian air panas di bagian barat" }
 features:
-  - text: '国民一人当たりの<span class="quiz">ビール</span>消費量が世界一で、<span class="quiz">ピルスナー</span>ビール発祥の地であるプルゼニがある'
+  - text: 'Negara dengan konsumsi <span class="quiz">bir</span> per kapita tertinggi di dunia, dan terdapat Plzen yang merupakan tempat lahir bir <span class="quiz">Pilsner</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%BC%E3%83%8B"
 ---
 

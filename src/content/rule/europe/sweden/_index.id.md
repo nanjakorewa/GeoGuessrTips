@@ -22,17 +22,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 59.329, lng: 18.069, label: "Stockholm", type: "capital", note: "首都・北欧のヴェネツィア" }
-  - { lat: 57.708, lng: 11.974, label: "ヨーテボリ", type: "port", note: "西海岸最大の港湾都市" }
-  - { lat: 55.605, lng: 13.003, label: "マルメ", type: "city", note: "南部の主要都市・コペンハーゲンに隣接" }
-  - { lat: 59.858, lng: 17.638, label: "ウプサラ", type: "city", note: "古都・大学都市" }
-  - { lat: 67.855, lng: 20.225, label: "キルナ", type: "city", note: "北極圏の鉱山都市・オーロラ観測地" }
-  - { lat: 59.323, lng: 17.871, label: "ドロットニングホルム宮殿", type: "landmark", note: "世界遺産・王室の住居" }
-  - { lat: 57.629, lng: 18.295, label: "ヴィスビュー", type: "historical", note: "ゴットランド島の中世都市" }
+  - { lat: 59.329, lng: 18.069, label: "Stockholm", type: "capital", note: "Ibu kota, Venesia-nya Eropa Utara" }
+  - { lat: 57.708, lng: 11.974, label: "Goteborg", type: "port", note: "Kota pelabuhan terbesar di pesisir barat" }
+  - { lat: 55.605, lng: 13.003, label: "Malmo", type: "city", note: "Kota utama di selatan, berdekatan dengan Kopenhagen" }
+  - { lat: 59.858, lng: 17.638, label: "Uppsala", type: "city", note: "Kota tua, kota universitas" }
+  - { lat: 67.855, lng: 20.225, label: "Kiruna", type: "city", note: "Kota tambang di Lingkar Arktik, lokasi pengamatan aurora" }
+  - { lat: 59.323, lng: 17.871, label: "Istana Drottningholm", type: "landmark", note: "Warisan dunia UNESCO, kediaman keluarga kerajaan" }
+  - { lat: 57.629, lng: 18.295, label: "Visby", type: "historical", note: "Kota abad pertengahan di Pulau Gotland" }
 features:
-  - text: '<span class="quiz">IKEA</span>・<span class="quiz">Volvo</span>・H&Mなどの世界的企業を生んだ北欧最大の国'
+  - text: 'Negara terbesar di Eropa Utara yang melahirkan perusahaan kelas dunia seperti <span class="quiz">IKEA</span>, <span class="quiz">Volvo</span>, dan H&M'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3"
-  - text: '<span class="quiz">ノーベル賞</span>の授賞式（平和賞を除く）がストックホルムで行われ、福祉国家の模範とされる'
+  - text: 'Upacara penghargaan <span class="quiz">Hadiah Nobel</span> (kecuali Hadiah Perdamaian) diadakan di Stockholm, dan dianggap sebagai negara teladan kesejahteraan'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E"
 ---
 

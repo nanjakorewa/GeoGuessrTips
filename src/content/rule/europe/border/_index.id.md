@@ -14,12 +14,12 @@ jetro_detail: false
 no_rel_info: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 42.459, lng: 2.864, label: "ル・ペルテュス", type: "landmark", note: "フランス・スペイン国境" }
-  - { lat: 47.582, lng: 7.589, label: "バーゼル三国国境", type: "landmark", note: "仏独瑞の三国国境" }
-  - { lat: 50.755, lng: 6.020, label: "ヴァールス", type: "landmark", note: "蘭・独・ベルギー三国国境" }
-  - { lat: 52.158, lng: 7.197, label: "オランダ・ドイツ国境", type: "landmark", note: "西欧の代表的国境" }
-  - { lat: 49.012, lng: 12.218, label: "ドイツ・チェコ国境", type: "landmark", note: "東欧との境界" }
-  - { lat: 41.998, lng: -8.890, label: "ポルトガル・スペイン国境", type: "landmark", note: "ミーニョ川沿いの国境" }
+  - { lat: 42.459, lng: 2.864, label: "Le Perthus", type: "landmark", note: "Perbatasan Prancis-Spanyol" }
+  - { lat: 47.582, lng: 7.589, label: "Tritik Basel", type: "landmark", note: "Tritik perbatasan Prancis-Jerman-Swiss" }
+  - { lat: 50.755, lng: 6.020, label: "Vaals", type: "landmark", note: "Tritik perbatasan Belanda-Jerman-Belgia" }
+  - { lat: 52.158, lng: 7.197, label: "Perbatasan Belanda-Jerman", type: "landmark", note: "Perbatasan ikonik Eropa Barat" }
+  - { lat: 49.012, lng: 12.218, label: "Perbatasan Jerman-Ceko", type: "landmark", note: "Batas dengan Eropa Timur" }
+  - { lat: 41.998, lng: -8.890, label: "Perbatasan Portugal-Spanyol", type: "landmark", note: "Perbatasan di sepanjang Sungai Minho" }
 ---
 
 <div class="main-desciption country-description">

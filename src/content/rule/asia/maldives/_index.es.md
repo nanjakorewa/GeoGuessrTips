@@ -13,16 +13,16 @@ jetro_detail: true
 is_unofficial: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 4.175, lng: 73.509, label: "マレ", type: "capital", note: "モルディブの首都・最も人口密度の高い首都の一つ" }
-  - { lat: 4.192, lng: 73.529, label: "フルマレ", type: "city", note: "マレ近郊の人工島都市" }
-  - { lat: 6.888, lng: 73.118, label: "ディドゥ", type: "city", note: "北部ハーアリフ環礁の中心地" }
-  - { lat: 0.694, lng: 73.142, label: "アッドゥ環礁", type: "nature", note: "最南端の環礁・第二の都市部" }
-  - { lat: 4.000, lng: 73.000, label: "北マーレ環礁", type: "nature", note: "首都を含むサンゴ礁環礁" }
-  - { lat: 5.500, lng: 73.500, label: "アリ環礁", type: "nature", note: "ダイビングで有名なリゾート環礁" }
+  - { lat: 4.175, lng: 73.509, label: "Malé", type: "capital", note: "Capital de Maldivas, una de las capitales más densamente pobladas del mundo" }
+  - { lat: 4.192, lng: 73.529, label: "Hulhumalé", type: "city", note: "Ciudad sobre isla artificial cercana a Malé" }
+  - { lat: 6.888, lng: 73.118, label: "Dhidhdhoo", type: "city", note: "Centro del atolón Haa Alif, en el norte" }
+  - { lat: 0.694, lng: 73.142, label: "Atolón Addu", type: "nature", note: "Atolón más meridional, segunda zona urbana del país" }
+  - { lat: 4.000, lng: 73.000, label: "Atolón Malé Norte", type: "nature", note: "Atolón coralino donde se encuentra la capital" }
+  - { lat: 5.500, lng: 73.500, label: "Atolón Ari", type: "nature", note: "Atolón turístico famoso por el buceo" }
 features:
-  - text: '約1200の<span class="quiz">サンゴ礁</span>の島々からなるインド洋の島嶼国家である'
+  - text: 'Es un Estado insular del océano Índico formado por unas 1.200 islas de <span class="quiz">arrecifes de coral</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%83%96"
-  - text: '国土の平均海抜が約<span class="quiz">1.5メートル</span>と世界で最も低い国の一つである'
+  - text: 'Con una altitud media de unos <span class="quiz">1,5 metros</span> sobre el nivel del mar, es uno de los países más bajos del mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%83%96#%E5%9C%B0%E7%90%86"
 
 # ===== OSM ヒーロー設定 =====

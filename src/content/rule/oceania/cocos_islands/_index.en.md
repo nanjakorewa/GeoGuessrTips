@@ -23,16 +23,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: -12.188, lng: 96.829, label: "ウェスト・アイランド", type: "capital", note: "事実上の主邑・行政の中心" }
-  - { lat: -12.123, lng: 96.890, label: "ホーム・アイランド", type: "city", note: "マレー系住民の主要居住島" }
-  - { lat: -12.189, lng: 96.834, label: "ココス諸島空港", type: "landmark", note: "島唯一の空港" }
-  - { lat: -12.073, lng: 96.881, label: "ノース・キーリング島", type: "nature", note: "国立公園に指定された無人島" }
-  - { lat: -12.108, lng: 96.903, label: "ディレクション島", type: "nature", note: "シュノーケリングで人気の小島" }
-  - { lat: -12.181, lng: 96.832, label: "ココス諸島ラグーン", type: "nature", note: "サンゴ礁に囲まれた静かな海域" }
+  - { lat: -12.188, lng: 96.829, label: "West Island", type: "capital", note: "De facto main settlement; administrative center" }
+  - { lat: -12.123, lng: 96.890, label: "Home Island", type: "city", note: "Main island inhabited by Malay residents" }
+  - { lat: -12.189, lng: 96.834, label: "Cocos (Keeling) Islands Airport", type: "landmark", note: "The island''s only airport" }
+  - { lat: -12.073, lng: 96.881, label: "North Keeling Island", type: "nature", note: "Uninhabited island designated as a national park" }
+  - { lat: -12.108, lng: 96.903, label: "Direction Island", type: "nature", note: "Small island popular for snorkeling" }
+  - { lat: -12.181, lng: 96.832, label: "Cocos Islands Lagoon", type: "nature", note: "Calm waters surrounded by coral reefs" }
 features:
-  - text: '27の<span class="quiz">サンゴ礁</span>の島からなり人が住むのは2島のみである'
+  - text: 'Consists of 27 <span class="quiz">coral reef</span> islands, only 2 of which are inhabited'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B3%E3%82%B9%E8%AB%B8%E5%B3%B6"
-  - text: '住民の多くは<span class="quiz">マレー系</span>であり独自の文化が残っている'
+  - text: 'Most residents are of <span class="quiz">Malay</span> descent, and a unique culture has been preserved'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B3%E3%82%B9%E8%AB%B8%E5%B3%B6"
 ---
 

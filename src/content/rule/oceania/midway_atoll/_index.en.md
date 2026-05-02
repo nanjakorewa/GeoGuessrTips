@@ -18,16 +18,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 28.207, lng: -177.378, label: "サンド島", type: "capital", note: "ミッドウェー諸島最大の島・行政施設がある" }
-  - { lat: 28.214, lng: -177.353, label: "イースタン島", type: "landmark", note: "戦時中の主要滑走路があった島" }
-  - { lat: 28.223, lng: -177.355, label: "スピット島", type: "nature", note: "小さな砂州" }
-  - { lat: 28.211, lng: -177.380, label: "ヘンダーソン飛行場", type: "landmark", note: "現在も使用される滑走路" }
-  - { lat: 28.207, lng: -177.376, label: "ミッドウェー海戦記念碑", type: "historical", note: "1942年の海戦を記念" }
-  - { lat: 28.200, lng: -177.350, label: "ミッドウェー環礁ラグーン", type: "nature", note: "アホウドリの繁殖海域" }
+  - { lat: 28.207, lng: -177.378, label: "Sand Island", type: "capital", note: "Largest island of the Midway Islands; has administrative facilities" }
+  - { lat: 28.214, lng: -177.353, label: "Eastern Island", type: "landmark", note: "Island that had the main runway during the war" }
+  - { lat: 28.223, lng: -177.355, label: "Spit Island", type: "nature", note: "Small sandbar" }
+  - { lat: 28.211, lng: -177.380, label: "Henderson Field", type: "landmark", note: "Runway still in use today" }
+  - { lat: 28.207, lng: -177.376, label: "Battle of Midway Memorial", type: "historical", note: "Commemorating the 1942 naval battle" }
+  - { lat: 28.200, lng: -177.350, label: "Midway Atoll Lagoon", type: "nature", note: "Albatross breeding waters" }
 features:
-  - text: '1942年の<span class="quiz">ミッドウェー海戦</span>の舞台となった太平洋戦争の重要な戦場である'
+  - text: 'A significant Pacific War battlefield, site of the 1942 <span class="quiz">Battle of Midway</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%83%E3%83%89%E3%82%A6%E3%82%A7%E3%83%BC%E6%B5%B7%E6%88%A6"
-  - text: '現在は<span class="quiz">国立野生生物保護区</span>に指定されアホウドリの繁殖地となっている'
+  - text: 'Now designated as a <span class="quiz">National Wildlife Refuge</span> and serves as an albatross breeding ground'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%83%E3%83%89%E3%82%A6%E3%82%A7%E3%83%BC%E5%B3%B6"
 ---
 

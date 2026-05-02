@@ -19,16 +19,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 54.150, lng: -4.481, label: "ダグラス", type: "capital", note: "首府・島最大の都市" }
-  - { lat: 54.328, lng: -4.388, label: "ラムジー", type: "city", note: "北部の港町" }
-  - { lat: 54.080, lng: -4.778, label: "キャッスルタウン", type: "historical", note: "旧首都・ラッシェン城" }
-  - { lat: 54.196, lng: -4.732, label: "ピール", type: "city", note: "西海岸の港町・ピール城跡" }
-  - { lat: 54.085, lng: -4.674, label: "ポート・エリン", type: "city", note: "南西部のリゾート" }
-  - { lat: 54.413, lng: -4.378, label: "スネーフェル山", type: "nature", note: "島最高峰" }
+  - { lat: 54.150, lng: -4.481, label: "Douglas", type: "capital", note: "Capital and largest town on the island" }
+  - { lat: 54.328, lng: -4.388, label: "Ramsey", type: "city", note: "Port town in the north" }
+  - { lat: 54.080, lng: -4.778, label: "Castletown", type: "historical", note: "Former capital; Castle Rushen" }
+  - { lat: 54.196, lng: -4.732, label: "Peel", type: "city", note: "West-coast port town with Peel Castle ruins" }
+  - { lat: 54.085, lng: -4.674, label: "Port Erin", type: "city", note: "Resort in the southwest" }
+  - { lat: 54.413, lng: -4.378, label: "Snaefell", type: "nature", note: "Highest peak on the island" }
 features:
-  - text: 'イギリスとアイルランドの間のアイリッシュ海に位置する<span class="quiz">イギリス王室属領</span>で、世界最古のオートバイレース<span class="quiz">TTレース</span>で有名'
+  - text: 'A <span class="quiz">British Crown Dependency</span> in the Irish Sea between Britain and Ireland, famous for the <span class="quiz">TT Race</span>, the world''s oldest motorcycle race'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E5%B3%B6TT%E3%83%AC%E3%83%BC%E3%82%B9"
-  - text: '三本の足が回転する<span class="quiz">トリスケリオン</span>が島の紋章であり、独自の議会<span class="quiz">ティンワルド</span>は世界最古の継続する議会とされる'
+  - text: 'The <span class="quiz">triskelion</span> of three running legs is the island''s emblem, and its own parliament, the <span class="quiz">Tynwald</span>, is considered the world''s oldest continuously operating parliament'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%B3%E3%83%AF%E3%83%AB%E3%83%89"
 ---
 

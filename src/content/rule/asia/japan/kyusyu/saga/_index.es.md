@@ -11,15 +11,15 @@ flag: "Saga.svg"
 mapProvider: "osm"
 mapPins:
   - { lat: 33.249, lng: 130.298, label: "Estación de Saga", type: "capital", note: "Capital de la Prefectura de Saga" }
-  - { lat: 33.245, lng: 130.299, label: "佐賀城", type: "historical", note: "鍋島藩の城" }
-  - { lat: 33.450, lng: 129.969, label: "唐津", type: "city", note: "唐津焼・唐津くんち" }
-  - { lat: 33.205, lng: 129.916, label: "有田", type: "historical", note: "有田焼の産地" }
-  - { lat: 33.265, lng: 129.881, label: "伊万里", type: "city", note: "伊万里焼の街" }
-  - { lat: 33.106, lng: 130.044, label: "嬉野温泉", type: "nature", note: "美肌の湯" }
+  - { lat: 33.245, lng: 130.299, label: "Castillo de Saga", type: "historical", note: "Castillo del clan Nabeshima" }
+  - { lat: 33.450, lng: 129.969, label: "Karatsu", type: "city", note: "Cerámica de Karatsu y festival Karatsu Kunchi" }
+  - { lat: 33.205, lng: 129.916, label: "Arita", type: "historical", note: "Cuna de la cerámica de Arita" }
+  - { lat: 33.265, lng: 129.881, label: "Imari", type: "city", note: "Ciudad de la cerámica de Imari" }
+  - { lat: 33.106, lng: 130.044, label: "Aguas termales de Ureshino", type: "nature", note: "Aguas para una piel hermosa" }
 features:
-  - text: '<span class="quiz">有田焼・伊万里焼</span>は日本を代表する磁器で、400年以上の歴史を持つ伝統産業'
+  - text: 'La <span class="quiz">cerámica de Arita y de Imari</span> son porcelanas representativas de Japón, una industria tradicional con más de 400 años de historia'
     ref: "https://ja.wikipedia.org/wiki/有田焼"
-  - text: '佐賀平野は<span class="quiz">米作</span>が盛んで、クリークと呼ばれる水路網が特徴的な景観'
+  - text: 'En la llanura de Saga abunda el <span class="quiz">cultivo de arroz</span> y destaca el paisaje característico de su red de canales llamados «creek»'
     ref: "https://ja.wikipedia.org/wiki/佐賀県#農業"
 ---
 

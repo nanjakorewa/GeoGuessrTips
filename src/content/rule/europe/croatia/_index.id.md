@@ -21,15 +21,15 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 45.815, lng: 15.982, label: "ザグレブ", type: "capital", note: "首都・国の中心都市" }
-  - { lat: 43.509, lng: 16.440, label: "スプリト", type: "city", note: "ディオクレティアヌス宮殿・世界遺産" }
-  - { lat: 42.650, lng: 18.094, label: "ドゥブロヴニク", type: "historical", note: "アドリア海の真珠・世界遺産" }
-  - { lat: 45.328, lng: 14.442, label: "リエカ", type: "port", note: "アドリア海北部の港湾都市" }
-  - { lat: 45.066, lng: 13.640, label: "プーラ", type: "city", note: "ローマ円形闘技場で有名" }
-  - { lat: 44.881, lng: 15.620, label: "プリトヴィツェ湖群", type: "nature", note: "16の湖と滝・世界遺産" }
-  - { lat: 45.487, lng: 17.401, label: "オシエク", type: "city", note: "東部スラヴォニア地方の中心" }
+  - { lat: 45.815, lng: 15.982, label: "Zagreb", type: "capital", note: "Ibu kota, kota utama negara" }
+  - { lat: 43.509, lng: 16.440, label: "Split", type: "city", note: "Istana Diokletianus, warisan dunia UNESCO" }
+  - { lat: 42.650, lng: 18.094, label: "Dubrovnik", type: "historical", note: "Mutiara Laut Adriatik, warisan dunia UNESCO" }
+  - { lat: 45.328, lng: 14.442, label: "Rijeka", type: "port", note: "Kota pelabuhan di Laut Adriatik utara" }
+  - { lat: 45.066, lng: 13.640, label: "Pula", type: "city", note: "Terkenal dengan amfiteater Romawi" }
+  - { lat: 44.881, lng: 15.620, label: "Danau Plitvice", type: "nature", note: "16 danau dan air terjun, warisan dunia UNESCO" }
+  - { lat: 45.487, lng: 17.401, label: "Osijek", type: "city", note: "Pusat wilayah Slavonia bagian timur" }
 features:
-  - text: 'アドリア海沿岸の<span class="quiz">ダルマチア</span>地方は世界的な観光地で、<span class="quiz">ドゥブロヴニク</span>旧市街は「アドリア海の真珠」と呼ばれる世界遺産'
+  - text: 'Wilayah <span class="quiz">Dalmatia</span> di pesisir Laut Adriatik merupakan tujuan wisata kelas dunia, dan kota tua <span class="quiz">Dubrovnik</span> dijuluki "Mutiara Laut Adriatik" sebagai warisan dunia UNESCO'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A5%E3%83%96%E3%83%AD%E3%83%B4%E3%83%8B%E3%82%AF"
 ---
 

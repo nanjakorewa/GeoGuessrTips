@@ -19,16 +19,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 36.140, lng: -5.353, label: "ジブラルタル", type: "capital", note: "首府・英国海外領土の中心" }
-  - { lat: 36.140, lng: -5.342, label: "ジブラルタルの岩", type: "landmark", note: "高さ426mの石灰岩塊" }
-  - { lat: 36.123, lng: -5.346, label: "ヨーロッパポイント", type: "landmark", note: "半島最南端の岬" }
-  - { lat: 36.145, lng: -5.353, label: "メイン・ストリート", type: "city", note: "中心街の商店街" }
-  - { lat: 36.151, lng: -5.350, label: "ジブラルタル空港", type: "landmark", note: "道路と滑走路が交差する空港" }
-  - { lat: 36.126, lng: -5.345, label: "サルの岩", type: "nature", note: "バーバリーマカク生息地" }
+  - { lat: 36.140, lng: -5.353, label: "Gibraltar", type: "capital", note: "Ibu kota, pusat wilayah seberang laut Britania Raya" }
+  - { lat: 36.140, lng: -5.342, label: "Karang Gibraltar", type: "landmark", note: "Bongkah batu kapur setinggi 426 m" }
+  - { lat: 36.123, lng: -5.346, label: "Europa Point", type: "landmark", note: "Tanjung paling selatan semenanjung" }
+  - { lat: 36.145, lng: -5.353, label: "Main Street", type: "city", note: "Kawasan pertokoan pusat kota" }
+  - { lat: 36.151, lng: -5.350, label: "Bandara Gibraltar", type: "landmark", note: "Bandara dengan jalan raya yang melintasi landasan pacu" }
+  - { lat: 36.126, lng: -5.345, label: "Apes' Den", type: "nature", note: "Habitat monyet Barbary" }
 features:
-  - text: 'イベリア半島南端に位置する<span class="quiz">イギリス</span>の海外領土で、面積はわずか約<span class="quiz">6.5km²</span>しかない'
+  - text: 'Wilayah seberang laut <span class="quiz">Britania Raya</span> yang terletak di ujung selatan Semenanjung Iberia, dengan luas hanya sekitar <span class="quiz">6,5 km²</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%96%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AB"
-  - text: '<span class="quiz">ジブラルタルの岩</span>（ザ・ロック）が街のシンボルで、野生の<span class="quiz">バーバリーマカク</span>（サル）がヨーロッパ唯一の野生霊長類として生息する'
+  - text: '<span class="quiz">Karang Gibraltar</span> (The Rock) adalah simbol kota, dan <span class="quiz">monyet Barbary</span> liar hidup di sini sebagai satu-satunya primata liar di Eropa'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%96%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AB%E3%81%AE%E5%B2%A9"
 ---
 

@@ -20,17 +20,17 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 51.169, lng: 71.449, label: "アスタナ", type: "capital", note: "カザフスタンの首都・現代的な計画都市" }
-  - { lat: 43.222, lng: 76.851, label: "アルマトイ", type: "city", note: "旧首都・国内最大の経済都市" }
-  - { lat: 49.806, lng: 73.085, label: "カラガンダ", type: "city", note: "中央部の主要鉱業都市" }
-  - { lat: 42.317, lng: 69.587, label: "シムケント", type: "city", note: "南部の主要都市" }
-  - { lat: 47.094, lng: 51.923, label: "アティラウ", type: "port", note: "カスピ海沿岸の石油都市" }
-  - { lat: 43.250, lng: 77.085, label: "天山山脈", type: "nature", note: "南東部の大山脈・キルギスとの国境" }
-  - { lat: 45.000, lng: 60.000, label: "アラル海", type: "nature", note: "縮小が続く塩湖・南西部" }
+  - { lat: 51.169, lng: 71.449, label: "Astaná", type: "capital", note: "Capital de Kazajistán, moderna ciudad planificada" }
+  - { lat: 43.222, lng: 76.851, label: "Almatý", type: "city", note: "Antigua capital y mayor ciudad económica del país" }
+  - { lat: 49.806, lng: 73.085, label: "Karagandá", type: "city", note: "Principal ciudad minera del centro del país" }
+  - { lat: 42.317, lng: 69.587, label: "Shymkent", type: "city", note: "Principal ciudad del sur" }
+  - { lat: 47.094, lng: 51.923, label: "Atyrau", type: "port", note: "Ciudad petrolera en la costa del Caspio" }
+  - { lat: 43.250, lng: 77.085, label: "Cordillera Tian Shan", type: "nature", note: "Gran cordillera del sureste, frontera con Kirguistán" }
+  - { lat: 45.000, lng: 60.000, label: "Mar de Aral", type: "nature", note: "Lago salino en continua reducción, suroeste del país" }
 features:
-  - text: '世界最大の<span class="quiz">内陸国</span>であり国土面積は世界第9位である'
+  - text: 'Es el mayor <span class="quiz">país sin litoral</span> del mundo y ocupa el noveno puesto mundial en superficie territorial'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B6%E3%83%95%E3%82%B9%E3%82%BF%E3%83%B3"
-  - text: '2019年に首都が<span class="quiz">ヌルスルタン</span>から<span class="quiz">アスタナ</span>に再び改名された'
+  - text: 'En 2019 la capital recuperó el nombre de <span class="quiz">Astaná</span>, tras llamarse <span class="quiz">Nursultán</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%8A"
 
 # ===== OSM ヒーロー設定 =====

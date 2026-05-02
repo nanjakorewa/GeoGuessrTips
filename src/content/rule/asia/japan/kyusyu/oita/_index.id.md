@@ -11,15 +11,15 @@ flag: "Oita.svg"
 mapProvider: "osm"
 mapPins:
   - { lat: 33.232, lng: 131.610, label: "Stasiun Oita", type: "capital", note: "Ibu kota Prefektur Oita, prefektur onsen" }
-  - { lat: 33.279, lng: 131.500, label: "別府温泉", type: "nature", note: "湯量日本一の温泉地" }
-  - { lat: 33.265, lng: 131.357, label: "由布院", type: "nature", note: "高原の温泉地" }
-  - { lat: 33.598, lng: 131.188, label: "中津", type: "historical", note: "中津城・福沢諭吉の街" }
-  - { lat: 33.526, lng: 131.375, label: "宇佐神宮", type: "historical", note: "全国八幡宮の総本宮" }
-  - { lat: 32.957, lng: 131.899, label: "佐伯", type: "port", note: "リアス式海岸の港町" }
+  - { lat: 33.279, lng: 131.500, label: "Onsen Beppu", type: "nature", note: "Tempat onsen dengan volume air panas terbesar di Jepang" }
+  - { lat: 33.265, lng: 131.357, label: "Yufuin", type: "nature", note: "Tempat onsen di dataran tinggi" }
+  - { lat: 33.598, lng: 131.188, label: "Nakatsu", type: "historical", note: "Kastil Nakatsu, kota Fukuzawa Yukichi" }
+  - { lat: 33.526, lng: 131.375, label: "Kuil Usa Jingu", type: "historical", note: "Kuil utama dari seluruh Hachimangu di Jepang" }
+  - { lat: 32.957, lng: 131.899, label: "Saiki", type: "port", note: "Kota pelabuhan dengan pantai bergaya ria" }
 features:
-  - text: '別府・湯布院を中心に<span class="quiz">温泉</span>の源泉数・湧出量ともに日本一'
+  - text: 'Berpusat di Beppu dan Yufuin, jumlah sumber dan volume <span class="quiz">onsen</span>-nya menempati peringkat pertama di Jepang'
     ref: "https://ja.wikipedia.org/wiki/大分県#温泉"
-  - text: '大分市の臨海工業地帯には<span class="quiz">鉄鋼・石油化学</span>のコンビナートが立地し、「新産業都市」として発展'
+  - text: 'Di kawasan industri pesisir Kota Oita berdiri kompleks <span class="quiz">baja dan petrokimia</span>, dan berkembang sebagai "Kota Industri Baru"'
     ref: "https://ja.wikipedia.org/wiki/大分県#工業"
 ---
 

@@ -19,17 +19,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 44.439, lng: 26.097, label: "ブカレスト", type: "capital", note: "首都・東欧のパリと呼ばれた都市" }
-  - { lat: 46.770, lng: 23.591, label: "クルージュ＝ナポカ", type: "city", note: "トランシルヴァニアの中心都市" }
-  - { lat: 45.654, lng: 25.611, label: "ブラショヴ", type: "city", note: "中世の城塞都市" }
-  - { lat: 45.749, lng: 21.227, label: "ティミショアラ", type: "city", note: "Ciudad cultural del oeste" }
-  - { lat: 45.515, lng: 25.367, label: "ブラン城", type: "historical", note: "ドラキュラ城のモデル" }
-  - { lat: 45.792, lng: 24.151, label: "シビウ", type: "historical", note: "ドイツ系移住者の旧市街" }
-  - { lat: 45.115, lng: 29.567, label: "ドナウ・デルタ", type: "nature", note: "欧州最大の湿地・世界遺産" }
+  - { lat: 44.439, lng: 26.097, label: "Bucarest", type: "capital", note: "Capital, ciudad llamada el París del Este" }
+  - { lat: 46.770, lng: 23.591, label: "Cluj-Napoca", type: "city", note: "Ciudad principal de Transilvania" }
+  - { lat: 45.654, lng: 25.611, label: "Brașov", type: "city", note: "Ciudad amurallada medieval" }
+  - { lat: 45.749, lng: 21.227, label: "Timișoara", type: "city", note: "Ciudad cultural del oeste" }
+  - { lat: 45.515, lng: 25.367, label: "Castillo de Bran", type: "historical", note: "Modelo del castillo de Drácula" }
+  - { lat: 45.792, lng: 24.151, label: "Sibiu", type: "historical", note: "Casco antiguo de los colonos alemanes" }
+  - { lat: 45.115, lng: 29.567, label: "Delta del Danubio", type: "nature", note: "Mayor humedal de Europa, Patrimonio Mundial" }
 features:
-  - text: '<span class="quiz">ドラキュラ</span>伝説の舞台として知られる<span class="quiz">トランシルヴァニア</span>地方があり、中世の城塞都市が多く残る'
+  - text: 'Cuenta con la región de <span class="quiz">Transilvania</span>, conocida como escenario de la leyenda de <span class="quiz">Drácula</span>, donde se conservan numerosas ciudades amuralladas medievales'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2"
-  - text: 'スラヴ語圏に囲まれながら<span class="quiz">ラテン語</span>系のルーマニア語を話す独自の文化を持ち、<span class="quiz">ドナウ・デルタ</span>はヨーロッパ最大の湿地帯'
+  - text: 'Aunque está rodeada de países eslavos, posee una cultura propia con un idioma rumano de raíz <span class="quiz">latina</span>, y el <span class="quiz">Delta del Danubio</span> es el mayor humedal de Europa'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%82%A6%E3%83%BB%E3%83%87%E3%83%AB%E3%82%BF"
 ---
 

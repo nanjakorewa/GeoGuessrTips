@@ -12,17 +12,17 @@ flag: "Flag_of_Hokkaido_Prefecture.png"
 no_jetro: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 43.069, lng: 141.351, label: "Estación de Sapporo", type: "capital", note: "北海道の道庁所在地・最大都市" }
-  - { lat: 41.774, lng: 140.727, label: "函館駅", type: "city", note: "道南の港町・夜景の名所" }
-  - { lat: 43.770, lng: 142.365, label: "旭川駅", type: "city", note: "道北の中心都市・旭山動物園" }
-  - { lat: 42.985, lng: 144.381, label: "釧路駅", type: "city", note: "道東の港町・釧路湿原" }
-  - { lat: 43.193, lng: 140.985, label: "小樽駅", type: "city", note: "歴史ある港町・運河" }
-  - { lat: 43.665, lng: 142.806, label: "大雪山", type: "nature", note: "北海道最高峰・国立公園" }
-  - { lat: 45.520, lng: 141.937, label: "稚内", type: "city", note: "日本最北端の街" }
+  - { lat: 43.069, lng: 141.351, label: "Estación de Sapporo", type: "capital", note: "Capital y mayor ciudad de Hokkaidō" }
+  - { lat: 41.774, lng: 140.727, label: "Estación de Hakodate", type: "city", note: "Ciudad portuaria del sur de Hokkaidō, célebre por sus vistas nocturnas" }
+  - { lat: 43.770, lng: 142.365, label: "Estación de Asahikawa", type: "city", note: "Principal ciudad del norte de Hokkaidō, zoo de Asahiyama" }
+  - { lat: 42.985, lng: 144.381, label: "Estación de Kushiro", type: "city", note: "Ciudad portuaria del este, marismas de Kushiro" }
+  - { lat: 43.193, lng: 140.985, label: "Estación de Otaru", type: "city", note: "Histórica ciudad portuaria con su célebre canal" }
+  - { lat: 43.665, lng: 142.806, label: "Monte Daisetsu", type: "nature", note: "Cumbre más alta de Hokkaidō y parque nacional" }
+  - { lat: 45.520, lng: 141.937, label: "Wakkanai", type: "city", note: "Ciudad más septentrional de Japón" }
 features:
-  - text: '日本最大の面積を持つ都道府県で、<span class="quiz">酪農</span>と農業が盛ん。生乳生産量は全国の約半分を占める'
+  - text: 'Es la prefectura más grande de Japón, con una destacada <span class="quiz">ganadería lechera</span> y agricultura. Su producción de leche cruda representa cerca de la mitad del total nacional'
     ref: "https://ja.wikipedia.org/wiki/北海道#農業"
-  - text: '冬季は豪雪地帯となり、道路には<span class="quiz">矢羽根付きポール</span>（固定式視線誘導柱）が多く設置されている'
+  - text: 'En invierno es una zona de fuertes nevadas y a lo largo de las carreteras se instalan numerosos <span class="quiz">postes con flechas</span> (postes guía fijos)'
     ref: "https://ja.wikipedia.org/wiki/固定式視線誘導柱"
 ---
 

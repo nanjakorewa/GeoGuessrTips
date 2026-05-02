@@ -21,16 +21,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 49.611, lng: 6.131, label: "ルクセンブルク市", type: "capital", note: "首都・世界遺産の旧市街と城塞" }
-  - { lat: 49.504, lng: 5.981, label: "エシュ・シュル・アルゼット", type: "city", note: "南部の第二の都市" }
-  - { lat: 49.815, lng: 6.108, label: "ディーキルヒ", type: "city", note: "Ciudad principal del norte" }
-  - { lat: 49.823, lng: 6.428, label: "ヴィアンデン", type: "historical", note: "古城で知られる町" }
-  - { lat: 49.717, lng: 6.013, label: "メルシュ", type: "city", note: "中央部の自治体" }
-  - { lat: 49.835, lng: 6.026, label: "クレルヴォー", type: "city", note: "アルデンヌ地方の町" }
+  - { lat: 49.611, lng: 6.131, label: "Ciudad de Luxemburgo", type: "capital", note: "Capital, casco antiguo y fortificaciones Patrimonio Mundial" }
+  - { lat: 49.504, lng: 5.981, label: "Esch-sur-Alzette", type: "city", note: "Segunda ciudad, en el sur" }
+  - { lat: 49.815, lng: 6.108, label: "Diekirch", type: "city", note: "Ciudad principal del norte" }
+  - { lat: 49.823, lng: 6.428, label: "Vianden", type: "historical", note: "Pueblo conocido por su antiguo castillo" }
+  - { lat: 49.717, lng: 6.013, label: "Mersch", type: "city", note: "Municipio del centro" }
+  - { lat: 49.835, lng: 6.026, label: "Clervaux", type: "city", note: "Pueblo de la región de las Ardenas" }
 features:
-  - text: '<span class="quiz">ルクセンブルク語</span>・フランス語・ドイツ語の<span class="quiz">3つの公用語</span>を持つ多言語国家'
+  - text: 'Es un país multilingüe con <span class="quiz">tres idiomas oficiales</span>: <span class="quiz">luxemburgués</span>, francés y alemán'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF%E8%AA%9E"
-  - text: '一人当たりGDPが世界最高水準の<span class="quiz">金融</span>立国で、EU主要機関の一部が置かれている'
+  - text: 'Es un país <span class="quiz">financiero</span> con uno de los mayores PIB per cápita del mundo, y alberga algunas de las principales instituciones de la UE'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF"
 ---
 

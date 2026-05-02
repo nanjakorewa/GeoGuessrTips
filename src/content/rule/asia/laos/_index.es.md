@@ -19,16 +19,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 17.975, lng: 102.633, label: "ビエンチャン", type: "capital", note: "ラオスの首都・メコン川沿岸の都市" }
-  - { lat: 19.886, lng: 102.135, label: "ルアンパバーン", type: "historical", note: "Patrimonio Mundial: ciudad histórica" }
-  - { lat: 15.121, lng: 105.798, label: "パークセー", type: "city", note: "南部最大の都市" }
-  - { lat: 19.612, lng: 103.736, label: "シェンクワン", type: "historical", note: "ジャール平原（謎の石壺）で有名" }
-  - { lat: 17.412, lng: 104.787, label: "サワンナケート", type: "city", note: "Ciudad principal del centro" }
-  - { lat: 17.500, lng: 104.500, label: "メコン川", type: "nature", note: "国土を縦断する東南アジアの大河" }
+  - { lat: 17.975, lng: 102.633, label: "Vientián", type: "capital", note: "Capital de Laos, ciudad a orillas del río Mekong" }
+  - { lat: 19.886, lng: 102.135, label: "Luang Prabang", type: "historical", note: "Patrimonio Mundial: ciudad histórica" }
+  - { lat: 15.121, lng: 105.798, label: "Pakse", type: "city", note: "Mayor ciudad del sur" }
+  - { lat: 19.612, lng: 103.736, label: "Xieng Khuang", type: "historical", note: "Famosa por la Llanura de las Jarras (jarras de piedra misteriosas)" }
+  - { lat: 17.412, lng: 104.787, label: "Savannakhet", type: "city", note: "Ciudad principal del centro" }
+  - { lat: 17.500, lng: 104.500, label: "Río Mekong", type: "nature", note: "Gran río del Sudeste Asiático que recorre el país de norte a sur" }
 features:
-  - text: '東南アジア唯一の<span class="quiz">内陸国</span>であり<span class="quiz">メコン川</span>が国土を縦断している'
+  - text: 'Es el único <span class="quiz">país sin litoral</span> del Sudeste Asiático y el <span class="quiz">río Mekong</span> recorre el país de norte a sur'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AA%E3%82%B9"
-  - text: '世界遺産の<span class="quiz">ルアンパバーン</span>は仏教寺院が数多く残る古都である'
+  - text: '<span class="quiz">Luang Prabang</span>, declarada Patrimonio Mundial, es una antigua ciudad con numerosos templos budistas conservados'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%91%E3%83%90%E3%83%BC%E3%83%B3%E3%81%AE%E7%94%BA"
 
 # ===== OSM ヒーロー設定 =====

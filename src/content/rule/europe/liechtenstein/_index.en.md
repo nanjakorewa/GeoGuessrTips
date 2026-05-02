@@ -17,16 +17,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 47.141, lng: 9.521, label: "ファドゥーツ", type: "capital", note: "首都・公国の中心" }
-  - { lat: 47.166, lng: 9.511, label: "シャーン", type: "city", note: "国内最大の自治体" }
-  - { lat: 47.124, lng: 9.529, label: "ファドゥーツ城", type: "historical", note: "君主の居城" }
-  - { lat: 47.188, lng: 9.598, label: "トリーゼンベルク", type: "city", note: "山腹の集落" }
-  - { lat: 47.054, lng: 9.502, label: "バルツェルス", type: "city", note: "南部の自治体" }
-  - { lat: 47.090, lng: 9.586, label: "マルブン", type: "nature", note: "唯一のスキーリゾート" }
+  - { lat: 47.141, lng: 9.521, label: "Vaduz", type: "capital", note: "Capital and center of the principality" }
+  - { lat: 47.166, lng: 9.511, label: "Schaan", type: "city", note: "Largest municipality in the country" }
+  - { lat: 47.124, lng: 9.529, label: "Vaduz Castle", type: "historical", note: "Residence of the monarch" }
+  - { lat: 47.188, lng: 9.598, label: "Triesenberg", type: "city", note: "Hillside settlement" }
+  - { lat: 47.054, lng: 9.502, label: "Balzers", type: "city", note: "Southern municipality" }
+  - { lat: 47.090, lng: 9.586, label: "Malbun", type: "nature", note: "The country''s only ski resort" }
 features:
-  - text: '世界で6番目に小さい国で、<span class="quiz">スイス</span>と<span class="quiz">オーストリア</span>に挟まれたアルプスの小国'
+  - text: 'The sixth-smallest country in the world, a small Alpine state nestled between <span class="quiz">Switzerland</span> and <span class="quiz">Austria</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3"
-  - text: '<span class="quiz">立憲君主制</span>の公国で、一人当たりGDPが世界トップクラスの裕福な国であり<span class="quiz">スイスフラン</span>を通貨として使用する'
+  - text: 'A <span class="quiz">constitutional monarchy</span> principality with one of the world''s highest GDPs per capita, using the <span class="quiz">Swiss franc</span> as its currency'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3"
 ---
 

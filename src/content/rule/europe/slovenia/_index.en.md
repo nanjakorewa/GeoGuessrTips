@@ -19,17 +19,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 46.056, lng: 14.508, label: "リュブリャナ", type: "capital", note: "首都・国の中心都市" }
-  - { lat: 46.555, lng: 15.646, label: "マリボル", type: "city", note: "第二の都市・ワイン産地" }
-  - { lat: 46.369, lng: 14.114, label: "ブレッド湖", type: "landmark", note: "湖上教会で有名な景勝地" }
-  - { lat: 45.776, lng: 14.203, label: "ポストイナ鍾乳洞", type: "nature", note: "欧州最大級のカルスト洞窟" }
-  - { lat: 45.546, lng: 13.730, label: "ピラン", type: "historical", note: "アドリア海沿いの中世都市" }
-  - { lat: 46.222, lng: 13.583, label: "トリグラフ国立公園", type: "nature", note: "ユリアン・アルプスの自然保護区" }
-  - { lat: 45.892, lng: 13.730, label: "シュコツィアン洞窟群", type: "nature", note: "世界遺産の鍾乳洞" }
+  - { lat: 46.056, lng: 14.508, label: "Ljubljana", type: "capital", note: "Capital and main city of the country" }
+  - { lat: 46.555, lng: 15.646, label: "Maribor", type: "city", note: "Second-largest city and wine region" }
+  - { lat: 46.369, lng: 14.114, label: "Lake Bled", type: "landmark", note: "Scenic site famous for its island church" }
+  - { lat: 45.776, lng: 14.203, label: "Postojna Cave", type: "nature", note: "One of Europe''s largest karst caves" }
+  - { lat: 45.546, lng: 13.730, label: "Piran", type: "historical", note: "Medieval town on the Adriatic coast" }
+  - { lat: 46.222, lng: 13.583, label: "Triglav National Park", type: "nature", note: "Nature reserve in the Julian Alps" }
+  - { lat: 45.892, lng: 13.730, label: "Škocjan Caves", type: "nature", note: "World Heritage caves" }
 features:
-  - text: '国土の約<span class="quiz">60%</span>が森林に覆われ、<span class="quiz">ポストイナ鍾乳洞</span>はヨーロッパ最大級のカルスト洞窟'
+  - text: 'Approximately <span class="quiz">60%</span> of the country is covered by forest, and <span class="quiz">Postojna Cave</span> is one of Europe''s largest karst caves'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B9%E3%83%88%E3%82%A4%E3%83%8A%E9%8D%BE%E4%B9%B3%E6%B4%9E"
-  - text: '旧ユーゴスラビア構成国の中で最も早くEUに加盟し、<span class="quiz">ブレッド湖</span>の湖上教会は国の象徴的な景観'
+  - text: 'The first former Yugoslav state to join the EU; the island church on <span class="quiz">Lake Bled</span> is an iconic landscape of the country'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E6%B9%96"
 ---
 

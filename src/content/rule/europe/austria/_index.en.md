@@ -19,16 +19,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 48.209, lng: 16.373, label: "ウィーン", type: "capital", note: "首都・音楽の都" }
-  - { lat: 47.811, lng: 13.055, label: "ザルツブルク", type: "city", note: "モーツァルトの生誕地" }
-  - { lat: 47.270, lng: 11.404, label: "インスブルック", type: "city", note: "チロル州都・冬季五輪開催地" }
-  - { lat: 47.071, lng: 15.439, label: "グラーツ", type: "city", note: "オーストリア第二の都市" }
-  - { lat: 47.580, lng: 13.647, label: "ハルシュタット", type: "landmark", note: "世界遺産の湖畔の村" }
-  - { lat: 47.305, lng: 11.876, label: "アルプス山脈", type: "nature", note: "国土の62%を占める山岳地帯" }
+  - { lat: 48.209, lng: 16.373, label: "Vienna", type: "capital", note: "Capital and city of music" }
+  - { lat: 47.811, lng: 13.055, label: "Salzburg", type: "city", note: "Birthplace of Mozart" }
+  - { lat: 47.270, lng: 11.404, label: "Innsbruck", type: "city", note: "Capital of Tyrol and host of the Winter Olympics" }
+  - { lat: 47.071, lng: 15.439, label: "Graz", type: "city", note: "Austria''s second-largest city" }
+  - { lat: 47.580, lng: 13.647, label: "Hallstatt", type: "landmark", note: "World Heritage lakeside village" }
+  - { lat: 47.305, lng: 11.876, label: "Alps", type: "nature", note: "Mountain range covering 62% of the country" }
 features:
-  - text: '音楽の都<span class="quiz">ウィーン</span>を首都に持ち、<span class="quiz">モーツァルト</span>やシュトラウスなど多くの作曲家を輩出した音楽大国'
+  - text: 'A music powerhouse whose capital, the <span class="quiz">Vienna</span> city of music, produced many composers including <span class="quiz">Mozart</span> and Strauss'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B3"
-  - text: '国土の約62%が<span class="quiz">アルプス山脈</span>に覆われ、<span class="quiz">ハプスブルク家</span>の本拠地として約640年にわたりヨーロッパに君臨した'
+  - text: 'About 62% of the country is covered by the <span class="quiz">Alps</span>, and as the home of the <span class="quiz">House of Habsburg</span> it dominated Europe for around 640 years'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%97%E3%82%B9%E3%83%96%E3%83%AB%E3%82%AF%E5%AE%B6"
 ---
 

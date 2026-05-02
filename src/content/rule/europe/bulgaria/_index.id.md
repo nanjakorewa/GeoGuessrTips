@@ -19,17 +19,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 42.698, lng: 23.322, label: "ソフィア", type: "capital", note: "Ibu kota, pusat politik dan ekonomi negara" }
-  - { lat: 42.150, lng: 24.749, label: "プロヴディフ", type: "historical", note: "欧州最古級の都市・2019年欧州文化首都" }
-  - { lat: 43.207, lng: 27.915, label: "ヴァルナ", type: "port", note: "黒海沿岸の主要港湾都市" }
-  - { lat: 42.510, lng: 27.461, label: "ブルガス", type: "port", note: "黒海沿岸の港湾都市" }
-  - { lat: 42.624, lng: 25.395, label: "カザンラク", type: "city", note: "バラの谷・バラ油生産地" }
-  - { lat: 42.135, lng: 23.341, label: "リラ修道院", type: "landmark", note: "世界遺産の正教会修道院" }
-  - { lat: 42.179, lng: 24.749, label: "プロヴディフ旧市街", type: "historical", note: "ローマ時代の遺跡が残る" }
+  - { lat: 42.698, lng: 23.322, label: "Sofia", type: "capital", note: "Ibu kota, pusat politik dan ekonomi negara" }
+  - { lat: 42.150, lng: 24.749, label: "Plovdiv", type: "historical", note: "Salah satu kota tertua di Eropa, Ibu Kota Budaya Eropa 2019" }
+  - { lat: 43.207, lng: 27.915, label: "Varna", type: "port", note: "Kota pelabuhan utama di pesisir Laut Hitam" }
+  - { lat: 42.510, lng: 27.461, label: "Burgas", type: "port", note: "Kota pelabuhan di pesisir Laut Hitam" }
+  - { lat: 42.624, lng: 25.395, label: "Kazanlak", type: "city", note: "Lembah Mawar, sentra produksi minyak mawar" }
+  - { lat: 42.135, lng: 23.341, label: "Biara Rila", type: "landmark", note: "Biara Ortodoks warisan dunia UNESCO" }
+  - { lat: 42.179, lng: 24.749, label: "Kota Tua Plovdiv", type: "historical", note: "Sisa-sisa peninggalan era Romawi masih bertahan" }
 features:
-  - text: '<span class="quiz">キリル文字</span>発祥の地とされ、EU加盟国で唯一キリル文字を公式に使用する国である'
+  - text: 'Diyakini sebagai tempat lahir <span class="quiz">aksara Kiril</span>, dan merupakan satu-satunya negara anggota Uni Eropa yang secara resmi menggunakan aksara Kiril'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%AB%E6%96%87%E5%AD%97"
-  - text: '世界の<span class="quiz">バラ油</span>生産量の約85%を占める<span class="quiz">バラの谷</span>（カザンラク周辺）があり、香水産業の原料供給地として知られる'
+  - text: 'Terdapat <span class="quiz">Lembah Mawar</span> (sekitar Kazanlak) yang menyumbang sekitar 85% produksi <span class="quiz">minyak mawar</span> dunia, dan dikenal sebagai pemasok bahan baku untuk industri parfum'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%81%AE%E8%B0%B7"
 ---
 

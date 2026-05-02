@@ -20,16 +20,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: -7.313, lng: 72.411, label: "ディエゴガルシア島", type: "landmark", note: "米軍基地が置かれる戦略的要衝" }
-  - { lat: -5.367, lng: 71.833, label: "ペロス・バニョス環礁", type: "nature", note: "ストリートビューが多い環礁群" }
-  - { lat: -6.250, lng: 71.250, label: "ソロモン諸島環礁", type: "nature", note: "チャゴス諸島の主要環礁" }
-  - { lat: -6.683, lng: 72.366, label: "エグモント諸島", type: "nature", note: "南西部の小島群" }
-  - { lat: -5.250, lng: 72.250, label: "グレートチャゴスバンク", type: "nature", note: "世界最大のサンゴ礁構造の一つ" }
-  - { lat: -6.000, lng: 71.500, label: "チャゴス諸島", type: "nature", note: "インド洋中央部の環礁群" }
+  - { lat: -7.313, lng: 72.411, label: "Isla Diego García", type: "landmark", note: "Enclave estratégico con base militar estadounidense" }
+  - { lat: -5.367, lng: 71.833, label: "Atolón Peros Banhos", type: "nature", note: "Grupo de atolones con abundante Street View" }
+  - { lat: -6.250, lng: 71.250, label: "Atolón Salomón", type: "nature", note: "Atolón principal del archipiélago de Chagos" }
+  - { lat: -6.683, lng: 72.366, label: "Islas Egmont", type: "nature", note: "Pequeño grupo de islas del suroeste" }
+  - { lat: -5.250, lng: 72.250, label: "Gran Banco de Chagos", type: "nature", note: "Una de las mayores estructuras coralinas del mundo" }
+  - { lat: -6.000, lng: 71.500, label: "Archipiélago de Chagos", type: "nature", note: "Grupo de atolones en el centro del océano Índico" }
 features:
-  - text: '<span class="quiz">インド洋</span>のほぼ中央に位置する環礁群で構成されている'
+  - text: 'Está formado por un conjunto de atolones situados casi en el centro del <span class="quiz">océano Índico</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6"
-  - text: '米軍の<span class="quiz">ディエゴガルシア基地</span>が置かれている戦略的要衝である'
+  - text: 'Es un enclave estratégico donde se sitúa la <span class="quiz">base de Diego García</span> del ejército estadounidense'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A8%E3%82%B4%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2%E5%B3%B6"
 
 # ===== OSM ヒーロー設定 =====

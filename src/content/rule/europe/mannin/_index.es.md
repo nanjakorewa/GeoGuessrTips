@@ -19,16 +19,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 54.150, lng: -4.481, label: "ダグラス", type: "capital", note: "首府・島最大の都市" }
-  - { lat: 54.328, lng: -4.388, label: "ラムジー", type: "city", note: "北部の港町" }
-  - { lat: 54.080, lng: -4.778, label: "キャッスルタウン", type: "historical", note: "旧首都・ラッシェン城" }
-  - { lat: 54.196, lng: -4.732, label: "ピール", type: "city", note: "西海岸の港町・ピール城跡" }
-  - { lat: 54.085, lng: -4.674, label: "ポート・エリン", type: "city", note: "南西部のリゾート" }
-  - { lat: 54.413, lng: -4.378, label: "スネーフェル山", type: "nature", note: "島最高峰" }
+  - { lat: 54.150, lng: -4.481, label: "Douglas", type: "capital", note: "Capital, mayor ciudad de la isla" }
+  - { lat: 54.328, lng: -4.388, label: "Ramsey", type: "city", note: "Ciudad portuaria del norte" }
+  - { lat: 54.080, lng: -4.778, label: "Castletown", type: "historical", note: "Antigua capital, castillo Rushen" }
+  - { lat: 54.196, lng: -4.732, label: "Peel", type: "city", note: "Ciudad portuaria de la costa oeste, ruinas del castillo Peel" }
+  - { lat: 54.085, lng: -4.674, label: "Port Erin", type: "city", note: "Centro turístico del suroeste" }
+  - { lat: 54.413, lng: -4.378, label: "Snaefell", type: "nature", note: "Pico más alto de la isla" }
 features:
-  - text: 'イギリスとアイルランドの間のアイリッシュ海に位置する<span class="quiz">イギリス王室属領</span>で、世界最古のオートバイレース<span class="quiz">TTレース</span>で有名'
+  - text: 'Es una <span class="quiz">dependencia de la Corona británica</span> situada en el mar de Irlanda, entre el Reino Unido e Irlanda, famosa por la <span class="quiz">TT Race</span>, la carrera de motos más antigua del mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E5%B3%B6TT%E3%83%AC%E3%83%BC%E3%82%B9"
-  - text: '三本の足が回転する<span class="quiz">トリスケリオン</span>が島の紋章であり、独自の議会<span class="quiz">ティンワルド</span>は世界最古の継続する議会とされる'
+  - text: 'El emblema de la isla es el <span class="quiz">trisquel</span> de tres piernas en rotación, y su parlamento propio, el <span class="quiz">Tynwald</span>, está considerado el parlamento en funcionamiento continuo más antiguo del mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%B3%E3%83%AF%E3%83%AB%E3%83%89"
 ---
 

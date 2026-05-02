@@ -19,16 +19,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 62.012, lng: -6.770, label: "トースハウン", type: "capital", note: "世界最古級の首都・諸島最大の都市" }
-  - { lat: 62.212, lng: -6.589, label: "クラクスヴィーク", type: "city", note: "第二の都市・漁業の中心" }
-  - { lat: 62.103, lng: -7.456, label: "ヴェストマンナ", type: "city", note: "鳥の崖で有名な町" }
-  - { lat: 62.292, lng: -7.183, label: "ガーサダルル", type: "nature", note: "代表的な滝の景観" }
-  - { lat: 61.444, lng: -6.794, label: "スーズロイ島", type: "nature", note: "最南端の島" }
-  - { lat: 62.139, lng: -7.434, label: "ソルヴァーグル", type: "city", note: "ヴァーガル島の中心" }
+  - { lat: 62.012, lng: -6.770, label: "Tórshavn", type: "capital", note: "One of the world''s oldest capitals; largest city of the archipelago" }
+  - { lat: 62.212, lng: -6.589, label: "Klaksvík", type: "city", note: "Second-largest city; center of the fishing industry" }
+  - { lat: 62.103, lng: -7.456, label: "Vestmanna", type: "city", note: "Town famous for its bird cliffs" }
+  - { lat: 62.292, lng: -7.183, label: "Gásadalur", type: "nature", note: "Iconic waterfall landscape" }
+  - { lat: 61.444, lng: -6.794, label: "Suðuroy", type: "nature", note: "Southernmost island" }
+  - { lat: 62.139, lng: -7.434, label: "Sørvágur", type: "city", note: "Center of Vágar Island" }
 features:
-  - text: '<span class="quiz">デンマーク</span>の自治領で、名前は古ノルド語で「<span class="quiz">羊の島</span>」を意味し、人口より羊の数が多い'
+  - text: 'An autonomous territory of <span class="quiz">Denmark</span>; the name means "<span class="quiz">Island of Sheep</span>" in Old Norse, and there are more sheep than people'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E8%AB%B8%E5%B3%B6"
-  - text: '独自の言語<span class="quiz">フェロー語</span>を持ち、18の島からなる群島で<span class="quiz">海底トンネル</span>で島同士が結ばれている'
+  - text: 'Has its own language, <span class="quiz">Faroese</span>; an archipelago of 18 islands connected to one another by <span class="quiz">subsea tunnels</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E8%AA%9E"
 ---
 

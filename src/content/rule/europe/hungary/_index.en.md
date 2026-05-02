@@ -18,17 +18,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 47.498, lng: 19.040, label: "ブダペスト", type: "capital", note: "首都・ドナウ川を挟む二都市の合体" }
-  - { lat: 47.532, lng: 21.625, label: "デブレツェン", type: "city", note: "東部の中心都市" }
-  - { lat: 46.253, lng: 20.149, label: "セゲド", type: "city", note: "南部の文化都市" }
-  - { lat: 47.687, lng: 17.635, label: "ジェール", type: "city", note: "北西部の主要都市" }
-  - { lat: 46.920, lng: 17.890, label: "バラトン湖", type: "nature", note: "中央欧州最大の湖" }
-  - { lat: 47.910, lng: 19.890, label: "エゲル", type: "historical", note: "城とワインで知られる街" }
-  - { lat: 47.498, lng: 19.044, label: "国会議事堂", type: "landmark", note: "ブダペストの象徴的建築" }
+  - { lat: 47.498, lng: 19.040, label: "Budapest", type: "capital", note: "Capital formed by merging two cities across the Danube" }
+  - { lat: 47.532, lng: 21.625, label: "Debrecen", type: "city", note: "Main city of the east" }
+  - { lat: 46.253, lng: 20.149, label: "Szeged", type: "city", note: "Cultural city of the south" }
+  - { lat: 47.687, lng: 17.635, label: "Győr", type: "city", note: "Major city in the northwest" }
+  - { lat: 46.920, lng: 17.890, label: "Lake Balaton", type: "nature", note: "Largest lake in Central Europe" }
+  - { lat: 47.910, lng: 19.890, label: "Eger", type: "historical", note: "Town known for its castle and wine" }
+  - { lat: 47.498, lng: 19.044, label: "Hungarian Parliament Building", type: "landmark", note: "Iconic building of Budapest" }
 features:
-  - text: '国土の大部分が<span class="quiz">大平原</span>（プスタ）で、<span class="quiz">ドナウ川</span>が首都ブダペストを二分して流れる'
+  - text: 'Most of the country is the <span class="quiz">Great Hungarian Plain</span> (Puszta), and the <span class="quiz">Danube</span> divides the capital Budapest in two'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%B9%E3%82%BF"
-  - text: '<span class="quiz">マジャル人</span>の国で、ヨーロッパでは珍しく<span class="quiz">ウラル語族</span>に属するハンガリー語を話す'
+  - text: 'A nation of the <span class="quiz">Magyars</span>, where Hungarian, unusually for Europe, belongs to the <span class="quiz">Uralic language family</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E8%AA%9E"
 ---
 

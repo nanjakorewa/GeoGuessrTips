@@ -21,17 +21,17 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 55.676, lng: 12.568, label: "コペンハーゲン", type: "capital", note: "首都・北欧の文化中心都市" }
-  - { lat: 56.156, lng: 10.203, label: "オーフス", type: "city", note: "ユラン半島の中心都市" }
-  - { lat: 55.404, lng: 10.402, label: "オーデンセ", type: "city", note: "アンデルセンの故郷" }
-  - { lat: 57.048, lng: 9.921, label: "オールボー", type: "city", note: "北ユラン地方の主要都市" }
-  - { lat: 55.713, lng: 9.535, label: "ビルン", type: "landmark", note: "レゴランド本拠地" }
-  - { lat: 55.692, lng: 12.599, label: "人魚姫像", type: "landmark", note: "コペンハーゲンの象徴" }
-  - { lat: 55.460, lng: 8.450, label: "ヴァッデン海", type: "nature", note: "世界遺産の干潟" }
+  - { lat: 55.676, lng: 12.568, label: "Kopenhagen", type: "capital", note: "Ibu kota, pusat budaya Eropa Utara" }
+  - { lat: 56.156, lng: 10.203, label: "Aarhus", type: "city", note: "Kota utama Semenanjung Jutlandia" }
+  - { lat: 55.404, lng: 10.402, label: "Odense", type: "city", note: "Kampung halaman Andersen" }
+  - { lat: 57.048, lng: 9.921, label: "Aalborg", type: "city", note: "Kota utama wilayah Jutlandia Utara" }
+  - { lat: 55.713, lng: 9.535, label: "Billund", type: "landmark", note: "Markas besar Legoland" }
+  - { lat: 55.692, lng: 12.599, label: "Patung Putri Duyung Kecil", type: "landmark", note: "Simbol Kopenhagen" }
+  - { lat: 55.460, lng: 8.450, label: "Laut Wadden", type: "nature", note: "Hamparan lumpur warisan dunia UNESCO" }
 features:
-  - text: '世界最古の君主制国家の一つであり、<span class="quiz">レゴ</span>ブロックの発祥地として知られる'
+  - text: 'Salah satu monarki tertua di dunia, dan dikenal sebagai tempat lahir balok <span class="quiz">LEGO</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B4"
-  - text: '<span class="quiz">風力発電</span>の先進国で電力の約半分を風力で賄い、自治領として<span class="quiz">グリーンランド</span>とフェロー諸島を持つ'
+  - text: 'Negara terdepan dalam <span class="quiz">tenaga angin</span>; sekitar separuh listriknya berasal dari angin, dan memiliki <span class="quiz">Greenland</span> serta Kepulauan Faroe sebagai wilayah otonomi'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
 ---
 

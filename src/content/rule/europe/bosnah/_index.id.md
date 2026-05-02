@@ -20,16 +20,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 43.857, lng: 18.413, label: "サラエボ", type: "capital", note: "首都・1984年冬季五輪開催地" }
-  - { lat: 44.773, lng: 17.191, label: "バニャ・ルカ", type: "city", note: "スルプスカ共和国の中心都市" }
-  - { lat: 43.343, lng: 17.808, label: "モスタル", type: "historical", note: "世界遺産のスタリ・モスト橋" }
-  - { lat: 44.538, lng: 18.667, label: "トゥズラ", type: "city", note: "北東部の主要都市" }
-  - { lat: 44.201, lng: 17.911, label: "ゼニツァ", type: "city", note: "中央部の工業都市" }
-  - { lat: 43.262, lng: 17.679, label: "ポチテリ", type: "historical", note: "オスマン時代の歴史地区" }
+  - { lat: 43.857, lng: 18.413, label: "Sarajevo", type: "capital", note: "Ibu kota, tuan rumah Olimpiade Musim Dingin 1984" }
+  - { lat: 44.773, lng: 17.191, label: "Banja Luka", type: "city", note: "Kota utama Republik Srpska" }
+  - { lat: 43.343, lng: 17.808, label: "Mostar", type: "historical", note: "Jembatan Stari Most warisan dunia UNESCO" }
+  - { lat: 44.538, lng: 18.667, label: "Tuzla", type: "city", note: "Kota utama bagian timur laut" }
+  - { lat: 44.201, lng: 17.911, label: "Zenica", type: "city", note: "Kota industri di bagian tengah" }
+  - { lat: 43.262, lng: 17.679, label: "Pocitelj", type: "historical", note: "Distrik bersejarah era Ottoman" }
 features:
-  - text: '<span class="quiz">ボスニア・ヘルツェゴビナ連邦</span>と<span class="quiz">スルプスカ共和国</span>の2つの構成体からなり、1995年の<span class="quiz">デイトン合意</span>で現在の国家体制が成立した'
+  - text: 'Terdiri dari dua entitas: <span class="quiz">Federasi Bosnia dan Herzegovina</span> dan <span class="quiz">Republik Srpska</span>; sistem negara saat ini terbentuk melalui <span class="quiz">Perjanjian Dayton</span> tahun 1995'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%88%E3%83%B3%E5%90%88%E6%84%8F"
-  - text: '首都<span class="quiz">サラエボ</span>は1984年の冬季オリンピック開催地であり、オスマン帝国時代の<span class="quiz">バシチャルシヤ</span>旧市街が残る'
+  - text: 'Ibu kota <span class="quiz">Sarajevo</span> menjadi tuan rumah Olimpiade Musim Dingin 1984 dan masih memiliki kota tua <span class="quiz">Bascarsija</span> dari era Kekaisaran Ottoman'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%82%A8%E3%83%9C"
 ---
 

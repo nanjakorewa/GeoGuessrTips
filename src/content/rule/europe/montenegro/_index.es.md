@@ -19,14 +19,14 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 42.441, lng: 19.262, label: "ポドゴリツァ", type: "capital", note: "Capital, ciudad principal del país" }
-  - { lat: 42.424, lng: 18.770, label: "コトル", type: "historical", note: "湾岸の世界遺産旧市街" }
-  - { lat: 42.291, lng: 18.840, label: "ブドヴァ", type: "city", note: "アドリア海の主要リゾート" }
-  - { lat: 42.787, lng: 19.295, label: "ニクシッチ", type: "city", note: "国内第二の都市" }
-  - { lat: 42.385, lng: 18.952, label: "ツェティニェ", type: "historical", note: "旧首都・歴史文化の中心" }
-  - { lat: 43.354, lng: 19.099, label: "ドゥルミトル国立公園", type: "nature", note: "世界遺産の山岳地帯" }
+  - { lat: 42.441, lng: 19.262, label: "Podgorica", type: "capital", note: "Capital, ciudad principal del país" }
+  - { lat: 42.424, lng: 18.770, label: "Kotor", type: "historical", note: "Casco antiguo Patrimonio Mundial junto a la bahía" }
+  - { lat: 42.291, lng: 18.840, label: "Budva", type: "city", note: "Principal centro turístico del Adriático" }
+  - { lat: 42.787, lng: 19.295, label: "Nikšić", type: "city", note: "Segunda ciudad del país" }
+  - { lat: 42.385, lng: 18.952, label: "Cetinje", type: "historical", note: "Antigua capital, centro histórico y cultural" }
+  - { lat: 43.354, lng: 19.099, label: "Parque Nacional Durmitor", type: "nature", note: "Macizo montañoso Patrimonio Mundial" }
 features:
-  - text: '<span class="quiz">コトル</span>湾はヨーロッパ最南端のフィヨルドのような地形で、旧市街と共にユネスコ<span class="quiz">世界遺産</span>に登録されている'
+  - text: 'La bahía de <span class="quiz">Kotor</span> tiene un relieve similar al de un fiordo y es la más meridional de Europa; junto con el casco antiguo está inscrita como <span class="quiz">Patrimonio Mundial</span> de la UNESCO'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%88%E3%83%AB"
 ---
 

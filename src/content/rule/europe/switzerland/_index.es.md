@@ -21,17 +21,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 46.948, lng: 7.447, label: "ベルン", type: "capital", note: "首都・世界遺産の旧市街" }
-  - { lat: 47.376, lng: 8.541, label: "チューリッヒ", type: "city", note: "金融の中心・最大の都市" }
-  - { lat: 46.204, lng: 6.143, label: "ジュネーヴ", type: "city", note: "国際機関の集積地" }
-  - { lat: 47.050, lng: 8.310, label: "ルツェルン", type: "city", note: "湖畔の観光都市" }
-  - { lat: 45.977, lng: 7.659, label: "マッターホルン", type: "nature", note: "アルプスの象徴的な山" }
-  - { lat: 46.534, lng: 7.962, label: "ユングフラウヨッホ", type: "landmark", note: "ヨーロッパ最高所の鉄道駅" }
-  - { lat: 47.558, lng: 7.587, label: "バーゼル", type: "city", note: "ライン川沿いの文化都市" }
+  - { lat: 46.948, lng: 7.447, label: "Berna", type: "capital", note: "Capital, casco antiguo Patrimonio Mundial" }
+  - { lat: 47.376, lng: 8.541, label: "Zúrich", type: "city", note: "Centro financiero, mayor ciudad del país" }
+  - { lat: 46.204, lng: 6.143, label: "Ginebra", type: "city", note: "Sede de organismos internacionales" }
+  - { lat: 47.050, lng: 8.310, label: "Lucerna", type: "city", note: "Ciudad turística junto al lago" }
+  - { lat: 45.977, lng: 7.659, label: "Cervino", type: "nature", note: "Montaña emblemática de los Alpes" }
+  - { lat: 46.534, lng: 7.962, label: "Jungfraujoch", type: "landmark", note: "Estación ferroviaria más alta de Europa" }
+  - { lat: 47.558, lng: 7.587, label: "Basilea", type: "city", note: "Ciudad cultural a orillas del Rin" }
 features:
-  - text: '<span class="quiz">永世中立国</span>であり、<span class="quiz">ドイツ語</span>・フランス語・イタリア語・ロマンシュ語の4つの公用語を持つ'
+  - text: 'Es un país de <span class="quiz">neutralidad permanente</span> y tiene cuatro idiomas oficiales: <span class="quiz">alemán</span>, francés, italiano y romanche'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
-  - text: '<span class="quiz">赤十字</span>国際委員会や多くの国際機関の本部が<span class="quiz">ジュネーヴ</span>に置かれ、精密時計産業でも世界的に有名'
+  - text: 'En <span class="quiz">Ginebra</span> se encuentran las sedes del Comité Internacional de la <span class="quiz">Cruz Roja</span> y de muchos organismos internacionales, y también es mundialmente famosa por su industria relojera de precisión'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%8D%E3%83%BC%E3%83%B4"
 ---
 

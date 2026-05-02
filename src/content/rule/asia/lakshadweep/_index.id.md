@@ -18,16 +18,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 10.566, lng: 72.642, label: "カヴァラッティ", type: "capital", note: "ラクシャドウィープの中心都市" }
-  - { lat: 11.000, lng: 72.272, label: "アガッティ島", type: "city", note: "空港のある島・観光の玄関口" }
-  - { lat: 10.823, lng: 72.183, label: "ミニコイ島", type: "nature", note: "南端の島・特徴的な文化を持つ" }
-  - { lat: 11.328, lng: 72.785, label: "アンドロート島", type: "city", note: "最大の島・人口最多" }
-  - { lat: 10.918, lng: 72.214, label: "バンガラム島", type: "nature", note: "リゾートで知られる無人島" }
-  - { lat: 11.708, lng: 72.166, label: "カディマット島", type: "nature", note: "サンゴ礁が美しい島" }
+  - { lat: 10.566, lng: 72.642, label: "Kavaratti", type: "capital", note: "Kota pusat Lakshadweep" }
+  - { lat: 11.000, lng: 72.272, label: "Pulau Agatti", type: "city", note: "Pulau dengan bandara, gerbang wisata" }
+  - { lat: 10.823, lng: 72.183, label: "Pulau Minicoy", type: "nature", note: "Pulau di ujung selatan, memiliki budaya yang khas" }
+  - { lat: 11.328, lng: 72.785, label: "Pulau Androth", type: "city", note: "Pulau terbesar, populasi terbanyak" }
+  - { lat: 10.918, lng: 72.214, label: "Pulau Bangaram", type: "nature", note: "Pulau tak berpenghuni yang dikenal sebagai resor" }
+  - { lat: 11.708, lng: 72.166, label: "Pulau Kadmat", type: "nature", note: "Pulau dengan terumbu karang yang indah" }
 features:
-  - text: 'インドの<span class="quiz">連邦直轄領</span>であり36の島々から構成される<span class="quiz">サンゴ礁</span>の群島である'
+  - text: 'Merupakan <span class="quiz">wilayah persatuan</span> India dan kepulauan <span class="quiz">terumbu karang</span> yang terdiri dari 36 pulau'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E8%AB%B8%E5%B3%B6"
-  - text: '住民の大多数が<span class="quiz">イスラム教</span>を信仰しておりインド本土とは文化的に異なる'
+  - text: 'Mayoritas penduduknya menganut agama <span class="quiz">Islam</span> sehingga berbeda secara budaya dari daratan utama India'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E8%AB%B8%E5%B3%B6"
 
 # ===== OSM ヒーロー設定 =====

@@ -19,17 +19,17 @@ sc: [
 flag_height: "380px"
 mapProvider: "osm"
 mapPins:
-  - { lat: 3.139, lng: 101.687, label: "クアラルンプール", type: "capital", note: "マレーシアの首都・最大都市" }
-  - { lat: 3.158, lng: 101.711, label: "ペトロナスツインタワー", type: "landmark", note: "世界一高いツインタワー（452m）" }
-  - { lat: 5.414, lng: 100.330, label: "Georgetown", type: "historical", note: "ペナン州都・世界遺産の歴史都市" }
-  - { lat: 1.493, lng: 103.741, label: "ジョホールバル", type: "city", note: "シンガポール対岸の主要都市" }
-  - { lat: 2.196, lng: 102.250, label: "マラッカ", type: "historical", note: "世界遺産・海峡都市" }
-  - { lat: 1.553, lng: 110.359, label: "クチン", type: "city", note: "ボルネオ島サラワク州の州都" }
-  - { lat: 5.975, lng: 116.072, label: "コタキナバル", type: "city", note: "ボルネオ島サバ州の州都" }
+  - { lat: 3.139, lng: 101.687, label: "Kuala Lumpur", type: "capital", note: "Capital y mayor ciudad de Malasia" }
+  - { lat: 3.158, lng: 101.711, label: "Torres Petronas", type: "landmark", note: "Las torres gemelas más altas del mundo (452 m)" }
+  - { lat: 5.414, lng: 100.330, label: "Georgetown", type: "historical", note: "Capital del estado de Penang, ciudad histórica Patrimonio Mundial" }
+  - { lat: 1.493, lng: 103.741, label: "Johor Bahru", type: "city", note: "Principal ciudad frente a Singapur" }
+  - { lat: 2.196, lng: 102.250, label: "Malaca", type: "historical", note: "Patrimonio Mundial, ciudad del estrecho" }
+  - { lat: 1.553, lng: 110.359, label: "Kuching", type: "city", note: "Capital del estado de Sarawak, en Borneo" }
+  - { lat: 5.975, lng: 116.072, label: "Kota Kinabalu", type: "city", note: "Capital del estado de Sabah, en Borneo" }
 features:
-  - text: '<span class="quiz">マレー半島</span>とボルネオ島北部から構成される多民族国家である'
+  - text: 'Es un Estado multiétnico formado por la <span class="quiz">península malaya</span> y la parte norte de Borneo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2"
-  - text: '首都クアラルンプールの<span class="quiz">ペトロナスツインタワー</span>は世界で最も高いツインタワーである'
+  - text: 'En la capital, Kuala Lumpur, se alzan las <span class="quiz">Torres Petronas</span>, las torres gemelas más altas del mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%AD%E3%83%8A%E3%82%B9%E3%83%84%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%AF%E3%83%BC"
 
 # ===== OSM ヒーロー設定 =====

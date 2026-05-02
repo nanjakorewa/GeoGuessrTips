@@ -21,17 +21,17 @@ additional_link:
     - ["Dokumen Finlandia untuk Geoguessr", "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.g14913b7a907_1_0"]
 mapProvider: "osm"
 mapPins:
-  - { lat: 60.169, lng: 24.938, label: "ヘルシンキ", type: "capital", note: "首都・バルト海沿いの主要都市" }
-  - { lat: 60.451, lng: 22.267, label: "トゥルク", type: "city", note: "旧首都・歴史都市" }
-  - { lat: 61.498, lng: 23.760, label: "タンペレ", type: "city", note: "内陸最大の都市" }
-  - { lat: 65.012, lng: 25.471, label: "オウル", type: "city", note: "Kota utama di utara" }
-  - { lat: 66.504, lng: 25.730, label: "ロヴァニエミ", type: "city", note: "ラップランドの中心・サンタクロース村" }
-  - { lat: 60.151, lng: 24.950, label: "スオメンリンナ要塞", type: "landmark", note: "世界遺産の海防要塞" }
-  - { lat: 61.687, lng: 27.272, label: "サイマー湖", type: "nature", note: "国内最大の湖" }
+  - { lat: 60.169, lng: 24.938, label: "Helsinki", type: "capital", note: "Ibu kota, kota utama di pesisir Laut Baltik" }
+  - { lat: 60.451, lng: 22.267, label: "Turku", type: "city", note: "Bekas ibu kota, kota bersejarah" }
+  - { lat: 61.498, lng: 23.760, label: "Tampere", type: "city", note: "Kota terbesar di pedalaman" }
+  - { lat: 65.012, lng: 25.471, label: "Oulu", type: "city", note: "Kota utama di utara" }
+  - { lat: 66.504, lng: 25.730, label: "Rovaniemi", type: "city", note: "Pusat Lapland, Desa Sinterklas" }
+  - { lat: 60.151, lng: 24.950, label: "Benteng Suomenlinna", type: "landmark", note: "Benteng pertahanan laut warisan dunia UNESCO" }
+  - { lat: 61.687, lng: 27.272, label: "Danau Saimaa", type: "nature", note: "Danau terbesar di negara ini" }
 features:
-  - text: '国土に約<span class="quiz">18万8千</span>の湖があり「<span class="quiz">千の湖の国</span>」と呼ばれ、サウナ発祥の地でもある'
+  - text: 'Memiliki sekitar <span class="quiz">188 ribu</span> danau di wilayahnya sehingga dijuluki "<span class="quiz">Negeri Seribu Danau</span>", dan juga merupakan tempat lahir sauna'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
-  - text: '教育水準の高さで世界的に知られ、<span class="quiz">Nokia</span>の本社があり携帯電話産業の先駆者となった国'
+  - text: 'Dikenal di seluruh dunia karena tingkat pendidikannya yang tinggi, merupakan negara pelopor industri ponsel dengan kantor pusat <span class="quiz">Nokia</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%AD%E3%82%A2"
 ---
 

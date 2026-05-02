@@ -21,16 +21,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 9.928, lng: -84.091, label: "San Jose", type: "capital", note: "首都・中央高原の最大都市" }
-  - { lat: 9.998, lng: -84.117, label: "エレディア", type: "city", note: "首都圏北部の主要都市" }
-  - { lat: 10.633, lng: -85.437, label: "リベリア", type: "city", note: "北西部グアナカステ州の州都" }
-  - { lat: 9.976, lng: -83.034, label: "リモン", type: "port", note: "カリブ海岸の主要港湾都市" }
-  - { lat: 10.463, lng: -84.703, label: "アレナル火山", type: "nature", note: "標高1,670mの活火山と国立公園" }
-  - { lat: 8.481, lng: -83.581, label: "コルコバード国立公園", type: "nature", note: "オサ半島の生物多様性が豊かな熱帯雨林" }
+  - { lat: 9.928, lng: -84.091, label: "San Jose", type: "capital", note: "Ibu kota; kota terbesar di dataran tinggi tengah" }
+  - { lat: 9.998, lng: -84.117, label: "Heredia", type: "city", note: "Kota utama di utara wilayah ibu kota" }
+  - { lat: 10.633, lng: -85.437, label: "Liberia", type: "city", note: "Ibu kota Provinsi Guanacaste di barat laut" }
+  - { lat: 9.976, lng: -83.034, label: "Limon", type: "port", note: "Kota pelabuhan utama di pesisir Karibia" }
+  - { lat: 10.463, lng: -84.703, label: "Gunung Arenal", type: "nature", note: "Gunung berapi aktif setinggi 1.670 m dan taman nasional" }
+  - { lat: 8.481, lng: -83.581, label: "Taman Nasional Corcovado", type: "nature", note: "Hutan hujan tropis kaya keanekaragaman hayati di Semenanjung Osa" }
 features:
-  - text: '中米に位置し<span class="quiz">軍隊を持たない</span>国として知られる'
+  - text: 'Terletak di Amerika Tengah dan dikenal sebagai negara yang <span class="quiz">tidak memiliki angkatan bersenjata</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB"
-  - text: '国土の約25%が<span class="quiz">国立公園や自然保護区</span>に指定されており生物多様性が豊か'
+  - text: 'Sekitar 25% wilayahnya ditetapkan sebagai <span class="quiz">taman nasional atau cagar alam</span> dan kaya keanekaragaman hayati'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB#%E5%9C%B0%E7%90%86"
 ---
 

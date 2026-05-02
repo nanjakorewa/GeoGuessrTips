@@ -11,15 +11,15 @@ flag: "Saga.svg"
 mapProvider: "osm"
 mapPins:
   - { lat: 33.249, lng: 130.298, label: "Stasiun Saga", type: "capital", note: "Ibu kota Prefektur Saga" }
-  - { lat: 33.245, lng: 130.299, label: "佐賀城", type: "historical", note: "鍋島藩の城" }
-  - { lat: 33.450, lng: 129.969, label: "唐津", type: "city", note: "唐津焼・唐津くんち" }
-  - { lat: 33.205, lng: 129.916, label: "有田", type: "historical", note: "有田焼の産地" }
-  - { lat: 33.265, lng: 129.881, label: "伊万里", type: "city", note: "伊万里焼の街" }
-  - { lat: 33.106, lng: 130.044, label: "嬉野温泉", type: "nature", note: "美肌の湯" }
+  - { lat: 33.245, lng: 130.299, label: "Kastil Saga", type: "historical", note: "Kastil klan Nabeshima" }
+  - { lat: 33.450, lng: 129.969, label: "Karatsu", type: "city", note: "Keramik Karatsu, festival Karatsu Kunchi" }
+  - { lat: 33.205, lng: 129.916, label: "Arita", type: "historical", note: "Daerah penghasil keramik Arita" }
+  - { lat: 33.265, lng: 129.881, label: "Imari", type: "city", note: "Kota keramik Imari" }
+  - { lat: 33.106, lng: 130.044, label: "Onsen Ureshino", type: "nature", note: "Onsen kecantikan kulit" }
 features:
-  - text: '<span class="quiz">有田焼・伊万里焼</span>は日本を代表する磁器で、400年以上の歴史を持つ伝統産業'
+  - text: '<span class="quiz">Keramik Arita dan Imari</span> adalah porselen representatif Jepang, industri tradisional dengan sejarah lebih dari 400 tahun'
     ref: "https://ja.wikipedia.org/wiki/有田焼"
-  - text: '佐賀平野は<span class="quiz">米作</span>が盛んで、クリークと呼ばれる水路網が特徴的な景観'
+  - text: 'Dataran Saga terkenal dengan <span class="quiz">budidaya padi</span>, dengan jaringan saluran air yang disebut creek menjadi pemandangan khasnya'
     ref: "https://ja.wikipedia.org/wiki/佐賀県#農業"
 ---
 

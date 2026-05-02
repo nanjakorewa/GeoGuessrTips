@@ -18,16 +18,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 43.738, lng: 7.424, label: "モナコ", type: "capital", note: "首都・公国の中心" }
-  - { lat: 43.740, lng: 7.428, label: "モンテカルロ", type: "city", note: "カジノで有名な地区" }
-  - { lat: 43.732, lng: 7.420, label: "モナコ・ヴィル", type: "historical", note: "旧市街・大公宮殿" }
-  - { lat: 43.731, lng: 7.421, label: "大公宮殿", type: "landmark", note: "グリマルディ家の居城" }
-  - { lat: 43.736, lng: 7.422, label: "モナコ大聖堂", type: "landmark", note: "歴代大公の墓所" }
-  - { lat: 43.737, lng: 7.422, label: "海洋博物館", type: "landmark", note: "ジャック・クストーで知られる" }
+  - { lat: 43.738, lng: 7.424, label: "Mónaco", type: "capital", note: "Capital, centro del principado" }
+  - { lat: 43.740, lng: 7.428, label: "Montecarlo", type: "city", note: "Distrito famoso por su casino" }
+  - { lat: 43.732, lng: 7.420, label: "Mónaco-Ville", type: "historical", note: "Casco antiguo, Palacio del Príncipe" }
+  - { lat: 43.731, lng: 7.421, label: "Palacio del Príncipe", type: "landmark", note: "Residencia de la familia Grimaldi" }
+  - { lat: 43.736, lng: 7.422, label: "Catedral de Mónaco", type: "landmark", note: "Sepulcro de los príncipes" }
+  - { lat: 43.737, lng: 7.422, label: "Museo Oceanográfico", type: "landmark", note: "Conocido por Jacques Cousteau" }
 features:
-  - text: 'バチカンに次いで世界で2番目に小さい国で、面積はわずか約<span class="quiz">2km²</span>しかない<span class="quiz">都市国家</span>'
+  - text: 'Es el segundo país más pequeño del mundo después del Vaticano, una <span class="quiz">ciudad-estado</span> con apenas unos <span class="quiz">2 km²</span> de superficie'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8A%E3%82%B3"
-  - text: '<span class="quiz">F1モナコグランプリ</span>の開催地であり、<span class="quiz">カジノ</span>で有名な高級リゾート国家で所得税がない'
+  - text: 'Es la sede del <span class="quiz">Gran Premio de Mónaco de F1</span> y un país de lujo famoso por sus <span class="quiz">casinos</span>, sin impuesto sobre la renta'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8A%E3%82%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA"
 ---
 

@@ -20,16 +20,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 22.198, lng: 113.544, label: "マカオ半島", type: "capital", note: "マカオ特別行政区の中心地区" }
-  - { lat: 22.187, lng: 113.555, label: "セナド広場", type: "historical", note: "世界遺産・歴史地区の中心広場" }
-  - { lat: 22.197, lng: 113.541, label: "聖ポール天主堂跡", type: "landmark", note: "世界遺産・マカオの象徴的なファサード" }
-  - { lat: 22.149, lng: 113.560, label: "タイパ", type: "city", note: "中部の島・国際空港の所在地" }
-  - { lat: 22.122, lng: 113.559, label: "コタイ", type: "city", note: "巨大カジノリゾートが集中する地区" }
-  - { lat: 22.106, lng: 113.564, label: "コロアネ", type: "nature", note: "南部の島・自然が残る地域" }
+  - { lat: 22.198, lng: 113.544, label: "Semenanjung Makau", type: "capital", note: "Distrik pusat Daerah Administratif Khusus Makau" }
+  - { lat: 22.187, lng: 113.555, label: "Lapangan Senado", type: "historical", note: "Warisan dunia, lapangan pusat distrik bersejarah" }
+  - { lat: 22.197, lng: 113.541, label: "Reruntuhan Gereja St. Paul", type: "landmark", note: "Warisan dunia, fasad ikonik Makau" }
+  - { lat: 22.149, lng: 113.560, label: "Taipa", type: "city", note: "Pulau di tengah, lokasi bandara internasional" }
+  - { lat: 22.122, lng: 113.559, label: "Cotai", type: "city", note: "Distrik tempat resor kasino raksasa berkumpul" }
+  - { lat: 22.106, lng: 113.564, label: "Coloane", type: "nature", note: "Pulau di selatan, kawasan dengan alam yang masih terjaga" }
 features:
-  - text: 'かつて<span class="quiz">ポルトガル</span>の植民地であり1999年に中国へ返還された'
+  - text: 'Dahulu merupakan koloni <span class="quiz">Portugal</span> dan dikembalikan ke Tiongkok pada tahun 1999'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%82%AA"
-  - text: '世界最大級の<span class="quiz">カジノ</span>産業を持ち「東洋のラスベガス」と呼ばれる'
+  - text: 'Memiliki industri <span class="quiz">kasino</span> terbesar di dunia dan dijuluki "Las Vegas dari Timur"'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%82%AA#%E7%B5%8C%E6%B8%88"
 
 # ===== OSM ヒーロー設定 =====

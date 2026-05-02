@@ -19,14 +19,14 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 42.441, lng: 19.262, label: "ポドゴリツァ", type: "capital", note: "首都・国の中心都市" }
-  - { lat: 42.424, lng: 18.770, label: "コトル", type: "historical", note: "湾岸の世界遺産旧市街" }
-  - { lat: 42.291, lng: 18.840, label: "ブドヴァ", type: "city", note: "アドリア海の主要リゾート" }
-  - { lat: 42.787, lng: 19.295, label: "ニクシッチ", type: "city", note: "Kota terbesar kedua di negara ini" }
-  - { lat: 42.385, lng: 18.952, label: "ツェティニェ", type: "historical", note: "旧首都・歴史文化の中心" }
-  - { lat: 43.354, lng: 19.099, label: "ドゥルミトル国立公園", type: "nature", note: "世界遺産の山岳地帯" }
+  - { lat: 42.441, lng: 19.262, label: "Podgorica", type: "capital", note: "Ibu kota, kota utama negara" }
+  - { lat: 42.424, lng: 18.770, label: "Kotor", type: "historical", note: "Kota tua tepi teluk warisan dunia UNESCO" }
+  - { lat: 42.291, lng: 18.840, label: "Budva", type: "city", note: "Resor utama di Laut Adriatik" }
+  - { lat: 42.787, lng: 19.295, label: "Niksic", type: "city", note: "Kota terbesar kedua di negara ini" }
+  - { lat: 42.385, lng: 18.952, label: "Cetinje", type: "historical", note: "Bekas ibu kota, pusat sejarah dan budaya" }
+  - { lat: 43.354, lng: 19.099, label: "Taman Nasional Durmitor", type: "nature", note: "Kawasan pegunungan warisan dunia UNESCO" }
 features:
-  - text: '<span class="quiz">コトル</span>湾はヨーロッパ最南端のフィヨルドのような地形で、旧市街と共にユネスコ<span class="quiz">世界遺産</span>に登録されている'
+  - text: 'Teluk <span class="quiz">Kotor</span> memiliki bentuk lahan menyerupai fjord paling selatan di Eropa, dan terdaftar sebagai <span class="quiz">warisan dunia</span> UNESCO bersama kota tuanya'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%88%E3%83%AB"
 ---
 

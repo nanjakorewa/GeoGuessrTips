@@ -20,17 +20,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 38.722, lng: -9.139, label: "Lisboa", type: "capital", note: "首都・テージョ川沿いの古都" }
-  - { lat: 41.157, lng: -8.629, label: "ポルト", type: "city", note: "ポートワイン産地・世界遺産旧市街" }
-  - { lat: 38.797, lng: -9.391, label: "シントラ", type: "historical", note: "世界遺産の文化的景観" }
-  - { lat: 37.018, lng: -7.930, label: "ファロ", type: "city", note: "アルガルヴェ地方の中心" }
-  - { lat: 40.640, lng: -8.650, label: "アヴェイロ", type: "city", note: "運河の街・ポルトガルのヴェネツィア" }
-  - { lat: 40.211, lng: -8.430, label: "コインブラ", type: "historical", note: "古都・最古の大学都市" }
-  - { lat: 38.692, lng: -9.216, label: "ベレンの塔", type: "landmark", note: "大航海時代の世界遺産" }
+  - { lat: 38.722, lng: -9.139, label: "Lisboa", type: "capital", note: "Capital, antigua ciudad a orillas del río Tajo" }
+  - { lat: 41.157, lng: -8.629, label: "Oporto", type: "city", note: "Cuna del vino de Oporto, casco antiguo Patrimonio Mundial" }
+  - { lat: 38.797, lng: -9.391, label: "Sintra", type: "historical", note: "Paisaje cultural Patrimonio Mundial" }
+  - { lat: 37.018, lng: -7.930, label: "Faro", type: "city", note: "Centro de la región del Algarve" }
+  - { lat: 40.640, lng: -8.650, label: "Aveiro", type: "city", note: "Ciudad de los canales, la Venecia portuguesa" }
+  - { lat: 40.211, lng: -8.430, label: "Coímbra", type: "historical", note: "Antigua ciudad, sede de la universidad más antigua" }
+  - { lat: 38.692, lng: -9.216, label: "Torre de Belém", type: "landmark", note: "Patrimonio Mundial de la era de los descubrimientos" }
 features:
-  - text: '大航海時代に<span class="quiz">ヴァスコ・ダ・ガマ</span>がインド航路を発見するなど、海洋探検の先駆者となった国'
+  - text: 'Fue uno de los pioneros de la exploración marítima durante la era de los descubrimientos, época en la que <span class="quiz">Vasco da Gama</span> descubrió la ruta marítima a la India'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%80%E3%83%BB%E3%82%AC%E3%83%9E"
-  - text: '<span class="quiz">アズレージョ</span>と呼ばれる装飾タイルが街中に見られ、<span class="quiz">ファド</span>は国民的な音楽としてユネスコ無形文化遺産に登録されている'
+  - text: 'Las baldosas decorativas llamadas <span class="quiz">azulejos</span> se ven por toda la ciudad, y el <span class="quiz">fado</span>, música nacional del país, está inscrito como Patrimonio Cultural Inmaterial de la UNESCO'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%89"
 ---
 

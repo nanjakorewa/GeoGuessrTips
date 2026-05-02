@@ -17,17 +17,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 38.722, lng: -9.139, label: "Lisboa", type: "capital", note: "首都・テージョ川沿いの古都" }
-  - { lat: 41.157, lng: -8.629, label: "ポルト", type: "city", note: "ポートワイン産地・世界遺産旧市街" }
-  - { lat: 38.797, lng: -9.391, label: "シントラ", type: "historical", note: "世界遺産の文化的景観" }
-  - { lat: 37.018, lng: -7.930, label: "ファロ", type: "city", note: "アルガルヴェ地方の中心" }
-  - { lat: 40.640, lng: -8.650, label: "アヴェイロ", type: "city", note: "運河の街・ポルトガルのヴェネツィア" }
-  - { lat: 40.211, lng: -8.430, label: "コインブラ", type: "historical", note: "古都・最古の大学都市" }
-  - { lat: 38.692, lng: -9.216, label: "ベレンの塔", type: "landmark", note: "大航海時代の世界遺産" }
+  - { lat: 38.722, lng: -9.139, label: "Lisboa", type: "capital", note: "Ibu kota, kota tua di tepi Sungai Tejo" }
+  - { lat: 41.157, lng: -8.629, label: "Porto", type: "city", note: "Daerah penghasil anggur Port, kota tua warisan dunia UNESCO" }
+  - { lat: 38.797, lng: -9.391, label: "Sintra", type: "historical", note: "Lanskap budaya warisan dunia UNESCO" }
+  - { lat: 37.018, lng: -7.930, label: "Faro", type: "city", note: "Pusat wilayah Algarve" }
+  - { lat: 40.640, lng: -8.650, label: "Aveiro", type: "city", note: "Kota kanal, Venesia-nya Portugal" }
+  - { lat: 40.211, lng: -8.430, label: "Coimbra", type: "historical", note: "Kota tua, kota universitas tertua" }
+  - { lat: 38.692, lng: -9.216, label: "Menara Belem", type: "landmark", note: "Warisan dunia UNESCO era Penjelajahan" }
 features:
-  - text: '大航海時代に<span class="quiz">ヴァスコ・ダ・ガマ</span>がインド航路を発見するなど、海洋探検の先駆者となった国'
+  - text: 'Negara perintis penjelajahan samudra; pada Era Penjelajahan, <span class="quiz">Vasco da Gama</span> menemukan rute laut menuju India'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%80%E3%83%BB%E3%82%AC%E3%83%9E"
-  - text: '<span class="quiz">アズレージョ</span>と呼ばれる装飾タイルが街中に見られ、<span class="quiz">ファド</span>は国民的な音楽としてユネスコ無形文化遺産に登録されている'
+  - text: 'Ubin dekoratif yang disebut <span class="quiz">Azulejo</span> dapat ditemukan di seluruh kota, dan <span class="quiz">Fado</span> sebagai musik nasional terdaftar dalam Warisan Budaya Takbenda UNESCO'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%89"
 ---
 

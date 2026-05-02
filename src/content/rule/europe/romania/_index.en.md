@@ -19,17 +19,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 44.439, lng: 26.097, label: "ブカレスト", type: "capital", note: "首都・東欧のパリと呼ばれた都市" }
-  - { lat: 46.770, lng: 23.591, label: "クルージュ＝ナポカ", type: "city", note: "トランシルヴァニアの中心都市" }
-  - { lat: 45.654, lng: 25.611, label: "ブラショヴ", type: "city", note: "中世の城塞都市" }
-  - { lat: 45.749, lng: 21.227, label: "ティミショアラ", type: "city", note: "西部の文化都市" }
-  - { lat: 45.515, lng: 25.367, label: "ブラン城", type: "historical", note: "ドラキュラ城のモデル" }
-  - { lat: 45.792, lng: 24.151, label: "シビウ", type: "historical", note: "ドイツ系移住者の旧市街" }
-  - { lat: 45.115, lng: 29.567, label: "ドナウ・デルタ", type: "nature", note: "欧州最大の湿地・世界遺産" }
+  - { lat: 44.439, lng: 26.097, label: "Bucharest", type: "capital", note: "Capital, once called the Paris of Eastern Europe" }
+  - { lat: 46.770, lng: 23.591, label: "Cluj-Napoca", type: "city", note: "Main city of Transylvania" }
+  - { lat: 45.654, lng: 25.611, label: "Brașov", type: "city", note: "Medieval fortified city" }
+  - { lat: 45.749, lng: 21.227, label: "Timișoara", type: "city", note: "Cultural city in the west" }
+  - { lat: 45.515, lng: 25.367, label: "Bran Castle", type: "historical", note: "Model for Dracula''s Castle" }
+  - { lat: 45.792, lng: 24.151, label: "Sibiu", type: "historical", note: "Old town of German settlers" }
+  - { lat: 45.115, lng: 29.567, label: "Danube Delta", type: "nature", note: "Europe''s largest wetland; World Heritage Site" }
 features:
-  - text: '<span class="quiz">ドラキュラ</span>伝説の舞台として知られる<span class="quiz">トランシルヴァニア</span>地方があり、中世の城塞都市が多く残る'
+  - text: 'Known as the setting of the <span class="quiz">Dracula</span> legend, <span class="quiz">Transylvania</span> remains home to many medieval fortified towns'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2"
-  - text: 'スラヴ語圏に囲まれながら<span class="quiz">ラテン語</span>系のルーマニア語を話す独自の文化を持ち、<span class="quiz">ドナウ・デルタ</span>はヨーロッパ最大の湿地帯'
+  - text: 'A unique culture that speaks Romanian, a <span class="quiz">Latin</span>-derived language, despite being surrounded by Slavic-speaking neighbors; the <span class="quiz">Danube Delta</span> is Europe''s largest wetland area'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%82%A6%E3%83%BB%E3%83%87%E3%83%AB%E3%82%BF"
 ---
 

@@ -26,17 +26,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 51.507, lng: -0.128, label: "London", type: "capital", note: "首都・世界有数の金融センター" }
-  - { lat: 53.481, lng: -2.243, label: "マンチェスター", type: "city", note: "産業革命発祥の都市" }
-  - { lat: 55.953, lng: -3.189, label: "エディンバラ", type: "city", note: "スコットランドの首都" }
-  - { lat: 52.486, lng: -1.890, label: "バーミンガム", type: "city", note: "イングランド第二の都市" }
-  - { lat: 51.483, lng: -3.181, label: "カーディフ", type: "city", note: "ウェールズの首都" }
-  - { lat: 51.179, lng: -1.826, label: "ストーンヘンジ", type: "landmark", note: "新石器時代の環状列石" }
-  - { lat: 54.598, lng: -5.930, label: "ベルファスト", type: "city", note: "北アイルランドの首都" }
+  - { lat: 51.507, lng: -0.128, label: "London", type: "capital", note: "Capital and one of the world''s leading financial centers" }
+  - { lat: 53.481, lng: -2.243, label: "Manchester", type: "city", note: "Birthplace of the Industrial Revolution" }
+  - { lat: 55.953, lng: -3.189, label: "Edinburgh", type: "city", note: "Capital of Scotland" }
+  - { lat: 52.486, lng: -1.890, label: "Birmingham", type: "city", note: "Second-largest city in England" }
+  - { lat: 51.483, lng: -3.181, label: "Cardiff", type: "city", note: "Capital of Wales" }
+  - { lat: 51.179, lng: -1.826, label: "Stonehenge", type: "landmark", note: "Neolithic stone circle" }
+  - { lat: 54.598, lng: -5.930, label: "Belfast", type: "city", note: "Capital of Northern Ireland" }
 features:
-  - text: '<span class="quiz">イングランド</span>・スコットランド・ウェールズ・北アイルランドの4つの<span class="quiz">カントリー</span>からなる連合王国'
+  - text: 'A united kingdom made up of four <span class="quiz">countries</span>: <span class="quiz">England</span>, Scotland, Wales, and Northern Ireland'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
-  - text: '<span class="quiz">産業革命</span>発祥の地であり、<span class="quiz">ロンドン</span>は世界有数の金融センターとして機能している'
+  - text: 'The birthplace of the <span class="quiz">Industrial Revolution</span>, and <span class="quiz">London</span> functions as one of the world''s leading financial centers'
     ref: "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E9%9D%A9%E5%91%BD"
 ---
 

@@ -12,17 +12,17 @@ flag: "Flag_of_Hokkaido_Prefecture.png"
 no_jetro: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 43.069, lng: 141.351, label: "Sapporo Station", type: "capital", note: "北海道の道庁所在地・最大都市" }
-  - { lat: 41.774, lng: 140.727, label: "函館駅", type: "city", note: "道南の港町・夜景の名所" }
-  - { lat: 43.770, lng: 142.365, label: "旭川駅", type: "city", note: "道北の中心都市・旭山動物園" }
-  - { lat: 42.985, lng: 144.381, label: "釧路駅", type: "city", note: "道東の港町・釧路湿原" }
-  - { lat: 43.193, lng: 140.985, label: "小樽駅", type: "city", note: "歴史ある港町・運河" }
-  - { lat: 43.665, lng: 142.806, label: "大雪山", type: "nature", note: "北海道最高峰・国立公園" }
-  - { lat: 45.520, lng: 141.937, label: "稚内", type: "city", note: "日本最北端の街" }
+  - { lat: 43.069, lng: 141.351, label: "Sapporo Station", type: "capital", note: "Prefectural capital and largest city of Hokkaido" }
+  - { lat: 41.774, lng: 140.727, label: "Hakodate Station", type: "city", note: "Port town in southern Hokkaido, famed for its night view" }
+  - { lat: 43.770, lng: 142.365, label: "Asahikawa Station", type: "city", note: "Central city of northern Hokkaido; home of Asahiyama Zoo" }
+  - { lat: 42.985, lng: 144.381, label: "Kushiro Station", type: "city", note: "Port town in eastern Hokkaido; near Kushiro Wetlands" }
+  - { lat: 43.193, lng: 140.985, label: "Otaru Station", type: "city", note: "Historic port town with a famous canal" }
+  - { lat: 43.665, lng: 142.806, label: "Mt. Daisetsuzan", type: "nature", note: "Highest peak in Hokkaido; national park" }
+  - { lat: 45.520, lng: 141.937, label: "Wakkanai", type: "city", note: "Northernmost city in Japan" }
 features:
-  - text: '日本最大の面積を持つ都道府県で、<span class="quiz">酪農</span>と農業が盛ん。生乳生産量は全国の約半分を占める'
+  - text: 'The largest prefecture by area in Japan, with thriving <span class="quiz">dairy farming</span> and agriculture. Raw milk production accounts for about half of the national total'
     ref: "https://ja.wikipedia.org/wiki/北海道#農業"
-  - text: '冬季は豪雪地帯となり、道路には<span class="quiz">矢羽根付きポール</span>（固定式視線誘導柱）が多く設置されている'
+  - text: 'A heavy-snowfall region in winter; roads are often lined with <span class="quiz">arrow-marked snow poles</span> (fixed visual guide posts)'
     ref: "https://ja.wikipedia.org/wiki/固定式視線誘導柱"
 ---
 

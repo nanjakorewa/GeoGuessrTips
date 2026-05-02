@@ -20,16 +20,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 37.741, lng: -25.668, label: "ポンタ・デルガダ", type: "capital", note: "アゾレス諸島の中心都市" }
-  - { lat: 38.654, lng: -27.221, label: "アングラ・ド・エロイズモ", type: "historical", note: "テルセイラ島・世界遺産の旧市街" }
-  - { lat: 38.532, lng: -28.628, label: "オルタ", type: "port", note: "フェイアル島の港町" }
-  - { lat: 37.769, lng: -25.469, label: "フルナス", type: "nature", note: "サンミゲル島の温泉地" }
-  - { lat: 38.474, lng: -28.402, label: "ピコ山", type: "nature", note: "ポルトガル最高峰の火山" }
-  - { lat: 37.870, lng: -25.793, label: "セッテ・シダーデス湖", type: "nature", note: "サンミゲル島の双子のカルデラ湖" }
+  - { lat: 37.741, lng: -25.668, label: "Ponta Delgada", type: "capital", note: "Main city of the Azores archipelago" }
+  - { lat: 38.654, lng: -27.221, label: "Angra do Heroísmo", type: "historical", note: "Terceira Island; World Heritage old town" }
+  - { lat: 38.532, lng: -28.628, label: "Horta", type: "port", note: "Port town on Faial Island" }
+  - { lat: 37.769, lng: -25.469, label: "Furnas", type: "nature", note: "Hot spring area on São Miguel Island" }
+  - { lat: 38.474, lng: -28.402, label: "Mount Pico", type: "nature", note: "Highest volcano in Portugal" }
+  - { lat: 37.870, lng: -25.793, label: "Sete Cidades Lake", type: "nature", note: "Twin caldera lakes on São Miguel Island" }
 features:
-  - text: '大西洋の中央に位置するポルトガル領の<span class="quiz">火山群島</span>で、9つの島からなり<span class="quiz">アジサイ</span>の花が至る所に咲く'
+  - text: 'A Portuguese <span class="quiz">volcanic archipelago</span> in the middle of the Atlantic, made up of nine islands where <span class="quiz">hydrangeas</span> bloom everywhere'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%AC%E3%82%B9%E8%AB%B8%E5%B3%B6"
-  - text: '<span class="quiz">大西洋中央海嶺</span>上に位置し、サンミゲル島には欧州唯一の<span class="quiz">茶</span>のプランテーションがある'
+  - text: 'Located on the <span class="quiz">Mid-Atlantic Ridge</span>, São Miguel Island is home to Europe''s only <span class="quiz">tea</span> plantation'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%9F%E3%82%B2%E3%83%AB%E5%B3%B6"
 ---
 

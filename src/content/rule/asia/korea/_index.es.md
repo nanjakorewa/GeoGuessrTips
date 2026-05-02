@@ -14,17 +14,17 @@ dont_show_usda: true
 import_jquery_36: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 37.566, lng: 126.978, label: "Seúl", type: "capital", note: "大韓民国の首都・政治と経済の中心" }
-  - { lat: 35.180, lng: 129.075, label: "釜山", type: "port", note: "韓国第二の都市・国内最大の港湾都市" }
-  - { lat: 37.456, lng: 126.706, label: "仁川", type: "city", note: "首都圏の港湾都市・国際空港の所在地" }
-  - { lat: 35.871, lng: 128.601, label: "大邱", type: "city", note: "嶺南地方の中心都市" }
-  - { lat: 33.500, lng: 126.531, label: "済州島", type: "nature", note: "韓国南部の火山島・世界自然遺産" }
-  - { lat: 37.583, lng: 127.000, label: "北漢山", type: "nature", note: "ソウル北部の国立公園・花崗岩の山岳" }
-  - { lat: 38.318, lng: 127.494, label: "板門店付近", type: "historical", note: "南北軍事境界線・歴史的な分断ライン" }
+  - { lat: 37.566, lng: 126.978, label: "Seúl", type: "capital", note: "Capital de la República de Corea, centro político y económico" }
+  - { lat: 35.180, lng: 129.075, label: "Busán", type: "port", note: "Segunda ciudad de Corea y mayor ciudad portuaria del país" }
+  - { lat: 37.456, lng: 126.706, label: "Incheón", type: "city", note: "Ciudad portuaria del área metropolitana, sede del aeropuerto internacional" }
+  - { lat: 35.871, lng: 128.601, label: "Daegu", type: "city", note: "Principal ciudad de la región de Yeongnam" }
+  - { lat: 33.500, lng: 126.531, label: "Isla de Jeju", type: "nature", note: "Isla volcánica del sur de Corea, Patrimonio Natural de la Humanidad" }
+  - { lat: 37.583, lng: 127.000, label: "Bukhansan", type: "nature", note: "Parque nacional al norte de Seúl, montañas de granito" }
+  - { lat: 38.318, lng: 127.494, label: "Cercanías de Panmunjom", type: "historical", note: "Línea de demarcación militar entre las dos Coreas" }
 features:
-  - text: '文字体系として<span class="quiz">ハングル</span>を使用しており世宗大王が15世紀に制定した'
+  - text: 'Como sistema de escritura emplea el <span class="quiz">hangul</span>, creado por el rey Sejong el Grande en el siglo XV'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B0%E3%83%AB"
-  - text: '北緯38度線付近の<span class="quiz">軍事境界線</span>により朝鮮半島は南北に分断されている'
+  - text: 'La península coreana está dividida entre Norte y Sur por la <span class="quiz">línea de demarcación militar</span> situada en torno al paralelo 38'
     ref: "https://ja.wikipedia.org/wiki/%E8%BB%8D%E4%BA%8B%E5%A2%83%E7%95%8C%E7%B7%9A_(%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6)"
 
 # ===== OSM ヒーロー設定 =====

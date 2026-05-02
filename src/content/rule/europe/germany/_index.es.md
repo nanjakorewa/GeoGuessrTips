@@ -31,17 +31,17 @@ products:
     company_url: "https://www.zwilling.com/jp/"
 mapProvider: "osm"
 mapPins:
-  - { lat: 52.520, lng: 13.405, label: "Berlín", type: "capital", note: "首都・東西統一の象徴" }
-  - { lat: 48.137, lng: 11.575, label: "ミュンヘン", type: "city", note: "バイエルン州の州都・オクトーバーフェスト" }
-  - { lat: 53.551, lng: 9.993, label: "ハンブルク", type: "port", note: "ドイツ最大の港湾都市" }
-  - { lat: 50.937, lng: 6.960, label: "ケルン", type: "city", note: "大聖堂で有名な歴史都市" }
-  - { lat: 50.110, lng: 8.682, label: "フランクフルト", type: "city", note: "金融の中心・欧州中央銀行所在地" }
-  - { lat: 47.557, lng: 10.749, label: "ノイシュヴァンシュタイン城", type: "landmark", note: "ルートヴィヒ2世の白亜の城" }
-  - { lat: 51.050, lng: 13.738, label: "ドレスデン", type: "city", note: "エルベ川沿いの芸術の街" }
+  - { lat: 52.520, lng: 13.405, label: "Berlín", type: "capital", note: "Capital, símbolo de la reunificación" }
+  - { lat: 48.137, lng: 11.575, label: "Múnich", type: "city", note: "Capital de Baviera, sede del Oktoberfest" }
+  - { lat: 53.551, lng: 9.993, label: "Hamburgo", type: "port", note: "Mayor ciudad portuaria de Alemania" }
+  - { lat: 50.937, lng: 6.960, label: "Colonia", type: "city", note: "Ciudad histórica famosa por su catedral" }
+  - { lat: 50.110, lng: 8.682, label: "Fráncfort", type: "city", note: "Centro financiero, sede del Banco Central Europeo" }
+  - { lat: 47.557, lng: 10.749, label: "Castillo de Neuschwanstein", type: "landmark", note: "Castillo blanco de Luis II" }
+  - { lat: 51.050, lng: 13.738, label: "Dresde", type: "city", note: "Ciudad artística a orillas del río Elba" }
 features:
-  - text: 'EU最大の経済大国であり、<span class="quiz">アウトバーン</span>と呼ばれる速度無制限区間を含む高速道路網が有名'
+  - text: 'Es la mayor potencia económica de la UE y destaca por su red de autopistas que incluye tramos sin límite de velocidad llamados <span class="quiz">Autobahn</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%90%E3%83%BC%E3%83%B3"
-  - text: '1989年に<span class="quiz">ベルリンの壁</span>が崩壊し東西ドイツが統一された歴史を持ち、16の<span class="quiz">連邦州</span>からなる連邦共和国'
+  - text: 'Tiene la historia de la caída del <span class="quiz">Muro de Berlín</span> en 1989 y la reunificación de las dos Alemanias; es una república federal compuesta por 16 <span class="quiz">estados federados</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E5%A3%81%E5%B4%A9%E5%A3%8A"
 ---
 

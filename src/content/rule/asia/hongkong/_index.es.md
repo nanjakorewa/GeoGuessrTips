@@ -22,17 +22,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 22.302, lng: 114.177, label: "中環", type: "capital", note: "香港島中心部・行政と金融の中心" }
-  - { lat: 22.297, lng: 114.172, label: "ヴィクトリア・ハーバー", type: "landmark", note: "香港島と九龍半島の間の港湾" }
-  - { lat: 22.276, lng: 114.146, label: "ヴィクトリア・ピーク", type: "nature", note: "香港島最高峰・夜景の名所" }
-  - { lat: 22.318, lng: 114.169, label: "九龍", type: "city", note: "香港の主要市街地・繁華街が集中" }
-  - { lat: 22.280, lng: 114.158, label: "セントラル", type: "city", note: "香港島の中心商業地区" }
-  - { lat: 22.262, lng: 113.917, label: "香港国際空港", type: "landmark", note: "ランタオ島の国際空港" }
-  - { lat: 22.215, lng: 113.955, label: "ランタオ島", type: "nature", note: "香港最大の島・大仏と空港の所在地" }
+  - { lat: 22.302, lng: 114.177, label: "Central", type: "capital", note: "Centro de la isla de Hong Kong, núcleo administrativo y financiero" }
+  - { lat: 22.297, lng: 114.172, label: "Puerto Victoria", type: "landmark", note: "Puerto entre la isla de Hong Kong y la península de Kowloon" }
+  - { lat: 22.276, lng: 114.146, label: "Pico Victoria", type: "nature", note: "Cumbre más alta de la isla de Hong Kong, famoso por sus vistas nocturnas" }
+  - { lat: 22.318, lng: 114.169, label: "Kowloon", type: "city", note: "Principal área urbana de Hong Kong, concentración de zonas comerciales" }
+  - { lat: 22.280, lng: 114.158, label: "Central", type: "city", note: "Distrito comercial central de la isla de Hong Kong" }
+  - { lat: 22.262, lng: 113.917, label: "Aeropuerto Internacional de Hong Kong", type: "landmark", note: "Aeropuerto internacional en la isla de Lantau" }
+  - { lat: 22.215, lng: 113.955, label: "Isla de Lantau", type: "nature", note: "La mayor isla de Hong Kong, donde se encuentran el Gran Buda y el aeropuerto" }
 features:
-  - text: '中国の<span class="quiz">特別行政区</span>であり「一国二制度」のもとで高度な自治権を持つ'
+  - text: 'Es una <span class="quiz">Región Administrativa Especial</span> de China con un alto grado de autonomía bajo el principio de «un país, dos sistemas»'
     ref: "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
-  - text: '<span class="quiz">ヴィクトリア・ハーバー</span>を挟んで香港島と九龍半島が向かい合う世界有数の港湾都市である'
+  - text: 'Es una de las grandes ciudades portuarias del mundo, con la isla de Hong Kong y la península de Kowloon enfrentadas a través del <span class="quiz">Puerto Victoria</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC"
 
 # ===== OSM ヒーロー設定 =====

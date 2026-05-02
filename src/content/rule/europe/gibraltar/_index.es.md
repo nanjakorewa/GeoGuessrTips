@@ -19,16 +19,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 36.140, lng: -5.353, label: "ジブラルタル", type: "capital", note: "首府・英国海外領土の中心" }
-  - { lat: 36.140, lng: -5.342, label: "ジブラルタルの岩", type: "landmark", note: "高さ426mの石灰岩塊" }
-  - { lat: 36.123, lng: -5.346, label: "ヨーロッパポイント", type: "landmark", note: "半島最南端の岬" }
-  - { lat: 36.145, lng: -5.353, label: "メイン・ストリート", type: "city", note: "中心街の商店街" }
-  - { lat: 36.151, lng: -5.350, label: "ジブラルタル空港", type: "landmark", note: "道路と滑走路が交差する空港" }
-  - { lat: 36.126, lng: -5.345, label: "サルの岩", type: "nature", note: "バーバリーマカク生息地" }
+  - { lat: 36.140, lng: -5.353, label: "Gibraltar", type: "capital", note: "Capital, centro del territorio británico de ultramar" }
+  - { lat: 36.140, lng: -5.342, label: "Peñón de Gibraltar", type: "landmark", note: "Bloque de caliza de 426 m de altura" }
+  - { lat: 36.123, lng: -5.346, label: "Punta de Europa", type: "landmark", note: "Cabo en el extremo sur de la península" }
+  - { lat: 36.145, lng: -5.353, label: "Main Street", type: "city", note: "Calle comercial del centro" }
+  - { lat: 36.151, lng: -5.350, label: "Aeropuerto de Gibraltar", type: "landmark", note: "Aeropuerto donde se cruzan carretera y pista" }
+  - { lat: 36.126, lng: -5.345, label: "Peñón de los Monos", type: "nature", note: "Hábitat de los macacos de Berbería" }
 features:
-  - text: 'イベリア半島南端に位置する<span class="quiz">イギリス</span>の海外領土で、面積はわずか約<span class="quiz">6.5km²</span>しかない'
+  - text: 'Es un territorio británico de ultramar situado en el extremo sur de la península ibérica, con una superficie de apenas <span class="quiz">6,5 km²</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%96%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AB"
-  - text: '<span class="quiz">ジブラルタルの岩</span>（ザ・ロック）が街のシンボルで、野生の<span class="quiz">バーバリーマカク</span>（サル）がヨーロッパ唯一の野生霊長類として生息する'
+  - text: 'El <span class="quiz">Peñón de Gibraltar</span> (The Rock) es el símbolo de la ciudad, y los <span class="quiz">macacos de Berbería</span> salvajes habitan allí como los únicos primates salvajes de Europa'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%96%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AB%E3%81%AE%E5%B2%A9"
 ---
 

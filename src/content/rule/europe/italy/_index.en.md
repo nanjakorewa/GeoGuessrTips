@@ -20,17 +20,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 41.903, lng: 12.496, label: "Rome", type: "capital", note: "首都・古代ローマ帝国の中心" }
-  - { lat: 45.464, lng: 9.190, label: "ミラノ", type: "city", note: "ファッションと金融の中心" }
-  - { lat: 45.440, lng: 12.316, label: "ヴェネツィア", type: "city", note: "水の都・運河の街" }
-  - { lat: 43.770, lng: 11.255, label: "フィレンツェ", type: "city", note: "ルネサンス発祥の地" }
-  - { lat: 40.852, lng: 14.268, label: "ナポリ", type: "city", note: "南イタリアの中心都市" }
-  - { lat: 43.723, lng: 10.396, label: "ピサの斜塔", type: "landmark", note: "世界的に有名な斜塔" }
-  - { lat: 40.821, lng: 14.426, label: "ヴェスヴィオ山", type: "nature", note: "ポンペイを埋没させた活火山" }
+  - { lat: 41.903, lng: 12.496, label: "Rome", type: "capital", note: "Capital and center of the ancient Roman Empire" }
+  - { lat: 45.464, lng: 9.190, label: "Milan", type: "city", note: "Center of fashion and finance" }
+  - { lat: 45.440, lng: 12.316, label: "Venice", type: "city", note: "City of water and canals" }
+  - { lat: 43.770, lng: 11.255, label: "Florence", type: "city", note: "Birthplace of the Renaissance" }
+  - { lat: 40.852, lng: 14.268, label: "Naples", type: "city", note: "Main city of southern Italy" }
+  - { lat: 43.723, lng: 10.396, label: "Leaning Tower of Pisa", type: "landmark", note: "World-famous leaning tower" }
+  - { lat: 40.821, lng: 14.426, label: "Mount Vesuvius", type: "nature", note: "Active volcano that buried Pompeii" }
 features:
-  - text: '<span class="quiz">ローマ帝国</span>の中心地であり、国内にユネスコ世界遺産の登録数が<span class="quiz">世界最多</span>の59件ある'
+  - text: 'The heart of the <span class="quiz">Roman Empire</span>, with the <span class="quiz">most UNESCO World Heritage Sites in the world</span>, totaling 59'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3"
-  - text: 'ブーツ型の<span class="quiz">半島</span>国家で、<span class="quiz">ピザ</span>・パスタなどのイタリア料理は世界中で親しまれている'
+  - text: 'A boot-shaped <span class="quiz">peninsula</span> nation, where Italian cuisine like <span class="quiz">pizza</span> and pasta is loved worldwide'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E6%96%99%E7%90%86"
 ---
 

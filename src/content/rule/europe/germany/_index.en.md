@@ -34,17 +34,17 @@ products:
     company_url: "https://www.zwilling.com/jp/"
 mapProvider: "osm"
 mapPins:
-  - { lat: 52.520, lng: 13.405, label: "Berlin", type: "capital", note: "首都・東西統一の象徴" }
-  - { lat: 48.137, lng: 11.575, label: "ミュンヘン", type: "city", note: "バイエルン州の州都・オクトーバーフェスト" }
-  - { lat: 53.551, lng: 9.993, label: "ハンブルク", type: "port", note: "ドイツ最大の港湾都市" }
-  - { lat: 50.937, lng: 6.960, label: "ケルン", type: "city", note: "大聖堂で有名な歴史都市" }
-  - { lat: 50.110, lng: 8.682, label: "フランクフルト", type: "city", note: "金融の中心・欧州中央銀行所在地" }
-  - { lat: 47.557, lng: 10.749, label: "ノイシュヴァンシュタイン城", type: "landmark", note: "ルートヴィヒ2世の白亜の城" }
-  - { lat: 51.050, lng: 13.738, label: "ドレスデン", type: "city", note: "エルベ川沿いの芸術の街" }
+  - { lat: 52.520, lng: 13.405, label: "Berlin", type: "capital", note: "Capital and symbol of German reunification" }
+  - { lat: 48.137, lng: 11.575, label: "Munich", type: "city", note: "Capital of Bavaria, home of Oktoberfest" }
+  - { lat: 53.551, lng: 9.993, label: "Hamburg", type: "port", note: "Germany''s largest port city" }
+  - { lat: 50.937, lng: 6.960, label: "Cologne", type: "city", note: "Historic city famous for its cathedral" }
+  - { lat: 50.110, lng: 8.682, label: "Frankfurt", type: "city", note: "Financial center and home of the European Central Bank" }
+  - { lat: 47.557, lng: 10.749, label: "Neuschwanstein Castle", type: "landmark", note: "Ludwig II''s white castle" }
+  - { lat: 51.050, lng: 13.738, label: "Dresden", type: "city", note: "City of the arts on the Elbe River" }
 features:
-  - text: 'EU最大の経済大国であり、<span class="quiz">アウトバーン</span>と呼ばれる速度無制限区間を含む高速道路網が有名'
+  - text: 'The largest economy in the EU, famous for its highway network including unrestricted-speed sections known as the <span class="quiz">Autobahn</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%90%E3%83%BC%E3%83%B3"
-  - text: '1989年に<span class="quiz">ベルリンの壁</span>が崩壊し東西ドイツが統一された歴史を持ち、16の<span class="quiz">連邦州</span>からなる連邦共和国'
+  - text: 'Has a history of reunification after the <span class="quiz">Berlin Wall</span> fell in 1989, and is a federal republic made up of 16 <span class="quiz">federal states</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E5%A3%81%E5%B4%A9%E5%A3%8A"
 ---
 

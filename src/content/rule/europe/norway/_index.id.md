@@ -21,17 +21,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 59.913, lng: 10.752, label: "オスロ", type: "capital", note: "首都・国の中心" }
-  - { lat: 60.391, lng: 5.322, label: "ベルゲン", type: "city", note: "西海岸の港湾都市・世界遺産ブリッゲン" }
-  - { lat: 63.430, lng: 10.395, label: "トロンハイム", type: "city", note: "Kota bersejarah di tengah" }
-  - { lat: 58.970, lng: 5.733, label: "スタヴァンゲル", type: "port", note: "石油産業の中心" }
-  - { lat: 69.649, lng: 18.956, label: "トロムソ", type: "city", note: "北極圏の都市・オーロラ観測地" }
-  - { lat: 61.066, lng: 6.851, label: "ソグネフィヨルド", type: "nature", note: "ノルウェー最長のフィヨルド" }
-  - { lat: 58.886, lng: 6.190, label: "プレーケストーレン", type: "nature", note: "Tempat pemandangan tebing curam" }
+  - { lat: 59.913, lng: 10.752, label: "Oslo", type: "capital", note: "Ibu kota, pusat negara" }
+  - { lat: 60.391, lng: 5.322, label: "Bergen", type: "city", note: "Kota pelabuhan pesisir barat, Bryggen warisan dunia UNESCO" }
+  - { lat: 63.430, lng: 10.395, label: "Trondheim", type: "city", note: "Kota bersejarah di tengah" }
+  - { lat: 58.970, lng: 5.733, label: "Stavanger", type: "port", note: "Pusat industri minyak" }
+  - { lat: 69.649, lng: 18.956, label: "Tromso", type: "city", note: "Kota di Lingkar Arktik, lokasi pengamatan aurora" }
+  - { lat: 61.066, lng: 6.851, label: "Sognefjord", type: "nature", note: "Fjord terpanjang di Norwegia" }
+  - { lat: 58.886, lng: 6.190, label: "Preikestolen", type: "nature", note: "Tempat pemandangan tebing curam" }
 features:
-  - text: '複雑に入り組んだ<span class="quiz">フィヨルド</span>海岸線が特徴で、<span class="quiz">北海油田</span>からの石油・天然ガス収入により世界有数の裕福な国'
+  - text: 'Memiliki garis pantai berkelok-kelok yang khas dengan <span class="quiz">fjord</span>, dan merupakan salah satu negara terkaya di dunia berkat pendapatan minyak dan gas alam dari <span class="quiz">ladang minyak Laut Utara</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC"
-  - text: '冬季には北部で<span class="quiz">オーロラ</span>が観測でき、<span class="quiz">ノーベル平和賞</span>の授賞式がオスロで行われる'
+  - text: 'Pada musim dingin, <span class="quiz">aurora</span> dapat diamati di bagian utara, dan upacara penghargaan <span class="quiz">Hadiah Nobel Perdamaian</span> diadakan di Oslo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E5%B9%B3%E5%92%8C%E8%B3%9E"
 ---
 

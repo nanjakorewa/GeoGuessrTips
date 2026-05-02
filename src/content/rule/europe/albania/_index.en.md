@@ -20,17 +20,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 41.327, lng: 19.819, label: "ティラナ", type: "capital", note: "Capital and the country's political and economic center" }
-  - { lat: 41.317, lng: 19.448, label: "ドゥラス", type: "port", note: "アドリア海沿いの主要港湾都市" }
-  - { lat: 40.625, lng: 19.781, label: "ヴロラ", type: "city", note: "独立宣言の地・南部の港湾都市" }
-  - { lat: 41.124, lng: 20.082, label: "エルバサン", type: "city", note: "中部の歴史都市" }
-  - { lat: 40.075, lng: 20.142, label: "ジロカストラ", type: "historical", note: "世界遺産の歴史地区" }
-  - { lat: 40.706, lng: 19.945, label: "ベラト", type: "historical", note: "千の窓の街・世界遺産" }
-  - { lat: 40.910, lng: 20.787, label: "オフリド湖", type: "nature", note: "北マケドニアと共有する古代湖" }
+  - { lat: 41.327, lng: 19.819, label: "Tirana", type: "capital", note: "Capital and the country''s political and economic center" }
+  - { lat: 41.317, lng: 19.448, label: "Durrës", type: "port", note: "Major port city on the Adriatic coast" }
+  - { lat: 40.625, lng: 19.781, label: "Vlorë", type: "city", note: "Site of the declaration of independence and a southern port city" }
+  - { lat: 41.124, lng: 20.082, label: "Elbasan", type: "city", note: "Historic city in central Albania" }
+  - { lat: 40.075, lng: 20.142, label: "Gjirokastër", type: "historical", note: "World Heritage historic district" }
+  - { lat: 40.706, lng: 19.945, label: "Berat", type: "historical", note: "City of a Thousand Windows, a World Heritage Site" }
+  - { lat: 40.910, lng: 20.787, label: "Lake Ohrid", type: "nature", note: "Ancient lake shared with North Macedonia" }
 features:
-  - text: 'ヨーロッパ最後の<span class="quiz">鎖国状態</span>だった共産主義国家で、国中に約17万もの<span class="quiz">トーチカ</span>（コンクリート製防御陣地）が残る'
+  - text: 'A communist state once known as Europe''s last <span class="quiz">isolated country</span>, with around 170,000 <span class="quiz">bunkers</span> (concrete defensive positions) still scattered across the country'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E3%81%AE%E3%83%88%E3%83%BC%E3%83%81%E3%82%AB"
-  - text: '国土の約70%が<span class="quiz">山岳地帯</span>であり、世界遺産の<span class="quiz">ベラト</span>とジロカストラの歴史地区がある'
+  - text: 'Roughly 70% of the country is <span class="quiz">mountainous</span>, and the World Heritage historic districts of <span class="quiz">Berat</span> and Gjirokastër are located here'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%88%E3%81%A8%E3%82%B8%E3%83%AD%E3%82%AB%E3%82%B9%E3%83%88%E3%83%A9%E3%81%AE%E6%AD%B4%E5%8F%B2%E5%9C%B0%E5%8C%BA%E7%BE%A4"
 ---
 

@@ -18,15 +18,15 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 23.811, lng: 90.412, label: "ダッカ", type: "capital", note: "バングラデシュの首都・世界有数の人口過密都市" }
-  - { lat: 22.357, lng: 91.783, label: "チッタゴン", type: "port", note: "国内最大の港湾都市" }
-  - { lat: 24.374, lng: 88.604, label: "ラジシャヒ", type: "city", note: "西部の主要都市" }
-  - { lat: 22.846, lng: 89.540, label: "クルナ", type: "city", note: "南西部の主要都市・スンダルバンスへの玄関口" }
-  - { lat: 21.984, lng: 89.183, label: "スンダルバンス", type: "nature", note: "世界遺産・世界最大のマングローブ林" }
-  - { lat: 21.428, lng: 92.005, label: "コックスバザール", type: "landmark", note: "世界最長級の自然海岸ビーチ" }
-  - { lat: 24.475, lng: 90.787, label: "ガンジスデルタ", type: "nature", note: "世界最大のデルタ地帯" }
+  - { lat: 23.811, lng: 90.412, label: "Daca", type: "capital", note: "Capital de Bangladés y una de las ciudades más densamente pobladas del mundo" }
+  - { lat: 22.357, lng: 91.783, label: "Chittagong", type: "port", note: "Mayor ciudad portuaria del país" }
+  - { lat: 24.374, lng: 88.604, label: "Rajshahi", type: "city", note: "Principal ciudad del oeste" }
+  - { lat: 22.846, lng: 89.540, label: "Khulna", type: "city", note: "Principal ciudad del suroeste y puerta de los Sundarbans" }
+  - { lat: 21.984, lng: 89.183, label: "Sundarbans", type: "nature", note: "Patrimonio Mundial, mayor bosque de manglar del mundo" }
+  - { lat: 21.428, lng: 92.005, label: "Cox's Bazar", type: "landmark", note: "Una de las playas naturales más largas del mundo" }
+  - { lat: 24.475, lng: 90.787, label: "Delta del Ganges", type: "nature", note: "El delta más grande del mundo" }
 features:
-  - text: '世界最大級の<span class="quiz">デルタ地帯</span>を持ち国土の大部分が低地である'
+  - text: 'Posee uno de los <span class="quiz">deltas</span> más grandes del mundo y la mayor parte del territorio es de baja altitud'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%82%B7%E3%83%A5"
 
 # ===== OSM ヒーロー設定 =====

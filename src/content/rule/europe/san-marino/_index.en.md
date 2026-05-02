@@ -21,16 +21,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 43.936, lng: 12.447, label: "サンマリノ市", type: "capital", note: "首都・世界遺産の歴史地区" }
-  - { lat: 43.940, lng: 12.446, label: "ティターノ山", type: "nature", note: "三つの塔を擁する象徴的な山" }
-  - { lat: 43.937, lng: 12.448, label: "グアイタの塔", type: "historical", note: "第一の塔・国旗の象徴" }
-  - { lat: 43.951, lng: 12.434, label: "ボルゴ・マッジョーレ", type: "city", note: "Country's second city" }
-  - { lat: 43.960, lng: 12.466, label: "ドガーナ", type: "city", note: "イタリア国境付近の商業地区" }
-  - { lat: 43.980, lng: 12.440, label: "セラヴァッレ", type: "city", note: "国内最大の自治体" }
+  - { lat: 43.936, lng: 12.447, label: "City of San Marino", type: "capital", note: "Capital and World Heritage historic district" }
+  - { lat: 43.940, lng: 12.446, label: "Mount Titano", type: "nature", note: "Symbolic mountain with three towers" }
+  - { lat: 43.937, lng: 12.448, label: "Guaita Tower", type: "historical", note: "First tower; symbol of the national flag" }
+  - { lat: 43.951, lng: 12.434, label: "Borgo Maggiore", type: "city", note: "Country''s second city" }
+  - { lat: 43.960, lng: 12.466, label: "Dogana", type: "city", note: "Commercial district near the Italian border" }
+  - { lat: 43.980, lng: 12.440, label: "Serravalle", type: "city", note: "Largest municipality in the country" }
 features:
-  - text: '世界最古の<span class="quiz">共和国</span>とされ、301年に聖マリノによって建国されたと伝えられる'
+  - text: 'Considered the world''s oldest <span class="quiz">republic</span>, said to have been founded by Saint Marinus in 301 AD'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%9E%E3%83%AA%E3%83%8E"
-  - text: 'イタリアに完全に囲まれた国で、<span class="quiz">ティターノ山</span>の山頂に3つの塔が立つ景観がシンボルとなっている'
+  - text: 'A country entirely surrounded by Italy, symbolized by the three towers atop <span class="quiz">Mount Titano</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%82%BF%E3%83%BC%E3%83%8E%E5%B1%B1"
 ---
 

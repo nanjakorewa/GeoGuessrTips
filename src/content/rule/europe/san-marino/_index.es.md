@@ -21,16 +21,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 43.936, lng: 12.447, label: "サンマリノ市", type: "capital", note: "首都・世界遺産の歴史地区" }
-  - { lat: 43.940, lng: 12.446, label: "ティターノ山", type: "nature", note: "三つの塔を擁する象徴的な山" }
-  - { lat: 43.937, lng: 12.448, label: "グアイタの塔", type: "historical", note: "第一の塔・国旗の象徴" }
-  - { lat: 43.951, lng: 12.434, label: "ボルゴ・マッジョーレ", type: "city", note: "国内第二の都市" }
-  - { lat: 43.960, lng: 12.466, label: "ドガーナ", type: "city", note: "イタリア国境付近の商業地区" }
-  - { lat: 43.980, lng: 12.440, label: "セラヴァッレ", type: "city", note: "国内最大の自治体" }
+  - { lat: 43.936, lng: 12.447, label: "Ciudad de San Marino", type: "capital", note: "Capital, casco histórico Patrimonio Mundial" }
+  - { lat: 43.940, lng: 12.446, label: "Monte Titano", type: "nature", note: "Montaña emblemática con tres torres" }
+  - { lat: 43.937, lng: 12.448, label: "Torre Guaita", type: "historical", note: "Primera torre, símbolo de la bandera nacional" }
+  - { lat: 43.951, lng: 12.434, label: "Borgo Maggiore", type: "city", note: "Segunda ciudad del país" }
+  - { lat: 43.960, lng: 12.466, label: "Dogana", type: "city", note: "Zona comercial cerca de la frontera con Italia" }
+  - { lat: 43.980, lng: 12.440, label: "Serravalle", type: "city", note: "Mayor municipio del país" }
 features:
-  - text: '世界最古の<span class="quiz">共和国</span>とされ、301年に聖マリノによって建国されたと伝えられる'
+  - text: 'Está considerada la <span class="quiz">república</span> más antigua del mundo y, según la tradición, fue fundada en el año 301 por San Marino'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%9E%E3%83%AA%E3%83%8E"
-  - text: 'イタリアに完全に囲まれた国で、<span class="quiz">ティターノ山</span>の山頂に3つの塔が立つ景観がシンボルとなっている'
+  - text: 'Es un país completamente rodeado por Italia, y su símbolo es el paisaje de las tres torres en la cima del <span class="quiz">monte Titano</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%82%BF%E3%83%BC%E3%83%8E%E5%B1%B1"
 ---
 

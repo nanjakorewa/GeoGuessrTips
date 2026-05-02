@@ -22,17 +22,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 50.847, lng: 4.357, label: "ブリュッセル", type: "capital", note: "首都・EU本部所在地" }
-  - { lat: 51.221, lng: 4.402, label: "アントワープ", type: "port", note: "欧州第二の港湾都市" }
-  - { lat: 51.054, lng: 3.717, label: "ヘント", type: "city", note: "中世の運河都市" }
-  - { lat: 51.209, lng: 3.225, label: "ブルージュ", type: "city", note: "北のヴェネツィア・世界遺産" }
-  - { lat: 50.633, lng: 5.567, label: "リエージュ", type: "city", note: "ワロン地方の中心都市" }
-  - { lat: 50.851, lng: 2.886, label: "イーペル", type: "historical", note: "第一次大戦の激戦地" }
-  - { lat: 50.467, lng: 4.872, label: "ナミュール", type: "city", note: "ワロン地方の州都" }
+  - { lat: 50.847, lng: 4.357, label: "Brussels", type: "capital", note: "Capital and headquarters of the EU" }
+  - { lat: 51.221, lng: 4.402, label: "Antwerp", type: "port", note: "Europe''s second-largest port city" }
+  - { lat: 51.054, lng: 3.717, label: "Ghent", type: "city", note: "Medieval canal city" }
+  - { lat: 51.209, lng: 3.225, label: "Bruges", type: "city", note: "Venice of the North; World Heritage Site" }
+  - { lat: 50.633, lng: 5.567, label: "Liège", type: "city", note: "Main city of the Walloon region" }
+  - { lat: 50.851, lng: 2.886, label: "Ypres", type: "historical", note: "Major battlefield of World War I" }
+  - { lat: 50.467, lng: 4.872, label: "Namur", type: "city", note: "Provincial capital of Wallonia" }
 features:
-  - text: '<span class="quiz">EU</span>本部や<span class="quiz">NATO</span>本部が置かれる首都ブリュッセルを擁し、ヨーロッパの政治的中心地'
+  - text: 'Home to Brussels, the capital that hosts <span class="quiz">EU</span> and <span class="quiz">NATO</span> headquarters, making it the political center of Europe'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%A5%E3%83%83%E3%82%BB%E3%83%AB"
-  - text: 'オランダ語圏の<span class="quiz">フランデレン</span>とフランス語圏のワロンに分かれ、<span class="quiz">チョコレート</span>とビールの生産で世界的に有名'
+  - text: 'Divided into Dutch-speaking <span class="quiz">Flanders</span> and French-speaking Wallonia, world-famous for <span class="quiz">chocolate</span> and beer production'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC"
 ---
 

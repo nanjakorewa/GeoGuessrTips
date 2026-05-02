@@ -21,16 +21,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 9.928, lng: -84.091, label: "San José", type: "capital", note: "首都・中央高原の最大都市" }
-  - { lat: 9.998, lng: -84.117, label: "エレディア", type: "city", note: "首都圏北部の主要都市" }
-  - { lat: 10.633, lng: -85.437, label: "リベリア", type: "city", note: "北西部グアナカステ州の州都" }
-  - { lat: 9.976, lng: -83.034, label: "リモン", type: "port", note: "カリブ海岸の主要港湾都市" }
-  - { lat: 10.463, lng: -84.703, label: "アレナル火山", type: "nature", note: "標高1,670mの活火山と国立公園" }
-  - { lat: 8.481, lng: -83.581, label: "コルコバード国立公園", type: "nature", note: "オサ半島の生物多様性が豊かな熱帯雨林" }
+  - { lat: 9.928, lng: -84.091, label: "San José", type: "capital", note: "Capital y mayor ciudad del Valle Central" }
+  - { lat: 9.998, lng: -84.117, label: "Heredia", type: "city", note: "Principal ciudad del norte del área metropolitana" }
+  - { lat: 10.633, lng: -85.437, label: "Liberia", type: "city", note: "Capital de la provincia de Guanacaste, en el noroeste" }
+  - { lat: 9.976, lng: -83.034, label: "Limón", type: "port", note: "Principal ciudad portuaria de la costa caribeña" }
+  - { lat: 10.463, lng: -84.703, label: "Volcán Arenal", type: "nature", note: "Volcán activo de 1.670 m y parque nacional" }
+  - { lat: 8.481, lng: -83.581, label: "Parque Nacional Corcovado", type: "nature", note: "Selva tropical con gran biodiversidad en la península de Osa" }
 features:
-  - text: '中米に位置し<span class="quiz">軍隊を持たない</span>国として知られる'
+  - text: 'Situada en Centroamérica, es conocida por ser un país <span class="quiz">sin ejército</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB"
-  - text: '国土の約25%が<span class="quiz">国立公園や自然保護区</span>に指定されており生物多様性が豊か'
+  - text: 'Cerca del 25% del territorio está designado como <span class="quiz">parques nacionales o reservas naturales</span> y posee una gran biodiversidad'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB#%E5%9C%B0%E7%90%86"
 ---
 

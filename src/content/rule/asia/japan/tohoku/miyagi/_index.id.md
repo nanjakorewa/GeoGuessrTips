@@ -10,16 +10,16 @@ is_pref: true
 flag: "Miyagi.svg"
 mapProvider: "osm"
 mapPins:
-  - { lat: 38.260, lng: 140.882, label: "仙台駅", type: "capital", note: "宮城県の県庁所在地・東北最大都市" }
-  - { lat: 38.434, lng: 141.303, label: "石巻", type: "city", note: "三陸の港町・水産業の中心" }
-  - { lat: 38.907, lng: 141.570, label: "気仙沼", type: "port", note: "全国有数の漁港" }
-  - { lat: 38.367, lng: 141.058, label: "松島", type: "landmark", note: "日本三景の一つ・景勝地" }
-  - { lat: 38.252, lng: 140.870, label: "仙台城跡", type: "historical", note: "伊達政宗の城・青葉城" }
-  - { lat: 38.140, lng: 140.566, label: "蔵王連峰", type: "nature", note: "御釜・スキー場" }
+  - { lat: 38.260, lng: 140.882, label: "Stasiun Sendai", type: "capital", note: "Ibu kota Prefektur Miyagi, kota terbesar di Tohoku" }
+  - { lat: 38.434, lng: 141.303, label: "Ishinomaki", type: "city", note: "Kota pelabuhan Sanriku, pusat industri perikanan" }
+  - { lat: 38.907, lng: 141.570, label: "Kesennuma", type: "port", note: "Salah satu pelabuhan ikan terkemuka di seluruh Jepang" }
+  - { lat: 38.367, lng: 141.058, label: "Matsushima", type: "landmark", note: "Salah satu dari tiga pemandangan terindah di Jepang, tempat pemandangan indah" }
+  - { lat: 38.252, lng: 140.870, label: "Reruntuhan Kastil Sendai", type: "historical", note: "Kastil Date Masamune, Kastil Aoba" }
+  - { lat: 38.140, lng: 140.566, label: "Pegunungan Zao", type: "nature", note: "Okama, area ski" }
 features:
-  - text: '東北地方の経済の中心で、仙台市は<span class="quiz">「杜の都」</span>と呼ばれる東北最大の都市'
+  - text: 'Pusat perekonomian wilayah Tohoku, Kota Sendai dijuluki <span class="quiz">"Kota Hutan"</span> dan merupakan kota terbesar di Tohoku'
     ref: "https://ja.wikipedia.org/wiki/仙台市"
-  - text: '石巻・気仙沼など三陸沿岸は<span class="quiz">水産加工業</span>が盛んで、笹かまぼこは仙台名物'
+  - text: 'Pesisir Sanriku seperti Ishinomaki dan Kesennuma terkenal dengan <span class="quiz">industri pengolahan hasil laut</span>, dan sasa kamaboko adalah produk khas Sendai'
     ref: "https://ja.wikipedia.org/wiki/宮城県#水産業"
 ---
 

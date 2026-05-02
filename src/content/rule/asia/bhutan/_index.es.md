@@ -20,16 +20,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 27.472, lng: 89.639, label: "ティンプー", type: "capital", note: "ブータンの首都・最大都市" }
-  - { lat: 27.430, lng: 89.417, label: "パロ", type: "city", note: "国際空港のある町" }
-  - { lat: 27.575, lng: 89.881, label: "プナカ", type: "historical", note: "旧首都・プナカ・ゾンで知られる" }
-  - { lat: 27.494, lng: 89.364, label: "タクツァン僧院", type: "landmark", note: "崖に建つ象徴的な仏教寺院（虎の巣）" }
-  - { lat: 27.466, lng: 91.491, label: "ブムタン", type: "city", note: "中部の文化的中心地" }
-  - { lat: 28.028, lng: 90.453, label: "ガンカル・プンスム", type: "nature", note: "世界最高の未踏峰（標高7,570m）" }
+  - { lat: 27.472, lng: 89.639, label: "Timbu", type: "capital", note: "Capital y mayor ciudad de Bután" }
+  - { lat: 27.430, lng: 89.417, label: "Paro", type: "city", note: "Localidad donde se encuentra el aeropuerto internacional" }
+  - { lat: 27.575, lng: 89.881, label: "Punakha", type: "historical", note: "Antigua capital, conocida por el Punakha Dzong" }
+  - { lat: 27.494, lng: 89.364, label: "Monasterio de Taktsang", type: "landmark", note: "Templo budista emblemático construido en un acantilado (Nido del Tigre)" }
+  - { lat: 27.466, lng: 91.491, label: "Bumthang", type: "city", note: "Centro cultural de la región central" }
+  - { lat: 28.028, lng: 90.453, label: "Gangkhar Puensum", type: "nature", note: "La cumbre virgen más alta del mundo (7.570 m)" }
 features:
-  - text: '国民の幸福度を測る<span class="quiz">国民総幸福量（GNH）</span>という独自の指標を採用している'
+  - text: 'Aplica un indicador propio llamado <span class="quiz">Felicidad Nacional Bruta (FNB)</span> para medir la felicidad de su población'
     ref: "https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E7%B7%8F%E5%B9%B8%E7%A6%8F%E9%87%8F"
-  - text: '<span class="quiz">ヒマラヤ山脈</span>の東端に位置し国土の大部分が山岳地帯である'
+  - text: 'Se sitúa en el extremo oriental de la <span class="quiz">cordillera del Himalaya</span> y la mayor parte de su territorio es montañoso'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%82%BF%E3%83%B3"
 
 # ===== OSM ヒーロー設定 =====

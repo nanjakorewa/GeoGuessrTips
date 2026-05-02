@@ -12,17 +12,17 @@ flag: "Flag_of_Hokkaido_Prefecture.png"
 no_jetro: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 43.069, lng: 141.351, label: "Stasiun Sapporo", type: "capital", note: "北海道の道庁所在地・最大都市" }
-  - { lat: 41.774, lng: 140.727, label: "函館駅", type: "city", note: "道南の港町・夜景の名所" }
-  - { lat: 43.770, lng: 142.365, label: "旭川駅", type: "city", note: "道北の中心都市・旭山動物園" }
-  - { lat: 42.985, lng: 144.381, label: "釧路駅", type: "city", note: "道東の港町・釧路湿原" }
-  - { lat: 43.193, lng: 140.985, label: "小樽駅", type: "city", note: "歴史ある港町・運河" }
-  - { lat: 43.665, lng: 142.806, label: "大雪山", type: "nature", note: "北海道最高峰・国立公園" }
-  - { lat: 45.520, lng: 141.937, label: "稚内", type: "city", note: "日本最北端の街" }
+  - { lat: 43.069, lng: 141.351, label: "Stasiun Sapporo", type: "capital", note: "Ibu kota Hokkaido, kota terbesar" }
+  - { lat: 41.774, lng: 140.727, label: "Stasiun Hakodate", type: "city", note: "Kota pelabuhan di Hokkaido selatan, lokasi terkenal pemandangan malam" }
+  - { lat: 43.770, lng: 142.365, label: "Stasiun Asahikawa", type: "city", note: "Kota pusat di Hokkaido utara, Kebun Binatang Asahiyama" }
+  - { lat: 42.985, lng: 144.381, label: "Stasiun Kushiro", type: "city", note: "Kota pelabuhan di Hokkaido timur, Lahan basah Kushiro" }
+  - { lat: 43.193, lng: 140.985, label: "Stasiun Otaru", type: "city", note: "Kota pelabuhan bersejarah, kanal" }
+  - { lat: 43.665, lng: 142.806, label: "Gunung Daisetsuzan", type: "nature", note: "Puncak tertinggi Hokkaido, taman nasional" }
+  - { lat: 45.520, lng: 141.937, label: "Wakkanai", type: "city", note: "Kota paling utara di Jepang" }
 features:
-  - text: '日本最大の面積を持つ都道府県で、<span class="quiz">酪農</span>と農業が盛ん。生乳生産量は全国の約半分を占める'
+  - text: 'Prefektur dengan luas wilayah terbesar di Jepang, <span class="quiz">peternakan susu</span> dan pertanian sangat berkembang. Produksi susu mentah mencapai sekitar setengah dari total nasional'
     ref: "https://ja.wikipedia.org/wiki/北海道#農業"
-  - text: '冬季は豪雪地帯となり、道路には<span class="quiz">矢羽根付きポール</span>（固定式視線誘導柱）が多く設置されている'
+  - text: 'Pada musim dingin menjadi kawasan bersalju lebat, dan banyak <span class="quiz">tiang berbendera panah</span> (tiang penuntun pandangan tetap) dipasang di jalan'
     ref: "https://ja.wikipedia.org/wiki/固定式視線誘導柱"
 ---
 

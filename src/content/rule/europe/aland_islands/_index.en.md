@@ -19,16 +19,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 60.097, lng: 19.935, label: "マリエハムン", type: "capital", note: "首府・諸島最大の都市" }
-  - { lat: 60.232, lng: 20.026, label: "ヨマラ", type: "city", note: "本島中央の自治体" }
-  - { lat: 60.220, lng: 20.395, label: "スンド", type: "city", note: "本島東部のカステルホルム城跡" }
-  - { lat: 60.255, lng: 19.512, label: "エッケロ", type: "city", note: "本島西端の島・郵便船航路の歴史" }
-  - { lat: 60.235, lng: 20.421, label: "カステルホルム城", type: "historical", note: "中世の城跡" }
-  - { lat: 60.183, lng: 20.633, label: "クッカル諸島", type: "nature", note: "東群島の自然景観" }
+  - { lat: 60.097, lng: 19.935, label: "Mariehamn", type: "capital", note: "Capital and largest city of the archipelago" }
+  - { lat: 60.232, lng: 20.026, label: "Jomala", type: "city", note: "Central municipality of the main island" }
+  - { lat: 60.220, lng: 20.395, label: "Sund", type: "city", note: "Site of Kastelholm Castle ruins in the eastern main island" }
+  - { lat: 60.255, lng: 19.512, label: "Eckerö", type: "city", note: "Westernmost island with a historic mail-boat route" }
+  - { lat: 60.235, lng: 20.421, label: "Kastelholm Castle", type: "historical", note: "Medieval castle ruins" }
+  - { lat: 60.183, lng: 20.633, label: "Kökar Islands", type: "nature", note: "Natural scenery of the eastern archipelago" }
 features:
-  - text: 'フィンランドの<span class="quiz">自治領</span>でありながら公用語は<span class="quiz">スウェーデン語</span>のみという独自の地位を持つ'
+  - text: 'A <span class="quiz">autonomous region</span> of Finland with a unique status whose sole official language is <span class="quiz">Swedish</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
-  - text: '非武装地帯として国際的に認められており、<span class="quiz">バルト海</span>に浮かぶ約6,700の島々からなる群島'
+  - text: 'An internationally recognized demilitarized zone, this archipelago consists of about 6,700 islands in the <span class="quiz">Baltic Sea</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
 ---
 

@@ -22,16 +22,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 44.787, lng: 20.448, label: "ベオグラード", type: "capital", note: "首都・ドナウ川とサヴァ川の合流点" }
-  - { lat: 45.255, lng: 19.843, label: "ノヴィ・サド", type: "city", note: "ヴォイヴォディナの中心都市" }
-  - { lat: 43.321, lng: 21.896, label: "ニシュ", type: "city", note: "南部の主要都市" }
-  - { lat: 43.726, lng: 20.690, label: "クラグエヴァツ", type: "city", note: "Ciudad histórica del centro" }
-  - { lat: 43.900, lng: 20.349, label: "ジチャ修道院", type: "historical", note: "中世セルビア王の戴冠地" }
-  - { lat: 43.301, lng: 20.262, label: "ストゥデニツァ修道院", type: "landmark", note: "Monasterio ortodoxo Patrimonio Mundial" }
+  - { lat: 44.787, lng: 20.448, label: "Belgrado", type: "capital", note: "Capital, confluencia del Danubio y el Sava" }
+  - { lat: 45.255, lng: 19.843, label: "Novi Sad", type: "city", note: "Ciudad principal de Voivodina" }
+  - { lat: 43.321, lng: 21.896, label: "Niš", type: "city", note: "Principal ciudad del sur" }
+  - { lat: 43.726, lng: 20.690, label: "Kragujevac", type: "city", note: "Ciudad histórica del centro" }
+  - { lat: 43.900, lng: 20.349, label: "Monasterio de Žiča", type: "historical", note: "Lugar de coronación de los reyes serbios medievales" }
+  - { lat: 43.301, lng: 20.262, label: "Monasterio de Studenica", type: "landmark", note: "Monasterio ortodoxo Patrimonio Mundial" }
 features:
-  - text: '<span class="quiz">ニコラ・テスラ</span>の出身地域であり、首都<span class="quiz">ベオグラード</span>はドナウ川とサヴァ川の合流点に位置する'
+  - text: 'Es la región de origen de <span class="quiz">Nikola Tesla</span>, y la capital <span class="quiz">Belgrado</span> se encuentra en la confluencia del Danubio y el Sava'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%89"
-  - text: '<span class="quiz">キリル文字</span>とラテン文字の両方が日常的に使われ、<span class="quiz">正教会</span>の文化が色濃く残る'
+  - text: 'Se utilizan a diario tanto el <span class="quiz">alfabeto cirílico</span> como el latino, y se conserva una fuerte cultura de la <span class="quiz">Iglesia ortodoxa</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2%E8%AA%9E"
 ---
 

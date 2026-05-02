@@ -21,16 +21,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 49.187, lng: -2.107, label: "セント・ヘリア", type: "capital", note: "首府・ジャージー島最大の街" }
-  - { lat: 49.183, lng: -2.012, label: "ゴーリー", type: "city", note: "東海岸の港町" }
-  - { lat: 49.226, lng: -2.181, label: "セント・ジョン", type: "city", note: "北部の教区" }
-  - { lat: 49.179, lng: -2.180, label: "セント・ローレンス", type: "city", note: "中央部の教区" }
-  - { lat: 49.220, lng: -2.140, label: "ジャージー戦争トンネル", type: "historical", note: "第二次大戦遺構" }
-  - { lat: 49.182, lng: -2.022, label: "モン・オルゲイユ城", type: "historical", note: "12世紀の城塞" }
+  - { lat: 49.187, lng: -2.107, label: "Saint Helier", type: "capital", note: "Capital and largest town on Jersey" }
+  - { lat: 49.183, lng: -2.012, label: "Gorey", type: "city", note: "Port town on the east coast" }
+  - { lat: 49.226, lng: -2.181, label: "Saint John", type: "city", note: "Northern parish" }
+  - { lat: 49.179, lng: -2.180, label: "Saint Lawrence", type: "city", note: "Central parish" }
+  - { lat: 49.220, lng: -2.140, label: "Jersey War Tunnels", type: "historical", note: "World War II remains" }
+  - { lat: 49.182, lng: -2.022, label: "Mont Orgueil Castle", type: "historical", note: "12th-century fortress" }
 features:
-  - text: 'フランス北西部の海岸近くに位置する<span class="quiz">イギリス王室属領</span>で、独自の議会と法制度を持つ<span class="quiz">タックスヘイブン</span>'
+  - text: 'A <span class="quiz">British Crown Dependency</span> located near the coast of northwestern France, with its own parliament and legal system, and a <span class="quiz">tax haven</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%BC"
-  - text: '<span class="quiz">ジャージー牛</span>の原産地として知られ、面積は約<span class="quiz">116km²</span>のチャンネル諸島最大の島'
+  - text: 'Known as the home of the <span class="quiz">Jersey cattle</span> breed, it is the largest of the Channel Islands at about <span class="quiz">116 km²</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%BC%E7%A7%8D"
 ---
 

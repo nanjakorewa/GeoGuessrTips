@@ -11,16 +11,16 @@ is_pref: true
 flag: "Kagawa.svg"
 mapProvider: "osm"
 mapPins:
-  - { lat: 34.347, lng: 134.047, label: "高松駅", type: "capital", note: "香川県の県庁所在地・うどん県" }
-  - { lat: 34.331, lng: 134.052, label: "栗林公園", type: "landmark", note: "特別名勝の大名庭園" }
-  - { lat: 34.185, lng: 133.815, label: "金刀比羅宮", type: "historical", note: "こんぴらさん" }
-  - { lat: 34.241, lng: 133.815, label: "Gran Puente de Seto", type: "landmark", note: "Puente que une Honshu y Shikoku" }
-  - { lat: 34.476, lng: 134.226, label: "小豆島", type: "nature", note: "瀬戸内海の島・オリーブ" }
-  - { lat: 34.286, lng: 133.798, label: "丸亀城", type: "historical", note: "現存天守" }
+  - { lat: 34.347, lng: 134.047, label: "Estación de Takamatsu", type: "capital", note: "Capital de la prefectura de Kagawa, conocida como «la prefectura del udon»" }
+  - { lat: 34.331, lng: 134.052, label: "Parque Ritsurin", type: "landmark", note: "Jardín daimyō declarado lugar de especial belleza escénica" }
+  - { lat: 34.185, lng: 133.815, label: "Kotohira-gū", type: "historical", note: "Conocido popularmente como Konpira-san" }
+  - { lat: 34.241, lng: 133.815, label: "Gran Puente de Seto", type: "landmark", note: "Puente que une Honshū y Shikoku" }
+  - { lat: 34.476, lng: 134.226, label: "Shōdoshima", type: "nature", note: "Isla del mar Interior de Seto, célebre por sus olivos" }
+  - { lat: 34.286, lng: 133.798, label: "Castillo de Marugame", type: "historical", note: "Torre del homenaje original conservada" }
 features:
-  - text: '「<span class="quiz">うどん県</span>」を自称するほど讃岐うどんの文化が根付き、うどん店の密度は日本一'
+  - text: 'La cultura del udon de Sanuki está tan arraigada que se autodenomina «<span class="quiz">la prefectura del udon</span>», y la densidad de restaurantes de udon es la más alta de Japón'
     ref: "https://ja.wikipedia.org/wiki/讃岐うどん"
-  - text: '日本で最も面積が小さい都道府県で、<span class="quiz">ため池</span>の密度が全国最高'
+  - text: 'Es la prefectura de menor superficie de Japón y posee la mayor densidad de <span class="quiz">estanques de regadío</span> del país'
     ref: "https://ja.wikipedia.org/wiki/香川県#地理"
 ---
 

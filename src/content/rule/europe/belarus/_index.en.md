@@ -18,17 +18,17 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 53.902, lng: 27.559, label: "ミンスク", type: "capital", note: "Capital and the country's political and economic center" }
-  - { lat: 52.099, lng: 23.734, label: "ブレスト", type: "city", note: "ポーランド国境の歴史都市" }
-  - { lat: 53.677, lng: 23.829, label: "フロドナ", type: "city", note: "西部の文化都市" }
-  - { lat: 55.184, lng: 30.202, label: "ヴィテブスク", type: "city", note: "シャガールの故郷" }
-  - { lat: 52.425, lng: 31.014, label: "ホメリ", type: "city", note: "南東部の主要都市" }
-  - { lat: 52.700, lng: 23.867, label: "ベラヴェシュスカヤ・プーシャ", type: "nature", note: "欧州最大の原生林・世界遺産" }
-  - { lat: 53.870, lng: 25.840, label: "ミール城", type: "historical", note: "16世紀の城・世界遺産" }
+  - { lat: 53.902, lng: 27.559, label: "Minsk", type: "capital", note: "Capital and the country''s political and economic center" }
+  - { lat: 52.099, lng: 23.734, label: "Brest", type: "city", note: "Historic city on the Polish border" }
+  - { lat: 53.677, lng: 23.829, label: "Hrodna", type: "city", note: "Cultural city in the west" }
+  - { lat: 55.184, lng: 30.202, label: "Vitebsk", type: "city", note: "Hometown of Marc Chagall" }
+  - { lat: 52.425, lng: 31.014, label: "Homyel", type: "city", note: "Major city in the southeast" }
+  - { lat: 52.700, lng: 23.867, label: "Belovezhskaya Pushcha", type: "nature", note: "Europe''s largest primeval forest; World Heritage Site" }
+  - { lat: 53.870, lng: 25.840, label: "Mir Castle", type: "historical", note: "16th-century castle; World Heritage Site" }
 features:
-  - text: 'ヨーロッパ最後の<span class="quiz">独裁国家</span>とも呼ばれ、1994年から<span class="quiz">ルカシェンコ</span>大統領が権力を握り続けている'
+  - text: 'Often called Europe''s last <span class="quiz">dictatorship</span>, where President <span class="quiz">Lukashenko</span> has held power since 1994'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%83%AB%E3%82%AB%E3%82%B7%E3%82%A7%E3%83%B3%E3%82%B3"
-  - text: '国土の約40%が<span class="quiz">森林</span>に覆われ、ヨーロッパ最大の原生林<span class="quiz">ベラヴェシュスカヤ・プーシャ</span>がある'
+  - text: 'About 40% of the country is covered by <span class="quiz">forest</span>, including <span class="quiz">Belovezhskaya Pushcha</span>, Europe''s largest primeval forest'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%B4%E3%82%A7%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AB%E3%83%A4%E3%83%BB%E3%83%97%E3%83%BC%E3%82%B7%E3%83%A3"
 ---
 

@@ -19,17 +19,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 48.148, lng: 17.107, label: "ブラチスラヴァ", type: "capital", note: "首都・ドナウ川沿いの古都" }
-  - { lat: 48.720, lng: 21.258, label: "コシツェ", type: "city", note: "東部最大の都市" }
-  - { lat: 49.222, lng: 18.740, label: "ジリナ", type: "city", note: "北西部の主要都市" }
-  - { lat: 48.738, lng: 19.150, label: "バンスカー・ビストリツァ", type: "city", note: "中部の歴史都市" }
-  - { lat: 49.001, lng: 20.764, label: "スピシュ城", type: "historical", note: "中欧最大級の城跡・世界遺産" }
-  - { lat: 49.156, lng: 20.140, label: "高タトラ山脈", type: "nature", note: "国立公園・スキー保養地" }
-  - { lat: 48.819, lng: 20.498, label: "スロバキア・カルスト", type: "nature", note: "鍾乳洞群・世界遺産" }
+  - { lat: 48.148, lng: 17.107, label: "Bratislava", type: "capital", note: "Capital and ancient city on the Danube" }
+  - { lat: 48.720, lng: 21.258, label: "Košice", type: "city", note: "Largest city in the east" }
+  - { lat: 49.222, lng: 18.740, label: "Žilina", type: "city", note: "Major city in the northwest" }
+  - { lat: 48.738, lng: 19.150, label: "Banská Bystrica", type: "city", note: "Historic city in central Slovakia" }
+  - { lat: 49.001, lng: 20.764, label: "Spiš Castle", type: "historical", note: "One of Central Europe''s largest castle ruins; World Heritage Site" }
+  - { lat: 49.156, lng: 20.140, label: "High Tatras", type: "nature", note: "National park and ski resort area" }
+  - { lat: 48.819, lng: 20.498, label: "Slovak Karst", type: "nature", note: "Cave systems; World Heritage Site" }
 features:
-  - text: '1993年にチェコスロバキアから平和的に分離した「<span class="quiz">ビロード離婚</span>」で誕生した国'
+  - text: 'Born in 1993 from the peaceful separation from Czechoslovakia known as the "<span class="quiz">Velvet Divorce</span>"'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AD%E3%83%BC%E3%83%89%E9%9B%A2%E5%A9%9A"
-  - text: '国土の北部に<span class="quiz">タトラ山脈</span>がそびえ、<span class="quiz">スピシュ城</span>などの中世の城が数多く残る'
+  - text: 'The <span class="quiz">Tatra Mountains</span> rise in the north, and many medieval castles such as <span class="quiz">Spiš Castle</span> remain'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%88%E3%83%A9%E5%B1%B1%E8%84%88"
 ---
 

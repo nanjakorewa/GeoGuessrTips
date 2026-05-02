@@ -12,16 +12,16 @@ flag: "OKINAWA.svg"
 mapProvider: "osm"
 mapPins:
   - { lat: 26.213, lng: 127.679, label: "Naha", type: "capital", note: "Capital de la Prefectura de Okinawa" }
-  - { lat: 26.217, lng: 127.719, label: "首里城", type: "historical", note: "琉球王国の王城・世界遺産" }
-  - { lat: 26.215, lng: 127.687, label: "国際通り", type: "city", note: "那覇の繁華街" }
-  - { lat: 26.694, lng: 127.878, label: "美ら海水族館", type: "landmark", note: "本部町・大水槽" }
-  - { lat: 24.339, lng: 124.156, label: "石垣島", type: "nature", note: "八重山諸島の中心" }
-  - { lat: 24.812, lng: 125.281, label: "宮古島", type: "nature", note: "美しいビーチ" }
-  - { lat: 26.870, lng: 128.265, label: "辺戸岬", type: "nature", note: "沖縄本島最北端" }
+  - { lat: 26.217, lng: 127.719, label: "Castillo de Shuri", type: "historical", note: "Palacio real del reino de Ryūkyū, Patrimonio Mundial" }
+  - { lat: 26.215, lng: 127.687, label: "Kokusai-dōri", type: "city", note: "Avenida comercial de Naha" }
+  - { lat: 26.694, lng: 127.878, label: "Acuario Churaumi", type: "landmark", note: "Gran tanque, en la localidad de Motobu" }
+  - { lat: 24.339, lng: 124.156, label: "Isla Ishigaki", type: "nature", note: "Centro del archipiélago Yaeyama" }
+  - { lat: 24.812, lng: 125.281, label: "Isla Miyako", type: "nature", note: "Hermosas playas" }
+  - { lat: 26.870, lng: 128.265, label: "Cabo Hedo", type: "nature", note: "Extremo más septentrional de la isla principal de Okinawa" }
 features:
-  - text: '亜熱帯気候に属し、<span class="quiz">サンゴ礁</span>の海に囲まれた日本最南端の県'
+  - text: 'Es la prefectura más meridional de Japón, de clima subtropical y rodeada de un mar de <span class="quiz">arrecifes de coral</span>'
     ref: "https://ja.wikipedia.org/wiki/沖縄県"
-  - text: '1972年までアメリカ統治下にあった歴史から、<span class="quiz">米軍基地</span>が多数存在する'
+  - text: 'Por haber estado bajo administración estadounidense hasta 1972, alberga numerosas <span class="quiz">bases militares estadounidenses</span>'
     ref: "https://ja.wikipedia.org/wiki/沖縄県#米軍基地"
 ---
 

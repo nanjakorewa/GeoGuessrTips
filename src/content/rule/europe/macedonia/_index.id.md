@@ -20,16 +20,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 41.998, lng: 21.426, label: "スコピエ", type: "capital", note: "首都・国の中心都市" }
-  - { lat: 41.115, lng: 20.802, label: "オフリド", type: "historical", note: "湖畔の世界遺産都市" }
-  - { lat: 41.031, lng: 21.334, label: "ビトラ", type: "city", note: "南部の主要都市" }
-  - { lat: 41.745, lng: 22.197, label: "シュティプ", type: "city", note: "東部の文化都市" }
-  - { lat: 41.130, lng: 20.802, label: "Danau Ohrid", type: "nature", note: "欧州最古級の湖・世界遺産" }
-  - { lat: 41.738, lng: 21.711, label: "ヴェレス", type: "city", note: "ヴァルダル川沿いの都市" }
+  - { lat: 41.998, lng: 21.426, label: "Skopje", type: "capital", note: "Ibu kota, kota utama negara" }
+  - { lat: 41.115, lng: 20.802, label: "Ohrid", type: "historical", note: "Kota tepi danau warisan dunia UNESCO" }
+  - { lat: 41.031, lng: 21.334, label: "Bitola", type: "city", note: "Kota utama di selatan" }
+  - { lat: 41.745, lng: 22.197, label: "Stip", type: "city", note: "Kota budaya bagian timur" }
+  - { lat: 41.130, lng: 20.802, label: "Danau Ohrid", type: "nature", note: "Salah satu danau tertua di Eropa, warisan dunia UNESCO" }
+  - { lat: 41.738, lng: 21.711, label: "Veles", type: "city", note: "Kota di tepi Sungai Vardar" }
 features:
-  - text: 'ギリシャとの国名論争を経て2019年に<span class="quiz">北マケドニア</span>共和国に改名した内陸国'
+  - text: 'Negara terkurung daratan yang berganti nama menjadi Republik <span class="quiz">Makedonia Utara</span> pada tahun 2019 setelah perselisihan nama dengan Yunani'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B1%E3%83%89%E3%83%8B%E3%82%A2%E5%91%BC%E7%A7%B0%E5%95%8F%E9%A1%8C"
-  - text: '<span class="quiz">オフリド湖</span>はヨーロッパ最古の湖の一つで、湖畔の町と共にユネスコ<span class="quiz">世界遺産</span>に登録されている'
+  - text: '<span class="quiz">Danau Ohrid</span> adalah salah satu danau tertua di Eropa, dan terdaftar sebagai <span class="quiz">warisan dunia</span> UNESCO bersama kota di tepi danaunya'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%83%AA%E3%83%89%E6%B9%96"
 ---
 

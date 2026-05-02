@@ -19,16 +19,16 @@ sc: [
 ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 39.570, lng: 2.650, label: "パルマ", type: "capital", note: "マヨルカ島・諸島の中心都市" }
-  - { lat: 38.909, lng: 1.433, label: "イビサ", type: "city", note: "クラブミュージックの聖地" }
-  - { lat: 39.890, lng: 4.265, label: "マオン", type: "port", note: "メノルカ島の港町" }
-  - { lat: 38.972, lng: 1.535, label: "サンタ・エウラリア", type: "city", note: "イビサ島東部のリゾート" }
-  - { lat: 39.722, lng: 2.802, label: "ヴァルデモッサ", type: "historical", note: "ショパンが滞在した山村" }
-  - { lat: 39.851, lng: 3.119, label: "アルクディア", type: "city", note: "マヨルカ島北部の旧市街" }
+  - { lat: 39.570, lng: 2.650, label: "Palma", type: "capital", note: "Mallorca; main city of the archipelago" }
+  - { lat: 38.909, lng: 1.433, label: "Ibiza", type: "city", note: "Mecca of club music" }
+  - { lat: 39.890, lng: 4.265, label: "Mahón", type: "port", note: "Port town on Menorca" }
+  - { lat: 38.972, lng: 1.535, label: "Santa Eulalia", type: "city", note: "Resort area in eastern Ibiza" }
+  - { lat: 39.722, lng: 2.802, label: "Valldemossa", type: "historical", note: "Mountain village where Chopin stayed" }
+  - { lat: 39.851, lng: 3.119, label: "Alcúdia", type: "city", note: "Old town in northern Mallorca" }
 features:
-  - text: 'スペイン東部の地中海に浮かぶ群島で、<span class="quiz">マヨルカ島</span>・メノルカ島・<span class="quiz">イビサ島</span>などからなるリゾート地'
+  - text: 'A resort archipelago in the Mediterranean off eastern Spain, made up of <span class="quiz">Mallorca</span>, Menorca, <span class="quiz">Ibiza</span>, and other islands'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AC%E3%82%A2%E3%83%AC%E3%82%B9%E8%AB%B8%E5%B3%B6"
-  - text: 'イビサ島は<span class="quiz">クラブミュージック</span>の聖地として世界的に知られ、島全体が<span class="quiz">ユネスコ世界遺産</span>に登録されている'
+  - text: 'Ibiza is world-famous as a mecca of <span class="quiz">club music</span>, and the entire island is a <span class="quiz">UNESCO World Heritage Site</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%93%E3%82%B5%E5%B3%B6"
 ---
 

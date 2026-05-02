@@ -22,17 +22,17 @@ additional_link:
     - ["Finland Doc for Geoguessr", "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.g14913b7a907_1_0"]
 mapProvider: "osm"
 mapPins:
-  - { lat: 60.169, lng: 24.938, label: "ヘルシンキ", type: "capital", note: "首都・バルト海沿いの主要都市" }
-  - { lat: 60.451, lng: 22.267, label: "トゥルク", type: "city", note: "旧首都・歴史都市" }
-  - { lat: 61.498, lng: 23.760, label: "タンペレ", type: "city", note: "内陸最大の都市" }
-  - { lat: 65.012, lng: 25.471, label: "オウル", type: "city", note: "Major city in the north" }
-  - { lat: 66.504, lng: 25.730, label: "ロヴァニエミ", type: "city", note: "ラップランドの中心・サンタクロース村" }
-  - { lat: 60.151, lng: 24.950, label: "スオメンリンナ要塞", type: "landmark", note: "世界遺産の海防要塞" }
-  - { lat: 61.687, lng: 27.272, label: "サイマー湖", type: "nature", note: "国内最大の湖" }
+  - { lat: 60.169, lng: 24.938, label: "Helsinki", type: "capital", note: "Capital and major city on the Baltic Sea" }
+  - { lat: 60.451, lng: 22.267, label: "Turku", type: "city", note: "Former capital and historic city" }
+  - { lat: 61.498, lng: 23.760, label: "Tampere", type: "city", note: "Largest inland city" }
+  - { lat: 65.012, lng: 25.471, label: "Oulu", type: "city", note: "Major city in the north" }
+  - { lat: 66.504, lng: 25.730, label: "Rovaniemi", type: "city", note: "Center of Lapland and home of Santa Claus Village" }
+  - { lat: 60.151, lng: 24.950, label: "Suomenlinna Fortress", type: "landmark", note: "World Heritage sea fortress" }
+  - { lat: 61.687, lng: 27.272, label: "Lake Saimaa", type: "nature", note: "Largest lake in the country" }
 features:
-  - text: '国土に約<span class="quiz">18万8千</span>の湖があり「<span class="quiz">千の湖の国</span>」と呼ばれ、サウナ発祥の地でもある'
+  - text: 'With about <span class="quiz">188,000</span> lakes, it is called the "<span class="quiz">Land of a Thousand Lakes</span>" and is also the birthplace of the sauna'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
-  - text: '教育水準の高さで世界的に知られ、<span class="quiz">Nokia</span>の本社があり携帯電話産業の先駆者となった国'
+  - text: 'Globally renowned for its high level of education, and home to <span class="quiz">Nokia</span> headquarters, the country was a pioneer of the mobile phone industry'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%AD%E3%82%A2"
 ---
 

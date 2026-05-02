@@ -20,17 +20,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 41.903, lng: 12.496, label: "Roma", type: "capital", note: "首都・古代ローマ帝国の中心" }
-  - { lat: 45.464, lng: 9.190, label: "ミラノ", type: "city", note: "ファッションと金融の中心" }
-  - { lat: 45.440, lng: 12.316, label: "ヴェネツィア", type: "city", note: "水の都・運河の街" }
-  - { lat: 43.770, lng: 11.255, label: "フィレンツェ", type: "city", note: "ルネサンス発祥の地" }
-  - { lat: 40.852, lng: 14.268, label: "ナポリ", type: "city", note: "南イタリアの中心都市" }
-  - { lat: 43.723, lng: 10.396, label: "ピサの斜塔", type: "landmark", note: "世界的に有名な斜塔" }
-  - { lat: 40.821, lng: 14.426, label: "ヴェスヴィオ山", type: "nature", note: "ポンペイを埋没させた活火山" }
+  - { lat: 41.903, lng: 12.496, label: "Roma", type: "capital", note: "Capital, centro del antiguo Imperio Romano" }
+  - { lat: 45.464, lng: 9.190, label: "Milán", type: "city", note: "Centro de la moda y las finanzas" }
+  - { lat: 45.440, lng: 12.316, label: "Venecia", type: "city", note: "Ciudad del agua, ciudad de los canales" }
+  - { lat: 43.770, lng: 11.255, label: "Florencia", type: "city", note: "Cuna del Renacimiento" }
+  - { lat: 40.852, lng: 14.268, label: "Nápoles", type: "city", note: "Ciudad principal del sur de Italia" }
+  - { lat: 43.723, lng: 10.396, label: "Torre de Pisa", type: "landmark", note: "Torre inclinada de fama mundial" }
+  - { lat: 40.821, lng: 14.426, label: "Monte Vesubio", type: "nature", note: "Volcán activo que sepultó Pompeya" }
 features:
-  - text: '<span class="quiz">ローマ帝国</span>の中心地であり、国内にユネスコ世界遺産の登録数が<span class="quiz">世界最多</span>の59件ある'
+  - text: 'Es el centro del antiguo <span class="quiz">Imperio Romano</span> y cuenta con 59 sitios Patrimonio Mundial de la UNESCO, la <span class="quiz">mayor cifra del mundo</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3"
-  - text: 'ブーツ型の<span class="quiz">半島</span>国家で、<span class="quiz">ピザ</span>・パスタなどのイタリア料理は世界中で親しまれている'
+  - text: 'Es un país con forma de <span class="quiz">península</span> en forma de bota, y la cocina italiana, como la <span class="quiz">pizza</span> y la pasta, es apreciada en todo el mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E6%96%99%E7%90%86"
 ---
 

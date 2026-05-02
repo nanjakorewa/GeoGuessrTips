@@ -6,12 +6,12 @@ weight: 2
 add_flagindex: true
 mapProvider: "osm"
 mapPins:
-  - { lat: 54.687, lng: 25.280, label: "ヴィリニュス", type: "capital", note: "リトアニアの首都・世界遺産の旧市街" }
-  - { lat: 56.946, lng: 24.106, label: "リガ", type: "capital", note: "ラトビアの首都・バルト三国最大の都市" }
-  - { lat: 59.437, lng: 24.754, label: "タリン", type: "capital", note: "エストニアの首都・中世の旧市街" }
-  - { lat: 54.898, lng: 23.904, label: "カウナス", type: "city", note: "リトアニア第二の都市" }
-  - { lat: 56.512, lng: 21.011, label: "リエパーヤ", type: "port", note: "ラトビア西部の港湾都市" }
-  - { lat: 58.378, lng: 26.729, label: "タルトゥ", type: "city", note: "エストニアの大学都市" }
+  - { lat: 54.687, lng: 25.280, label: "Vilnius", type: "capital", note: "Capital of Lithuania; World Heritage old town" }
+  - { lat: 56.946, lng: 24.106, label: "Riga", type: "capital", note: "Capital of Latvia and largest city in the Baltic states" }
+  - { lat: 59.437, lng: 24.754, label: "Tallinn", type: "capital", note: "Capital of Estonia; medieval old town" }
+  - { lat: 54.898, lng: 23.904, label: "Kaunas", type: "city", note: "Lithuania''s second-largest city" }
+  - { lat: 56.512, lng: 21.011, label: "Liepāja", type: "port", note: "Port city in western Latvia" }
+  - { lat: 58.378, lng: 26.729, label: "Tartu", type: "city", note: "University city of Estonia" }
 ---
 
 ## How to spot them

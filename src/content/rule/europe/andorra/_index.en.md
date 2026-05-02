@@ -18,16 +18,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 42.506, lng: 1.522, label: "アンドラ・ラ・ベリャ", type: "capital", note: "首都・欧州最高所の首都" }
-  - { lat: 42.546, lng: 1.586, label: "エスカルデス", type: "city", note: "温泉で知られる都市" }
-  - { lat: 42.539, lng: 1.737, label: "カニーリョ", type: "city", note: "東部の山岳教区" }
-  - { lat: 42.567, lng: 1.678, label: "エンカンプ", type: "city", note: "ピレネー山脈の集落" }
-  - { lat: 42.578, lng: 1.658, label: "グラウ・ロイグ", type: "nature", note: "スキーリゾート地" }
-  - { lat: 42.476, lng: 1.491, label: "サン・ジュリア・デ・ロリア", type: "city", note: "南部最大の教区" }
+  - { lat: 42.506, lng: 1.522, label: "Andorra la Vella", type: "capital", note: "Capital and Europe''s highest capital city" }
+  - { lat: 42.546, lng: 1.586, label: "Escaldes-Engordany", type: "city", note: "City known for its hot springs" }
+  - { lat: 42.539, lng: 1.737, label: "Canillo", type: "city", note: "Mountain parish in the east" }
+  - { lat: 42.567, lng: 1.678, label: "Encamp", type: "city", note: "Settlement in the Pyrenees" }
+  - { lat: 42.578, lng: 1.658, label: "Grau Roig", type: "nature", note: "Ski resort area" }
+  - { lat: 42.476, lng: 1.491, label: "Sant Julià de Lòria", type: "city", note: "Largest parish in the south" }
 features:
-  - text: '<span class="quiz">ピレネー山脈</span>に位置する小国で、国家元首がフランス大統領とスペインの<span class="quiz">ウルヘル司教</span>の共同統治'
+  - text: 'A small country in the <span class="quiz">Pyrenees</span>, jointly ruled by the President of France and the <span class="quiz">Bishop of Urgell</span> of Spain'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9"
-  - text: '消費税が無く<span class="quiz">免税</span>ショッピングで知られ、<span class="quiz">スキーリゾート</span>が主要な観光産業'
+  - text: 'Known for <span class="quiz">tax-free</span> shopping with no consumption tax, and <span class="quiz">ski resorts</span> are a major tourism industry'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9"
 ---
 

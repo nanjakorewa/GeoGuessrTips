@@ -20,15 +20,15 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 52.370, lng: 4.895, label: "アムステルダム", type: "capital", note: "首都・運河の街・世界遺産" }
-  - { lat: 51.924, lng: 4.477, label: "ロッテルダム", type: "port", note: "欧州最大級の港湾都市" }
-  - { lat: 52.080, lng: 4.310, label: "ハーグ", type: "city", note: "政府所在地・国際司法裁判所" }
-  - { lat: 52.090, lng: 5.122, label: "ユトレヒト", type: "city", note: "Kota bersejarah di tengah" }
-  - { lat: 51.972, lng: 4.137, label: "キンデルダイク", type: "landmark", note: "風車群・世界遺産" }
-  - { lat: 51.443, lng: 5.479, label: "アイントホーフェン", type: "city", note: "南部の工業都市・フィリップス本拠" }
-  - { lat: 53.218, lng: 6.566, label: "フローニンゲン", type: "city", note: "北部の大学都市" }
+  - { lat: 52.370, lng: 4.895, label: "Amsterdam", type: "capital", note: "Ibu kota, kota kanal, warisan dunia UNESCO" }
+  - { lat: 51.924, lng: 4.477, label: "Rotterdam", type: "port", note: "Salah satu kota pelabuhan terbesar di Eropa" }
+  - { lat: 52.080, lng: 4.310, label: "Den Haag", type: "city", note: "Pusat pemerintahan, Mahkamah Internasional" }
+  - { lat: 52.090, lng: 5.122, label: "Utrecht", type: "city", note: "Kota bersejarah di tengah" }
+  - { lat: 51.972, lng: 4.137, label: "Kinderdijk", type: "landmark", note: "Kompleks kincir angin, warisan dunia UNESCO" }
+  - { lat: 51.443, lng: 5.479, label: "Eindhoven", type: "city", note: "Kota industri di selatan, markas Philips" }
+  - { lat: 53.218, lng: 6.566, label: "Groningen", type: "city", note: "Kota universitas di utara" }
 features:
-  - text: '国土の約<span class="quiz">26%</span>が海面より低く、<span class="quiz">干拓</span>と堤防で国土を広げてきた「低地の国」'
+  - text: 'Sekitar <span class="quiz">26%</span> wilayahnya berada di bawah permukaan laut; "Negeri Dataran Rendah" yang memperluas wilayahnya melalui <span class="quiz">reklamasi</span> dan tanggul'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80"
 ---
 

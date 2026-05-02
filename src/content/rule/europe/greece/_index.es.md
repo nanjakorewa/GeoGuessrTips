@@ -21,17 +21,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 37.984, lng: 23.728, label: "アテネ", type: "capital", note: "首都・古代ギリシャの中心" }
-  - { lat: 40.640, lng: 22.944, label: "テッサロニキ", type: "city", note: "第二の都市・北部の中心" }
-  - { lat: 37.977, lng: 23.726, label: "アクロポリス", type: "landmark", note: "パルテノン神殿で知られる世界遺産" }
-  - { lat: 36.394, lng: 25.464, label: "サントリーニ島", type: "landmark", note: "白壁と青屋根の景観" }
-  - { lat: 35.339, lng: 25.144, label: "ヘラクリオン", type: "city", note: "クレタ島の中心都市" }
-  - { lat: 38.482, lng: 22.501, label: "デルフィ", type: "historical", note: "古代の聖地・世界遺産" }
-  - { lat: 39.713, lng: 21.628, label: "メテオラ", type: "landmark", note: "奇岩上の修道院群・世界遺産" }
+  - { lat: 37.984, lng: 23.728, label: "Atenas", type: "capital", note: "Capital, centro de la antigua Grecia" }
+  - { lat: 40.640, lng: 22.944, label: "Tesalónica", type: "city", note: "Segunda ciudad, centro del norte" }
+  - { lat: 37.977, lng: 23.726, label: "Acrópolis", type: "landmark", note: "Patrimonio Mundial conocido por el Partenón" }
+  - { lat: 36.394, lng: 25.464, label: "Isla de Santorini", type: "landmark", note: "Paisaje de paredes blancas y techos azules" }
+  - { lat: 35.339, lng: 25.144, label: "Heraclión", type: "city", note: "Ciudad principal de Creta" }
+  - { lat: 38.482, lng: 22.501, label: "Delfos", type: "historical", note: "Santuario antiguo, Patrimonio Mundial" }
+  - { lat: 39.713, lng: 21.628, label: "Meteora", type: "landmark", note: "Conjunto de monasterios sobre rocas, Patrimonio Mundial" }
 features:
-  - text: '西洋文明の発祥地であり、<span class="quiz">民主主義</span>・<span class="quiz">哲学</span>・オリンピックの起源となった古代ギリシャの歴史を持つ'
+  - text: 'Es la cuna de la civilización occidental y posee la historia de la antigua Grecia, origen de la <span class="quiz">democracia</span>, la <span class="quiz">filosofía</span> y los Juegos Olímpicos'
     ref: "https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BB%A3%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2"
-  - text: '約<span class="quiz">6,000</span>の島々を持ち、<span class="quiz">サントリーニ島</span>やミコノス島など白壁と青い屋根の景観で知られるエーゲ海の島々が有名'
+  - text: 'Posee unas <span class="quiz">6.000</span> islas, y son famosas las islas del mar Egeo como <span class="quiz">Santorini</span> y Míconos, conocidas por su paisaje de paredes blancas y techos azules'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%8B%E5%B3%B6"
 ---
 

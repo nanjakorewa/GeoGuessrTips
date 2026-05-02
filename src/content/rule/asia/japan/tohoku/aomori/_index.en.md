@@ -11,16 +11,16 @@ is_pref: true
 flag: "Aomori.svg"
 mapProvider: "osm"
 mapPins:
-  - { lat: 40.829, lng: 140.741, label: "青森駅", type: "capital", note: "青森県の県庁所在地" }
-  - { lat: 40.521, lng: 141.488, label: "八戸駅", type: "city", note: "県南の中心・港町" }
-  - { lat: 40.607, lng: 140.464, label: "弘前駅", type: "city", note: "弘前城・桜の名所" }
-  - { lat: 41.236, lng: 140.348, label: "大間崎", type: "landmark", note: "本州最北端・マグロの街" }
-  - { lat: 40.652, lng: 140.882, label: "八甲田山", type: "nature", note: "火山群・スキーリゾート" }
-  - { lat: 40.464, lng: 140.882, label: "十和田湖", type: "nature", note: "カルデラ湖・景勝地" }
+  - { lat: 40.829, lng: 140.741, label: "Aomori Station", type: "capital", note: "Capital of Aomori Prefecture" }
+  - { lat: 40.521, lng: 141.488, label: "Hachinohe Station", type: "city", note: "Center of southern Aomori; port town" }
+  - { lat: 40.607, lng: 140.464, label: "Hirosaki Station", type: "city", note: "Hirosaki Castle and famous cherry blossoms" }
+  - { lat: 41.236, lng: 140.348, label: "Cape Oma", type: "landmark", note: "Northernmost point of Honshu; town famed for tuna" }
+  - { lat: 40.652, lng: 140.882, label: "Mt. Hakkoda", type: "nature", note: "Volcanic group; ski resort" }
+  - { lat: 40.464, lng: 140.882, label: "Lake Towada", type: "nature", note: "Caldera lake and scenic spot" }
 features:
-  - text: '<span class="quiz">りんご</span>の生産量は全国1位で、全国の約6割を占める'
+  - text: '<span class="quiz">Apples</span> are the prefecture''s top product, accounting for about 60% of national output'
     ref: "https://ja.wikipedia.org/wiki/青森県#農業"
-  - text: '本州最北端に位置し、<span class="quiz">津軽海峡</span>を挟んで北海道と向かい合う'
+  - text: 'Located at the northern tip of Honshu, facing Hokkaido across the <span class="quiz">Tsugaru Strait</span>'
     ref: "https://ja.wikipedia.org/wiki/青森県"
 ---
 

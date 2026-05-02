@@ -11,16 +11,16 @@ is_pref: true
 flag: "Kagawa.svg"
 mapProvider: "osm"
 mapPins:
-  - { lat: 34.347, lng: 134.047, label: "高松駅", type: "capital", note: "香川県の県庁所在地・うどん県" }
-  - { lat: 34.331, lng: 134.052, label: "栗林公園", type: "landmark", note: "特別名勝の大名庭園" }
-  - { lat: 34.185, lng: 133.815, label: "金刀比羅宮", type: "historical", note: "こんぴらさん" }
+  - { lat: 34.347, lng: 134.047, label: "Stasiun Takamatsu", type: "capital", note: "Ibu kota Prefektur Kagawa, prefektur udon" }
+  - { lat: 34.331, lng: 134.052, label: "Taman Ritsurin", type: "landmark", note: "Taman daimyo dengan status tempat pemandangan istimewa" }
+  - { lat: 34.185, lng: 133.815, label: "Kuil Kotohiragu", type: "historical", note: "Konpira-san" }
   - { lat: 34.241, lng: 133.815, label: "Jembatan Seto Ohashi", type: "landmark", note: "Jembatan penghubung Honshu dan Shikoku" }
-  - { lat: 34.476, lng: 134.226, label: "小豆島", type: "nature", note: "瀬戸内海の島・オリーブ" }
-  - { lat: 34.286, lng: 133.798, label: "丸亀城", type: "historical", note: "現存天守" }
+  - { lat: 34.476, lng: 134.226, label: "Pulau Shodoshima", type: "nature", note: "Pulau di Laut Pedalaman Seto, zaitun" }
+  - { lat: 34.286, lng: 133.798, label: "Kastil Marugame", type: "historical", note: "Menara utama yang masih ada" }
 features:
-  - text: '「<span class="quiz">うどん県</span>」を自称するほど讃岐うどんの文化が根付き、うどん店の密度は日本一'
+  - text: 'Budaya udon Sanuki begitu mengakar hingga prefektur ini menjuluki diri sebagai "<span class="quiz">prefektur udon</span>", dengan kepadatan kedai udon tertinggi di Jepang'
     ref: "https://ja.wikipedia.org/wiki/讃岐うどん"
-  - text: '日本で最も面積が小さい都道府県で、<span class="quiz">ため池</span>の密度が全国最高'
+  - text: 'Prefektur dengan luas wilayah terkecil di Jepang, dan memiliki kepadatan <span class="quiz">kolam tampungan</span> tertinggi di seluruh negeri'
     ref: "https://ja.wikipedia.org/wiki/香川県#地理"
 ---
 

@@ -19,17 +19,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 64.146, lng: -21.942, label: "レイキャヴィーク", type: "capital", note: "首都・世界最北の首都" }
-  - { lat: 65.683, lng: -18.111, label: "アクレイリ", type: "city", note: "Ciudad principal del norte" }
-  - { lat: 63.830, lng: -20.260, label: "セルフォス", type: "city", note: "南部の中心都市" }
-  - { lat: 64.255, lng: -21.124, label: "シンクヴェトリル", type: "nature", note: "プレート境界・世界遺産" }
-  - { lat: 64.327, lng: -20.121, label: "ゲイシール", type: "nature", note: "間欠泉で有名な地熱地帯" }
-  - { lat: 64.014, lng: -19.991, label: "グトルフォス", type: "nature", note: "黄金の滝" }
-  - { lat: 63.430, lng: -19.066, label: "エイヤフィヤトラヨークトル", type: "nature", note: "2010年噴火の氷河火山" }
+  - { lat: 64.146, lng: -21.942, label: "Reikiavik", type: "capital", note: "Capital, capital más septentrional del mundo" }
+  - { lat: 65.683, lng: -18.111, label: "Akureyri", type: "city", note: "Ciudad principal del norte" }
+  - { lat: 63.830, lng: -20.260, label: "Selfoss", type: "city", note: "Ciudad principal del sur" }
+  - { lat: 64.255, lng: -21.124, label: "Þingvellir", type: "nature", note: "Frontera de placas, Patrimonio Mundial" }
+  - { lat: 64.327, lng: -20.121, label: "Geysir", type: "nature", note: "Zona geotérmica famosa por sus géiseres" }
+  - { lat: 64.014, lng: -19.991, label: "Gullfoss", type: "nature", note: "Cascada Dorada" }
+  - { lat: 63.430, lng: -19.066, label: "Eyjafjallajökull", type: "nature", note: "Volcán glaciar de la erupción de 2010" }
 features:
-  - text: '<span class="quiz">火山</span>と<span class="quiz">氷河</span>が共存する島国で、国土の約11%が氷河に覆われ30以上の活火山がある'
+  - text: 'Es un país insular donde coexisten <span class="quiz">volcanes</span> y <span class="quiz">glaciares</span>; cerca del 11 % del territorio está cubierto por glaciares y hay más de 30 volcanes activos'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89"
-  - text: '世界最古の<span class="quiz">議会</span>とされる<span class="quiz">アルシング</span>が930年に設立され、地熱エネルギーで国内電力の大部分を賄う'
+  - text: 'El <span class="quiz">Althing</span>, considerado el <span class="quiz">parlamento</span> más antiguo del mundo, fue fundado en el año 930, y la energía geotérmica cubre la mayor parte de la electricidad del país'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3%E3%82%B0"
 ---
 

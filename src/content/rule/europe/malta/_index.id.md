@@ -20,16 +20,16 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 35.899, lng: 14.515, label: "バレッタ", type: "capital", note: "首都・世界遺産の城塞都市" }
-  - { lat: 35.895, lng: 14.404, label: "ムディーナ", type: "historical", note: "中世の旧首都" }
-  - { lat: 36.045, lng: 14.241, label: "ヴィクトリア", type: "city", note: "ゴゾ島の中心都市" }
-  - { lat: 35.918, lng: 14.490, label: "スリーマ", type: "city", note: "湾岸のリゾート都市" }
-  - { lat: 35.836, lng: 14.546, label: "マルサシュロック", type: "port", note: "南部の漁港" }
-  - { lat: 35.939, lng: 14.357, label: "ハジャル・イム神殿", type: "historical", note: "巨石神殿・世界遺産" }
+  - { lat: 35.899, lng: 14.515, label: "Valletta", type: "capital", note: "Ibu kota, kota berbenteng warisan dunia UNESCO" }
+  - { lat: 35.895, lng: 14.404, label: "Mdina", type: "historical", note: "Bekas ibu kota abad pertengahan" }
+  - { lat: 36.045, lng: 14.241, label: "Victoria", type: "city", note: "Kota utama Pulau Gozo" }
+  - { lat: 35.918, lng: 14.490, label: "Sliema", type: "city", note: "Kota resor di tepi teluk" }
+  - { lat: 35.836, lng: 14.546, label: "Marsaxlokk", type: "port", note: "Pelabuhan ikan di selatan" }
+  - { lat: 35.939, lng: 14.357, label: "Kuil Hagar Qim", type: "historical", note: "Kuil megalitikum, warisan dunia UNESCO" }
 features:
-  - text: 'EU最小の加盟国で、<span class="quiz">マルタ語</span>はアラビア語に起源を持つ唯一のEU公用語である'
+  - text: 'Negara anggota terkecil Uni Eropa, dan <span class="quiz">bahasa Malta</span> adalah satu-satunya bahasa resmi Uni Eropa yang berasal dari bahasa Arab'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%BF%E8%AA%9E"
-  - text: '<span class="quiz">マルタ騎士団</span>の本拠地であった歴史を持ち、首都<span class="quiz">バレッタ</span>の街全体が世界遺産に登録されている'
+  - text: 'Memiliki sejarah sebagai markas <span class="quiz">Ksatria Malta</span>, dan seluruh ibu kota <span class="quiz">Valletta</span> terdaftar sebagai warisan dunia UNESCO'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AC%E3%83%83%E3%82%BF"
 ---
 

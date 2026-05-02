@@ -19,17 +19,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 64.146, lng: -21.942, label: "レイキャヴィーク", type: "capital", note: "首都・世界最北の首都" }
-  - { lat: 65.683, lng: -18.111, label: "アクレイリ", type: "city", note: "Major city in the north" }
-  - { lat: 63.830, lng: -20.260, label: "セルフォス", type: "city", note: "南部の中心都市" }
-  - { lat: 64.255, lng: -21.124, label: "シンクヴェトリル", type: "nature", note: "プレート境界・世界遺産" }
-  - { lat: 64.327, lng: -20.121, label: "ゲイシール", type: "nature", note: "間欠泉で有名な地熱地帯" }
-  - { lat: 64.014, lng: -19.991, label: "グトルフォス", type: "nature", note: "黄金の滝" }
-  - { lat: 63.430, lng: -19.066, label: "エイヤフィヤトラヨークトル", type: "nature", note: "2010年噴火の氷河火山" }
+  - { lat: 64.146, lng: -21.942, label: "Reykjavík", type: "capital", note: "Capital and the world''s northernmost capital" }
+  - { lat: 65.683, lng: -18.111, label: "Akureyri", type: "city", note: "Major city in the north" }
+  - { lat: 63.830, lng: -20.260, label: "Selfoss", type: "city", note: "Main city of the south" }
+  - { lat: 64.255, lng: -21.124, label: "Þingvellir", type: "nature", note: "Plate boundary; World Heritage Site" }
+  - { lat: 64.327, lng: -20.121, label: "Geysir", type: "nature", note: "Geothermal area famous for its geysers" }
+  - { lat: 64.014, lng: -19.991, label: "Gullfoss", type: "nature", note: "Golden Falls" }
+  - { lat: 63.430, lng: -19.066, label: "Eyjafjallajökull", type: "nature", note: "Glacier volcano that erupted in 2010" }
 features:
-  - text: '<span class="quiz">火山</span>と<span class="quiz">氷河</span>が共存する島国で、国土の約11%が氷河に覆われ30以上の活火山がある'
+  - text: 'An island nation where <span class="quiz">volcanoes</span> and <span class="quiz">glaciers</span> coexist, with about 11% of its land covered by glaciers and more than 30 active volcanoes'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89"
-  - text: '世界最古の<span class="quiz">議会</span>とされる<span class="quiz">アルシング</span>が930年に設立され、地熱エネルギーで国内電力の大部分を賄う'
+  - text: 'The <span class="quiz">Althing</span>, considered the world''s oldest <span class="quiz">parliament</span>, was founded in 930, and the country covers most of its electricity needs with geothermal energy'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3%E3%82%B0"
 ---
 

@@ -18,12 +18,12 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 60.155, lng: -1.146, label: "ラーウィック", type: "capital", note: "シェットランド諸島の中心都市" }
-  - { lat: 60.337, lng: -1.323, label: "スカロウェイ", type: "historical", note: "旧首府・城跡が残る" }
-  - { lat: 60.608, lng: -1.272, label: "ヤール", type: "city", note: "本島中部の集落" }
-  - { lat: 60.831, lng: -0.852, label: "アンスト", type: "nature", note: "英国最北の有人島" }
-  - { lat: 59.876, lng: -1.273, label: "サンバラ岬", type: "nature", note: "本島最南端のパフィン繁殖地" }
-  - { lat: 60.491, lng: -1.501, label: "エシャネス", type: "nature", note: "西部の断崖海岸" }
+  - { lat: 60.155, lng: -1.146, label: "Lerwick", type: "capital", note: "Ciudad principal de las islas Shetland" }
+  - { lat: 60.337, lng: -1.323, label: "Scalloway", type: "historical", note: "Antigua capital, conserva las ruinas de su castillo" }
+  - { lat: 60.608, lng: -1.272, label: "Yell", type: "city", note: "Pueblo en la parte central de la isla principal" }
+  - { lat: 60.831, lng: -0.852, label: "Unst", type: "nature", note: "Isla habitada más septentrional del Reino Unido" }
+  - { lat: 59.876, lng: -1.273, label: "Sumburgh Head", type: "nature", note: "Colonia de frailecillos en el extremo sur de la isla principal" }
+  - { lat: 60.491, lng: -1.501, label: "Eshaness", type: "nature", note: "Costa de acantilados del oeste" }
 ---
 
 <div class="main-desciption country-description">

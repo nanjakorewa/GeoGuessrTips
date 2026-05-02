@@ -19,17 +19,17 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 48.148, lng: 17.107, label: "ブラチスラヴァ", type: "capital", note: "首都・ドナウ川沿いの古都" }
-  - { lat: 48.720, lng: 21.258, label: "コシツェ", type: "city", note: "東部最大の都市" }
-  - { lat: 49.222, lng: 18.740, label: "ジリナ", type: "city", note: "北西部の主要都市" }
-  - { lat: 48.738, lng: 19.150, label: "バンスカー・ビストリツァ", type: "city", note: "Kota bersejarah di tengah" }
-  - { lat: 49.001, lng: 20.764, label: "スピシュ城", type: "historical", note: "中欧最大級の城跡・世界遺産" }
-  - { lat: 49.156, lng: 20.140, label: "高タトラ山脈", type: "nature", note: "国立公園・スキー保養地" }
-  - { lat: 48.819, lng: 20.498, label: "スロバキア・カルスト", type: "nature", note: "鍾乳洞群・世界遺産" }
+  - { lat: 48.148, lng: 17.107, label: "Bratislava", type: "capital", note: "Ibu kota, kota tua di tepi Sungai Donau" }
+  - { lat: 48.720, lng: 21.258, label: "Kosice", type: "city", note: "Kota terbesar di bagian timur" }
+  - { lat: 49.222, lng: 18.740, label: "Zilina", type: "city", note: "Kota utama bagian barat laut" }
+  - { lat: 48.738, lng: 19.150, label: "Banska Bystrica", type: "city", note: "Kota bersejarah di tengah" }
+  - { lat: 49.001, lng: 20.764, label: "Kastil Spis", type: "historical", note: "Salah satu reruntuhan kastil terbesar di Eropa Tengah, warisan dunia UNESCO" }
+  - { lat: 49.156, lng: 20.140, label: "Pegunungan Tatra Tinggi", type: "nature", note: "Taman nasional, resor ski" }
+  - { lat: 48.819, lng: 20.498, label: "Karst Slowakia", type: "nature", note: "Kompleks gua, warisan dunia UNESCO" }
 features:
-  - text: '1993年にチェコスロバキアから平和的に分離した「<span class="quiz">ビロード離婚</span>」で誕生した国'
+  - text: 'Negara yang lahir melalui "<span class="quiz">Perceraian Beludru</span>", pemisahan damai dari Cekoslowakia pada tahun 1993'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AD%E3%83%BC%E3%83%89%E9%9B%A2%E5%A9%9A"
-  - text: '国土の北部に<span class="quiz">タトラ山脈</span>がそびえ、<span class="quiz">スピシュ城</span>などの中世の城が数多く残る'
+  - text: '<span class="quiz">Pegunungan Tatra</span> menjulang di bagian utara wilayahnya, dan banyak kastil abad pertengahan yang masih berdiri seperti <span class="quiz">Kastil Spis</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%88%E3%83%A9%E5%B1%B1%E8%84%88"
 ---
 

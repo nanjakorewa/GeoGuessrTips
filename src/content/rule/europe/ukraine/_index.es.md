@@ -18,15 +18,15 @@ sc: [
     ]
 mapProvider: "osm"
 mapPins:
-  - { lat: 50.450, lng: 30.524, label: "キーウ", type: "capital", note: "首都・聖ソフィア大聖堂で知られる" }
-  - { lat: 49.840, lng: 24.029, label: "リヴィウ", type: "city", note: "西部の文化都市・世界遺産旧市街" }
-  - { lat: 49.989, lng: 36.232, label: "ハルキウ", type: "city", note: "Ciudad principal del nordeste" }
-  - { lat: 46.482, lng: 30.723, label: "オデーサ", type: "port", note: "Ciudad portuaria del mar Negro" }
-  - { lat: 48.464, lng: 35.046, label: "ドニプロ", type: "city", note: "ドニプロ川沿いの工業都市" }
-  - { lat: 51.389, lng: 30.099, label: "チョルノービリ", type: "historical", note: "原発事故跡地" }
-  - { lat: 44.611, lng: 33.525, label: "セヴァストポリ", type: "port", note: "クリミア半島の港湾都市" }
+  - { lat: 50.450, lng: 30.524, label: "Kiev", type: "capital", note: "Capital, conocida por la catedral de Santa Sofía" }
+  - { lat: 49.840, lng: 24.029, label: "Leópolis", type: "city", note: "Ciudad cultural del oeste, casco antiguo Patrimonio Mundial" }
+  - { lat: 49.989, lng: 36.232, label: "Járkov", type: "city", note: "Ciudad principal del nordeste" }
+  - { lat: 46.482, lng: 30.723, label: "Odesa", type: "port", note: "Ciudad portuaria del mar Negro" }
+  - { lat: 48.464, lng: 35.046, label: "Dnipró", type: "city", note: "Ciudad industrial a orillas del río Dniéper" }
+  - { lat: 51.389, lng: 30.099, label: "Chernóbil", type: "historical", note: "Lugar del accidente nuclear" }
+  - { lat: 44.611, lng: 33.525, label: "Sebastopol", type: "port", note: "Ciudad portuaria de la península de Crimea" }
 features:
-  - text: '<span class="quiz">チェルノブイリ</span>原子力発電所事故の跡地があり、首都<span class="quiz">キーウ</span>の聖ソフィア大聖堂は世界遺産に登録されている'
+  - text: 'Alberga el lugar del accidente de la central nuclear de <span class="quiz">Chernóbil</span>, y la catedral de Santa Sofía de la capital <span class="quiz">Kiev</span> está inscrita como Patrimonio Mundial'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%A6"
 ---
 

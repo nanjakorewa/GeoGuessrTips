@@ -10,11 +10,11 @@ no_jetro: true
 flag: "JP.svg"
 mapProvider: "osm"
 mapPins:
-  - { lat: 34.347, lng: 134.047, label: "高松駅", type: "city", note: "香川県の県庁所在地・うどん県" }
-  - { lat: 34.066, lng: 134.551, label: "徳島駅", type: "city", note: "徳島県の県庁所在地・阿波踊り" }
-  - { lat: 33.839, lng: 132.752, label: "松山駅", type: "city", note: "愛媛県の県庁所在地・道後温泉" }
-  - { lat: 33.567, lng: 133.543, label: "高知駅", type: "city", note: "高知県の県庁所在地・高知城" }
-  - { lat: 34.241, lng: 133.961, label: "Seto Ohashi Bridge", type: "landmark", note: "本州と四国を結ぶ橋・観光名所" }
+  - { lat: 34.347, lng: 134.047, label: "Takamatsu Station", type: "city", note: "Capital of Kagawa Prefecture; the Udon Prefecture" }
+  - { lat: 34.066, lng: 134.551, label: "Tokushima Station", type: "city", note: "Capital of Tokushima Prefecture; Awa Odori dance" }
+  - { lat: 33.839, lng: 132.752, label: "Matsuyama Station", type: "city", note: "Capital of Ehime Prefecture; Dogo Onsen" }
+  - { lat: 33.567, lng: 133.543, label: "Kochi Station", type: "city", note: "Capital of Kochi Prefecture; Kochi Castle" }
+  - { lat: 34.241, lng: 133.961, label: "Seto Ohashi Bridge", type: "landmark", note: "Bridge connecting Honshu and Shikoku; tourist attraction" }
 ---
 
 
