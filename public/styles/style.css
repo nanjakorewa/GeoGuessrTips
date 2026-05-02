@@ -765,7 +765,6 @@ tbody {
 /* side list */
 .sidebar {
   background-color: var(--white-color);
-  position: sticky;
   top: 50px;
   margin-bottom: 30px;
   padding: 20px 10px 10px 10px;

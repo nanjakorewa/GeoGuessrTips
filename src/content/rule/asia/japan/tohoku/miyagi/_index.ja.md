@@ -16,15 +16,12 @@ mapPins:
   - { lat: 38.367, lng: 141.058, label: "松島", type: "landmark", note: "日本三景の一つ・景勝地" }
   - { lat: 38.252, lng: 140.870, label: "仙台城跡", type: "historical", note: "伊達政宗の城・青葉城" }
   - { lat: 38.140, lng: 140.566, label: "蔵王連峰", type: "nature", note: "御釜・スキー場" }
+features:
+  - text: '東北地方の経済の中心で、仙台市は<span class="quiz">「杜の都」</span>と呼ばれる東北最大の都市'
+    ref: "https://ja.wikipedia.org/wiki/仙台市"
+  - text: '石巻・気仙沼など三陸沿岸は<span class="quiz">水産加工業</span>が盛んで、笹かまぼこは仙台名物'
+    ref: "https://ja.wikipedia.org/wiki/宮城県#水産業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>東北地方の経済の中心で、仙台市は<span class="quiz">「杜の都」</span>と呼ばれる東北最大の都市<a href="https://ja.wikipedia.org/wiki/仙台市" target="_blank"><sup>[参]</sup></a></li>
-        <li>石巻・気仙沼など三陸沿岸は<span class="quiz">水産加工業</span>が盛んで、笹かまぼこは仙台名物<a href="https://ja.wikipedia.org/wiki/宮城県#水産業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

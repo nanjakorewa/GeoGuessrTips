@@ -16,15 +16,12 @@ mapPins:
   - { lat: 36.937, lng: 138.852, label: "湯沢", type: "nature", note: "スキーリゾート・温泉地" }
   - { lat: 37.148, lng: 138.249, label: "上越市(高田)", type: "city", note: "桜の名所" }
   - { lat: 37.446, lng: 138.851, label: "長岡", type: "city", note: "長岡花火で有名" }
+features:
+  - text: '米の産出額は全国1位で、<span class="quiz">コシヒカリ</span>の最大産地'
+    ref: "https://ja.wikipedia.org/wiki/新潟県#農業"
+  - text: '燕三条地域は<span class="quiz">金属洋食器・刃物</span>の一大産地で、金属洋食器の国内シェア約9割'
+    ref: "https://ja.wikipedia.org/wiki/燕市#金属洋食器"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>米の産出額は全国1位で、<span class="quiz">コシヒカリ</span>の最大産地<a href="https://ja.wikipedia.org/wiki/新潟県#農業" target="_blank"><sup>[参]</sup></a></li>
-        <li>燕三条地域は<span class="quiz">金属洋食器・刃物</span>の一大産地で、金属洋食器の国内シェア約9割<a href="https://ja.wikipedia.org/wiki/燕市#金属洋食器" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

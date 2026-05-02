@@ -17,15 +17,12 @@ mapPins:
   - { lat: 34.408, lng: 131.398, label: "萩", type: "historical", note: "城下町・明治維新の発祥地" }
   - { lat: 34.225, lng: 131.305, label: "秋吉台", type: "nature", note: "日本最大のカルスト台地" }
   - { lat: 34.225, lng: 131.305, label: "秋芳洞", type: "nature", note: "日本最大級の鍾乳洞" }
+features:
+  - text: '周南・下松地区に<span class="quiz">石油化学コンビナート</span>が集積し、工場夜景でも知られる'
+    ref: "https://ja.wikipedia.org/wiki/周南コンビナート"
+  - text: '<span class="quiz">ふぐ</span>（下関ではふくと呼ぶ）の取扱量は下関市が日本一'
+    ref: "https://ja.wikipedia.org/wiki/下関市#水産業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>周南・下松地区に<span class="quiz">石油化学コンビナート</span>が集積し、工場夜景でも知られる<a href="https://ja.wikipedia.org/wiki/周南コンビナート" target="_blank"><sup>[参]</sup></a></li>
-        <li><span class="quiz">ふぐ</span>（下関ではふくと呼ぶ）の取扱量は下関市が日本一<a href="https://ja.wikipedia.org/wiki/下関市#水産業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

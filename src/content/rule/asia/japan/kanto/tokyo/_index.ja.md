@@ -17,15 +17,12 @@ mapPins:
   - { lat: 35.715, lng: 139.797, label: "浅草寺", type: "historical", note: "都内最古の寺・観光名所" }
   - { lat: 35.762, lng: 139.731, label: "池袋駅", type: "city", note: "副都心・サンシャイン" }
   - { lat: 34.069, lng: 139.527, label: "伊豆諸島(大島)", type: "nature", note: "東京都管轄の島嶼部" }
+features:
+  - text: '日本の首都で人口約1,400万人。日本企業の本社が最も集中する<span class="quiz">経済の中心地</span>'
+    ref: "https://ja.wikipedia.org/wiki/東京都"
+  - text: '大田区は中小の<span class="quiz">町工場</span>が密集する日本有数のものづくりエリア'
+    ref: "https://ja.wikipedia.org/wiki/大田区#工業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>日本の首都で人口約1,400万人。日本企業の本社が最も集中する<span class="quiz">経済の中心地</span><a href="https://ja.wikipedia.org/wiki/東京都" target="_blank"><sup>[参]</sup></a></li>
-        <li>大田区は中小の<span class="quiz">町工場</span>が密集する日本有数のものづくりエリア<a href="https://ja.wikipedia.org/wiki/大田区#工業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

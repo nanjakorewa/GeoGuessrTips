@@ -16,15 +16,12 @@ mapPins:
   - { lat: 35.371, lng: 133.547, label: "大山", type: "nature", note: "中国地方最高峰" }
   - { lat: 35.541, lng: 133.235, label: "境港", type: "port", note: "水木しげるロード" }
   - { lat: 35.398, lng: 133.842, label: "三朝温泉", type: "nature", note: "ラジウム温泉" }
+features:
+  - text: '<span class="quiz">二十世紀梨</span>の生産量は全国1位で、鳥取県を代表する特産品'
+    ref: "https://ja.wikipedia.org/wiki/二十世紀_(ナシ)"
+  - text: '鳥取砂丘周辺では<span class="quiz">らっきょう</span>の栽培が盛んで、砂地を活かした農業が特徴'
+    ref: "https://ja.wikipedia.org/wiki/鳥取県#農林水産業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">二十世紀梨</span>の生産量は全国1位で、鳥取県を代表する特産品<a href="https://ja.wikipedia.org/wiki/二十世紀_(ナシ)" target="_blank"><sup>[参]</sup></a></li>
-        <li>鳥取砂丘周辺では<span class="quiz">らっきょう</span>の栽培が盛んで、砂地を活かした農業が特徴<a href="https://ja.wikipedia.org/wiki/鳥取県#農林水産業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

@@ -16,15 +16,12 @@ mapPins:
   - { lat: 33.668, lng: 135.890, label: "熊野那智大社", type: "historical", note: "熊野三山・世界遺産" }
   - { lat: 33.674, lng: 135.379, label: "白浜温泉", type: "nature", note: "南紀の温泉地" }
   - { lat: 33.450, lng: 135.770, label: "潮岬", type: "nature", note: "本州最南端" }
+features:
+  - text: '<span class="quiz">みかん・梅・柿</span>の生産量がいずれも全国1位の果樹王国'
+    ref: "https://ja.wikipedia.org/wiki/和歌山県#農業"
+  - text: '有田地域は<span class="quiz">有田みかん</span>の産地で、急斜面の段々畑が特徴的な風景'
+    ref: "https://ja.wikipedia.org/wiki/有田みかん"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">みかん・梅・柿</span>の生産量がいずれも全国1位の果樹王国<a href="https://ja.wikipedia.org/wiki/和歌山県#農業" target="_blank"><sup>[参]</sup></a></li>
-        <li>有田地域は<span class="quiz">有田みかん</span>の産地で、急斜面の段々畑が特徴的な風景<a href="https://ja.wikipedia.org/wiki/有田みかん" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

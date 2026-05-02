@@ -20,15 +20,12 @@ mapPins:
   - { lat: 34.391, lng: 132.452, label: "広島平和記念公園", type: "landmark", note: "平和への祈り" }
   - { lat: 34.249, lng: 132.566, label: "呉", type: "port", note: "海軍の街・大和ミュージアム" }
   - { lat: 34.402, lng: 133.196, label: "尾道", type: "city", note: "坂と寺と猫の街" }
+features:
+  - text: '瀬戸内海沿岸に<span class="quiz">造船・自動車・鉄鋼</span>の重工業が集積する工業県'
+    ref: "https://ja.wikipedia.org/wiki/広島県#工業"
+  - text: '呉市は<span class="quiz">造船</span>の街として知られ、戦艦大和を建造した歴史を持つ'
+    ref: "https://ja.wikipedia.org/wiki/呉市#工業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>瀬戸内海沿岸に<span class="quiz">造船・自動車・鉄鋼</span>の重工業が集積する工業県<a href="https://ja.wikipedia.org/wiki/広島県#工業" target="_blank"><sup>[参]</sup></a></li>
-        <li>呉市は<span class="quiz">造船</span>の街として知られ、戦艦大和を建造した歴史を持つ<a href="https://ja.wikipedia.org/wiki/呉市#工業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

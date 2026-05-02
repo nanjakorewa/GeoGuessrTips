@@ -17,15 +17,12 @@ mapPins:
   - { lat: 33.518, lng: 130.535, label: "太宰府天満宮", type: "historical", note: "学問の神様" }
   - { lat: 33.585, lng: 130.450, label: "福岡空港", type: "landmark", note: "市街地に近い空港" }
   - { lat: 33.165, lng: 130.408, label: "柳川", type: "city", note: "水郷の街" }
+features:
+  - text: '九州最大の都市・福岡市を擁し、<span class="quiz">博多</span>は古くからアジアとの交易拠点'
+    ref: "https://ja.wikipedia.org/wiki/福岡市"
+  - text: '北九州市は<span class="quiz">官営八幡製鉄所</span>に始まる鉄鋼業発祥の地で、北九州工業地帯の中核'
+    ref: "https://ja.wikipedia.org/wiki/官営八幡製鉄所"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>九州最大の都市・福岡市を擁し、<span class="quiz">博多</span>は古くからアジアとの交易拠点<a href="https://ja.wikipedia.org/wiki/福岡市" target="_blank"><sup>[参]</sup></a></li>
-        <li>北九州市は<span class="quiz">官営八幡製鉄所</span>に始まる鉄鋼業発祥の地で、北九州工業地帯の中核<a href="https://ja.wikipedia.org/wiki/官営八幡製鉄所" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

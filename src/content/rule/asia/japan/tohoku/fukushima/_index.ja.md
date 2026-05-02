@@ -16,15 +16,12 @@ mapPins:
   - { lat: 37.495, lng: 139.930, label: "会津若松", type: "historical", note: "鶴ヶ城・会津漆器" }
   - { lat: 37.500, lng: 140.107, label: "猪苗代湖", type: "nature", note: "日本第4位の湖" }
   - { lat: 37.640, lng: 140.075, label: "磐梯山", type: "nature", note: "会津の名峰" }
+features:
+  - text: '会津地方は<span class="quiz">漆器・酒造</span>が盛んで、会津塗は400年以上の歴史を持つ伝統工芸'
+    ref: "https://ja.wikipedia.org/wiki/会津塗"
+  - text: 'いわき市周辺は<span class="quiz">化学・製造業</span>の工場が集積する工業地帯'
+    ref: "https://ja.wikipedia.org/wiki/福島県#工業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>会津地方は<span class="quiz">漆器・酒造</span>が盛んで、会津塗は400年以上の歴史を持つ伝統工芸<a href="https://ja.wikipedia.org/wiki/会津塗" target="_blank"><sup>[参]</sup></a></li>
-        <li>いわき市周辺は<span class="quiz">化学・製造業</span>の工場が集積する工業地帯<a href="https://ja.wikipedia.org/wiki/福島県#工業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

@@ -16,15 +16,12 @@ mapPins:
   - { lat: 34.328, lng: 136.829, label: "志摩(英虞湾)", type: "nature", note: "リアス式海岸の景勝地" }
   - { lat: 34.967, lng: 136.625, label: "四日市", type: "city", note: "石油化学コンビナート" }
   - { lat: 34.578, lng: 136.527, label: "松阪", type: "city", note: "松阪牛の産地" }
+features:
+  - text: '四日市市は<span class="quiz">石油化学コンビナート</span>が立地する工業都市'
+    ref: "https://ja.wikipedia.org/wiki/四日市コンビナート"
+  - text: '伊勢志摩地域は<span class="quiz">真珠養殖</span>の発祥地で、ミキモトが御木本幸吉により創業された'
+    ref: "https://ja.wikipedia.org/wiki/ミキモト"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>四日市市は<span class="quiz">石油化学コンビナート</span>が立地する工業都市<a href="https://ja.wikipedia.org/wiki/四日市コンビナート" target="_blank"><sup>[参]</sup></a></li>
-        <li>伊勢志摩地域は<span class="quiz">真珠養殖</span>の発祥地で、ミキモトが御木本幸吉により創業された<a href="https://ja.wikipedia.org/wiki/ミキモト" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

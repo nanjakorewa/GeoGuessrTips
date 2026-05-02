@@ -17,15 +17,12 @@ mapPins:
   - { lat: 34.998, lng: 138.519, label: "三保の松原", type: "landmark", note: "富士山世界遺産構成資産" }
   - { lat: 34.875, lng: 138.946, label: "伊豆半島", type: "nature", note: "温泉地・観光地" }
   - { lat: 34.975, lng: 138.385, label: "駿府城", type: "historical", note: "徳川家康の隠居城" }
+features:
+  - text: '<span class="quiz">茶</span>の生産量が全国1位で、牧之原台地を中心に広大な茶畑が広がる'
+    ref: "https://ja.wikipedia.org/wiki/静岡県#農業"
+  - text: '浜松市は<span class="quiz">楽器</span>（ヤマハ・河合楽器）と<span class="quiz">オートバイ</span>（スズキ・ヤマハ発動機）の一大生産拠点'
+    ref: "https://ja.wikipedia.org/wiki/浜松市#工業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">茶</span>の生産量が全国1位で、牧之原台地を中心に広大な茶畑が広がる<a href="https://ja.wikipedia.org/wiki/静岡県#農業" target="_blank"><sup>[参]</sup></a></li>
-        <li>浜松市は<span class="quiz">楽器</span>（ヤマハ・河合楽器）と<span class="quiz">オートバイ</span>（スズキ・ヤマハ発動機）の一大生産拠点<a href="https://ja.wikipedia.org/wiki/浜松市#工業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

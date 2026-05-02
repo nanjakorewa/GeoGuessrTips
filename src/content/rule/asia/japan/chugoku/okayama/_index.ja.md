@@ -20,15 +20,12 @@ mapPins:
   - { lat: 34.595, lng: 133.770, label: "倉敷美観地区", type: "historical", note: "白壁の街並み" }
   - { lat: 34.241, lng: 133.815, label: "瀬戸大橋", type: "landmark", note: "本州と四国を結ぶ橋" }
   - { lat: 35.069, lng: 134.005, label: "津山", type: "city", note: "城下町" }
+features:
+  - text: '倉敷市水島地区は<span class="quiz">石油化学・鉄鋼・自動車</span>のコンビナートが立地する西日本有数の工業地帯'
+    ref: "https://ja.wikipedia.org/wiki/水島コンビナート"
+  - text: '備前市は<span class="quiz">備前焼</span>の産地で、釉薬を使わない素朴な焼き物として千年以上の歴史を持つ'
+    ref: "https://ja.wikipedia.org/wiki/備前焼"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>倉敷市水島地区は<span class="quiz">石油化学・鉄鋼・自動車</span>のコンビナートが立地する西日本有数の工業地帯<a href="https://ja.wikipedia.org/wiki/水島コンビナート" target="_blank"><sup>[参]</sup></a></li>
-        <li>備前市は<span class="quiz">備前焼</span>の産地で、釉薬を使わない素朴な焼き物として千年以上の歴史を持つ<a href="https://ja.wikipedia.org/wiki/備前焼" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

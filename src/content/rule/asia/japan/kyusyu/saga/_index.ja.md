@@ -19,15 +19,12 @@ mapPins:
   - { lat: 33.205, lng: 129.916, label: "有田", type: "historical", note: "有田焼の産地" }
   - { lat: 33.265, lng: 129.881, label: "伊万里", type: "city", note: "伊万里焼の街" }
   - { lat: 33.106, lng: 130.044, label: "嬉野温泉", type: "nature", note: "美肌の湯" }
+features:
+  - text: '<span class="quiz">有田焼・伊万里焼</span>は日本を代表する磁器で、400年以上の歴史を持つ伝統産業'
+    ref: "https://ja.wikipedia.org/wiki/有田焼"
+  - text: '佐賀平野は<span class="quiz">米作</span>が盛んで、クリークと呼ばれる水路網が特徴的な景観'
+    ref: "https://ja.wikipedia.org/wiki/佐賀県#農業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">有田焼・伊万里焼</span>は日本を代表する磁器で、400年以上の歴史を持つ伝統産業<a href="https://ja.wikipedia.org/wiki/有田焼" target="_blank"><sup>[参]</sup></a></li>
-        <li>佐賀平野は<span class="quiz">米作</span>が盛んで、クリークと呼ばれる水路網が特徴的な景観<a href="https://ja.wikipedia.org/wiki/佐賀県#農業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

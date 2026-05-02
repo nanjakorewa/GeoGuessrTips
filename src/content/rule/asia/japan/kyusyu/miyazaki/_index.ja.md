@@ -16,15 +16,12 @@ mapPins:
   - { lat: 32.711, lng: 131.310, label: "高千穂峡", type: "nature", note: "神話の里・渓谷美" }
   - { lat: 31.934, lng: 130.860, label: "霧島連山(韓国岳)", type: "nature", note: "鹿児島県境の火山群" }
   - { lat: 31.660, lng: 131.470, label: "鵜戸神宮", type: "historical", note: "海岸洞窟の神社" }
+features:
+  - text: '<span class="quiz">畜産業</span>が盛んで、宮崎牛・地鶏・豚の生産額はいずれも全国トップクラス'
+    ref: "https://ja.wikipedia.org/wiki/宮崎県#農畜産業"
+  - text: '温暖な気候を活かした<span class="quiz">マンゴー・きんかん</span>などの熱帯果樹栽培が特徴'
+    ref: "https://ja.wikipedia.org/wiki/宮崎県#農畜産業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">畜産業</span>が盛んで、宮崎牛・地鶏・豚の生産額はいずれも全国トップクラス<a href="https://ja.wikipedia.org/wiki/宮崎県#農畜産業" target="_blank"><sup>[参]</sup></a></li>
-        <li>温暖な気候を活かした<span class="quiz">マンゴー・きんかん</span>などの熱帯果樹栽培が特徴<a href="https://ja.wikipedia.org/wiki/宮崎県#農畜産業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

@@ -16,15 +16,12 @@ mapPins:
   - { lat: 38.730, lng: 139.825, label: "鶴岡", type: "city", note: "庄内藩城下町" }
   - { lat: 38.567, lng: 140.434, label: "山寺(立石寺)", type: "historical", note: "松尾芭蕉句碑の名刹" }
   - { lat: 38.598, lng: 140.027, label: "月山", type: "nature", note: "出羽三山の一つ" }
+features:
+  - text: '<span class="quiz">さくらんぼ</span>の生産量は全国の約7割を占め、「果樹王国」として知られる'
+    ref: "https://ja.wikipedia.org/wiki/山形県#農業"
+  - text: '天童市は将棋駒の生産量が全国の約9割を占める<span class="quiz">将棋駒の産地</span>'
+    ref: "https://ja.wikipedia.org/wiki/天童市#将棋駒"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">さくらんぼ</span>の生産量は全国の約7割を占め、「果樹王国」として知られる<a href="https://ja.wikipedia.org/wiki/山形県#農業" target="_blank"><sup>[参]</sup></a></li>
-        <li>天童市は将棋駒の生産量が全国の約9割を占める<span class="quiz">将棋駒の産地</span><a href="https://ja.wikipedia.org/wiki/天童市#将棋駒" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

@@ -18,15 +18,12 @@ mapPins:
   - { lat: 34.654, lng: 135.428, label: "海遊館", type: "landmark", note: "天保山・水族館" }
   - { lat: 34.434, lng: 135.244, label: "関西国際空港", type: "landmark", note: "海上空港" }
   - { lat: 34.572, lng: 135.482, label: "堺", type: "city", note: "古墳・刃物の街" }
+features:
+  - text: '西日本最大の経済圏で、<span class="quiz">商業・卸売業</span>の中心地として「天下の台所」の伝統を持つ'
+    ref: "https://ja.wikipedia.org/wiki/大阪府#経済"
+  - text: '堺市を中心とした<span class="quiz">刃物</span>産業は600年以上の歴史を持ち、プロ用包丁の国内シェアは約9割'
+    ref: "https://ja.wikipedia.org/wiki/堺市#工業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>西日本最大の経済圏で、<span class="quiz">商業・卸売業</span>の中心地として「天下の台所」の伝統を持つ<a href="https://ja.wikipedia.org/wiki/大阪府#経済" target="_blank"><sup>[参]</sup></a></li>
-        <li>堺市を中心とした<span class="quiz">刃物</span>産業は600年以上の歴史を持ち、プロ用包丁の国内シェアは約9割<a href="https://ja.wikipedia.org/wiki/堺市#工業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

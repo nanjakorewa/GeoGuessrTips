@@ -16,15 +16,12 @@ mapPins:
   - { lat: 33.250, lng: 132.928, label: "四万十川", type: "nature", note: "日本最後の清流" }
   - { lat: 32.731, lng: 132.985, label: "足摺岬", type: "nature", note: "四国最南端" }
   - { lat: 33.286, lng: 134.176, label: "室戸岬", type: "nature", note: "ジオパーク" }
+features:
+  - text: '<span class="quiz">かつお</span>の一本釣りが盛んで、かつおの消費量は全国1位'
+    ref: "https://ja.wikipedia.org/wiki/高知県#水産業"
+  - text: '温暖な気候を活かした<span class="quiz">促成栽培</span>（なす・ピーマン・みょうが）で全国有数の園芸農業県'
+    ref: "https://ja.wikipedia.org/wiki/高知県#農業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">かつお</span>の一本釣りが盛んで、かつおの消費量は全国1位<a href="https://ja.wikipedia.org/wiki/高知県#水産業" target="_blank"><sup>[参]</sup></a></li>
-        <li>温暖な気候を活かした<span class="quiz">促成栽培</span>（なす・ピーマン・みょうが）で全国有数の園芸農業県<a href="https://ja.wikipedia.org/wiki/高知県#農業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

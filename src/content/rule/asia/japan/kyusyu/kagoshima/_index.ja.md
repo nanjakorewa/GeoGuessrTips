@@ -17,15 +17,12 @@ mapPins:
   - { lat: 30.385, lng: 130.587, label: "屋久島", type: "nature", note: "縄文杉・世界遺産" }
   - { lat: 31.617, lng: 130.555, label: "仙巌園", type: "historical", note: "島津家の別邸" }
   - { lat: 28.378, lng: 129.494, label: "奄美大島", type: "nature", note: "亜熱帯の島・世界遺産" }
+features:
+  - text: '活火山の<span class="quiz">桜島</span>が県のシンボルで、火山灰が日常的に降る地域がある'
+    ref: "https://ja.wikipedia.org/wiki/桜島"
+  - text: '<span class="quiz">茶</span>と<span class="quiz">サツマイモ</span>の生産が盛んで、畜産（黒豚・黒牛）も全国有数'
+    ref: "https://ja.wikipedia.org/wiki/鹿児島県#農業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>活火山の<span class="quiz">桜島</span>が県のシンボルで、火山灰が日常的に降る地域がある<a href="https://ja.wikipedia.org/wiki/桜島" target="_blank"><sup>[参]</sup></a></li>
-        <li><span class="quiz">茶</span>と<span class="quiz">サツマイモ</span>の生産が盛んで、畜産（黒豚・黒牛）も全国有数<a href="https://ja.wikipedia.org/wiki/鹿児島県#農業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

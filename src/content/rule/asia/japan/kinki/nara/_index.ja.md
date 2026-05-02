@@ -16,15 +16,12 @@ mapPins:
   - { lat: 34.614, lng: 135.734, label: "法隆寺", type: "historical", note: "世界最古の木造建築・世界遺産" }
   - { lat: 34.366, lng: 135.852, label: "吉野山", type: "nature", note: "桜の名所・世界遺産" }
   - { lat: 34.681, lng: 135.848, label: "春日大社", type: "historical", note: "世界遺産" }
+features:
+  - text: '<span class="quiz">靴下</span>の生産量は全国の約6割を占め、広陵町・大和高田市が主産地'
+    ref: "https://ja.wikipedia.org/wiki/広陵町#産業"
+  - text: '吉野地方は<span class="quiz">吉野杉・吉野桧</span>の林業が盛んで、500年以上の歴史を持つ'
+    ref: "https://ja.wikipedia.org/wiki/吉野杉"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">靴下</span>の生産量は全国の約6割を占め、広陵町・大和高田市が主産地<a href="https://ja.wikipedia.org/wiki/広陵町#産業" target="_blank"><sup>[参]</sup></a></li>
-        <li>吉野地方は<span class="quiz">吉野杉・吉野桧</span>の林業が盛んで、500年以上の歴史を持つ<a href="https://ja.wikipedia.org/wiki/吉野杉" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

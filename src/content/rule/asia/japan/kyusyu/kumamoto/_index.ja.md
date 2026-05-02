@@ -20,15 +20,12 @@ mapPins:
   - { lat: 32.450, lng: 130.196, label: "天草", type: "nature", note: "島嶼部・キリシタンの歴史" }
   - { lat: 32.211, lng: 130.401, label: "水俣", type: "city", note: "環境再生の街" }
   - { lat: 33.087, lng: 131.140, label: "黒川温泉", type: "nature", note: "山間の温泉郷" }
+features:
+  - text: '<span class="quiz">阿蘇山</span>は世界最大級のカルデラを持つ活火山で、広大な草原が広がる'
+    ref: "https://ja.wikipedia.org/wiki/阿蘇山"
+  - text: 'TSMCの工場進出により<span class="quiz">半導体産業</span>の集積が急速に進んでいる'
+    ref: "https://ja.wikipedia.org/wiki/Japan_Advanced_Semiconductor_Manufacturing"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">阿蘇山</span>は世界最大級のカルデラを持つ活火山で、広大な草原が広がる<a href="https://ja.wikipedia.org/wiki/阿蘇山" target="_blank"><sup>[参]</sup></a></li>
-        <li>TSMCの工場進出により<span class="quiz">半導体産業</span>の集積が急速に進んでいる<a href="https://ja.wikipedia.org/wiki/Japan_Advanced_Semiconductor_Manufacturing" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

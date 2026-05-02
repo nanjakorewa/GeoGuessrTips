@@ -20,15 +20,12 @@ mapPins:
   - { lat: 35.224, lng: 137.087, label: "瀬戸", type: "city", note: "瀬戸焼の産地" }
   - { lat: 34.857, lng: 136.815, label: "中部国際空港", type: "landmark", note: "セントレア" }
   - { lat: 35.388, lng: 136.939, label: "犬山城", type: "historical", note: "国宝・現存天守" }
+features:
+  - text: '<span class="quiz">トヨタ自動車</span>の本社がある豊田市を中心に、製造品出荷額等が全国1位の<span class="quiz">工業県</span>'
+    ref: "https://ja.wikipedia.org/wiki/愛知県#工業"
+  - text: '名古屋市は日本三大都市圏の一つである<span class="quiz">中京圏</span>の中心都市'
+    ref: "https://ja.wikipedia.org/wiki/中京圏"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">トヨタ自動車</span>の本社がある豊田市を中心に、製造品出荷額等が全国1位の<span class="quiz">工業県</span><a href="https://ja.wikipedia.org/wiki/愛知県#工業" target="_blank"><sup>[参]</sup></a></li>
-        <li>名古屋市は日本三大都市圏の一つである<span class="quiz">中京圏</span>の中心都市<a href="https://ja.wikipedia.org/wiki/中京圏" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

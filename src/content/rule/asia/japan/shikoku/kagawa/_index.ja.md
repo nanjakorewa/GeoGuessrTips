@@ -17,15 +17,12 @@ mapPins:
   - { lat: 34.241, lng: 133.815, label: "瀬戸大橋", type: "landmark", note: "本州と四国を結ぶ橋" }
   - { lat: 34.476, lng: 134.226, label: "小豆島", type: "nature", note: "瀬戸内海の島・オリーブ" }
   - { lat: 34.286, lng: 133.798, label: "丸亀城", type: "historical", note: "現存天守" }
+features:
+  - text: '「<span class="quiz">うどん県</span>」を自称するほど讃岐うどんの文化が根付き、うどん店の密度は日本一'
+    ref: "https://ja.wikipedia.org/wiki/讃岐うどん"
+  - text: '日本で最も面積が小さい都道府県で、<span class="quiz">ため池</span>の密度が全国最高'
+    ref: "https://ja.wikipedia.org/wiki/香川県#地理"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>「<span class="quiz">うどん県</span>」を自称するほど讃岐うどんの文化が根付き、うどん店の密度は日本一<a href="https://ja.wikipedia.org/wiki/讃岐うどん" target="_blank"><sup>[参]</sup></a></li>
-        <li>日本で最も面積が小さい都道府県で、<span class="quiz">ため池</span>の密度が全国最高<a href="https://ja.wikipedia.org/wiki/香川県#地理" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

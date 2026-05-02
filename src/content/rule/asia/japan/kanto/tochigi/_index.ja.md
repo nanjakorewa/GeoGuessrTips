@@ -16,15 +16,12 @@ mapPins:
   - { lat: 36.379, lng: 139.737, label: "栃木市", type: "historical", note: "蔵の街" }
   - { lat: 37.001, lng: 139.978, label: "那須高原", type: "nature", note: "高原リゾート" }
   - { lat: 36.314, lng: 139.578, label: "佐野", type: "city", note: "佐野ラーメンの街" }
+features:
+  - text: '<span class="quiz">いちご</span>の生産量が54年連続日本一で、「とちおとめ」「とちあいか」が主力品種'
+    ref: "https://ja.wikipedia.org/wiki/栃木県#農業"
+  - text: '宇都宮市は<span class="quiz">餃子</span>の街として知られ、市内に多数の餃子専門店がある'
+    ref: "https://ja.wikipedia.org/wiki/宇都宮餃子"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">いちご</span>の生産量が54年連続日本一で、「とちおとめ」「とちあいか」が主力品種<a href="https://ja.wikipedia.org/wiki/栃木県#農業" target="_blank"><sup>[参]</sup></a></li>
-        <li>宇都宮市は<span class="quiz">餃子</span>の街として知られ、市内に多数の餃子専門店がある<a href="https://ja.wikipedia.org/wiki/宇都宮餃子" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

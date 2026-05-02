@@ -17,15 +17,12 @@ mapPins:
   - { lat: 41.236, lng: 140.348, label: "大間崎", type: "landmark", note: "本州最北端・マグロの街" }
   - { lat: 40.652, lng: 140.882, label: "八甲田山", type: "nature", note: "火山群・スキーリゾート" }
   - { lat: 40.464, lng: 140.882, label: "十和田湖", type: "nature", note: "カルデラ湖・景勝地" }
+features:
+  - text: '<span class="quiz">りんご</span>の生産量は全国1位で、全国の約6割を占める'
+    ref: "https://ja.wikipedia.org/wiki/青森県#農業"
+  - text: '本州最北端に位置し、<span class="quiz">津軽海峡</span>を挟んで北海道と向かい合う'
+    ref: "https://ja.wikipedia.org/wiki/青森県"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">りんご</span>の生産量は全国1位で、全国の約6割を占める<a href="https://ja.wikipedia.org/wiki/青森県#農業" target="_blank"><sup>[参]</sup></a></li>
-        <li>本州最北端に位置し、<span class="quiz">津軽海峡</span>を挟んで北海道と向かい合う<a href="https://ja.wikipedia.org/wiki/青森県" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

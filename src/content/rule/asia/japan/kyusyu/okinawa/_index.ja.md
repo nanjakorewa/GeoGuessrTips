@@ -18,15 +18,12 @@ mapPins:
   - { lat: 24.339, lng: 124.156, label: "石垣島", type: "nature", note: "八重山諸島の中心" }
   - { lat: 24.812, lng: 125.281, label: "宮古島", type: "nature", note: "美しいビーチ" }
   - { lat: 26.870, lng: 128.265, label: "辺戸岬", type: "nature", note: "沖縄本島最北端" }
+features:
+  - text: '亜熱帯気候に属し、<span class="quiz">サンゴ礁</span>の海に囲まれた日本最南端の県'
+    ref: "https://ja.wikipedia.org/wiki/沖縄県"
+  - text: '1972年までアメリカ統治下にあった歴史から、<span class="quiz">米軍基地</span>が多数存在する'
+    ref: "https://ja.wikipedia.org/wiki/沖縄県#米軍基地"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>亜熱帯気候に属し、<span class="quiz">サンゴ礁</span>の海に囲まれた日本最南端の県<a href="https://ja.wikipedia.org/wiki/沖縄県" target="_blank"><sup>[参]</sup></a></li>
-        <li>1972年までアメリカ統治下にあった歴史から、<span class="quiz">米軍基地</span>が多数存在する<a href="https://ja.wikipedia.org/wiki/沖縄県#米軍基地" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

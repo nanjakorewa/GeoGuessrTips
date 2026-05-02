@@ -19,15 +19,12 @@ mapPins:
   - { lat: 33.598, lng: 131.188, label: "中津", type: "historical", note: "中津城・福沢諭吉の街" }
   - { lat: 33.526, lng: 131.375, label: "宇佐神宮", type: "historical", note: "全国八幡宮の総本宮" }
   - { lat: 32.957, lng: 131.899, label: "佐伯", type: "port", note: "リアス式海岸の港町" }
+features:
+  - text: '別府・湯布院を中心に<span class="quiz">温泉</span>の源泉数・湧出量ともに日本一'
+    ref: "https://ja.wikipedia.org/wiki/大分県#温泉"
+  - text: '大分市の臨海工業地帯には<span class="quiz">鉄鋼・石油化学</span>のコンビナートが立地し、「新産業都市」として発展'
+    ref: "https://ja.wikipedia.org/wiki/大分県#工業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>別府・湯布院を中心に<span class="quiz">温泉</span>の源泉数・湧出量ともに日本一<a href="https://ja.wikipedia.org/wiki/大分県#温泉" target="_blank"><sup>[参]</sup></a></li>
-        <li>大分市の臨海工業地帯には<span class="quiz">鉄鋼・石油化学</span>のコンビナートが立地し、「新産業都市」として発展<a href="https://ja.wikipedia.org/wiki/大分県#工業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

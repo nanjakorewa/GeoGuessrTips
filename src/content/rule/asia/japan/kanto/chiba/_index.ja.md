@@ -21,15 +21,12 @@ mapPins:
   - { lat: 34.997, lng: 139.844, label: "館山", type: "city", note: "南房総の港町" }
   - { lat: 35.735, lng: 140.827, label: "銚子", type: "port", note: "本州最東端・醤油の街" }
   - { lat: 35.376, lng: 139.917, label: "木更津", type: "city", note: "アクアライン東岸" }
+features:
+  - text: '成田国際空港があり、日本の<span class="quiz">空の玄関口</span>として国際物流の要'
+    ref: "https://ja.wikipedia.org/wiki/成田国際空港"
+  - text: '<span class="quiz">落花生</span>の生産量が全国1位で、全国の約8割を占める'
+    ref: "https://ja.wikipedia.org/wiki/千葉県#農業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>成田国際空港があり、日本の<span class="quiz">空の玄関口</span>として国際物流の要<a href="https://ja.wikipedia.org/wiki/成田国際空港" target="_blank"><sup>[参]</sup></a></li>
-        <li><span class="quiz">落花生</span>の生産量が全国1位で、全国の約8割を占める<a href="https://ja.wikipedia.org/wiki/千葉県#農業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

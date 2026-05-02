@@ -16,15 +16,12 @@ mapPins:
   - { lat: 36.493, lng: 138.910, label: "伊香保温泉", type: "nature", note: "歴史ある温泉地" }
   - { lat: 36.255, lng: 138.892, label: "富岡製糸場", type: "historical", note: "世界遺産・近代化産業遺産" }
   - { lat: 36.927, lng: 139.295, label: "尾瀬", type: "nature", note: "高層湿原・国立公園" }
+features:
+  - text: '自動車産業が盛んで、<span class="quiz">SUBARU</span>（旧・富士重工業）の発祥地かつ主力工場所在地'
+    ref: "https://ja.wikipedia.org/wiki/群馬県#工業"
+  - text: '<span class="quiz">こんにゃく</span>の生産量は全国の約9割を占める'
+    ref: "https://ja.wikipedia.org/wiki/群馬県#農業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>自動車産業が盛んで、<span class="quiz">SUBARU</span>（旧・富士重工業）の発祥地かつ主力工場所在地<a href="https://ja.wikipedia.org/wiki/群馬県#工業" target="_blank"><sup>[参]</sup></a></li>
-        <li><span class="quiz">こんにゃく</span>の生産量は全国の約9割を占める<a href="https://ja.wikipedia.org/wiki/群馬県#農業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

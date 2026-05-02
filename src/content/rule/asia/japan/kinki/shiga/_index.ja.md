@@ -16,15 +16,12 @@ mapPins:
   - { lat: 35.382, lng: 136.282, label: "長浜", type: "historical", note: "湖北の城下町" }
   - { lat: 35.071, lng: 135.840, label: "比叡山延暦寺", type: "historical", note: "天台宗総本山・世界遺産" }
   - { lat: 35.128, lng: 136.098, label: "近江八幡", type: "historical", note: "近江商人の街" }
+features:
+  - text: '琵琶湖を中心とした県で、湖東・湖南地域に<span class="quiz">製造業</span>の工場が集積'
+    ref: "https://ja.wikipedia.org/wiki/滋賀県#工業"
+  - text: '信楽町は<span class="quiz">信楽焼</span>（たぬきの置物で有名）の産地'
+    ref: "https://ja.wikipedia.org/wiki/信楽焼"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>琵琶湖を中心とした県で、湖東・湖南地域に<span class="quiz">製造業</span>の工場が集積<a href="https://ja.wikipedia.org/wiki/滋賀県#工業" target="_blank"><sup>[参]</sup></a></li>
-        <li>信楽町は<span class="quiz">信楽焼</span>（たぬきの置物で有名）の産地<a href="https://ja.wikipedia.org/wiki/信楽焼" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

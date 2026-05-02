@@ -16,15 +16,12 @@ mapPins:
   - { lat: 35.107, lng: 132.437, label: "石見銀山", type: "historical", note: "世界遺産" }
   - { lat: 36.175, lng: 133.088, label: "隠岐諸島", type: "nature", note: "離島・ジオパーク" }
   - { lat: 35.462, lng: 133.066, label: "宍道湖", type: "nature", note: "シジミの産地" }
+features:
+  - text: '石見地方は<span class="quiz">石州瓦</span>の産地で、赤褐色の瓦屋根が特徴的な景観を形成'
+    ref: "https://ja.wikipedia.org/wiki/石州瓦"
+  - text: '安来市は<span class="quiz">特殊鋼（安来鋼）</span>の産地で、日本刀の原料「玉鋼」の製造技術を今に伝える'
+    ref: "https://ja.wikipedia.org/wiki/安来鋼"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>石見地方は<span class="quiz">石州瓦</span>の産地で、赤褐色の瓦屋根が特徴的な景観を形成<a href="https://ja.wikipedia.org/wiki/石州瓦" target="_blank"><sup>[参]</sup></a></li>
-        <li>安来市は<span class="quiz">特殊鋼（安来鋼）</span>の産地で、日本刀の原料「玉鋼」の製造技術を今に伝える<a href="https://ja.wikipedia.org/wiki/安来鋼" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

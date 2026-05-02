@@ -20,15 +20,12 @@ mapPins:
   - { lat: 36.314, lng: 140.575, label: "大洗", type: "port", note: "海浜リゾート" }
   - { lat: 36.787, lng: 140.477, label: "袋田の滝", type: "nature", note: "日本三名瀑の一つ" }
   - { lat: 35.948, lng: 140.654, label: "鹿島臨海工業地帯", type: "city", note: "重化学工業の集積地" }
+features:
+  - text: '日立市は<span class="quiz">日立製作所</span>の創業地で、電機・重工業の企業城下町'
+    ref: "https://ja.wikipedia.org/wiki/日立市#工業"
+  - text: '鹿島臨海工業地帯は<span class="quiz">石油化学・鉄鋼</span>のコンビナートが立地'
+    ref: "https://ja.wikipedia.org/wiki/鹿島臨海工業地帯"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>日立市は<span class="quiz">日立製作所</span>の創業地で、電機・重工業の企業城下町<a href="https://ja.wikipedia.org/wiki/日立市#工業" target="_blank"><sup>[参]</sup></a></li>
-        <li>鹿島臨海工業地帯は<span class="quiz">石油化学・鉄鋼</span>のコンビナートが立地<a href="https://ja.wikipedia.org/wiki/鹿島臨海工業地帯" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

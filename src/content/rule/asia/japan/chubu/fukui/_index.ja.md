@@ -16,15 +16,12 @@ mapPins:
   - { lat: 35.645, lng: 136.069, label: "敦賀", type: "port", note: "日本海側の重要港湾" }
   - { lat: 35.620, lng: 135.776, label: "若狭湾", type: "nature", note: "リアス式海岸" }
   - { lat: 36.060, lng: 136.500, label: "勝山(恐竜博物館)", type: "landmark", note: "福井県立恐竜博物館" }
+features:
+  - text: '鯖江市は<span class="quiz">眼鏡フレーム</span>の国内生産シェア約96%を誇る一大産地'
+    ref: "https://ja.wikipedia.org/wiki/鯖江市#眼鏡産業"
+  - text: '越前市は<span class="quiz">越前和紙</span>の産地で、1500年の歴史を持つ伝統工芸'
+    ref: "https://ja.wikipedia.org/wiki/越前和紙"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>鯖江市は<span class="quiz">眼鏡フレーム</span>の国内生産シェア約96%を誇る一大産地<a href="https://ja.wikipedia.org/wiki/鯖江市#眼鏡産業" target="_blank"><sup>[参]</sup></a></li>
-        <li>越前市は<span class="quiz">越前和紙</span>の産地で、1500年の歴史を持つ伝統工芸<a href="https://ja.wikipedia.org/wiki/越前和紙" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

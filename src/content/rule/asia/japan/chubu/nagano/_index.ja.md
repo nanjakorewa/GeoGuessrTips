@@ -16,15 +16,12 @@ mapPins:
   - { lat: 36.350, lng: 138.585, label: "軽井沢", type: "city", note: "高原リゾート" }
   - { lat: 36.250, lng: 137.756, label: "上高地", type: "nature", note: "北アルプスの景勝地" }
   - { lat: 36.043, lng: 138.087, label: "諏訪湖", type: "nature", note: "諏訪大社・花火大会" }
+features:
+  - text: '諏訪湖周辺は「<span class="quiz">東洋のスイス</span>」と呼ばれ、精密機器・時計産業が集積'
+    ref: "https://ja.wikipedia.org/wiki/諏訪地域#精密機器産業"
+  - text: '<span class="quiz">味噌</span>の生産量は全国1位で、信州味噌は全国シェア約5割'
+    ref: "https://ja.wikipedia.org/wiki/信州味噌"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>諏訪湖周辺は「<span class="quiz">東洋のスイス</span>」と呼ばれ、精密機器・時計産業が集積<a href="https://ja.wikipedia.org/wiki/諏訪地域#精密機器産業" target="_blank"><sup>[参]</sup></a></li>
-        <li><span class="quiz">味噌</span>の生産量は全国1位で、信州味噌は全国シェア約5割<a href="https://ja.wikipedia.org/wiki/信州味噌" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

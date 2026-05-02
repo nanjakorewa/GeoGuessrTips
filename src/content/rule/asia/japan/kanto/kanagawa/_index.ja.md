@@ -17,15 +17,12 @@ mapPins:
   - { lat: 35.532, lng: 139.701, label: "川崎駅", type: "city", note: "工業都市・京浜工業地帯" }
   - { lat: 35.270, lng: 139.073, label: "箱根", type: "nature", note: "温泉・国立公園" }
   - { lat: 35.299, lng: 139.483, label: "江ノ島", type: "landmark", note: "湘南の名所" }
+features:
+  - text: '<span class="quiz">横浜港</span>は幕末の開港以来、日本を代表する国際貿易港'
+    ref: "https://ja.wikipedia.org/wiki/横浜港"
+  - text: '京浜工業地帯の中核を担い、自動車・石油化学などの<span class="quiz">重工業</span>が集積'
+    ref: "https://ja.wikipedia.org/wiki/京浜工業地帯"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">横浜港</span>は幕末の開港以来、日本を代表する国際貿易港<a href="https://ja.wikipedia.org/wiki/横浜港" target="_blank"><sup>[参]</sup></a></li>
-        <li>京浜工業地帯の中核を担い、自動車・石油化学などの<span class="quiz">重工業</span>が集積<a href="https://ja.wikipedia.org/wiki/京浜工業地帯" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

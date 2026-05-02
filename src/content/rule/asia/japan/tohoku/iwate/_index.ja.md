@@ -16,15 +16,12 @@ mapPins:
   - { lat: 39.288, lng: 141.901, label: "宮古", type: "port", note: "三陸海岸の港町" }
   - { lat: 39.529, lng: 141.960, label: "浄土ヶ浜", type: "nature", note: "三陸復興国立公園・景勝地" }
   - { lat: 39.000, lng: 141.117, label: "中尊寺", type: "historical", note: "平泉・世界遺産" }
+features:
+  - text: '南部鉄器に代表される<span class="quiz">鋳物産業</span>が盛んで、奥州市水沢区は日本有数の鋳物の街'
+    ref: "https://ja.wikipedia.org/wiki/南部鉄器"
+  - text: '三陸海岸沿いは<span class="quiz">水産加工業</span>が集積し、わかめ養殖は全国1位'
+    ref: "https://ja.wikipedia.org/wiki/岩手県#水産業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li>南部鉄器に代表される<span class="quiz">鋳物産業</span>が盛んで、奥州市水沢区は日本有数の鋳物の街<a href="https://ja.wikipedia.org/wiki/南部鉄器" target="_blank"><sup>[参]</sup></a></li>
-        <li>三陸海岸沿いは<span class="quiz">水産加工業</span>が集積し、わかめ養殖は全国1位<a href="https://ja.wikipedia.org/wiki/岩手県#水産業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

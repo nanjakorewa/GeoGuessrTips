@@ -21,15 +21,12 @@ mapPins:
   - { lat: 34.066, lng: 132.998, label: "今治", type: "city", note: "タオル産業・しまなみ海道" }
   - { lat: 33.231, lng: 132.560, label: "宇和島", type: "city", note: "南予の中心" }
   - { lat: 34.253, lng: 133.021, label: "しまなみ海道", type: "landmark", note: "本州と四国を結ぶ橋群" }
+features:
+  - text: '<span class="quiz">みかん</span>の生産量は全国トップクラスで、宇和島・八幡浜地域が主産地'
+    ref: "https://ja.wikipedia.org/wiki/愛媛県#農業"
+  - text: '四国中央市は<span class="quiz">紙・パルプ</span>産業の集積地で、紙製品出荷額は全国トップクラス'
+    ref: "https://ja.wikipedia.org/wiki/四国中央市#産業"
 ---
-
-<div class="pref-tips">
-    <div class="pref-tips-title">県の特徴</div>
-    <ul>
-        <li><span class="quiz">みかん</span>の生産量は全国トップクラスで、宇和島・八幡浜地域が主産地<a href="https://ja.wikipedia.org/wiki/愛媛県#農業" target="_blank"><sup>[参]</sup></a></li>
-        <li>四国中央市は<span class="quiz">紙・パルプ</span>産業の集積地で、紙製品出荷額は全国トップクラス<a href="https://ja.wikipedia.org/wiki/四国中央市#産業" target="_blank"><sup>[参]</sup></a></li>
-    </ul>
-</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

@@ -540,6 +540,39 @@ const lastmodDisplay = modifiedTime
     .article-surface--osm-hero {
       padding-top: 1.25rem;
     }
+
+    /* ヒーロー左カラムの「県の特徴 / 国の特徴」 */
+    .rule-hero-features {
+      color: rgba(255, 255, 255, 0.85);
+      font-size: 0.82rem;
+      line-height: 1.7;
+    }
+    .rule-hero-features__title {
+      font-weight: 600;
+      color: rgba(255, 255, 255, 0.55);
+      font-size: 0.72rem;
+      margin-bottom: 4px;
+      letter-spacing: 0.05em;
+    }
+    .rule-hero-features__list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .rule-hero-features__list li {
+      margin: 4px 0;
+    }
+    .rule-hero-features .quiz {
+      color: #ffd082;
+      font-weight: 700;
+    }
+    .rule-hero-features a {
+      color: rgba(255, 255, 255, 0.55);
+      text-decoration: none;
+    }
+    .rule-hero-features a:hover {
+      color: #ffd082;
+    }
     /* ギャラリー直後の section の上余白を圧縮 */
     .single.single--osm-hero {
       padding-top: 1.25rem !important;
@@ -585,6 +618,22 @@ const lastmodDisplay = modifiedTime
                 loading="eager"
                 decoding="async"
               />
+            </div>
+          )}
+          {/* 「県の特徴 / 国の特徴」 — frontmatter の features をヒーロー側で直接描画 */}
+          {data.features && data.features.length > 0 && (
+            <div class="rule-hero-features">
+              <div class="rule-hero-features__title">
+                {data.is_pref ? "県の特徴" : t("country-features", lang)}
+              </div>
+              <ul class="rule-hero-features__list">
+                {data.features.map((f: { text: string; ref?: string }) => (
+                  <li>
+                    <Fragment set:html={f.text} />
+                    {f.ref && <a href={f.ref} target="_blank" rel="noopener"><sup>[参]</sup></a>}
+                  </li>
+                ))}
+              </ul>
             </div>
           )}
           {data.sc && (
