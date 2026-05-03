@@ -80,10 +80,29 @@ function getLanguageFromVFile(vfile: VFile): Language {
 }
 
 /**
+ * Returns the page's slug under src/content/rule/, e.g. "asia/japan/tohoku/aomori".
+ * Returns null for non-rule files or if the path can't be parsed.
+ */
+function getRuleSlugFromVFile(vfile: VFile): string | null {
+  const filePath =
+    (vfile as any).path || (vfile as any).history?.[0] || "";
+  if (!filePath) return null;
+  const normalized = filePath.replace(/\\/g, "/");
+  const match = normalized.match(
+    /src\/content\/rule\/(.+)\/_index\.[a-z]+\.md$/
+  );
+  return match ? match[1] : null;
+}
+
+/**
  * Process all shortcodes in a text string.
  * Order matters: inner shortcodes must be processed before outer ones.
  */
-function processAllShortcodes(text: string, lang: Language): string {
+function processAllShortcodes(
+  text: string,
+  lang: Language,
+  ruleSlug: string | null
+): string {
   let result = text;
 
   // Reset per-page state
@@ -151,13 +170,24 @@ function processAllShortcodes(text: string, lang: Language): string {
   // move the logo grid into that section instead of rendering it inline in
   // "国・地域の見分け方". The section already has its own heading, so drop
   // the redundant heading + "詳細" button and inject only the logos div.
+  //
+  // If no explicit {{% corp %}} shortcode is present but the page has a
+  // corp/ directory next to it, auto-derive area from the page's own slug.
+  // This lets non-Japanese pages (which often omit the shortcode) display
+  // logos automatically as long as the corp/ directory exists.
   const hasCorpDesc = /<div\b[^>]*\bid=["']corp-desc["']/.test(result);
   if (hasCorpDesc) {
     let movedCorpLogos = "";
     result = processInlineShortcode(result, "corp", (args) => {
-      movedCorpLogos += corpLogosOnlyHandler(args, lang);
+      movedCorpLogos += corpLogosOnlyHandler(args);
       return "";
     });
+    if (!movedCorpLogos && ruleSlug) {
+      // No explicit shortcode → try auto-detection from the page's own path.
+      // corpLogosOnlyHandler returns "" if the corp/ directory doesn't exist,
+      // so this is a no-op for pages without logos.
+      movedCorpLogos = corpLogosOnlyHandler([ruleSlug, ""]);
+    }
     if (movedCorpLogos) {
       // Inject right after the section's <h4> heading (before the table).
       // Falls back to injecting just inside the opening div if no h4 follows.
@@ -221,7 +251,8 @@ const remarkHugoShortcodes: Plugin<[], Root> = function () {
   if (typeof originalParser === "function") {
     self.parser = function (doc: string, file: VFile) {
       const lang = getLanguageFromVFile(file);
-      const processed = processAllShortcodes(doc, lang);
+      const ruleSlug = getRuleSlugFromVFile(file);
+      const processed = processAllShortcodes(doc, lang, ruleSlug);
       return originalParser.call(this, processed, file);
     };
   }

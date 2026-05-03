@@ -157,8 +157,7 @@ export function speakerdeckHandler(args: string[]): string {
 function buildCorpLogosHtml(
   area: string,
   region: string,
-  size: string,
-  lang: Language
+  size: string
 ): string {
   const dirPath = path.resolve("src/content/rule", area, region, "corp");
   if (!fs.existsSync(dirPath)) return "";
@@ -168,14 +167,11 @@ function buildCorpLogosHtml(
   );
   if (files.length === 0) return "";
 
+  // Use a relative src for all languages; remark-absolute-images rewrites
+  // `./corp/...` to the page-absolute path `/rule/{area}/{region}/corp/...`,
+  // which works on every language prefix (e.g. /rule/, /en/rule/, ...).
   const images = files
-    .map((f) => {
-      const src =
-        lang === "ja"
-          ? `./corp/${f}`
-          : `https://geopinning.space/rule/${area}/${region}/corp/${f}`;
-      return `<img src="${src}" class="${size}"/>`;
-    })
+    .map((f) => `<img src="./corp/${f}" class="${size}"/>`)
     .join("\n");
 
   return `<div class="sign-area sign-area-corp">\n${images}\n</div>`;
@@ -187,7 +183,7 @@ export function corpHandler(args: string[], lang: Language): string {
   const region = args[1] || "";
   const size = args[2] || "normal";
 
-  const logos = buildCorpLogosHtml(area, region, size, lang);
+  const logos = buildCorpLogosHtml(area, region, size);
   if (!logos) return "";
 
   const heading = t("findable-corp-sign", lang);
@@ -196,11 +192,11 @@ export function corpHandler(args: string[], lang: Language): string {
 }
 
 /** Logos-only variant: returns just the sign-area div, used when injecting into corp-desc. */
-export function corpLogosOnlyHandler(args: string[], lang: Language): string {
+export function corpLogosOnlyHandler(args: string[]): string {
   const area = args[0] || "";
   const region = args[1] || "";
   const size = args[2] || "normal";
-  return buildCorpLogosHtml(area, region, size, lang);
+  return buildCorpLogosHtml(area, region, size);
 }
 
 /** amazoncard: {{% amazoncard url="..." title="..." image="..." price="..." tagline="..." badge="..." %}} */
