@@ -5,15 +5,32 @@
  * This prevents Astro from trying to import images as assets
  * and instead lets them be served from public/.
  *
- * Example:
- *   File: src/content/rule/asia/vietnam/_index.ja.md
- *   Input:  ![](./image.png) or ![](image.png)
- *   Output: ![](/rule/asia/vietnam/image.png)
+ * Handles both:
+ *   A) mdast image nodes:   ![](image.png)  ->  ![](/rule/asia/vietnum/image.png)
+ *   B) raw HTML <img src>:  <img src="image.png">  ->  <img src="/rule/asia/vietnum/image.png">
+ *
+ * (B) is required for non-default-language pages (e.g. /en/rule/...) where the
+ * page URL prefix no longer matches the public/ directory layout, so
+ * browser-relative resolution would 404.
  */
-import type { Root, Image } from "mdast";
+import type { Root, Image, Html } from "mdast";
 import type { Plugin } from "unified";
 import { visit } from "unist-util-visit";
-import path from "node:path";
+
+function isExternalOrAbsolute(url: string): boolean {
+  return (
+    url.startsWith("/") ||
+    url.startsWith("http://") ||
+    url.startsWith("https://") ||
+    url.startsWith("data:") ||
+    url.startsWith("//")
+  );
+}
+
+function toAbsolute(url: string, contentDir: string): string {
+  const cleanUrl = url.replace(/^\.\//, "");
+  return `/${contentDir}/${cleanUrl}`;
+}
 
 const remarkAbsoluteImages: Plugin<[], Root> = () => {
   return (tree, vfile) => {
@@ -30,17 +47,30 @@ const remarkAbsoluteImages: Plugin<[], Root> = () => {
 
     const contentDir = contentMatch[1]; // e.g., "rule/asia/vietnum"
 
-    visit(tree, "image", (node: Image) => {
-      const url = node.url;
-      if (!url) return;
+    visit(tree, (node) => {
+      // --- A) mdast image nodes (markdown `![](...)` syntax) ---
+      if (node.type === "image") {
+        const img = node as Image;
+        const url = img.url;
+        if (!url || isExternalOrAbsolute(url)) return;
+        img.url = toAbsolute(url, contentDir);
+        return;
+      }
 
-      // Skip already absolute paths, URLs, and data URIs
-      if (url.startsWith("/") || url.startsWith("http") || url.startsWith("data:")) return;
+      // --- B) Raw HTML nodes containing <img> tags ---
+      if (node.type === "html") {
+        const htmlNode = node as Html;
+        if (!/<img\s/i.test(htmlNode.value)) return;
 
-      // Convert relative path to absolute
-      // "./image.png" or "image.png" -> "/rule/asia/vietnum/image.png"
-      const cleanUrl = url.replace(/^\.\//, "");
-      node.url = `/${contentDir}/${cleanUrl}`;
+        // Rewrite src="..." and src='...' for each <img> tag.
+        htmlNode.value = htmlNode.value.replace(
+          /(<img\b[^>]*?\bsrc=)(["'])([^"']+)\2/gi,
+          (match, prefix, quote, url) => {
+            if (isExternalOrAbsolute(url)) return match;
+            return `${prefix}${quote}${toAbsolute(url, contentDir)}${quote}`;
+          }
+        );
+      }
     });
   };
 };

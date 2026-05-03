@@ -27,10 +27,25 @@ features:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li></li>
+        <li>りんごを模ったオブジェや看板が多い</li>
     </ul>
     {{% corp "asia/japan" "tohoku/aomori" %}}
 </div>
+
+
+
+{{% tabs %}}
+{{% tab "りんご" %}}
+{{% notice tip %}}
+りんごの生産量日本一。果樹園＋雪国特有の屋根の傾斜がある場合は青森周辺の可能性が高まる。りんごが描かれた看板なども多い{{% ex "https://maps.app.goo.gl/vMiAWejHHfSrVuKX6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="aomori-apple.jpg" width="80%">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
