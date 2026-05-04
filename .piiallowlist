@@ -30,6 +30,10 @@ support@geopinning\.space
 # Allow any sample/dummy content under tests/fixtures/
 ^tests/fixtures/
 
+# Public data file: city/town/village → prefecture mapping for the quiz.
+# Pure data, no PII or credentials despite the .json extension.
+^src/data/municipalities\.json$
+
 # --- Postal codes and 12-digit numbers used in pure data contexts ---------
 # Most stat-card numerics (e.g., production volumes) are 12 digits when grouped
 # with commas removed. Suppress only when clearly tabular numeric prose.
