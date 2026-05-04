@@ -164,7 +164,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
       align-items: center;
       gap: 0.3rem;
       padding: 0.2em 0.7em;
-      border-radius: 20px;
       font-weight: 600;
       font-size: 0.82rem;
     }
@@ -190,7 +189,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
     .quiz-progress-dot {
       width: 8px;
       height: 8px;
-      border-radius: 50%;
       background: var(--border-soft);
       transition: background 0.2s;
     }
@@ -205,7 +203,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
     /* Map area */
     .quiz-map-wrapper {
       position: relative;
-      border-radius: 16px;
       overflow: hidden;
       box-shadow: 0 4px 24px rgba(0,0,0,0.1);
       margin-bottom: 1.5rem;
@@ -251,7 +248,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
     .quiz-image-wrapper {
       position: relative;
       margin-bottom: 1.2rem;
-      border-radius: 14px;
       overflow: hidden;
       box-shadow: 0 2px 12px rgba(0,0,0,0.06);
       border: 1px solid var(--border-soft);
@@ -298,7 +294,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
     .quiz-hint {
       background: rgba(68, 110, 114, 0.06);
       border: 1px solid rgba(68, 110, 114, 0.15);
-      border-radius: 10px;
       padding: 0.7rem 1rem;
       margin-bottom: 1.2rem;
       font-size: 0.9rem;
@@ -325,7 +320,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
       gap: 0.9rem;
       background: var(--surface-color, #fff);
       border: 2px solid var(--border-soft);
-      border-radius: 14px;
       padding: 1rem 1.3rem;
       cursor: pointer;
       transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
@@ -343,7 +337,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
       flex-shrink: 0;
       width: 36px;
       height: 36px;
-      border-radius: 50%;
       background: rgba(68, 110, 114, 0.08);
       display: flex;
       align-items: center;
@@ -375,7 +368,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
       content: "";
       position: absolute;
       inset: 0;
-      border-radius: 14px;
       box-shadow: 0 0 20px 4px rgba(68, 110, 114, 0.35);
       animation: qGlow 1.5s ease-out forwards;
       pointer-events: none;
@@ -452,7 +444,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
     }
     .quiz-explanation-inner {
       background: var(--surface-alt, #f5f3f1);
-      border-radius: 14px;
       padding: 1.5rem;
       margin-top: 0.5rem;
     }
@@ -487,7 +478,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
       align-items: center;
       gap: 0.4rem;
       padding: 0.6rem 1.2rem;
-      border-radius: 10px;
       font-weight: 600;
       font-size: 0.9rem;
       color: var(--primary-color);
@@ -590,7 +580,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
       pointer-events: none;
       width: 10px;
       height: 10px;
-      border-radius: 2px;
     }
     .quiz-ring {
       position: absolute;
@@ -600,7 +589,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
       height: 40px;
       margin-top: -20px;
       margin-left: -20px;
-      border-radius: 50%;
       border: 3px solid var(--primary-color);
       pointer-events: none;
       animation: qRingExpand 0.8s ease-out forwards;
@@ -772,9 +760,7 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
             var drift = (Math.random() - 0.5) * 300;
             var startY = -10 - Math.random() * 40;
             var rotation = Math.floor(Math.random() * 1080);
-            var shape = Math.random();
-            var radius = shape > 0.6 ? '50%' : shape > 0.3 ? '2px' : '0';
-            p.style.cssText = 'left:' + left + '%;top:' + startY + 'px;width:' + size + 'px;height:' + (size * (0.5 + Math.random() * 0.8)) + 'px;background:' + color + ';border-radius:' + radius + ';opacity:1;';
+            p.style.cssText = 'left:' + left + '%;top:' + startY + 'px;width:' + size + 'px;height:' + (size * (0.5 + Math.random() * 0.8)) + 'px;background:' + color + ';opacity:1;';
             document.body.appendChild(p);
             // Animate with JS for more natural movement
             var startTime = performance.now();

@@ -1,0 +1,552 @@
+---
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+import municipalitiesData from "../../data/municipalities.json";
+
+const lang = "ja" as const;
+const site = "https://geopinning.space";
+const pageTitle = "自治体クイズ｜都道府県を当てよう";
+const pageDescription =
+  "ランダムに出題される市町村・特別区がどの都道府県にあるかを当てるクイズ。同名の自治体が複数県にある場合は、すべて選べると正解、一部のみだと△になります。";
+const canonical = `${site}/quiz/municipality/`;
+
+const PREFECTURES: { name: string; region: string }[] = [
+  { name: "北海道", region: "北海道" },
+  { name: "青森県", region: "東北" },
+  { name: "岩手県", region: "東北" },
+  { name: "宮城県", region: "東北" },
+  { name: "秋田県", region: "東北" },
+  { name: "山形県", region: "東北" },
+  { name: "福島県", region: "東北" },
+  { name: "茨城県", region: "関東" },
+  { name: "栃木県", region: "関東" },
+  { name: "群馬県", region: "関東" },
+  { name: "埼玉県", region: "関東" },
+  { name: "千葉県", region: "関東" },
+  { name: "東京都", region: "関東" },
+  { name: "神奈川県", region: "関東" },
+  { name: "新潟県", region: "中部" },
+  { name: "富山県", region: "中部" },
+  { name: "石川県", region: "中部" },
+  { name: "福井県", region: "中部" },
+  { name: "山梨県", region: "中部" },
+  { name: "長野県", region: "中部" },
+  { name: "岐阜県", region: "中部" },
+  { name: "静岡県", region: "中部" },
+  { name: "愛知県", region: "中部" },
+  { name: "三重県", region: "近畿" },
+  { name: "滋賀県", region: "近畿" },
+  { name: "京都府", region: "近畿" },
+  { name: "大阪府", region: "近畿" },
+  { name: "兵庫県", region: "近畿" },
+  { name: "奈良県", region: "近畿" },
+  { name: "和歌山県", region: "近畿" },
+  { name: "鳥取県", region: "中国" },
+  { name: "島根県", region: "中国" },
+  { name: "岡山県", region: "中国" },
+  { name: "広島県", region: "中国" },
+  { name: "山口県", region: "中国" },
+  { name: "徳島県", region: "四国" },
+  { name: "香川県", region: "四国" },
+  { name: "愛媛県", region: "四国" },
+  { name: "高知県", region: "四国" },
+  { name: "福岡県", region: "九州" },
+  { name: "佐賀県", region: "九州" },
+  { name: "長崎県", region: "九州" },
+  { name: "熊本県", region: "九州" },
+  { name: "大分県", region: "九州" },
+  { name: "宮崎県", region: "九州" },
+  { name: "鹿児島県", region: "九州" },
+  { name: "沖縄県", region: "九州" },
+];
+
+const totalEntries = Object.values(municipalitiesData).reduce(
+  (acc, prs: string[]) => acc + prs.length,
+  0,
+);
+
+const REGIONS = ["北海道", "東北", "関東", "中部", "近畿", "中国", "四国", "九州"];
+
+const crumbs = [
+  { name: "トップ", url: "/" },
+  { name: "クイズ", url: "/quiz/" },
+  { name: "自治体クイズ", url: "/quiz/municipality/" },
+];
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <Head
+    title={pageTitle}
+    description={pageDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={`${site}/images/icon-512x512.png`}
+    ogType="website"
+    breadcrumbs={crumbs}
+    collection="quiz"
+  />
+  <style>
+    /* Page chrome adjustments: keep the quiz in one viewport. */
+    /* Sticky-footer flex layout so the footer always sits at the bottom of
+       the viewport when content is shorter than the screen — otherwise the
+       body background shows below the footer as empty space. */
+    html, body { min-height: 100vh; }
+    body {
+      overflow-x: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    body > header { flex: 0 0 auto; }
+    body > main { flex: 1 0 auto; }
+    body > .site-footer,
+    body > footer { flex: 0 0 auto; margin-top: 0; }
+
+    .mq-page {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 0.6rem 0.9rem 0.8rem;
+    }
+
+    /* Header row: title + stats on a single line */
+    .mq-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.8rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.6rem;
+    }
+    .mq-title {
+      font-size: 1.15rem;
+      font-weight: 800;
+      margin: 0;
+      letter-spacing: 0.02em;
+    }
+    .mq-title-sub {
+      font-size: 0.78rem;
+      color: rgba(100,100,100,0.7);
+      margin-left: 0.5rem;
+      font-weight: 500;
+    }
+    .mq-stats {
+      display: flex;
+      gap: 0.4rem;
+      font-size: 0.82rem;
+      flex-wrap: wrap;
+    }
+    .mq-stats span {
+      padding: 0.18em 0.65em;
+      background: rgba(0,0,0,0.05);
+      font-weight: 600;
+    }
+    .mq-stats .mq-correct { background: rgba(74,158,92,0.15); color: #2c6f3c; }
+    .mq-stats .mq-partial { background: rgba(196,154,42,0.18); color: #8a6614; }
+    .mq-stats .mq-wrong { background: rgba(192,57,43,0.13); color: #9a2d24; }
+
+    /* Question + result merged into one card to avoid layout shift */
+    .mq-question {
+      position: relative;
+      text-align: center;
+      padding: 0.7rem 1rem 0.8rem;
+      background: linear-gradient(135deg, rgba(68,110,114,0.10) 0%, rgba(68,110,114,0.04) 100%);
+      border: 1px solid var(--border-soft, #e0e0e0);
+      margin-bottom: 0.6rem;
+      transition: border-color 0.2s, background 0.2s;
+    }
+    .mq-prompt {
+      font-size: 0.78rem;
+      color: rgba(100,100,100,0.8);
+      margin: 0 0 0.15rem;
+    }
+    .mq-name {
+      font-size: 1.85rem;
+      font-weight: 800;
+      letter-spacing: 0.04em;
+      margin: 0;
+      line-height: 1.15;
+    }
+    .mq-result-inline {
+      display: none;
+      margin-top: 0.4rem;
+      font-size: 0.85rem;
+      font-weight: 600;
+      line-height: 1.4;
+    }
+    .mq-result-inline.shown { display: block; }
+    .mq-result-mark {
+      display: inline-block;
+      font-size: 1.2rem;
+      vertical-align: middle;
+      margin-right: 0.3em;
+    }
+    .mq-question[data-r="correct"] {
+      border-color: rgba(74,158,92,0.5);
+      background: linear-gradient(135deg, rgba(74,158,92,0.16) 0%, rgba(74,158,92,0.05) 100%);
+    }
+    .mq-question[data-r="partial"] {
+      border-color: rgba(196,154,42,0.5);
+      background: linear-gradient(135deg, rgba(196,154,42,0.18) 0%, rgba(196,154,42,0.06) 100%);
+    }
+    .mq-question[data-r="wrong"] {
+      border-color: rgba(192,57,43,0.45);
+      background: linear-gradient(135deg, rgba(192,57,43,0.14) 0%, rgba(192,57,43,0.04) 100%);
+    }
+    .mq-question[data-r="correct"] .mq-result-inline { color: #2c6f3c; }
+    .mq-question[data-r="partial"] .mq-result-inline { color: #8a6614; }
+    .mq-question[data-r="wrong"]   .mq-result-inline { color: #9a2d24; }
+
+    /* Prefecture grid: each region is a single flex row with a small label on the left */
+    .mq-region {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      margin-bottom: 0.32rem;
+    }
+    .mq-region-label {
+      flex: 0 0 auto;
+      width: 2.6em;
+      font-size: 0.7rem;
+      color: rgba(100,100,100,0.7);
+      letter-spacing: 0.04em;
+      text-align: center;
+      font-weight: 700;
+    }
+    .mq-prefs {
+      flex: 1 1 auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem;
+    }
+    .mq-pref {
+      flex: 1 1 70px;
+      min-width: 64px;
+      max-width: 110px;
+      padding: 0.4rem 0.2rem;
+      border: 1.5px solid var(--border-soft, #d8d8d8);
+      background: #fff;
+      color: #333;
+      font-size: 0.82rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.12s, border-color 0.12s, color 0.12s, transform 0.08s;
+      user-select: none;
+      text-align: center;
+      line-height: 1.1;
+    }
+    .mq-pref:hover:not(:disabled) {
+      border-color: var(--primary-color, #446e72);
+      transform: translateY(-1px);
+    }
+    .mq-pref.selected {
+      background: var(--primary-color, #446e72);
+      color: #fff;
+      border-color: var(--primary-color, #446e72);
+    }
+    .mq-pref:disabled { cursor: not-allowed; }
+    .mq-pref.reveal-correct {
+      background: rgba(74,158,92,0.85) !important;
+      color: #fff !important;
+      border-color: #3d8b50 !important;
+    }
+    .mq-pref.reveal-missed {
+      background: #fff !important;
+      color: #2c6f3c !important;
+      border-color: #3d8b50 !important;
+      border-style: dashed !important;
+    }
+    .mq-pref.reveal-wrong {
+      background: rgba(192,57,43,0.18) !important;
+      color: #9a2d24 !important;
+      border-color: #c0392b !important;
+      text-decoration: line-through;
+    }
+
+    /* Action bar */
+    .mq-actions {
+      display: flex;
+      gap: 0.5rem;
+      justify-content: center;
+      align-items: center;
+      margin-top: 0.7rem;
+      flex-wrap: wrap;
+    }
+    .mq-btn {
+      padding: 0.5rem 1.2rem;
+      border: none;
+      font-weight: 700;
+      font-size: 0.92rem;
+      cursor: pointer;
+      transition: all 0.12s;
+    }
+    .mq-btn-primary { background: var(--primary-color, #446e72); color: #fff; }
+    .mq-btn-primary:hover:not(:disabled) { filter: brightness(1.08); }
+    .mq-btn-primary:disabled { background: #b9c9ca; cursor: not-allowed; }
+    .mq-btn-secondary { background: #efeae1; color: #333; }
+    .mq-btn-secondary:hover { background: #e3dccd; }
+    .mq-skip {
+      font-size: 0.78rem;
+      color: rgba(100,100,100,0.7);
+      text-decoration: none;
+      cursor: pointer;
+      padding: 0.4rem 0.6rem;
+    }
+    .mq-skip:hover { color: var(--primary-color); text-decoration: underline; }
+
+    /* Dark mode */
+    [data-theme="dark"] .mq-pref { background: #2a2f33; color: #ddd; border-color: #444; }
+    [data-theme="dark"] .mq-pref:hover:not(:disabled) { border-color: #6fa7ac; }
+    [data-theme="dark"] .mq-question { background: linear-gradient(135deg, rgba(110,160,165,0.18) 0%, rgba(110,160,165,0.06) 100%); border-color: #3a4045; }
+    [data-theme="dark"] .mq-stats span { background: rgba(255,255,255,0.06); }
+
+    /* Responsive: shrink further on small screens */
+    @media (max-width: 760px) {
+      .mq-page { padding: 0.5rem 0.6rem; }
+      .mq-name { font-size: 1.55rem; }
+      .mq-pref { font-size: 0.74rem; padding: 0.34rem 0.15rem; min-width: 54px; }
+      .mq-region-label { width: 2.4em; font-size: 0.65rem; }
+      .mq-title-sub { display: none; }
+    }
+    @media (max-width: 460px) {
+      .mq-region { flex-direction: column; align-items: stretch; gap: 0.15rem; margin-bottom: 0.28rem; }
+      .mq-region-label { width: auto; text-align: left; padding-left: 0.2rem; }
+    }
+
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+
+  <main class="mq-page">
+    <div class="mq-bar">
+      <h1 class="mq-title">
+        自治体クイズ
+        <span class="mq-title-sub">市・町・村・特別区 {totalEntries} 件からランダム出題</span>
+      </h1>
+      <div class="mq-stats" aria-live="polite">
+        <span class="mq-correct">◯ <span id="mq-cnt-correct">0</span></span>
+        <span class="mq-partial">△ <span id="mq-cnt-partial">0</span></span>
+        <span class="mq-wrong">× <span id="mq-cnt-wrong">0</span></span>
+      </div>
+    </div>
+
+    <section class="mq-question" id="mq-question" aria-live="polite">
+      <p class="mq-prompt">この自治体は、どの都道府県にある？（該当する都道府県をすべて選択）</p>
+      <p class="mq-name" id="mq-name">―</p>
+      <div class="mq-result-inline" id="mq-result">
+        <span class="mq-result-mark" id="mq-result-mark">◯</span>
+        <span id="mq-result-text">正解！</span>
+        <span id="mq-result-detail"></span>
+      </div>
+    </section>
+
+    <section id="mq-prefs-area">
+      {REGIONS.map((region) => (
+        <div class="mq-region">
+          <div class="mq-region-label">{region}</div>
+          <div class="mq-prefs">
+            {PREFECTURES.filter((p) => p.region === region).map((p) => (
+              <button class="mq-pref" type="button" data-pref={p.name}>{p.name}</button>
+            ))}
+          </div>
+        </div>
+      ))}
+    </section>
+
+    <div class="mq-actions">
+      <button class="mq-btn mq-btn-primary" id="mq-submit" type="button" disabled>回答する</button>
+      <button class="mq-btn mq-btn-secondary" id="mq-next" type="button">次の問題</button>
+      <a class="mq-skip" id="mq-skip">スキップ</a>
+    </div>
+  </main>
+
+  <script id="mq-data" type="application/json" set:html={JSON.stringify(municipalitiesData)}></script>
+
+  <script is:inline>
+  (function () {
+    const dataEl = document.getElementById("mq-data");
+    /** @type {Record<string, string[]>} */
+    const data = JSON.parse(dataEl.textContent || "{}");
+    const names = Object.keys(data);
+    if (names.length === 0) return;
+
+    const questionEl = document.getElementById("mq-question");
+    const nameEl = document.getElementById("mq-name");
+    const resultEl = document.getElementById("mq-result");
+    const resultMark = document.getElementById("mq-result-mark");
+    const resultText = document.getElementById("mq-result-text");
+    const resultDetail = document.getElementById("mq-result-detail");
+    const submitBtn = document.getElementById("mq-submit");
+    const nextBtn = document.getElementById("mq-next");
+    const skipBtn = document.getElementById("mq-skip");
+    const cntCorrect = document.getElementById("mq-cnt-correct");
+    const cntPartial = document.getElementById("mq-cnt-partial");
+    const cntWrong = document.getElementById("mq-cnt-wrong");
+    const buttons = Array.from(document.querySelectorAll(".mq-pref"));
+
+    let currentName = null;
+    let currentAnswer = new Set();
+    let selected = new Set();
+    let answered = false;
+
+    // Weighted random pick: each (name, prefecture) pair counts as one entry.
+    const flat = [];
+    for (const [n, prs] of Object.entries(data)) {
+      for (let i = 0; i < prs.length; i++) flat.push(n);
+    }
+
+    let history = [];
+    function pickName() {
+      const recent = new Set(history.slice(-20));
+      let pick;
+      let safety = 100;
+      do {
+        pick = flat[Math.floor(Math.random() * flat.length)];
+        safety--;
+      } while (recent.has(pick) && safety > 0);
+      history.push(pick);
+      return pick;
+    }
+
+    function setSelected(btn, on) {
+      if (on) {
+        btn.classList.add("selected");
+        selected.add(btn.dataset.pref);
+      } else {
+        btn.classList.remove("selected");
+        selected.delete(btn.dataset.pref);
+      }
+      submitBtn.disabled = selected.size === 0 || answered;
+    }
+
+    function clearBoard() {
+      selected.clear();
+      answered = false;
+      buttons.forEach((b) => {
+        b.classList.remove("selected", "reveal-correct", "reveal-missed", "reveal-wrong");
+        b.disabled = false;
+      });
+      resultEl.classList.remove("shown");
+      questionEl.removeAttribute("data-r");
+      submitBtn.disabled = true;
+      submitBtn.textContent = "回答する";
+    }
+
+    function newQuestion() {
+      clearBoard();
+      currentName = pickName();
+      currentAnswer = new Set(data[currentName]);
+      nameEl.textContent = currentName;
+    }
+
+    function score() {
+      let anyWrong = false;
+      for (const s of selected) {
+        if (!currentAnswer.has(s)) { anyWrong = true; break; }
+      }
+      if (anyWrong) return "wrong";
+      if (selected.size === currentAnswer.size) return "correct";
+      return "partial";
+    }
+
+    function reveal(grade) {
+      buttons.forEach((b) => {
+        const pref = b.dataset.pref;
+        const isAnswer = currentAnswer.has(pref);
+        const isSelected = selected.has(pref);
+        b.disabled = true;
+        b.classList.remove("selected");
+        if (isAnswer && isSelected) b.classList.add("reveal-correct");
+        else if (isAnswer && !isSelected) b.classList.add("reveal-missed");
+        else if (!isAnswer && isSelected) b.classList.add("reveal-wrong");
+      });
+
+      const answerList = [...currentAnswer].join("、");
+      questionEl.dataset.r = grade;
+      resultEl.classList.add("shown");
+      if (grade === "correct") {
+        resultMark.textContent = "◯";
+        resultText.textContent = "正解！";
+        resultDetail.textContent = "";
+      } else if (grade === "partial") {
+        resultMark.textContent = "△";
+        resultText.textContent = "惜しい！";
+        resultDetail.textContent = `（正解は ${answerList}）`;
+      } else {
+        resultMark.textContent = "×";
+        resultText.textContent = "不正解";
+        resultDetail.textContent = `（正解は ${answerList}）`;
+      }
+    }
+
+    function bumpScore(grade) {
+      const sKey = "mq-score-v1";
+      let s;
+      try { s = JSON.parse(localStorage.getItem(sKey) || "{}"); } catch { s = {}; }
+      s.correct = (s.correct || 0) + (grade === "correct" ? 1 : 0);
+      s.partial = (s.partial || 0) + (grade === "partial" ? 1 : 0);
+      s.wrong   = (s.wrong   || 0) + (grade === "wrong"   ? 1 : 0);
+      s.total   = (s.total   || 0) + 1;
+      try { localStorage.setItem(sKey, JSON.stringify(s)); } catch {}
+      renderScore(s);
+    }
+
+    function renderScore(s) {
+      cntCorrect.textContent = String(s.correct || 0);
+      cntPartial.textContent = String(s.partial || 0);
+      cntWrong.textContent = String(s.wrong || 0);
+    }
+
+    function loadScore() {
+      try {
+        const s = JSON.parse(localStorage.getItem("mq-score-v1") || "{}");
+        renderScore(s);
+      } catch { /* ignore */ }
+    }
+
+    buttons.forEach((b) => {
+      b.addEventListener("click", () => {
+        if (answered) return;
+        setSelected(b, !b.classList.contains("selected"));
+      });
+    });
+
+    function submit() {
+      if (answered || selected.size === 0) return;
+      answered = true;
+      const grade = score();
+      reveal(grade);
+      bumpScore(grade);
+      submitBtn.disabled = true;
+      submitBtn.textContent = "判定済み";
+    }
+
+    submitBtn.addEventListener("click", submit);
+    nextBtn.addEventListener("click", newQuestion);
+    skipBtn.addEventListener("click", newQuestion);
+
+    // Keyboard shortcuts: Enter = submit / next, Esc = skip
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") {
+        e.preventDefault();
+        if (answered) newQuestion();
+        else if (selected.size > 0) submit();
+      } else if (e.key === "Escape") {
+        newQuestion();
+      }
+    });
+
+    loadScore();
+    newQuestion();
+  })();
+  </script>
+
+  <Footer lang={lang} title={pageTitle} permalink={canonical} />
+  <SearchModal lang={lang} />
+</body>
+</html>

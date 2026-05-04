@@ -4,6 +4,7 @@ import { buildUrl, extractLangFromId, extractSlugFromId, LANGUAGES, DEFAULT_LANG
 import { t } from "@i18n/translations";
 import { generateDescription } from "@lib/seo-utils";
 import { getCollection } from "astro:content";
+import municipalitiesData from "../data/municipalities.json";
 import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
@@ -83,6 +84,21 @@ const groups = groupEntries.map((g: any) => {
     diffs,
   };
 });
+
+// Interactive (client-side) quizzes that are not part of the content collection.
+// Only surfaced on the Japanese hub for now since the dataset is JP-only.
+if (lang === "ja") {
+  const municipalityCount = Object.values(municipalitiesData as Record<string, string[]>)
+    .reduce((acc, prs) => acc + prs.length, 0);
+  groups.push({
+    title: "自治体クイズ",
+    description: "ランダムに出題される自治体名から、その都道府県をすべて当てよう。",
+    icon: "🏯",
+    url: "/quiz/municipality/",
+    count: municipalityCount,
+    diffs: [0, 0, 0, 0],
+  });
+}
 ---
 
 <!DOCTYPE html>
@@ -142,7 +158,6 @@ const groups = groupEntries.map((g: any) => {
       align-items: stretch;
       background: var(--surface-color, #fff);
       border: 1px solid var(--border-soft);
-      border-radius: 18px;
       overflow: hidden;
       text-decoration: none;
       color: var(--text-color);
@@ -204,7 +219,6 @@ const groups = groupEntries.map((g: any) => {
     }
     .qh-diff-tag {
       padding: 0.1em 0.5em;
-      border-radius: 10px;
       font-weight: 600;
       font-size: 0.75rem;
     }
