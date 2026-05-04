@@ -21,6 +21,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/諏訪地域#精密機器産業"
   - text: '<span class="quiz">味噌</span>の生産量は全国1位で、信州味噌は全国シェア約5割'
     ref: "https://ja.wikipedia.org/wiki/信州味噌"
+prefInfo:
+  population: "約 202 万人"
+  populationRank: "全国 16 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "13,562 km²"
+  areaRank: "全国 4 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "長野市"
+  capitalNote: "人口 約 37 万人"
+  geography: '8 県と接する内陸県（接県数日本一）。北アルプス・中央アルプス・南アルプスの 3 つの 3,000m 級山岳が県を縦断し、日本で最も標高が高い県庁所在地（長野市）の 1 つ。諏訪湖・松本盆地・佐久盆地・伊那谷など盆地が複数あり、それぞれ独自の気候・文化を形成。冬は内陸性気候で寒さが厳しく、軽井沢・志賀高原などスキーリゾートも多い。'
+  economy: '精密機械（時計・カメラ）の伝統から、現在は半導体製造装置・電子部品の集積（諏訪・岡谷）が県を代表する産業。エプソン（諏訪本社）・ミネベアミツミ・キッセイ薬品など。高原野菜（レタス・白菜・キャベツ）の生産は全国 1 位を多く占め、南信のリンゴ・ぶどうも有名。観光業も大きく、軽井沢・上高地・信州そば・松本城・善光寺などインバウンド需要も拡大。長野駅と松本駅は北陸新幹線・中央本線・篠ノ井線の結節点。'
+  relatedIndustry:
+    - url: '/industry/japan-semiconductor/'
+      title: '日本の半導体産業集積地'
+      note: '諏訪・岡谷の精密機械・半導体製造装置'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '中部電力エリア・水力発電'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

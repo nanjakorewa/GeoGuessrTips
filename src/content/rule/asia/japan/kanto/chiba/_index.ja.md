@@ -26,6 +26,35 @@ features:
     ref: "https://ja.wikipedia.org/wiki/成田国際空港"
   - text: '<span class="quiz">落花生</span>の生産量が全国1位で、全国の約8割を占める'
     ref: "https://ja.wikipedia.org/wiki/千葉県#農業"
+prefInfo:
+  population: "約 627 万人"
+  populationRank: "全国 6 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "5,158 km²"
+  areaRank: "全国 28 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "千葉市"
+  capitalNote: "人口 約 98 万人"
+  geography: '房総半島がほぼ全域を占め、東京湾と太平洋に挟まれる。半島中央に房総丘陵、北部は下総台地と利根川下流の平野。東京湾岸は埋立地が広く、京葉工業地域が連なる。九十九里浜は南北 60km の砂浜海岸で、銚子は本州最東端の漁港町。利根川河口に成田国際空港。'
+  economy: '京葉コンビナートは石油精製（出光興産・コスモ石油）・石油化学（三井化学・住友化学・東洋ゼネラル）・鉄鋼（JFE スチール東日本）・電力を集積する首都圏最大のコンビナート。木更津・市原・袖ヶ浦に LNG・原油・LPG の輸入基地が並ぶ。成田国際空港は国際物流の中核で航空貨物取扱量は日本最大。落花生・梨（豊水・幸水）・日本梨・ねぎなど農業も上位、銚子・館山の漁業、養豚業も盛ん。'
+  relatedIndustry:
+    - url: '/industry/japan-combinat/keiyo/'
+      title: '京葉コンビナート'
+      note: '市原・千葉・袖ケ浦の石油化学・鉄鋼コンビナート'
+    - url: '/industry/japan-stockpile/'
+      title: '日本の石油・LPガス備蓄基地'
+      note: '袖ケ浦・市原の LPG/石油備蓄'
+    - url: '/industry/japan-paper/'
+      title: '日本の製紙・パルプ産業'
+      note: '王子製紙市原工場'
+    - url: '/industry/japan-shipping/'
+      title: '日本の海運業'
+      note: '千葉港（取扱貨物量全国上位）'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

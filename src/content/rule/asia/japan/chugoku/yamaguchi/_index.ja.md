@@ -22,6 +22,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/周南コンビナート"
   - text: '<span class="quiz">ふぐ</span>（下関ではふくと呼ぶ）の取扱量は下関市が日本一'
     ref: "https://ja.wikipedia.org/wiki/下関市#水産業"
+prefInfo:
+  population: "約 131 万人"
+  populationRank: "全国 27 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "6,113 km²"
+  areaRank: "全国 23 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "山口市"
+  capitalNote: "人口 約 19 万人"
+  geography: '本州最西端で、瀬戸内海と日本海に面する。県西は関門海峡を挟んで九州（北九州市）と接続し、関門トンネル・関門橋で連結。秋吉台はカルスト台地（特別天然記念物）で日本最大のカルスト地形。山口市は中世の大内氏が「西の京」として整備した街で、瑠璃光寺五重塔は国宝。下関の海響館はフグの水族館として有名。'
+  economy: '周南コンビナート（徳山・新南陽）と宇部・小野田は石油化学・セメント（宇部三菱セメント・太平洋セメント）の中核地で、瀬戸内工業地域の重要な柱。トクヤマ（旧徳山曹達）・三井化学岩国大竹工場・出光興産山口など化学企業の集積。下関はフグ（ふく）・捕鯨の伝統と港湾物流。マツダ防府工場、東洋ガラス山口工場、明治維新の志士を多数輩出した萩は伝統工芸（萩焼）と歴史観光の地。'
+  relatedIndustry:
+    - url: '/industry/japan-cement/'
+      title: '日本のセメント工業'
+      note: '宇部・小野田（宇部三菱セメント本社）'
+    - url: '/industry/japan-industrial-zones/setouchi/'
+      title: '瀬戸内工業地域'
+      note: '周南・徳山・宇部'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '中国電力エリア・上関原発計画地'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

@@ -22,6 +22,35 @@ features:
     ref: "https://ja.wikipedia.org/wiki/福岡市"
   - text: '北九州市は<span class="quiz">官営八幡製鉄所</span>に始まる鉄鋼業発祥の地で、北九州工業地帯の中核'
     ref: "https://ja.wikipedia.org/wiki/官営八幡製鉄所"
+prefInfo:
+  population: "約 511 万人"
+  populationRank: "全国 9 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "4,987 km²"
+  areaRank: "全国 29 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "福岡市"
+  capitalNote: "人口 約 164 万人"
+  geography: '九州の北部に位置し、玄界灘・響灘・周防灘に面する。県西は福岡平野、県東は北九州地域、県南は筑後平野。関門海峡を挟んで山口県と接続。県北部の玄界灘は対馬海流の通り道で漁業が盛ん、県南の筑後川は九州最大の河川。博多港・北九州港・苅田港は九州の物流玄関口。'
+  economy: '九州最大の経済圏。北九州は日本製鉄八幡（明治以来の重工業集積で官営八幡製鉄所が日本近代化の起点）・トヨタ自動車九州（小倉工場で高級車レクサス生産）・日産自動車九州・苅田の太平洋セメント／三菱マテリアルセメントなど。福岡市は商業・サービス・IT のハブで、半導体関連企業も TSMC 熊本進出を背景に増加。明太子・もつ鍋・博多ラーメン・八女茶・あまおうイチゴなど食文化も独自で、九州の文化・経済・物流の中心。'
+  relatedIndustry:
+    - url: '/industry/japan-semiconductor/'
+      title: '日本の半導体産業集積地'
+      note: '北部九州の半導体集積（TSMC 熊本連動）'
+    - url: '/industry/japan-semiconductor/kyushu/'
+      title: '九州半導体クラスター'
+      note: '九州一円の半導体クラスター（福岡が窓口）'
+    - url: '/industry/japan-cement/'
+      title: '日本のセメント工業'
+      note: '苅田の太平洋セメント・三菱マテリアル'
+    - url: '/industry/japan-shipping/'
+      title: '日本の海運業'
+      note: '博多港・北九州港'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

@@ -25,6 +25,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/三菱重工業長崎造船所"
   - text: '<span class="quiz">水産業</span>が盛んで、漁業生産額は全国上位。特にあじ・さばの水揚げ量が多い'
     ref: "https://ja.wikipedia.org/wiki/長崎県#水産業"
+prefInfo:
+  population: "約 128 万人"
+  populationRank: "全国 30 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "4,131 km²"
+  areaRank: "全国 37 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "長崎市"
+  capitalNote: "人口 約 40 万人"
+  geography: '九州の北西部、対馬・壱岐・五島列島・平戸など離島が多く（県内市町村の半数以上が離島市町村）、県の海岸線総延長は北海道に次ぐ全国 2 位。長崎半島・島原半島が南に伸び、雲仙岳・普賢岳の火山地帯（1991 年の大火砕流災害は記憶に新しい）。長崎港は天然の良港で、出島・グラバー園・大浦天主堂など江戸期の鎖国時代に唯一の対外窓口だった歴史を残す。'
+  economy: '三菱重工長崎造船所は明治期からの近代造船発祥地（軍艦島・端島は世界遺産「明治日本の産業革命遺産」）。佐世保には佐世保重工業・米軍佐世保基地・海上自衛隊佐世保基地。長崎市は観光（眼鏡橋・大浦天主堂・グラバー園・原爆資料館・出島）・水産業の中心で、長崎ちゃんぽん・皿うどん・カステラなど中華・南蛮の影響を受けた食文化を持つ。離島の対馬・壱岐は韓国観光客の窓口でもある。'
+  relatedIndustry:
+    - url: '/industry/japan-shipbuilding/'
+      title: '日本の造船業'
+      note: '長崎（三菱重工）・佐世保（佐世保重工）'
+    - url: '/industry/japan-shipping/'
+      title: '日本の海運業'
+      note: '長崎港・佐世保港'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '九州電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

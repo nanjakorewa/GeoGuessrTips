@@ -21,6 +21,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/栃木県#農業"
   - text: '宇都宮市は<span class="quiz">餃子</span>の街として知られ、市内に多数の餃子専門店がある'
     ref: "https://ja.wikipedia.org/wiki/宇都宮餃子"
+prefInfo:
+  population: "約 192 万人"
+  populationRank: "全国 19 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "6,408 km²"
+  areaRank: "全国 20 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "宇都宮市"
+  capitalNote: "人口 約 51 万人"
+  geography: '関東平野の北端に位置する内陸県。県北には日光連山・那須連山、県南は関東平野が広がる。日光東照宮・中禅寺湖・華厳の滝は世界遺産・国立公園に登録される一大観光地。鬼怒川・那珂川・渡良瀬川が県を縦断し、足利・佐野は群馬・埼玉と接続する関東北西の交通要衝。'
+  economy: 'いちご（とちおとめ・とちあいか）の生産量は 54 年連続日本一、かんぴょう・にら・うど・新生姜などの農産物も全国上位。宇都宮市は餃子の街として知られる。住友大阪セメント佐野工場、自動車部品（ホンダ宇都宮・日産栃木）、医療機器のマニー（手術用縫合針で世界シェア約 20%）、レオン自動機（包あん機で世界シェア首位）など、世界シェアの高い専門メーカーが本社を置く。'
+  relatedIndustry:
+    - url: '/industry/japan-cement/'
+      title: '日本のセメント工業'
+      note: '住友大阪セメント佐野工場'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '東京電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

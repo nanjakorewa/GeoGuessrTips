@@ -21,6 +21,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/小坂鉱山"
   - text: '米の銘柄「<span class="quiz">あきたこまち</span>」の産地で、米の産出額は全国3位'
     ref: "https://ja.wikipedia.org/wiki/秋田県#農業"
+prefInfo:
+  population: "約 93 万人"
+  populationRank: "全国 38 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "11,638 km²"
+  areaRank: "全国 6 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "秋田市"
+  capitalNote: "人口 約 30 万人"
+  geography: '日本海に面し、奥羽山脈と出羽山地に挟まれる。県中央の秋田平野・横手盆地は米作の中心地。県北の白神山地（青森との県境）は世界自然遺産、十和田湖は青森との県境にまたがる。冬は日本海側気候で豪雪となり、横手・湯沢のかまくら、男鹿のなまはげなど雪国の文化が深い。'
+  economy: '米の作付面積・収量とも全国上位（あきたこまちが主力）。鉱業の歴史が長く、小坂町・尾去沢ではかつて銅・鉛・亜鉛を産出、現在も DOWA ホールディングス（旧同和鉱業）系列の小坂製錬がリサイクル原料処理を担う。阿仁鉱山ではタングステン採掘の歴史。秋田杉は日本三大美林の 1 つで、製材・建築用材の供給地。きりたんぽ・いぶりがっこ・稲庭うどんが代表的食文化。'
+  relatedIndustry:
+    - url: '/industry/japan-nonferrous/'
+      title: '日本の非鉄金属製錬'
+      note: '小坂製錬（DOWA系）— 都市鉱山リサイクル'
+    - url: '/industry/japan-tungsten/'
+      title: '日本のタングステン産業'
+      note: '阿仁鉱山（旧鉱山）'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '東北電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

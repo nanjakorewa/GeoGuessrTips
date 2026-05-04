@@ -26,6 +26,35 @@ features:
     ref: "https://ja.wikipedia.org/wiki/神戸ビーフ"
   - text: '播磨地区は<span class="quiz">鉄鋼・重化学工業</span>が集積し、姫路城は世界遺産に登録されている'
     ref: "https://ja.wikipedia.org/wiki/兵庫県#工業"
+prefInfo:
+  population: "約 540 万人"
+  populationRank: "全国 7 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "8,401 km²"
+  areaRank: "全国 12 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "神戸市"
+  capitalNote: "人口 約 150 万人"
+  geography: '近畿地方の中部、瀬戸内海と日本海の両方に面する珍しい県。神戸・阪神地区は瀬戸内側、城崎・但馬は日本海側。淡路島は県南西の島で本州・四国を結ぶ明石海峡大橋・大鳴門橋の中継点。六甲山系・播磨灘・但馬山地・播州平野・丹波高地など地形は多様で、気候も瀬戸内・日本海・盆地で大きく違う。'
+  economy: '神戸製鋼・川崎重工神戸造船所・三菱重工神戸造船所など重厚長大産業の中核地で、戦後の高度経済成長期を支えた工業県。神戸港は日本有数のコンテナ取扱量で、阪神大震災（1995）からの復興後もアジア主要港として機能。姫路には日本製鉄広畑製鉄所・三菱電機姫路・パナソニックエナジーの主力工場。神戸の灘・西宮の灘五郷は日本酒の最大産地（白鶴・菊正宗・大関）。但馬牛（神戸ビーフ）・姫路の手延べ素麺・明石のタコ。'
+  relatedIndustry:
+    - url: '/industry/japan-shipbuilding/'
+      title: '日本の造船業'
+      note: '神戸（三菱重工・川崎重工）・相生（IHI）'
+    - url: '/industry/japan-cement/'
+      title: '日本のセメント工業'
+      note: '姫路の太平洋セメント・宇部三菱'
+    - url: '/industry/japan-shipping/'
+      title: '日本の海運業'
+      note: '神戸港（日本有数のコンテナ港）'
+    - url: '/industry/japan-tire/'
+      title: '日本のタイヤ産業'
+      note: '住友ゴム神戸本社・ブリヂストン関連'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

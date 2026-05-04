@@ -21,6 +21,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/鯖江市#眼鏡産業"
   - text: '越前市は<span class="quiz">越前和紙</span>の産地で、1500年の歴史を持つ伝統工芸'
     ref: "https://ja.wikipedia.org/wiki/越前和紙"
+prefInfo:
+  population: "約 75 万人"
+  populationRank: "全国 43 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "4,191 km²"
+  areaRank: "全国 34 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "福井市"
+  capitalNote: "人口 約 26 万人"
+  geography: '若狭湾と日本海に面する北陸の県。嶺北（福井平野・坂井平野）と嶺南（若狭地方）で気候・文化が分かれ、嶺南は近畿圏の影響が強い。県南西部に若狭湾沿いの原発銀座（敦賀・美浜・大飯・高浜）が並ぶ。冬は嶺北で豪雪、嶺南は比較的温暖。永平寺は曹洞宗大本山。'
+  economy: '鯖江市は眼鏡フレーム生産で国内シェア約 95%・世界シェア約 20%。福井平野では繊維（合成繊維・帝人・東レ等の地場下請）が伝統産業で、世界シェアを持つ高機能繊維（人工皮革・スポーツ繊維）の供給拠点。越前焼（六古窯の 1 つ）・越前打刃物・越前和紙など伝統工芸も健在。若狭湾沿岸の原発群は関西電力管轄で、関西圏に電力を供給する。敦賀港は対ロシア・対韓国貨物の窓口。'
+  relatedIndustry:
+    - url: '/industry/japan-fiber/'
+      title: '日本の合成繊維・炭素繊維産業'
+      note: '福井の合繊産業（テキスタイル）'
+    - url: '/industry/japan-pottery/'
+      title: '日本の焼き物産地'
+      note: '越前焼（六古窯の 1 つ）'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '若狭湾沿岸の原発群（関西電力）'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

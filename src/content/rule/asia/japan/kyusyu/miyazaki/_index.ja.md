@@ -21,6 +21,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/宮崎県#農畜産業"
   - text: '温暖な気候を活かした<span class="quiz">マンゴー・きんかん</span>などの熱帯果樹栽培が特徴'
     ref: "https://ja.wikipedia.org/wiki/宮崎県#農畜産業"
+prefInfo:
+  population: "約 105 万人"
+  populationRank: "全国 36 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "7,734 km²"
+  areaRank: "全国 14 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "宮崎市"
+  capitalNote: "人口 約 40 万人"
+  geography: '九州の南東部、太平洋（日向灘）に面する。県北は九州山地、南部は霧島山系。日南海岸・青島・高千穂峡・鵜戸神宮など景勝地が多く、年間日照時間は全国 2 位、温暖な気候。台風の上陸数も全国上位で、防風林・防風垣の景観が農地に多い。延岡・宮崎・都城・日南など海岸沿いの主要都市が並ぶ。'
+  economy: '畜産（みやざき牛・地頭鶏・宮崎ブランドポーク）の中心地で、ブロイラー出荷羽数は全国 1 位、肉用牛も全国 3 位。きゅうり・ピーマン・マンゴー（完熟マンゴー）・日向夏など農業も上位。延岡には旭化成の創業地・主力工場（化学・繊維・医薬品）。サーフィンのメッカ、プロ野球キャンプの集積（巨人・ソフトバンクなど）も県の特徴。観光業はシーガイア・高千穂峡・青島が中心。'
+  relatedIndustry:
+    - url: '/industry/japan-fiber/'
+      title: '日本の合成繊維・炭素繊維産業'
+      note: '延岡 旭化成（創業地・繊維事業の中核）'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '九州電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

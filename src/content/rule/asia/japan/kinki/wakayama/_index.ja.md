@@ -21,6 +21,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/和歌山県#農業"
   - text: '有田地域は<span class="quiz">有田みかん</span>の産地で、急斜面の段々畑が特徴的な風景'
     ref: "https://ja.wikipedia.org/wiki/有田みかん"
+prefInfo:
+  population: "約 90 万人"
+  populationRank: "全国 39 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "4,725 km²"
+  areaRank: "全国 30 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "和歌山市"
+  capitalNote: "人口 約 35 万人"
+  geography: '紀伊半島の南西部を占め、太平洋（紀伊水道・熊野灘）に面する。県南部は紀伊山地で熊野古道・熊野三山（本宮・速玉・那智）が世界遺産。串本は本州最南端、潮岬には灯台。高野山は弘法大師空海開創の真言宗総本山で世界遺産。県北は和歌山平野で果樹栽培の中心地。'
+  economy: '梅（南高梅）の生産量は全国の約 6 割で日本一、みかん・柿・はっさく・じゃばらなど柑橘類も全国上位で、果樹王国の異名を持つ。製鉄では日本製鉄和歌山製鉄所が県北部に立地し、家電・化学（花王・東燃ゼネラル）も集積。串本沖は黒潮直撃で漁業（カツオ・マグロ・伊勢海老）が盛ん。新宮・田辺の林業（紀州材）、白浜・勝浦の温泉観光も県経済を支える。'
+  relatedIndustry:
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '関西電力エリア・御坊火力'
+    - url: '/industry/world-agriculture/'
+      title: '世界の農産物・穀物トレード'
+      note: '梅・柑橘の輸出'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

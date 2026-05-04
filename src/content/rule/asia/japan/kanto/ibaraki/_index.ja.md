@@ -25,6 +25,35 @@ features:
     ref: "https://ja.wikipedia.org/wiki/日立市#工業"
   - text: '鹿島臨海工業地帯は<span class="quiz">石油化学・鉄鋼</span>のコンビナートが立地'
     ref: "https://ja.wikipedia.org/wiki/鹿島臨海工業地帯"
+prefInfo:
+  population: "約 285 万人"
+  populationRank: "全国 11 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "6,098 km²"
+  areaRank: "全国 24 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "水戸市"
+  capitalNote: "人口 約 27 万人"
+  geography: '関東平野の北東部に位置し、太平洋に面する。県北は阿武隈高地と日立山地、県南は霞ヶ浦（日本第 2 位の湖）。鹿島灘・九十九里浜が砂浜海岸。筑波山は山頂の双耳峰が特徴で関東平野のランドマーク。日立は古河鉱業由来の鉱山町で日立製作所の創業地。'
+  economy: '鹿島臨海工業地域は石油精製・石油化学（三菱ケミカル）・鉄鋼（日本製鉄鹿島）・電力を集積する太平洋側最大級のコンビナートの 1 つで、人工掘り込み港として知られる鹿島港を中心に立地。つくば市は研究学園都市で国立研究機関（産総研・KEK・JAXA）と先端企業が集中する日本の研究開発の中核地。レンコン・メロン・ピーマン・栗・干し芋など農業も全国上位。'
+  relatedIndustry:
+    - url: '/industry/japan-combinat/kashima/'
+      title: '鹿島コンビナート'
+      note: '鹿島港・神栖市の石油・化学・鉄鋼コンビナート'
+    - url: '/industry/japan-industrial-zones/kashima/'
+      title: '鹿島臨海工業地域'
+      note: '茨城南東部の主要工業地帯'
+    - url: '/industry/japan-stockpile/'
+      title: '日本の石油・LPガス備蓄基地'
+      note: '鹿島石油備蓄基地'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '東京電力エリア・東海第二原発'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

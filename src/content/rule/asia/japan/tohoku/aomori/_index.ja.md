@@ -22,6 +22,38 @@ features:
     ref: "https://ja.wikipedia.org/wiki/青森県#農業"
   - text: '本州最北端に位置し、<span class="quiz">津軽海峡</span>を挟んで北海道と向かい合う'
     ref: "https://ja.wikipedia.org/wiki/青森県"
+prefInfo:
+  population: "約 121 万人"
+  populationRank: "全国 31 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "9,646 km²"
+  areaRank: "全国 8 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "青森市"
+  capitalNote: "人口 約 27 万人"
+  geography: '本州最北端、津軽海峡を挟んで北海道と向かい合う。陸奥湾・八甲田山・白神山地・十和田湖など自然景観が豊か。白神山地（青森・秋田）はユネスコ世界自然遺産。冬は日本海側で豪雪、太平洋側ではやませ（冷害をもたらす偏東風）が吹き、米作の年次変動が大きい。県南東部の太平洋沿岸（八戸・三沢）は比較的雪が少なく、本州他県とは異なる気候帯を形成。'
+  economy: 'りんごの生産量は全国 1 位で全国の約 6 割を占め、にんにく・長いも・ホタテ貝でも全国 1 位。むつ小川原（六ヶ所村）に国家石油備蓄基地と日本原燃の原子燃料サイクル施設（再処理工場・濃縮ウラン）があり、エネルギー関連の重要拠点。下北半島の大間原発・東通原発も立地。八戸港は鉄鋼・飼料・水産を扱う工業港で、三菱製紙八戸工場が立地。津軽地方には伝統工芸の津軽塗・こぎん刺し。'
+  relatedIndustry:
+    - url: '/industry/japan-stockpile/'
+      title: '日本の石油・LPガス備蓄基地'
+      note: 'むつ小川原（六ヶ所村）国家石油備蓄基地'
+    - url: '/industry/japan-mineral-stockpile/'
+      title: '日本のレアメタル備蓄制度'
+      note: '六ヶ所国家石油・レアメタル備蓄'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '東北電力エリア・原子燃料サイクル施設'
+    - url: '/industry/japan-paper/'
+      title: '日本の製紙・パルプ産業'
+      note: '三菱製紙八戸工場'
+    - url: '/industry/world-agriculture/'
+      title: '世界の農産物・穀物トレード'
+      note: 'りんご輸出（台湾・香港向け）'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

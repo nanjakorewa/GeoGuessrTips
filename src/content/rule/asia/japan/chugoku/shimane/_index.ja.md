@@ -21,6 +21,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/石州瓦"
   - text: '安来市は<span class="quiz">特殊鋼（安来鋼）</span>の産地で、日本刀の原料「玉鋼」の製造技術を今に伝える'
     ref: "https://ja.wikipedia.org/wiki/安来鋼"
+prefInfo:
+  population: "約 65 万人"
+  populationRank: "全国 46 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "6,708 km²"
+  areaRank: "全国 19 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "松江市"
+  capitalNote: "人口 約 19 万人"
+  geography: '日本海に面した中国地方の北西部の県。県西部に石見地方、東部に出雲地方、北沖に隠岐諸島（島根県唯一の離島群）。出雲大社・石見銀山（世界遺産）・宍道湖など歴史・自然遺産が豊富。宍道湖は日本第 7 位の湖で、汽水湖としてシジミ漁が有名。出雲は神話「八岐大蛇（やまたのおろち）」の舞台。'
+  economy: '石見銀山は江戸期に世界の銀生産の約 3 分の 1 を占めたとされる重要鉱山だったが現在は閉山、世界文化遺産として観光資源化。今は JFE 条鋼松江・島根原発・水産（しじみ・ノドグロ・松葉ガニ）が産業の中心。出雲そば、宍道湖シジミ、隠岐の岩牡蠣など食文化も独自。出雲大社の縁結び信仰は観光ブランド化されている。'
+  relatedIndustry:
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '中国電力・島根原発'
+    - url: '/industry/japan-nonferrous/'
+      title: '日本の非鉄金属製錬'
+      note: '石見銀山（歴史的銀産地）'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

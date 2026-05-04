@@ -1790,13 +1790,14 @@ a.flag-link {
 
 h3.section-title {
   margin-top: 2em;
+  margin-bottom: 0;
   padding-left: 0.5em;
   border-left: solid 7px var(--primary-color);
 }
 
 h4.section-title {
-  margin-top: 0.9em;
-  margin-bottom: 0.3em;
+  margin-top: 0em;
+  margin-bottom: 0 !important;
 }
 
 h3.section-title:first-letter {
@@ -2021,6 +2022,308 @@ div.main-desciption {
 ul.rule-list {
   margin: 1em;
   font-size: 1em;
+}
+
+.rule-list-empty {
+  margin: 1em;
+  padding: 0.75em 1em;
+  font-size: 0.9em;
+  color: #777;
+  background: #f6f6f6;
+  border-left: 3px solid #ccc;
+}
+
+/* ============================================
+   References / bibliography section
+   (used by both {{% references %}} shortcode and
+   the layout-rendered list under sibling-countries)
+   ============================================ */
+.references-section {
+  margin-top: 2rem;
+  padding: 0;
+  background: none;
+  border: 0;
+}
+
+/* Constrain the corp-desc table to its column width so it doesn't outgrow
+   the surrounding article-surface (e.g. the references / "参考ページ" boxes). */
+.container-corp {
+  max-width: 100%;
+  overflow-x: auto;
+}
+.container-corp .table {
+  width: 100%;
+  max-width: 100%;
+  table-layout: auto;
+}
+.container-corp .table td,
+.container-corp .table th {
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+.references-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #1a2535;
+  margin: 0 0 0.6rem;
+  padding: 0;
+  border: 0;
+}
+
+.references-list {
+  margin: 0 !important;
+  padding: 0 !important;
+  list-style: none !important;
+  counter-reset: none;
+}
+
+.references-list .ref-item {
+  position: relative;
+  padding: 4px 0;
+  margin: 0 !important;
+  font-size: 0.85rem;
+  line-height: 1.55;
+  color: #2d3038;
+  list-style: none !important;
+}
+
+.references-list .ref-item::before {
+  display: none !important;
+  content: none !important;
+}
+
+.references-list .ref-num {
+  font-weight: 700;
+  color: #c97320;
+  margin-right: 0.4em;
+}
+
+.references-list .ref-text a {
+  color: #1a2535;
+  text-decoration: underline;
+  word-break: break-all;
+}
+
+.references-list .ref-text a:hover {
+  color: #c97320;
+}
+
+.references-list .ref-pdf-badge {
+  display: inline-block;
+  margin-left: 4px;
+  padding: 0 6px;
+  background: #c97320;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+/* In-body cite superscripts */
+sup.cite-num a {
+  color: #c97320;
+  text-decoration: none;
+  font-weight: 700;
+}
+sup.cite-num a:hover {
+  text-decoration: underline;
+}
+
+/* ============================================
+   Prefecture basic info section
+   (rendered above #corp-desc on prefecture pages)
+   ============================================ */
+.pref-info-section {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  background: #fafbfc;
+  border: 1px solid #e3e6e9;
+}
+
+.pref-info-section__title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #1a2535;
+  color: #1a2535;
+}
+
+.pref-info-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap:2px;
+  margin-bottom: 1rem;
+}
+
+.pref-info-card {
+  background: #fff;
+  border: 1px solid #e3e6e9;
+  padding: 4px 9px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.pref-info-card--highlight {
+  background: #fff8eb;
+  border-color: #f0c97a;
+}
+
+.pref-info-card__label {
+  font-size: 0.7rem;
+  color: #6c757d;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+  line-height: 1.35;
+  margin: 0;
+}
+
+.pref-info-card__value {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a2535;
+  line-height: 1.35;
+  margin: 0;
+}
+
+.pref-info-card__rank {
+  font-size: 0.75rem;
+  color: #c97320;
+  font-weight: 600;
+  line-height: 1.35;
+  margin: 0;
+}
+
+.pref-info-subtitle {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #1a2535;
+  margin: 1.5rem 0 0.5rem;
+  padding-left: 0.6rem;
+  border-left: 4px solid #e07b20;
+}
+
+.pref-info-text {
+  line-height: 1.85;
+  color: #2d3038;
+  margin: 0 0 0.5rem;
+}
+
+.pref-info-related {
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed #c9cdd2;
+}
+
+.pref-info-related__label {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #1a2535;
+  margin-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 0.45em;
+}
+
+.pref-info-related__label i {
+  color: #e07b20;
+}
+
+/* Override globals: kill the bullet ::before, the margin-bottom and the
+   line-height that .article-surface ul > li adds (which would space the
+   cards apart and inflate each list item). */
+.pref-info-related .pref-info-related__list,
+.pref-info-related .pref-info-related__list li,
+.article-surface .pref-info-related .pref-info-related__list > li {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1 !important;
+}
+.pref-info-related .pref-info-related__list li::before {
+  display: none !important;
+  content: none !important;
+}
+
+.pref-info-related__list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 6px;
+}
+
+.pref-info-related__list a {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  padding: 2px 26px 2px 10px;
+  background: #fff;
+  border: 1px solid #d8dde2;
+  border-left: 3px solid #1a2535;
+  text-decoration: none;
+  color: #1a2535;
+  line-height: 1;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.pref-info-related__list a::after {
+  content: "›";
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.15rem;
+  line-height: 1;
+  color: #b8bdc3;
+  font-weight: 700;
+  transition: color 0.15s ease, transform 0.15s ease;
+}
+
+.pref-info-related__list a:hover {
+  background: #fff8eb;
+  border-color: #f0c97a;
+  border-left-color: #e07b20;
+  color: #1a2535;
+  text-decoration: none;
+  margin-bottom: 0 !important;
+}
+
+.pref-info-related__list a:hover::after {
+  color: #e07b20;
+  transform: translateY(-50%) translateX(3px);
+}
+
+.pref-info-related__title {
+  font-size: 0.88rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 0 !important;
+}
+
+.pref-info-related__note {
+  font-size: 0.74rem;
+  color: #6c757d;
+  font-weight: 500;
+  line-height: 1.2;
+  margin-bottom: 0 !important;
+}
+
+@media (max-width: 600px) {
+  .pref-info-section {
+    padding: 1rem;
+  }
+  .pref-info-cards {
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  }
+  .pref-info-card__value {
+    font-size: 0.98rem;
+  }
+  .pref-info-related__list {
+    grid-template-columns: 1fr;
+  }
 }
 
 ul.rule-list li::before {

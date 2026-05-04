@@ -134,6 +134,13 @@ export const translations: Record<string, Record<Language, string>> = {
     es: "How to Distinguish",
     pt: "Como distinguir",
   },
+  "rule-list-empty": {
+    ja: "%sの見分け方はまだこのサイトに登録されていません。",
+    en: "Tips on how to identify %s have not been documented on this site yet.",
+    id: "Cara mengidentifikasi %s belum didokumentasikan di situs ini.",
+    es: "Aún no se han documentado consejos para identificar %s en este sitio.",
+    pt: "Dicas sobre como identificar %s ainda não foram documentadas neste site.",
+  },
   "narrow-down-to-region": {
     ja: "州・地域の絞り込み",
     en: "Narrow down state/region",

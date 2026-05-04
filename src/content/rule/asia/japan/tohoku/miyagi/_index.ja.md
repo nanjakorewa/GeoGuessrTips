@@ -21,6 +21,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/仙台市"
   - text: '石巻・気仙沼など三陸沿岸は<span class="quiz">水産加工業</span>が盛んで、笹かまぼこは仙台名物'
     ref: "https://ja.wikipedia.org/wiki/宮城県#水産業"
+prefInfo:
+  population: "約 228 万人"
+  populationRank: "全国 14 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "7,282 km²"
+  areaRank: "全国 16 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "仙台市"
+  capitalNote: "人口 約 109 万人"
+  geography: '東北地方の中心地で、仙台平野は東北最大の平野。太平洋岸は松島湾以南がリアス式海岸、以北が砂浜海岸。蔵王連峰・栗駒山が県境に連なる。松島は日本三景の 1 つ。宮城県沖は北上した黒潮と南下した親潮が交わる豊かな漁場で、世界三大漁場の 1 つ。'
+  economy: '仙台市は東北の政治・経済・物流ハブで、東北電力・カメイ・アイリスオーヤマなど地場大手の本社が集積する。製造業では半導体（東京エレクトロン宮城）、自動車部品（トヨタ自動車東日本本社）、ビール（キリン仙台）。気仙沼・石巻はサンマ・カツオ・サメなど水産業の主要漁港で、笹かまぼこ・牛タン・ずんだ餅などの食文化を支える。仙台港は東北最大の国際コンテナ・自動車輸出入の中核港湾。'
+  relatedIndustry:
+    - url: '/industry/japan-semiconductor/'
+      title: '日本の半導体産業集積地'
+      note: '黒川・大和町 東京エレクトロン宮城'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '東北電力本店所在地'
+    - url: '/industry/japan-jr/'
+      title: '日本のJR各社'
+      note: 'JR東日本仙台支社'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

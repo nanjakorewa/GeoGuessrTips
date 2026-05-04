@@ -22,6 +22,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/桜島"
   - text: '<span class="quiz">茶</span>と<span class="quiz">サツマイモ</span>の生産が盛んで、畜産（黒豚・黒牛）も全国有数'
     ref: "https://ja.wikipedia.org/wiki/鹿児島県#農業"
+prefInfo:
+  population: "約 156 万人"
+  populationRank: "全国 24 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "9,186 km²"
+  areaRank: "全国 10 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "鹿児島市"
+  capitalNote: "人口 約 59 万人"
+  geography: '九州の南端、東シナ海・太平洋に面する。県中央に活火山・桜島（鹿児島市の対岸でほぼ毎日噴煙を上げる）、北に霧島連山、南に薩摩半島・大隅半島。離島は屋久島（世界自然遺産）・種子島・奄美群島（世界自然遺産「奄美大島、徳之島、沖縄島北部及び西表島」）など 600 以上、県の南北は約 600km に及ぶ。桜島の火山灰は鹿児島市に頻繁に降り、特有の景観を作る。'
+  economy: '畜産（黒豚・黒牛・地鶏）と薩摩焼酎（芋焼酎）が代表で、本格焼酎の出荷量は全国 1 位。さつまいもの生産量は全国 1 位、茶（鹿児島茶）も全国 2 位、ブリ養殖は全国 1 位。種子島には JAXA 種子島宇宙センター（H3 ロケット打ち上げ基地）。屋久島は屋久杉と縄文杉の世界自然遺産で観光客が集中。薩摩切子・大島紬（奄美）・薩摩ボタンなど工芸品も独自。'
+  relatedIndustry:
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '九州電力・川内原発'
+    - url: '/industry/world-agriculture/'
+      title: '世界の農産物・穀物トレード'
+      note: '茶・さつまいも輸出'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

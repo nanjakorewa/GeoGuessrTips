@@ -22,6 +22,77 @@ features:
     ref: "https://ja.wikipedia.org/wiki/白川郷・五箇山の合掌造り集落"
   - text: '<span class="quiz">刃物</span>の産地として有名で、関市は日本一の刃物生産量を誇る'
     ref: "https://ja.wikipedia.org/wiki/関市#工業"
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
+  - key: gifu_city_pop
+    text: Wikipedia「岐阜市」 https://ja.wikipedia.org/wiki/岐阜市
+  - key: seki_kogyo_r4
+    text: Wikipedia「関市#工業」 https://ja.wikipedia.org/wiki/関市
+  - key: meti_pottery_2022
+    text: Wikipedia「美濃焼」 https://ja.wikipedia.org/wiki/美濃焼
+  - key: motosu_fuyu
+    text: Wikipedia「富有」（富有柿、本巣市が発祥地） https://ja.wikipedia.org/wiki/富有
+  - key: unesco_shirakawago
+    text: UNESCO World Heritage「Historic Villages of Shirakawa-gō and Gokayama」（1995年登録） https://whc.unesco.org/en/list/734
+  - key: nagaragawa_ukai
+    text: Wikipedia「長良川鵜飼」 https://ja.wikipedia.org/wiki/長良川鵜飼
+  - key: unesco_washi
+    text: UNESCO Intangible Cultural Heritage「Washi, craftsmanship of traditional Japanese hand-made paper」（本美濃紙を含む 2014年登録） https://ich.unesco.org/en/RL/washi-craftsmanship-of-traditional-japanese-handmade-paper-01001
+  - key: khi_kakamigahara
+    text: Wikipedia「川崎重工業岐阜工場」（各務原市） https://ja.wikipedia.org/wiki/川崎重工業岐阜工場
+  - key: ibiden_ir
+    text: Wikipedia「イビデン」 https://ja.wikipedia.org/wiki/イビデン
+prefInfo:
+  population: "約 196 万人"
+  populationRank: "全国 17 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "10,621 km²"
+  areaRank: "全国 7 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "岐阜市"
+  capitalNote: "人口 約 40 万人"
+  capitalCite: "gifu_city_pop"
+  highlights:
+    - label: "関市の刃物"
+      value: "家庭用刃物"
+      rank: "国内シェア 約 55%"
+      cite: "seki_kogyo_r4"
+    - label: "美濃焼（東濃地方）"
+      value: "陶磁器食器"
+      rank: "国内シェア 50% 以上"
+      cite: "meti_pottery_2022"
+    - label: "富有柿"
+      value: "本巣市が発祥地"
+      rank: "甘柿の代表品種"
+      cite: "motosu_fuyu"
+    - label: "世界遺産"
+      value: "白川郷の合掌造り集落"
+      rank: "1995 年登録"
+      cite: "unesco_shirakawago"
+    - label: "地形"
+      value: "内陸県"
+      rank: "海に面しない 8 県の 1 つ"
+  geography: "岐阜県は本州中央部に位置する内陸県で、海に面していない。県北部は飛騨山脈・木曽山脈・両白山地などの 3,000m 級の山々が連なる「飛騨地方」で、白川郷の合掌造り集落（世界遺産）や奥飛騨温泉郷を擁する。県南部は濃尾平野の北端にあたる「美濃地方」で、長良川・木曽川・揖斐川の「木曽三川」が県内を縦断し、輪中地帯を形成している。長良川の鵜飼は 1,300 年以上の歴史を持つ伝統漁{{% cite \"nagaragawa_ukai\" %}}。"
+  economy: "関市の刃物（独ゾーリンゲン・英シェフィールドと並ぶ世界三大刃物産地の 1 つ）、東濃地方の美濃焼、美濃市の和紙（ユネスコ無形文化遺産「本美濃紙」{{% cite \"unesco_washi\" %}}）など、伝統的な地場産業が現在も国内有数のシェアを持つ。各務原市には川崎重工業の航空機工場があり、戦前からの航空機産業の中心地{{% cite \"khi_kakamigahara\" %}}。物流業では特別積合せ貨物運送で業界 4 位のセイノーホールディングス、半導体パッケージ基板で世界シェア 50% のイビデン{{% cite \"ibiden_ir\" %}}など、東海道メガロポリスの中核を支える基幹企業も多い。観光面では白川郷・飛騨高山・下呂温泉などのインバウンド需要も大きい。"
+  relatedIndustry:
+    - url: "/industry/japan-pottery/"
+      title: "日本の焼き物産地"
+      note: "美濃焼（土岐市・多治見市）"
+    - url: "/industry/japan-nonferrous/"
+      title: "日本の非鉄金属製錬"
+      note: "神岡鉱業（飛騨市）"
+    - url: "/industry/japan-tungsten/"
+      title: "日本のタングステン産業"
+      note: "三菱マテリアル岐阜製作所"
+    - url: "/industry/japan-power/"
+      title: "日本の電力会社"
+      note: "中部電力エリア"
+    - url: "/industry/japan-cement/"
+      title: "日本のセメント工業"
+      note: "住友大阪セメント岐阜工場（春日）"
 ---
 
 <div class="main-desciption country-description">

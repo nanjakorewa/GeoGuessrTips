@@ -21,6 +21,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/高知県#水産業"
   - text: '温暖な気候を活かした<span class="quiz">促成栽培</span>（なす・ピーマン・みょうが）で全国有数の園芸農業県'
     ref: "https://ja.wikipedia.org/wiki/高知県#農業"
+prefInfo:
+  population: "約 67 万人"
+  populationRank: "全国 45 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "7,103 km²"
+  areaRank: "全国 18 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "高知市"
+  capitalNote: "人口 約 32 万人"
+  geography: '四国の南部、太平洋に面する。県北に四国山地、県南は黒潮の流れる土佐湾。海岸線は東西に長く、室戸岬・足摺岬は本州・四国の南端。四万十川は最後の清流とも呼ばれる日本有数の河川で、沈下橋の景観が GeoGuessr のヒント。冬でも比較的温暖で、年間日照時間は全国上位。土佐湾沖は黒潮の主流が直撃する。'
+  economy: 'なす・しょうが・ゆず・みょうがなど施設園芸（ハウス栽培）が全国上位で、特にしょうがは全国シェアの大半を占める。一本釣りカツオ漁の本場で、土佐の鰹節（土佐節）は伝統産業。林業も盛んで、土佐和紙・土佐備長炭・土佐打刃物などの伝統産業を支える。よさこい祭り発祥の地で、観光業も県経済の柱。製造業の集積は限定的で、本田技研工業や三菱化学など県外資本の工場が中心。'
+  relatedIndustry:
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '四国電力エリア'
+    - url: '/industry/japan-paper/'
+      title: '日本の製紙・パルプ産業'
+      note: '土佐和紙（伝統紙）'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

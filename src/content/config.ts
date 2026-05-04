@@ -171,6 +171,43 @@ const ruleCollection = defineCollection({
     // Related industry pages (cross-collection links)
     relatedIndustry: z.array(z.string()).optional(),
 
+    // Page-level references list. When present, the layout renders the list
+    // below the sibling-countries block and the body's {{% cite "key" %}}
+    // markers are numbered by the order of appearance in this array.
+    references: z.array(z.object({
+      key: z.string(),
+      text: z.string(),
+    })).optional(),
+
+    // Prefecture basic-info card section. When present (typically only on
+    // prefecture pages with is_pref: true), the remark plugin renders an
+    // HTML block immediately before <div id="corp-desc">. All sub-fields
+    // are optional so each prefecture can fill in incrementally.
+    prefInfo: z.object({
+      population: z.string().optional(),
+      populationRank: z.string().optional(),
+      populationCite: z.string().optional(),
+      area: z.string().optional(),
+      areaRank: z.string().optional(),
+      areaCite: z.string().optional(),
+      capital: z.string().optional(),
+      capitalNote: z.string().optional(),
+      capitalCite: z.string().optional(),
+      highlights: z.array(z.object({
+        label: z.string(),
+        value: z.string(),
+        rank: z.string().optional(),
+        cite: z.string().optional(),
+      })).optional(),
+      geography: z.string().optional(),
+      economy: z.string().optional(),
+      relatedIndustry: z.array(z.object({
+        url: z.string(),
+        title: z.string(),
+        note: z.string().optional(),
+      })).optional(),
+    }).optional(),
+
     // Misc
     bgf: z.boolean().optional().default(false),
     author: z.string().optional(),

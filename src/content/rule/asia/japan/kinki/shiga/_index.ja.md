@@ -21,6 +21,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/滋賀県#工業"
   - text: '信楽町は<span class="quiz">信楽焼</span>（たぬきの置物で有名）の産地'
     ref: "https://ja.wikipedia.org/wiki/信楽焼"
+prefInfo:
+  population: "約 141 万人"
+  populationRank: "全国 26 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "4,017 km²"
+  areaRank: "全国 38 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "大津市"
+  capitalNote: "人口 約 34 万人"
+  geography: '近畿地方の北東部に位置する内陸県。県中央に日本最大の湖・琵琶湖（県面積の約 6 分の 1）、周囲を比叡山・伊吹山・鈴鹿山脈・比良山地が囲む。琵琶湖は近畿 1,400 万人の水源で、瀬田川・宇治川を経て淀川として大阪湾に注ぐ。彦根・近江八幡・大津・長浜は中世以来の城下町や商都で、近江商人を輩出した地。'
+  economy: 'ブリヂストン彦根工場をはじめタイヤ製造の重要拠点。製薬（協和発酵バイオ甲賀・武田薬品など）、ガラス（日本電気硝子大津本社）、繊維（近江上布）など多様な製造業。近江牛・近江米・赤こんにゃくは古来からの特産。京都・大阪のベッドタウンとしても発展し、人口減少率が全国でも最も低い県の 1 つ。延暦寺（比叡山）は世界遺産「古都京都の文化財」の構成資産。'
+  relatedIndustry:
+    - url: '/industry/japan-tire/'
+      title: '日本のタイヤ産業'
+      note: 'ブリヂストン彦根工場・東洋ゴム'
+    - url: '/industry/japan-glass/'
+      title: '日本の板ガラス・特殊ガラス産業'
+      note: '日本電気硝子大津本社'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '関西電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

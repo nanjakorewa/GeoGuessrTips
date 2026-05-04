@@ -25,6 +25,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/阿蘇山"
   - text: 'TSMCの工場進出により<span class="quiz">半導体産業</span>の集積が急速に進んでいる'
     ref: "https://ja.wikipedia.org/wiki/Japan_Advanced_Semiconductor_Manufacturing"
+prefInfo:
+  population: "約 171 万人"
+  populationRank: "全国 23 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "7,409 km²"
+  areaRank: "全国 15 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "熊本市"
+  capitalNote: "人口 約 73 万人"
+  geography: '九州中部、有明海・八代海・東シナ海に面する。県中央に阿蘇山（世界最大級のカルデラで南北約 25km・東西約 18km）、南部に九州山地・球磨川。阿蘇は活火山で、阿蘇五岳のシルエットは「阿蘇の涅槃像」と呼ばれ熊本の象徴。天草諸島は東シナ海に浮かぶ島々で、隠れキリシタンの歴史を持つ。'
+  economy: 'TSMC 熊本（菊陽町、JASM）の進出で半導体クラスターの中心地に急浮上、第 1 工場稼働後は第 2 工場・第 3 工場の建設が予定され、九州全体の経済構造を塗り替える勢い。本田技研工業熊本製作所（二輪専用工場）、東海カーボン、再春館製薬などの製造業も立地。スイカ・トマト・アスパラガス・くまもと黒牛など農業も全国上位。八代の畳表（い草）は全国シェア約 9 割。馬刺し・からし蓮根・くまモンが食・キャラクター文化の代表。'
+  relatedIndustry:
+    - url: '/industry/japan-semiconductor/'
+      title: '日本の半導体産業集積地'
+      note: '菊陽町 TSMC（JASM）— 国内最大の海外ファウンドリ進出'
+    - url: '/industry/japan-semiconductor/kyushu/'
+      title: '九州半導体クラスター'
+      note: '熊本中心の九州半導体集積'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '九州電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

@@ -24,6 +24,38 @@ features:
     ref: "https://ja.wikipedia.org/wiki/北海道#農業"
   - text: '冬季は豪雪地帯となり、道路には<span class="quiz">矢羽根付きポール</span>（固定式視線誘導柱）が多く設置されている'
     ref: "https://ja.wikipedia.org/wiki/固定式視線誘導柱"
+prefInfo:
+  population: "約 510 万人"
+  populationRank: "全国 8 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "78,421 km²"
+  areaRank: "全国 1 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "札幌市"
+  capitalNote: "人口 約 195 万人"
+  geography: '日本最北の都道府県で、本州とは津軽海峡で隔てられる。面積は全国の約 22% を占め、知床・大雪山・阿寒摩周・釧路湿原・利尻礼文サロベツ・支笏洞爺の 6 つの国立公園を擁する。冬は本州とは比較にならない豪雪・低温に見舞われ、矢羽根付きポール（固定式視線誘導柱）が街道沿いに多く設置される。広大な土地のため農地は碁盤目状の大区画で整備され、防風林（カラマツや落葉樹）に囲まれた農場景観が GeoGuessr の判別ヒントになる。'
+  economy: '全国の生乳生産量の約 5 割、小麦・じゃがいも・玉ねぎ・てんさい（甜菜）・小豆など畑作物の収量も全国 1 位を多く占める日本最大の食料供給地。漁業も全国 1 位で、釧路・函館・小樽が主要漁港。製紙（王子製紙苫小牧）、製鉄（日本製鉄室蘭）、自動車部品（トヨタ自動車北海道）に加え、千歳ではラピダスによる先端ロジック半導体（2nm）の量産工場が稼働を予定。苫東厚真・知内・伊達などに大規模火力、泊原発も停止中ながら立地する電源地帯。'
+  relatedIndustry:
+    - url: '/industry/japan-paper/'
+      title: '日本の製紙・パルプ産業'
+      note: '王子製紙苫小牧工場（国内最大級のパルプ供給拠点）'
+    - url: '/industry/japan-cement/'
+      title: '日本のセメント工業'
+      note: '太平洋セメント上磯工場・苫小牧'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '北海道電力エリア（泊原発・苫東厚真）'
+    - url: '/industry/japan-semiconductor/'
+      title: '日本の半導体産業集積地'
+      note: '千歳ラピダス（先端ロジック）'
+    - url: '/industry/japan-jr/'
+      title: '日本のJR各社'
+      note: 'JR北海道'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption area-description">

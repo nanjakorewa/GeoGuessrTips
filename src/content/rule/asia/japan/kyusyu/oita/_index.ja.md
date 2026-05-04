@@ -24,6 +24,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/大分県#温泉"
   - text: '大分市の臨海工業地帯には<span class="quiz">鉄鋼・石油化学</span>のコンビナートが立地し、「新産業都市」として発展'
     ref: "https://ja.wikipedia.org/wiki/大分県#工業"
+prefInfo:
+  population: "約 110 万人"
+  populationRank: "全国 34 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "6,341 km²"
+  areaRank: "全国 22 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "大分市"
+  capitalNote: "人口 約 47 万人"
+  geography: '九州の東部、瀬戸内海（豊後水道）・伊予灘に面する。県中央に九重連山・阿蘇山系、南部にリアス式海岸。別府・由布院・湯布院・湯平・天ヶ瀬など温泉の湧出量・源泉数とも全国 1 位（「日本一のおんせん県」を県のブランドとして打ち出す）。中津・宇佐は宇佐神宮（全国 4 万社の八幡宮の総本社）の鎮座地。'
+  economy: '津久見の太平洋セメント・小野田は西日本最大級のセメント生産地（津久見は石灰石産地）。日本製鉄大分は粗鋼生産で国内最大級。臼杵・佐伯の造船（旧臼杵鉄工所など）、九州石油（出光大分）、ソニー大分テクノロジーセンター（撮像素子）など多様。シイタケ（生・乾燥とも全国 1 位）・かぼす・関アジ・関サバ・とり天など食文化も豊か。別府温泉・湯布院温泉のインバウンド需要も大きい。'
+  relatedIndustry:
+    - url: '/industry/japan-cement/'
+      title: '日本のセメント工業'
+      note: '津久見（太平洋セメント）— 西日本最大級'
+    - url: '/industry/japan-shipbuilding/'
+      title: '日本の造船業'
+      note: '臼杵・佐伯の造船'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '九州電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

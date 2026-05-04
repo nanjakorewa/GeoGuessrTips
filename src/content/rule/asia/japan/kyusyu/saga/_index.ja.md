@@ -24,6 +24,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/有田焼"
   - text: '佐賀平野は<span class="quiz">米作</span>が盛んで、クリークと呼ばれる水路網が特徴的な景観'
     ref: "https://ja.wikipedia.org/wiki/佐賀県#農業"
+prefInfo:
+  population: "約 80 万人"
+  populationRank: "全国 41 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "2,441 km²"
+  areaRank: "全国 42 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "佐賀市"
+  capitalNote: "人口 約 23 万人"
+  geography: '九州の北西部、玄界灘・有明海に面する。県東部に脊振山地、南部に有明海干潟。日本最大級の干潟生態系を有し、ムツゴロウ・ワラスボなど独特の生物相。佐賀平野は筑紫平野の一部で米作の中心地。唐津・伊万里・有田は古来からの港町・窯業地。海の中道で福岡・長崎と接続する陸の孤島的な位置だが、九州自動車道・西九州新幹線で交通は改善。'
+  economy: '有田焼・伊万里焼・唐津焼の窯業集積（有田は日本の磁器発祥地、1616 年朝鮮陶工により）。海苔（有明海産）の生産は全国 1 位、いちご「さがほのか」、白石レンコンも農産品の代表。佐世保の三菱重工長崎造船所香焼工場（造船）、ソニーセミコンダクタ熊本連携の集積効果も及ぶ。県西部にはニコン熊本・ソニーセミコンダクタソリューションズ向けの関連工場が立地。'
+  relatedIndustry:
+    - url: '/industry/japan-pottery/'
+      title: '日本の焼き物産地'
+      note: '有田焼・伊万里焼・唐津焼（日本の磁器発祥地）'
+    - url: '/industry/japan-semiconductor/kyushu/'
+      title: '九州半導体クラスター'
+      note: '佐賀の半導体・電子部品関連'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '九州電力・玄海原発'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

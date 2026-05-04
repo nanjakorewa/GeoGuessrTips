@@ -21,6 +21,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/金沢市#伝統工芸"
   - text: '繊維・機械工業が盛んで、<span class="quiz">織機・繊維機械</span>メーカーが集積'
     ref: "https://ja.wikipedia.org/wiki/石川県#産業"
+prefInfo:
+  population: "約 111 万人"
+  populationRank: "全国 33 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "4,186 km²"
+  areaRank: "全国 35 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "金沢市"
+  capitalNote: "人口 約 45 万人"
+  geography: '能登半島が日本海に大きく突き出た北陸の県。県中央の金沢平野、能登半島の里山里海はユネスコ世界農業遺産。白山は富士山・立山と並ぶ日本三霊山の 1 つ。冬は日本海側気候で雪が多いが、能登半島先端の珠洲・輪島は積雪が比較的少ない。2024 年元日の能登半島地震で半島先端部に大きな被害。'
+  economy: '九谷焼・輪島塗・加賀友禅・金沢箔（金箔国内シェア約 99%）など伝統工芸が今も生きる。コマツ粟津工場（建機）が世界市場の中核拠点で、コマツの本社機能の一部が小松にある。津幡・小松には繊維・機械工業の集積。金沢は北陸の金融・観光ハブで、北陸新幹線開業以降観光客が急増。能登のコシヒカリ・加賀の野菜・能登牛・寒ブリ・のどぐろなど食文化も豊か。'
+  relatedIndustry:
+    - url: '/industry/japan-pottery/'
+      title: '日本の焼き物産地'
+      note: '九谷焼（加賀地方）'
+    - url: '/industry/japan-fiber/'
+      title: '日本の合成繊維・炭素繊維産業'
+      note: '小松・能美の繊維産業'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '北陸電力エリア・志賀原発'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

@@ -25,6 +25,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/広島県#工業"
   - text: '呉市は<span class="quiz">造船</span>の街として知られ、戦艦大和を建造した歴史を持つ'
     ref: "https://ja.wikipedia.org/wiki/呉市#工業"
+prefInfo:
+  population: "約 276 万人"
+  populationRank: "全国 12 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "8,479 km²"
+  areaRank: "全国 11 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "広島市"
+  capitalNote: "人口 約 119 万人"
+  geography: '瀬戸内海に面した中国地方最大の県。県中央の広島平野、県東部の福山平野。瀬戸内には宮島（厳島神社）・しまなみ海道。原爆ドーム・厳島神社が世界遺産。三段峡・帝釈峡など県北の渓谷美、県南は瀬戸内多島美。広島湾は牡蠣の養殖筏が並ぶ景観が特徴。'
+  economy: 'マツダ（広島市・府中町）の本社・主力工場が県を代表する。JFE スチール西日本（福山製鉄所）は粗鋼生産で国内最大級、三井造船玉野・常石造船・三菱重工広島造船所など重工業の集積も厚い。レモン（瀬戸内産は国内シェア約 6 割）・もみじまんじゅう・牡蠣（広島湾は全国の 6 割）が代表的食材。お好み焼き（広島焼）と牡蠣を組み合わせた食文化、宮島と原爆ドームの世界遺産観光は県経済の重要な柱。'
+  relatedIndustry:
+    - url: '/industry/japan-industrial-zones/setouchi/'
+      title: '瀬戸内工業地域'
+      note: '福山・呉・広島が中核'
+    - url: '/industry/japan-shipbuilding/'
+      title: '日本の造船業'
+      note: '尾道・常石（常石造船）・呉（旧三菱重工）'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '中国電力本店所在地'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

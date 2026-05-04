@@ -22,6 +22,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/静岡県#農業"
   - text: '浜松市は<span class="quiz">楽器</span>（ヤマハ・河合楽器）と<span class="quiz">オートバイ</span>（スズキ・ヤマハ発動機）の一大生産拠点'
     ref: "https://ja.wikipedia.org/wiki/浜松市#工業"
+prefInfo:
+  population: "約 357 万人"
+  populationRank: "全国 10 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "7,777 km²"
+  areaRank: "全国 13 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "静岡市"
+  capitalNote: "人口 約 68 万人"
+  geography: '東西に長く、富士山・南アルプスを北に、駿河湾・遠州灘を南に擁する。伊豆半島が東部に突き出し、半島南端の下田は黒船来航の地。茶畑・温暖な気候・富士山伏流水が地域文化を形成し、茶畑の整然とした畝（茶ノ木の連なり）は GeoGuessr で目立つランドマーク。沼津・清水・焼津・浜名湖など漁業港・観光地が連なる。'
+  economy: '製紙・パルプは富士市が日本最大の紙生産地で、トイレットペーパー・段ボールの大半をこの地域が供給する。自動車・二輪では浜松にスズキ・ホンダ・ヤマハ発動機の本社／創業地（楽器も含めるとヤマハ・カワイの本社）。茶（やぶきた）の生産量は全国 1 位、みかん・うなぎ・桜エビ・しらすなど農水産品も豊富。御殿場プレミアム・アウトレット、伊豆半島の温泉観光も大きな経済柱。'
+  relatedIndustry:
+    - url: '/industry/japan-paper/'
+      title: '日本の製紙・パルプ産業'
+      note: '富士市（国内最大級の製紙集積）'
+    - url: '/industry/japan-tire/'
+      title: '日本のタイヤ産業'
+      note: 'ブリヂストン横浜タイヤ／関連'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '中部電力エリア・浜岡原発'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

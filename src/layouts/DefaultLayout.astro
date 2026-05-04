@@ -27,6 +27,31 @@ const site = "https://geopinning.space";
 const siteTitle = "GeoGuessrの攻略めも";
 const isHome = false;
 
+// --- References (rendered below sibling-countries) ---
+// `data.references` is the page-level bibliography. Numbering matches the
+// in-body {{% cite "key" %}} markers, which are pre-numbered in frontmatter
+// order by the remark-hugo-shortcodes plugin.
+type RefItem = { key: string; text: string };
+const referenceList: RefItem[] = Array.isArray(data.references)
+  ? data.references
+  : [];
+function linkifyRefText(t: string): string {
+  // Convert bare URLs and <URL> to anchors. PDF URLs become a "PDF" badge
+  // (mirrors the {{% references %}} shortcode output for visual parity).
+  const urlRegex = /<(https?:\/\/[^>]+)>|(https?:\/\/[^\s<]+)/g;
+  return t.replace(urlRegex, (_m, bracketUrl, bareUrl) => {
+    const url = bracketUrl ?? bareUrl;
+    const lower = url.toLowerCase();
+    const isPdf =
+      lower.endsWith(".pdf") ||
+      lower.includes(".pdf?") ||
+      lower.includes(".pdf#");
+    return isPdf
+      ? `<a href="${url}" target="_blank" rel="noopener noreferrer" class="ref-pdf-badge">PDF</a>`
+      : `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`;
+  });
+}
+
 // --- SEO title computation ---
 let seoTitle = "";
 if (data.seo_title) {
@@ -972,6 +997,21 @@ const lastmodDisplay = modifiedTime
                         <li class={s.isUnofficial ? "unofficial-area" : ""}><a href={s.url}>{s.title}</a></li>
                       ))}
                     </ul>
+                  </div>
+                )}
+
+                {/* References — rendered last so it sits below sibling-countries */}
+                {referenceList.length > 0 && (
+                  <div class="references-section" id="references">
+                    <h3 class="references-title">参考文献・出典</h3>
+                    <ol class="references-list">
+                      {referenceList.map((r, i) => (
+                        <li id={`ref-${r.key}`} class="ref-item">
+                          <span class="ref-num">[{i + 1}]</span>{" "}
+                          <span class="ref-text" set:html={linkifyRefText(r.text)} />
+                        </li>
+                      ))}
+                    </ol>
                   </div>
                 )}
               </div>

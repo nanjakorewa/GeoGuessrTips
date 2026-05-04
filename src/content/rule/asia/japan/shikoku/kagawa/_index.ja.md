@@ -22,6 +22,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/讃岐うどん"
   - text: '日本で最も面積が小さい都道府県で、<span class="quiz">ため池</span>の密度が全国最高'
     ref: "https://ja.wikipedia.org/wiki/香川県#地理"
+prefInfo:
+  population: "約 93 万人"
+  populationRank: "全国 40 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "1,877 km²"
+  areaRank: "全国 47 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "高松市"
+  capitalNote: "人口 約 41 万人"
+  geography: '四国の北東部、瀬戸内海に面する日本最小面積の県（全国 47 位）。讃岐平野・讃岐山脈・小豆島が主な地形で、降水量が少ないため古来からため池が発達（満濃池は弘法大師空海が改修）。瀬戸大橋で岡山県と接続。瀬戸内海の多島美は本州・四国・九州を結ぶ航路の中継点として歴史を持つ。'
+  economy: '讃岐うどんの本場で、小麦製粉（日清製粉グループ）も県内で完結する珍しい地域。今治造船多度津造船所など造船関連、丸亀の手袋（皮革手袋・スポーツ手袋）が国内シェア 9 割。直島・豊島はベネッセアートサイトで現代美術観光の聖地、三菱マテリアル直島製錬所がリサイクル銅・貴金属の都市鉱山処理を担う。坂出は瀬戸内工業地域の一角で、塩田跡地に製油所・石油備蓄基地・コスモ石油坂出。'
+  relatedIndustry:
+    - url: '/industry/japan-shipbuilding/'
+      title: '日本の造船業'
+      note: '今治造船多度津造船所'
+    - url: '/industry/japan-nonferrous/'
+      title: '日本の非鉄金属製錬'
+      note: '三菱マテリアル直島製錬所（都市鉱山リサイクル）'
+    - url: '/industry/japan-industrial-zones/setouchi/'
+      title: '瀬戸内工業地域'
+      note: '坂出・宇多津の臨海工業地'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

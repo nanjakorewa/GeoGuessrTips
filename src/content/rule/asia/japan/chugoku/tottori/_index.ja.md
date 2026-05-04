@@ -21,6 +21,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/二十世紀_(ナシ)"
   - text: '鳥取砂丘周辺では<span class="quiz">らっきょう</span>の栽培が盛んで、砂地を活かした農業が特徴'
     ref: "https://ja.wikipedia.org/wiki/鳥取県#農林水産業"
+prefInfo:
+  population: "約 54 万人"
+  populationRank: "全国 47 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "3,507 km²"
+  areaRank: "全国 41 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "鳥取市"
+  capitalNote: "人口 約 18 万人"
+  geography: '日本海に面した中国地方北部の県。鳥取砂丘は日本最大級の海岸砂丘で、東西 16km にわたる。県西部に大山（中国地方最高峰）、県境に蒜山高原。人口は全国最少の 47 位で、米子市・鳥取市・倉吉市の 3 市が県の中心。冬は日本海側気候で雪が多く、大山ろくはスキー場の集積地。'
+  economy: '二十世紀梨・らっきょう・西瓜・松葉ガニなど農水産業が中心。境港は本州西側のサバ・カニ漁の主要港で、サバ漁獲量は全国 1 位。境港市は「ゲゲゲの鬼太郎」作者・水木しげるの出身地で、水木しげるロードが観光資源化されている。鳥取砂丘は梨と並ぶ観光ブランドで、砂の美術館も併設。製造業の集積は限定的で、王子製紙米子工場・鳥取三洋電機（パナソニック系）など。'
+  relatedIndustry:
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '中国電力エリア'
+    - url: '/industry/world-agriculture/'
+      title: '世界の農産物・穀物トレード'
+      note: '二十世紀梨など果樹輸出'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

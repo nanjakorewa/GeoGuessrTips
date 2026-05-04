@@ -21,6 +21,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/会津塗"
   - text: 'いわき市周辺は<span class="quiz">化学・製造業</span>の工場が集積する工業地帯'
     ref: "https://ja.wikipedia.org/wiki/福島県#工業"
+prefInfo:
+  population: "約 179 万人"
+  populationRank: "全国 21 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "13,784 km²"
+  areaRank: "全国 3 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "福島市"
+  capitalNote: "人口 約 28 万人"
+  geography: '東北 6 県で唯一首都圏に隣接する東北最南端で、面積は全国 3 位。県西部は会津地方、中央部は中通り、東部の沿岸が浜通りで、それぞれ気候・文化が異なる。磐梯山・猪苗代湖が中通りと会津の境にあり、奥会津には只見川流域の豪雪山村。会津若松は戊辰戦争の舞台で、白河は江戸の北の関所として歴史を持つ。'
+  economy: '米・桃・なし・きゅうりなど農業県で、桃は全国 2 位、きゅうり生産も上位。浜通りには福島第一原発・第二原発があり、廃炉作業が長期にわたって進行中。浪江町・南相馬の福島ロボットテストフィールド、FH2R（福島水素エネルギー研究フィールド）など新エネルギーの研究拠点が集積。郡山・福島市・いわき市には電子部品・精密機械・化学工業の集積がある。会津地方は漆器（会津塗）・酒造りの伝統。'
+  relatedIndustry:
+    - url: '/industry/japan-hydrogen-ammonia/'
+      title: '日本の水素・アンモニア拠点'
+      note: '浪江 FH2R（福島水素エネルギー研究フィールド）'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '東京電力管内・福島第一/第二原発（廃炉中）'
+    - url: '/industry/japan-semiconductor/'
+      title: '日本の半導体産業集積地'
+      note: '郡山・白河の電子部品工場'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

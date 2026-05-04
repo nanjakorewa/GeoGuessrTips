@@ -21,6 +21,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/南部鉄器"
   - text: '三陸海岸沿いは<span class="quiz">水産加工業</span>が集積し、わかめ養殖は全国1位'
     ref: "https://ja.wikipedia.org/wiki/岩手県#水産業"
+prefInfo:
+  population: "約 119 万人"
+  populationRank: "全国 32 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "15,275 km²"
+  areaRank: "全国 2 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "盛岡市"
+  capitalNote: "人口 約 28 万人"
+  geography: '本州最大の面積を持つ県（全国 2 位）。北上山地と奥羽山脈に挟まれた北上盆地が県の中心で、東岸はリアス式海岸の三陸海岸（陸中海岸国立公園）。盛岡・花巻・遠野などに古い町並みと温泉地、平泉に世界遺産（中尊寺金色堂・毛越寺ほか浄土思想の遺跡群）。八幡平・岩手山が県境に連なり、内陸部は冬の積雪が多い。'
+  economy: '米・畜産（前沢牛・短角牛・南部地鶏）・畑作のバランスが取れた農業県。三陸沿岸はワカメ・カキ・アワビなど漁業が盛んで、宮古・釜石・大船渡が主要漁港。製造業では北上市・金ケ崎町に半導体・自動車関連工場が集積し、東京エレクトロン東北の主力工場とトヨタ自動車東日本（コンパクトカー専門子会社）の生産拠点が立地。釜石は近代製鉄発祥の地で、現在も日本製鉄釜石製鐵所（線材）が稼働。盛岡は南部鉄器の伝統。'
+  relatedIndustry:
+    - url: '/industry/japan-semiconductor/'
+      title: '日本の半導体産業集積地'
+      note: '北上 東京エレクトロン東北'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '東北電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

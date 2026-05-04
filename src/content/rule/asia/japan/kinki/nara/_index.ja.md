@@ -21,6 +21,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/広陵町#産業"
   - text: '吉野地方は<span class="quiz">吉野杉・吉野桧</span>の林業が盛んで、500年以上の歴史を持つ'
     ref: "https://ja.wikipedia.org/wiki/吉野杉"
+prefInfo:
+  population: "約 130 万人"
+  populationRank: "全国 29 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "3,691 km²"
+  areaRank: "全国 40 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "奈良市"
+  capitalNote: "人口 約 35 万人"
+  geography: '近畿地方の中部、海に面しない 8 県の 1 つ。県北部に奈良盆地、南部は紀伊山地で吉野・大峰山系・大台ヶ原。古都奈良の文化財・法隆寺地域・紀伊山地の霊場と参詣道はいずれも世界遺産で、世界遺産が 3 件ある日本有数の文化遺産県。奈良盆地は弥生時代以来の日本史の舞台。'
+  economy: '靴下生産は全国シェア約 6 割で、広陵町が中心地。プラスチック手袋・蚊帳・墨・筆など独特の地場産業が多く、奈良墨は国産墨の 9 割以上を占める。観光業（東大寺・春日大社・興福寺・法隆寺）が県経済の重要な柱で、奈良公園の野生鹿は天然記念物。大阪・京都のベッドタウンとして奈良市・生駒市・橿原市が発達したが、京都・大阪に通う通勤者比率が高く県内雇用は限定的。'
+  relatedIndustry:
+    - url: '/industry/japan-fiber/'
+      title: '日本の合成繊維・炭素繊維産業'
+      note: '広陵町の靴下産業（国内シェア約 6 割）'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '関西電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

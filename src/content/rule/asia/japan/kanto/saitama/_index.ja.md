@@ -21,6 +21,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/埼玉県#人口"
   - text: '川口市は<span class="quiz">鋳物</span>の街として知られ、江戸時代から続く金属加工産業が集積'
     ref: "https://ja.wikipedia.org/wiki/川口市#工業"
+prefInfo:
+  population: "約 734 万人"
+  populationRank: "全国 5 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "3,798 km²"
+  areaRank: "全国 39 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "さいたま市"
+  capitalNote: "人口 約 134 万人"
+  geography: '東京都の北側に隣接する関東平野の内陸県。県西部に秩父山地、東部・南部は荒川・利根川流域の平野。海に面しない 8 県の 1 つ。武蔵野台地と荒川低地が県の中央を東西に分け、川越・所沢・春日部などのベッドタウンが東京通勤圏として発達。秩父盆地は山に囲まれた独自の文化圏。'
+  economy: '東京都に隣接するため物流・倉庫業の集積が顕著で、圏央道・関越道沿線に巨大物流センターが集中する。本田技研工業の主力 2 輪・4 輪工場（狭山・寄居）、ロッテ浦和工場、味の素・キユーピー埼玉工場など首都圏の食品工業も多い。秩父地域はセメント（武甲山由来の石灰石）の産地で、太平洋セメント熊谷・三菱マテリアル横瀬の拠点がある。深谷ねぎ・狭山茶が農産物の代表。'
+  relatedIndustry:
+    - url: '/industry/japan-logistics/'
+      title: '日本のロジスティクス'
+      note: '圏央道沿線（久喜・坂戸・狭山等の物流拠点）'
+    - url: '/industry/japan-cement/'
+      title: '日本のセメント工業'
+      note: '秩父・熊谷（武甲山系石灰石）'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '東京電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

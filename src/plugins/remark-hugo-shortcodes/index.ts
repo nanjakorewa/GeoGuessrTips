@@ -14,6 +14,8 @@
  * This is critical because block shortcodes like tabs/notice span
  * multiple markdown blocks and cannot be handled at the AST level.
  */
+import fs from "node:fs";
+import yaml from "js-yaml";
 import type { Plugin } from "unified";
 import type { Root } from "mdast";
 import type { VFile } from "vfile";
@@ -22,6 +24,8 @@ import {
   processBlockShortcode,
   processInlineShortcode,
 } from "./parser.ts";
+
+import { t } from "../../i18n/translations.ts";
 
 // Shortcode handlers
 import { noticeHandler } from "./shortcodes/notice.ts";
@@ -34,7 +38,8 @@ import { refHandler } from "./shortcodes/ref.ts";
 import { lbHandler } from "./shortcodes/lb.ts";
 import { rdHandler } from "./shortcodes/rd.ts";
 import { resetQuizState, quizHandler } from "./shortcodes/quiz.ts";
-import { resetCitationState, citeHandler, referencesHandler } from "./shortcodes/cite.ts";
+import { resetCitationState, initializeCitationRegistry, citeHandler, referencesHandler } from "./shortcodes/cite.ts";
+import { renderPrefInfoHtml, type PrefInfoData } from "./shortcodes/prefinfo.ts";
 import {
   colorHandler,
   maruHandler,
@@ -95,19 +100,47 @@ function getRuleSlugFromVFile(vfile: VFile): string | null {
 }
 
 /**
+ * Read & parse the YAML frontmatter from disk. Returns {} if unavailable.
+ * Astro strips frontmatter from the doc string before remark plugins run,
+ * so we re-read the source file. Cheap (small files, once per build).
+ */
+function getFrontmatterFromVFile(vfile: VFile): Record<string, any> {
+  const filePath =
+    (vfile as any).path || (vfile as any).history?.[0] || "";
+  if (!filePath) return {};
+  try {
+    const content = fs.readFileSync(filePath, "utf-8");
+    // Match either LF or CRLF line endings (`\r?\n`).
+    const m = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+    if (!m) return {};
+    return (yaml.load(m[1]) as Record<string, any>) || {};
+  } catch {
+    return {};
+  }
+}
+
+/**
  * Process all shortcodes in a text string.
  * Order matters: inner shortcodes must be processed before outer ones.
  */
 function processAllShortcodes(
   text: string,
   lang: Language,
-  ruleSlug: string | null
+  ruleSlug: string | null,
+  pageTitle: string,
+  referenceKeys: string[],
+  prefInfo: PrefInfoData | null
 ): string {
   let result = text;
 
   // Reset per-page state
   resetQuizState();
-  resetCitationState();
+  if (referenceKeys.length > 0) {
+    // Frontmatter declares references — number cites by frontmatter order
+    initializeCitationRegistry(referenceKeys);
+  } else {
+    resetCitationState();
+  }
 
   // --- Pass 0: Named-param shortcodes (custom regex) ---
   // amazoncard uses named params: {{% amazoncard url="..." title="..." %}}
@@ -115,6 +148,31 @@ function processAllShortcodes(
     /\{\{%\s*amazoncard([\s\S]*?)%\}\}/g,
     (_match, rawArgs) => amazoncardHandler(rawArgs)
   );
+
+  // Empty <ul class="rule-list"></ul> → placeholder paragraph.
+  // Stub pages (no items recorded yet) end up showing only the section
+  // header above an empty list, which looks broken. Substitute a localized
+  // "not yet documented" message that mentions the page title.
+  result = result.replace(
+    /<ul\s+class="rule-list"\s*>\s*<\/ul>/g,
+    () => {
+      const message = t("rule-list-empty", lang).replace("%s", pageTitle);
+      return `<p class="rule-list-empty">${message}</p>`;
+    }
+  );
+
+  // Frontmatter `prefInfo` → render an HTML block immediately before
+  // <div id="corp-desc">. The injected block may include {{% cite %}}
+  // markers, which subsequent passes will resolve.
+  if (prefInfo) {
+    const prefInfoHtml = renderPrefInfoHtml(prefInfo, pageTitle, lang);
+    if (prefInfoHtml) {
+      const corpDescOpen = /<div\b[^>]*\bid=["']corp-desc["']/;
+      if (corpDescOpen.test(result)) {
+        result = result.replace(corpDescOpen, (m) => `${prefInfoHtml}\n\n${m}`);
+      }
+    }
+  }
 
   // --- Pass 1: Inline (self-closing) shortcodes ---
   // These appear inside block shortcodes and must be resolved first.
@@ -252,7 +310,23 @@ const remarkHugoShortcodes: Plugin<[], Root> = function () {
     self.parser = function (doc: string, file: VFile) {
       const lang = getLanguageFromVFile(file);
       const ruleSlug = getRuleSlugFromVFile(file);
-      const processed = processAllShortcodes(doc, lang, ruleSlug);
+      const fm = getFrontmatterFromVFile(file);
+      const pageTitle = (typeof fm.title === "string" ? fm.title : "");
+      const referenceKeys: string[] = Array.isArray(fm.references)
+        ? fm.references
+            .map((r: any) => (r && typeof r.key === "string" ? r.key : ""))
+            .filter(Boolean)
+        : [];
+      const prefInfo: PrefInfoData | null =
+        fm.prefInfo && typeof fm.prefInfo === "object" ? fm.prefInfo : null;
+      const processed = processAllShortcodes(
+        doc,
+        lang,
+        ruleSlug,
+        pageTitle,
+        referenceKeys,
+        prefInfo
+      );
       return originalParser.call(this, processed, file);
     };
   }

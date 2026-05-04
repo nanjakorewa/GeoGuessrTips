@@ -23,6 +23,35 @@ features:
     ref: "https://ja.wikipedia.org/wiki/大阪府#経済"
   - text: '堺市を中心とした<span class="quiz">刃物</span>産業は600年以上の歴史を持ち、プロ用包丁の国内シェアは約9割'
     ref: "https://ja.wikipedia.org/wiki/堺市#工業"
+prefInfo:
+  population: "約 877 万人"
+  populationRank: "全国 3 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "1,905 km²"
+  areaRank: "全国 46 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "大阪市"
+  capitalNote: "人口 約 277 万人"
+  geography: '近畿地方の中心で、大阪湾に面する。淀川・大和川など大河川が流入し、市街地は埋立地と低地が多い。府の南部に泉州（堺以南）の海岸・丘陵地帯、北部に北摂山地（千里・箕面）。古墳時代の百舌鳥・古市古墳群は世界遺産。関西国際空港は大阪湾の人工島に立地する 24 時間運用の国際空港。'
+  economy: '西日本最大の経済圏で、商業・卸売の中心として「天下の台所」の歴史。道修町は江戸期からの薬種街で、現在も武田薬品・塩野義・大日本住友製薬・田辺三菱の本社が集積する製薬の中心地。堺は刃物（プロ用包丁国内シェア約 9 割）と自転車部品（シマノ本社）。池田に日清食品創業地（インスタントラーメン誕生）。泉州は綿織物・タオル・水なすの伝統産業地。商社（伊藤忠・住友・丸紅・双日のルーツ）と海運（商船三井・川崎汽船のルーツ）も大阪発祥で、大阪本社／関西本社を残す企業も多い。'
+  relatedIndustry:
+    - url: '/industry/japan-instant-noodle/'
+      title: 'インスタントラーメンの世界戦争'
+      note: '池田で日清食品が世界初のインスタントラーメンを発売（1958）'
+    - url: '/industry/japan-trading-company/'
+      title: '日本の商社'
+      note: '伊藤忠・住友商事・丸紅・双日のルーツ'
+    - url: '/industry/japan-fiber/'
+      title: '日本の合成繊維・炭素繊維産業'
+      note: '東洋紡（大阪本社）・泉州綿織物'
+    - url: '/industry/japan-shipping/'
+      title: '日本の海運業'
+      note: '大阪港・阪神港'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

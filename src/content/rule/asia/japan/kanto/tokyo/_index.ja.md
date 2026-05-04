@@ -20,6 +20,35 @@ mapPins:
 features:
   - text: '日本の首都で人口約1,400万人。日本企業の本社が最も集中する<span class="quiz">経済の中心地</span>'
     ref: "https://ja.wikipedia.org/wiki/東京都"
+prefInfo:
+  population: "約 1,406 万人"
+  populationRank: "全国 1 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "2,200 km²"
+  areaRank: "全国 45 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "新宿区(都庁)"
+  capitalNote: "人口（都全域）約 1,406 万人"
+  geography: '日本の首都。区部・多摩地域・伊豆諸島・小笠原諸島から成り、面積は全国 45 位と狭いが、人口は約 1,406 万人で全国 1 位。23 区は江戸城（皇居）を中心に放射状に発展した世界有数の人口密集地で、多摩地域は丘陵と山地、伊豆諸島は火山島群、小笠原諸島はユネスコ世界自然遺産で本土から 1,000km 離れた亜熱帯。'
+  economy: '日本最大の経済圏で、上場企業の本社の半数以上、外資系企業の大半が集中する。総合商社（三菱商事・三井物産・伊藤忠・住友・丸紅）、メガバンク（三菱 UFJ・三井住友・みずほ）、海運大手（日本郵船・商船三井・川崎汽船）、大手電機（日立・東芝・ソニー）、自動車（ホンダ）の本社が東京にあり、グローバル企業の意思決定機能が集積する。羽田空港は国際線・国内線のハブで、東京港はコンテナ取扱量で全国上位。23 区は商業・サービス業中心で工業集積は低いが、大田区は中小製造業（金属加工・精密機械）の世界的な集積地。'
+  relatedIndustry:
+    - url: '/industry/japan-trading-company/'
+      title: '日本の商社'
+      note: '5 大商社（三菱・三井・伊藤忠・住友・丸紅）の本社所在地'
+    - url: '/industry/japan-shipping/'
+      title: '日本の海運業'
+      note: '日本郵船・商船三井・川崎汽船の本社'
+    - url: '/industry/japan-logistics/'
+      title: '日本のロジスティクス'
+      note: '首都圏物流の中枢'
+    - url: '/industry/japan-jr/'
+      title: '日本のJR各社'
+      note: 'JR 東日本・JR 東海・JR 貨物の本社'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

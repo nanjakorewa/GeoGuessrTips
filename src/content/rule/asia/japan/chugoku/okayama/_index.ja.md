@@ -25,6 +25,35 @@ features:
     ref: "https://ja.wikipedia.org/wiki/水島コンビナート"
   - text: '備前市は<span class="quiz">備前焼</span>の産地で、釉薬を使わない素朴な焼き物として千年以上の歴史を持つ'
     ref: "https://ja.wikipedia.org/wiki/備前焼"
+prefInfo:
+  population: "約 186 万人"
+  populationRank: "全国 20 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "7,114 km²"
+  areaRank: "全国 17 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "岡山市"
+  capitalNote: "人口 約 71 万人"
+  geography: '瀬戸内海に面し、中国山地と瀬戸内海に挟まれる。岡山平野は穀倉地帯で、吉井川・旭川・高梁川の三大河川が流れる。瀬戸内側は晴天日数が多く「晴れの国」と呼ばれ、降水量が少ないため農業用ため池の数が日本トップクラス。瀬戸大橋で香川県（四国）と接続。'
+  economy: '水島コンビナートは瀬戸内工業地域の中核で、JFE 西日本（旧川崎製鉄）・三菱自工水島・三菱ケミカル・出光興産などが集積。倉敷市児島はジーンズ発祥地で、国内最大の繊維産地（ジーンズ・学生服）。備前焼（六古窯の 1 つで、釉薬を使わない焼き締め陶器）の伝統。マスカット・ピオーネ・桃（白桃）など果樹も全国上位。倉敷美観地区は江戸期の白壁の町並みが観光地化。'
+  relatedIndustry:
+    - url: '/industry/japan-combinat/mizushima/'
+      title: '水島コンビナート'
+      note: '倉敷市水島の鉄鋼・石油化学コンビナート'
+    - url: '/industry/japan-industrial-zones/setouchi/'
+      title: '瀬戸内工業地域'
+      note: '岡山県南部（水島）が中核地'
+    - url: '/industry/japan-pottery/'
+      title: '日本の焼き物産地'
+      note: '備前焼（六古窯）'
+    - url: '/industry/japan-shipping/'
+      title: '日本の海運業'
+      note: '水島港（取扱貨物量全国上位）'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

@@ -25,6 +25,35 @@ features:
     ref: "https://ja.wikipedia.org/wiki/愛知県#工業"
   - text: '名古屋市は日本三大都市圏の一つである<span class="quiz">中京圏</span>の中心都市'
     ref: "https://ja.wikipedia.org/wiki/中京圏"
+prefInfo:
+  population: "約 750 万人"
+  populationRank: "全国 4 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "5,173 km²"
+  areaRank: "全国 27 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "名古屋市"
+  capitalNote: "人口 約 232 万人"
+  geography: '濃尾平野の南東部に位置し、伊勢湾・三河湾に面する。県西部は名古屋を中心とした平野部、東部は三河山地。知多半島・渥美半島が南に突き出し、それぞれ農業（キャベツ・電照菊・メロン）の主産地。木曽川・矢作川・豊川が県を流れ、木曽三川（木曽・長良・揖斐）の一部は岐阜・三重との境を流れる。'
+  economy: 'トヨタ自動車本社・主力工場（豊田市）を中核とする「クルマの愛知」。製造品出荷額は 40 年以上連続で全国 1 位で、日本の製造業の中核。デンソー・アイシン・豊田自動織機・ジェイテクトなどトヨタグループ各社の本社も愛知に集中。名古屋港は完成車輸出量で日本最大、コンテナ取扱量も全国上位。瀬戸焼・常滑焼の窯業（六古窯のうち 2 つ）、一宮・知多の繊維（毛織物）、東邦ガス・中部電力など多様な産業基盤を持つ。'
+  relatedIndustry:
+    - url: '/industry/japan-robotics/'
+      title: '日本の産業用ロボット産業'
+      note: 'デンソー・ファナック取引先・トヨタ系自動化'
+    - url: '/industry/japan-pottery/'
+      title: '日本の焼き物産地'
+      note: '瀬戸焼・常滑焼（六古窯）'
+    - url: '/industry/japan-fiber/'
+      title: '日本の合成繊維・炭素繊維産業'
+      note: '一宮（毛織物）・東レ'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '中部電力本社'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

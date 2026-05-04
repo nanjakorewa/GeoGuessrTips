@@ -21,6 +21,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/阿波藍"
   - text: '鳴門市は<span class="quiz">鳴門金時（さつまいも）</span>や鳴門わかめの産地として知られる'
     ref: "https://ja.wikipedia.org/wiki/鳴門金時"
+prefInfo:
+  population: "約 70 万人"
+  populationRank: "全国 44 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "4,147 km²"
+  areaRank: "全国 36 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "徳島市"
+  capitalNote: "人口 約 25 万人"
+  geography: '四国の東部、瀬戸内海・紀伊水道に面する。県北は吉野川・讃岐山脈、県南は剣山（四国第二の高峰）・那賀川流域の山地。鳴門海峡に世界三大潮流の 1 つ・鳴門の渦潮、大鳴門橋で淡路島（兵庫県）と接続。県南の海部郡には黒潮の流れる清流（海部川）でサーフィン・川下りが盛ん。'
+  economy: '日亜化学工業（阿南）は青色 LED・LED チップで世界トップクラスのシェアを持ち、徳島県の工業出荷額の大きな部分を占める唯一無二の企業。徳島市は阿波踊り（毎年 8 月）で全国的に知られ、すだち・なるとオレンジ・なると金時・鳴門わかめなど農水産物も多い。藍染め（阿波藍）は江戸期からの伝統工芸で、ジャパン・ブルーの由来。'
+  relatedIndustry:
+    - url: '/industry/japan-semiconductor/'
+      title: '日本の半導体産業集積地'
+      note: '阿南 日亜化学工業（青色 LED 世界トップ）'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '四国電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

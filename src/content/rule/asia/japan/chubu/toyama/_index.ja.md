@@ -21,6 +21,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/富山の売薬"
   - text: '<span class="quiz">黒部ダム</span>をはじめとする水力発電が豊富で、アルミ産業など電力多消費型産業が発達'
     ref: "https://ja.wikipedia.org/wiki/黒部ダム"
+prefInfo:
+  population: "約 102 万人"
+  populationRank: "全国 37 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "4,248 km²"
+  areaRank: "全国 33 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "富山市"
+  capitalNote: "人口 約 41 万人"
+  geography: '富山湾に面し、立山連峰・剱岳・薬師岳など 3,000m 級の北アルプスが県南東に連なる。黒部峡谷・宇奈月温泉・室堂・黒部ダムなど山岳観光地が豊富。富山平野は黒部川・常願寺川・神通川・庄川がつくる扇状地で、河川密度が高く水資源に恵まれる。富山湾はホタルイカ・白エビ・ベニズワイガニなど深海生物の漁場。'
+  economy: '「越中富山の薬売り」で知られる配置薬の伝統から、医薬品製造業が今も県の主要産業（県内製薬出荷額は全国上位）。アルミ二次加工は三協立山・YKK AP（黒部）が中核で、戦後の安価な水力発電（黒部ダム由来）を背景にアルミ精錬が栄えた歴史を持つ。スズキ高岡工場、北陸電力本店、不二越のベアリングなど機械・金属加工も多い。富山湾岸の伏木富山港は対岸貿易の主要港。氷見漁港のブリ、富山ブラックラーメンも有名。'
+  relatedIndustry:
+    - url: '/industry/japan-drugstore/'
+      title: '日本のドラッグストア業界'
+      note: '配置薬発祥の地・製薬企業の集積'
+    - url: '/industry/japan-fiber/'
+      title: '日本の合成繊維・炭素繊維産業'
+      note: 'YKK 黒部・繊維・ファスナー'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '北陸電力本店・黒部川水系の水力発電'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

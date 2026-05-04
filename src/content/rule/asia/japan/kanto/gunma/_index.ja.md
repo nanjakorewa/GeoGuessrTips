@@ -21,6 +21,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/群馬県#工業"
   - text: '<span class="quiz">こんにゃく</span>の生産量は全国の約9割を占める'
     ref: "https://ja.wikipedia.org/wiki/群馬県#農業"
+prefInfo:
+  population: "約 192 万人"
+  populationRank: "全国 18 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "6,362 km²"
+  areaRank: "全国 21 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "前橋市"
+  capitalNote: "人口 約 33 万人"
+  geography: '関東平野の北西端の内陸県。北部に谷川岳・尾瀬・草津白根山、南部に赤城山・榛名山・妙義山（上毛三山）。利根川源流域で、首都圏の水源となる矢木沢ダム・奈良俣ダムが立地。海に面しない 8 県の 1 つで、嬬恋村は夏でも涼しい高原野菜の産地。'
+  economy: 'SUBARU の本社・主力工場が太田市にあり、自動車関連の中核県。三菱電機・パナソニックの群馬製作所も立地。富岡製糸場（世界遺産）に象徴される製糸の伝統があり、こんにゃく芋は全国の約 9 割を生産。キャベツ（嬬恋）・下仁田ねぎ・上州牛・下仁田こんにゃくなど農業も多様で、伊勢崎銘仙・桐生織など絹織物の伝統工芸が今も残る。'
+  relatedIndustry:
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '東京電力エリア・水力発電（利根川水系）'
+    - url: '/industry/japan-tire/'
+      title: '日本のタイヤ産業'
+      note: 'ブリヂストン東洋タイヤ／関連工場'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

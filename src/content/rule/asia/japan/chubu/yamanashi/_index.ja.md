@@ -22,6 +22,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/山梨県#農業"
   - text: '日本一の<span class="quiz">富士山</span>（標高3,776m）の北麓に位置し、富士五湖を有する'
     ref: "https://ja.wikipedia.org/wiki/富士山"
+prefInfo:
+  population: "約 80 万人"
+  populationRank: "全国 41 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "4,465 km²"
+  areaRank: "全国 32 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "甲府市"
+  capitalNote: "人口 約 19 万人"
+  geography: '富士山・八ヶ岳・南アルプス・甲斐駒ヶ岳など 3,000m 級の山岳に囲まれた内陸県。甲府盆地が県の中心で、富士五湖（山中湖・河口湖・西湖・精進湖・本栖湖）が県南東部にある。海に面しない 8 県の 1 つで、年間日照時間が長く果樹栽培に適する。甲州街道（江戸の五街道の 1 つ）が県を東西に貫き、宿場町の歴史を残す。'
+  economy: 'ぶどう・もも・すももの生産量が全国 1 位で、ワイン産業（甲州ワイン）の中心地。勝沼地区は日本ワインの発祥地として明治期からのワイナリー文化を持つ。ファナック（産業用ロボットで世界シェア約 22%、CNC で世界シェア約 50%）の本社・工場が忍野村にあり、この 1 社の存在で県の工業出荷額が大きく振れる。富士急行・身延線が県内交通を支え、富士吉田・河口湖は富士山観光の拠点。甲府盆地は宝石・水晶研磨の伝統産業地。'
+  relatedIndustry:
+    - url: '/industry/japan-robotics/'
+      title: '日本の産業用ロボット産業'
+      note: 'ファナック（忍野村）— 世界シェア首位級'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '東京電力エリア（駿河湾以東）'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

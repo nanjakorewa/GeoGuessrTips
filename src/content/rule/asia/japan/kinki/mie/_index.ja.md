@@ -21,6 +21,35 @@ features:
     ref: "https://ja.wikipedia.org/wiki/四日市コンビナート"
   - text: '伊勢志摩地域は<span class="quiz">真珠養殖</span>の発祥地で、ミキモトが御木本幸吉により創業された'
     ref: "https://ja.wikipedia.org/wiki/ミキモト"
+prefInfo:
+  population: "約 174 万人"
+  populationRank: "全国 22 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "5,774 km²"
+  areaRank: "全国 25 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "津市"
+  capitalNote: "人口 約 27 万人"
+  geography: '紀伊半島の東部、伊勢湾・熊野灘に面する。北部は伊勢平野、南部は紀伊山地・熊野古道（世界遺産「紀伊山地の霊場と参詣道」）。志摩半島はリアス式海岸で、的矢湾の真珠養殖は御木本幸吉発祥。伊勢神宮は国家神道の中心地で年間数百万人が参拝。鈴鹿サーキットは F1 日本グランプリの開催地。'
+  economy: '四日市コンビナートは石油精製・石油化学（コスモ石油・東ソー・三菱ケミカル）の集積地で、四大コンビナートの 1 つ。1960 年代の四日市ぜんそくの教訓を経て公害規制の先進地に。キオクシア四日市は世界有数の NAND フラッシュメモリ拠点で、ウエスタンデジタルとの合弁。鈴鹿には日清食品（インスタントラーメン発祥地）の主力工場、本田技研鈴鹿製作所。萬古焼（菰野・四日市）の産地で、土鍋の国内シェア約 8 割。松阪牛・伊勢海老・伊勢茶など食材も豊富。'
+  relatedIndustry:
+    - url: '/industry/japan-semiconductor/'
+      title: '日本の半導体産業集積地'
+      note: 'キオクシア四日市（NAND フラッシュ）'
+    - url: '/industry/japan-instant-noodle/'
+      title: 'インスタントラーメンの世界戦争'
+      note: '鈴鹿に日清食品の主力工場'
+    - url: '/industry/japan-pottery/'
+      title: '日本の焼き物産地'
+      note: '萬古焼（菰野・四日市）'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '中部電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

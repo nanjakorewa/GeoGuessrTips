@@ -18,6 +18,20 @@ export function resetCitationState(): void {
 }
 
 /**
+ * Pre-populate the citation registry with keys in a fixed order.
+ * Used when references are declared in frontmatter — body cite numbers
+ * then follow frontmatter order rather than body appearance order.
+ */
+export function initializeCitationRegistry(keys: string[]): void {
+  citationRegistry = new Map();
+  citationCounter = 0;
+  for (const key of keys) {
+    citationCounter++;
+    citationRegistry.set(key, citationCounter);
+  }
+}
+
+/**
  * cite: {{% cite "key" %}}
  * Registers the key (if new) and returns a superscript link.
  * Example: {{% cite "jpca2024" %}} → <sup>[1]</sup>

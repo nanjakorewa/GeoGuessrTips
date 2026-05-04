@@ -23,6 +23,29 @@ features:
     ref: "https://ja.wikipedia.org/wiki/沖縄県"
   - text: '1972年までアメリカ統治下にあった歴史から、<span class="quiz">米軍基地</span>が多数存在する'
     ref: "https://ja.wikipedia.org/wiki/沖縄県#米軍基地"
+prefInfo:
+  population: "約 146 万人"
+  populationRank: "全国 25 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "2,283 km²"
+  areaRank: "全国 44 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "那覇市"
+  capitalNote: "人口 約 32 万人"
+  geography: '日本最南端の県で、沖縄本島・宮古諸島・八重山諸島など 160 以上の島々から成る。亜熱帯気候で、サンゴ礁・マングローブ林・赤瓦の伝統建築が本土と全く異なる景観。最南端は沖ノ鳥島、最西端は与那国島、いずれも台湾に近い。海に面しないどころか県全域が島嶼で、本土との交通は航空・船舶のみ。'
+  economy: '観光業が県経済の中心で、特に石垣・宮古・本部のリゾート地はインバウンド需要が拡大。米軍基地が県面積の約 8%、本島の約 15% を占め、嘉手納・普天間・キャンプ・ハンセンなど主要基地が集中。製糖業（サトウキビ）・パイナップル・ゴーヤ・もずく・島豆腐などの農水産物。本土とは異なる赤瓦・シーサーの建築文化、ハイビスカス・デイゴなど亜熱帯植物の景観が GeoGuessr の判別に有効。沖縄銀行・琉球銀行など独自の金融機関、沖縄電力（本土と独立した送電系統）も特徴。'
+  relatedIndustry:
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '沖縄電力（本土と独立した系統）'
+    - url: '/industry/japan-shipping/'
+      title: '日本の海運業'
+      note: '那覇港・本部港'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

@@ -21,6 +21,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/山形県#農業"
   - text: '天童市は将棋駒の生産量が全国の約9割を占める<span class="quiz">将棋駒の産地</span>'
     ref: "https://ja.wikipedia.org/wiki/天童市#将棋駒"
+prefInfo:
+  population: "約 105 万人"
+  populationRank: "全国 35 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "9,323 km²"
+  areaRank: "全国 9 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "山形市"
+  capitalNote: "人口 約 24 万人"
+  geography: '出羽山地と奥羽山脈に挟まれ、最上川が県を縦断する。庄内平野は県西部の穀倉地帯。県東部に蔵王連峰、北部に月山・羽黒山・湯殿山（出羽三山）。最上川の流域に米沢・山形・新庄の盆地が並び、それぞれ独自の方言・食文化・気候を形成。冬は日本海側気候で豪雪。'
+  economy: '米・サクランボ・西洋ナシ（ラ・フランス）・ぶどう（デラウェア）などの果樹生産が全国上位で、サクランボは全国の約 7 割を占める。製造業では半導体（東北エプソン酒田・米沢）、信越化学武生工場の連携拠点、米沢の絹織物（米沢織）が地場産業。山形鋳物は日本伝統工芸品で、最上川舟運の歴史を背景に河口の酒田が「西の堺、東の酒田」と呼ばれた。'
+  relatedIndustry:
+    - url: '/industry/japan-semiconductor/'
+      title: '日本の半導体産業集積地'
+      note: '鶴岡・米沢の半導体・電子部品工場'
+    - url: '/industry/japan-fiber/'
+      title: '日本の合成繊維・炭素繊維産業'
+      note: '米沢の繊維産業（米織）'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '東北電力エリア'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">

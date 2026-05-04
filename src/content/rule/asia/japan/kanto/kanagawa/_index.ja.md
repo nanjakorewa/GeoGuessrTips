@@ -22,6 +22,32 @@ features:
     ref: "https://ja.wikipedia.org/wiki/横浜港"
   - text: '京浜工業地帯の中核を担い、自動車・石油化学などの<span class="quiz">重工業</span>が集積'
     ref: "https://ja.wikipedia.org/wiki/京浜工業地帯"
+prefInfo:
+  population: "約 921 万人"
+  populationRank: "全国 2 位 / 47 都道府県"
+  populationCite: "stat_jinsui_2024"
+  area: "2,416 km²"
+  areaRank: "全国 43 位"
+  areaCite: "gsi_mencho_2024"
+  capital: "横浜市"
+  capitalNote: "人口 約 377 万人"
+  geography: '東京都の南側に隣接し、東京湾と相模湾に面する。三浦半島・湘南海岸・箱根山・丹沢山地など多様な地形。横浜・川崎は京浜工業地帯の中核で東京湾岸の埋立地が広く広がる。箱根・芦ノ湖は富士箱根伊豆国立公園で観光地、鎌倉は中世武家政権の中心地として歴史的建造物が残る。'
+  economy: '京浜工業地帯は鉄鋼（JFE 京浜は休止）・石油精製（東燃ゼネラル川崎・JX エネルギー）・化学・自動車（日産横浜・ホンダ栃木）の集積地で、首都圏最大の工業地帯。横浜港は全国有数のコンテナ取扱量と完成車輸出入を担う。本社機能では日産自動車・東芝・キヤノン・富士通・JVC ケンウッドなどグローバル製造業が立地。藤沢・厚木に研究所集積、横須賀には米軍基地と海上自衛隊。'
+  relatedIndustry:
+    - url: '/industry/japan-shipping/'
+      title: '日本の海運業'
+      note: '横浜港（首都圏のコンテナ・完成車輸出入)'
+    - url: '/industry/japan-power/'
+      title: '日本の電力会社'
+      note: '東京電力エリア・横須賀火力'
+    - url: '/industry/japan-logistics/'
+      title: '日本のロジスティクス'
+      note: '京浜港湾物流'
+references:
+  - key: stat_jinsui_2024
+    text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
+  - key: gsi_mencho_2024
+    text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 ---
 
 <div class="main-desciption country-description">
