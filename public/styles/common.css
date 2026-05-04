@@ -684,6 +684,57 @@ h2[id] {
   padding: 1.25rem 1rem;
 }
 
+/* Sidebar bottom — Amazon affiliate ad block (book covers). Fills the empty
+   space below the navigation tree on long pages. */
+.sidebar-ads {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-soft);
+}
+.sidebar-ads__label {
+  font-size: 0.7rem;
+  color: #6c757d;
+  letter-spacing: 0.04em;
+  text-align: center;
+  margin-bottom: 0.6rem;
+}
+.sidebar-ad {
+  display: block;
+  margin-bottom: 0.75rem;
+  padding: 0.5rem;
+  background: var(--surface-color);
+  border: 1px solid var(--border-soft);
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+.sidebar-ad:hover {
+  background: #fff8eb;
+  border-color: #f0c97a;
+  text-decoration: none;
+  color: inherit;
+}
+.sidebar-ad img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 0.4rem;
+}
+.sidebar-ad__caption {
+  display: block;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  color: #1a2535;
+  text-align: center;
+}
+.sidebar-ads__notice {
+  font-size: 0.65rem;
+  line-height: 1.5;
+  color: #8a8f96;
+  margin: 0.4rem 0 0;
+  text-align: center;
+}
+
 /* Sidebar navigation tree */
 .sidebar ul.list-styled {
   padding-left: 0;

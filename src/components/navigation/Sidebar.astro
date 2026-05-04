@@ -75,4 +75,44 @@ const treeHtml = tree.map((node) => renderTreeNode(node, currentUrl)).join("");
     <a class="back-btn" href={baseUrl}></a>
     <Fragment set:html={treeHtml} />
   </ul>
+
+  {/* Sidebar bottom — Amazon affiliate ads. Fills the empty space below the
+      navigation tree on long pages. Hidden along with the sidebar on mobile
+      via the existing `.sidebar { display: none }` breakpoint. */}
+  <aside class="sidebar-ads" aria-label="広告">
+    <div class="sidebar-ads__label">広告</div>
+    <a
+      class="sidebar-ad"
+      href="https://amzn.to/4n6DKnr"
+      target="_blank"
+      rel="sponsored noopener noreferrer"
+    >
+      <img
+        src="/images/ad/note.png"
+        alt="「会社四季報」業界地図"
+        width="256"
+        height="256"
+        loading="lazy"
+        decoding="async"
+      />
+      <span class="sidebar-ad__caption">「会社四季報」業界地図</span>
+    </a>
+    <a
+      class="sidebar-ad"
+      href="https://amzn.to/4w5PVEY"
+      target="_blank"
+      rel="sponsored noopener noreferrer"
+    >
+      <img
+        src="/images/ad/note.png"
+        alt="米国会社四季報"
+        width="256"
+        height="256"
+        loading="lazy"
+        decoding="async"
+      />
+      <span class="sidebar-ad__caption">米国会社四季報</span>
+    </a>
+    <p class="sidebar-ads__notice">画像をクリックすると Amazon 商品ページへ移動します</p>
+  </aside>
 </div>
