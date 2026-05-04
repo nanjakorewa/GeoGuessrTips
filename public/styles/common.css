@@ -850,10 +850,10 @@ h2[id] {
 .main-information {
   background: var(--surface-alt);
   border: 1px solid var(--border-soft);
-  border-radius: 2px;
-  box-shadow: var(--shadow-soft);
-  padding: 1.5rem 1.75rem;
-  margin: 1.75rem 0;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 1.25rem 1.5rem;
+  margin: 2rem 0 0 0;
 }
 
 .main-information .section-title {
@@ -1550,12 +1550,6 @@ div.top-flagarea img {
   max-height: 500px;
 }
 
-div.main-information {
-  margin: 1em;
-  padding: 1em 0em 0em 1em;
-  border: 1px solid rgba(10, 10, 10, .6);
-}
-
 div.main-information li {
   line-height: 1.2em;
   margin: 0.1em;
@@ -1800,6 +1794,16 @@ h4.section-title {
   margin-bottom: 0 !important;
 }
 
+/* Section title inside .main-desciption (rule-list block): align with the
+   unified spacing — no top margin so it sits flush with the box padding. */
+.main-desciption h2.section-title,
+.main-desciption h4.section-title {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
 h3.section-title:first-letter {
   font-size: 1.2em;
 }
@@ -2013,24 +2017,20 @@ div.footer-fontsize-area {
 }
 
 div.main-desciption {
-  margin: 2.5em 1em 0.5em 1em;
-  padding: 1em;
-  border-radius: 2px;
+  margin: 2rem 0 0 0;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid var(--border-soft);
+  border-radius: 0;
   background-color: var(--surface-alt);
 }
 
 ul.rule-list {
-  margin: 1em;
+  margin: 0.5em 0 0.5em 1.25em;
   font-size: 1em;
 }
 
 .rule-list-empty {
-  margin: 1em;
-  padding: 0.75em 1em;
-  font-size: 0.9em;
-  color: #777;
-  background: #f6f6f6;
-  border-left: 3px solid #ccc;
+  font-size: 1em;
 }
 
 /* ============================================
@@ -2046,22 +2046,40 @@ ul.rule-list {
 }
 
 /* Constrain the corp-desc table to its column width so it doesn't outgrow
-   the surrounding article-surface (e.g. the references / "参考ページ" boxes). */
-.container-corp {
-  max-width: 100%;
+   the surrounding article-surface (e.g. the references / "参考ページ" boxes).
+   Also override the inline `mt-5` and `padding-top:50px` that the markdown
+   author put on each prefecture's corp-desc div, so spacing matches the
+   other sections. */
+.container-corp[id="corp-desc"] {
+  margin: 2rem 0 0 0 !important;
+  padding: 0 !important;
+  background: var(--surface-color);
+  border: 0px;
+  border-radius: 0;
+  width: 100%;
   overflow-x: auto;
 }
 .container-corp .table {
   width: 100%;
   max-width: 100%;
   table-layout: auto;
+  margin-bottom: 0;
 }
 .container-corp .table td,
 .container-corp .table th {
   word-break: break-word;
   overflow-wrap: anywhere;
 }
-
+/* h4 is the section title — pull it out of the zero-padding container with
+   its own padding, and prefix an icon emoji centrally so we don't have to
+   edit every prefecture's markdown. */
+.container-corp h4 {
+  padding: 0 1.25rem 0.6rem 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  border-bottom: 0px;
+  margin-bottom: 0 !important;
+}
 .references-title {
   font-size: 1rem;
   font-weight: 700;
@@ -2136,10 +2154,11 @@ sup.cite-num a:hover {
    (rendered above #corp-desc on prefecture pages)
    ============================================ */
 .pref-info-section {
-  margin-top: 3rem;
-  padding: 1.5rem;
-  background: #fafbfc;
-  border: 1px solid #e3e6e9;
+  margin: 2rem 0 0 0;
+  padding: 1.25rem 1.5rem;
+  background: var(--surface-alt);
+  border: 1px solid var(--border-soft);
+  border-radius: 0;
 }
 
 .pref-info-section__title {
@@ -2279,7 +2298,7 @@ sup.cite-num a:hover {
   line-height: 1;
   color: #b8bdc3;
   font-weight: 700;
-  transition: color 0.15s ease, transform 0.15s ease;
+  transition: color 0.15s ease;
 }
 
 .pref-info-related__list a:hover {
@@ -2288,12 +2307,12 @@ sup.cite-num a:hover {
   border-left-color: #e07b20;
   color: #1a2535;
   text-decoration: none;
-  margin-bottom: 0 !important;
+  margin: 0 !important;
 }
 
 .pref-info-related__list a:hover::after {
   color: #e07b20;
-  transform: translateY(-50%) translateX(3px);
+  /* keep position fixed — only color changes on hover */
 }
 
 .pref-info-related__title {
@@ -2915,10 +2934,10 @@ div.sign-area {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  margin-bottom: 0;
+  margin: 5px;
   background-color: #ffffff;
   border-radius: 6px;
-  padding: 1em 0.5em;
+  padding: 10px 0 0 0;
 }
 
 div.sign-area a {

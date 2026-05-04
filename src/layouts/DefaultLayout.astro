@@ -965,7 +965,7 @@ const lastmodDisplay = modifiedTime
                 {/* Related sites (country pages with flag) */}
                 {data.flag && !data.no_rel_site && (
                   <div class="main-information">
-                    <h4 class="section-title"><i class="fas fa-book"></i> <Fragment set:html={t("rel-site", lang)} /></h4>
+                    <h4 class="section-title"><Fragment set:html={t("rel-site", lang)} /></h4>
                     <ul class="info-list">
                       <li><a href={`https://ja.wikipedia.org/wiki/${data.title}`}>{data.title} (wikipedia)</a></li>
                       {data.plonkit && (
@@ -981,16 +981,15 @@ const lastmodDisplay = modifiedTime
                 {siblings.length > 0 && (
                   <div class="main-information same-region-area">
                     <h4 class="section-title">
-                      <i class="fas fa-globe"></i>
                       {lang === "ja"
-                        ? ` ${parentTitle}の国や地域`
+                        ? `${parentTitle}の国や地域`
                         : lang === "es"
-                          ? ` Países y territorios en ${parentTitle}`
+                          ? `Países y territorios en ${parentTitle}`
                           : lang === "pt"
-                            ? ` Países e territórios em ${parentTitle}`
+                            ? `Países e territórios em ${parentTitle}`
                             : lang === "id"
-                              ? ` Negara dan wilayah di ${parentTitle}`
-                              : ` Countries and territories in ${parentTitle}`}
+                              ? `Negara dan wilayah di ${parentTitle}`
+                              : `Countries and territories in ${parentTitle}`}
                     </h4>
                     <ul class="info-list">
                       {siblings.map((s) => (

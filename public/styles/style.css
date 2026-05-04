@@ -515,11 +515,6 @@ textarea.form-control {
 }
 
 /* single page */
-
-.content * {
-  margin-bottom: 20px;
-}
-
 .content img {
   max-width: 100%;
   height: auto;
@@ -530,7 +525,6 @@ textarea.form-control {
 
 .content ul {
   padding-left: 0;
-  margin-bottom: 20px;
 }
 
 .content ul li {

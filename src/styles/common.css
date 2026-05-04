@@ -2612,10 +2612,10 @@ div.sign-area {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  margin-bottom: 0;
+  margin: 5px;
   background-color: #ffffff;
   border-radius: 6px;
-  padding: 1em 0.5em;
+  padding: 0;
 }
 
 div.sign-area a {
