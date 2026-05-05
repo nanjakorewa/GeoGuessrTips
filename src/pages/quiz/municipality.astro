@@ -169,14 +169,18 @@ const crumbs = [
       margin: 0;
       line-height: 1.15;
     }
+    /* Always rendered (visibility-toggled) so the question card height stays
+       constant whether the result is shown or not. min-height covers the
+       2-line worst case (e.g. answer list with many prefectures wraps). */
     .mq-result-inline {
-      display: none;
       margin-top: 0.4rem;
+      min-height: 2.9rem;
       font-size: 0.85rem;
       font-weight: 600;
       line-height: 1.4;
+      visibility: hidden;
     }
-    .mq-result-inline.shown { display: block; }
+    .mq-result-inline.shown { visibility: visible; }
     .mq-result-mark {
       display: inline-block;
       font-size: 1.2rem;
@@ -313,6 +317,50 @@ const crumbs = [
     @media (max-width: 460px) {
       .mq-region { flex-direction: column; align-items: stretch; gap: 0.15rem; margin-bottom: 0.28rem; }
       .mq-region-label { width: auto; text-align: left; padding-left: 0.2rem; }
+    }
+
+    /* Scale up on roomier viewports so the quiz fills the visible area
+       instead of leaving a large gap above the footer. */
+    @media (min-height: 800px) {
+      .mq-page { padding: 1rem 1.2rem 1.2rem; }
+      .mq-bar { margin-bottom: 1rem; }
+      .mq-title { font-size: 1.3rem; }
+      .mq-stats { font-size: 0.92rem; }
+      .mq-question { padding: 1.1rem 1.4rem 1.3rem; margin-bottom: 1rem; }
+      .mq-prompt { font-size: 0.88rem; margin: 0 0 0.4rem; }
+      .mq-name { font-size: 2.4rem; }
+      .mq-result-inline { font-size: 0.95rem; min-height: 3.2rem; margin-top: 0.5rem; }
+      .mq-result-mark { font-size: 1.4rem; }
+      .mq-region { margin-bottom: 0.5rem; gap: 0.5rem; }
+      .mq-region-label { font-size: 0.85rem; width: 3em; }
+      .mq-prefs { gap: 0.4rem; }
+      .mq-pref {
+        font-size: 0.95rem;
+        padding: 0.65rem 0.3rem;
+        flex: 1 1 90px;
+        min-width: 78px;
+        max-width: 130px;
+      }
+      .mq-actions { margin-top: 1.2rem; gap: 0.7rem; }
+      .mq-btn { font-size: 1rem; padding: 0.7rem 1.5rem; }
+      .mq-skip { font-size: 0.85rem; }
+    }
+    @media (min-height: 1000px) {
+      .mq-question { padding: 1.4rem 1.6rem 1.6rem; margin-bottom: 1.2rem; }
+      .mq-name { font-size: 2.9rem; }
+      .mq-result-inline { font-size: 1rem; min-height: 3.4rem; }
+      .mq-region { margin-bottom: 0.7rem; }
+      .mq-pref { font-size: 1.05rem; padding: 0.85rem 0.4rem; }
+      .mq-actions { margin-top: 1.6rem; }
+      .mq-btn { padding: 0.85rem 1.8rem; font-size: 1.1rem; }
+    }
+    /* Wider viewport: let the prefecture grid have more room to breathe. */
+    @media (min-width: 1200px) {
+      .mq-page { max-width: 1100px; }
+    }
+    @media (min-width: 1500px) {
+      .mq-page { max-width: 1240px; }
+      .mq-pref { max-width: 150px; }
     }
 
   </style>
