@@ -5,6 +5,7 @@ import { t } from "@i18n/translations";
 import { generateDescription } from "@lib/seo-utils";
 import { getCollection } from "astro:content";
 import municipalitiesData from "../data/municipalities.json";
+import areacodeData from "../data/areacodes.json";
 import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
@@ -96,6 +97,16 @@ if (lang === "ja") {
     icon: "🏯",
     url: "/quiz/municipality/",
     count: municipalityCount,
+    diffs: [0, 0, 0, 0],
+  });
+
+  const areacodeCount = Object.keys(areacodeData as Record<string, string[]>).length;
+  groups.push({
+    title: "市外局番クイズ",
+    description: "番号区画名（札幌、岩見沢など）から市外局番を入力して当てよう。",
+    icon: "📞",
+    url: "/quiz/areacode/",
+    count: areacodeCount,
     diffs: [0, 0, 0, 0],
   });
 }

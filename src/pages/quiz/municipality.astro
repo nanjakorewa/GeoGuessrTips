@@ -89,7 +89,12 @@ const crumbs = [
     breadcrumbs={crumbs}
     collection="quiz"
   />
-  <style>
+  <style is:global>
+    /* `is:global` because the history list items are created via
+       document.createElement at runtime — Astro's default scoping applies
+       a hash attribute to template-rendered elements only, so JS-created
+       elements would otherwise miss every rule below. All class names are
+       prefixed `mq-` to avoid collisions with the rest of the site. */
     /* Page chrome adjustments: keep the quiz in one viewport. */
     /* Sticky-footer flex layout so the footer always sits at the bottom of
        the viewport when content is shorter than the screen — otherwise the
@@ -199,9 +204,14 @@ const crumbs = [
       border-color: rgba(192,57,43,0.45);
       background: linear-gradient(135deg, rgba(192,57,43,0.14) 0%, rgba(192,57,43,0.04) 100%);
     }
+    .mq-question[data-r="revealed"] {
+      border-color: rgba(108,122,137,0.5);
+      background: linear-gradient(135deg, rgba(108,122,137,0.14) 0%, rgba(108,122,137,0.04) 100%);
+    }
     .mq-question[data-r="correct"] .mq-result-inline { color: #2c6f3c; }
     .mq-question[data-r="partial"] .mq-result-inline { color: #8a6614; }
     .mq-question[data-r="wrong"]   .mq-result-inline { color: #9a2d24; }
+    .mq-question[data-r="revealed"] .mq-result-inline { color: #4d5a68; }
 
     /* Prefecture grid: each region is a single flex row with a small label on the left */
     .mq-region {
@@ -299,6 +309,29 @@ const crumbs = [
       padding: 0.4rem 0.6rem;
     }
     .mq-skip:hover { color: var(--primary-color); text-decoration: underline; }
+    .mq-btn-secondary:disabled {
+      background: #efeae1;
+      color: #b5b0a7;
+      cursor: not-allowed;
+      opacity: 0.6;
+    }
+    .mq-shortcuts {
+      text-align: center;
+      font-size: 0.72rem;
+      color: rgba(100,100,100,0.55);
+      margin: 0.4rem 0 0;
+      line-height: 1.6;
+    }
+    .mq-shortcuts kbd {
+      display: inline-block;
+      padding: 0.05em 0.45em;
+      margin: 0 0.15em;
+      font-size: 0.72rem;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      background: rgba(0,0,0,0.06);
+      border: 1px solid rgba(0,0,0,0.1);
+      color: rgba(80,80,80,0.85);
+    }
 
     /* Dark mode */
     [data-theme="dark"] .mq-pref { background: #2a2f33; color: #ddd; border-color: #444; }
@@ -363,6 +396,187 @@ const crumbs = [
       .mq-pref { max-width: 150px; }
     }
 
+    /* Side rails — hidden by default, shown on roomy desktops. */
+    .mq-ad-rail, .mq-history-rail { display: none; }
+
+    .mq-ad-inner {
+      position: sticky;
+      top: 80px;
+      width: 100%;
+      max-width: 200px;
+      margin: 0 auto;
+      min-height: 600px;
+    }
+    .mq-ad-inner .adsbygoogle { display: block; min-height: 600px; }
+
+    /* History panel (right rail) */
+    .mq-history-inner {
+      position: sticky;
+      top: 80px;
+      max-height: calc(100vh - 100px);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      background: var(--surface-color, #fff);
+      border: 1px solid var(--border-soft, #d8d4ca);
+    }
+    .mq-history-header {
+      flex-shrink: 0;
+      padding: 0.6rem 0.85rem;
+      background: rgba(0,0,0,0.025);
+      border-bottom: 1px solid var(--border-soft, #d8d4ca);
+    }
+    .mq-history-title {
+      display: flex;
+      align-items: baseline;
+      gap: 0.4rem;
+      margin: 0;
+      font-size: 0.8rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      color: var(--primary-color, #446e72);
+      text-transform: uppercase;
+    }
+    .mq-history-count {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: rgba(100,100,100,0.75);
+      letter-spacing: 0;
+      text-transform: none;
+    }
+    .mq-history-hint {
+      font-size: 0.66rem;
+      color: rgba(100,100,100,0.65);
+      margin: 0.2rem 0 0;
+      line-height: 1.4;
+    }
+
+    .mq-history-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      overflow-y: auto;
+      flex: 1 1 auto;
+      min-height: 0;
+    }
+    .mq-history-empty {
+      color: rgba(100,100,100,0.6);
+      font-size: 0.78rem;
+      padding: 1.2rem 0.8rem;
+      text-align: center;
+    }
+
+    .mq-history-item {
+      display: grid;
+      grid-template-columns: 30px 1fr;
+      align-items: stretch;
+      cursor: pointer;
+      border-bottom: 1px solid var(--border-soft, #efece6);
+      position: relative;
+      transition: background 0.12s;
+    }
+    .mq-history-item:last-child { border-bottom: none; }
+
+    /* Left colour band — solid grade indicator */
+    .mq-history-grade {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 1rem;
+      color: #fff;
+      line-height: 1;
+    }
+    .mq-history-grade-correct  { background: #4a9e5c; }
+    .mq-history-grade-partial  { background: #c49a2a; }
+    .mq-history-grade-wrong    { background: #c0392b; }
+    .mq-history-grade-revealed { background: #6c7a89; }
+    .mq-history-grade-fresh    { background: #d8d4ca; color: #888; }
+
+    /* Subtle row tint matching the grade */
+    .mq-history-item-correct   { background: rgba(74,158,92,0.06); }
+    .mq-history-item-partial   { background: rgba(196,154,42,0.07); }
+    .mq-history-item-wrong     { background: rgba(192,57,43,0.05); }
+    .mq-history-item-revealed  { background: rgba(108,122,137,0.06); }
+    .mq-history-item-fresh     { background: transparent; }
+
+    .mq-history-item:hover                  { background: rgba(0,0,0,0.05); }
+    .mq-history-item-correct:hover          { background: rgba(74,158,92,0.16); }
+    .mq-history-item-partial:hover          { background: rgba(196,154,42,0.18); }
+    .mq-history-item-wrong:hover            { background: rgba(192,57,43,0.13); }
+    .mq-history-item-revealed:hover         { background: rgba(108,122,137,0.14); }
+
+    .mq-history-item.is-current {
+      outline: 2px solid var(--primary-color, #446e72);
+      outline-offset: -2px;
+      z-index: 1;
+    }
+    .mq-history-item.is-current::after {
+      content: "";
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      border-style: solid;
+      border-width: 5px 0 5px 6px;
+      border-color: transparent transparent transparent var(--primary-color, #446e72);
+    }
+
+    .mq-history-body {
+      padding: 0.5rem 0.7rem;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.1rem;
+    }
+    .mq-history-name {
+      font-weight: 700;
+      font-size: 0.82rem;
+      color: var(--text-color);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .mq-history-prefs {
+      font-size: 0.7rem;
+      color: rgba(100,100,100,0.78);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* Dark mode tweaks */
+    [data-theme="dark"] .mq-history-inner { background: #2a2f33; border-color: #3a4045; }
+    [data-theme="dark"] .mq-history-header { background: rgba(255,255,255,0.04); border-color: #3a4045; }
+    [data-theme="dark"] .mq-history-name { color: #e3e3e3; }
+    [data-theme="dark"] .mq-history-item { border-color: #3a4045; }
+    [data-theme="dark"] .mq-history-grade-fresh { background: #444; color: #aaa; }
+    [data-theme="dark"] .mq-history-item-correct  { background: rgba(74,158,92,0.16); }
+    [data-theme="dark"] .mq-history-item-partial  { background: rgba(196,154,42,0.18); }
+    [data-theme="dark"] .mq-history-item-wrong    { background: rgba(192,57,43,0.16); }
+    [data-theme="dark"] .mq-history-item-revealed { background: rgba(108,122,137,0.18); }
+
+    @media (min-width: 1280px) {
+      main.mq-shell {
+        display: grid;
+        grid-template-columns: minmax(170px, 1fr) minmax(0, 1100px) minmax(220px, 1fr);
+        gap: 1.2rem;
+        max-width: 1640px;
+        margin: 0 auto;
+        align-items: start;
+        width: 100%;
+      }
+      .mq-shell > .mq-page { max-width: none; margin: 0; }
+      .mq-ad-rail, .mq-history-rail { display: block; min-width: 0; }
+    }
+    @media (min-width: 1500px) {
+      main.mq-shell {
+        grid-template-columns: minmax(220px, 1fr) minmax(0, 1240px) minmax(260px, 1fr);
+        gap: 1.5rem;
+      }
+      .mq-ad-inner { max-width: 220px; }
+    }
+
   </style>
 </head>
 <body>
@@ -370,7 +584,19 @@ const crumbs = [
     <Navbar lang={lang} isHome={false} />
   </header>
 
-  <main class="mq-page">
+  <main class="mq-shell">
+    <aside class="mq-ad-rail mq-ad-left" aria-hidden="true">
+      <div class="mq-ad-inner">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3422749596492644"
+             data-ad-slot="1305270005"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+      </div>
+    </aside>
+
+    <div class="mq-page">
     <div class="mq-bar">
       <h1 class="mq-title">
         自治体クイズ
@@ -407,11 +633,39 @@ const crumbs = [
     </section>
 
     <div class="mq-actions">
+      <button class="mq-btn mq-btn-secondary" id="mq-prev" type="button" title="←キーでも戻れます">前の問題</button>
       <button class="mq-btn mq-btn-primary" id="mq-submit" type="button" disabled>回答する</button>
-      <button class="mq-btn mq-btn-secondary" id="mq-next" type="button">次の問題</button>
+      <button class="mq-btn mq-btn-secondary" id="mq-next" type="button" title="→キーでも進めます">次の問題</button>
       <a class="mq-skip" id="mq-skip">スキップ</a>
     </div>
+    <p class="mq-shortcuts">
+      <kbd>Enter</kbd> 回答 / <kbd>Space</kbd> 答えを表示 / <kbd>←</kbd><kbd>→</kbd> 前後の問題
+    </p>
+    </div>
+
+    <aside class="mq-history-rail" aria-label="解答履歴">
+      <div class="mq-history-inner">
+        <div class="mq-history-header">
+          <h2 class="mq-history-title">
+            <span>解答履歴</span>
+            <span class="mq-history-count" id="mq-history-count"></span>
+          </h2>
+          <p class="mq-history-hint">クリックでその問題に戻れます</p>
+        </div>
+        <ol class="mq-history-list" id="mq-history-list"></ol>
+        <div class="mq-history-empty" id="mq-history-empty">まだ履歴はありません</div>
+      </div>
+    </aside>
   </main>
+
+  <script is:inline>
+    // Initialise the (single, left-side) AdSense slot only when the rail is
+    // visible (>= 1280px). Pushing while the container is display:none would
+    // trigger "No slot size for availableWidth=0" warnings.
+    if (window.matchMedia && window.matchMedia("(min-width: 1280px)").matches) {
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    }
+  </script>
 
   <script id="mq-data" type="application/json" set:html={JSON.stringify(municipalitiesData)}></script>
 
@@ -420,61 +674,120 @@ const crumbs = [
     const dataEl = document.getElementById("mq-data");
     /** @type {Record<string, string[]>} */
     const data = JSON.parse(dataEl.textContent || "{}");
-    const names = Object.keys(data);
-    if (names.length === 0) return;
+    if (Object.keys(data).length === 0) return;
 
-    const questionEl = document.getElementById("mq-question");
-    const nameEl = document.getElementById("mq-name");
-    const resultEl = document.getElementById("mq-result");
-    const resultMark = document.getElementById("mq-result-mark");
-    const resultText = document.getElementById("mq-result-text");
-    const resultDetail = document.getElementById("mq-result-detail");
-    const submitBtn = document.getElementById("mq-submit");
-    const nextBtn = document.getElementById("mq-next");
-    const skipBtn = document.getElementById("mq-skip");
-    const cntCorrect = document.getElementById("mq-cnt-correct");
-    const cntPartial = document.getElementById("mq-cnt-partial");
-    const cntWrong = document.getElementById("mq-cnt-wrong");
-    const buttons = Array.from(document.querySelectorAll(".mq-pref"));
+    const HISTORY_KEY = "mq-history-v2";
+    const CURSOR_KEY  = "mq-cursor-v1";
+    const SCORE_KEY   = "mq-score-v1";
+    const MAX_HISTORY = 100;
 
-    let currentName = null;
-    let currentAnswer = new Set();
-    let selected = new Set();
-    let answered = false;
-
-    // Weighted random pick: each (name, prefecture) pair counts as one entry.
+    // Each (name, prefecture) pair counts as one entry — names with multiple
+    // prefectures appear proportionally more often.
     const flat = [];
     for (const [n, prs] of Object.entries(data)) {
       for (let i = 0; i < prs.length; i++) flat.push(n);
     }
 
-    let history = [];
+    function loadJSON(key, fallback) {
+      try {
+        const v = localStorage.getItem(key);
+        if (v == null) return fallback;
+        return JSON.parse(v);
+      } catch { return fallback; }
+    }
+    function saveJSON(key, val) {
+      try { localStorage.setItem(key, JSON.stringify(val)); } catch {}
+    }
+
+    /** @typedef {{ name: string, prefs: string[], state: "fresh"|"answered"|"revealed", selected: string[], grade: ("correct"|"partial"|"wrong"|null), ts: number }} HE */
+    let history = loadJSON(HISTORY_KEY, []);
+    if (!Array.isArray(history)) history = [];
+    history = history.filter((h) => h && typeof h.name === "string" && data[h.name]);
+    let cursor = parseInt(localStorage.getItem(CURSOR_KEY) || "0", 10);
+    if (!Number.isFinite(cursor) || cursor < 0) cursor = 0;
+    if (cursor > history.length) cursor = history.length;
+
     function pickName() {
-      const recent = new Set(history.slice(-20));
+      const recent = new Set(history.slice(-30).map((e) => e.name));
       let pick;
-      let safety = 100;
+      let safety = 200;
       do {
         pick = flat[Math.floor(Math.random() * flat.length)];
         safety--;
       } while (recent.has(pick) && safety > 0);
-      history.push(pick);
       return pick;
     }
 
-    function setSelected(btn, on) {
-      if (on) {
-        btn.classList.add("selected");
-        selected.add(btn.dataset.pref);
-      } else {
-        btn.classList.remove("selected");
-        selected.delete(btn.dataset.pref);
-      }
-      submitBtn.disabled = selected.size === 0 || answered;
+    // Ensure history[cursor] exists. If we landed past the end, generate.
+    if (cursor >= history.length) {
+      const name = pickName();
+      history.push({
+        name,
+        prefs: data[name].slice(),
+        state: "fresh",
+        selected: [],
+        grade: null,
+        ts: Date.now(),
+      });
+      cursor = history.length - 1;
+    }
+    // Trim oldest entries if we exceed the cap.
+    if (history.length > MAX_HISTORY) {
+      const drop = history.length - MAX_HISTORY;
+      history = history.slice(drop);
+      cursor = Math.max(0, cursor - drop);
+    }
+    saveJSON(HISTORY_KEY, history);
+    localStorage.setItem(CURSOR_KEY, String(cursor));
+
+    /** @type {HE} */
+    const current = history[cursor];
+    const currentAnswer = new Set(current.prefs);
+    const selected = new Set(current.selected || []);
+
+    // DOM refs
+    const questionEl   = document.getElementById("mq-question");
+    const nameEl       = document.getElementById("mq-name");
+    const resultEl     = document.getElementById("mq-result");
+    const resultMark   = document.getElementById("mq-result-mark");
+    const resultText   = document.getElementById("mq-result-text");
+    const resultDetail = document.getElementById("mq-result-detail");
+    const submitBtn    = document.getElementById("mq-submit");
+    const nextBtn      = document.getElementById("mq-next");
+    const prevBtn      = document.getElementById("mq-prev");
+    const skipBtn      = document.getElementById("mq-skip");
+    const cntCorrect   = document.getElementById("mq-cnt-correct");
+    const cntPartial   = document.getElementById("mq-cnt-partial");
+    const cntWrong     = document.getElementById("mq-cnt-wrong");
+    const buttons      = Array.from(document.querySelectorAll(".mq-pref"));
+    const historyListEl = document.getElementById("mq-history-list");
+    const historyEmptyEl = document.getElementById("mq-history-empty");
+    const historyCountEl = document.getElementById("mq-history-count");
+
+    function persistCurrent() {
+      history[cursor] = current;
+      saveJSON(HISTORY_KEY, history);
     }
 
-    function clearBoard() {
-      selected.clear();
-      answered = false;
+    function gradeOf() {
+      let anyWrong = false;
+      for (const s of selected) if (!currentAnswer.has(s)) { anyWrong = true; break; }
+      if (anyWrong) return "wrong";
+      if (selected.size === currentAnswer.size) return "correct";
+      return "partial";
+    }
+
+    function setSelected(btn, on) {
+      if (on) { btn.classList.add("selected"); selected.add(btn.dataset.pref); }
+      else { btn.classList.remove("selected"); selected.delete(btn.dataset.pref); }
+      submitBtn.disabled = selected.size === 0 || current.state !== "fresh";
+    }
+
+    function renderQuestion() {
+      nameEl.textContent = current.name;
+      const list = [...currentAnswer].join("、");
+
+      // Reset all classes first
       buttons.forEach((b) => {
         b.classList.remove("selected", "reveal-correct", "reveal-missed", "reveal-wrong");
         b.disabled = false;
@@ -483,114 +796,212 @@ const crumbs = [
       questionEl.removeAttribute("data-r");
       submitBtn.disabled = true;
       submitBtn.textContent = "回答する";
-    }
 
-    function newQuestion() {
-      clearBoard();
-      currentName = pickName();
-      currentAnswer = new Set(data[currentName]);
-      nameEl.textContent = currentName;
-    }
-
-    function score() {
-      let anyWrong = false;
-      for (const s of selected) {
-        if (!currentAnswer.has(s)) { anyWrong = true; break; }
+      if (current.state === "fresh") {
+        // Allow input
+        return;
       }
-      if (anyWrong) return "wrong";
-      if (selected.size === currentAnswer.size) return "correct";
-      return "partial";
-    }
 
-    function reveal(grade) {
-      buttons.forEach((b) => {
-        const pref = b.dataset.pref;
-        const isAnswer = currentAnswer.has(pref);
-        const isSelected = selected.has(pref);
-        b.disabled = true;
-        b.classList.remove("selected");
-        if (isAnswer && isSelected) b.classList.add("reveal-correct");
-        else if (isAnswer && !isSelected) b.classList.add("reveal-missed");
-        else if (!isAnswer && isSelected) b.classList.add("reveal-wrong");
-      });
-
-      const answerList = [...currentAnswer].join("、");
-      questionEl.dataset.r = grade;
-      resultEl.classList.add("shown");
-      if (grade === "correct") {
-        resultMark.textContent = "◯";
-        resultText.textContent = "正解！";
-        resultDetail.textContent = "";
-      } else if (grade === "partial") {
-        resultMark.textContent = "△";
-        resultText.textContent = "惜しい！";
-        resultDetail.textContent = `（正解は ${answerList}）`;
-      } else {
-        resultMark.textContent = "×";
-        resultText.textContent = "不正解";
-        resultDetail.textContent = `（正解は ${answerList}）`;
+      if (current.state === "answered") {
+        const sel = new Set(current.selected || []);
+        buttons.forEach((b) => {
+          const pref = b.dataset.pref;
+          const isAnswer = currentAnswer.has(pref);
+          const isSelected = sel.has(pref);
+          b.disabled = true;
+          if (isAnswer && isSelected) b.classList.add("reveal-correct");
+          else if (isAnswer && !isSelected) b.classList.add("reveal-missed");
+          else if (!isAnswer && isSelected) b.classList.add("reveal-wrong");
+        });
+        questionEl.dataset.r = current.grade;
+        resultEl.classList.add("shown");
+        if (current.grade === "correct") {
+          resultMark.textContent = "◯";
+          resultText.textContent = "正解！";
+          resultDetail.textContent = "";
+        } else if (current.grade === "partial") {
+          resultMark.textContent = "△";
+          resultText.textContent = "惜しい！";
+          resultDetail.textContent = "（正解は " + list + "）";
+        } else {
+          resultMark.textContent = "×";
+          resultText.textContent = "不正解";
+          resultDetail.textContent = "（正解は " + list + "）";
+        }
+        submitBtn.textContent = "判定済み";
+      } else if (current.state === "revealed") {
+        const sel = new Set(current.selected || []);
+        buttons.forEach((b) => {
+          const pref = b.dataset.pref;
+          const isAnswer = currentAnswer.has(pref);
+          const isSelected = sel.has(pref);
+          b.disabled = true;
+          if (isAnswer) b.classList.add("reveal-correct");
+          else if (isSelected) b.classList.add("reveal-wrong");
+        });
+        questionEl.dataset.r = "revealed";
+        resultEl.classList.add("shown");
+        resultMark.textContent = "答";
+        resultText.textContent = "答えを表示";
+        resultDetail.textContent = "（正解は " + list + "）";
+        submitBtn.textContent = "答え表示済み";
       }
     }
 
     function bumpScore(grade) {
-      const sKey = "mq-score-v1";
-      let s;
-      try { s = JSON.parse(localStorage.getItem(sKey) || "{}"); } catch { s = {}; }
+      const s = loadJSON(SCORE_KEY, {});
       s.correct = (s.correct || 0) + (grade === "correct" ? 1 : 0);
       s.partial = (s.partial || 0) + (grade === "partial" ? 1 : 0);
       s.wrong   = (s.wrong   || 0) + (grade === "wrong"   ? 1 : 0);
       s.total   = (s.total   || 0) + 1;
-      try { localStorage.setItem(sKey, JSON.stringify(s)); } catch {}
+      saveJSON(SCORE_KEY, s);
       renderScore(s);
     }
-
     function renderScore(s) {
       cntCorrect.textContent = String(s.correct || 0);
       cntPartial.textContent = String(s.partial || 0);
-      cntWrong.textContent = String(s.wrong || 0);
+      cntWrong.textContent   = String(s.wrong   || 0);
     }
 
-    function loadScore() {
-      try {
-        const s = JSON.parse(localStorage.getItem("mq-score-v1") || "{}");
-        renderScore(s);
-      } catch { /* ignore */ }
+    function submit() {
+      if (current.state !== "fresh" || selected.size === 0) return;
+      current.state = "answered";
+      current.selected = [...selected];
+      current.grade = gradeOf();
+      persistCurrent();
+      bumpScore(current.grade);
+      renderQuestion();
+      renderHistoryList();
     }
 
+    function revealAnswer() {
+      if (current.state !== "fresh") return;
+      current.state = "revealed";
+      current.selected = [...selected];
+      persistCurrent();
+      renderQuestion();
+      renderHistoryList();
+    }
+
+    function go(newCursor) {
+      if (newCursor < 0) return;
+      // For prev clicks, refuse if already at 0.
+      if (newCursor === cursor) return;
+      localStorage.setItem(CURSOR_KEY, String(newCursor));
+      location.reload();
+    }
+    function next() { go(cursor + 1); }
+    function prev() { if (cursor > 0) go(cursor - 1); }
+
+    // Buttons
     buttons.forEach((b) => {
       b.addEventListener("click", () => {
-        if (answered) return;
+        if (current.state !== "fresh") return;
         setSelected(b, !b.classList.contains("selected"));
       });
     });
-
-    function submit() {
-      if (answered || selected.size === 0) return;
-      answered = true;
-      const grade = score();
-      reveal(grade);
-      bumpScore(grade);
-      submitBtn.disabled = true;
-      submitBtn.textContent = "判定済み";
+    submitBtn.addEventListener("click", submit);
+    nextBtn.addEventListener("click", next);
+    if (skipBtn) skipBtn.addEventListener("click", next);
+    if (prevBtn) {
+      prevBtn.disabled = (cursor === 0);
+      prevBtn.addEventListener("click", prev);
     }
 
-    submitBtn.addEventListener("click", submit);
-    nextBtn.addEventListener("click", newQuestion);
-    skipBtn.addEventListener("click", newQuestion);
-
-    // Keyboard shortcuts: Enter = submit / next, Esc = skip
+    // Keyboard
     document.addEventListener("keydown", (e) => {
-      if (e.key === "Enter") {
+      const tag = (e.target && e.target.tagName) || "";
+      if (tag === "INPUT" || tag === "TEXTAREA") return;
+      // Don't hijack space when a prefecture button is focused (default toggles it).
+      if ((e.key === " " || e.code === "Space") && tag === "BUTTON") return;
+
+      if (e.key === " " || e.code === "Space") {
         e.preventDefault();
-        if (answered) newQuestion();
-        else if (selected.size > 0) submit();
-      } else if (e.key === "Escape") {
-        newQuestion();
+        revealAnswer();
+      } else if (e.key === "ArrowRight") {
+        e.preventDefault();
+        next();
+      } else if (e.key === "ArrowLeft") {
+        e.preventDefault();
+        prev();
+      } else if (e.key === "Enter") {
+        e.preventDefault();
+        if (current.state === "fresh" && selected.size > 0) submit();
+        else next();
       }
     });
 
-    loadScore();
-    newQuestion();
+    // State key for CSS class suffixes — collapses (state, grade) to one of:
+    //   correct / partial / wrong / revealed / fresh
+    function stateKey(h) {
+      if (h.state === "answered") return h.grade;
+      return h.state;
+    }
+    function gradeMark(h) {
+      if (h.state === "answered") {
+        if (h.grade === "correct") return "◯";
+        if (h.grade === "partial") return "△";
+        return "×";
+      }
+      if (h.state === "revealed") return "答";
+      return "—";
+    }
+
+    function renderHistoryList() {
+      if (!historyListEl) return;
+      historyListEl.textContent = "";
+      if (historyCountEl) {
+        historyCountEl.textContent = history.length > 0 ? "(" + history.length + " 問)" : "";
+      }
+      if (history.length === 0) {
+        if (historyEmptyEl) historyEmptyEl.style.display = "block";
+        return;
+      }
+      if (historyEmptyEl) historyEmptyEl.style.display = "none";
+
+      // Most recent first
+      for (let i = history.length - 1; i >= 0; i--) {
+        const h = history[i];
+        const key = stateKey(h);
+
+        const li = document.createElement("li");
+        li.className = "mq-history-item mq-history-item-" + key + (i === cursor ? " is-current" : "");
+
+        const gradeSpan = document.createElement("span");
+        gradeSpan.className = "mq-history-grade mq-history-grade-" + key;
+        gradeSpan.textContent = gradeMark(h);
+
+        const body = document.createElement("div");
+        body.className = "mq-history-body";
+        const name = document.createElement("span");
+        name.className = "mq-history-name";
+        name.textContent = h.name;
+        const prefs = document.createElement("span");
+        prefs.className = "mq-history-prefs";
+        prefs.textContent = (h.prefs || []).join("、");
+        body.appendChild(name);
+        body.appendChild(prefs);
+
+        li.appendChild(gradeSpan);
+        li.appendChild(body);
+        li.addEventListener("click", () => go(i));
+        historyListEl.appendChild(li);
+      }
+    }
+
+    // Initial render
+    renderScore(loadJSON(SCORE_KEY, {}));
+
+    // Pre-fill button selections if current question carries them.
+    if (current.state === "fresh" && current.selected && current.selected.length) {
+      const sel = new Set(current.selected);
+      buttons.forEach((b) => {
+        if (sel.has(b.dataset.pref)) b.classList.add("selected");
+      });
+      submitBtn.disabled = false;
+    }
+    renderQuestion();
+    renderHistoryList();
   })();
   </script>
 

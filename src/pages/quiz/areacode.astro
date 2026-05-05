@@ -1,0 +1,844 @@
+---
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+import areacodeData from "../../data/areacodes.json";
+
+const lang = "ja" as const;
+const site = "https://geopinning.space";
+const pageTitle = "市外局番クイズ｜番号区画名から市外局番を当てよう";
+const pageDescription =
+  "ランダムに出題される番号区画名（札幌、岩見沢など）の市外局番を入力するクイズ。同じ番号区画名に複数の市外局番がある場合はどれかが当たれば正解。";
+const canonical = `${site}/quiz/areacode/`;
+
+const totalEntries = Object.values(areacodeData).reduce(
+  (acc, codes: string[]) => acc + codes.length,
+  0,
+);
+const totalKu = Object.keys(areacodeData).length;
+
+const crumbs = [
+  { name: "トップ", url: "/" },
+  { name: "クイズ", url: "/quiz/" },
+  { name: "市外局番クイズ", url: "/quiz/areacode/" },
+];
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <Head
+    title={pageTitle}
+    description={pageDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={`${site}/images/icon-512x512.png`}
+    ogType="website"
+    breadcrumbs={crumbs}
+    collection="quiz"
+  />
+  <style is:global>
+    /* `is:global` because history items are document.createElement-injected
+       at runtime — Astro's default scoping would skip them. All class
+       names are prefixed `aq-` to avoid colliding with the rest of the site. */
+
+    html, body { min-height: 100vh; }
+    body {
+      overflow-x: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    body > header { flex: 0 0 auto; }
+    body > main { flex: 1 0 auto; }
+    body > .site-footer,
+    body > footer { flex: 0 0 auto; margin-top: 0; }
+
+    .aq-page {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0.6rem 0.9rem 0.8rem;
+    }
+
+    /* Title row */
+    .aq-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.8rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.6rem;
+    }
+    .aq-title { font-size: 1.15rem; font-weight: 800; margin: 0; letter-spacing: 0.02em; }
+    .aq-title-sub {
+      font-size: 0.78rem;
+      color: rgba(100,100,100,0.7);
+      margin-left: 0.5rem;
+      font-weight: 500;
+    }
+    .aq-stats {
+      display: flex;
+      gap: 0.4rem;
+      font-size: 0.82rem;
+      flex-wrap: wrap;
+    }
+    .aq-stats span {
+      padding: 0.18em 0.65em;
+      background: rgba(0,0,0,0.05);
+      font-weight: 600;
+    }
+    .aq-stats .aq-correct { background: rgba(74,158,92,0.15); color: #2c6f3c; }
+    .aq-stats .aq-wrong   { background: rgba(192,57,43,0.13); color: #9a2d24; }
+
+    /* Question card */
+    .aq-question {
+      position: relative;
+      text-align: center;
+      padding: 1rem 1.1rem 1.1rem;
+      background: linear-gradient(135deg, rgba(68,110,114,0.10) 0%, rgba(68,110,114,0.04) 100%);
+      border: 1px solid var(--border-soft, #e0e0e0);
+      margin-bottom: 0.7rem;
+      transition: border-color 0.2s, background 0.2s;
+    }
+    .aq-prompt {
+      font-size: 0.78rem;
+      color: rgba(100,100,100,0.8);
+      margin: 0 0 0.2rem;
+    }
+    .aq-name {
+      font-size: 1.85rem;
+      font-weight: 800;
+      letter-spacing: 0.04em;
+      margin: 0 0 0.7rem;
+      line-height: 1.15;
+    }
+    .aq-input {
+      font-size: 2rem;
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+      text-align: center;
+      letter-spacing: 0.18em;
+      width: 8em;
+      max-width: 80vw;
+      padding: 0.3em 0.4em;
+      border: 2px solid var(--border-soft, #d8d4ca);
+      background: #fff;
+      color: #333;
+      caret-color: var(--primary-color, #446e72);
+    }
+    .aq-input:focus {
+      border-color: var(--primary-color, #446e72);
+      outline: none;
+    }
+    .aq-input::placeholder { color: rgba(150,150,150,0.6); letter-spacing: 0.18em; }
+    .aq-input.is-correct {
+      border-color: #4a9e5c;
+      background: rgba(74,158,92,0.10);
+      color: #2c6f3c;
+    }
+    .aq-input.is-wrong {
+      border-color: #c0392b;
+      background: rgba(192,57,43,0.10);
+      color: #9a2d24;
+    }
+    .aq-input.is-revealed {
+      border-color: #6c7a89;
+      background: rgba(108,122,137,0.08);
+      color: #4d5a68;
+    }
+    .aq-result-inline {
+      margin-top: 0.6rem;
+      min-height: 2.6rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      line-height: 1.45;
+      visibility: hidden;
+    }
+    .aq-result-inline.shown { visibility: visible; }
+    .aq-result-mark {
+      display: inline-block;
+      font-size: 1.3rem;
+      vertical-align: middle;
+      margin-right: 0.3em;
+    }
+    .aq-question[data-r="correct"] {
+      border-color: rgba(74,158,92,0.5);
+      background: linear-gradient(135deg, rgba(74,158,92,0.16) 0%, rgba(74,158,92,0.05) 100%);
+    }
+    .aq-question[data-r="wrong"] {
+      border-color: rgba(192,57,43,0.45);
+      background: linear-gradient(135deg, rgba(192,57,43,0.14) 0%, rgba(192,57,43,0.04) 100%);
+    }
+    .aq-question[data-r="revealed"] {
+      border-color: rgba(108,122,137,0.5);
+      background: linear-gradient(135deg, rgba(108,122,137,0.14) 0%, rgba(108,122,137,0.04) 100%);
+    }
+    .aq-question[data-r="correct"] .aq-result-inline { color: #2c6f3c; }
+    .aq-question[data-r="wrong"]   .aq-result-inline { color: #9a2d24; }
+    .aq-question[data-r="revealed"] .aq-result-inline { color: #4d5a68; }
+
+    /* Action bar */
+    .aq-actions {
+      display: flex;
+      gap: 0.5rem;
+      justify-content: center;
+      align-items: center;
+      margin-top: 0.7rem;
+      flex-wrap: wrap;
+    }
+    .aq-btn {
+      padding: 0.5rem 1.2rem;
+      border: none;
+      font-weight: 700;
+      font-size: 0.92rem;
+      cursor: pointer;
+      transition: all 0.12s;
+    }
+    .aq-btn-primary { background: var(--primary-color, #446e72); color: #fff; }
+    .aq-btn-primary:hover:not(:disabled) { filter: brightness(1.08); }
+    .aq-btn-primary:disabled { background: #b9c9ca; cursor: not-allowed; }
+    .aq-btn-secondary { background: #efeae1; color: #333; }
+    .aq-btn-secondary:hover:not(:disabled) { background: #e3dccd; }
+    .aq-btn-secondary:disabled {
+      background: #efeae1;
+      color: #b5b0a7;
+      cursor: not-allowed;
+      opacity: 0.6;
+    }
+    .aq-skip {
+      font-size: 0.78rem;
+      color: rgba(100,100,100,0.7);
+      text-decoration: none;
+      cursor: pointer;
+      padding: 0.4rem 0.6rem;
+    }
+    .aq-skip:hover { color: var(--primary-color); text-decoration: underline; }
+    .aq-shortcuts {
+      text-align: center;
+      font-size: 0.72rem;
+      color: rgba(100,100,100,0.55);
+      margin: 0.4rem 0 0;
+      line-height: 1.6;
+    }
+    .aq-shortcuts kbd {
+      display: inline-block;
+      padding: 0.05em 0.45em;
+      margin: 0 0.15em;
+      font-size: 0.72rem;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      background: rgba(0,0,0,0.06);
+      border: 1px solid rgba(0,0,0,0.1);
+      color: rgba(80,80,80,0.85);
+    }
+
+    /* Side rails — hidden by default. */
+    .aq-ad-rail, .aq-history-rail { display: none; }
+
+    .aq-ad-inner {
+      position: sticky;
+      top: 80px;
+      width: 100%;
+      max-width: 200px;
+      margin: 0 auto;
+      min-height: 600px;
+    }
+    .aq-ad-inner .adsbygoogle { display: block; min-height: 600px; }
+
+    /* History panel */
+    .aq-history-inner {
+      position: sticky;
+      top: 80px;
+      max-height: calc(100vh - 100px);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      background: var(--surface-color, #fff);
+      border: 1px solid var(--border-soft, #d8d4ca);
+    }
+    .aq-history-header {
+      flex-shrink: 0;
+      padding: 0.6rem 0.85rem;
+      background: rgba(0,0,0,0.025);
+      border-bottom: 1px solid var(--border-soft, #d8d4ca);
+    }
+    .aq-history-title {
+      display: flex;
+      align-items: baseline;
+      gap: 0.4rem;
+      margin: 0;
+      font-size: 0.8rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      color: var(--primary-color, #446e72);
+      text-transform: uppercase;
+    }
+    .aq-history-count {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: rgba(100,100,100,0.75);
+      letter-spacing: 0;
+      text-transform: none;
+    }
+    .aq-history-hint {
+      font-size: 0.66rem;
+      color: rgba(100,100,100,0.65);
+      margin: 0.2rem 0 0;
+      line-height: 1.4;
+    }
+    .aq-history-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      overflow-y: auto;
+      flex: 1 1 auto;
+      min-height: 0;
+    }
+    .aq-history-empty {
+      color: rgba(100,100,100,0.6);
+      font-size: 0.78rem;
+      padding: 1.2rem 0.8rem;
+      text-align: center;
+    }
+    .aq-history-item {
+      display: grid;
+      grid-template-columns: 30px 1fr;
+      align-items: stretch;
+      cursor: pointer;
+      border-bottom: 1px solid var(--border-soft, #efece6);
+      position: relative;
+      transition: background 0.12s;
+    }
+    .aq-history-item:last-child { border-bottom: none; }
+    .aq-history-grade {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 1rem;
+      color: #fff;
+      line-height: 1;
+    }
+    .aq-history-grade-correct  { background: #4a9e5c; }
+    .aq-history-grade-wrong    { background: #c0392b; }
+    .aq-history-grade-revealed { background: #6c7a89; }
+    .aq-history-grade-fresh    { background: #d8d4ca; color: #888; }
+    .aq-history-item-correct   { background: rgba(74,158,92,0.06); }
+    .aq-history-item-wrong     { background: rgba(192,57,43,0.05); }
+    .aq-history-item-revealed  { background: rgba(108,122,137,0.06); }
+    .aq-history-item-fresh     { background: transparent; }
+    .aq-history-item:hover                  { background: rgba(0,0,0,0.05); }
+    .aq-history-item-correct:hover          { background: rgba(74,158,92,0.16); }
+    .aq-history-item-wrong:hover            { background: rgba(192,57,43,0.13); }
+    .aq-history-item-revealed:hover         { background: rgba(108,122,137,0.14); }
+    .aq-history-item.is-current {
+      outline: 2px solid var(--primary-color, #446e72);
+      outline-offset: -2px;
+      z-index: 1;
+    }
+    .aq-history-item.is-current::after {
+      content: "";
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      border-style: solid;
+      border-width: 5px 0 5px 6px;
+      border-color: transparent transparent transparent var(--primary-color, #446e72);
+    }
+    .aq-history-body {
+      padding: 0.5rem 0.7rem;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.1rem;
+    }
+    .aq-history-name {
+      font-weight: 700;
+      font-size: 0.82rem;
+      color: var(--text-color);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .aq-history-codes {
+      font-size: 0.72rem;
+      color: rgba(100,100,100,0.78);
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    [data-theme="dark"] .aq-input { background: #1f2326; color: #ddd; border-color: #444; }
+    [data-theme="dark"] .aq-question { background: linear-gradient(135deg, rgba(110,160,165,0.18) 0%, rgba(110,160,165,0.06) 100%); border-color: #3a4045; }
+    [data-theme="dark"] .aq-stats span { background: rgba(255,255,255,0.06); }
+    [data-theme="dark"] .aq-history-inner { background: #2a2f33; border-color: #3a4045; }
+    [data-theme="dark"] .aq-history-header { background: rgba(255,255,255,0.04); border-color: #3a4045; }
+    [data-theme="dark"] .aq-history-name { color: #e3e3e3; }
+    [data-theme="dark"] .aq-history-item { border-color: #3a4045; }
+
+    /* Mobile / shrink */
+    @media (max-width: 760px) {
+      .aq-page { padding: 0.5rem 0.6rem; }
+      .aq-name { font-size: 1.55rem; }
+      .aq-input { font-size: 1.6rem; }
+      .aq-title-sub { display: none; }
+    }
+
+    /* Larger viewports — scale up */
+    @media (min-height: 800px) {
+      .aq-page { padding: 1rem 1.2rem 1.2rem; }
+      .aq-bar { margin-bottom: 1rem; }
+      .aq-title { font-size: 1.3rem; }
+      .aq-stats { font-size: 0.92rem; }
+      .aq-question { padding: 1.4rem 1.4rem 1.5rem; margin-bottom: 1rem; }
+      .aq-name { font-size: 2.5rem; margin-bottom: 1rem; }
+      .aq-input { font-size: 2.4rem; }
+      .aq-result-inline { font-size: 1rem; min-height: 3rem; }
+      .aq-actions { margin-top: 1.2rem; gap: 0.7rem; }
+      .aq-btn { font-size: 1rem; padding: 0.7rem 1.5rem; }
+      .aq-skip { font-size: 0.85rem; }
+    }
+    @media (min-height: 1000px) {
+      .aq-name { font-size: 2.9rem; }
+      .aq-input { font-size: 2.8rem; }
+      .aq-question { padding: 1.6rem 1.6rem 1.8rem; }
+    }
+
+    /* 3-col grid with rails */
+    @media (min-width: 1280px) {
+      main.aq-shell {
+        display: grid;
+        grid-template-columns: minmax(170px, 1fr) minmax(0, 720px) minmax(220px, 1fr);
+        gap: 1.2rem;
+        max-width: 1640px;
+        margin: 0 auto;
+        align-items: start;
+        width: 100%;
+      }
+      .aq-shell > .aq-page { max-width: none; margin: 0; }
+      .aq-ad-rail, .aq-history-rail { display: block; min-width: 0; }
+    }
+    @media (min-width: 1500px) {
+      main.aq-shell {
+        grid-template-columns: minmax(220px, 1fr) minmax(0, 800px) minmax(260px, 1fr);
+        gap: 1.5rem;
+      }
+      .aq-ad-inner { max-width: 220px; }
+    }
+
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+
+  <main class="aq-shell">
+    <aside class="aq-ad-rail" aria-hidden="true">
+      <div class="aq-ad-inner">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3422749596492644"
+             data-ad-slot="1305270005"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+      </div>
+    </aside>
+
+    <div class="aq-page">
+      <div class="aq-bar">
+        <h1 class="aq-title">
+          市外局番クイズ
+          <span class="aq-title-sub">{totalKu} 区画／{totalEntries} 番号からランダム出題</span>
+        </h1>
+        <div class="aq-stats" aria-live="polite">
+          <span class="aq-correct">◯ <span id="aq-cnt-correct">0</span></span>
+          <span class="aq-wrong">× <span id="aq-cnt-wrong">0</span></span>
+        </div>
+      </div>
+
+      <section class="aq-question" id="aq-question" aria-live="polite">
+        <p class="aq-prompt">この番号区画の市外局番は？（半角数字、先頭の 0 から入力）</p>
+        <p class="aq-name" id="aq-name">―</p>
+        <input
+          type="text"
+          class="aq-input"
+          id="aq-input"
+          inputmode="numeric"
+          pattern="[0-9]*"
+          maxlength="5"
+          autocomplete="off"
+          autocapitalize="off"
+          spellcheck="false"
+          placeholder="0123"
+        />
+        <div class="aq-result-inline" id="aq-result">
+          <span class="aq-result-mark" id="aq-result-mark">◯</span>
+          <span id="aq-result-text">正解！</span>
+          <span id="aq-result-detail"></span>
+        </div>
+      </section>
+
+      <div class="aq-actions">
+        <button class="aq-btn aq-btn-secondary" id="aq-prev" type="button" title="←キーで戻る">前の問題</button>
+        <button class="aq-btn aq-btn-primary" id="aq-submit" type="button" disabled>回答する</button>
+        <button class="aq-btn aq-btn-secondary" id="aq-next" type="button" title="→キーで進む">次の問題</button>
+        <a class="aq-skip" id="aq-skip">スキップ</a>
+      </div>
+      <p class="aq-shortcuts">
+        <kbd>Enter</kbd> 回答 / <kbd>Space</kbd> 答えを表示 / <kbd>←</kbd><kbd>→</kbd> 前後の問題
+      </p>
+    </div>
+
+    <aside class="aq-history-rail" aria-label="解答履歴">
+      <div class="aq-history-inner">
+        <div class="aq-history-header">
+          <h2 class="aq-history-title">
+            <span>解答履歴</span>
+            <span class="aq-history-count" id="aq-history-count"></span>
+          </h2>
+          <p class="aq-history-hint">クリックでその問題に戻れます</p>
+        </div>
+        <ol class="aq-history-list" id="aq-history-list"></ol>
+        <div class="aq-history-empty" id="aq-history-empty">まだ履歴はありません</div>
+      </div>
+    </aside>
+  </main>
+
+  <script is:inline>
+    if (window.matchMedia && window.matchMedia("(min-width: 1280px)").matches) {
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    }
+  </script>
+
+  <script id="aq-data" type="application/json" set:html={JSON.stringify(areacodeData)}></script>
+
+  <script is:inline>
+  (function () {
+    const dataEl = document.getElementById("aq-data");
+    /** @type {Record<string, string[]>} */
+    const data = JSON.parse(dataEl.textContent || "{}");
+    if (Object.keys(data).length === 0) return;
+
+    const HISTORY_KEY = "aq-history-v1";
+    const CURSOR_KEY  = "aq-cursor-v1";
+    const SCORE_KEY   = "aq-score-v1";
+    const MAX_HISTORY = 100;
+
+    // Weighted random pick: name appears once per (name, code) pair so names
+    // with several codes are slightly more likely.
+    const flat = [];
+    for (const [n, codes] of Object.entries(data)) {
+      for (let i = 0; i < codes.length; i++) flat.push(n);
+    }
+
+    function loadJSON(key, fallback) {
+      try {
+        const v = localStorage.getItem(key);
+        if (v == null) return fallback;
+        return JSON.parse(v);
+      } catch { return fallback; }
+    }
+    function saveJSON(key, val) {
+      try { localStorage.setItem(key, JSON.stringify(val)); } catch {}
+    }
+
+    /** @typedef {{ name: string, codes: string[], state: "fresh"|"answered"|"revealed", input: string, grade: ("correct"|"wrong"|null), ts: number }} HE */
+    let history = loadJSON(HISTORY_KEY, []);
+    if (!Array.isArray(history)) history = [];
+    history = history.filter((h) => h && typeof h.name === "string" && data[h.name]);
+    let cursor = parseInt(localStorage.getItem(CURSOR_KEY) || "0", 10);
+    if (!Number.isFinite(cursor) || cursor < 0) cursor = 0;
+    if (cursor > history.length) cursor = history.length;
+
+    function pickName() {
+      const recent = new Set(history.slice(-30).map((e) => e.name));
+      let pick;
+      let safety = 200;
+      do {
+        pick = flat[Math.floor(Math.random() * flat.length)];
+        safety--;
+      } while (recent.has(pick) && safety > 0);
+      return pick;
+    }
+
+    if (cursor >= history.length) {
+      const name = pickName();
+      history.push({
+        name,
+        codes: data[name].slice(),
+        state: "fresh",
+        input: "",
+        grade: null,
+        ts: Date.now(),
+      });
+      cursor = history.length - 1;
+    }
+    if (history.length > MAX_HISTORY) {
+      const drop = history.length - MAX_HISTORY;
+      history = history.slice(drop);
+      cursor = Math.max(0, cursor - drop);
+    }
+    saveJSON(HISTORY_KEY, history);
+    localStorage.setItem(CURSOR_KEY, String(cursor));
+
+    /** @type {HE} */
+    const current = history[cursor];
+    const correctCodes = new Set(current.codes);
+
+    // DOM
+    const questionEl   = document.getElementById("aq-question");
+    const nameEl       = document.getElementById("aq-name");
+    const inputEl      = document.getElementById("aq-input");
+    const resultEl     = document.getElementById("aq-result");
+    const resultMark   = document.getElementById("aq-result-mark");
+    const resultText   = document.getElementById("aq-result-text");
+    const resultDetail = document.getElementById("aq-result-detail");
+    const submitBtn    = document.getElementById("aq-submit");
+    const nextBtn      = document.getElementById("aq-next");
+    const prevBtn      = document.getElementById("aq-prev");
+    const skipBtn      = document.getElementById("aq-skip");
+    const cntCorrect   = document.getElementById("aq-cnt-correct");
+    const cntWrong     = document.getElementById("aq-cnt-wrong");
+    const historyListEl  = document.getElementById("aq-history-list");
+    const historyEmptyEl = document.getElementById("aq-history-empty");
+    const historyCountEl = document.getElementById("aq-history-count");
+
+    function persistCurrent() {
+      history[cursor] = current;
+      saveJSON(HISTORY_KEY, history);
+    }
+    function bumpScore(grade) {
+      const s = loadJSON(SCORE_KEY, {});
+      s.correct = (s.correct || 0) + (grade === "correct" ? 1 : 0);
+      s.wrong   = (s.wrong   || 0) + (grade === "wrong"   ? 1 : 0);
+      s.total   = (s.total   || 0) + 1;
+      saveJSON(SCORE_KEY, s);
+      renderScore(s);
+    }
+    function renderScore(s) {
+      cntCorrect.textContent = String(s.correct || 0);
+      cntWrong.textContent   = String(s.wrong   || 0);
+    }
+
+    function renderQuestion() {
+      nameEl.textContent = current.name;
+      const codeList = current.codes.join(" / ");
+
+      inputEl.classList.remove("is-correct", "is-wrong", "is-revealed");
+      resultEl.classList.remove("shown");
+      questionEl.removeAttribute("data-r");
+      submitBtn.disabled = true;
+      submitBtn.textContent = "回答する";
+
+      if (current.state === "fresh") {
+        inputEl.value = current.input || "";
+        inputEl.disabled = false;
+        submitBtn.disabled = !(inputEl.value && inputEl.value.length > 0);
+        // autofocus
+        setTimeout(() => { try { inputEl.focus(); } catch {} }, 0);
+        return;
+      }
+
+      inputEl.value = current.input || "";
+      inputEl.disabled = true;
+
+      if (current.state === "answered") {
+        if (current.grade === "correct") {
+          inputEl.classList.add("is-correct");
+          questionEl.dataset.r = "correct";
+          resultEl.classList.add("shown");
+          resultMark.textContent = "◯";
+          resultText.textContent = "正解！";
+          resultDetail.textContent = current.codes.length > 1
+            ? "（市外局番は " + codeList + "）"
+            : "";
+          submitBtn.textContent = "判定済み";
+        } else {
+          inputEl.classList.add("is-wrong");
+          questionEl.dataset.r = "wrong";
+          resultEl.classList.add("shown");
+          resultMark.textContent = "×";
+          resultText.textContent = "不正解";
+          resultDetail.textContent = "（正解は " + codeList + "）";
+          submitBtn.textContent = "判定済み";
+        }
+      } else if (current.state === "revealed") {
+        inputEl.classList.add("is-revealed");
+        questionEl.dataset.r = "revealed";
+        resultEl.classList.add("shown");
+        resultMark.textContent = "答";
+        resultText.textContent = "答えを表示";
+        resultDetail.textContent = "（正解は " + codeList + "）";
+        submitBtn.textContent = "答え表示済み";
+      }
+    }
+
+    function autoCheck() {
+      if (current.state !== "fresh") return;
+      const v = inputEl.value;
+      submitBtn.disabled = !(v && v.length > 0);
+      if (correctCodes.has(v)) {
+        // Auto-correct on exact match.
+        current.state = "answered";
+        current.input = v;
+        current.grade = "correct";
+        persistCurrent();
+        bumpScore("correct");
+        inputEl.disabled = true;
+        renderQuestion();
+        renderHistoryList();
+      }
+    }
+
+    function submit() {
+      if (current.state !== "fresh") return;
+      const v = inputEl.value.trim();
+      if (v.length === 0) return;
+      current.state = "answered";
+      current.input = v;
+      current.grade = correctCodes.has(v) ? "correct" : "wrong";
+      persistCurrent();
+      bumpScore(current.grade);
+      renderQuestion();
+      renderHistoryList();
+    }
+
+    function revealAnswer() {
+      if (current.state !== "fresh") return;
+      current.state = "revealed";
+      current.input = inputEl.value.trim();
+      persistCurrent();
+      renderQuestion();
+      renderHistoryList();
+    }
+
+    function go(newCursor) {
+      if (newCursor < 0) return;
+      if (newCursor === cursor) return;
+      localStorage.setItem(CURSOR_KEY, String(newCursor));
+      location.reload();
+    }
+    function next() { go(cursor + 1); }
+    function prev() { if (cursor > 0) go(cursor - 1); }
+
+    // Wire up
+    inputEl.addEventListener("input", () => {
+      // Filter to digits only
+      const filtered = inputEl.value.replace(/\D/g, "");
+      if (filtered !== inputEl.value) inputEl.value = filtered;
+      // Persist input draft so it survives going prev/next without judging
+      if (current.state === "fresh") {
+        current.input = inputEl.value;
+        persistCurrent();
+      }
+      autoCheck();
+    });
+
+    submitBtn.addEventListener("click", submit);
+    nextBtn.addEventListener("click", next);
+    if (skipBtn) skipBtn.addEventListener("click", next);
+    if (prevBtn) {
+      prevBtn.disabled = (cursor === 0);
+      prevBtn.addEventListener("click", prev);
+    }
+
+    document.addEventListener("keydown", (e) => {
+      const tag = (e.target && e.target.tagName) || "";
+      const inInput = (tag === "INPUT" || tag === "TEXTAREA");
+
+      if (e.key === " " || e.code === "Space") {
+        // Reveal answer regardless of focus. The input only accepts digits,
+        // so swallowing space in the input is fine — there's no legitimate
+        // reason to type a literal space here.
+        e.preventDefault();
+        revealAnswer();
+        return;
+      }
+
+      if (e.key === "Enter") {
+        e.preventDefault();
+        if (current.state === "fresh" && inputEl.value.length > 0) submit();
+        else next();
+        return;
+      }
+
+      if (e.key === "ArrowRight") {
+        e.preventDefault();
+        next();
+        return;
+      }
+
+      if (e.key === "ArrowLeft") {
+        // When typing, don't hijack the text-cursor movement — only
+        // navigate to previous question if the caret is at the very start.
+        if (inInput && !(inputEl.selectionStart === 0 && inputEl.selectionEnd === 0)) {
+          return;
+        }
+        e.preventDefault();
+        prev();
+      }
+    });
+
+    function stateKey(h) {
+      if (h.state === "answered") return h.grade;
+      return h.state;
+    }
+    function gradeMark(h) {
+      if (h.state === "answered") return h.grade === "correct" ? "◯" : "×";
+      if (h.state === "revealed") return "答";
+      return "—";
+    }
+
+    function renderHistoryList() {
+      if (!historyListEl) return;
+      historyListEl.textContent = "";
+      if (historyCountEl) {
+        historyCountEl.textContent = history.length > 0 ? "(" + history.length + " 問)" : "";
+      }
+      if (history.length === 0) {
+        if (historyEmptyEl) historyEmptyEl.style.display = "block";
+        return;
+      }
+      if (historyEmptyEl) historyEmptyEl.style.display = "none";
+
+      for (let i = history.length - 1; i >= 0; i--) {
+        const h = history[i];
+        const key = stateKey(h);
+
+        const li = document.createElement("li");
+        li.className = "aq-history-item aq-history-item-" + key + (i === cursor ? " is-current" : "");
+
+        const gradeSpan = document.createElement("span");
+        gradeSpan.className = "aq-history-grade aq-history-grade-" + key;
+        gradeSpan.textContent = gradeMark(h);
+
+        const body = document.createElement("div");
+        body.className = "aq-history-body";
+        const name = document.createElement("span");
+        name.className = "aq-history-name";
+        name.textContent = h.name;
+        const codes = document.createElement("span");
+        codes.className = "aq-history-codes";
+        codes.textContent = (h.codes || []).join(" / ");
+        body.appendChild(name);
+        body.appendChild(codes);
+
+        li.appendChild(gradeSpan);
+        li.appendChild(body);
+        li.addEventListener("click", () => go(i));
+        historyListEl.appendChild(li);
+      }
+    }
+
+    renderScore(loadJSON(SCORE_KEY, {}));
+    renderQuestion();
+    renderHistoryList();
+  })();
+  </script>
+
+  <Footer lang={lang} title={pageTitle} permalink={canonical} />
+  <SearchModal lang={lang} />
+</body>
+</html>
