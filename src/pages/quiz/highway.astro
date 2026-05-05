@@ -1,0 +1,1067 @@
+---
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+import highwayData from "../../data/highways.json";
+
+const lang = "ja" as const;
+const site = "https://geopinning.space";
+const pageTitle = "国道クイズ｜起点・終点の都道府県を当てよう";
+const pageDescription =
+  "ランダムに出題される国道X号について、起点（始点）と終点の都道府県を選ぶクイズ。両方当てると◯、片方だけだと△です。";
+const canonical = `${site}/quiz/highway/`;
+
+const totalRoutes = highwayData.length;
+
+const PREFECTURES: { name: string; region: string }[] = [
+  { name: "北海道", region: "北海道" },
+  { name: "青森県", region: "東北" },
+  { name: "岩手県", region: "東北" },
+  { name: "宮城県", region: "東北" },
+  { name: "秋田県", region: "東北" },
+  { name: "山形県", region: "東北" },
+  { name: "福島県", region: "東北" },
+  { name: "茨城県", region: "関東" },
+  { name: "栃木県", region: "関東" },
+  { name: "群馬県", region: "関東" },
+  { name: "埼玉県", region: "関東" },
+  { name: "千葉県", region: "関東" },
+  { name: "東京都", region: "関東" },
+  { name: "神奈川県", region: "関東" },
+  { name: "新潟県", region: "中部" },
+  { name: "富山県", region: "中部" },
+  { name: "石川県", region: "中部" },
+  { name: "福井県", region: "中部" },
+  { name: "山梨県", region: "中部" },
+  { name: "長野県", region: "中部" },
+  { name: "岐阜県", region: "中部" },
+  { name: "静岡県", region: "中部" },
+  { name: "愛知県", region: "中部" },
+  { name: "三重県", region: "近畿" },
+  { name: "滋賀県", region: "近畿" },
+  { name: "京都府", region: "近畿" },
+  { name: "大阪府", region: "近畿" },
+  { name: "兵庫県", region: "近畿" },
+  { name: "奈良県", region: "近畿" },
+  { name: "和歌山県", region: "近畿" },
+  { name: "鳥取県", region: "中国" },
+  { name: "島根県", region: "中国" },
+  { name: "岡山県", region: "中国" },
+  { name: "広島県", region: "中国" },
+  { name: "山口県", region: "中国" },
+  { name: "徳島県", region: "四国" },
+  { name: "香川県", region: "四国" },
+  { name: "愛媛県", region: "四国" },
+  { name: "高知県", region: "四国" },
+  { name: "福岡県", region: "九州" },
+  { name: "佐賀県", region: "九州" },
+  { name: "長崎県", region: "九州" },
+  { name: "熊本県", region: "九州" },
+  { name: "大分県", region: "九州" },
+  { name: "宮崎県", region: "九州" },
+  { name: "鹿児島県", region: "九州" },
+  { name: "沖縄県", region: "九州" },
+];
+
+const REGIONS = ["北海道", "東北", "関東", "中部", "近畿", "中国", "四国", "九州"];
+
+const crumbs = [
+  { name: "トップ", url: "/" },
+  { name: "クイズ", url: "/quiz/" },
+  { name: "国道クイズ", url: "/quiz/highway/" },
+];
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <Head
+    title={pageTitle}
+    description={pageDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={`${site}/images/icon-512x512.png`}
+    ogType="website"
+    breadcrumbs={crumbs}
+    collection="quiz"
+  />
+  <style is:global>
+    /* `is:global` because history items are document.createElement-injected
+       at runtime — Astro's default scoping would skip them. All class names
+       are prefixed `hq-` to avoid collisions. */
+
+    html, body { min-height: 100vh; }
+    body { overflow-x: hidden; display: flex; flex-direction: column; }
+    body > header { flex: 0 0 auto; }
+    body > main { flex: 1 0 auto; }
+    body > .site-footer,
+    body > footer { flex: 0 0 auto; margin-top: 0; }
+
+    .hq-page {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 0.6rem 0.9rem 0.8rem;
+    }
+
+    .hq-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.8rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.5rem;
+    }
+    .hq-title { font-size: 1.15rem; font-weight: 800; margin: 0; letter-spacing: 0.02em; }
+    .hq-title-sub {
+      font-size: 0.78rem;
+      color: rgba(100,100,100,0.7);
+      margin-left: 0.5rem;
+      font-weight: 500;
+    }
+    .hq-stats {
+      display: flex;
+      gap: 0.4rem;
+      font-size: 0.82rem;
+      flex-wrap: wrap;
+    }
+    .hq-stats span {
+      padding: 0.18em 0.65em;
+      background: rgba(0,0,0,0.05);
+      font-weight: 600;
+    }
+    .hq-stats .hq-correct { background: rgba(74,158,92,0.15); color: #2c6f3c; }
+    .hq-stats .hq-partial { background: rgba(196,154,42,0.18); color: #8a6614; }
+    .hq-stats .hq-wrong   { background: rgba(192,57,43,0.13); color: #9a2d24; }
+
+    /* Question card */
+    .hq-question {
+      position: relative;
+      text-align: center;
+      padding: 0.7rem 1rem 0.8rem;
+      background: linear-gradient(135deg, rgba(68,110,114,0.10) 0%, rgba(68,110,114,0.04) 100%);
+      border: 1px solid var(--border-soft, #e0e0e0);
+      margin-bottom: 0.5rem;
+      transition: border-color 0.2s, background 0.2s;
+    }
+    .hq-prompt {
+      font-size: 0.78rem;
+      color: rgba(100,100,100,0.8);
+      margin: 0 0 0.15rem;
+    }
+    .hq-name {
+      font-size: 1.85rem;
+      font-weight: 800;
+      letter-spacing: 0.04em;
+      margin: 0;
+      line-height: 1.15;
+    }
+    .hq-result-inline {
+      margin-top: 0.4rem;
+      min-height: 2.9rem;
+      font-size: 0.85rem;
+      font-weight: 600;
+      line-height: 1.4;
+      visibility: hidden;
+    }
+    .hq-result-inline.shown { visibility: visible; }
+    .hq-result-mark {
+      display: inline-block;
+      font-size: 1.2rem;
+      vertical-align: middle;
+      margin-right: 0.3em;
+    }
+    .hq-question[data-r="correct"] {
+      border-color: rgba(74,158,92,0.5);
+      background: linear-gradient(135deg, rgba(74,158,92,0.16) 0%, rgba(74,158,92,0.05) 100%);
+    }
+    .hq-question[data-r="partial"] {
+      border-color: rgba(196,154,42,0.5);
+      background: linear-gradient(135deg, rgba(196,154,42,0.18) 0%, rgba(196,154,42,0.06) 100%);
+    }
+    .hq-question[data-r="wrong"] {
+      border-color: rgba(192,57,43,0.45);
+      background: linear-gradient(135deg, rgba(192,57,43,0.14) 0%, rgba(192,57,43,0.04) 100%);
+    }
+    .hq-question[data-r="revealed"] {
+      border-color: rgba(108,122,137,0.5);
+      background: linear-gradient(135deg, rgba(108,122,137,0.14) 0%, rgba(108,122,137,0.04) 100%);
+    }
+    .hq-question[data-r="correct"] .hq-result-inline { color: #2c6f3c; }
+    .hq-question[data-r="partial"] .hq-result-inline { color: #8a6614; }
+    .hq-question[data-r="wrong"]   .hq-result-inline { color: #9a2d24; }
+    .hq-question[data-r="revealed"] .hq-result-inline { color: #4d5a68; }
+
+    /* Slots bar — shows current start/end picks above the prefecture grid. */
+    .hq-slots-bar {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.4rem;
+      margin-bottom: 0.45rem;
+    }
+    .hq-slot-card {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      padding: 0.45rem 0.7rem;
+      border: 1.5px solid var(--border-soft, #d8d4ca);
+      background: #fff;
+      min-height: 2.2rem;
+    }
+    .hq-slot-card-start { border-left: 4px solid #446e72; }
+    .hq-slot-card-end   { border-left: 4px solid #d97706; }
+    .hq-slot-card.is-filled.hq-slot-card-start { background: rgba(68,110,114,0.08); }
+    .hq-slot-card.is-filled.hq-slot-card-end   { background: rgba(217,119,6,0.08); }
+    .hq-slot-icon { font-size: 1.05rem; line-height: 1; }
+    .hq-slot-name {
+      font-size: 0.74rem;
+      font-weight: 800;
+      letter-spacing: 0.04em;
+      color: rgba(80,80,80,0.85);
+    }
+    .hq-slot-card-start .hq-slot-name { color: #446e72; }
+    .hq-slot-card-end   .hq-slot-name { color: #b45c00; }
+    .hq-slot-value {
+      font-size: 0.92rem;
+      font-weight: 700;
+      color: var(--text-color);
+      margin-left: auto;
+    }
+    .hq-slot-value:empty::before {
+      content: "未選択";
+      font-weight: 500;
+      color: rgba(100,100,100,0.5);
+      font-size: 0.82rem;
+    }
+    .hq-tap-hint {
+      text-align: center;
+      font-size: 0.68rem;
+      color: rgba(100,100,100,0.65);
+      margin: 0 0 0.4rem;
+      line-height: 1.4;
+    }
+
+    /* Prefecture rows: same layout as municipality quiz */
+    .hq-region {
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      margin-bottom: 0.18rem;
+    }
+    .hq-region-label {
+      flex: 0 0 auto;
+      width: 2.4em;
+      font-size: 0.65rem;
+      color: rgba(100,100,100,0.6);
+      letter-spacing: 0.04em;
+      text-align: center;
+      font-weight: 700;
+    }
+    .hq-prefs {
+      flex: 1 1 auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.22rem;
+    }
+    .hq-pref {
+      flex: 1 1 60px;
+      min-width: 56px;
+      max-width: 100px;
+      padding: 0.28rem 0.15rem;
+      border: 1.5px solid var(--border-soft, #d8d8d8);
+      background: #fff;
+      color: #333;
+      font-size: 0.74rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.12s, border-color 0.12s, color 0.12s, transform 0.08s;
+      user-select: none;
+      text-align: center;
+      line-height: 1.1;
+    }
+    .hq-pref:hover:not(:disabled) {
+      border-color: var(--primary-color, #446e72);
+      transform: translateY(-1px);
+    }
+    /* Selected as 起点: teal */
+    .hq-pref.is-start {
+      background: #446e72;
+      color: #fff;
+      border-color: #446e72;
+    }
+    /* Selected as 終点: amber */
+    .hq-pref.is-end {
+      background: #d97706;
+      color: #fff;
+      border-color: #d97706;
+    }
+    /* Selected as both (same prefecture is start and end): split diagonal */
+    .hq-pref.is-both {
+      background: linear-gradient(135deg, #446e72 50%, #d97706 50%);
+      color: #fff;
+      border-color: #446e72;
+    }
+    .hq-pref:disabled { cursor: not-allowed; }
+    /* Reveal phase: green for correct picks/answers, red for wrong picks. */
+    .hq-pref.reveal-correct {
+      background: rgba(74,158,92,0.85) !important;
+      color: #fff !important;
+      border-color: #3d8b50 !important;
+    }
+    .hq-pref.reveal-missed {
+      background: #fff !important;
+      color: #2c6f3c !important;
+      border-color: #3d8b50 !important;
+      border-style: dashed !important;
+    }
+    .hq-pref.reveal-wrong {
+      background: rgba(192,57,43,0.18) !important;
+      color: #9a2d24 !important;
+      border-color: #c0392b !important;
+      text-decoration: line-through;
+    }
+
+    .hq-actions {
+      display: flex;
+      gap: 0.5rem;
+      justify-content: center;
+      align-items: center;
+      margin-top: 0.7rem;
+      flex-wrap: wrap;
+    }
+    .hq-btn {
+      padding: 0.5rem 1.2rem;
+      border: none;
+      font-weight: 700;
+      font-size: 0.92rem;
+      cursor: pointer;
+      transition: all 0.12s;
+    }
+    .hq-btn-primary { background: var(--primary-color, #446e72); color: #fff; }
+    .hq-btn-primary:hover:not(:disabled) { filter: brightness(1.08); }
+    .hq-btn-primary:disabled { background: #b9c9ca; cursor: not-allowed; }
+    .hq-btn-secondary { background: #efeae1; color: #333; }
+    .hq-btn-secondary:hover:not(:disabled) { background: #e3dccd; }
+    .hq-btn-secondary:disabled {
+      background: #efeae1;
+      color: #b5b0a7;
+      cursor: not-allowed;
+      opacity: 0.6;
+    }
+    .hq-skip {
+      font-size: 0.78rem;
+      color: rgba(100,100,100,0.7);
+      text-decoration: none;
+      cursor: pointer;
+      padding: 0.4rem 0.6rem;
+    }
+    .hq-skip:hover { color: var(--primary-color); text-decoration: underline; }
+    .hq-shortcuts {
+      text-align: center;
+      font-size: 0.72rem;
+      color: rgba(100,100,100,0.55);
+      margin: 0.4rem 0 0;
+      line-height: 1.6;
+    }
+    .hq-shortcuts kbd {
+      display: inline-block;
+      padding: 0.05em 0.45em;
+      margin: 0 0.15em;
+      font-size: 0.72rem;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      background: rgba(0,0,0,0.06);
+      border: 1px solid rgba(0,0,0,0.1);
+      color: rgba(80,80,80,0.85);
+    }
+
+    /* Side rails */
+    .hq-ad-rail, .hq-history-rail { display: none; }
+    .hq-ad-inner {
+      position: sticky;
+      top: 80px;
+      width: 100%;
+      max-width: 200px;
+      margin: 0 auto;
+      min-height: 600px;
+    }
+    .hq-ad-inner .adsbygoogle { display: block; min-height: 600px; }
+
+    .hq-history-inner {
+      position: sticky;
+      top: 80px;
+      max-height: calc(100vh - 100px);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      background: var(--surface-color, #fff);
+      border: 1px solid var(--border-soft, #d8d4ca);
+    }
+    .hq-history-header {
+      flex-shrink: 0;
+      padding: 0.6rem 0.85rem;
+      background: rgba(0,0,0,0.025);
+      border-bottom: 1px solid var(--border-soft, #d8d4ca);
+    }
+    .hq-history-title {
+      display: flex;
+      align-items: baseline;
+      gap: 0.4rem;
+      margin: 0;
+      font-size: 0.8rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      color: var(--primary-color, #446e72);
+      text-transform: uppercase;
+    }
+    .hq-history-count {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: rgba(100,100,100,0.75);
+      letter-spacing: 0;
+      text-transform: none;
+    }
+    .hq-history-hint {
+      font-size: 0.66rem;
+      color: rgba(100,100,100,0.65);
+      margin: 0.2rem 0 0;
+      line-height: 1.4;
+    }
+    .hq-history-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      overflow-y: auto;
+      flex: 1 1 auto;
+      min-height: 0;
+    }
+    .hq-history-empty {
+      color: rgba(100,100,100,0.6);
+      font-size: 0.78rem;
+      padding: 1.2rem 0.8rem;
+      text-align: center;
+    }
+    .hq-history-item {
+      display: grid;
+      grid-template-columns: 30px 1fr;
+      align-items: stretch;
+      cursor: pointer;
+      border-bottom: 1px solid var(--border-soft, #efece6);
+      position: relative;
+      transition: background 0.12s;
+    }
+    .hq-history-item:last-child { border-bottom: none; }
+    .hq-history-grade {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 1rem;
+      color: #fff;
+      line-height: 1;
+    }
+    .hq-history-grade-correct  { background: #4a9e5c; }
+    .hq-history-grade-partial  { background: #c49a2a; }
+    .hq-history-grade-wrong    { background: #c0392b; }
+    .hq-history-grade-revealed { background: #6c7a89; }
+    .hq-history-grade-fresh    { background: #d8d4ca; color: #888; }
+    .hq-history-item-correct   { background: rgba(74,158,92,0.06); }
+    .hq-history-item-partial   { background: rgba(196,154,42,0.07); }
+    .hq-history-item-wrong     { background: rgba(192,57,43,0.05); }
+    .hq-history-item-revealed  { background: rgba(108,122,137,0.06); }
+    .hq-history-item-fresh     { background: transparent; }
+    .hq-history-item:hover                  { background: rgba(0,0,0,0.05); }
+    .hq-history-item-correct:hover          { background: rgba(74,158,92,0.16); }
+    .hq-history-item-partial:hover          { background: rgba(196,154,42,0.18); }
+    .hq-history-item-wrong:hover            { background: rgba(192,57,43,0.13); }
+    .hq-history-item-revealed:hover         { background: rgba(108,122,137,0.14); }
+    .hq-history-item.is-current {
+      outline: 2px solid var(--primary-color, #446e72);
+      outline-offset: -2px;
+      z-index: 1;
+    }
+    .hq-history-item.is-current::after {
+      content: "";
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      border-style: solid;
+      border-width: 5px 0 5px 6px;
+      border-color: transparent transparent transparent var(--primary-color, #446e72);
+    }
+    .hq-history-body {
+      padding: 0.5rem 0.7rem;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.1rem;
+    }
+    .hq-history-name {
+      font-weight: 700;
+      font-size: 0.82rem;
+      color: var(--text-color);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .hq-history-route {
+      font-size: 0.7rem;
+      color: rgba(100,100,100,0.78);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    [data-theme="dark"] .hq-pref { background: #2a2f33; color: #ddd; border-color: #444; }
+    [data-theme="dark"] .hq-pref:hover:not(:disabled) { border-color: #6fa7ac; }
+    [data-theme="dark"] .hq-question { background: linear-gradient(135deg, rgba(110,160,165,0.18) 0%, rgba(110,160,165,0.06) 100%); border-color: #3a4045; }
+    [data-theme="dark"] .hq-stats span { background: rgba(255,255,255,0.06); }
+    [data-theme="dark"] .hq-history-inner { background: #2a2f33; border-color: #3a4045; }
+    [data-theme="dark"] .hq-history-header { background: rgba(255,255,255,0.04); border-color: #3a4045; }
+    [data-theme="dark"] .hq-history-name { color: #e3e3e3; }
+    [data-theme="dark"] .hq-history-item { border-color: #3a4045; }
+
+    @media (max-width: 760px) {
+      .hq-page { padding: 0.5rem 0.6rem; }
+      .hq-name { font-size: 1.55rem; }
+      .hq-pref { font-size: 0.7rem; padding: 0.24rem 0.1rem; min-width: 50px; }
+      .hq-region-label { width: 2.2em; font-size: 0.6rem; }
+      .hq-title-sub { display: none; }
+    }
+
+    @media (min-height: 800px) {
+      .hq-page { padding: 1rem 1.2rem 1.2rem; }
+      .hq-bar { margin-bottom: 0.8rem; }
+      .hq-title { font-size: 1.3rem; }
+      .hq-stats { font-size: 0.92rem; }
+      .hq-question { padding: 1rem 1.2rem 1.1rem; margin-bottom: 0.7rem; }
+      .hq-prompt { font-size: 0.88rem; margin: 0 0 0.3rem; }
+      .hq-name { font-size: 2.3rem; }
+      .hq-result-inline { font-size: 0.95rem; min-height: 3.2rem; }
+      .hq-result-mark { font-size: 1.4rem; }
+      .hq-region { margin-bottom: 0.3rem; gap: 0.4rem; }
+      .hq-region-label { font-size: 0.78rem; width: 2.6em; }
+      .hq-prefs { gap: 0.3rem; }
+      .hq-pref {
+        font-size: 0.88rem;
+        padding: 0.5rem 0.25rem;
+        flex: 1 1 80px;
+        min-width: 70px;
+        max-width: 120px;
+      }
+      .hq-actions { margin-top: 1rem; gap: 0.7rem; }
+      .hq-btn { font-size: 1rem; padding: 0.65rem 1.4rem; }
+      .hq-skip { font-size: 0.85rem; }
+      .hq-slot-label { font-size: 0.88rem; margin: 0.5rem 0 0.35rem; }
+    }
+    @media (min-height: 1000px) {
+      .hq-name { font-size: 2.7rem; }
+      .hq-pref { font-size: 0.96rem; padding: 0.7rem 0.3rem; }
+    }
+
+    @media (min-width: 1280px) {
+      main.hq-shell {
+        display: grid;
+        grid-template-columns: minmax(170px, 1fr) minmax(0, 1000px) minmax(220px, 1fr);
+        gap: 1.2rem;
+        max-width: 1640px;
+        margin: 0 auto;
+        align-items: start;
+        width: 100%;
+      }
+      .hq-shell > .hq-page { max-width: none; margin: 0; }
+      .hq-ad-rail, .hq-history-rail { display: block; min-width: 0; }
+    }
+    @media (min-width: 1500px) {
+      main.hq-shell {
+        grid-template-columns: minmax(220px, 1fr) minmax(0, 1140px) minmax(260px, 1fr);
+        gap: 1.5rem;
+      }
+      .hq-ad-inner { max-width: 220px; }
+    }
+
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+
+  <main class="hq-shell">
+    <aside class="hq-ad-rail" aria-hidden="true">
+      <div class="hq-ad-inner">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3422749596492644"
+             data-ad-slot="1305270005"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+      </div>
+    </aside>
+
+    <div class="hq-page">
+      <div class="hq-bar">
+        <h1 class="hq-title">
+          国道クイズ
+          <span class="hq-title-sub">{totalRoutes} 路線からランダム出題</span>
+        </h1>
+        <div class="hq-stats" aria-live="polite">
+          <span class="hq-correct">◯ <span id="hq-cnt-correct">0</span></span>
+          <span class="hq-partial">△ <span id="hq-cnt-partial">0</span></span>
+          <span class="hq-wrong">× <span id="hq-cnt-wrong">0</span></span>
+        </div>
+      </div>
+
+      <section class="hq-question" id="hq-question" aria-live="polite">
+        <p class="hq-prompt">この国道の<strong>起点</strong>と<strong>終点</strong>の都道府県を 1 つずつ選んでください</p>
+        <p class="hq-name" id="hq-name">―</p>
+        <div class="hq-result-inline" id="hq-result">
+          <span class="hq-result-mark" id="hq-result-mark">◯</span>
+          <span id="hq-result-text">正解！</span>
+          <span id="hq-result-detail"></span>
+        </div>
+      </section>
+
+      <div class="hq-slots-bar">
+        <div class="hq-slot-card hq-slot-card-start" id="hq-slot-card-start">
+          <span class="hq-slot-icon">🚩</span>
+          <span class="hq-slot-name">起点</span>
+          <span class="hq-slot-value" id="hq-slot-start"></span>
+        </div>
+        <div class="hq-slot-card hq-slot-card-end" id="hq-slot-card-end">
+          <span class="hq-slot-icon">🏁</span>
+          <span class="hq-slot-name">終点</span>
+          <span class="hq-slot-value" id="hq-slot-end"></span>
+        </div>
+      </div>
+      <p class="hq-tap-hint">タップ順: 1 回目→<strong>起点</strong>、2 回目→<strong>終点</strong>、3 回目→リセット（同じ都道府県を 2 回タップで起点＝終点）</p>
+
+      <section id="hq-prefs-area">
+        {REGIONS.map((region) => (
+          <div class="hq-region">
+            <div class="hq-region-label">{region}</div>
+            <div class="hq-prefs">
+              {PREFECTURES.filter((p) => p.region === region).map((p) => (
+                <button class="hq-pref" type="button" data-pref={p.name}>{p.name}</button>
+              ))}
+            </div>
+          </div>
+        ))}
+      </section>
+
+      <div class="hq-actions">
+        <button class="hq-btn hq-btn-secondary" id="hq-prev" type="button" title="←キーで戻る">前の問題</button>
+        <button class="hq-btn hq-btn-primary" id="hq-submit" type="button" disabled>回答する</button>
+        <button class="hq-btn hq-btn-secondary" id="hq-next" type="button" title="→キーで進む">次の問題</button>
+        <a class="hq-skip" id="hq-skip">スキップ</a>
+      </div>
+      <p class="hq-shortcuts">
+        <kbd>Enter</kbd> 回答 / <kbd>Space</kbd> 答えを表示 / <kbd>←</kbd><kbd>→</kbd> 前後の問題
+      </p>
+    </div>
+
+    <aside class="hq-history-rail" aria-label="解答履歴">
+      <div class="hq-history-inner">
+        <div class="hq-history-header">
+          <h2 class="hq-history-title">
+            <span>解答履歴</span>
+            <span class="hq-history-count" id="hq-history-count"></span>
+          </h2>
+          <p class="hq-history-hint">クリックでその問題に戻れます</p>
+        </div>
+        <ol class="hq-history-list" id="hq-history-list"></ol>
+        <div class="hq-history-empty" id="hq-history-empty">まだ履歴はありません</div>
+      </div>
+    </aside>
+  </main>
+
+  <script is:inline>
+    if (window.matchMedia && window.matchMedia("(min-width: 1280px)").matches) {
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    }
+  </script>
+
+  <script id="hq-data" type="application/json" set:html={JSON.stringify(highwayData)}></script>
+
+  <script is:inline>
+  (function () {
+    const dataEl = document.getElementById("hq-data");
+    /** @type {{ route: number, start: string, end: string }[]} */
+    const data = JSON.parse(dataEl.textContent || "[]");
+    if (data.length === 0) return;
+
+    const HISTORY_KEY = "hq-history-v1";
+    const CURSOR_KEY  = "hq-cursor-v1";
+    const SCORE_KEY   = "hq-score-v1";
+    const MAX_HISTORY = 100;
+
+    function loadJSON(key, fallback) {
+      try {
+        const v = localStorage.getItem(key);
+        if (v == null) return fallback;
+        return JSON.parse(v);
+      } catch { return fallback; }
+    }
+    function saveJSON(key, val) {
+      try { localStorage.setItem(key, JSON.stringify(val)); } catch {}
+    }
+
+    /** @typedef {{ route: number, start: string, end: string, state: "fresh"|"answered"|"revealed", selStart: string|null, selEnd: string|null, grade: ("correct"|"partial"|"wrong"|null), ts: number }} HE */
+    let history = loadJSON(HISTORY_KEY, []);
+    if (!Array.isArray(history)) history = [];
+    history = history.filter((h) => h && typeof h.route === "number" && h.start && h.end);
+    let cursor = parseInt(localStorage.getItem(CURSOR_KEY) || "0", 10);
+    if (!Number.isFinite(cursor) || cursor < 0) cursor = 0;
+    if (cursor > history.length) cursor = history.length;
+
+    function pickRoute() {
+      const recent = new Set(history.slice(-30).map((e) => e.route));
+      let pick;
+      let safety = 200;
+      do {
+        pick = data[Math.floor(Math.random() * data.length)];
+        safety--;
+      } while (recent.has(pick.route) && safety > 0);
+      return pick;
+    }
+
+    if (cursor >= history.length) {
+      const r = pickRoute();
+      history.push({
+        route: r.route,
+        start: r.start,
+        end: r.end,
+        state: "fresh",
+        selStart: null,
+        selEnd: null,
+        grade: null,
+        ts: Date.now(),
+      });
+      cursor = history.length - 1;
+    }
+    if (history.length > MAX_HISTORY) {
+      const drop = history.length - MAX_HISTORY;
+      history = history.slice(drop);
+      cursor = Math.max(0, cursor - drop);
+    }
+    saveJSON(HISTORY_KEY, history);
+    localStorage.setItem(CURSOR_KEY, String(cursor));
+
+    /** @type {HE} */
+    const current = history[cursor];
+
+    // DOM
+    const questionEl   = document.getElementById("hq-question");
+    const nameEl       = document.getElementById("hq-name");
+    const resultEl     = document.getElementById("hq-result");
+    const resultMark   = document.getElementById("hq-result-mark");
+    const resultText   = document.getElementById("hq-result-text");
+    const resultDetail = document.getElementById("hq-result-detail");
+    const submitBtn    = document.getElementById("hq-submit");
+    const nextBtn      = document.getElementById("hq-next");
+    const prevBtn      = document.getElementById("hq-prev");
+    const skipBtn      = document.getElementById("hq-skip");
+    const cntCorrect   = document.getElementById("hq-cnt-correct");
+    const cntPartial   = document.getElementById("hq-cnt-partial");
+    const cntWrong     = document.getElementById("hq-cnt-wrong");
+    const slotStartEl  = document.getElementById("hq-slot-start");
+    const slotEndEl    = document.getElementById("hq-slot-end");
+    const slotCardStart = document.getElementById("hq-slot-card-start");
+    const slotCardEnd   = document.getElementById("hq-slot-card-end");
+    const buttons      = Array.from(document.querySelectorAll(".hq-pref"));
+    const historyListEl  = document.getElementById("hq-history-list");
+    const historyEmptyEl = document.getElementById("hq-history-empty");
+    const historyCountEl = document.getElementById("hq-history-count");
+
+    let selStart = current.selStart || null;
+    let selEnd   = current.selEnd   || null;
+
+    function persistCurrent() {
+      history[cursor] = current;
+      saveJSON(HISTORY_KEY, history);
+    }
+    function bumpScore(grade) {
+      const s = loadJSON(SCORE_KEY, {});
+      s.correct = (s.correct || 0) + (grade === "correct" ? 1 : 0);
+      s.partial = (s.partial || 0) + (grade === "partial" ? 1 : 0);
+      s.wrong   = (s.wrong   || 0) + (grade === "wrong"   ? 1 : 0);
+      s.total   = (s.total   || 0) + 1;
+      saveJSON(SCORE_KEY, s);
+      renderScore(s);
+    }
+    function renderScore(s) {
+      cntCorrect.textContent = String(s.correct || 0);
+      cntPartial.textContent = String(s.partial || 0);
+      cntWrong.textContent   = String(s.wrong   || 0);
+    }
+
+    function applySelectionUI() {
+      buttons.forEach((b) => {
+        const pref = b.dataset.pref;
+        b.classList.remove("is-start", "is-end", "is-both");
+        if (selStart === pref && selEnd === pref) b.classList.add("is-both");
+        else if (selStart === pref) b.classList.add("is-start");
+        else if (selEnd === pref) b.classList.add("is-end");
+      });
+      slotStartEl.textContent = selStart || "";
+      slotEndEl.textContent   = selEnd   || "";
+      slotCardStart.classList.toggle("is-filled", !!selStart);
+      slotCardEnd.classList.toggle("is-filled", !!selEnd);
+      submitBtn.disabled = !(selStart && selEnd) || current.state !== "fresh";
+    }
+
+    function applyRevealUI() {
+      // Disable everything and mark the correct prefectures vs user's picks.
+      // For same-pref routes (start === end), the same button can carry both
+      // roles. We resolve to a single dominant class per button:
+      //   reveal-correct: button matches a correct slot the user picked
+      //   reveal-missed:  correct answer the user didn't pick
+      //   reveal-wrong:   user's pick that is not a correct answer
+      const correctStart = current.start;
+      const correctEnd   = current.end;
+      const userStart    = current.selStart;
+      const userEnd      = current.selEnd;
+
+      buttons.forEach((b) => {
+        b.disabled = true;
+        b.classList.remove("is-start", "is-end", "is-both",
+                           "reveal-correct", "reveal-missed", "reveal-wrong");
+        const pref = b.dataset.pref;
+        const isCorrectAny = (pref === correctStart) || (pref === correctEnd);
+        const userMatchedCorrect =
+          (pref === correctStart && pref === userStart) ||
+          (pref === correctEnd   && pref === userEnd);
+        const userPickedAny = (pref === userStart) || (pref === userEnd);
+        const userPickedWrong =
+          (pref === userStart && pref !== correctStart) ||
+          (pref === userEnd   && pref !== correctEnd);
+
+        if (userMatchedCorrect) {
+          b.classList.add("reveal-correct");
+        } else if (isCorrectAny && !userPickedAny) {
+          b.classList.add("reveal-missed");
+        } else if (userPickedWrong && !isCorrectAny) {
+          b.classList.add("reveal-wrong");
+        } else if (userPickedWrong && isCorrectAny) {
+          // User picked it but for the wrong slot (e.g., picked correctEnd as start).
+          b.classList.add("reveal-wrong");
+        }
+      });
+    }
+
+    function renderQuestion() {
+      nameEl.textContent = `国道${current.route}号`;
+
+      // Reset all
+      buttons.forEach((b) => {
+        b.classList.remove("is-start", "is-end", "is-both",
+                           "reveal-correct", "reveal-missed", "reveal-wrong");
+        b.disabled = false;
+      });
+      resultEl.classList.remove("shown");
+      questionEl.removeAttribute("data-r");
+      submitBtn.disabled = true;
+      submitBtn.textContent = "回答する";
+
+      if (current.state === "fresh") {
+        applySelectionUI();
+        return;
+      }
+
+      // answered or revealed: show selections and answer overlays
+      applyRevealUI();
+      slotStartEl.textContent = current.selStart || "";
+      slotEndEl.textContent   = current.selEnd   || "";
+      slotCardStart.classList.toggle("is-filled", !!current.selStart);
+      slotCardEnd.classList.toggle("is-filled", !!current.selEnd);
+
+      const detail = `（正解: 起点 ${current.start} ／ 終点 ${current.end}）`;
+      resultEl.classList.add("shown");
+
+      if (current.state === "answered") {
+        const swapped = current.selStart === current.end && current.selEnd === current.start && current.start !== current.end;
+        if (current.grade === "correct") {
+          questionEl.dataset.r = "correct";
+          resultMark.textContent = "◯";
+          resultText.textContent = "正解！";
+          resultDetail.textContent = "";
+        } else if (current.grade === "partial") {
+          questionEl.dataset.r = "partial";
+          resultMark.textContent = "△";
+          resultText.textContent = "惜しい！（片方のみ正解）";
+          resultDetail.textContent = detail;
+        } else {
+          questionEl.dataset.r = "wrong";
+          resultMark.textContent = "×";
+          resultText.textContent = swapped ? "不正解（起点・終点が逆）" : "不正解";
+          resultDetail.textContent = detail;
+        }
+        submitBtn.textContent = "判定済み";
+      } else if (current.state === "revealed") {
+        questionEl.dataset.r = "revealed";
+        resultMark.textContent = "答";
+        resultText.textContent = "答えを表示";
+        resultDetail.textContent = detail;
+        submitBtn.textContent = "答え表示済み";
+      }
+    }
+
+    function gradeOf() {
+      if (!selStart || !selEnd) return null;
+      const startOk = (selStart === current.start);
+      const endOk   = (selEnd   === current.end);
+      if (startOk && endOk) return "correct";
+      if (startOk || endOk) return "partial";
+      return "wrong";
+    }
+
+    function submit() {
+      if (current.state !== "fresh") return;
+      if (!selStart || !selEnd) return;
+      current.state = "answered";
+      current.selStart = selStart;
+      current.selEnd   = selEnd;
+      current.grade = gradeOf();
+      persistCurrent();
+      bumpScore(current.grade);
+      renderQuestion();
+      renderHistoryList();
+    }
+
+    function revealAnswer() {
+      if (current.state !== "fresh") return;
+      current.state = "revealed";
+      current.selStart = selStart;
+      current.selEnd   = selEnd;
+      persistCurrent();
+      renderQuestion();
+      renderHistoryList();
+    }
+
+    function go(newCursor) {
+      if (newCursor < 0) return;
+      if (newCursor === cursor) return;
+      localStorage.setItem(CURSOR_KEY, String(newCursor));
+      location.reload();
+    }
+    function next() { go(cursor + 1); }
+    function prev() { if (cursor > 0) go(cursor - 1); }
+
+    // Wire button clicks. Tap cycle:
+    //   1st tap → set 起点
+    //   2nd tap → set 終点 (may be same prefecture as 起点)
+    //   3rd tap → reset both, then assign as new 起点
+    buttons.forEach((b) => {
+      b.addEventListener("click", () => {
+        if (current.state !== "fresh") return;
+        const pref = b.dataset.pref;
+        if (selStart === null) {
+          selStart = pref;
+        } else if (selEnd === null) {
+          selEnd = pref;
+        } else {
+          // 3rd tap: reset and use this tap as the new 起点.
+          selStart = pref;
+          selEnd = null;
+        }
+        current.selStart = selStart;
+        current.selEnd   = selEnd;
+        persistCurrent();
+        applySelectionUI();
+      });
+    });
+
+    submitBtn.addEventListener("click", submit);
+    nextBtn.addEventListener("click", next);
+    if (skipBtn) skipBtn.addEventListener("click", next);
+    if (prevBtn) {
+      prevBtn.disabled = (cursor === 0);
+      prevBtn.addEventListener("click", prev);
+    }
+
+    document.addEventListener("keydown", (e) => {
+      const tag = (e.target && e.target.tagName) || "";
+      if (tag === "INPUT" || tag === "TEXTAREA") return;
+      if ((e.key === " " || e.code === "Space") && tag === "BUTTON") return;
+
+      if (e.key === " " || e.code === "Space") {
+        e.preventDefault();
+        revealAnswer();
+      } else if (e.key === "ArrowRight") {
+        e.preventDefault();
+        next();
+      } else if (e.key === "ArrowLeft") {
+        e.preventDefault();
+        prev();
+      } else if (e.key === "Enter") {
+        e.preventDefault();
+        if (current.state === "fresh" && selStart && selEnd) submit();
+        else next();
+      }
+    });
+
+    function stateKey(h) {
+      if (h.state === "answered") return h.grade;
+      return h.state;
+    }
+    function gradeMark(h) {
+      if (h.state === "answered") {
+        if (h.grade === "correct") return "◯";
+        if (h.grade === "partial") return "△";
+        return "×";
+      }
+      if (h.state === "revealed") return "答";
+      return "—";
+    }
+
+    function renderHistoryList() {
+      if (!historyListEl) return;
+      historyListEl.textContent = "";
+      if (historyCountEl) {
+        historyCountEl.textContent = history.length > 0 ? "(" + history.length + " 問)" : "";
+      }
+      if (history.length === 0) {
+        if (historyEmptyEl) historyEmptyEl.style.display = "block";
+        return;
+      }
+      if (historyEmptyEl) historyEmptyEl.style.display = "none";
+
+      for (let i = history.length - 1; i >= 0; i--) {
+        const h = history[i];
+        const key = stateKey(h);
+        const li = document.createElement("li");
+        li.className = "hq-history-item hq-history-item-" + key + (i === cursor ? " is-current" : "");
+
+        const gradeSpan = document.createElement("span");
+        gradeSpan.className = "hq-history-grade hq-history-grade-" + key;
+        gradeSpan.textContent = gradeMark(h);
+
+        const body = document.createElement("div");
+        body.className = "hq-history-body";
+        const name = document.createElement("span");
+        name.className = "hq-history-name";
+        name.textContent = `国道${h.route}号`;
+        const route = document.createElement("span");
+        route.className = "hq-history-route";
+        route.textContent = `${h.start} → ${h.end}`;
+        body.appendChild(name);
+        body.appendChild(route);
+
+        li.appendChild(gradeSpan);
+        li.appendChild(body);
+        li.addEventListener("click", () => go(i));
+        historyListEl.appendChild(li);
+      }
+    }
+
+    // Initial render
+    renderScore(loadJSON(SCORE_KEY, {}));
+    renderQuestion();
+    renderHistoryList();
+  })();
+  </script>
+
+  <Footer lang={lang} title={pageTitle} permalink={canonical} />
+  <SearchModal lang={lang} />
+</body>
+</html>
