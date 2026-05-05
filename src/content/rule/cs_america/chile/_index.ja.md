@@ -293,4 +293,9 @@ Santiago de Chile付近にある木や草がまばらに生えた山が印象的
                 <td>Sociedad Química y Minera</td>
                 <td>{{% nasdaq "SQM" %}}</td>
                 <td>アタカマ砂漠周辺に拠点をもつリチウム・ヨウ素・カリウム・硝酸ナトリウムなどを生産する化学メーカー。</td>
-                <td>{{% corplink "https://ir.sqm.com/"
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
