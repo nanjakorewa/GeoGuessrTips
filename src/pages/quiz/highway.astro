@@ -133,6 +133,50 @@ const crumbs = [
     .hq-stats .hq-correct { background: rgba(74,158,92,0.15); color: #2c6f3c; }
     .hq-stats .hq-partial { background: rgba(196,154,42,0.18); color: #8a6614; }
     .hq-stats .hq-wrong   { background: rgba(192,57,43,0.13); color: #9a2d24; }
+    .hq-stats .hq-streak  {
+      background: linear-gradient(135deg, rgba(249,115,22,0.22) 0%, rgba(234,88,12,0.15) 100%);
+      color: #c2410c;
+    }
+    .hq-stats .hq-streak[hidden] { display: none; }
+    .hq-share {
+      background: var(--primary-color, #446e72);
+      color: #fff;
+      border: none;
+      font-size: 0.78rem;
+      font-weight: 700;
+      padding: 0.18em 0.7em;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3em;
+      transition: filter 0.12s;
+    }
+    .hq-share:hover:not(:disabled) { filter: brightness(1.12); }
+    .hq-share:disabled { background: #b9c9ca; cursor: not-allowed; }
+
+    .hq-toast {
+      position: fixed;
+      top: 70px;
+      left: 50%;
+      transform: translateX(-50%) translateY(-200%);
+      background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+      color: #fff;
+      padding: 0.75rem 1.4rem;
+      font-weight: 800;
+      font-size: 1.05rem;
+      letter-spacing: 0.04em;
+      box-shadow: 0 8px 28px rgba(0,0,0,0.22);
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      gap: 0.5em;
+      pointer-events: none;
+      transition: transform 0.45s cubic-bezier(0.34, 1.56, 0.64, 1);
+      max-width: 90vw;
+      text-align: center;
+    }
+    .hq-toast.shown { transform: translateX(-50%) translateY(0); }
+    .hq-toast-icon { font-size: 1.4rem; line-height: 1; }
 
     /* Question card */
     .hq-question {
@@ -374,8 +418,11 @@ const crumbs = [
       color: rgba(80,80,80,0.85);
     }
 
-    /* Side rails */
-    .hq-ad-rail, .hq-history-rail { display: none; }
+    /* Side rails. Ad rail is desktop-only; history rail collapses to a
+       floating tab on mobile. */
+    .hq-ad-rail { display: none; }
+    .hq-history-rail { display: block; }
+    .hq-history-toggle, .hq-history-close { display: none; }
     .hq-ad-inner {
       position: sticky;
       top: 80px;
@@ -570,7 +617,7 @@ const crumbs = [
         width: 100%;
       }
       .hq-shell > .hq-page { max-width: none; margin: 0; }
-      .hq-ad-rail, .hq-history-rail { display: block; min-width: 0; }
+      .hq-ad-rail { display: block; min-width: 0; }
     }
     @media (min-width: 1500px) {
       main.hq-shell {
@@ -578,6 +625,79 @@ const crumbs = [
         gap: 1.5rem;
       }
       .hq-ad-inner { max-width: 220px; }
+    }
+
+    /* Mobile / narrow desktops: floating history drawer. */
+    @media (max-width: 1279px) {
+      .hq-history-rail .hq-history-inner { display: none; }
+      .hq-history-toggle {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.25rem;
+        position: fixed;
+        right: 0;
+        top: 35%;
+        z-index: 200;
+        background: var(--primary-color, #446e72);
+        color: #fff;
+        border: none;
+        padding: 0.7rem 0.45rem;
+        font-weight: 700;
+        font-size: 0.78rem;
+        cursor: pointer;
+        letter-spacing: 0.06em;
+        box-shadow: -2px 2px 8px rgba(0,0,0,0.18);
+      }
+      .hq-history-toggle:hover { filter: brightness(1.1); }
+      .hq-history-toggle-icon { font-size: 1.1rem; line-height: 1; }
+      .hq-history-toggle-letters {
+        display: flex;
+        flex-direction: column;
+        line-height: 1.05;
+      }
+      .hq-history-toggle-count {
+        font-size: 0.72rem;
+        background: rgba(255,255,255,0.18);
+        padding: 0.05em 0.35em;
+        font-weight: 800;
+      }
+      .hq-history-rail.is-expanded .hq-history-inner {
+        display: flex;
+        position: fixed;
+        top: 60px;
+        right: 0;
+        bottom: 16px;
+        width: 320px;
+        max-width: 92vw;
+        max-height: none;
+        z-index: 201;
+        box-shadow: -10px 0 28px rgba(0,0,0,0.25);
+      }
+      .hq-history-rail.is-expanded .hq-history-toggle { display: none; }
+      .hq-history-rail.is-expanded .hq-history-close {
+        display: block;
+        position: absolute;
+        top: 6px;
+        right: 6px;
+        background: none;
+        border: none;
+        color: rgba(80,80,80,0.85);
+        font-size: 1.5rem;
+        line-height: 1;
+        cursor: pointer;
+        padding: 0.2rem 0.5rem;
+        z-index: 1;
+        font-weight: 700;
+      }
+      .hq-history-rail.is-expanded .hq-history-close:hover { color: #c0392b; }
+      .hq-history-rail.is-expanded::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.32);
+        z-index: 200;
+      }
     }
 
   </style>
@@ -609,6 +729,8 @@ const crumbs = [
           <span class="hq-correct">◯ <span id="hq-cnt-correct">0</span></span>
           <span class="hq-partial">△ <span id="hq-cnt-partial">0</span></span>
           <span class="hq-wrong">× <span id="hq-cnt-wrong">0</span></span>
+          <span class="hq-streak" id="hq-streak" hidden>🔥 <span id="hq-streak-num">0</span> 連続</span>
+          <button class="hq-share" id="hq-share" type="button" title="結果をXでシェア">📣 シェア</button>
         </div>
       </div>
 
@@ -660,8 +782,20 @@ const crumbs = [
       </p>
     </div>
 
-    <aside class="hq-history-rail" aria-label="解答履歴">
-      <div class="hq-history-inner">
+    <div class="hq-toast" id="hq-toast" role="status" aria-live="polite">
+      <span class="hq-toast-icon" id="hq-toast-icon">🎉</span>
+      <span class="hq-toast-text" id="hq-toast-text">―</span>
+    </div>
+
+    <aside class="hq-history-rail" id="hq-history-rail" aria-label="解答履歴">
+      <button class="hq-history-toggle" id="hq-history-toggle" type="button"
+              aria-controls="hq-history-panel" aria-expanded="false" aria-label="解答履歴を開く">
+        <span class="hq-history-toggle-icon" aria-hidden="true">📋</span>
+        <span class="hq-history-toggle-letters" aria-hidden="true"><span>履</span><span>歴</span></span>
+        <span class="hq-history-toggle-count" id="hq-history-toggle-count">0</span>
+      </button>
+      <div class="hq-history-inner" id="hq-history-panel">
+        <button class="hq-history-close" id="hq-history-close" type="button" aria-label="閉じる">×</button>
         <div class="hq-history-header">
           <h2 class="hq-history-title">
             <span>解答履歴</span>
@@ -768,10 +902,32 @@ const crumbs = [
     const slotEndEl    = document.getElementById("hq-slot-end");
     const slotCardStart = document.getElementById("hq-slot-card-start");
     const slotCardEnd   = document.getElementById("hq-slot-card-end");
+    const streakEl     = document.getElementById("hq-streak");
+    const streakNumEl  = document.getElementById("hq-streak-num");
+    const shareBtn     = document.getElementById("hq-share");
+    const toastEl      = document.getElementById("hq-toast");
+    const toastIconEl  = document.getElementById("hq-toast-icon");
+    const toastTextEl  = document.getElementById("hq-toast-text");
     const buttons      = Array.from(document.querySelectorAll(".hq-pref"));
     const historyListEl  = document.getElementById("hq-history-list");
     const historyEmptyEl = document.getElementById("hq-history-empty");
     const historyCountEl = document.getElementById("hq-history-count");
+    const historyToggleCountEl = document.getElementById("hq-history-toggle-count");
+    const historyRail   = document.getElementById("hq-history-rail");
+    const historyToggle = document.getElementById("hq-history-toggle");
+    const historyClose  = document.getElementById("hq-history-close");
+
+    const STREAK_MILESTONES = [3, 5, 10, 15, 20, 30, 50, 100];
+    const TOTAL_MILESTONES  = [10, 25, 50, 100, 200, 500, 1000];
+    let toastTimer = null;
+    function showAchievement(text, icon) {
+      if (!toastEl || !toastTextEl) return;
+      toastTextEl.textContent = text;
+      if (toastIconEl && icon) toastIconEl.textContent = icon;
+      toastEl.classList.add("shown");
+      if (toastTimer) clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => toastEl.classList.remove("shown"), 2800);
+    }
 
     let selStart = current.selStart || null;
     let selEnd   = current.selEnd   || null;
@@ -786,14 +942,67 @@ const crumbs = [
       s.partial = (s.partial || 0) + (grade === "partial" ? 1 : 0);
       s.wrong   = (s.wrong   || 0) + (grade === "wrong"   ? 1 : 0);
       s.total   = (s.total   || 0) + 1;
+      if (grade === "correct") {
+        s.streak = (s.streak || 0) + 1;
+        s.bestStreak = Math.max(s.bestStreak || 0, s.streak);
+      } else {
+        s.streak = 0;
+      }
       saveJSON(SCORE_KEY, s);
       renderScore(s);
+      if (grade === "correct" && STREAK_MILESTONES.includes(s.streak)) {
+        showAchievement(s.streak + " 問連続正解！", "🔥");
+      } else if (TOTAL_MILESTONES.includes(s.total)) {
+        showAchievement(s.total + " 問挑戦達成！", "🎯");
+      }
     }
     function renderScore(s) {
       cntCorrect.textContent = String(s.correct || 0);
       cntPartial.textContent = String(s.partial || 0);
       cntWrong.textContent   = String(s.wrong   || 0);
+      const streak = s.streak || 0;
+      if (streakEl && streakNumEl) {
+        if (streak >= 2) {
+          streakEl.hidden = false;
+          streakNumEl.textContent = String(streak);
+        } else {
+          streakEl.hidden = true;
+        }
+      }
+      if (shareBtn) shareBtn.disabled = !((s.bestStreak || 0) >= 1);
     }
+
+    const SHARE_TITLE = "国道クイズ";
+    function share() {
+      const s = loadJSON(SCORE_KEY, {});
+      const best = s.bestStreak || 0;
+      if (best < 1) return;
+      const url = location.origin + location.pathname;
+      const text = best + " 問連続正解しました！\n" + SHARE_TITLE;
+      const tw = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(text)
+               + "&url=" + encodeURIComponent(url);
+      window.open(tw, "_blank", "noopener,noreferrer");
+    }
+    if (shareBtn) shareBtn.addEventListener("click", share);
+
+    function setHistoryExpanded(expanded) {
+      if (!historyRail) return;
+      historyRail.classList.toggle("is-expanded", expanded);
+      if (historyToggle) historyToggle.setAttribute("aria-expanded", String(expanded));
+    }
+    if (historyToggle) historyToggle.addEventListener("click", (e) => {
+      e.stopPropagation();
+      setHistoryExpanded(!historyRail.classList.contains("is-expanded"));
+    });
+    if (historyClose) historyClose.addEventListener("click", (e) => {
+      e.stopPropagation();
+      setHistoryExpanded(false);
+    });
+    document.addEventListener("click", (e) => {
+      if (!historyRail || !historyRail.classList.contains("is-expanded")) return;
+      if (historyRail.contains(e.target)) return;
+      setHistoryExpanded(false);
+    });
 
     function applySelectionUI() {
       buttons.forEach((b) => {
@@ -1020,6 +1229,7 @@ const crumbs = [
       if (historyCountEl) {
         historyCountEl.textContent = history.length > 0 ? "(" + history.length + " 問)" : "";
       }
+      if (historyToggleCountEl) historyToggleCountEl.textContent = String(history.length);
       if (history.length === 0) {
         if (historyEmptyEl) historyEmptyEl.style.display = "block";
         return;

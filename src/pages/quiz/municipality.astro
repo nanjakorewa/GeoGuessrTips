@@ -150,7 +150,52 @@ const crumbs = [
     }
     .mq-stats .mq-correct { background: rgba(74,158,92,0.15); color: #2c6f3c; }
     .mq-stats .mq-partial { background: rgba(196,154,42,0.18); color: #8a6614; }
-    .mq-stats .mq-wrong { background: rgba(192,57,43,0.13); color: #9a2d24; }
+    .mq-stats .mq-wrong   { background: rgba(192,57,43,0.13); color: #9a2d24; }
+    .mq-stats .mq-streak  {
+      background: linear-gradient(135deg, rgba(249,115,22,0.22) 0%, rgba(234,88,12,0.15) 100%);
+      color: #c2410c;
+    }
+    .mq-stats .mq-streak[hidden] { display: none; }
+    .mq-share {
+      background: var(--primary-color, #446e72);
+      color: #fff;
+      border: none;
+      font-size: 0.78rem;
+      font-weight: 700;
+      padding: 0.18em 0.7em;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3em;
+      transition: filter 0.12s;
+    }
+    .mq-share:hover:not(:disabled) { filter: brightness(1.12); }
+    .mq-share:disabled { background: #b9c9ca; cursor: not-allowed; }
+
+    /* Achievement toast */
+    .mq-toast {
+      position: fixed;
+      top: 70px;
+      left: 50%;
+      transform: translateX(-50%) translateY(-200%);
+      background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+      color: #fff;
+      padding: 0.75rem 1.4rem;
+      font-weight: 800;
+      font-size: 1.05rem;
+      letter-spacing: 0.04em;
+      box-shadow: 0 8px 28px rgba(0,0,0,0.22);
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      gap: 0.5em;
+      pointer-events: none;
+      transition: transform 0.45s cubic-bezier(0.34, 1.56, 0.64, 1);
+      max-width: 90vw;
+      text-align: center;
+    }
+    .mq-toast.shown { transform: translateX(-50%) translateY(0); }
+    .mq-toast-icon { font-size: 1.4rem; line-height: 1; }
 
     /* Question + result merged into one card to avoid layout shift */
     .mq-question {
@@ -396,8 +441,12 @@ const crumbs = [
       .mq-pref { max-width: 150px; }
     }
 
-    /* Side rails — hidden by default, shown on roomy desktops. */
-    .mq-ad-rail, .mq-history-rail { display: none; }
+    /* Side rails. The ad rail is desktop-only (Auto Ads handles mobile via
+       the global loader); the history rail is shown on every screen but
+       collapses to a small floating tab on mobile. */
+    .mq-ad-rail { display: none; }
+    .mq-history-rail { display: block; }
+    .mq-history-toggle, .mq-history-close { display: none; }
 
     .mq-ad-inner {
       position: sticky;
@@ -567,7 +616,81 @@ const crumbs = [
         width: 100%;
       }
       .mq-shell > .mq-page { max-width: none; margin: 0; }
-      .mq-ad-rail, .mq-history-rail { display: block; min-width: 0; }
+      .mq-ad-rail { display: block; min-width: 0; }
+    }
+
+    /* Mobile / narrow desktops: history rail floats to the right edge as a
+       collapsed tab. Tapping the tab reveals the full panel as an overlay. */
+    @media (max-width: 1279px) {
+      .mq-history-rail .mq-history-inner { display: none; }
+      .mq-history-toggle {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.25rem;
+        position: fixed;
+        right: 0;
+        top: 35%;
+        z-index: 200;
+        background: var(--primary-color, #446e72);
+        color: #fff;
+        border: none;
+        padding: 0.7rem 0.45rem;
+        font-weight: 700;
+        font-size: 0.78rem;
+        cursor: pointer;
+        letter-spacing: 0.06em;
+        box-shadow: -2px 2px 8px rgba(0,0,0,0.18);
+      }
+      .mq-history-toggle:hover { filter: brightness(1.1); }
+      .mq-history-toggle-icon { font-size: 1.1rem; line-height: 1; }
+      .mq-history-toggle-letters {
+        display: flex;
+        flex-direction: column;
+        line-height: 1.05;
+      }
+      .mq-history-toggle-count {
+        font-size: 0.72rem;
+        background: rgba(255,255,255,0.18);
+        padding: 0.05em 0.35em;
+        font-weight: 800;
+      }
+      .mq-history-rail.is-expanded .mq-history-inner {
+        display: flex;
+        position: fixed;
+        top: 60px;
+        right: 0;
+        bottom: 16px;
+        width: 320px;
+        max-width: 92vw;
+        max-height: none;
+        z-index: 201;
+        box-shadow: -10px 0 28px rgba(0,0,0,0.25);
+      }
+      .mq-history-rail.is-expanded .mq-history-toggle { display: none; }
+      .mq-history-rail.is-expanded .mq-history-close {
+        display: block;
+        position: absolute;
+        top: 6px;
+        right: 6px;
+        background: none;
+        border: none;
+        color: rgba(80,80,80,0.85);
+        font-size: 1.5rem;
+        line-height: 1;
+        cursor: pointer;
+        padding: 0.2rem 0.5rem;
+        z-index: 1;
+        font-weight: 700;
+      }
+      .mq-history-rail.is-expanded .mq-history-close:hover { color: #c0392b; }
+      .mq-history-rail.is-expanded::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.32);
+        z-index: 200;
+      }
     }
     @media (min-width: 1500px) {
       main.mq-shell {
@@ -606,6 +729,8 @@ const crumbs = [
         <span class="mq-correct">◯ <span id="mq-cnt-correct">0</span></span>
         <span class="mq-partial">△ <span id="mq-cnt-partial">0</span></span>
         <span class="mq-wrong">× <span id="mq-cnt-wrong">0</span></span>
+        <span class="mq-streak" id="mq-streak" hidden>🔥 <span id="mq-streak-num">0</span> 連続</span>
+        <button class="mq-share" id="mq-share" type="button" title="結果をXでシェア">📣 シェア</button>
       </div>
     </div>
 
@@ -643,8 +768,20 @@ const crumbs = [
     </p>
     </div>
 
-    <aside class="mq-history-rail" aria-label="解答履歴">
-      <div class="mq-history-inner">
+    <div class="mq-toast" id="mq-toast" role="status" aria-live="polite">
+      <span class="mq-toast-icon" id="mq-toast-icon">🎉</span>
+      <span class="mq-toast-text" id="mq-toast-text">―</span>
+    </div>
+
+    <aside class="mq-history-rail" id="mq-history-rail" aria-label="解答履歴">
+      <button class="mq-history-toggle" id="mq-history-toggle" type="button"
+              aria-controls="mq-history-panel" aria-expanded="false" aria-label="解答履歴を開く">
+        <span class="mq-history-toggle-icon" aria-hidden="true">📋</span>
+        <span class="mq-history-toggle-letters" aria-hidden="true"><span>履</span><span>歴</span></span>
+        <span class="mq-history-toggle-count" id="mq-history-toggle-count">0</span>
+      </button>
+      <div class="mq-history-inner" id="mq-history-panel">
+        <button class="mq-history-close" id="mq-history-close" type="button" aria-label="閉じる">×</button>
         <div class="mq-history-header">
           <h2 class="mq-history-title">
             <span>解答履歴</span>
@@ -759,10 +896,32 @@ const crumbs = [
     const cntCorrect   = document.getElementById("mq-cnt-correct");
     const cntPartial   = document.getElementById("mq-cnt-partial");
     const cntWrong     = document.getElementById("mq-cnt-wrong");
+    const streakEl     = document.getElementById("mq-streak");
+    const streakNumEl  = document.getElementById("mq-streak-num");
+    const shareBtn     = document.getElementById("mq-share");
+    const toastEl      = document.getElementById("mq-toast");
+    const toastIconEl  = document.getElementById("mq-toast-icon");
+    const toastTextEl  = document.getElementById("mq-toast-text");
     const buttons      = Array.from(document.querySelectorAll(".mq-pref"));
     const historyListEl = document.getElementById("mq-history-list");
     const historyEmptyEl = document.getElementById("mq-history-empty");
     const historyCountEl = document.getElementById("mq-history-count");
+    const historyToggleCountEl = document.getElementById("mq-history-toggle-count");
+    const historyRail   = document.getElementById("mq-history-rail");
+    const historyToggle = document.getElementById("mq-history-toggle");
+    const historyClose  = document.getElementById("mq-history-close");
+
+    const STREAK_MILESTONES = [3, 5, 10, 15, 20, 30, 50, 100];
+    const TOTAL_MILESTONES  = [10, 25, 50, 100, 200, 500, 1000];
+    let toastTimer = null;
+    function showAchievement(text, icon) {
+      if (!toastEl || !toastTextEl) return;
+      toastTextEl.textContent = text;
+      if (toastIconEl && icon) toastIconEl.textContent = icon;
+      toastEl.classList.add("shown");
+      if (toastTimer) clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => toastEl.classList.remove("shown"), 2800);
+    }
 
     function persistCurrent() {
       history[cursor] = current;
@@ -854,14 +1013,76 @@ const crumbs = [
       s.partial = (s.partial || 0) + (grade === "partial" ? 1 : 0);
       s.wrong   = (s.wrong   || 0) + (grade === "wrong"   ? 1 : 0);
       s.total   = (s.total   || 0) + 1;
+      // Streak: only fully-correct answers extend the streak; partial/wrong reset it.
+      if (grade === "correct") {
+        s.streak = (s.streak || 0) + 1;
+        s.bestStreak = Math.max(s.bestStreak || 0, s.streak);
+      } else {
+        s.streak = 0;
+      }
       saveJSON(SCORE_KEY, s);
       renderScore(s);
+      // Achievement bursts
+      if (grade === "correct" && STREAK_MILESTONES.includes(s.streak)) {
+        showAchievement(s.streak + " 問連続正解！", "🔥");
+      } else if (TOTAL_MILESTONES.includes(s.total)) {
+        showAchievement(s.total + " 問挑戦達成！", "🎯");
+      }
     }
     function renderScore(s) {
       cntCorrect.textContent = String(s.correct || 0);
       cntPartial.textContent = String(s.partial || 0);
       cntWrong.textContent   = String(s.wrong   || 0);
+      const streak = s.streak || 0;
+      if (streakEl && streakNumEl) {
+        if (streak >= 2) {
+          streakEl.hidden = false;
+          streakNumEl.textContent = String(streak);
+        } else {
+          streakEl.hidden = true;
+        }
+      }
+      // Share unlocks once user has at least one correct answer to brag about.
+      if (shareBtn) shareBtn.disabled = !((s.bestStreak || 0) >= 1);
     }
+
+    const SHARE_TITLE = "自治体クイズ";
+    function share() {
+      const s = loadJSON(SCORE_KEY, {});
+      const best = s.bestStreak || 0;
+      if (best < 1) return;
+      const url = location.origin + location.pathname;
+      const text = best + " 問連続正解しました！\n" + SHARE_TITLE;
+      const tw = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(text)
+               + "&url=" + encodeURIComponent(url);
+      window.open(tw, "_blank", "noopener,noreferrer");
+    }
+    if (shareBtn) shareBtn.addEventListener("click", share);
+
+    // Floating history drawer toggle (mobile / narrow desktop).
+    function setHistoryExpanded(expanded) {
+      if (!historyRail) return;
+      historyRail.classList.toggle("is-expanded", expanded);
+      if (historyToggle) historyToggle.setAttribute("aria-expanded", String(expanded));
+    }
+    if (historyToggle) historyToggle.addEventListener("click", (e) => {
+      e.stopPropagation();
+      setHistoryExpanded(!historyRail.classList.contains("is-expanded"));
+    });
+    if (historyClose) historyClose.addEventListener("click", (e) => {
+      e.stopPropagation();
+      setHistoryExpanded(false);
+    });
+    document.addEventListener("click", (e) => {
+      if (!historyRail || !historyRail.classList.contains("is-expanded")) return;
+      if (historyRail.contains(e.target)) return;
+      setHistoryExpanded(false);
+    });
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && historyRail && historyRail.classList.contains("is-expanded")) {
+        setHistoryExpanded(false);
+      }
+    });
 
     function submit() {
       if (current.state !== "fresh" || selected.size === 0) return;
@@ -953,6 +1174,7 @@ const crumbs = [
       if (historyCountEl) {
         historyCountEl.textContent = history.length > 0 ? "(" + history.length + " 問)" : "";
       }
+      if (historyToggleCountEl) historyToggleCountEl.textContent = String(history.length);
       if (history.length === 0) {
         if (historyEmptyEl) historyEmptyEl.style.display = "block";
         return;

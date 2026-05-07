@@ -89,6 +89,50 @@ const crumbs = [
     }
     .aq-stats .aq-correct { background: rgba(74,158,92,0.15); color: #2c6f3c; }
     .aq-stats .aq-wrong   { background: rgba(192,57,43,0.13); color: #9a2d24; }
+    .aq-stats .aq-streak  {
+      background: linear-gradient(135deg, rgba(249,115,22,0.22) 0%, rgba(234,88,12,0.15) 100%);
+      color: #c2410c;
+    }
+    .aq-stats .aq-streak[hidden] { display: none; }
+    .aq-share {
+      background: var(--primary-color, #446e72);
+      color: #fff;
+      border: none;
+      font-size: 0.78rem;
+      font-weight: 700;
+      padding: 0.18em 0.7em;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3em;
+      transition: filter 0.12s;
+    }
+    .aq-share:hover:not(:disabled) { filter: brightness(1.12); }
+    .aq-share:disabled { background: #b9c9ca; cursor: not-allowed; }
+
+    .aq-toast {
+      position: fixed;
+      top: 70px;
+      left: 50%;
+      transform: translateX(-50%) translateY(-200%);
+      background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+      color: #fff;
+      padding: 0.75rem 1.4rem;
+      font-weight: 800;
+      font-size: 1.05rem;
+      letter-spacing: 0.04em;
+      box-shadow: 0 8px 28px rgba(0,0,0,0.22);
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      gap: 0.5em;
+      pointer-events: none;
+      transition: transform 0.45s cubic-bezier(0.34, 1.56, 0.64, 1);
+      max-width: 90vw;
+      text-align: center;
+    }
+    .aq-toast.shown { transform: translateX(-50%) translateY(0); }
+    .aq-toast-icon { font-size: 1.4rem; line-height: 1; }
 
     /* Question card */
     .aq-question {
@@ -230,8 +274,11 @@ const crumbs = [
       color: rgba(80,80,80,0.85);
     }
 
-    /* Side rails — hidden by default. */
-    .aq-ad-rail, .aq-history-rail { display: none; }
+    /* Side rails. Ad rail is desktop-only; history rail is shown on every
+       screen but collapses to a floating tab on mobile. */
+    .aq-ad-rail { display: none; }
+    .aq-history-rail { display: block; }
+    .aq-history-toggle, .aq-history-close { display: none; }
 
     .aq-ad-inner {
       position: sticky;
@@ -417,7 +464,7 @@ const crumbs = [
         width: 100%;
       }
       .aq-shell > .aq-page { max-width: none; margin: 0; }
-      .aq-ad-rail, .aq-history-rail { display: block; min-width: 0; }
+      .aq-ad-rail { display: block; min-width: 0; }
     }
     @media (min-width: 1500px) {
       main.aq-shell {
@@ -425,6 +472,79 @@ const crumbs = [
         gap: 1.5rem;
       }
       .aq-ad-inner { max-width: 220px; }
+    }
+
+    /* Mobile / narrow desktops: history rail floats to the right edge. */
+    @media (max-width: 1279px) {
+      .aq-history-rail .aq-history-inner { display: none; }
+      .aq-history-toggle {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.25rem;
+        position: fixed;
+        right: 0;
+        top: 35%;
+        z-index: 200;
+        background: var(--primary-color, #446e72);
+        color: #fff;
+        border: none;
+        padding: 0.7rem 0.45rem;
+        font-weight: 700;
+        font-size: 0.78rem;
+        cursor: pointer;
+        letter-spacing: 0.06em;
+        box-shadow: -2px 2px 8px rgba(0,0,0,0.18);
+      }
+      .aq-history-toggle:hover { filter: brightness(1.1); }
+      .aq-history-toggle-icon { font-size: 1.1rem; line-height: 1; }
+      .aq-history-toggle-letters {
+        display: flex;
+        flex-direction: column;
+        line-height: 1.05;
+      }
+      .aq-history-toggle-count {
+        font-size: 0.72rem;
+        background: rgba(255,255,255,0.18);
+        padding: 0.05em 0.35em;
+        font-weight: 800;
+      }
+      .aq-history-rail.is-expanded .aq-history-inner {
+        display: flex;
+        position: fixed;
+        top: 60px;
+        right: 0;
+        bottom: 16px;
+        width: 320px;
+        max-width: 92vw;
+        max-height: none;
+        z-index: 201;
+        box-shadow: -10px 0 28px rgba(0,0,0,0.25);
+      }
+      .aq-history-rail.is-expanded .aq-history-toggle { display: none; }
+      .aq-history-rail.is-expanded .aq-history-close {
+        display: block;
+        position: absolute;
+        top: 6px;
+        right: 6px;
+        background: none;
+        border: none;
+        color: rgba(80,80,80,0.85);
+        font-size: 1.5rem;
+        line-height: 1;
+        cursor: pointer;
+        padding: 0.2rem 0.5rem;
+        z-index: 1;
+        font-weight: 700;
+      }
+      .aq-history-rail.is-expanded .aq-history-close:hover { color: #c0392b; }
+      .aq-history-rail.is-expanded::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.32);
+        z-index: 200;
+      }
     }
 
   </style>
@@ -455,6 +575,8 @@ const crumbs = [
         <div class="aq-stats" aria-live="polite">
           <span class="aq-correct">◯ <span id="aq-cnt-correct">0</span></span>
           <span class="aq-wrong">× <span id="aq-cnt-wrong">0</span></span>
+          <span class="aq-streak" id="aq-streak" hidden>🔥 <span id="aq-streak-num">0</span> 連続</span>
+          <button class="aq-share" id="aq-share" type="button" title="結果をXでシェア">📣 シェア</button>
         </div>
       </div>
 
@@ -491,8 +613,20 @@ const crumbs = [
       </p>
     </div>
 
-    <aside class="aq-history-rail" aria-label="解答履歴">
-      <div class="aq-history-inner">
+    <div class="aq-toast" id="aq-toast" role="status" aria-live="polite">
+      <span class="aq-toast-icon" id="aq-toast-icon">🎉</span>
+      <span class="aq-toast-text" id="aq-toast-text">―</span>
+    </div>
+
+    <aside class="aq-history-rail" id="aq-history-rail" aria-label="解答履歴">
+      <button class="aq-history-toggle" id="aq-history-toggle" type="button"
+              aria-controls="aq-history-panel" aria-expanded="false" aria-label="解答履歴を開く">
+        <span class="aq-history-toggle-icon" aria-hidden="true">📋</span>
+        <span class="aq-history-toggle-letters" aria-hidden="true"><span>履</span><span>歴</span></span>
+        <span class="aq-history-toggle-count" id="aq-history-toggle-count">0</span>
+      </button>
+      <div class="aq-history-inner" id="aq-history-panel">
+        <button class="aq-history-close" id="aq-history-close" type="button" aria-label="閉じる">×</button>
         <div class="aq-history-header">
           <h2 class="aq-history-title">
             <span>解答履歴</span>
@@ -601,9 +735,31 @@ const crumbs = [
     const skipBtn      = document.getElementById("aq-skip");
     const cntCorrect   = document.getElementById("aq-cnt-correct");
     const cntWrong     = document.getElementById("aq-cnt-wrong");
+    const streakEl     = document.getElementById("aq-streak");
+    const streakNumEl  = document.getElementById("aq-streak-num");
+    const shareBtn     = document.getElementById("aq-share");
+    const toastEl      = document.getElementById("aq-toast");
+    const toastIconEl  = document.getElementById("aq-toast-icon");
+    const toastTextEl  = document.getElementById("aq-toast-text");
     const historyListEl  = document.getElementById("aq-history-list");
     const historyEmptyEl = document.getElementById("aq-history-empty");
     const historyCountEl = document.getElementById("aq-history-count");
+    const historyToggleCountEl = document.getElementById("aq-history-toggle-count");
+    const historyRail   = document.getElementById("aq-history-rail");
+    const historyToggle = document.getElementById("aq-history-toggle");
+    const historyClose  = document.getElementById("aq-history-close");
+
+    const STREAK_MILESTONES = [3, 5, 10, 15, 20, 30, 50, 100];
+    const TOTAL_MILESTONES  = [10, 25, 50, 100, 200, 500, 1000];
+    let toastTimer = null;
+    function showAchievement(text, icon) {
+      if (!toastEl || !toastTextEl) return;
+      toastTextEl.textContent = text;
+      if (toastIconEl && icon) toastIconEl.textContent = icon;
+      toastEl.classList.add("shown");
+      if (toastTimer) clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => toastEl.classList.remove("shown"), 2800);
+    }
 
     function persistCurrent() {
       history[cursor] = current;
@@ -614,13 +770,66 @@ const crumbs = [
       s.correct = (s.correct || 0) + (grade === "correct" ? 1 : 0);
       s.wrong   = (s.wrong   || 0) + (grade === "wrong"   ? 1 : 0);
       s.total   = (s.total   || 0) + 1;
+      if (grade === "correct") {
+        s.streak = (s.streak || 0) + 1;
+        s.bestStreak = Math.max(s.bestStreak || 0, s.streak);
+      } else {
+        s.streak = 0;
+      }
       saveJSON(SCORE_KEY, s);
       renderScore(s);
+      if (grade === "correct" && STREAK_MILESTONES.includes(s.streak)) {
+        showAchievement(s.streak + " 問連続正解！", "🔥");
+      } else if (TOTAL_MILESTONES.includes(s.total)) {
+        showAchievement(s.total + " 問挑戦達成！", "🎯");
+      }
     }
     function renderScore(s) {
       cntCorrect.textContent = String(s.correct || 0);
       cntWrong.textContent   = String(s.wrong   || 0);
+      const streak = s.streak || 0;
+      if (streakEl && streakNumEl) {
+        if (streak >= 2) {
+          streakEl.hidden = false;
+          streakNumEl.textContent = String(streak);
+        } else {
+          streakEl.hidden = true;
+        }
+      }
+      if (shareBtn) shareBtn.disabled = !((s.bestStreak || 0) >= 1);
     }
+
+    const SHARE_TITLE = "市外局番クイズ";
+    function share() {
+      const s = loadJSON(SCORE_KEY, {});
+      const best = s.bestStreak || 0;
+      if (best < 1) return;
+      const url = location.origin + location.pathname;
+      const text = best + " 問連続正解しました！\n" + SHARE_TITLE;
+      const tw = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(text)
+               + "&url=" + encodeURIComponent(url);
+      window.open(tw, "_blank", "noopener,noreferrer");
+    }
+    if (shareBtn) shareBtn.addEventListener("click", share);
+
+    function setHistoryExpanded(expanded) {
+      if (!historyRail) return;
+      historyRail.classList.toggle("is-expanded", expanded);
+      if (historyToggle) historyToggle.setAttribute("aria-expanded", String(expanded));
+    }
+    if (historyToggle) historyToggle.addEventListener("click", (e) => {
+      e.stopPropagation();
+      setHistoryExpanded(!historyRail.classList.contains("is-expanded"));
+    });
+    if (historyClose) historyClose.addEventListener("click", (e) => {
+      e.stopPropagation();
+      setHistoryExpanded(false);
+    });
+    document.addEventListener("click", (e) => {
+      if (!historyRail || !historyRail.classList.contains("is-expanded")) return;
+      if (historyRail.contains(e.target)) return;
+      setHistoryExpanded(false);
+    });
 
     function renderQuestion() {
       nameEl.textContent = current.name;
@@ -797,6 +1006,7 @@ const crumbs = [
       if (historyCountEl) {
         historyCountEl.textContent = history.length > 0 ? "(" + history.length + " 問)" : "";
       }
+      if (historyToggleCountEl) historyToggleCountEl.textContent = String(history.length);
       if (history.length === 0) {
         if (historyEmptyEl) historyEmptyEl.style.display = "block";
         return;
