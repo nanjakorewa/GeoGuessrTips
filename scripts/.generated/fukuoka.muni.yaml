@@ -1,0 +1,63 @@
+municipalities:
+  svg: "/maps/prefectures/fukuoka.svg"
+  list:
+    - { code: "40100", name: "北九州市", type: "city", note: "政令指定都市" }
+    - { code: "40130", name: "福岡市", type: "city", note: "県庁所在地" }
+    - { code: "40202", name: "大牟田市", type: "city" }
+    - { code: "40203", name: "久留米市", type: "city" }
+    - { code: "40204", name: "直方市", type: "city" }
+    - { code: "40205", name: "飯塚市", type: "city" }
+    - { code: "40206", name: "田川市", type: "city" }
+    - { code: "40207", name: "柳川市", type: "city" }
+    - { code: "40210", name: "八女市", type: "city" }
+    - { code: "40211", name: "筑後市", type: "city" }
+    - { code: "40212", name: "大川市", type: "city" }
+    - { code: "40213", name: "行橋市", type: "city" }
+    - { code: "40214", name: "豊前市", type: "city" }
+    - { code: "40215", name: "中間市", type: "city" }
+    - { code: "40216", name: "小郡市", type: "city" }
+    - { code: "40217", name: "筑紫野市", type: "city" }
+    - { code: "40218", name: "春日市", type: "city" }
+    - { code: "40219", name: "大野城市", type: "city" }
+    - { code: "40220", name: "宗像市", type: "city" }
+    - { code: "40221", name: "太宰府市", type: "city" }
+    - { code: "40223", name: "古賀市", type: "city" }
+    - { code: "40224", name: "福津市", type: "city" }
+    - { code: "40225", name: "うきは市", type: "city" }
+    - { code: "40226", name: "宮若市", type: "city" }
+    - { code: "40227", name: "嘉麻市", type: "city" }
+    - { code: "40228", name: "朝倉市", type: "city" }
+    - { code: "40229", name: "みやま市", type: "city" }
+    - { code: "40230", name: "糸島市", type: "city" }
+    - { code: "40231", name: "那珂川市", type: "city" }
+    - { code: "40341", name: "宇美町", type: "town", note: "糟屋郡" }
+    - { code: "40342", name: "篠栗町", type: "town", note: "糟屋郡" }
+    - { code: "40343", name: "志免町", type: "town", note: "糟屋郡" }
+    - { code: "40344", name: "須恵町", type: "town", note: "糟屋郡" }
+    - { code: "40345", name: "新宮町", type: "town", note: "糟屋郡" }
+    - { code: "40348", name: "久山町", type: "town", note: "糟屋郡" }
+    - { code: "40349", name: "粕屋町", type: "town", note: "糟屋郡" }
+    - { code: "40381", name: "芦屋町", type: "town", note: "遠賀郡" }
+    - { code: "40382", name: "水巻町", type: "town", note: "遠賀郡" }
+    - { code: "40383", name: "岡垣町", type: "town", note: "遠賀郡" }
+    - { code: "40384", name: "遠賀町", type: "town", note: "遠賀郡" }
+    - { code: "40401", name: "小竹町", type: "town", note: "鞍手郡" }
+    - { code: "40402", name: "鞍手町", type: "town", note: "鞍手郡" }
+    - { code: "40421", name: "桂川町", type: "town", note: "嘉穂郡" }
+    - { code: "40447", name: "筑前町", type: "town", note: "朝倉郡" }
+    - { code: "40448", name: "東峰村", type: "village", note: "朝倉郡" }
+    - { code: "40503", name: "大刀洗町", type: "town", note: "三井郡" }
+    - { code: "40522", name: "大木町", type: "town", note: "三潴郡" }
+    - { code: "40544", name: "広川町", type: "town", note: "八女郡" }
+    - { code: "40601", name: "香春町", type: "town", note: "田川郡" }
+    - { code: "40602", name: "添田町", type: "town", note: "田川郡" }
+    - { code: "40604", name: "糸田町", type: "town", note: "田川郡" }
+    - { code: "40605", name: "川崎町", type: "town", note: "田川郡" }
+    - { code: "40608", name: "大任町", type: "town", note: "田川郡" }
+    - { code: "40609", name: "赤村", type: "village", note: "田川郡" }
+    - { code: "40610", name: "福智町", type: "town", note: "田川郡" }
+    - { code: "40621", name: "苅田町", type: "town", note: "京都郡" }
+    - { code: "40625", name: "みやこ町", type: "town", note: "京都郡" }
+    - { code: "40642", name: "吉富町", type: "town", note: "築上郡" }
+    - { code: "40646", name: "上毛町", type: "town", note: "築上郡" }
+    - { code: "40647", name: "築上町", type: "town", note: "築上郡" }

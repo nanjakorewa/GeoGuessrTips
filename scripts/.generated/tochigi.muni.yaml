@@ -1,0 +1,28 @@
+municipalities:
+  svg: "/maps/prefectures/tochigi.svg"
+  list:
+    - { code: "09201", name: "宇都宮市", type: "city", note: "県庁所在地" }
+    - { code: "09202", name: "足利市", type: "city" }
+    - { code: "09203", name: "栃木市", type: "city" }
+    - { code: "09204", name: "佐野市", type: "city" }
+    - { code: "09205", name: "鹿沼市", type: "city" }
+    - { code: "09206", name: "日光市", type: "city" }
+    - { code: "09208", name: "小山市", type: "city" }
+    - { code: "09209", name: "真岡市", type: "city" }
+    - { code: "09210", name: "大田原市", type: "city" }
+    - { code: "09211", name: "矢板市", type: "city" }
+    - { code: "09213", name: "那須塩原市", type: "city" }
+    - { code: "09214", name: "さくら市", type: "city" }
+    - { code: "09215", name: "那須烏山市", type: "city" }
+    - { code: "09216", name: "下野市", type: "city" }
+    - { code: "09301", name: "上三川町", type: "town", note: "河内郡" }
+    - { code: "09342", name: "益子町", type: "town", note: "芳賀郡" }
+    - { code: "09343", name: "茂木町", type: "town", note: "芳賀郡" }
+    - { code: "09344", name: "市貝町", type: "town", note: "芳賀郡" }
+    - { code: "09345", name: "芳賀町", type: "town", note: "芳賀郡" }
+    - { code: "09361", name: "壬生町", type: "town", note: "下都賀郡" }
+    - { code: "09364", name: "野木町", type: "town", note: "下都賀郡" }
+    - { code: "09384", name: "塩谷町", type: "town", note: "塩谷郡" }
+    - { code: "09386", name: "高根沢町", type: "town", note: "塩谷郡" }
+    - { code: "09407", name: "那須町", type: "town", note: "那須郡" }
+    - { code: "09411", name: "那珂川町", type: "town", note: "那須郡" }

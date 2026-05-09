@@ -1,0 +1,57 @@
+municipalities:
+  svg: "/maps/prefectures/aichi.svg"
+  list:
+    - { code: "23100", name: "名古屋市", type: "city", note: "県庁所在地" }
+    - { code: "23201", name: "豊橋市", type: "city" }
+    - { code: "23202", name: "岡崎市", type: "city" }
+    - { code: "23203", name: "一宮市", type: "city" }
+    - { code: "23204", name: "瀬戸市", type: "city" }
+    - { code: "23205", name: "半田市", type: "city" }
+    - { code: "23206", name: "春日井市", type: "city" }
+    - { code: "23207", name: "豊川市", type: "city" }
+    - { code: "23208", name: "津島市", type: "city" }
+    - { code: "23209", name: "碧南市", type: "city" }
+    - { code: "23210", name: "刈谷市", type: "city" }
+    - { code: "23211", name: "豊田市", type: "city" }
+    - { code: "23212", name: "安城市", type: "city" }
+    - { code: "23213", name: "西尾市", type: "city" }
+    - { code: "23214", name: "蒲郡市", type: "city" }
+    - { code: "23215", name: "犬山市", type: "city" }
+    - { code: "23216", name: "常滑市", type: "city" }
+    - { code: "23217", name: "江南市", type: "city" }
+    - { code: "23219", name: "小牧市", type: "city" }
+    - { code: "23220", name: "稲沢市", type: "city" }
+    - { code: "23221", name: "新城市", type: "city" }
+    - { code: "23222", name: "東海市", type: "city" }
+    - { code: "23223", name: "大府市", type: "city" }
+    - { code: "23224", name: "知多市", type: "city" }
+    - { code: "23225", name: "知立市", type: "city" }
+    - { code: "23226", name: "尾張旭市", type: "city" }
+    - { code: "23227", name: "高浜市", type: "city" }
+    - { code: "23228", name: "岩倉市", type: "city" }
+    - { code: "23229", name: "豊明市", type: "city" }
+    - { code: "23230", name: "日進市", type: "city" }
+    - { code: "23231", name: "田原市", type: "city" }
+    - { code: "23232", name: "愛西市", type: "city" }
+    - { code: "23233", name: "清須市", type: "city" }
+    - { code: "23234", name: "北名古屋市", type: "city" }
+    - { code: "23235", name: "弥富市", type: "city" }
+    - { code: "23236", name: "みよし市", type: "city" }
+    - { code: "23237", name: "あま市", type: "city" }
+    - { code: "23238", name: "長久手市", type: "city" }
+    - { code: "23302", name: "東郷町", type: "town", note: "愛知郡" }
+    - { code: "23342", name: "豊山町", type: "town", note: "西春日井郡" }
+    - { code: "23361", name: "大口町", type: "town", note: "丹羽郡" }
+    - { code: "23362", name: "扶桑町", type: "town", note: "丹羽郡" }
+    - { code: "23424", name: "大治町", type: "town", note: "海部郡" }
+    - { code: "23425", name: "蟹江町", type: "town", note: "海部郡" }
+    - { code: "23427", name: "飛島村", type: "village", note: "海部郡" }
+    - { code: "23441", name: "阿久比町", type: "town", note: "知多郡" }
+    - { code: "23442", name: "東浦町", type: "town", note: "知多郡" }
+    - { code: "23445", name: "南知多町", type: "town", note: "知多郡" }
+    - { code: "23446", name: "美浜町", type: "town", note: "知多郡" }
+    - { code: "23447", name: "武豊町", type: "town", note: "知多郡" }
+    - { code: "23501", name: "幸田町", type: "town", note: "額田郡" }
+    - { code: "23561", name: "設楽町", type: "town", note: "北設楽郡" }
+    - { code: "23562", name: "東栄町", type: "town", note: "北設楽郡" }
+    - { code: "23563", name: "豊根村", type: "village", note: "北設楽郡" }

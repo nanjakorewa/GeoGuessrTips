@@ -1,0 +1,27 @@
+municipalities:
+  svg: "/maps/prefectures/tokushima.svg"
+  list:
+    - { code: "36201", name: "徳島市", type: "city", note: "県庁所在地" }
+    - { code: "36202", name: "鳴門市", type: "city" }
+    - { code: "36203", name: "小松島市", type: "city" }
+    - { code: "36204", name: "阿南市", type: "city" }
+    - { code: "36205", name: "吉野川市", type: "city" }
+    - { code: "36206", name: "阿波市", type: "city" }
+    - { code: "36207", name: "美馬市", type: "city" }
+    - { code: "36208", name: "三好市", type: "city" }
+    - { code: "36301", name: "勝浦町", type: "town", note: "勝浦郡" }
+    - { code: "36302", name: "上勝町", type: "town", note: "勝浦郡" }
+    - { code: "36321", name: "佐那河内村", type: "village", note: "名東郡" }
+    - { code: "36341", name: "石井町", type: "town", note: "名西郡" }
+    - { code: "36342", name: "神山町", type: "town", note: "名西郡" }
+    - { code: "36368", name: "那賀町", type: "town", note: "那賀郡" }
+    - { code: "36383", name: "牟岐町", type: "town", note: "海部郡" }
+    - { code: "36387", name: "美波町", type: "town", note: "海部郡" }
+    - { code: "36388", name: "海陽町", type: "town", note: "海部郡" }
+    - { code: "36401", name: "松茂町", type: "town", note: "板野郡" }
+    - { code: "36402", name: "北島町", type: "town", note: "板野郡" }
+    - { code: "36403", name: "藍住町", type: "town", note: "板野郡" }
+    - { code: "36404", name: "板野町", type: "town", note: "板野郡" }
+    - { code: "36405", name: "上板町", type: "town", note: "板野郡" }
+    - { code: "36468", name: "つるぎ町", type: "town", note: "美馬郡" }
+    - { code: "36489", name: "東みよし町", type: "town", note: "三好郡" }

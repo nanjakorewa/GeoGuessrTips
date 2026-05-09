@@ -1,0 +1,48 @@
+municipalities:
+  svg: "/maps/prefectures/kumamoto.svg"
+  list:
+    - { code: "43100", name: "熊本市", type: "city", note: "県庁所在地" }
+    - { code: "43202", name: "八代市", type: "city" }
+    - { code: "43203", name: "人吉市", type: "city" }
+    - { code: "43204", name: "荒尾市", type: "city" }
+    - { code: "43205", name: "水俣市", type: "city" }
+    - { code: "43206", name: "玉名市", type: "city" }
+    - { code: "43208", name: "山鹿市", type: "city" }
+    - { code: "43210", name: "菊池市", type: "city" }
+    - { code: "43211", name: "宇土市", type: "city" }
+    - { code: "43212", name: "上天草市", type: "city" }
+    - { code: "43213", name: "宇城市", type: "city" }
+    - { code: "43214", name: "阿蘇市", type: "city" }
+    - { code: "43215", name: "天草市", type: "city" }
+    - { code: "43216", name: "合志市", type: "city" }
+    - { code: "43348", name: "美里町", type: "town", note: "下益城郡" }
+    - { code: "43364", name: "玉東町", type: "town", note: "玉名郡" }
+    - { code: "43367", name: "南関町", type: "town", note: "玉名郡" }
+    - { code: "43368", name: "長洲町", type: "town", note: "玉名郡" }
+    - { code: "43369", name: "和水町", type: "town", note: "玉名郡" }
+    - { code: "43403", name: "大津町", type: "town", note: "菊池郡" }
+    - { code: "43404", name: "菊陽町", type: "town", note: "菊池郡" }
+    - { code: "43423", name: "南小国町", type: "town", note: "阿蘇郡" }
+    - { code: "43424", name: "小国町", type: "town", note: "阿蘇郡" }
+    - { code: "43425", name: "産山村", type: "village", note: "阿蘇郡" }
+    - { code: "43428", name: "高森町", type: "town", note: "阿蘇郡" }
+    - { code: "43432", name: "西原村", type: "village", note: "阿蘇郡" }
+    - { code: "43433", name: "南阿蘇村", type: "village", note: "阿蘇郡" }
+    - { code: "43441", name: "御船町", type: "town", note: "上益城郡" }
+    - { code: "43442", name: "嘉島町", type: "town", note: "上益城郡" }
+    - { code: "43443", name: "益城町", type: "town", note: "上益城郡" }
+    - { code: "43444", name: "甲佐町", type: "town", note: "上益城郡" }
+    - { code: "43447", name: "山都町", type: "town", note: "上益城郡" }
+    - { code: "43468", name: "氷川町", type: "town", note: "八代郡" }
+    - { code: "43482", name: "芦北町", type: "town", note: "葦北郡" }
+    - { code: "43484", name: "津奈木町", type: "town", note: "葦北郡" }
+    - { code: "43501", name: "錦町", type: "town", note: "球磨郡" }
+    - { code: "43505", name: "多良木町", type: "town", note: "球磨郡" }
+    - { code: "43506", name: "湯前町", type: "town", note: "球磨郡" }
+    - { code: "43507", name: "水上村", type: "village", note: "球磨郡" }
+    - { code: "43510", name: "相良村", type: "village", note: "球磨郡" }
+    - { code: "43511", name: "五木村", type: "village", note: "球磨郡" }
+    - { code: "43512", name: "山江村", type: "village", note: "球磨郡" }
+    - { code: "43513", name: "球磨村", type: "village", note: "球磨郡" }
+    - { code: "43514", name: "あさぎり町", type: "town", note: "球磨郡" }
+    - { code: "43531", name: "苓北町", type: "town", note: "天草郡" }

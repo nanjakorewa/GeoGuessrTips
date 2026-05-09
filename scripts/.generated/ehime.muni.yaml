@@ -1,0 +1,23 @@
+municipalities:
+  svg: "/maps/prefectures/ehime.svg"
+  list:
+    - { code: "38201", name: "松山市", type: "city", note: "県庁所在地" }
+    - { code: "38202", name: "今治市", type: "city" }
+    - { code: "38203", name: "宇和島市", type: "city" }
+    - { code: "38204", name: "八幡浜市", type: "city" }
+    - { code: "38205", name: "新居浜市", type: "city" }
+    - { code: "38206", name: "西条市", type: "city" }
+    - { code: "38207", name: "大洲市", type: "city" }
+    - { code: "38210", name: "伊予市", type: "city" }
+    - { code: "38213", name: "四国中央市", type: "city" }
+    - { code: "38214", name: "西予市", type: "city" }
+    - { code: "38215", name: "東温市", type: "city" }
+    - { code: "38356", name: "上島町", type: "town", note: "越智郡" }
+    - { code: "38386", name: "久万高原町", type: "town", note: "上浮穴郡" }
+    - { code: "38401", name: "松前町", type: "town", note: "伊予郡" }
+    - { code: "38402", name: "砥部町", type: "town", note: "伊予郡" }
+    - { code: "38422", name: "内子町", type: "town", note: "喜多郡" }
+    - { code: "38442", name: "伊方町", type: "town", note: "西宇和郡" }
+    - { code: "38484", name: "松野町", type: "town", note: "北宇和郡" }
+    - { code: "38488", name: "鬼北町", type: "town", note: "北宇和郡" }
+    - { code: "38506", name: "愛南町", type: "town", note: "南宇和郡" }

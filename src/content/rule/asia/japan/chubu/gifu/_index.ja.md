@@ -22,6 +22,51 @@ features:
     ref: "https://ja.wikipedia.org/wiki/白川郷・五箇山の合掌造り集落"
   - text: '<span class="quiz">刃物</span>の産地として有名で、関市は日本一の刃物生産量を誇る'
     ref: "https://ja.wikipedia.org/wiki/関市#工業"
+municipalities:
+  svg: "/maps/prefectures/gifu.svg"
+  list:
+    - { code: "21201", name: "岐阜市", type: "city", note: "県庁所在地" }
+    - { code: "21202", name: "大垣市", type: "city" }
+    - { code: "21203", name: "高山市", type: "city" }
+    - { code: "21204", name: "多治見市", type: "city" }
+    - { code: "21205", name: "関市", type: "city" }
+    - { code: "21206", name: "中津川市", type: "city" }
+    - { code: "21207", name: "美濃市", type: "city" }
+    - { code: "21208", name: "瑞浪市", type: "city" }
+    - { code: "21209", name: "羽島市", type: "city" }
+    - { code: "21210", name: "恵那市", type: "city" }
+    - { code: "21211", name: "美濃加茂市", type: "city" }
+    - { code: "21212", name: "土岐市", type: "city" }
+    - { code: "21213", name: "各務原市", type: "city" }
+    - { code: "21214", name: "可児市", type: "city" }
+    - { code: "21215", name: "山県市", type: "city" }
+    - { code: "21216", name: "瑞穂市", type: "city" }
+    - { code: "21217", name: "飛騨市", type: "city" }
+    - { code: "21218", name: "本巣市", type: "city" }
+    - { code: "21219", name: "郡上市", type: "city" }
+    - { code: "21220", name: "下呂市", type: "city" }
+    - { code: "21221", name: "海津市", type: "city" }
+    - { code: "21302", name: "岐南町", type: "town", note: "羽島郡" }
+    - { code: "21303", name: "笠松町", type: "town", note: "羽島郡" }
+    - { code: "21341", name: "養老町", type: "town", note: "養老郡" }
+    - { code: "21361", name: "垂井町", type: "town", note: "不破郡" }
+    - { code: "21362", name: "関ケ原町", type: "town", note: "不破郡" }
+    - { code: "21381", name: "神戸町", type: "town", note: "安八郡" }
+    - { code: "21382", name: "輪之内町", type: "town", note: "安八郡" }
+    - { code: "21383", name: "安八町", type: "town", note: "安八郡" }
+    - { code: "21401", name: "揖斐川町", type: "town", note: "揖斐郡" }
+    - { code: "21403", name: "大野町", type: "town", note: "揖斐郡" }
+    - { code: "21404", name: "池田町", type: "town", note: "揖斐郡" }
+    - { code: "21421", name: "北方町", type: "town", note: "本巣郡" }
+    - { code: "21501", name: "坂祝町", type: "town", note: "加茂郡" }
+    - { code: "21502", name: "富加町", type: "town", note: "加茂郡" }
+    - { code: "21503", name: "川辺町", type: "town", note: "加茂郡" }
+    - { code: "21504", name: "七宗町", type: "town", note: "加茂郡" }
+    - { code: "21505", name: "八百津町", type: "town", note: "加茂郡" }
+    - { code: "21506", name: "白川町", type: "town", note: "加茂郡" }
+    - { code: "21507", name: "東白川村", type: "village", note: "加茂郡" }
+    - { code: "21521", name: "御嵩町", type: "town", note: "可児郡" }
+    - { code: "21604", name: "白川村", type: "village", note: "大野郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計」 https://www.stat.go.jp/data/jinsui/

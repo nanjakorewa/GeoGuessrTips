@@ -1,0 +1,38 @@
+municipalities:
+  svg: "/maps/prefectures/yamagata.svg"
+  list:
+    - { code: "06201", name: "山形市", type: "city", note: "県庁所在地" }
+    - { code: "06202", name: "米沢市", type: "city" }
+    - { code: "06203", name: "鶴岡市", type: "city" }
+    - { code: "06204", name: "酒田市", type: "city" }
+    - { code: "06205", name: "新庄市", type: "city" }
+    - { code: "06206", name: "寒河江市", type: "city" }
+    - { code: "06207", name: "上山市", type: "city" }
+    - { code: "06208", name: "村山市", type: "city" }
+    - { code: "06209", name: "長井市", type: "city" }
+    - { code: "06210", name: "天童市", type: "city" }
+    - { code: "06211", name: "東根市", type: "city" }
+    - { code: "06212", name: "尾花沢市", type: "city" }
+    - { code: "06213", name: "南陽市", type: "city" }
+    - { code: "06301", name: "山辺町", type: "town", note: "東村山郡" }
+    - { code: "06302", name: "中山町", type: "town", note: "東村山郡" }
+    - { code: "06321", name: "河北町", type: "town", note: "西村山郡" }
+    - { code: "06322", name: "西川町", type: "town", note: "西村山郡" }
+    - { code: "06323", name: "朝日町", type: "town", note: "西村山郡" }
+    - { code: "06324", name: "大江町", type: "town", note: "西村山郡" }
+    - { code: "06341", name: "大石田町", type: "town", note: "北村山郡" }
+    - { code: "06361", name: "金山町", type: "town", note: "最上郡" }
+    - { code: "06362", name: "最上町", type: "town", note: "最上郡" }
+    - { code: "06363", name: "舟形町", type: "town", note: "最上郡" }
+    - { code: "06364", name: "真室川町", type: "town", note: "最上郡" }
+    - { code: "06365", name: "大蔵村", type: "village", note: "最上郡" }
+    - { code: "06366", name: "鮭川村", type: "village", note: "最上郡" }
+    - { code: "06367", name: "戸沢村", type: "village", note: "最上郡" }
+    - { code: "06381", name: "高畠町", type: "town", note: "東置賜郡" }
+    - { code: "06382", name: "川西町", type: "town", note: "東置賜郡" }
+    - { code: "06401", name: "小国町", type: "town", note: "西置賜郡" }
+    - { code: "06402", name: "白鷹町", type: "town", note: "西置賜郡" }
+    - { code: "06403", name: "飯豊町", type: "town", note: "西置賜郡" }
+    - { code: "06426", name: "三川町", type: "town", note: "東田川郡" }
+    - { code: "06428", name: "庄内町", type: "town", note: "東田川郡" }
+    - { code: "06461", name: "遊佐町", type: "town", note: "飽海郡" }

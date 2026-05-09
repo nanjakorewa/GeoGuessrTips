@@ -1,0 +1,36 @@
+municipalities:
+  svg: "/maps/prefectures/kanagawa.svg"
+  list:
+    - { code: "14100", name: "横浜市", type: "city", note: "県庁所在地" }
+    - { code: "14130", name: "川崎市", type: "city", note: "政令指定都市" }
+    - { code: "14150", name: "相模原市", type: "city", note: "政令指定都市" }
+    - { code: "14201", name: "横須賀市", type: "city" }
+    - { code: "14203", name: "平塚市", type: "city" }
+    - { code: "14204", name: "鎌倉市", type: "city" }
+    - { code: "14205", name: "藤沢市", type: "city" }
+    - { code: "14206", name: "小田原市", type: "city" }
+    - { code: "14207", name: "茅ヶ崎市", type: "city" }
+    - { code: "14208", name: "逗子市", type: "city" }
+    - { code: "14210", name: "三浦市", type: "city" }
+    - { code: "14211", name: "秦野市", type: "city" }
+    - { code: "14212", name: "厚木市", type: "city" }
+    - { code: "14213", name: "大和市", type: "city" }
+    - { code: "14214", name: "伊勢原市", type: "city" }
+    - { code: "14215", name: "海老名市", type: "city" }
+    - { code: "14216", name: "座間市", type: "city" }
+    - { code: "14217", name: "南足柄市", type: "city" }
+    - { code: "14218", name: "綾瀬市", type: "city" }
+    - { code: "14301", name: "葉山町", type: "town", note: "三浦郡" }
+    - { code: "14321", name: "寒川町", type: "town", note: "高座郡" }
+    - { code: "14341", name: "大磯町", type: "town", note: "中郡" }
+    - { code: "14342", name: "二宮町", type: "town", note: "中郡" }
+    - { code: "14361", name: "中井町", type: "town", note: "足柄上郡" }
+    - { code: "14362", name: "大井町", type: "town", note: "足柄上郡" }
+    - { code: "14363", name: "松田町", type: "town", note: "足柄上郡" }
+    - { code: "14364", name: "山北町", type: "town", note: "足柄上郡" }
+    - { code: "14366", name: "開成町", type: "town", note: "足柄上郡" }
+    - { code: "14382", name: "箱根町", type: "town", note: "足柄下郡" }
+    - { code: "14383", name: "真鶴町", type: "town", note: "足柄下郡" }
+    - { code: "14384", name: "湯河原町", type: "town", note: "足柄下郡" }
+    - { code: "14401", name: "愛川町", type: "town", note: "愛甲郡" }
+    - { code: "14402", name: "清川村", type: "village", note: "愛甲郡" }

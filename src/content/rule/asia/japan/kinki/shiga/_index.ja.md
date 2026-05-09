@@ -42,6 +42,28 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '関西電力エリア'
+municipalities:
+  svg: "/maps/prefectures/shiga.svg"
+  list:
+    - { code: "25201", name: "大津市", type: "city", note: "県庁所在地" }
+    - { code: "25202", name: "彦根市", type: "city" }
+    - { code: "25203", name: "長浜市", type: "city" }
+    - { code: "25204", name: "近江八幡市", type: "city" }
+    - { code: "25206", name: "草津市", type: "city" }
+    - { code: "25207", name: "守山市", type: "city" }
+    - { code: "25208", name: "栗東市", type: "city" }
+    - { code: "25209", name: "甲賀市", type: "city" }
+    - { code: "25210", name: "野洲市", type: "city" }
+    - { code: "25211", name: "湖南市", type: "city" }
+    - { code: "25212", name: "高島市", type: "city" }
+    - { code: "25213", name: "東近江市", type: "city" }
+    - { code: "25214", name: "米原市", type: "city" }
+    - { code: "25383", name: "日野町", type: "town", note: "蒲生郡" }
+    - { code: "25384", name: "竜王町", type: "town", note: "蒲生郡" }
+    - { code: "25425", name: "愛荘町", type: "town", note: "愛知郡" }
+    - { code: "25441", name: "豊郷町", type: "town", note: "犬上郡" }
+    - { code: "25442", name: "甲良町", type: "town", note: "犬上郡" }
+    - { code: "25443", name: "多賀町", type: "town", note: "犬上郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

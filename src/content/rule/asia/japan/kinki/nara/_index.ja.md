@@ -39,6 +39,48 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '関西電力エリア'
+municipalities:
+  svg: "/maps/prefectures/nara.svg"
+  list:
+    - { code: "29201", name: "奈良市", type: "city", note: "県庁所在地" }
+    - { code: "29202", name: "大和高田市", type: "city" }
+    - { code: "29203", name: "大和郡山市", type: "city" }
+    - { code: "29204", name: "天理市", type: "city" }
+    - { code: "29205", name: "橿原市", type: "city" }
+    - { code: "29206", name: "桜井市", type: "city" }
+    - { code: "29207", name: "五條市", type: "city" }
+    - { code: "29208", name: "御所市", type: "city" }
+    - { code: "29209", name: "生駒市", type: "city" }
+    - { code: "29210", name: "香芝市", type: "city" }
+    - { code: "29211", name: "葛城市", type: "city" }
+    - { code: "29212", name: "宇陀市", type: "city" }
+    - { code: "29322", name: "山添村", type: "village", note: "山辺郡" }
+    - { code: "29342", name: "平群町", type: "town", note: "生駒郡" }
+    - { code: "29343", name: "三郷町", type: "town", note: "生駒郡" }
+    - { code: "29344", name: "斑鳩町", type: "town", note: "生駒郡" }
+    - { code: "29345", name: "安堵町", type: "town", note: "生駒郡" }
+    - { code: "29361", name: "川西町", type: "town", note: "磯城郡" }
+    - { code: "29362", name: "三宅町", type: "town", note: "磯城郡" }
+    - { code: "29363", name: "田原本町", type: "town", note: "磯城郡" }
+    - { code: "29385", name: "曽爾村", type: "village", note: "宇陀郡" }
+    - { code: "29386", name: "御杖村", type: "village", note: "宇陀郡" }
+    - { code: "29401", name: "高取町", type: "town", note: "高市郡" }
+    - { code: "29402", name: "明日香村", type: "village", note: "高市郡" }
+    - { code: "29424", name: "上牧町", type: "town", note: "北葛城郡" }
+    - { code: "29425", name: "王寺町", type: "town", note: "北葛城郡" }
+    - { code: "29426", name: "広陵町", type: "town", note: "北葛城郡" }
+    - { code: "29427", name: "河合町", type: "town", note: "北葛城郡" }
+    - { code: "29441", name: "吉野町", type: "town", note: "吉野郡" }
+    - { code: "29442", name: "大淀町", type: "town", note: "吉野郡" }
+    - { code: "29443", name: "下市町", type: "town", note: "吉野郡" }
+    - { code: "29444", name: "黒滝村", type: "village", note: "吉野郡" }
+    - { code: "29446", name: "天川村", type: "village", note: "吉野郡" }
+    - { code: "29447", name: "野迫川村", type: "village", note: "吉野郡" }
+    - { code: "29449", name: "十津川村", type: "village", note: "吉野郡" }
+    - { code: "29450", name: "下北山村", type: "village", note: "吉野郡" }
+    - { code: "29451", name: "上北山村", type: "village", note: "吉野郡" }
+    - { code: "29452", name: "川上村", type: "village", note: "吉野郡" }
+    - { code: "29453", name: "東吉野村", type: "village", note: "吉野郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

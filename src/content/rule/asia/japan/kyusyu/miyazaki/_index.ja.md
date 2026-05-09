@@ -39,6 +39,35 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '九州電力エリア'
+municipalities:
+  svg: "/maps/prefectures/miyazaki.svg"
+  list:
+    - { code: "45201", name: "宮崎市", type: "city", note: "県庁所在地" }
+    - { code: "45202", name: "都城市", type: "city" }
+    - { code: "45203", name: "延岡市", type: "city" }
+    - { code: "45204", name: "日南市", type: "city" }
+    - { code: "45205", name: "小林市", type: "city" }
+    - { code: "45206", name: "日向市", type: "city" }
+    - { code: "45207", name: "串間市", type: "city" }
+    - { code: "45208", name: "西都市", type: "city" }
+    - { code: "45209", name: "えびの市", type: "city" }
+    - { code: "45341", name: "三股町", type: "town", note: "北諸県郡" }
+    - { code: "45361", name: "高原町", type: "town", note: "西諸県郡" }
+    - { code: "45382", name: "国富町", type: "town", note: "東諸県郡" }
+    - { code: "45383", name: "綾町", type: "town", note: "東諸県郡" }
+    - { code: "45401", name: "高鍋町", type: "town", note: "児湯郡" }
+    - { code: "45402", name: "新富町", type: "town", note: "児湯郡" }
+    - { code: "45403", name: "西米良村", type: "village", note: "児湯郡" }
+    - { code: "45404", name: "木城町", type: "town", note: "児湯郡" }
+    - { code: "45405", name: "川南町", type: "town", note: "児湯郡" }
+    - { code: "45406", name: "都農町", type: "town", note: "児湯郡" }
+    - { code: "45421", name: "門川町", type: "town", note: "東臼杵郡" }
+    - { code: "45429", name: "諸塚村", type: "village", note: "東臼杵郡" }
+    - { code: "45430", name: "椎葉村", type: "village", note: "東臼杵郡" }
+    - { code: "45431", name: "美郷町", type: "town", note: "東臼杵郡" }
+    - { code: "45441", name: "高千穂町", type: "town", note: "西臼杵郡" }
+    - { code: "45442", name: "日之影町", type: "town", note: "西臼杵郡" }
+    - { code: "45443", name: "五ヶ瀬町", type: "town", note: "西臼杵郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

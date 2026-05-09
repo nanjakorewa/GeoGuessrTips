@@ -42,6 +42,68 @@ prefInfo:
     - url: '/industry/japan-semiconductor/'
       title: '日本の半導体産業集積地'
       note: '郡山・白河の電子部品工場'
+municipalities:
+  svg: "/maps/prefectures/fukushima.svg"
+  list:
+    - { code: "07201", name: "福島市", type: "city", note: "県庁所在地" }
+    - { code: "07202", name: "会津若松市", type: "city" }
+    - { code: "07203", name: "郡山市", type: "city" }
+    - { code: "07204", name: "いわき市", type: "city" }
+    - { code: "07205", name: "白河市", type: "city" }
+    - { code: "07207", name: "須賀川市", type: "city" }
+    - { code: "07208", name: "喜多方市", type: "city" }
+    - { code: "07209", name: "相馬市", type: "city" }
+    - { code: "07210", name: "二本松市", type: "city" }
+    - { code: "07211", name: "田村市", type: "city" }
+    - { code: "07212", name: "南相馬市", type: "city" }
+    - { code: "07213", name: "伊達市", type: "city" }
+    - { code: "07214", name: "本宮市", type: "city" }
+    - { code: "07301", name: "桑折町", type: "town", note: "伊達郡" }
+    - { code: "07303", name: "国見町", type: "town", note: "伊達郡" }
+    - { code: "07308", name: "川俣町", type: "town", note: "伊達郡" }
+    - { code: "07322", name: "大玉村", type: "village", note: "安達郡" }
+    - { code: "07342", name: "鏡石町", type: "town", note: "岩瀬郡" }
+    - { code: "07344", name: "天栄村", type: "village", note: "岩瀬郡" }
+    - { code: "07362", name: "下郷町", type: "town", note: "南会津郡" }
+    - { code: "07364", name: "檜枝岐村", type: "village", note: "南会津郡" }
+    - { code: "07367", name: "只見町", type: "town", note: "南会津郡" }
+    - { code: "07368", name: "南会津町", type: "town", note: "南会津郡" }
+    - { code: "07402", name: "北塩原村", type: "village", note: "耶麻郡" }
+    - { code: "07405", name: "西会津町", type: "town", note: "耶麻郡" }
+    - { code: "07407", name: "磐梯町", type: "town", note: "耶麻郡" }
+    - { code: "07408", name: "猪苗代町", type: "town", note: "耶麻郡" }
+    - { code: "07421", name: "会津坂下町", type: "town", note: "河沼郡" }
+    - { code: "07422", name: "湯川村", type: "village", note: "河沼郡" }
+    - { code: "07423", name: "柳津町", type: "town", note: "河沼郡" }
+    - { code: "07444", name: "三島町", type: "town", note: "大沼郡" }
+    - { code: "07445", name: "金山町", type: "town", note: "大沼郡" }
+    - { code: "07446", name: "昭和村", type: "village", note: "大沼郡" }
+    - { code: "07447", name: "会津美里町", type: "town", note: "大沼郡" }
+    - { code: "07461", name: "西郷村", type: "village", note: "西白河郡" }
+    - { code: "07464", name: "泉崎村", type: "village", note: "西白河郡" }
+    - { code: "07465", name: "中島村", type: "village", note: "西白河郡" }
+    - { code: "07466", name: "矢吹町", type: "town", note: "西白河郡" }
+    - { code: "07481", name: "棚倉町", type: "town", note: "東白川郡" }
+    - { code: "07482", name: "矢祭町", type: "town", note: "東白川郡" }
+    - { code: "07483", name: "塙町", type: "town", note: "東白川郡" }
+    - { code: "07484", name: "鮫川村", type: "village", note: "東白川郡" }
+    - { code: "07501", name: "石川町", type: "town", note: "石川郡" }
+    - { code: "07502", name: "玉川村", type: "village", note: "石川郡" }
+    - { code: "07503", name: "平田村", type: "village", note: "石川郡" }
+    - { code: "07504", name: "浅川町", type: "town", note: "石川郡" }
+    - { code: "07505", name: "古殿町", type: "town", note: "石川郡" }
+    - { code: "07521", name: "三春町", type: "town", note: "田村郡" }
+    - { code: "07522", name: "小野町", type: "town", note: "田村郡" }
+    - { code: "07541", name: "広野町", type: "town", note: "双葉郡" }
+    - { code: "07542", name: "楢葉町", type: "town", note: "双葉郡" }
+    - { code: "07543", name: "富岡町", type: "town", note: "双葉郡" }
+    - { code: "07544", name: "川内村", type: "village", note: "双葉郡" }
+    - { code: "07545", name: "大熊町", type: "town", note: "双葉郡" }
+    - { code: "07546", name: "双葉町", type: "town", note: "双葉郡" }
+    - { code: "07547", name: "浪江町", type: "town", note: "双葉郡" }
+    - { code: "07548", name: "葛尾村", type: "village", note: "双葉郡" }
+    - { code: "07561", name: "新地町", type: "town", note: "相馬郡" }
+    - { code: "07564", name: "飯舘村", type: "village", note: "相馬郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

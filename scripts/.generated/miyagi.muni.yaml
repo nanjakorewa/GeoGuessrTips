@@ -1,0 +1,38 @@
+municipalities:
+  svg: "/maps/prefectures/miyagi.svg"
+  list:
+    - { code: "04100", name: "仙台市", type: "city", note: "県庁所在地" }
+    - { code: "04202", name: "石巻市", type: "city" }
+    - { code: "04203", name: "塩竈市", type: "city" }
+    - { code: "04205", name: "気仙沼市", type: "city" }
+    - { code: "04206", name: "白石市", type: "city" }
+    - { code: "04207", name: "名取市", type: "city" }
+    - { code: "04208", name: "角田市", type: "city" }
+    - { code: "04209", name: "多賀城市", type: "city" }
+    - { code: "04211", name: "岩沼市", type: "city" }
+    - { code: "04212", name: "登米市", type: "city" }
+    - { code: "04213", name: "栗原市", type: "city" }
+    - { code: "04214", name: "東松島市", type: "city" }
+    - { code: "04215", name: "大崎市", type: "city" }
+    - { code: "04216", name: "富谷市", type: "city" }
+    - { code: "04301", name: "蔵王町", type: "town", note: "刈田郡" }
+    - { code: "04302", name: "七ヶ宿町", type: "town", note: "刈田郡" }
+    - { code: "04321", name: "大河原町", type: "town", note: "柴田郡" }
+    - { code: "04322", name: "村田町", type: "town", note: "柴田郡" }
+    - { code: "04323", name: "柴田町", type: "town", note: "柴田郡" }
+    - { code: "04324", name: "川崎町", type: "town", note: "柴田郡" }
+    - { code: "04341", name: "丸森町", type: "town", note: "伊具郡" }
+    - { code: "04361", name: "亘理町", type: "town", note: "亘理郡" }
+    - { code: "04362", name: "山元町", type: "town", note: "亘理郡" }
+    - { code: "04401", name: "松島町", type: "town", note: "宮城郡" }
+    - { code: "04404", name: "七ヶ浜町", type: "town", note: "宮城郡" }
+    - { code: "04406", name: "利府町", type: "town", note: "宮城郡" }
+    - { code: "04421", name: "大和町", type: "town", note: "黒川郡" }
+    - { code: "04422", name: "大郷町", type: "town", note: "黒川郡" }
+    - { code: "04424", name: "大衡村", type: "village", note: "黒川郡" }
+    - { code: "04444", name: "色麻町", type: "town", note: "加美郡" }
+    - { code: "04445", name: "加美町", type: "town", note: "加美郡" }
+    - { code: "04501", name: "涌谷町", type: "town", note: "遠田郡" }
+    - { code: "04505", name: "美里町", type: "town", note: "遠田郡" }
+    - { code: "04581", name: "女川町", type: "town", note: "牡鹿郡" }
+    - { code: "04606", name: "南三陸町", type: "town", note: "本吉郡" }

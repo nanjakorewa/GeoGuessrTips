@@ -50,6 +50,64 @@ prefInfo:
     - url: '/industry/japan-shipping/'
       title: '日本の海運業'
       note: '千葉港（取扱貨物量全国上位）'
+municipalities:
+  svg: "/maps/prefectures/chiba.svg"
+  list:
+    - { code: "12100", name: "千葉市", type: "city", note: "県庁所在地" }
+    - { code: "12202", name: "銚子市", type: "city" }
+    - { code: "12203", name: "市川市", type: "city" }
+    - { code: "12204", name: "船橋市", type: "city" }
+    - { code: "12205", name: "館山市", type: "city" }
+    - { code: "12206", name: "木更津市", type: "city" }
+    - { code: "12207", name: "松戸市", type: "city" }
+    - { code: "12208", name: "野田市", type: "city" }
+    - { code: "12210", name: "茂原市", type: "city" }
+    - { code: "12211", name: "成田市", type: "city" }
+    - { code: "12212", name: "佐倉市", type: "city" }
+    - { code: "12213", name: "東金市", type: "city" }
+    - { code: "12215", name: "旭市", type: "city" }
+    - { code: "12216", name: "習志野市", type: "city" }
+    - { code: "12217", name: "柏市", type: "city" }
+    - { code: "12218", name: "勝浦市", type: "city" }
+    - { code: "12219", name: "市原市", type: "city" }
+    - { code: "12220", name: "流山市", type: "city" }
+    - { code: "12221", name: "八千代市", type: "city" }
+    - { code: "12222", name: "我孫子市", type: "city" }
+    - { code: "12223", name: "鴨川市", type: "city" }
+    - { code: "12224", name: "鎌ケ谷市", type: "city" }
+    - { code: "12225", name: "君津市", type: "city" }
+    - { code: "12226", name: "富津市", type: "city" }
+    - { code: "12227", name: "浦安市", type: "city" }
+    - { code: "12228", name: "四街道市", type: "city" }
+    - { code: "12229", name: "袖ケ浦市", type: "city" }
+    - { code: "12230", name: "八街市", type: "city" }
+    - { code: "12231", name: "印西市", type: "city" }
+    - { code: "12232", name: "白井市", type: "city" }
+    - { code: "12233", name: "富里市", type: "city" }
+    - { code: "12234", name: "南房総市", type: "city" }
+    - { code: "12235", name: "匝瑳市", type: "city" }
+    - { code: "12236", name: "香取市", type: "city" }
+    - { code: "12237", name: "山武市", type: "city" }
+    - { code: "12238", name: "いすみ市", type: "city" }
+    - { code: "12239", name: "大網白里市", type: "city" }
+    - { code: "12322", name: "酒々井町", type: "town", note: "印旛郡" }
+    - { code: "12329", name: "栄町", type: "town", note: "印旛郡" }
+    - { code: "12342", name: "神崎町", type: "town", note: "香取郡" }
+    - { code: "12347", name: "多古町", type: "town", note: "香取郡" }
+    - { code: "12349", name: "東庄町", type: "town", note: "香取郡" }
+    - { code: "12403", name: "九十九里町", type: "town", note: "山武郡" }
+    - { code: "12409", name: "芝山町", type: "town", note: "山武郡" }
+    - { code: "12410", name: "横芝光町", type: "town", note: "山武郡" }
+    - { code: "12421", name: "一宮町", type: "town", note: "長生郡" }
+    - { code: "12422", name: "睦沢町", type: "town", note: "長生郡" }
+    - { code: "12423", name: "長生村", type: "village", note: "長生郡" }
+    - { code: "12424", name: "白子町", type: "town", note: "長生郡" }
+    - { code: "12426", name: "長柄町", type: "town", note: "長生郡" }
+    - { code: "12427", name: "長南町", type: "town", note: "長生郡" }
+    - { code: "12441", name: "大多喜町", type: "town", note: "夷隅郡" }
+    - { code: "12443", name: "御宿町", type: "town", note: "夷隅郡" }
+    - { code: "12463", name: "鋸南町", type: "town", note: "安房郡" }
+    - { code: "UNDECIDED_LAND", name: "所属未定地" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

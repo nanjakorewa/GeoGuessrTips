@@ -1,0 +1,26 @@
+municipalities:
+  svg: "/maps/prefectures/hiroshima.svg"
+  list:
+    - { code: "34100", name: "広島市", type: "city", note: "県庁所在地" }
+    - { code: "34202", name: "呉市", type: "city" }
+    - { code: "34203", name: "竹原市", type: "city" }
+    - { code: "34204", name: "三原市", type: "city" }
+    - { code: "34205", name: "尾道市", type: "city" }
+    - { code: "34207", name: "福山市", type: "city" }
+    - { code: "34208", name: "府中市", type: "city" }
+    - { code: "34209", name: "三次市", type: "city" }
+    - { code: "34210", name: "庄原市", type: "city" }
+    - { code: "34211", name: "大竹市", type: "city" }
+    - { code: "34212", name: "東広島市", type: "city" }
+    - { code: "34213", name: "廿日市市", type: "city" }
+    - { code: "34214", name: "安芸高田市", type: "city" }
+    - { code: "34215", name: "江田島市", type: "city" }
+    - { code: "34302", name: "府中町", type: "town", note: "安芸郡" }
+    - { code: "34304", name: "海田町", type: "town", note: "安芸郡" }
+    - { code: "34307", name: "熊野町", type: "town", note: "安芸郡" }
+    - { code: "34309", name: "坂町", type: "town", note: "安芸郡" }
+    - { code: "34368", name: "安芸太田町", type: "town", note: "山県郡" }
+    - { code: "34369", name: "北広島町", type: "town", note: "山県郡" }
+    - { code: "34431", name: "大崎上島町", type: "town", note: "豊田郡" }
+    - { code: "34462", name: "世羅町", type: "town", note: "世羅郡" }
+    - { code: "34545", name: "神石高原町", type: "town", note: "神石郡" }

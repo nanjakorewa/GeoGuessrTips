@@ -39,6 +39,39 @@ prefInfo:
     - url: '/industry/world-agriculture/'
       title: '世界の農産物・穀物トレード'
       note: '梅・柑橘の輸出'
+municipalities:
+  svg: "/maps/prefectures/wakayama.svg"
+  list:
+    - { code: "30201", name: "和歌山市", type: "city", note: "県庁所在地" }
+    - { code: "30202", name: "海南市", type: "city" }
+    - { code: "30203", name: "橋本市", type: "city" }
+    - { code: "30204", name: "有田市", type: "city" }
+    - { code: "30205", name: "御坊市", type: "city" }
+    - { code: "30206", name: "田辺市", type: "city" }
+    - { code: "30207", name: "新宮市", type: "city" }
+    - { code: "30208", name: "紀の川市", type: "city" }
+    - { code: "30209", name: "岩出市", type: "city" }
+    - { code: "30304", name: "紀美野町", type: "town", note: "海草郡" }
+    - { code: "30341", name: "かつらぎ町", type: "town", note: "伊都郡" }
+    - { code: "30343", name: "九度山町", type: "town", note: "伊都郡" }
+    - { code: "30344", name: "高野町", type: "town", note: "伊都郡" }
+    - { code: "30361", name: "湯浅町", type: "town", note: "有田郡" }
+    - { code: "30362", name: "広川町", type: "town", note: "有田郡" }
+    - { code: "30366", name: "有田川町", type: "town", note: "有田郡" }
+    - { code: "30381", name: "美浜町", type: "town", note: "日高郡" }
+    - { code: "30382", name: "日高町", type: "town", note: "日高郡" }
+    - { code: "30383", name: "由良町", type: "town", note: "日高郡" }
+    - { code: "30390", name: "印南町", type: "town", note: "日高郡" }
+    - { code: "30391", name: "みなべ町", type: "town", note: "日高郡" }
+    - { code: "30392", name: "日高川町", type: "town", note: "日高郡" }
+    - { code: "30401", name: "白浜町", type: "town", note: "西牟婁郡" }
+    - { code: "30404", name: "上富田町", type: "town", note: "西牟婁郡" }
+    - { code: "30406", name: "すさみ町", type: "town", note: "西牟婁郡" }
+    - { code: "30421", name: "那智勝浦町", type: "town", note: "東牟婁郡" }
+    - { code: "30422", name: "太地町", type: "town", note: "東牟婁郡" }
+    - { code: "30424", name: "古座川町", type: "town", note: "東牟婁郡" }
+    - { code: "30427", name: "北山村", type: "village", note: "東牟婁郡" }
+    - { code: "30428", name: "串本町", type: "town", note: "東牟婁郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

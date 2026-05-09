@@ -49,6 +49,49 @@ prefInfo:
     - url: '/industry/world-agriculture/'
       title: '世界の農産物・穀物トレード'
       note: 'りんご輸出（台湾・香港向け）'
+municipalities:
+  svg: "/maps/prefectures/aomori.svg"
+  list:
+    - { code: "02201", name: "青森市", type: "city", note: "県庁所在地" }
+    - { code: "02202", name: "弘前市", type: "city" }
+    - { code: "02203", name: "八戸市", type: "city" }
+    - { code: "02204", name: "黒石市", type: "city" }
+    - { code: "02205", name: "五所川原市", type: "city" }
+    - { code: "02206", name: "十和田市", type: "city" }
+    - { code: "02207", name: "三沢市", type: "city" }
+    - { code: "02208", name: "むつ市", type: "city" }
+    - { code: "02209", name: "つがる市", type: "city" }
+    - { code: "02210", name: "平川市", type: "city" }
+    - { code: "02301", name: "平内町", type: "town", note: "東津軽郡" }
+    - { code: "02303", name: "今別町", type: "town", note: "東津軽郡" }
+    - { code: "02304", name: "蓬田村", type: "village", note: "東津軽郡" }
+    - { code: "02307", name: "外ヶ浜町", type: "town", note: "東津軽郡" }
+    - { code: "02321", name: "鰺ヶ沢町", type: "town", note: "西津軽郡" }
+    - { code: "02323", name: "深浦町", type: "town", note: "西津軽郡" }
+    - { code: "02343", name: "西目屋村", type: "village", note: "中津軽郡" }
+    - { code: "02361", name: "藤崎町", type: "town", note: "南津軽郡" }
+    - { code: "02362", name: "大鰐町", type: "town", note: "南津軽郡" }
+    - { code: "02367", name: "田舎館村", type: "village", note: "南津軽郡" }
+    - { code: "02381", name: "板柳町", type: "town", note: "北津軽郡" }
+    - { code: "02384", name: "鶴田町", type: "town", note: "北津軽郡" }
+    - { code: "02387", name: "中泊町", type: "town", note: "北津軽郡" }
+    - { code: "02401", name: "野辺地町", type: "town", note: "上北郡" }
+    - { code: "02402", name: "七戸町", type: "town", note: "上北郡" }
+    - { code: "02405", name: "六戸町", type: "town", note: "上北郡" }
+    - { code: "02406", name: "横浜町", type: "town", note: "上北郡" }
+    - { code: "02408", name: "東北町", type: "town", note: "上北郡" }
+    - { code: "02411", name: "六ヶ所村", type: "village", note: "上北郡" }
+    - { code: "02412", name: "おいらせ町", type: "town", note: "上北郡" }
+    - { code: "02423", name: "大間町", type: "town", note: "下北郡" }
+    - { code: "02424", name: "東通村", type: "village", note: "下北郡" }
+    - { code: "02425", name: "風間浦村", type: "village", note: "下北郡" }
+    - { code: "02426", name: "佐井村", type: "village", note: "下北郡" }
+    - { code: "02441", name: "三戸町", type: "town", note: "三戸郡" }
+    - { code: "02442", name: "五戸町", type: "town", note: "三戸郡" }
+    - { code: "02443", name: "田子町", type: "town", note: "三戸郡" }
+    - { code: "02445", name: "南部町", type: "town", note: "三戸郡" }
+    - { code: "02446", name: "階上町", type: "town", note: "三戸郡" }
+    - { code: "02450", name: "新郷村", type: "village", note: "三戸郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

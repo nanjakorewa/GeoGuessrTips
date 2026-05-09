@@ -49,6 +49,36 @@ prefInfo:
     - url: '/industry/japan-shipping/'
       title: '日本の海運業'
       note: '水島港（取扱貨物量全国上位）'
+municipalities:
+  svg: "/maps/prefectures/okayama.svg"
+  list:
+    - { code: "33100", name: "岡山市", type: "city", note: "県庁所在地" }
+    - { code: "33202", name: "倉敷市", type: "city" }
+    - { code: "33203", name: "津山市", type: "city" }
+    - { code: "33204", name: "玉野市", type: "city" }
+    - { code: "33205", name: "笠岡市", type: "city" }
+    - { code: "33207", name: "井原市", type: "city" }
+    - { code: "33208", name: "総社市", type: "city" }
+    - { code: "33209", name: "高梁市", type: "city" }
+    - { code: "33210", name: "新見市", type: "city" }
+    - { code: "33211", name: "備前市", type: "city" }
+    - { code: "33212", name: "瀬戸内市", type: "city" }
+    - { code: "33213", name: "赤磐市", type: "city" }
+    - { code: "33214", name: "真庭市", type: "city" }
+    - { code: "33215", name: "美作市", type: "city" }
+    - { code: "33216", name: "浅口市", type: "city" }
+    - { code: "33346", name: "和気町", type: "town", note: "和気郡" }
+    - { code: "33423", name: "早島町", type: "town", note: "都窪郡" }
+    - { code: "33445", name: "里庄町", type: "town", note: "浅口郡" }
+    - { code: "33461", name: "矢掛町", type: "town", note: "小田郡" }
+    - { code: "33586", name: "新庄村", type: "village", note: "真庭郡" }
+    - { code: "33606", name: "鏡野町", type: "town", note: "苫田郡" }
+    - { code: "33622", name: "勝央町", type: "town", note: "勝田郡" }
+    - { code: "33623", name: "奈義町", type: "town", note: "勝田郡" }
+    - { code: "33643", name: "西粟倉村", type: "village", note: "英田郡" }
+    - { code: "33663", name: "久米南町", type: "town", note: "久米郡" }
+    - { code: "33666", name: "美咲町", type: "town", note: "久米郡" }
+    - { code: "33681", name: "吉備中央町", type: "town", note: "加賀郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

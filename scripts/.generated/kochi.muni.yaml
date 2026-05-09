@@ -1,0 +1,37 @@
+municipalities:
+  svg: "/maps/prefectures/kochi.svg"
+  list:
+    - { code: "39201", name: "高知市", type: "city", note: "県庁所在地" }
+    - { code: "39202", name: "室戸市", type: "city" }
+    - { code: "39203", name: "安芸市", type: "city" }
+    - { code: "39204", name: "南国市", type: "city" }
+    - { code: "39205", name: "土佐市", type: "city" }
+    - { code: "39206", name: "須崎市", type: "city" }
+    - { code: "39208", name: "宿毛市", type: "city" }
+    - { code: "39209", name: "土佐清水市", type: "city" }
+    - { code: "39210", name: "四万十市", type: "city" }
+    - { code: "39211", name: "香南市", type: "city" }
+    - { code: "39212", name: "香美市", type: "city" }
+    - { code: "39301", name: "東洋町", type: "town", note: "安芸郡" }
+    - { code: "39302", name: "奈半利町", type: "town", note: "安芸郡" }
+    - { code: "39303", name: "田野町", type: "town", note: "安芸郡" }
+    - { code: "39304", name: "安田町", type: "town", note: "安芸郡" }
+    - { code: "39305", name: "北川村", type: "village", note: "安芸郡" }
+    - { code: "39306", name: "馬路村", type: "village", note: "安芸郡" }
+    - { code: "39307", name: "芸西村", type: "village", note: "安芸郡" }
+    - { code: "39341", name: "本山町", type: "town", note: "長岡郡" }
+    - { code: "39344", name: "大豊町", type: "town", note: "長岡郡" }
+    - { code: "39363", name: "土佐町", type: "town", note: "土佐郡" }
+    - { code: "39364", name: "大川村", type: "village", note: "土佐郡" }
+    - { code: "39386", name: "いの町", type: "town", note: "吾川郡" }
+    - { code: "39387", name: "仁淀川町", type: "town", note: "吾川郡" }
+    - { code: "39401", name: "中土佐町", type: "town", note: "高岡郡" }
+    - { code: "39402", name: "佐川町", type: "town", note: "高岡郡" }
+    - { code: "39403", name: "越知町", type: "town", note: "高岡郡" }
+    - { code: "39405", name: "梼原町", type: "town", note: "高岡郡" }
+    - { code: "39410", name: "日高村", type: "village", note: "高岡郡" }
+    - { code: "39411", name: "津野町", type: "town", note: "高岡郡" }
+    - { code: "39412", name: "四万十町", type: "town", note: "高岡郡" }
+    - { code: "39424", name: "大月町", type: "town", note: "幡多郡" }
+    - { code: "39427", name: "三原村", type: "village", note: "幡多郡" }
+    - { code: "39428", name: "黒潮町", type: "town", note: "幡多郡" }

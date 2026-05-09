@@ -41,6 +41,10 @@ import { resetQuizState, quizHandler } from "./shortcodes/quiz.ts";
 import { resetCitationState, initializeCitationRegistry, citeHandler, referencesHandler } from "./shortcodes/cite.ts";
 import { renderPrefInfoHtml, type PrefInfoData } from "./shortcodes/prefinfo.ts";
 import {
+  renderMunicipalitiesHtml,
+  type MunicipalitiesData,
+} from "./shortcodes/municipalities.ts";
+import {
   colorHandler,
   maruHandler,
   timelineHandler,
@@ -129,7 +133,8 @@ function processAllShortcodes(
   ruleSlug: string | null,
   pageTitle: string,
   referenceKeys: string[],
-  prefInfo: PrefInfoData | null
+  prefInfo: PrefInfoData | null,
+  municipalities: MunicipalitiesData | null
 ): string {
   let result = text;
 
@@ -170,6 +175,19 @@ function processAllShortcodes(
       const corpDescOpen = /<div\b[^>]*\bid=["']corp-desc["']/;
       if (corpDescOpen.test(result)) {
         result = result.replace(corpDescOpen, (m) => `${prefInfoHtml}\n\n${m}`);
+      }
+    }
+  }
+
+  // Frontmatter `municipalities` → render between prefInfo and corp-desc.
+  // Injected after prefInfo above, so the regex below targets corp-desc and
+  // the new block ends up sandwiched between the two existing sections.
+  if (municipalities) {
+    const muniHtml = renderMunicipalitiesHtml(municipalities, pageTitle, lang);
+    if (muniHtml) {
+      const corpDescOpen = /<div\b[^>]*\bid=["']corp-desc["']/;
+      if (corpDescOpen.test(result)) {
+        result = result.replace(corpDescOpen, (m) => `${muniHtml}\n\n${m}`);
       }
     }
   }
@@ -319,13 +337,18 @@ const remarkHugoShortcodes: Plugin<[], Root> = function () {
         : [];
       const prefInfo: PrefInfoData | null =
         fm.prefInfo && typeof fm.prefInfo === "object" ? fm.prefInfo : null;
+      const municipalities: MunicipalitiesData | null =
+        fm.municipalities && typeof fm.municipalities === "object"
+          ? fm.municipalities
+          : null;
       const processed = processAllShortcodes(
         doc,
         lang,
         ruleSlug,
         pageTitle,
         referenceKeys,
-        prefInfo
+        prefInfo,
+        municipalities
       );
       return originalParser.call(this, processed, file);
     };

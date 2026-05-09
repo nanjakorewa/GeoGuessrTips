@@ -1,0 +1,38 @@
+municipalities:
+  svg: "/maps/prefectures/gunma.svg"
+  list:
+    - { code: "10201", name: "前橋市", type: "city", note: "県庁所在地" }
+    - { code: "10202", name: "高崎市", type: "city" }
+    - { code: "10203", name: "桐生市", type: "city" }
+    - { code: "10204", name: "伊勢崎市", type: "city" }
+    - { code: "10205", name: "太田市", type: "city" }
+    - { code: "10206", name: "沼田市", type: "city" }
+    - { code: "10207", name: "館林市", type: "city" }
+    - { code: "10208", name: "渋川市", type: "city" }
+    - { code: "10209", name: "藤岡市", type: "city" }
+    - { code: "10210", name: "富岡市", type: "city" }
+    - { code: "10211", name: "安中市", type: "city" }
+    - { code: "10212", name: "みどり市", type: "city" }
+    - { code: "10344", name: "榛東村", type: "village", note: "北群馬郡" }
+    - { code: "10345", name: "吉岡町", type: "town", note: "北群馬郡" }
+    - { code: "10366", name: "上野村", type: "village", note: "多野郡" }
+    - { code: "10367", name: "神流町", type: "town", note: "多野郡" }
+    - { code: "10382", name: "下仁田町", type: "town", note: "甘楽郡" }
+    - { code: "10383", name: "南牧村", type: "village", note: "甘楽郡" }
+    - { code: "10384", name: "甘楽町", type: "town", note: "甘楽郡" }
+    - { code: "10421", name: "中之条町", type: "town", note: "吾妻郡" }
+    - { code: "10424", name: "長野原町", type: "town", note: "吾妻郡" }
+    - { code: "10425", name: "嬬恋村", type: "village", note: "吾妻郡" }
+    - { code: "10426", name: "草津町", type: "town", note: "吾妻郡" }
+    - { code: "10428", name: "高山村", type: "village", note: "吾妻郡" }
+    - { code: "10429", name: "東吾妻町", type: "town", note: "吾妻郡" }
+    - { code: "10443", name: "片品村", type: "village", note: "利根郡" }
+    - { code: "10444", name: "川場村", type: "village", note: "利根郡" }
+    - { code: "10448", name: "昭和村", type: "village", note: "利根郡" }
+    - { code: "10449", name: "みなかみ町", type: "town", note: "利根郡" }
+    - { code: "10464", name: "玉村町", type: "town", note: "佐波郡" }
+    - { code: "10521", name: "板倉町", type: "town", note: "邑楽郡" }
+    - { code: "10522", name: "明和町", type: "town", note: "邑楽郡" }
+    - { code: "10523", name: "千代田町", type: "town", note: "邑楽郡" }
+    - { code: "10524", name: "大泉町", type: "town", note: "邑楽郡" }
+    - { code: "10525", name: "邑楽町", type: "town", note: "邑楽郡" }

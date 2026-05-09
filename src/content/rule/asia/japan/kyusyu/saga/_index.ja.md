@@ -45,6 +45,29 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '九州電力・玄海原発'
+municipalities:
+  svg: "/maps/prefectures/saga.svg"
+  list:
+    - { code: "41201", name: "佐賀市", type: "city", note: "県庁所在地" }
+    - { code: "41202", name: "唐津市", type: "city" }
+    - { code: "41203", name: "鳥栖市", type: "city" }
+    - { code: "41204", name: "多久市", type: "city" }
+    - { code: "41205", name: "伊万里市", type: "city" }
+    - { code: "41206", name: "武雄市", type: "city" }
+    - { code: "41207", name: "鹿島市", type: "city" }
+    - { code: "41208", name: "小城市", type: "city" }
+    - { code: "41209", name: "嬉野市", type: "city" }
+    - { code: "41210", name: "神埼市", type: "city" }
+    - { code: "41327", name: "吉野ヶ里町", type: "town", note: "神埼郡" }
+    - { code: "41341", name: "基山町", type: "town", note: "三養基郡" }
+    - { code: "41345", name: "上峰町", type: "town", note: "三養基郡" }
+    - { code: "41346", name: "みやき町", type: "town", note: "三養基郡" }
+    - { code: "41387", name: "玄海町", type: "town", note: "東松浦郡" }
+    - { code: "41401", name: "有田町", type: "town", note: "西松浦郡" }
+    - { code: "41423", name: "大町町", type: "town", note: "杵島郡" }
+    - { code: "41424", name: "江北町", type: "town", note: "杵島郡" }
+    - { code: "41425", name: "白石町", type: "town", note: "杵島郡" }
+    - { code: "41441", name: "太良町", type: "town", note: "藤津郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

@@ -1,0 +1,29 @@
+municipalities:
+  svg: "/maps/prefectures/kyoto.svg"
+  list:
+    - { code: "26100", name: "京都市", type: "city", note: "県庁所在地" }
+    - { code: "26201", name: "福知山市", type: "city" }
+    - { code: "26202", name: "舞鶴市", type: "city" }
+    - { code: "26203", name: "綾部市", type: "city" }
+    - { code: "26204", name: "宇治市", type: "city" }
+    - { code: "26205", name: "宮津市", type: "city" }
+    - { code: "26206", name: "亀岡市", type: "city" }
+    - { code: "26207", name: "城陽市", type: "city" }
+    - { code: "26208", name: "向日市", type: "city" }
+    - { code: "26209", name: "長岡京市", type: "city" }
+    - { code: "26210", name: "八幡市", type: "city" }
+    - { code: "26211", name: "京田辺市", type: "city" }
+    - { code: "26212", name: "京丹後市", type: "city" }
+    - { code: "26213", name: "南丹市", type: "city" }
+    - { code: "26214", name: "木津川市", type: "city" }
+    - { code: "26303", name: "大山崎町", type: "town", note: "乙訓郡" }
+    - { code: "26322", name: "久御山町", type: "town", note: "久世郡" }
+    - { code: "26343", name: "井手町", type: "town", note: "綴喜郡" }
+    - { code: "26344", name: "宇治田原町", type: "town", note: "綴喜郡" }
+    - { code: "26364", name: "笠置町", type: "town", note: "相楽郡" }
+    - { code: "26365", name: "和束町", type: "town", note: "相楽郡" }
+    - { code: "26366", name: "精華町", type: "town", note: "相楽郡" }
+    - { code: "26367", name: "南山城村", type: "village", note: "相楽郡" }
+    - { code: "26407", name: "京丹波町", type: "town", note: "船井郡" }
+    - { code: "26463", name: "伊根町", type: "town", note: "与謝郡" }
+    - { code: "26465", name: "与謝野町", type: "town", note: "与謝郡" }

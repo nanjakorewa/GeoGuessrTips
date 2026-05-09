@@ -208,6 +208,21 @@ const ruleCollection = defineCollection({
       })).optional(),
     }).optional(),
 
+    // Municipality (市町村) list + boundary SVG. Rendered between the
+    // prefInfo block and the "代表的な企業の説明" table on prefecture pages.
+    municipalities: z.object({
+      svg: z.string(),
+      asOf: z.string().optional(),
+      source: z.string().optional(),
+      sourceUrl: z.string().optional(),
+      list: z.array(z.object({
+        code: z.string(),
+        name: z.string(),
+        type: z.enum(["city", "town", "village", "ward"]).optional(),
+        note: z.string().optional(),
+      })),
+    }).optional(),
+
     // Misc
     bgf: z.boolean().optional().default(false),
     author: z.string().optional(),

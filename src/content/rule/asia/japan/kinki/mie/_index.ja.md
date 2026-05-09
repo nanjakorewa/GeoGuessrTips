@@ -45,6 +45,38 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '中部電力エリア'
+municipalities:
+  svg: "/maps/prefectures/mie.svg"
+  list:
+    - { code: "24201", name: "津市", type: "city", note: "県庁所在地" }
+    - { code: "24202", name: "四日市市", type: "city" }
+    - { code: "24203", name: "伊勢市", type: "city" }
+    - { code: "24204", name: "松阪市", type: "city" }
+    - { code: "24205", name: "桑名市", type: "city" }
+    - { code: "24207", name: "鈴鹿市", type: "city" }
+    - { code: "24208", name: "名張市", type: "city" }
+    - { code: "24209", name: "尾鷲市", type: "city" }
+    - { code: "24210", name: "亀山市", type: "city" }
+    - { code: "24211", name: "鳥羽市", type: "city" }
+    - { code: "24212", name: "熊野市", type: "city" }
+    - { code: "24214", name: "いなべ市", type: "city" }
+    - { code: "24215", name: "志摩市", type: "city" }
+    - { code: "24216", name: "伊賀市", type: "city" }
+    - { code: "24303", name: "木曽岬町", type: "town", note: "桑名郡" }
+    - { code: "24324", name: "東員町", type: "town", note: "員弁郡" }
+    - { code: "24341", name: "菰野町", type: "town", note: "三重郡" }
+    - { code: "24343", name: "朝日町", type: "town", note: "三重郡" }
+    - { code: "24344", name: "川越町", type: "town", note: "三重郡" }
+    - { code: "24441", name: "多気町", type: "town", note: "多気郡" }
+    - { code: "24442", name: "明和町", type: "town", note: "多気郡" }
+    - { code: "24443", name: "大台町", type: "town", note: "多気郡" }
+    - { code: "24461", name: "玉城町", type: "town", note: "度会郡" }
+    - { code: "24470", name: "度会町", type: "town", note: "度会郡" }
+    - { code: "24471", name: "大紀町", type: "town", note: "度会郡" }
+    - { code: "24472", name: "南伊勢町", type: "town", note: "度会郡" }
+    - { code: "24543", name: "紀北町", type: "town", note: "北牟婁郡" }
+    - { code: "24561", name: "御浜町", type: "town", note: "南牟婁郡" }
+    - { code: "24562", name: "紀宝町", type: "town", note: "南牟婁郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

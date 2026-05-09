@@ -42,6 +42,26 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '若狭湾沿岸の原発群（関西電力）'
+municipalities:
+  svg: "/maps/prefectures/fukui.svg"
+  list:
+    - { code: "18201", name: "福井市", type: "city", note: "県庁所在地" }
+    - { code: "18202", name: "敦賀市", type: "city" }
+    - { code: "18204", name: "小浜市", type: "city" }
+    - { code: "18205", name: "大野市", type: "city" }
+    - { code: "18206", name: "勝山市", type: "city" }
+    - { code: "18207", name: "鯖江市", type: "city" }
+    - { code: "18208", name: "あわら市", type: "city" }
+    - { code: "18209", name: "越前市", type: "city" }
+    - { code: "18210", name: "坂井市", type: "city" }
+    - { code: "18322", name: "永平寺町", type: "town", note: "吉田郡" }
+    - { code: "18382", name: "池田町", type: "town", note: "今立郡" }
+    - { code: "18404", name: "南越前町", type: "town", note: "南条郡" }
+    - { code: "18423", name: "越前町", type: "town", note: "丹生郡" }
+    - { code: "18442", name: "美浜町", type: "town", note: "三方郡" }
+    - { code: "18481", name: "高浜町", type: "town", note: "大飯郡" }
+    - { code: "18483", name: "おおい町", type: "town", note: "大飯郡" }
+    - { code: "18501", name: "若狭町", type: "town", note: "三方上中郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

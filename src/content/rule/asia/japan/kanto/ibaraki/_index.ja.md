@@ -49,6 +49,53 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '東京電力エリア・東海第二原発'
+municipalities:
+  svg: "/maps/prefectures/ibaraki.svg"
+  list:
+    - { code: "08201", name: "水戸市", type: "city", note: "県庁所在地" }
+    - { code: "08202", name: "日立市", type: "city" }
+    - { code: "08203", name: "土浦市", type: "city" }
+    - { code: "08204", name: "古河市", type: "city" }
+    - { code: "08205", name: "石岡市", type: "city" }
+    - { code: "08207", name: "結城市", type: "city" }
+    - { code: "08208", name: "龍ケ崎市", type: "city" }
+    - { code: "08210", name: "下妻市", type: "city" }
+    - { code: "08211", name: "常総市", type: "city" }
+    - { code: "08212", name: "常陸太田市", type: "city" }
+    - { code: "08214", name: "高萩市", type: "city" }
+    - { code: "08215", name: "北茨城市", type: "city" }
+    - { code: "08216", name: "笠間市", type: "city" }
+    - { code: "08217", name: "取手市", type: "city" }
+    - { code: "08219", name: "牛久市", type: "city" }
+    - { code: "08220", name: "つくば市", type: "city" }
+    - { code: "08221", name: "ひたちなか市", type: "city" }
+    - { code: "08222", name: "鹿嶋市", type: "city" }
+    - { code: "08223", name: "潮来市", type: "city" }
+    - { code: "08224", name: "守谷市", type: "city" }
+    - { code: "08225", name: "常陸大宮市", type: "city" }
+    - { code: "08226", name: "那珂市", type: "city" }
+    - { code: "08227", name: "筑西市", type: "city" }
+    - { code: "08228", name: "坂東市", type: "city" }
+    - { code: "08229", name: "稲敷市", type: "city" }
+    - { code: "08230", name: "かすみがうら市", type: "city" }
+    - { code: "08231", name: "桜川市", type: "city" }
+    - { code: "08232", name: "神栖市", type: "city" }
+    - { code: "08233", name: "行方市", type: "city" }
+    - { code: "08234", name: "鉾田市", type: "city" }
+    - { code: "08235", name: "つくばみらい市", type: "city" }
+    - { code: "08236", name: "小美玉市", type: "city" }
+    - { code: "08302", name: "茨城町", type: "town", note: "東茨城郡" }
+    - { code: "08309", name: "大洗町", type: "town", note: "東茨城郡" }
+    - { code: "08310", name: "城里町", type: "town", note: "東茨城郡" }
+    - { code: "08341", name: "東海村", type: "village", note: "那珂郡" }
+    - { code: "08364", name: "大子町", type: "town", note: "久慈郡" }
+    - { code: "08442", name: "美浦村", type: "village", note: "稲敷郡" }
+    - { code: "08443", name: "阿見町", type: "town", note: "稲敷郡" }
+    - { code: "08447", name: "河内町", type: "town", note: "稲敷郡" }
+    - { code: "08521", name: "八千代町", type: "town", note: "結城郡" }
+    - { code: "08542", name: "五霞町", type: "town", note: "猿島郡" }
+    - { code: "08546", name: "境町", type: "town", note: "猿島郡" }
+    - { code: "08564", name: "利根町", type: "town", note: "北相馬郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

@@ -1,0 +1,21 @@
+municipalities:
+  svg: "/maps/prefectures/oita.svg"
+  list:
+    - { code: "44201", name: "大分市", type: "city", note: "県庁所在地" }
+    - { code: "44202", name: "別府市", type: "city" }
+    - { code: "44203", name: "中津市", type: "city" }
+    - { code: "44204", name: "日田市", type: "city" }
+    - { code: "44205", name: "佐伯市", type: "city" }
+    - { code: "44206", name: "臼杵市", type: "city" }
+    - { code: "44207", name: "津久見市", type: "city" }
+    - { code: "44208", name: "竹田市", type: "city" }
+    - { code: "44209", name: "豊後高田市", type: "city" }
+    - { code: "44210", name: "杵築市", type: "city" }
+    - { code: "44211", name: "宇佐市", type: "city" }
+    - { code: "44212", name: "豊後大野市", type: "city" }
+    - { code: "44213", name: "由布市", type: "city" }
+    - { code: "44214", name: "国東市", type: "city" }
+    - { code: "44322", name: "姫島村", type: "village", note: "東国東郡" }
+    - { code: "44341", name: "日出町", type: "town", note: "速見郡" }
+    - { code: "44461", name: "九重町", type: "town", note: "玖珠郡" }
+    - { code: "44462", name: "玖珠町", type: "town", note: "玖珠郡" }

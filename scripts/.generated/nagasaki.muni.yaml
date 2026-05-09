@@ -1,0 +1,24 @@
+municipalities:
+  svg: "/maps/prefectures/nagasaki.svg"
+  list:
+    - { code: "42201", name: "長崎市", type: "city", note: "県庁所在地" }
+    - { code: "42202", name: "佐世保市", type: "city" }
+    - { code: "42203", name: "島原市", type: "city" }
+    - { code: "42204", name: "諫早市", type: "city" }
+    - { code: "42205", name: "大村市", type: "city" }
+    - { code: "42207", name: "平戸市", type: "city" }
+    - { code: "42208", name: "松浦市", type: "city" }
+    - { code: "42209", name: "対馬市", type: "city" }
+    - { code: "42210", name: "壱岐市", type: "city" }
+    - { code: "42211", name: "五島市", type: "city" }
+    - { code: "42212", name: "西海市", type: "city" }
+    - { code: "42213", name: "雲仙市", type: "city" }
+    - { code: "42214", name: "南島原市", type: "city" }
+    - { code: "42307", name: "長与町", type: "town", note: "西彼杵郡" }
+    - { code: "42308", name: "時津町", type: "town", note: "西彼杵郡" }
+    - { code: "42321", name: "東彼杵町", type: "town", note: "東彼杵郡" }
+    - { code: "42322", name: "川棚町", type: "town", note: "東彼杵郡" }
+    - { code: "42323", name: "波佐見町", type: "town", note: "東彼杵郡" }
+    - { code: "42383", name: "小値賀町", type: "town", note: "北松浦郡" }
+    - { code: "42391", name: "佐々町", type: "town", note: "北松浦郡" }
+    - { code: "42411", name: "新上五島町", type: "town", note: "南松浦郡" }

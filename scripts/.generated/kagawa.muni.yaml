@@ -1,0 +1,20 @@
+municipalities:
+  svg: "/maps/prefectures/kagawa.svg"
+  list:
+    - { code: "37201", name: "高松市", type: "city", note: "県庁所在地" }
+    - { code: "37202", name: "丸亀市", type: "city" }
+    - { code: "37203", name: "坂出市", type: "city" }
+    - { code: "37204", name: "善通寺市", type: "city" }
+    - { code: "37205", name: "観音寺市", type: "city" }
+    - { code: "37206", name: "さぬき市", type: "city" }
+    - { code: "37207", name: "東かがわ市", type: "city" }
+    - { code: "37208", name: "三豊市", type: "city" }
+    - { code: "37322", name: "土庄町", type: "town", note: "小豆郡" }
+    - { code: "37324", name: "小豆島町", type: "town", note: "小豆郡" }
+    - { code: "37341", name: "三木町", type: "town", note: "木田郡" }
+    - { code: "37364", name: "直島町", type: "town", note: "香川郡" }
+    - { code: "37386", name: "宇多津町", type: "town", note: "綾歌郡" }
+    - { code: "37387", name: "綾川町", type: "town", note: "綾歌郡" }
+    - { code: "37403", name: "琴平町", type: "town", note: "仲多度郡" }
+    - { code: "37404", name: "多度津町", type: "town", note: "仲多度郡" }
+    - { code: "37406", name: "まんのう町", type: "town", note: "仲多度郡" }

@@ -1,0 +1,30 @@
+municipalities:
+  svg: "/maps/prefectures/yamanashi.svg"
+  list:
+    - { code: "19201", name: "甲府市", type: "city", note: "県庁所在地" }
+    - { code: "19202", name: "富士吉田市", type: "city" }
+    - { code: "19204", name: "都留市", type: "city" }
+    - { code: "19205", name: "山梨市", type: "city" }
+    - { code: "19206", name: "大月市", type: "city" }
+    - { code: "19207", name: "韮崎市", type: "city" }
+    - { code: "19208", name: "南アルプス市", type: "city" }
+    - { code: "19209", name: "北杜市", type: "city" }
+    - { code: "19210", name: "甲斐市", type: "city" }
+    - { code: "19211", name: "笛吹市", type: "city" }
+    - { code: "19212", name: "上野原市", type: "city" }
+    - { code: "19213", name: "甲州市", type: "city" }
+    - { code: "19214", name: "中央市", type: "city" }
+    - { code: "19346", name: "市川三郷町", type: "town", note: "西八代郡" }
+    - { code: "19364", name: "早川町", type: "town", note: "南巨摩郡" }
+    - { code: "19365", name: "身延町", type: "town", note: "南巨摩郡" }
+    - { code: "19366", name: "南部町", type: "town", note: "南巨摩郡" }
+    - { code: "19368", name: "富士川町", type: "town", note: "南巨摩郡" }
+    - { code: "19384", name: "昭和町", type: "town", note: "中巨摩郡" }
+    - { code: "19422", name: "道志村", type: "village", note: "南都留郡" }
+    - { code: "19423", name: "西桂町", type: "town", note: "南都留郡" }
+    - { code: "19424", name: "忍野村", type: "village", note: "南都留郡" }
+    - { code: "19425", name: "山中湖村", type: "village", note: "南都留郡" }
+    - { code: "19429", name: "鳴沢村", type: "village", note: "南都留郡" }
+    - { code: "19430", name: "富士河口湖町", type: "town", note: "南都留郡" }
+    - { code: "19442", name: "小菅村", type: "village", note: "北都留郡" }
+    - { code: "19443", name: "丹波山村", type: "village", note: "北都留郡" }

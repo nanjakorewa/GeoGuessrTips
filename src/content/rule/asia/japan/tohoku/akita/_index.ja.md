@@ -42,6 +42,37 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '東北電力エリア'
+municipalities:
+  svg: "/maps/prefectures/akita.svg"
+  asOf: "2024-01-01"
+  source: "国土数値情報 行政区域 (N03)"
+  sourceUrl: "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03.html"
+  list:
+    - { code: "05201", name: "秋田市", type: "city", note: "県庁所在地" }
+    - { code: "05202", name: "能代市", type: "city" }
+    - { code: "05203", name: "横手市", type: "city" }
+    - { code: "05204", name: "大館市", type: "city" }
+    - { code: "05206", name: "男鹿市", type: "city" }
+    - { code: "05207", name: "湯沢市", type: "city" }
+    - { code: "05209", name: "鹿角市", type: "city" }
+    - { code: "05210", name: "由利本荘市", type: "city" }
+    - { code: "05211", name: "潟上市", type: "city" }
+    - { code: "05212", name: "大仙市", type: "city" }
+    - { code: "05213", name: "北秋田市", type: "city" }
+    - { code: "05214", name: "にかほ市", type: "city" }
+    - { code: "05215", name: "仙北市", type: "city" }
+    - { code: "05303", name: "小坂町", type: "town", note: "鹿角郡" }
+    - { code: "05327", name: "上小阿仁村", type: "village", note: "北秋田郡" }
+    - { code: "05346", name: "藤里町", type: "town", note: "山本郡" }
+    - { code: "05348", name: "三種町", type: "town", note: "山本郡" }
+    - { code: "05349", name: "八峰町", type: "town", note: "山本郡" }
+    - { code: "05361", name: "五城目町", type: "town", note: "南秋田郡" }
+    - { code: "05363", name: "八郎潟町", type: "town", note: "南秋田郡" }
+    - { code: "05366", name: "井川町", type: "town", note: "南秋田郡" }
+    - { code: "05368", name: "大潟村", type: "village", note: "南秋田郡" }
+    - { code: "05434", name: "美郷町", type: "town", note: "仙北郡" }
+    - { code: "05463", name: "羽後町", type: "town", note: "雄勝郡" }
+    - { code: "05464", name: "東成瀬村", type: "village", note: "雄勝郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

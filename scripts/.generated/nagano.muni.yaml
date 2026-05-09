@@ -1,0 +1,80 @@
+municipalities:
+  svg: "/maps/prefectures/nagano.svg"
+  list:
+    - { code: "20201", name: "長野市", type: "city", note: "県庁所在地" }
+    - { code: "20202", name: "松本市", type: "city" }
+    - { code: "20203", name: "上田市", type: "city" }
+    - { code: "20204", name: "岡谷市", type: "city" }
+    - { code: "20205", name: "飯田市", type: "city" }
+    - { code: "20206", name: "諏訪市", type: "city" }
+    - { code: "20207", name: "須坂市", type: "city" }
+    - { code: "20208", name: "小諸市", type: "city" }
+    - { code: "20209", name: "伊那市", type: "city" }
+    - { code: "20210", name: "駒ヶ根市", type: "city" }
+    - { code: "20211", name: "中野市", type: "city" }
+    - { code: "20212", name: "大町市", type: "city" }
+    - { code: "20213", name: "飯山市", type: "city" }
+    - { code: "20214", name: "茅野市", type: "city" }
+    - { code: "20215", name: "塩尻市", type: "city" }
+    - { code: "20217", name: "佐久市", type: "city" }
+    - { code: "20218", name: "千曲市", type: "city" }
+    - { code: "20219", name: "東御市", type: "city" }
+    - { code: "20220", name: "安曇野市", type: "city" }
+    - { code: "20303", name: "小海町", type: "town", note: "南佐久郡" }
+    - { code: "20304", name: "川上村", type: "village", note: "南佐久郡" }
+    - { code: "20305", name: "南牧村", type: "village", note: "南佐久郡" }
+    - { code: "20306", name: "南相木村", type: "village", note: "南佐久郡" }
+    - { code: "20307", name: "北相木村", type: "village", note: "南佐久郡" }
+    - { code: "20309", name: "佐久穂町", type: "town", note: "南佐久郡" }
+    - { code: "20321", name: "軽井沢町", type: "town", note: "北佐久郡" }
+    - { code: "20323", name: "御代田町", type: "town", note: "北佐久郡" }
+    - { code: "20324", name: "立科町", type: "town", note: "北佐久郡" }
+    - { code: "20349", name: "青木村", type: "village", note: "小県郡" }
+    - { code: "20350", name: "長和町", type: "town", note: "小県郡" }
+    - { code: "20361", name: "下諏訪町", type: "town", note: "諏訪郡" }
+    - { code: "20362", name: "富士見町", type: "town", note: "諏訪郡" }
+    - { code: "20363", name: "原村", type: "village", note: "諏訪郡" }
+    - { code: "20382", name: "辰野町", type: "town", note: "上伊那郡" }
+    - { code: "20383", name: "箕輪町", type: "town", note: "上伊那郡" }
+    - { code: "20384", name: "飯島町", type: "town", note: "上伊那郡" }
+    - { code: "20385", name: "南箕輪村", type: "village", note: "上伊那郡" }
+    - { code: "20386", name: "中川村", type: "village", note: "上伊那郡" }
+    - { code: "20388", name: "宮田村", type: "village", note: "上伊那郡" }
+    - { code: "20402", name: "松川町", type: "town", note: "下伊那郡" }
+    - { code: "20403", name: "高森町", type: "town", note: "下伊那郡" }
+    - { code: "20404", name: "阿南町", type: "town", note: "下伊那郡" }
+    - { code: "20407", name: "阿智村", type: "village", note: "下伊那郡" }
+    - { code: "20409", name: "平谷村", type: "village", note: "下伊那郡" }
+    - { code: "20410", name: "根羽村", type: "village", note: "下伊那郡" }
+    - { code: "20411", name: "下條村", type: "village", note: "下伊那郡" }
+    - { code: "20412", name: "売木村", type: "village", note: "下伊那郡" }
+    - { code: "20413", name: "天龍村", type: "village", note: "下伊那郡" }
+    - { code: "20414", name: "泰阜村", type: "village", note: "下伊那郡" }
+    - { code: "20415", name: "喬木村", type: "village", note: "下伊那郡" }
+    - { code: "20416", name: "豊丘村", type: "village", note: "下伊那郡" }
+    - { code: "20417", name: "大鹿村", type: "village", note: "下伊那郡" }
+    - { code: "20422", name: "上松町", type: "town", note: "木曽郡" }
+    - { code: "20423", name: "南木曽町", type: "town", note: "木曽郡" }
+    - { code: "20425", name: "木祖村", type: "village", note: "木曽郡" }
+    - { code: "20429", name: "王滝村", type: "village", note: "木曽郡" }
+    - { code: "20430", name: "大桑村", type: "village", note: "木曽郡" }
+    - { code: "20432", name: "木曽町", type: "town", note: "木曽郡" }
+    - { code: "20446", name: "麻績村", type: "village", note: "東筑摩郡" }
+    - { code: "20448", name: "生坂村", type: "village", note: "東筑摩郡" }
+    - { code: "20450", name: "山形村", type: "village", note: "東筑摩郡" }
+    - { code: "20451", name: "朝日村", type: "village", note: "東筑摩郡" }
+    - { code: "20452", name: "筑北村", type: "village", note: "東筑摩郡" }
+    - { code: "20481", name: "池田町", type: "town", note: "北安曇郡" }
+    - { code: "20482", name: "松川村", type: "village", note: "北安曇郡" }
+    - { code: "20485", name: "白馬村", type: "village", note: "北安曇郡" }
+    - { code: "20486", name: "小谷村", type: "village", note: "北安曇郡" }
+    - { code: "20521", name: "坂城町", type: "town", note: "埴科郡" }
+    - { code: "20541", name: "小布施町", type: "town", note: "上高井郡" }
+    - { code: "20543", name: "高山村", type: "village", note: "上高井郡" }
+    - { code: "20561", name: "山ノ内町", type: "town", note: "下高井郡" }
+    - { code: "20562", name: "木島平村", type: "village", note: "下高井郡" }
+    - { code: "20563", name: "野沢温泉村", type: "village", note: "下高井郡" }
+    - { code: "20583", name: "信濃町", type: "town", note: "上水内郡" }
+    - { code: "20588", name: "小川村", type: "village", note: "上水内郡" }
+    - { code: "20590", name: "飯綱町", type: "town", note: "上水内郡" }
+    - { code: "20602", name: "栄村", type: "village", note: "下水内郡" }

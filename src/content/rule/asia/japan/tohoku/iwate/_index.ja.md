@@ -39,6 +39,42 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '東北電力エリア'
+municipalities:
+  svg: "/maps/prefectures/iwate.svg"
+  list:
+    - { code: "03201", name: "盛岡市", type: "city", note: "県庁所在地" }
+    - { code: "03202", name: "宮古市", type: "city" }
+    - { code: "03203", name: "大船渡市", type: "city" }
+    - { code: "03205", name: "花巻市", type: "city" }
+    - { code: "03206", name: "北上市", type: "city" }
+    - { code: "03207", name: "久慈市", type: "city" }
+    - { code: "03208", name: "遠野市", type: "city" }
+    - { code: "03209", name: "一関市", type: "city" }
+    - { code: "03210", name: "陸前高田市", type: "city" }
+    - { code: "03211", name: "釜石市", type: "city" }
+    - { code: "03213", name: "二戸市", type: "city" }
+    - { code: "03214", name: "八幡平市", type: "city" }
+    - { code: "03215", name: "奥州市", type: "city" }
+    - { code: "03216", name: "滝沢市", type: "city" }
+    - { code: "03301", name: "雫石町", type: "town", note: "岩手郡" }
+    - { code: "03302", name: "葛巻町", type: "town", note: "岩手郡" }
+    - { code: "03303", name: "岩手町", type: "town", note: "岩手郡" }
+    - { code: "03321", name: "紫波町", type: "town", note: "紫波郡" }
+    - { code: "03322", name: "矢巾町", type: "town", note: "紫波郡" }
+    - { code: "03366", name: "西和賀町", type: "town", note: "和賀郡" }
+    - { code: "03381", name: "金ケ崎町", type: "town", note: "胆沢郡" }
+    - { code: "03402", name: "平泉町", type: "town", note: "西磐井郡" }
+    - { code: "03441", name: "住田町", type: "town", note: "気仙郡" }
+    - { code: "03461", name: "大槌町", type: "town", note: "上閉伊郡" }
+    - { code: "03482", name: "山田町", type: "town", note: "下閉伊郡" }
+    - { code: "03483", name: "岩泉町", type: "town", note: "下閉伊郡" }
+    - { code: "03484", name: "田野畑村", type: "village", note: "下閉伊郡" }
+    - { code: "03485", name: "普代村", type: "village", note: "下閉伊郡" }
+    - { code: "03501", name: "軽米町", type: "town", note: "九戸郡" }
+    - { code: "03503", name: "野田村", type: "village", note: "九戸郡" }
+    - { code: "03506", name: "九戸村", type: "village", note: "九戸郡" }
+    - { code: "03507", name: "洋野町", type: "town", note: "九戸郡" }
+    - { code: "03524", name: "一戸町", type: "town", note: "二戸郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

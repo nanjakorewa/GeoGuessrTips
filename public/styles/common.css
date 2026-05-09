@@ -2396,6 +2396,135 @@ sup.cite-num a:hover {
   }
 }
 
+/* ============================================
+   Prefecture Municipalities Section
+   ============================================ */
+.pref-muni-section {
+  background: #fff;
+  border: 1px solid #e1e6ec;
+  padding: 1.25rem 1.4rem;
+  margin: 1.5rem 0;
+}
+.pref-muni-section__title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #1f3a5c;
+  margin: 0 0 0.85rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #d6deea;
+}
+.pref-muni-section__total {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: #6b7a8d;
+  margin-left: 0.4em;
+}
+.pref-muni-layout {
+  display: grid;
+  grid-template-columns: minmax(220px, 320px) minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+}
+.pref-muni-map {
+  background: #f6f9fd;
+  border: 1px solid #e1e6ec;
+  padding: 8px;
+}
+.pref-muni-map img,
+.pref-muni-map svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.pref-muni-map svg path {
+  cursor: pointer;
+  transition: fill 0.12s ease, stroke 0.12s ease;
+}
+.pref-muni-map svg path:hover,
+.pref-muni-map svg path.is-active {
+  fill: #ffd082;
+  stroke: #c97a18;
+  stroke-width: 1.1;
+}
+.pref-muni-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+.pref-muni-list__group-label {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5em;
+  font-size: 0.78rem;
+  color: #6b7a8d;
+  margin-bottom: 0.3rem;
+  border-bottom: 1px dashed #e1e6ec;
+  padding-bottom: 0.2rem;
+}
+.pref-muni-list__type {
+  font-weight: 700;
+  color: #1f4d80;
+  font-size: 0.88rem;
+}
+.pref-muni-list__count::before {
+  content: "(";
+}
+.pref-muni-list__count::after {
+  content: ")";
+}
+.pref-muni-list__items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.2rem 0.6rem;
+}
+.pref-muni-list__items li {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  padding: 0.15rem 0.3rem;
+  cursor: pointer;
+  transition: background 0.12s ease;
+}
+.pref-muni-list__items li.is-active,
+.pref-muni-list__items li:hover {
+  background: #fff3dc;
+}
+.pref-muni-list__items li.is-active .pref-muni-list__name,
+.pref-muni-list__items li:hover .pref-muni-list__name {
+  color: #c97a18;
+  font-weight: 600;
+}
+.pref-muni-list__items li::before {
+  display: none;
+}
+.pref-muni-list__name {
+  color: #1f3a5c;
+}
+.pref-muni-list__note {
+  display: inline-block;
+  font-size: 0.72rem;
+  color: #6b7a8d;
+  margin-left: 0.4em;
+}
+@media (max-width: 720px) {
+  .pref-muni-section {
+    padding: 1rem;
+  }
+  .pref-muni-layout {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  .pref-muni-map {
+    max-width: 360px;
+    margin: 0 auto;
+  }
+  .pref-muni-list__items {
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  }
+}
+
 ul.rule-list li::before {
   height: 10px;
   width: 10px;

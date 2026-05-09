@@ -1,0 +1,22 @@
+municipalities:
+  svg: "/maps/prefectures/ishikawa.svg"
+  list:
+    - { code: "17201", name: "金沢市", type: "city", note: "県庁所在地" }
+    - { code: "17202", name: "七尾市", type: "city" }
+    - { code: "17203", name: "小松市", type: "city" }
+    - { code: "17204", name: "輪島市", type: "city" }
+    - { code: "17205", name: "珠洲市", type: "city" }
+    - { code: "17206", name: "加賀市", type: "city" }
+    - { code: "17207", name: "羽咋市", type: "city" }
+    - { code: "17209", name: "かほく市", type: "city" }
+    - { code: "17210", name: "白山市", type: "city" }
+    - { code: "17211", name: "能美市", type: "city" }
+    - { code: "17212", name: "野々市市", type: "city" }
+    - { code: "17324", name: "川北町", type: "town", note: "能美郡" }
+    - { code: "17361", name: "津幡町", type: "town", note: "河北郡" }
+    - { code: "17365", name: "内灘町", type: "town", note: "河北郡" }
+    - { code: "17384", name: "志賀町", type: "town", note: "羽咋郡" }
+    - { code: "17386", name: "宝達志水町", type: "town", note: "羽咋郡" }
+    - { code: "17407", name: "中能登町", type: "town", note: "鹿島郡" }
+    - { code: "17461", name: "穴水町", type: "town", note: "鳳珠郡" }
+    - { code: "17463", name: "能登町", type: "town", note: "鳳珠郡" }

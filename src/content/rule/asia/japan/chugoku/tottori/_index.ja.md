@@ -39,6 +39,28 @@ prefInfo:
     - url: '/industry/world-agriculture/'
       title: '世界の農産物・穀物トレード'
       note: '二十世紀梨など果樹輸出'
+municipalities:
+  svg: "/maps/prefectures/tottori.svg"
+  list:
+    - { code: "31201", name: "鳥取市", type: "city", note: "県庁所在地" }
+    - { code: "31202", name: "米子市", type: "city" }
+    - { code: "31203", name: "倉吉市", type: "city" }
+    - { code: "31204", name: "境港市", type: "city" }
+    - { code: "31302", name: "岩美町", type: "town", note: "岩美郡" }
+    - { code: "31325", name: "若桜町", type: "town", note: "八頭郡" }
+    - { code: "31328", name: "智頭町", type: "town", note: "八頭郡" }
+    - { code: "31329", name: "八頭町", type: "town", note: "八頭郡" }
+    - { code: "31364", name: "三朝町", type: "town", note: "東伯郡" }
+    - { code: "31370", name: "湯梨浜町", type: "town", note: "東伯郡" }
+    - { code: "31371", name: "琴浦町", type: "town", note: "東伯郡" }
+    - { code: "31372", name: "北栄町", type: "town", note: "東伯郡" }
+    - { code: "31384", name: "日吉津村", type: "village", note: "西伯郡" }
+    - { code: "31386", name: "大山町", type: "town", note: "西伯郡" }
+    - { code: "31389", name: "南部町", type: "town", note: "西伯郡" }
+    - { code: "31390", name: "伯耆町", type: "town", note: "西伯郡" }
+    - { code: "31401", name: "日南町", type: "town", note: "日野郡" }
+    - { code: "31402", name: "日野町", type: "town", note: "日野郡" }
+    - { code: "31403", name: "江府町", type: "town", note: "日野郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

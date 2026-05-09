@@ -43,6 +43,28 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '中国電力エリア・上関原発計画地'
+municipalities:
+  svg: "/maps/prefectures/yamaguchi.svg"
+  list:
+    - { code: "35201", name: "下関市", type: "city" }
+    - { code: "35202", name: "宇部市", type: "city" }
+    - { code: "35203", name: "山口市", type: "city", note: "県庁所在地" }
+    - { code: "35204", name: "萩市", type: "city" }
+    - { code: "35206", name: "防府市", type: "city" }
+    - { code: "35207", name: "下松市", type: "city" }
+    - { code: "35208", name: "岩国市", type: "city" }
+    - { code: "35210", name: "光市", type: "city" }
+    - { code: "35211", name: "長門市", type: "city" }
+    - { code: "35212", name: "柳井市", type: "city" }
+    - { code: "35213", name: "美祢市", type: "city" }
+    - { code: "35215", name: "周南市", type: "city" }
+    - { code: "35216", name: "山陽小野田市", type: "city" }
+    - { code: "35305", name: "周防大島町", type: "town", note: "大島郡" }
+    - { code: "35321", name: "和木町", type: "town", note: "玖珂郡" }
+    - { code: "35341", name: "上関町", type: "town", note: "熊毛郡" }
+    - { code: "35343", name: "田布施町", type: "town", note: "熊毛郡" }
+    - { code: "35344", name: "平生町", type: "town", note: "熊毛郡" }
+    - { code: "35502", name: "阿武町", type: "town", note: "阿武郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

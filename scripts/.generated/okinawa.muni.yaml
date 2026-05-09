@@ -1,0 +1,44 @@
+municipalities:
+  svg: "/maps/prefectures/okinawa.svg"
+  list:
+    - { code: "47201", name: "那覇市", type: "city", note: "県庁所在地" }
+    - { code: "47205", name: "宜野湾市", type: "city" }
+    - { code: "47207", name: "石垣市", type: "city" }
+    - { code: "47208", name: "浦添市", type: "city" }
+    - { code: "47209", name: "名護市", type: "city" }
+    - { code: "47210", name: "糸満市", type: "city" }
+    - { code: "47211", name: "沖縄市", type: "city" }
+    - { code: "47212", name: "豊見城市", type: "city" }
+    - { code: "47213", name: "うるま市", type: "city" }
+    - { code: "47214", name: "宮古島市", type: "city" }
+    - { code: "47215", name: "南城市", type: "city" }
+    - { code: "47301", name: "国頭村", type: "village", note: "国頭郡" }
+    - { code: "47302", name: "大宜味村", type: "village", note: "国頭郡" }
+    - { code: "47303", name: "東村", type: "village", note: "国頭郡" }
+    - { code: "47306", name: "今帰仁村", type: "village", note: "国頭郡" }
+    - { code: "47308", name: "本部町", type: "town", note: "国頭郡" }
+    - { code: "47311", name: "恩納村", type: "village", note: "国頭郡" }
+    - { code: "47313", name: "宜野座村", type: "village", note: "国頭郡" }
+    - { code: "47314", name: "金武町", type: "town", note: "国頭郡" }
+    - { code: "47315", name: "伊江村", type: "village", note: "国頭郡" }
+    - { code: "47324", name: "読谷村", type: "village", note: "中頭郡" }
+    - { code: "47325", name: "嘉手納町", type: "town", note: "中頭郡" }
+    - { code: "47326", name: "北谷町", type: "town", note: "中頭郡" }
+    - { code: "47327", name: "北中城村", type: "village", note: "中頭郡" }
+    - { code: "47328", name: "中城村", type: "village", note: "中頭郡" }
+    - { code: "47329", name: "西原町", type: "town", note: "中頭郡" }
+    - { code: "47348", name: "与那原町", type: "town", note: "島尻郡" }
+    - { code: "47350", name: "南風原町", type: "town", note: "島尻郡" }
+    - { code: "47353", name: "渡嘉敷村", type: "village", note: "島尻郡" }
+    - { code: "47354", name: "座間味村", type: "village", note: "島尻郡" }
+    - { code: "47355", name: "粟国村", type: "village", note: "島尻郡" }
+    - { code: "47356", name: "渡名喜村", type: "village", note: "島尻郡" }
+    - { code: "47357", name: "南大東村", type: "village", note: "島尻郡" }
+    - { code: "47358", name: "北大東村", type: "village", note: "島尻郡" }
+    - { code: "47359", name: "伊平屋村", type: "village", note: "島尻郡" }
+    - { code: "47360", name: "伊是名村", type: "village", note: "島尻郡" }
+    - { code: "47361", name: "久米島町", type: "town", note: "島尻郡" }
+    - { code: "47362", name: "八重瀬町", type: "town", note: "島尻郡" }
+    - { code: "47375", name: "多良間村", type: "village", note: "宮古郡" }
+    - { code: "47381", name: "竹富町", type: "town", note: "八重山郡" }
+    - { code: "47382", name: "与那国町", type: "town", note: "八重山郡" }

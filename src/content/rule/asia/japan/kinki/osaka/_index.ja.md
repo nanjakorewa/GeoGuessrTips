@@ -47,6 +47,52 @@ prefInfo:
     - url: '/industry/japan-shipping/'
       title: '日本の海運業'
       note: '大阪港・阪神港'
+municipalities:
+  svg: "/maps/prefectures/osaka.svg"
+  list:
+    - { code: "27100", name: "大阪市", type: "city", note: "県庁所在地" }
+    - { code: "27140", name: "堺市", type: "city", note: "政令指定都市" }
+    - { code: "27202", name: "岸和田市", type: "city" }
+    - { code: "27203", name: "豊中市", type: "city" }
+    - { code: "27204", name: "池田市", type: "city" }
+    - { code: "27205", name: "吹田市", type: "city" }
+    - { code: "27206", name: "泉大津市", type: "city" }
+    - { code: "27207", name: "高槻市", type: "city" }
+    - { code: "27208", name: "貝塚市", type: "city" }
+    - { code: "27209", name: "守口市", type: "city" }
+    - { code: "27210", name: "枚方市", type: "city" }
+    - { code: "27211", name: "茨木市", type: "city" }
+    - { code: "27212", name: "八尾市", type: "city" }
+    - { code: "27213", name: "泉佐野市", type: "city" }
+    - { code: "27214", name: "富田林市", type: "city" }
+    - { code: "27215", name: "寝屋川市", type: "city" }
+    - { code: "27216", name: "河内長野市", type: "city" }
+    - { code: "27217", name: "松原市", type: "city" }
+    - { code: "27218", name: "大東市", type: "city" }
+    - { code: "27219", name: "和泉市", type: "city" }
+    - { code: "27220", name: "箕面市", type: "city" }
+    - { code: "27221", name: "柏原市", type: "city" }
+    - { code: "27222", name: "羽曳野市", type: "city" }
+    - { code: "27223", name: "門真市", type: "city" }
+    - { code: "27224", name: "摂津市", type: "city" }
+    - { code: "27225", name: "高石市", type: "city" }
+    - { code: "27226", name: "藤井寺市", type: "city" }
+    - { code: "27227", name: "東大阪市", type: "city" }
+    - { code: "27228", name: "泉南市", type: "city" }
+    - { code: "27229", name: "四條畷市", type: "city" }
+    - { code: "27230", name: "交野市", type: "city" }
+    - { code: "27231", name: "大阪狭山市", type: "city" }
+    - { code: "27232", name: "阪南市", type: "city" }
+    - { code: "27301", name: "島本町", type: "town", note: "三島郡" }
+    - { code: "27321", name: "豊能町", type: "town", note: "豊能郡" }
+    - { code: "27322", name: "能勢町", type: "town", note: "豊能郡" }
+    - { code: "27341", name: "忠岡町", type: "town", note: "泉北郡" }
+    - { code: "27361", name: "熊取町", type: "town", note: "泉南郡" }
+    - { code: "27362", name: "田尻町", type: "town", note: "泉南郡" }
+    - { code: "27366", name: "岬町", type: "town", note: "泉南郡" }
+    - { code: "27381", name: "太子町", type: "town", note: "南河内郡" }
+    - { code: "27382", name: "河南町", type: "town", note: "南河内郡" }
+    - { code: "27383", name: "千早赤阪村", type: "village", note: "南河内郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

@@ -43,6 +43,44 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '中部電力エリア・浜岡原発'
+municipalities:
+  svg: "/maps/prefectures/shizuoka.svg"
+  list:
+    - { code: "22100", name: "静岡市", type: "city", note: "県庁所在地" }
+    - { code: "22130", name: "浜松市", type: "city", note: "政令指定都市" }
+    - { code: "22203", name: "沼津市", type: "city" }
+    - { code: "22205", name: "熱海市", type: "city" }
+    - { code: "22206", name: "三島市", type: "city" }
+    - { code: "22207", name: "富士宮市", type: "city" }
+    - { code: "22208", name: "伊東市", type: "city" }
+    - { code: "22209", name: "島田市", type: "city" }
+    - { code: "22210", name: "富士市", type: "city" }
+    - { code: "22211", name: "磐田市", type: "city" }
+    - { code: "22212", name: "焼津市", type: "city" }
+    - { code: "22213", name: "掛川市", type: "city" }
+    - { code: "22214", name: "藤枝市", type: "city" }
+    - { code: "22215", name: "御殿場市", type: "city" }
+    - { code: "22216", name: "袋井市", type: "city" }
+    - { code: "22219", name: "下田市", type: "city" }
+    - { code: "22220", name: "裾野市", type: "city" }
+    - { code: "22221", name: "湖西市", type: "city" }
+    - { code: "22222", name: "伊豆市", type: "city" }
+    - { code: "22223", name: "御前崎市", type: "city" }
+    - { code: "22224", name: "菊川市", type: "city" }
+    - { code: "22225", name: "伊豆の国市", type: "city" }
+    - { code: "22226", name: "牧之原市", type: "city" }
+    - { code: "22301", name: "東伊豆町", type: "town", note: "賀茂郡" }
+    - { code: "22302", name: "河津町", type: "town", note: "賀茂郡" }
+    - { code: "22304", name: "南伊豆町", type: "town", note: "賀茂郡" }
+    - { code: "22305", name: "松崎町", type: "town", note: "賀茂郡" }
+    - { code: "22306", name: "西伊豆町", type: "town", note: "賀茂郡" }
+    - { code: "22325", name: "函南町", type: "town", note: "田方郡" }
+    - { code: "22341", name: "清水町", type: "town", note: "駿東郡" }
+    - { code: "22342", name: "長泉町", type: "town", note: "駿東郡" }
+    - { code: "22344", name: "小山町", type: "town", note: "駿東郡" }
+    - { code: "22424", name: "吉田町", type: "town", note: "榛原郡" }
+    - { code: "22429", name: "川根本町", type: "town", note: "榛原郡" }
+    - { code: "22461", name: "森町", type: "town", note: "周智郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

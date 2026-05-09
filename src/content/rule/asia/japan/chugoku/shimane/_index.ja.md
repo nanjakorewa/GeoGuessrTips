@@ -39,6 +39,28 @@ prefInfo:
     - url: '/industry/japan-nonferrous/'
       title: '日本の非鉄金属製錬'
       note: '石見銀山（歴史的銀産地）'
+municipalities:
+  svg: "/maps/prefectures/shimane.svg"
+  list:
+    - { code: "32201", name: "松江市", type: "city", note: "県庁所在地" }
+    - { code: "32202", name: "浜田市", type: "city" }
+    - { code: "32203", name: "出雲市", type: "city" }
+    - { code: "32204", name: "益田市", type: "city" }
+    - { code: "32205", name: "大田市", type: "city" }
+    - { code: "32206", name: "安来市", type: "city" }
+    - { code: "32207", name: "江津市", type: "city" }
+    - { code: "32209", name: "雲南市", type: "city" }
+    - { code: "32343", name: "奥出雲町", type: "town", note: "仁多郡" }
+    - { code: "32386", name: "飯南町", type: "town", note: "飯石郡" }
+    - { code: "32441", name: "川本町", type: "town", note: "邑智郡" }
+    - { code: "32448", name: "美郷町", type: "town", note: "邑智郡" }
+    - { code: "32449", name: "邑南町", type: "town", note: "邑智郡" }
+    - { code: "32501", name: "津和野町", type: "town", note: "鹿足郡" }
+    - { code: "32505", name: "吉賀町", type: "town", note: "鹿足郡" }
+    - { code: "32525", name: "海士町", type: "town", note: "隠岐郡" }
+    - { code: "32526", name: "西ノ島町", type: "town", note: "隠岐郡" }
+    - { code: "32527", name: "知夫村", type: "village", note: "隠岐郡" }
+    - { code: "32528", name: "隠岐の島町", type: "town", note: "隠岐郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

@@ -50,6 +50,50 @@ prefInfo:
     - url: '/industry/japan-tire/'
       title: '日本のタイヤ産業'
       note: '住友ゴム神戸本社・ブリヂストン関連'
+municipalities:
+  svg: "/maps/prefectures/hyogo.svg"
+  list:
+    - { code: "28100", name: "神戸市", type: "city", note: "県庁所在地" }
+    - { code: "28201", name: "姫路市", type: "city" }
+    - { code: "28202", name: "尼崎市", type: "city" }
+    - { code: "28203", name: "明石市", type: "city" }
+    - { code: "28204", name: "西宮市", type: "city" }
+    - { code: "28205", name: "洲本市", type: "city" }
+    - { code: "28206", name: "芦屋市", type: "city" }
+    - { code: "28207", name: "伊丹市", type: "city" }
+    - { code: "28208", name: "相生市", type: "city" }
+    - { code: "28209", name: "豊岡市", type: "city" }
+    - { code: "28210", name: "加古川市", type: "city" }
+    - { code: "28212", name: "赤穂市", type: "city" }
+    - { code: "28213", name: "西脇市", type: "city" }
+    - { code: "28214", name: "宝塚市", type: "city" }
+    - { code: "28215", name: "三木市", type: "city" }
+    - { code: "28216", name: "高砂市", type: "city" }
+    - { code: "28217", name: "川西市", type: "city" }
+    - { code: "28218", name: "小野市", type: "city" }
+    - { code: "28219", name: "三田市", type: "city" }
+    - { code: "28220", name: "加西市", type: "city" }
+    - { code: "28221", name: "丹波篠山市", type: "city" }
+    - { code: "28222", name: "養父市", type: "city" }
+    - { code: "28223", name: "丹波市", type: "city" }
+    - { code: "28224", name: "南あわじ市", type: "city" }
+    - { code: "28225", name: "朝来市", type: "city" }
+    - { code: "28226", name: "淡路市", type: "city" }
+    - { code: "28227", name: "宍粟市", type: "city" }
+    - { code: "28228", name: "加東市", type: "city" }
+    - { code: "28229", name: "たつの市", type: "city" }
+    - { code: "28301", name: "猪名川町", type: "town", note: "川辺郡" }
+    - { code: "28365", name: "多可町", type: "town", note: "多可郡" }
+    - { code: "28381", name: "稲美町", type: "town", note: "加古郡" }
+    - { code: "28382", name: "播磨町", type: "town", note: "加古郡" }
+    - { code: "28442", name: "市川町", type: "town", note: "神崎郡" }
+    - { code: "28443", name: "福崎町", type: "town", note: "神崎郡" }
+    - { code: "28446", name: "神河町", type: "town", note: "神崎郡" }
+    - { code: "28464", name: "太子町", type: "town", note: "揖保郡" }
+    - { code: "28481", name: "上郡町", type: "town", note: "赤穂郡" }
+    - { code: "28501", name: "佐用町", type: "town", note: "佐用郡" }
+    - { code: "28585", name: "香美町", type: "town", note: "美方郡" }
+    - { code: "28586", name: "新温泉町", type: "town", note: "美方郡" }
 references:
   - key: stat_jinsui_2024
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/

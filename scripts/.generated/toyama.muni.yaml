@@ -1,0 +1,18 @@
+municipalities:
+  svg: "/maps/prefectures/toyama.svg"
+  list:
+    - { code: "16201", name: "富山市", type: "city", note: "県庁所在地" }
+    - { code: "16202", name: "高岡市", type: "city" }
+    - { code: "16204", name: "魚津市", type: "city" }
+    - { code: "16205", name: "氷見市", type: "city" }
+    - { code: "16206", name: "滑川市", type: "city" }
+    - { code: "16207", name: "黒部市", type: "city" }
+    - { code: "16208", name: "砺波市", type: "city" }
+    - { code: "16209", name: "小矢部市", type: "city" }
+    - { code: "16210", name: "南砺市", type: "city" }
+    - { code: "16211", name: "射水市", type: "city" }
+    - { code: "16321", name: "舟橋村", type: "village", note: "中新川郡" }
+    - { code: "16322", name: "上市町", type: "town", note: "中新川郡" }
+    - { code: "16323", name: "立山町", type: "town", note: "中新川郡" }
+    - { code: "16342", name: "入善町", type: "town", note: "下新川郡" }
+    - { code: "16343", name: "朝日町", type: "town", note: "下新川郡" }
