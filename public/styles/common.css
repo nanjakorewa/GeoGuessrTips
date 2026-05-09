@@ -2429,6 +2429,12 @@ sup.cite-num a:hover {
   background: #f6f9fd;
   border: 1px solid #e1e6ec;
   padding: 8px;
+  position: sticky;
+  /* Sit just below the 52px sticky navbar */
+  top: 64px;
+  /* Cap to viewport so the whole map stays visible while scrolling long lists */
+  max-height: calc(100vh - 80px);
+  overflow: auto;
 }
 .pref-muni-map img,
 .pref-muni-map svg {
@@ -2519,6 +2525,10 @@ sup.cite-num a:hover {
   .pref-muni-map {
     max-width: 360px;
     margin: 0 auto;
+    /* In single-column mode, sticky is jarring — stay in flow */
+    position: static;
+    max-height: none;
+    overflow: visible;
   }
   .pref-muni-list__items {
     grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
