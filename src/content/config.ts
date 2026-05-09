@@ -208,17 +208,30 @@ const ruleCollection = defineCollection({
       })).optional(),
     }).optional(),
 
-    // Municipality (市町村) list + boundary SVG. Rendered between the
-    // prefInfo block and the "代表的な企業の説明" table on prefecture pages.
+    // Subdivision (自治体・行政区分) list + boundary SVG. Rendered between
+    // the prefInfo block and the "代表的な企業の説明" table.
+    // - On Japanese prefecture pages: market-cities/towns/villages (市町村)
+    // - On country pages: first-level admin divisions (provinces / states)
     municipalities: z.object({
       svg: z.string(),
+      /**
+       * Optional override for the section heading. Defaults to
+       * "{title}の自治体" / "Municipalities of {title}". Useful for
+       * non-Japan pages where 自治体 doesn't fit (e.g. "韓国の行政区分").
+       */
+      title: z.string().optional(),
       asOf: z.string().optional(),
       source: z.string().optional(),
       sourceUrl: z.string().optional(),
       list: z.array(z.object({
         code: z.string(),
         name: z.string(),
-        type: z.enum(["city", "town", "village", "ward"]).optional(),
+        /**
+         * Per-row category. Japan uses city/town/village/ward; for other
+         * countries we accept arbitrary strings (e.g. "metropolitan_city",
+         * "province"). Unknown values fall through ungrouped.
+         */
+        type: z.string().optional(),
         note: z.string().optional(),
       })),
     }).optional(),

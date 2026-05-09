@@ -12,12 +12,18 @@ import type { Language } from "../../../lib/i18n-utils.ts";
 export interface MunicipalityItem {
   code: string;
   name: string;
-  type?: "city" | "town" | "village" | "ward";
+  /**
+   * Built-in Japan types get localized labels and grouped order; any other
+   * string falls through as a custom group label (used as-is).
+   */
+  type?: string;
   note?: string;
 }
 
 export interface MunicipalitiesData {
   svg: string;
+  /** Optional override for the section heading (defaults to "{title}の自治体"). */
+  title?: string;
   asOf?: string;
   source?: string;
   sourceUrl?: string;
@@ -32,14 +38,33 @@ const TITLE: Record<Language, (name: string) => string> = {
   pt: (n) => `Municípios de ${n}`,
 };
 
-const TYPE_LABEL: Record<
-  NonNullable<MunicipalityItem["type"]>,
-  Record<Language, string>
-> = {
+const TYPE_LABEL: Record<string, Record<Language, string>> = {
   city: { ja: "市", en: "City", id: "Kota", es: "Ciudad", pt: "Cidade" },
   town: { ja: "町", en: "Town", id: "Kota kecil", es: "Pueblo", pt: "Vila" },
   village: { ja: "村", en: "Village", id: "Desa", es: "Aldea", pt: "Aldeia" },
   ward: { ja: "区", en: "Ward", id: "Distrik", es: "Distrito", pt: "Distrito" },
+  // Common non-Japan types — extend as needed
+  metropolitan_city: {
+    ja: "広域市・特別市",
+    en: "Metropolitan City",
+    id: "Kota metropolitan",
+    es: "Ciudad metropolitana",
+    pt: "Cidade metropolitana",
+  },
+  province: {
+    ja: "道",
+    en: "Province",
+    id: "Provinsi",
+    es: "Provincia",
+    pt: "Província",
+  },
+  state: {
+    ja: "州",
+    en: "State",
+    id: "Negara bagian",
+    es: "Estado",
+    pt: "Estado",
+  },
 };
 
 const ALT_LABEL: Record<Language, (n: string) => string> = {
@@ -62,7 +87,12 @@ function esc(s: string): string {
     .replace(/"/g, "&quot;");
 }
 
-const TYPE_ORDER: Array<NonNullable<MunicipalityItem["type"]>> = [
+// Built-in render order for known types. Unknown types are rendered after
+// these in the order they first appear in the frontmatter.
+const TYPE_ORDER: string[] = [
+  "metropolitan_city",
+  "province",
+  "state",
   "city",
   "ward",
   "town",
@@ -89,11 +119,23 @@ export function renderMunicipalitiesHtml(
     }
   }
 
+  // Order: known types in TYPE_ORDER first, then any custom types in
+  // first-seen order from the frontmatter.
+  const seenOrder: string[] = [];
+  for (const m of data.list) {
+    if (m.type && !seenOrder.includes(m.type)) seenOrder.push(m.type);
+  }
+  const orderedTypes = [
+    ...TYPE_ORDER.filter((t) => groups.has(t)),
+    ...seenOrder.filter((t) => !TYPE_ORDER.includes(t)),
+  ];
+
   const groupHtml: string[] = [];
-  for (const t of TYPE_ORDER) {
+  for (const t of orderedTypes) {
     const items = groups.get(t);
     if (!items || items.length === 0) continue;
-    const label = pick(TYPE_LABEL[t], lang);
+    // Known types get localized labels; unknown types render the raw value.
+    const label = TYPE_LABEL[t] ? pick(TYPE_LABEL[t], lang) : t;
     const lis = items
       .map((m) => {
         const note = m.note
@@ -103,7 +145,7 @@ export function renderMunicipalitiesHtml(
       })
       .join("\n");
     groupHtml.push(
-      `        <div class="pref-muni-list__group" data-type="${t}">
+      `        <div class="pref-muni-list__group" data-type="${esc(t)}">
           <div class="pref-muni-list__group-label"><span class="pref-muni-list__type">${esc(label)}</span><span class="pref-muni-list__count">${items.length}</span></div>
           <ul class="pref-muni-list__items">
 ${lis}
@@ -190,8 +232,12 @@ ${lis}
 })();</script>`
     : "";
 
+  const sectionTitle = data.title
+    ? data.title
+    : pick(TITLE, lang)(pageTitle);
+
   return `<section class="pref-muni-section" id="pref-muni">
-    <h4 class="pref-muni-section__title">${esc(pick(TITLE, lang)(pageTitle))} <span class="pref-muni-section__total">(${total})</span></h4>
+    <h4 class="pref-muni-section__title">${esc(sectionTitle)} <span class="pref-muni-section__total">(${total})</span></h4>
     <div class="pref-muni-layout">
       <div class="pref-muni-map">
 ${mapInner}

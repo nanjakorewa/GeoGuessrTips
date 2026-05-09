@@ -29,6 +29,28 @@ mapPins:
   - { lat: 33.500, lng: 126.531, label: "済州島", type: "nature", note: "韓国南部の火山島・世界自然遺産" }
   - { lat: 37.583, lng: 127.000, label: "北漢山", type: "nature", note: "ソウル北部の国立公園・花崗岩の山岳" }
   - { lat: 38.318, lng: 127.494, label: "板門店付近", type: "historical", note: "南北軍事境界線・歴史的な分断ライン" }
+municipalities:
+  svg: "/maps/countries/korea.svg"
+  title: "韓国の広域自治体"
+  # code は SVG 内の data-code と一致させる必要がある（KOSTAT 2018 の 2 桁コード）
+  list:
+    - { code: "11", name: "ソウル特別市",   type: "metropolitan_city", note: "首都" }
+    - { code: "21", name: "釜山広域市",     type: "metropolitan_city" }
+    - { code: "22", name: "大邱広域市",     type: "metropolitan_city" }
+    - { code: "23", name: "仁川広域市",     type: "metropolitan_city" }
+    - { code: "24", name: "光州広域市",     type: "metropolitan_city" }
+    - { code: "25", name: "大田広域市",     type: "metropolitan_city" }
+    - { code: "26", name: "蔚山広域市",     type: "metropolitan_city" }
+    - { code: "29", name: "世宗特別自治市", type: "metropolitan_city" }
+    - { code: "31", name: "京畿道",         type: "province" }
+    - { code: "32", name: "江原特別自治道", type: "province", note: "旧 江原道（2023〜）" }
+    - { code: "33", name: "忠清北道",       type: "province" }
+    - { code: "34", name: "忠清南道",       type: "province" }
+    - { code: "35", name: "全北特別自治道", type: "province", note: "旧 全羅北道（2024〜）" }
+    - { code: "36", name: "全羅南道",       type: "province" }
+    - { code: "37", name: "慶尚北道",       type: "province" }
+    - { code: "38", name: "慶尚南道",       type: "province" }
+    - { code: "39", name: "済州特別自治道", type: "province" }
 ---
 
 <div class="main-desciption country-description">
