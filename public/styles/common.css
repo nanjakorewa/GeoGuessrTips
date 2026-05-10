@@ -2405,19 +2405,64 @@ sup.cite-num a:hover {
   padding: 1.25rem 1.4rem;
   margin: 1.5rem 0;
 }
+.pref-muni-section__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.85rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #d6deea;
+}
 .pref-muni-section__title {
   font-size: 1.1rem;
   font-weight: 700;
   color: #1f3a5c;
-  margin: 0 0 0.85rem 0;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid #d6deea;
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 .pref-muni-section__total {
   font-size: 0.82rem;
   font-weight: 500;
   color: #6b7a8d;
   margin-left: 0.4em;
+}
+/* CTA button → /quiz/states/...
+   Tinted to match the section's blue/gray palette (header text #1f3a5c,
+   map stroke #5b7fa8, border #d6deea) instead of standing out as a hot
+   color. Outlined style keeps the section visually quiet while still
+   reading as a clickable affordance. */
+.pref-muni-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  padding: 0.4em 0.95em;
+  background: #f6f9fd;
+  color: #1f3a5c !important;
+  border: 1px solid #c8d3e2;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  letter-spacing: 0.02em;
+  transition: background 0.12s ease, border-color 0.12s ease;
+  white-space: nowrap;
+}
+.pref-muni-cta:hover {
+  background: #eaf2fb;
+  border-color: #5b7fa8;
+  color: #1f3a5c !important;
+}
+.pref-muni-cta:active {
+  background: #d6e2f0;
+}
+.pref-muni-cta__arrow {
+  font-weight: 700;
+  transition: transform 0.18s ease;
+}
+.pref-muni-cta:hover .pref-muni-cta__arrow {
+  transform: translateX(2px);
 }
 .pref-muni-layout {
   display: grid;

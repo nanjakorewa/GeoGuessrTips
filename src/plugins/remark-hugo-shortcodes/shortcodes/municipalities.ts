@@ -124,7 +124,8 @@ const TYPE_ORDER: string[] = [
 export function renderMunicipalitiesHtml(
   data: MunicipalitiesData,
   pageTitle: string,
-  lang: Language
+  lang: Language,
+  quizUrl?: string | null
 ): string {
   if (!data.list || data.list.length === 0) return "";
 
@@ -262,8 +263,27 @@ ${lis}
     ? localized(data.title, lang, pick(TITLE, lang)(pageTitle))
     : pick(TITLE, lang)(pageTitle);
 
+  // Optional CTA → /quiz/states/... pointing to the matching map quiz.
+  // Plain text only (no emoji); page name is intentionally left out so the
+  // button stays compact and visually quiet alongside the section title.
+  const CTA_LABEL: Record<Language, string> = {
+    ja: "クイズに挑戦",
+    en: "Try the quiz",
+    id: "Coba kuis ini",
+    es: "Prueba el quiz",
+    pt: "Tente o quiz",
+  };
+  const ctaHtml = quizUrl
+    ? `<a class="pref-muni-cta" href="${esc(quizUrl)}">${esc(
+        pick(CTA_LABEL, lang),
+      )}<span class="pref-muni-cta__arrow" aria-hidden="true">→</span></a>`
+    : "";
+
   return `<section class="pref-muni-section" id="pref-muni">
-    <h4 class="pref-muni-section__title">${esc(sectionTitle)} <span class="pref-muni-section__total">(${total})</span></h4>
+    <div class="pref-muni-section__header">
+      <h4 class="pref-muni-section__title">${esc(sectionTitle)} <span class="pref-muni-section__total">(${total})</span></h4>
+      ${ctaHtml}
+    </div>
     <div class="pref-muni-layout">
       <div class="pref-muni-map">
 ${mapInner}

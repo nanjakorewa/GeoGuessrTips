@@ -44,6 +44,33 @@ import {
   renderMunicipalitiesHtml,
   type MunicipalitiesData,
 } from "./shortcodes/municipalities.ts";
+import { COUNTRIES } from "../../data/quiz-states-countries.ts";
+
+/**
+ * Map a rule-page slug to the corresponding /quiz/states/ URL, if a quiz
+ * page exists for it. Returns null when there's no matching quiz page.
+ *
+ * Currently gated to Aomori only as a design preview — remove the gate to
+ * enable the CTA on all prefecture & country pages with municipalities.
+ */
+function deriveQuizUrl(ruleSlug: string | null): string | null {
+  if (!ruleSlug) return null;
+
+  // ── TEMPORARY: limit the CTA to Aomori for design review.
+  // Remove this guard to enable on every page that has a quiz.
+  if (ruleSlug !== "asia/japan/tohoku/aomori") return null;
+
+  // Japan prefecture: asia/japan/{region}/{pref} → /quiz/states/japan/{pref}/
+  const prefMatch = ruleSlug.match(/^asia\/japan\/[^/]+\/([^/]+)$/);
+  if (prefMatch) return `/quiz/states/japan/${prefMatch[1]}/`;
+
+  // Country page: look up by pageDir to honor slug remappings (e.g. the
+  // Vietnam rule page lives at asia/vietnum but the quiz at asia/vietnam).
+  const country = COUNTRIES.find((c) => c.pageDir === ruleSlug);
+  if (country) return `/quiz/states/${country.continent}/${country.slug}/`;
+
+  return null;
+}
 import {
   colorHandler,
   maruHandler,
@@ -190,7 +217,13 @@ function processAllShortcodes(
   //     just before those layout-injected reference blocks (i.e. as the
   //     last user-content section).
   if (municipalities) {
-    const muniHtml = renderMunicipalitiesHtml(municipalities, pageTitle, lang);
+    const quizUrl = deriveQuizUrl(ruleSlug);
+    const muniHtml = renderMunicipalitiesHtml(
+      municipalities,
+      pageTitle,
+      lang,
+      quizUrl,
+    );
     if (muniHtml) {
       const corpDescOpen = /<div\b[^>]*\bid=["']corp-desc["']/;
       if (corpDescOpen.test(result)) {
