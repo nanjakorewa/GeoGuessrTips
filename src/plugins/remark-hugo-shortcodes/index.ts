@@ -48,17 +48,11 @@ import { COUNTRIES } from "../../data/quiz-states-countries.ts";
 
 /**
  * Map a rule-page slug to the corresponding /quiz/states/ URL, if a quiz
- * page exists for it. Returns null when there's no matching quiz page.
- *
- * Currently gated to Aomori only as a design preview — remove the gate to
- * enable the CTA on all prefecture & country pages with municipalities.
+ * page exists for it. Returns null when there's no matching quiz page
+ * (the renderer then omits the CTA).
  */
 function deriveQuizUrl(ruleSlug: string | null): string | null {
   if (!ruleSlug) return null;
-
-  // ── TEMPORARY: limit the CTA to Aomori for design review.
-  // Remove this guard to enable on every page that has a quiz.
-  if (ruleSlug !== "asia/japan/tohoku/aomori") return null;
 
   // Japan prefecture: asia/japan/{region}/{pref} → /quiz/states/japan/{pref}/
   const prefMatch = ruleSlug.match(/^asia\/japan\/[^/]+\/([^/]+)$/);
