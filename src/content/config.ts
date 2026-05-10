@@ -273,6 +273,7 @@ const quizCollection = defineCollection({
     quiz_group_title: z.string().optional(),
     quiz_group_description: z.string().optional(),
     quiz_group_icon: z.string().optional(),
+    quiz_group_image: z.string().optional(),
   }),
 });
 

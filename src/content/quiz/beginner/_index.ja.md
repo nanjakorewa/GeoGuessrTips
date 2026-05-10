@@ -5,4 +5,5 @@ description: "はじめたての人向けクイズです。ジオゲッサーで
 weight: 1
 pagetype: "quiz-index"
 quiz_group: "beginner"
+quiz_group_image: "/images/quiz-cover/01.jpg"
 ---

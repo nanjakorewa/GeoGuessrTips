@@ -16,18 +16,37 @@ type Continent = {
   name: string;
   desc: string;
   emoji: string;
+  /** Optional card image. When set, shown as the icon and faintly as the
+   *  hover background of the gray icon area. Falls back to an SVG "?". */
+  image?: string;
   url?: string;
 };
 
 const continents: Continent[] = [
+  { slug: "japan",     name: "日本（県別）", desc: "47 都道府県の市町村クイズ", emoji: "🗾",
+    image: "/images/quiz-cover/state/japan.jpg",
+    url: "/quiz/states/japan/" },
   { slug: "n_america", name: "北米",       desc: "アメリカ・カナダ・メキシコ", emoji: "🌎",
+    image: "/images/quiz-cover/state/n_america.jpg",
     url: "/quiz/states/n_america/" },
-  { slug: "cs_america", name: "中南米",    desc: "ブラジル・アルゼンチン ほか", emoji: "🌎" },
-  { slug: "europe",    name: "ヨーロッパ", desc: "ドイツ・フランス・イタリア ほか", emoji: "🌍" },
-  { slug: "asia",      name: "アジア",     desc: "中国・インド・台湾 ほか", emoji: "🌏" },
-  { slug: "oceania",   name: "オセアニア", desc: "オーストラリア・ニュージーランド", emoji: "🌏" },
-  { slug: "middle_east", name: "中東",     desc: "サウジアラビア・トルコ ほか", emoji: "🌍" },
-  { slug: "africa",    name: "アフリカ",   desc: "南アフリカ・エジプト ほか", emoji: "🌍" },
+  { slug: "cs_america", name: "中南米",    desc: "ブラジル・アルゼンチン ほか", emoji: "🌎",
+    image: "/images/quiz-cover/state/cs_america.jpg",
+    url: "/quiz/states/cs_america/" },
+  { slug: "europe",    name: "ヨーロッパ", desc: "ドイツ・フランス・イタリア ほか", emoji: "🌍",
+    image: "/images/quiz-cover/state/europe.jpg",
+    url: "/quiz/states/europe/" },
+  { slug: "asia",      name: "アジア",     desc: "韓国・中国・台湾 ほか", emoji: "🌏",
+    image: "/images/quiz-cover/state/asia.jpg",
+    url: "/quiz/states/asia/" },
+  { slug: "oceania",   name: "オセアニア", desc: "オーストラリア・ニュージーランド", emoji: "🌏",
+    image: "/images/quiz-cover/state/oceania.jpg",
+    url: "/quiz/states/oceania/" },
+  { slug: "middle_east", name: "中東",     desc: "サウジアラビア・トルコ", emoji: "🌍",
+    image: "/images/quiz-cover/state/middle_east.jpg",
+    url: "/quiz/states/middle_east/" },
+  { slug: "africa",    name: "アフリカ",   desc: "南アフリカ・エジプト ほか", emoji: "🌍",
+    image: "/images/quiz-cover/state/africa.jpg",
+    url: "/quiz/states/africa/" },
 ];
 
 const crumbs = [
@@ -51,7 +70,40 @@ const crumbs = [
     collection="quiz"
   />
   <style is:global>
-    .sqh-page { max-width: 980px; margin: 0 auto; padding: 1rem 1rem 2rem; }
+    html, body { min-height: 100vh; }
+    body { display: flex; flex-direction: column; }
+    body > header { flex: 0 0 auto; }
+    body > main { flex: 1 0 auto; display: flex; flex-direction: column; }
+    body > .site-footer, body > footer { flex: 0 0 auto; margin-top: 0; }
+
+    body { overflow-x: hidden; }
+    .sqh-page {
+      width: 100%;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 1rem 1rem 2rem;
+      position: relative;
+      flex: 1 0 auto;
+    }
+    .sqh-page::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 50%;
+      width: 100vw;
+      margin-left: -50vw;
+      background-image: var(--sqh-bg-image, none);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      opacity: 0;
+      transition: opacity 0.45s ease;
+      pointer-events: none;
+      z-index: 0;
+    }
+    .sqh-page.sqh-bg-active::before { opacity: 0.28; }
+    .sqh-page > * { position: relative; z-index: 1; }
     .sqh-breadcrumb {
       list-style: none; padding: 0; margin: 0 0 0.6rem;
       display: flex; flex-wrap: wrap;
@@ -85,7 +137,31 @@ const crumbs = [
       box-shadow: 0 4px 12px rgba(0,0,0,0.08);
     }
     .sqh-card--disabled { pointer-events: none; opacity: 0.45; }
-    .sqh-emoji { font-size: 1.8rem; line-height: 1; }
+    .sqh-icon {
+      position: relative;
+      flex-shrink: 0;
+      width: 64px;
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, rgba(68,110,114,0.08) 0%, rgba(68,110,114,0.03) 100%);
+      border: 1px solid rgba(68,110,114,0.08);
+      overflow: hidden;
+    }
+    .sqh-icon__img {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .sqh-icon__q {
+      width: 30px;
+      height: 30px;
+      color: rgba(68, 110, 114, 0.5);
+    }
     .sqh-card-body { display: flex; flex-direction: column; gap: 0.15rem; }
     .sqh-card-name {
       font-weight: 700; color: #1f3a5c; font-size: 1.05rem;
@@ -120,10 +196,24 @@ const crumbs = [
         {continents.map((c) => (
           <a
             href={c.url ?? "#"}
-            class:list={["sqh-card", { "sqh-card--disabled": !c.url }]}
+            class:list={["sqh-card", {
+              "sqh-card--disabled": !c.url,
+              "sqh-card--has-image": !!c.image,
+            }]}
             aria-disabled={!c.url}
+            data-bg-image={c.image || undefined}
           >
-            <span class="sqh-emoji" aria-hidden="true">{c.emoji}</span>
+            <div class="sqh-icon">
+              {c.image ? (
+                <img src={c.image} alt="" class="sqh-icon__img" loading="lazy" />
+              ) : (
+                <svg class="sqh-icon__q" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                  <circle cx="12" cy="12" r="10"></circle>
+                  <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+                  <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                </svg>
+              )}
+            </div>
             <div class="sqh-card-body">
               <span class="sqh-card-name">{c.name}</span>
               <span class="sqh-card-desc">{c.desc}</span>
@@ -137,5 +227,24 @@ const crumbs = [
 
   <Footer lang={lang} title="州当てクイズ" permalink={canonical} />
   <SearchModal lang={lang} />
+
+  <script is:inline>
+    (function () {
+      const page = document.querySelector(".sqh-page");
+      if (!page) return;
+      const cards = page.querySelectorAll(".sqh-card[data-bg-image]");
+      cards.forEach(function (card) {
+        const url = card.getAttribute("data-bg-image");
+        if (!url) return;
+        card.addEventListener("mouseenter", function () {
+          page.style.setProperty("--sqh-bg-image", "url('" + url + "')");
+          page.classList.add("sqh-bg-active");
+        });
+        card.addEventListener("mouseleave", function () {
+          page.classList.remove("sqh-bg-active");
+        });
+      });
+    })();
+  </script>
 </body>
 </html>

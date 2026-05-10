@@ -1,0 +1,92 @@
+---
+/**
+ * Dynamic Japan prefecture municipality quiz: /quiz/states/japan/{pref}/
+ *
+ * One page per prefecture (47 total). Quiz data comes from each prefecture's
+ * `municipalities` block in its rule entry frontmatter.
+ */
+import fs from "node:fs";
+import path from "node:path";
+import { getCollection } from "astro:content";
+import StateQuizPage from "@components/StateQuizPage.astro";
+
+export async function getStaticPaths() {
+  const allRules = await getCollection("rule");
+  type RuleEntry = (typeof allRules)[number];
+  const prefs = allRules.filter(
+    (e: RuleEntry) =>
+      /^asia\/japan\/[^/]+\/[^/]+\/_index\.ja$/.test(e.id) &&
+      (e.data as any).is_pref === true &&
+      !!(e.data as any).municipalities,
+  );
+  return prefs.map((p: RuleEntry) => {
+    const seg = p.id.split("/");
+    const dir = seg[3];
+    const region = seg[2];
+    const data = p.data as any;
+    return {
+      params: { pref: dir },
+      props: {
+        dir,
+        region,
+        title: data.title as string,
+        munis: data.municipalities,
+      },
+    };
+  });
+}
+
+const { dir, title, munis } = Astro.props as {
+  dir: string;
+  region: string;
+  title: string;
+  munis: { svg: string; list: { code: string; name: string }[] };
+};
+
+// Inline the SVG.
+const svgFsPath = path.join(process.cwd(), "public", munis.svg.replace(/^\/+/, ""));
+const svgRaw = fs.readFileSync(svgFsPath, "utf8");
+const codesInSvg = new Set(
+  Array.from(svgRaw.matchAll(/data-code="([^"]+)"/g), (m) => m[1])
+);
+const inlinedSvg = svgRaw
+  .replace(/<\?xml[^?]*\?>\s*/, "")
+  .replace(/<svg\b/, '<svg id="sq-map"');
+
+// For prefectures the same data-code can appear on multiple paths
+// (designated-city wards roll up into one parent city). Dedupe by code.
+const codeSeen = new Set<string>();
+const quizStates: { code: string; name: string }[] = [];
+for (const item of munis.list) {
+  if (!codesInSvg.has(item.code)) continue;
+  if (codeSeen.has(item.code)) continue;
+  codeSeen.add(item.code);
+  quizStates.push({ code: item.code, name: item.name });
+}
+
+// Friendly title: "秋田" → "秋田県" (if not already suffixed)
+const SUFFIX_OK = /[県府都道]$/;
+const prefDisplay = SUFFIX_OK.test(title) ? title : title + (title === "東京" ? "都" : title === "京都" || title === "大阪" ? "府" : title === "北海道" ? "" : "県");
+
+const site = "https://geopinning.space";
+const canonical = `${site}/quiz/states/japan/${dir}/`;
+
+const breadcrumbs = [
+  { name: "トップ", url: "/" },
+  { name: "クイズ", url: "/quiz/" },
+  { name: "州当てクイズ", url: "/quiz/states/" },
+  { name: "日本（県別）", url: "/quiz/states/japan/" },
+  { name: prefDisplay, url: `/quiz/states/japan/${dir}/` },
+];
+---
+<StateQuizPage
+  pageTitle={`${prefDisplay}の市町村クイズ｜地図で正しい場所をクリック`}
+  pageDescription={`${prefDisplay}の市町村を地図上で当てるクイズ。連続正解の最高記録に挑戦しよう。`}
+  canonical={canonical}
+  pageH1={`${prefDisplay}の市町村クイズ`}
+  prompt="この市町村はどこ？"
+  storageKey={`sq-best:japan-${dir}`}
+  breadcrumbs={breadcrumbs}
+  quizStates={quizStates}
+  inlinedSvg={inlinedSvg}
+/>

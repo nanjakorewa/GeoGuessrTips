@@ -81,6 +81,7 @@ const groups = groupEntries.map((g: any) => {
     title: g.data.title,
     description: g.data.description || "",
     icon: g.data.quiz_group_icon || "🌍",
+    image: g.data.quiz_group_image as string | undefined,
     url: gUrl,
     count,
     diffs,
@@ -90,12 +91,32 @@ const groups = groupEntries.map((g: any) => {
 // Interactive (client-side) quizzes that are not part of the content collection.
 // Only surfaced on the Japanese hub for now since the dataset is JP-only.
 if (lang === "ja") {
+  // 州当てクイズ: count countries+prefectures with municipality data.
+  // Each card on /quiz/states/ links to one of these pages.
+  const ruleEntries = await getCollection("rule");
+  const stateQuizPages = ruleEntries.filter(
+    (e: any) =>
+      extractLangFromId(e.id) === "ja" && (e.data as any).municipalities,
+  );
+  groups.push({
+    title: "州当てクイズ",
+    description:
+      "出題された州・地域・市町村を地図上の正しい場所をクリックして当てよう。日本47県＋世界主要国に対応。",
+    icon: "",
+    image: "/images/quiz-cover/03.jpg",
+    url: "/quiz/states/",
+    count: stateQuizPages.length,
+    unit: "ページ",
+    diffs: [0, 0, 0, 0],
+  });
+
   const municipalityCount = Object.values(municipalitiesData as Record<string, string[]>)
     .reduce((acc, prs) => acc + prs.length, 0);
   groups.push({
     title: "自治体クイズ",
     description: "ランダムに出題される自治体名から、その都道府県をすべて当てよう。",
     icon: "🏯",
+    image: "/images/quiz-cover/04.jpg",
     url: "/quiz/municipality/",
     count: municipalityCount,
     diffs: [0, 0, 0, 0],
@@ -106,6 +127,7 @@ if (lang === "ja") {
     title: "市外局番クイズ",
     description: "番号区画名（札幌、岩見沢など）から市外局番を入力して当てよう。",
     icon: "📞",
+    image: "/images/quiz-cover/06.jpg",
     url: "/quiz/areacode/",
     count: areacodeCount,
     diffs: [0, 0, 0, 0],
@@ -116,6 +138,7 @@ if (lang === "ja") {
     title: "国道クイズ",
     description: "ランダム出題される国道X号の起点・終点の都道府県を当てよう。",
     icon: "🛣️",
+    image: "/images/quiz-cover/05.jpg",
     url: "/quiz/highway/",
     count: highwayCount,
     diffs: [0, 0, 0, 0],
@@ -141,11 +164,36 @@ if (lang === "ja") {
     collection={collection}
   />
   <style>
+    body { overflow-x: hidden; }
     .qh-container {
       max-width: 860px;
       margin: 0 auto;
       padding: 2rem 1rem 3rem;
+      position: relative;
     }
+    /* Hover background: when a card with an image is hovered, JS sets
+       --qh-bg-image and adds .qh-bg-active to fade the image in. The
+       ::before extends to the full viewport width via the 50% / -50vw
+       trick so the image fills the page edge-to-edge. */
+    .qh-container::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 50%;
+      width: 100vw;
+      margin-left: -50vw;
+      background-image: var(--qh-bg-image, none);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      opacity: 0;
+      transition: opacity 0.45s ease;
+      pointer-events: none;
+      z-index: 0;
+    }
+    .qh-container.qh-bg-active::before { opacity: 0.28; }
+    .qh-container > * { position: relative; z-index: 1; }
 
     /* Hero */
     .qh-hero {
@@ -193,6 +241,7 @@ if (lang === "ja") {
 
     /* Icon area */
     .qh-group-icon {
+      position: relative;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -202,7 +251,22 @@ if (lang === "ja") {
       font-size: 2.5rem;
       flex-shrink: 0;
       border-right: 1px solid var(--border-soft);
+      overflow: hidden;
     }
+    .qh-group-icon__img {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .qh-group-icon__q {
+      width: 40px;
+      height: 40px;
+      color: rgba(68, 110, 114, 0.5);
+    }
+    [data-theme="dark"] .qh-group-icon__q { color: rgba(180, 200, 205, 0.55); }
 
     /* Body */
     .qh-group-body {
@@ -287,6 +351,7 @@ if (lang === "ja") {
       .qh-container { padding: 1.2rem 0.75rem 2rem; }
       .qh-hero h1 { font-size: 1.5rem; }
       .qh-group-icon { width: 72px; min-height: 90px; font-size: 2rem; }
+      .qh-group-icon__q { width: 30px; height: 30px; }
       .qh-group-body { padding: 0.9rem 1rem; }
       .qh-group-title { font-size: 1.05rem; }
       .qh-group-arrow { padding: 0 0.8rem; }
@@ -315,14 +380,28 @@ if (lang === "ja") {
 
     <div class="qh-groups">
       {groups.map((g: any) => (
-        <a class="qh-group" href={g.url}>
-          <div class="qh-group-icon">{g.icon}</div>
+        <a
+          class:list={["qh-group", { "qh-group--has-image": !!g.image }]}
+          href={g.url}
+          data-bg-image={g.image || undefined}
+        >
+          <div class="qh-group-icon">
+            {g.image ? (
+              <img src={g.image} alt="" class="qh-group-icon__img" loading="lazy" />
+            ) : (
+              <svg class="qh-group-icon__q" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="12" cy="12" r="10"></circle>
+                <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+                <line x1="12" y1="17" x2="12.01" y2="17"></line>
+              </svg>
+            )}
+          </div>
           <div class="qh-group-body">
             <h2 class="qh-group-title">{g.title}</h2>
             {g.description && <p class="qh-group-desc">{g.description}</p>}
             <div class="qh-group-meta">
               <span class="qh-group-count">
-                {g.count}{t("quiz_count_unit", lang)}
+                {g.count}{g.unit ?? t("quiz_count_unit", lang)}
               </span>
               <div class="qh-group-diff">
                 {g.diffs[1] > 0 && <span class="qh-diff-tag" data-diff="1">{(difficultyLabels[lang] || difficultyLabels.en)[1]} {g.diffs[1]}</span>}
@@ -339,5 +418,24 @@ if (lang === "ja") {
 
   <Footer lang={lang} title={data.title} permalink={canonical} translations={translationUrls} />
   <SearchModal lang={lang} />
+
+  <script is:inline>
+    (function () {
+      const container = document.querySelector(".qh-container");
+      if (!container) return;
+      const cards = container.querySelectorAll(".qh-group[data-bg-image]");
+      cards.forEach(function (card) {
+        const url = card.getAttribute("data-bg-image");
+        if (!url) return;
+        card.addEventListener("mouseenter", function () {
+          container.style.setProperty("--qh-bg-image", "url('" + url + "')");
+          container.classList.add("qh-bg-active");
+        });
+        card.addEventListener("mouseleave", function () {
+          container.classList.remove("qh-bg-active");
+        });
+      });
+    })();
+  </script>
 </body>
 </html>

@@ -5,4 +5,5 @@ description: "道路脇のボラード（車止め・視線誘導標）の画像
 weight: 2
 pagetype: "quiz-index"
 quiz_group: "bollard"
+quiz_group_image: "/images/quiz-cover/02.jpg"
 ---

@@ -1,0 +1,193 @@
+---
+/**
+ * Japan prefecture hub: /quiz/states/japan/
+ *
+ * Lists all 47 prefectures grouped by region, each linking to its
+ * municipality-level quiz at /quiz/states/japan/{prefDir}/.
+ */
+import { getCollection } from "astro:content";
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+
+const lang = "ja" as const;
+const site = "https://geopinning.space";
+const pageTitle = "日本の市町村クイズ｜都道府県を選ぶ";
+const pageDescription =
+  "47 都道府県の市町村を地図上で当てるクイズ。県を選ぶとその県の市町村クイズが始まります。";
+const canonical = `${site}/quiz/states/japan/`;
+
+// All 47 prefecture rule entries.
+const allRules = await getCollection("rule");
+type RuleEntry = (typeof allRules)[number];
+const prefEntries = allRules
+  .filter(
+    (e: RuleEntry) =>
+      /^asia\/japan\/[^/]+\/[^/]+\/_index\.ja$/.test(e.id) &&
+      (e.data as any).is_pref === true,
+  )
+  .map((e: RuleEntry) => {
+    const seg = e.id.split("/");
+    return {
+      dir: seg[3],
+      region: seg[2],
+      title: e.data.title as string,
+      flag: (e.data as any).flag as string | undefined,
+      count: (e.data as any).municipalities?.list?.length ?? 0,
+      hasQuiz: !!(e.data as any).municipalities,
+    };
+  });
+
+// Group by region with a stable order.
+const REGION_ORDER = [
+  "tohoku",   // 東北 (Hokkaido is bundled here in the existing repo layout)
+  "kanto",    // 関東
+  "chubu",    // 中部
+  "kinki",    // 近畿
+  "chugoku",  // 中国
+  "shikoku",  // 四国
+  "kyusyu",   // 九州・沖縄
+];
+const REGION_JA: Record<string, string> = {
+  tohoku: "北海道・東北",
+  kanto: "関東",
+  chubu: "中部",
+  kinki: "近畿",
+  chugoku: "中国地方",
+  shikoku: "四国",
+  kyusyu: "九州・沖縄",
+};
+const grouped = REGION_ORDER.map((r) => ({
+  region: r,
+  ja: REGION_JA[r] ?? r,
+  prefs: prefEntries
+    .filter((p) => p.region === r && p.hasQuiz)
+    .sort((a, b) => a.dir.localeCompare(b.dir)),
+}));
+
+const crumbs = [
+  { name: "トップ", url: "/" },
+  { name: "クイズ", url: "/quiz/" },
+  { name: "州当てクイズ", url: "/quiz/states/" },
+  { name: "日本（県別）", url: "/quiz/states/japan/" },
+];
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <Head
+    title={pageTitle}
+    description={pageDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={`${site}/images/icon-512x512.png`}
+    ogType="website"
+    breadcrumbs={crumbs}
+    collection="quiz"
+  />
+  <style is:global>
+    html, body { min-height: 100vh; }
+    body { display: flex; flex-direction: column; }
+    body > header { flex: 0 0 auto; }
+    body > main { flex: 1 0 auto; }
+    body > .site-footer, body > footer { flex: 0 0 auto; margin-top: 0; }
+
+    .sjp-page { max-width: 1100px; margin: 0 auto; padding: 1rem 1rem 2rem; }
+    .sjp-breadcrumb {
+      list-style: none; padding: 0; margin: 0 0 0.6rem;
+      display: flex; flex-wrap: wrap;
+      font-size: 0.78rem; color: rgba(60,60,60,0.7);
+    }
+    .sjp-breadcrumb li::after { content: "›"; margin: 0 0.4em; color: rgba(120,120,120,0.6); }
+    .sjp-breadcrumb li:last-child::after { content: ""; }
+    .sjp-breadcrumb a { color: inherit; text-decoration: none; }
+    .sjp-breadcrumb a:hover { text-decoration: underline; }
+    .sjp-title { font-size: 1.5rem; font-weight: 800; color: #1f3a5c; margin: 0 0 0.4rem; }
+    .sjp-desc { color: #4a5568; margin: 0 0 1.4rem; line-height: 1.6; font-size: 0.95rem; }
+
+    .sjp-region {
+      margin-bottom: 1.4rem;
+    }
+    .sjp-region__label {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: #1f4d80;
+      letter-spacing: 0.05em;
+      margin: 0 0 0.45rem;
+      padding-bottom: 0.3rem;
+      border-bottom: 1px dashed #d6deea;
+    }
+    .sjp-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 0.55rem;
+    }
+    .sjp-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.7rem 0.5rem;
+      background: #fff;
+      border: 1px solid #d6deea;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.12s, border-color 0.12s, box-shadow 0.12s;
+    }
+    .sjp-card:hover {
+      transform: translateY(-2px);
+      border-color: #1f4d80;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+    .sjp-flag {
+      width: 60px; height: 40px; object-fit: contain;
+      background: #f6f9fd; border: 1px solid #e1e6ec;
+    }
+    .sjp-name { font-weight: 700; color: #1f3a5c; font-size: 0.95rem; }
+    .sjp-meta { font-size: 0.72rem; color: #6b7a8d; }
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+
+  <main>
+    <div class="sjp-page">
+      <ol class="sjp-breadcrumb">
+        {crumbs.map((c, i) => (
+          <li>{i === crumbs.length - 1 ? c.name : <a href={c.url}>{c.name}</a>}</li>
+        ))}
+      </ol>
+      <h1 class="sjp-title">日本の市町村クイズ</h1>
+      <p class="sjp-desc">
+        都道府県を選ぶと、その県の市町村を地図上で当てるクイズが始まります。
+      </p>
+
+      {grouped.map((g) => (
+        g.prefs.length > 0 && (
+          <section class="sjp-region">
+            <div class="sjp-region__label">{g.ja}</div>
+            <div class="sjp-grid">
+              {g.prefs.map((p) => (
+                <a href={`/quiz/states/japan/${p.dir}/`} class="sjp-card">
+                  {p.flag && (
+                    <img src={`/flags/${p.flag}`} alt={`${p.title}の旗`} class="sjp-flag" loading="lazy" />
+                  )}
+                  <div class="sjp-name">{p.title}</div>
+                  <div class="sjp-meta">市町村 {p.count} 件</div>
+                </a>
+              ))}
+            </div>
+          </section>
+        )
+      ))}
+    </div>
+  </main>
+
+  <Footer lang={lang} title="日本の市町村クイズ" permalink={canonical} />
+  <SearchModal lang={lang} />
+</body>
+</html>

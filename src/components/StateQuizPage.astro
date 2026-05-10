@@ -1,56 +1,57 @@
 ---
-import fs from "node:fs";
-import path from "node:path";
-import yaml from "js-yaml";
+/**
+ * Shared state-quiz page renderer.
+ *
+ * Used by /quiz/states/[continent]/[country].astro and
+ * /quiz/states/japan/[pref].astro to render the actual quiz UI. The quiz
+ * data (state list + inlined SVG) is computed by the calling page from the
+ * rule collection's `municipalities` block.
+ */
 import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
 
+interface QuizItem {
+  code: string;
+  name: string;
+}
+interface Crumb {
+  name: string;
+  url: string;
+}
+
+interface Props {
+  pageTitle: string;
+  pageDescription: string;
+  canonical: string;
+  /** Visible H1 in the score bar, e.g. "アメリカの州当てクイズ" */
+  pageH1: string;
+  /** Visible prompt above the question name, e.g. "この州はどこ？" */
+  prompt: string;
+  /** localStorage key for best-streak persistence */
+  storageKey: string;
+  breadcrumbs: Crumb[];
+  /** [{ code, name }] — only items whose code appears in the SVG are quizzed */
+  quizStates: QuizItem[];
+  /** Inlined SVG markup (with id="sq-map" already injected) */
+  inlinedSvg: string;
+}
+
+const {
+  pageTitle,
+  pageDescription,
+  canonical,
+  pageH1,
+  prompt,
+  storageKey,
+  breadcrumbs,
+  quizStates,
+  inlinedSvg,
+} = Astro.props as Props;
+
 const lang = "ja" as const;
 const site = "https://geopinning.space";
-const pageTitle = "アメリカの州当てクイズ｜地図で正しい州をクリック";
-const pageDescription =
-  "出題された州名を読み、アメリカ合衆国の地図上で正しい州をクリックして当てるクイズ。連続正解の最高記録に挑戦しよう。";
-const canonical = `${site}/quiz/states/n_america/usa/`;
-
-// --- Load USA subdivisions from frontmatter (single source of truth) ---
-const usaMd = fs.readFileSync(
-  path.join(process.cwd(), "src/content/rule/n_america/usa/_index.ja.md"),
-  "utf8",
-);
-const fmText = usaMd.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] ?? "";
-const fm: any = yaml.load(fmText);
-const allStates: { code: string; name: string; type?: string; note?: string }[] =
-  fm?.municipalities?.list ?? [];
-
-// --- Load the SVG and figure out which codes are clickable on the map ---
-// Alaska / Hawaii are intentionally excluded from the SVG to keep the
-// contiguous 48 readable; we only quiz codes whose paths exist.
-const svgRaw = fs.readFileSync(
-  path.join(process.cwd(), "public/maps/countries/usa.svg"),
-  "utf8",
-);
-const codesInSvg = new Set(
-  Array.from(svgRaw.matchAll(/data-code="([^"]+)"/g), (m) => m[1]),
-);
-// Strip the XML decl so we can inline the SVG into HTML.
-const inlinedSvg = svgRaw
-  .replace(/<\?xml[^?]*\?>\s*/, "")
-  .replace(/<svg\b/, '<svg id="sq-map"');
-
-// Quiz pool: only states present in the SVG.
-const quizStates = allStates
-  .filter((s) => codesInSvg.has(s.code))
-  .map((s) => ({ code: s.code, name: s.name }));
-
-const crumbs = [
-  { name: "トップ", url: "/" },
-  { name: "クイズ", url: "/quiz/" },
-  { name: "州当てクイズ", url: "/quiz/states/" },
-  { name: "北米", url: "/quiz/states/n_america/" },
-  { name: "アメリカ", url: "/quiz/states/n_america/usa/" },
-];
 ---
 
 <!DOCTYPE html>
@@ -63,12 +64,12 @@ const crumbs = [
     canonical={canonical}
     ogImage={`${site}/images/icon-512x512.png`}
     ogType="website"
-    breadcrumbs={crumbs}
+    breadcrumbs={breadcrumbs}
     collection="quiz"
   />
   <style is:global>
     /* ============================================
-       State Quiz (sq-) — USA prototype
+       State Quiz (sq-) — shared template
        ============================================ */
     html, body { min-height: 100vh; }
     body { overflow-x: hidden; display: flex; flex-direction: column; }
@@ -81,7 +82,6 @@ const crumbs = [
       margin: 0 auto;
       padding: 0.8rem 1rem 1.2rem;
     }
-    /* 2-column layout: left ad column + main quiz */
     .sq-layout {
       display: grid;
       grid-template-columns: 200px minmax(0, 1fr);
@@ -90,7 +90,7 @@ const crumbs = [
     }
     .sq-ad-col {
       position: sticky;
-      top: 64px; /* below sticky navbar (52px) */
+      top: 64px;
     }
     .sq-ad-col__label {
       font-size: 0.7rem;
@@ -107,11 +107,12 @@ const crumbs = [
       .sq-layout { grid-template-columns: 1fr; }
       .sq-ad-col {
         position: static;
-        order: 99; /* ad after content on narrow screens */
+        order: 99;
         min-height: 100px;
       }
       .sq-ad-col ins.adsbygoogle { min-height: 100px; }
     }
+
     .sq-breadcrumb {
       list-style: none;
       padding: 0; margin: 0 0 0.5rem 0;
@@ -129,7 +130,6 @@ const crumbs = [
     .sq-breadcrumb a { color: inherit; text-decoration: none; }
     .sq-breadcrumb a:hover { text-decoration: underline; }
 
-    /* Header bar: title + score */
     .sq-bar {
       display: flex;
       align-items: center;
@@ -167,7 +167,6 @@ const crumbs = [
     }
     .sq-stat--best { background: rgba(124,58,237,0.13); color: #6b21a8; }
 
-    /* Question card */
     .sq-question {
       text-align: center;
       padding: 0.85rem 1rem;
@@ -198,7 +197,6 @@ const crumbs = [
       border-color: rgba(192,57,43,0.55);
     }
 
-    /* Map */
     .sq-map-wrap {
       position: relative;
       background: #f6f9fd;
@@ -210,13 +208,46 @@ const crumbs = [
       width: 100%;
       height: auto;
       max-height: 70vh;
-      touch-action: none; /* allow custom touch handling */
+      touch-action: none;
       -webkit-user-select: none;
       user-select: none;
     }
     .sq-map-wrap.sq-panning #sq-map { cursor: grabbing; }
     .sq-map-wrap.sq-zoomed #sq-map { cursor: grab; }
-    /* Zoom control buttons */
+    #sq-map path {
+      fill: #eaf2fb;
+      stroke: #5b7fa8;
+      stroke-width: 0.6;
+      cursor: pointer;
+      transition: fill 0.18s, stroke 0.18s;
+    }
+    #sq-map path:hover { fill: #d0e0f4; }
+    #sq-map path.sq-correct,
+    #sq-map path.sq-correct:hover {
+      fill: #4a9e5c !important;
+      stroke: #2c6f3c !important;
+      stroke-width: 1.1 !important;
+    }
+    #sq-map path.sq-wrong,
+    #sq-map path.sq-wrong:hover {
+      fill: #d35a4d !important;
+      stroke: #9a2d24 !important;
+      stroke-width: 1.1 !important;
+    }
+    #sq-map path.sq-reveal,
+    #sq-map path.sq-reveal:hover {
+      fill: #ffd082 !important;
+      stroke: #c97a18 !important;
+      stroke-width: 1.4 !important;
+      animation: sq-pulse 0.7s ease-in-out;
+    }
+    @keyframes sq-pulse {
+      0%   { fill: #ffd082; }
+      50%  { fill: #ffba50; }
+      100% { fill: #ffd082; }
+    }
+    .sq-page.is-finished #sq-map path { cursor: default; }
+
     .sq-zoom-controls {
       position: absolute;
       top: 18px;
@@ -242,54 +273,11 @@ const crumbs = [
       box-shadow: 0 1px 3px rgba(0,0,0,0.08);
       transition: background 0.12s, border-color 0.12s;
     }
-    .sq-zoom-btn:hover {
-      background: #eef3f9;
-      border-color: #1f4d80;
-    }
+    .sq-zoom-btn:hover { background: #eef3f9; border-color: #1f4d80; }
     .sq-zoom-btn:active { background: #d6e2f0; }
-    .sq-zoom-btn[disabled] {
-      opacity: 0.4;
-      cursor: not-allowed;
-    }
+    .sq-zoom-btn[disabled] { opacity: 0.4; cursor: not-allowed; }
     .sq-zoom-btn--reset { font-size: 0.75rem; font-weight: 600; }
-    /* Default state look */
-    #sq-map path {
-      fill: #eaf2fb;
-      stroke: #5b7fa8;
-      stroke-width: 0.6;
-      cursor: pointer;
-      transition: fill 0.18s, stroke 0.18s;
-    }
-    #sq-map path:hover { fill: #d0e0f4; }
-    /* Locked-in feedback */
-    #sq-map path.sq-correct,
-    #sq-map path.sq-correct:hover {
-      fill: #4a9e5c !important;
-      stroke: #2c6f3c !important;
-      stroke-width: 1.1 !important;
-    }
-    #sq-map path.sq-wrong,
-    #sq-map path.sq-wrong:hover {
-      fill: #d35a4d !important;
-      stroke: #9a2d24 !important;
-      stroke-width: 1.1 !important;
-    }
-    #sq-map path.sq-reveal,
-    #sq-map path.sq-reveal:hover {
-      fill: #ffd082 !important;
-      stroke: #c97a18 !important;
-      stroke-width: 1.4 !important;
-      animation: sq-pulse 0.7s ease-in-out;
-    }
-    @keyframes sq-pulse {
-      0%   { fill: #ffd082; }
-      50%  { fill: #ffba50; }
-      100% { fill: #ffd082; }
-    }
-    /* While quiz is over the map turns gray to signal completion */
-    .sq-page.is-finished #sq-map path { cursor: default; }
 
-    /* Action row */
     .sq-actions {
       display: flex;
       gap: 0.5rem;
@@ -315,7 +303,6 @@ const crumbs = [
     }
     .sq-btn--primary:hover { background: #163a63; }
 
-    /* End-of-quiz summary */
     .sq-summary {
       text-align: center;
       padding: 1rem 1rem 1.2rem;
@@ -353,8 +340,8 @@ const crumbs = [
   <main>
     <div class="sq-page" id="sq-page">
       <ol class="sq-breadcrumb">
-        {crumbs.map((c, i) => (
-          <li>{i === crumbs.length - 1 ? c.name : <a href={c.url}>{c.name}</a>}</li>
+        {breadcrumbs.map((c, i) => (
+          <li>{i === breadcrumbs.length - 1 ? c.name : <a href={c.url}>{c.name}</a>}</li>
         ))}
       </ol>
 
@@ -372,7 +359,7 @@ const crumbs = [
 
         <div class="sq-content-col">
           <div class="sq-bar">
-            <h1 class="sq-title">アメリカの州当てクイズ</h1>
+            <h1 class="sq-title">{pageH1}</h1>
             <div class="sq-stats">
               <span class="sq-stat sq-stat--streak">🔥 連続: <span id="sq-streak">0</span></span>
               <span class="sq-stat sq-stat--best">🏆 最高: <span id="sq-best">0</span></span>
@@ -383,7 +370,7 @@ const crumbs = [
           </div>
 
           <div class="sq-question" id="sq-question">
-            <div class="sq-prompt">この州はどこ？</div>
+            <div class="sq-prompt">{prompt}</div>
             <div class="sq-state-name" id="sq-state-name">読み込み中…</div>
           </div>
 
@@ -412,13 +399,12 @@ const crumbs = [
     </div>
   </main>
 
-  <Footer lang={lang} title="アメリカの州当てクイズ" permalink={canonical} />
+  <Footer lang={lang} title={pageH1} permalink={canonical} />
   <SearchModal lang={lang} />
 
-  <script is:inline define:vars={{ quizStates }}>
+  <script is:inline define:vars={{ quizStates, storageKey }}>
     (function () {
-      const STORAGE_KEY = "sq-best:usa";
-      // Visual delays (ms)
+      const STORAGE_KEY = storageKey;
       const ADVANCE_OK = 550;
       const ADVANCE_NG = 1700;
 
@@ -445,32 +431,26 @@ const crumbs = [
         return { x: vb[0], y: vb[1], w: vb[2], h: vb[3] };
       })();
       let vb = { ...initialVb };
-      const MIN_SCALE = 1; // can't zoom out smaller than initial fit
-      const MAX_SCALE = 8; // zoom in up to 8x
+      const MAX_SCALE = 8;
 
       function setViewBox() {
         map.setAttribute("viewBox", vb.x + " " + vb.y + " " + vb.w + " " + vb.h);
         const isZoomed = vb.w < initialVb.w * 0.99;
         mapWrap.classList.toggle("sq-zoomed", isZoomed);
       }
-
-      // Convert client (px) coords to SVG user-space coords using current viewBox.
       function clientToSvg(clientX, clientY) {
         const r = map.getBoundingClientRect();
         const px = (clientX - r.left) / r.width;
         const py = (clientY - r.top) / r.height;
         return { x: vb.x + px * vb.w, y: vb.y + py * vb.h };
       }
-
       function clampVb() {
-        // Don't let viewBox shrink below initial 1/MAX_SCALE or grow above initial.
         const minW = initialVb.w / MAX_SCALE;
         const minH = initialVb.h / MAX_SCALE;
         if (vb.w < minW) { vb.w = minW; }
         if (vb.h < minH) { vb.h = minH; }
         if (vb.w > initialVb.w) { vb.w = initialVb.w; }
         if (vb.h > initialVb.h) { vb.h = initialVb.h; }
-        // Pan boundaries: at most 30% of viewBox can extend outside initial.
         const slackX = vb.w * 0.3;
         const slackY = vb.h * 0.3;
         const minX = initialVb.x - slackX;
@@ -482,14 +462,11 @@ const crumbs = [
         if (vb.y < minY) vb.y = minY;
         if (vb.y > maxY) vb.y = maxY;
       }
-
       function zoomTo(factor, anchorX, anchorY) {
-        // Zoom while keeping the anchor point (in client coords) stable.
         let svgPt;
         if (anchorX != null && anchorY != null) {
           svgPt = clientToSvg(anchorX, anchorY);
         } else {
-          // Default: center of current view
           svgPt = { x: vb.x + vb.w / 2, y: vb.y + vb.h / 2 };
         }
         const newW = vb.w / factor;
@@ -500,7 +477,6 @@ const crumbs = [
         clampVb();
         setViewBox();
       }
-
       function resetZoom() {
         vb = { ...initialVb };
         setViewBox();
@@ -510,34 +486,26 @@ const crumbs = [
       $("sq-zoom-out").addEventListener("click", (e) => { e.preventDefault(); zoomTo(1 / 1.5); });
       $("sq-zoom-reset").addEventListener("click", (e) => { e.preventDefault(); resetZoom(); });
 
-      // Mouse wheel zoom
       mapWrap.addEventListener("wheel", (e) => {
         e.preventDefault();
         const factor = e.deltaY < 0 ? 1.18 : 1 / 1.18;
         zoomTo(factor, e.clientX, e.clientY);
       }, { passive: false });
 
-      // Drag-to-pan + click distinction
-      const DRAG_THRESHOLD = 5; // pixels — below this counts as a click
+      const DRAG_THRESHOLD = 5;
       let dragState = null;
       let suppressNextClick = false;
 
       mapWrap.addEventListener("pointerdown", (e) => {
         if (e.button !== 0 && e.pointerType !== "touch") return;
-        // Don't pan when interacting with zoom controls
         if (e.target.closest(".sq-zoom-controls")) return;
         dragState = {
           startX: e.clientX, startY: e.clientY,
           vbX: vb.x, vbY: vb.y,
-          dragged: false,
-          captured: false,
+          dragged: false, captured: false,
           pointerId: e.pointerId,
         };
-        // NOTE: do NOT call setPointerCapture here — capturing the pointer
-        // suppresses the synthesized click event in most browsers, which
-        // breaks the answer-by-click behavior for taps that don't drag.
       });
-
       mapWrap.addEventListener("pointermove", (e) => {
         if (!dragState || e.pointerId !== dragState.pointerId) return;
         const dx = e.clientX - dragState.startX;
@@ -546,9 +514,6 @@ const crumbs = [
         if (!dragState.dragged && dist > DRAG_THRESHOLD) {
           dragState.dragged = true;
           mapWrap.classList.add("sq-panning");
-          // Capture only once we know this is a drag — keeps the pan smooth
-          // even if the pointer leaves the map, while letting non-drag taps
-          // dispatch click normally.
           try {
             mapWrap.setPointerCapture(e.pointerId);
             dragState.captured = true;
@@ -562,13 +527,9 @@ const crumbs = [
           setViewBox();
         }
       });
-
       function endDrag(e) {
         if (!dragState || (e && e.pointerId !== dragState.pointerId)) return;
         if (dragState.dragged) {
-          // Pan ended — suppress the upcoming click event. Auto-clear after
-          // a short timeout so we don't accidentally swallow the next real
-          // click if no click event followed (e.g. capture was active).
           suppressNextClick = true;
           setTimeout(() => { suppressNextClick = false; }, 120);
         }
@@ -581,6 +542,7 @@ const crumbs = [
       mapWrap.addEventListener("pointerup", endDrag);
       mapWrap.addEventListener("pointercancel", endDrag);
 
+      // ============ Quiz state ============
       function shuffle(arr) {
         const a = arr.slice();
         for (let i = a.length - 1; i > 0; i--) {
@@ -597,16 +559,13 @@ const crumbs = [
       let streak = 0;
       let bestThisRound = 0;
       let lastAdvanceTimer = null;
-      let locked = false; // prevent double-clicks while feedback is shown
+      let locked = false;
 
-      // Best streak persisted across sessions.
       function getBest() {
         const v = parseInt(localStorage.getItem(STORAGE_KEY) || "0", 10);
         return isNaN(v) ? 0 : v;
       }
-      function setBest(v) {
-        localStorage.setItem(STORAGE_KEY, String(v));
-      }
+      function setBest(v) { localStorage.setItem(STORAGE_KEY, String(v)); }
       let bestAllTime = getBest();
       elBest.textContent = String(bestAllTime);
 
@@ -615,12 +574,8 @@ const crumbs = [
           p.classList.remove("sq-correct", "sq-wrong", "sq-reveal");
         });
       }
-
       function showQuestion() {
-        if (index >= queue.length) {
-          finish();
-          return;
-        }
+        if (index >= queue.length) { finish(); return; }
         const q = queue[index];
         stateNameEl.textContent = q.name;
         questionEl.classList.remove("is-correct", "is-wrong");
@@ -628,14 +583,12 @@ const crumbs = [
         elRemaining.textContent = String(queue.length - index);
         locked = false;
       }
-
       function updateScores() {
         elCorrect.textContent = String(correct);
         elWrong.textContent = String(wrong);
         elStreak.textContent = String(streak);
         elBest.textContent = String(bestAllTime);
       }
-
       function recordAnswer(isCorrect) {
         if (isCorrect) {
           correct++;
@@ -651,15 +604,13 @@ const crumbs = [
         }
         updateScores();
       }
+      function advance() { index++; showQuestion(); }
 
-      function advance() {
-        index++;
-        showQuestion();
+      function cssEscape(s) {
+        return String(s).replace(/(["\\])/g, "\\$1");
       }
-
       function handleClick(e) {
         if (suppressNextClick) {
-          // The pointer ended a pan, not a click — ignore.
           suppressNextClick = false;
           return;
         }
@@ -672,14 +623,15 @@ const crumbs = [
 
         locked = true;
         if (clicked === q.code) {
-          path.classList.add("sq-correct");
+          // Mark all paths sharing this code (multi-path subdivisions)
+          map
+            .querySelectorAll('path[data-code="' + cssEscape(q.code) + '"]')
+            .forEach((p) => p.classList.add("sq-correct"));
           questionEl.classList.add("is-correct");
           recordAnswer(true);
           lastAdvanceTimer = setTimeout(advance, ADVANCE_OK);
         } else {
           path.classList.add("sq-wrong");
-          // Highlight the correct one(s) — there may be multiple paths sharing
-          // the same data-code (designated-city wards), but for USA each is unique.
           map
             .querySelectorAll('path[data-code="' + cssEscape(q.code) + '"]')
             .forEach((p) => p.classList.add("sq-reveal"));
@@ -688,12 +640,6 @@ const crumbs = [
           lastAdvanceTimer = setTimeout(advance, ADVANCE_NG);
         }
       }
-
-      function cssEscape(s) {
-        // Minimal — we control the codes and they only contain letters/digits/dash.
-        return String(s).replace(/(["\\])/g, "\\$1");
-      }
-
       function skipCurrent() {
         if (locked) return;
         const q = queue[index];
@@ -706,7 +652,6 @@ const crumbs = [
         recordAnswer(false);
         lastAdvanceTimer = setTimeout(advance, ADVANCE_NG);
       }
-
       function finish() {
         page.classList.add("is-finished");
         elSummaryTotal.textContent = String(queue.length);
@@ -717,7 +662,6 @@ const crumbs = [
         stateNameEl.textContent = "終了！";
         elRemaining.textContent = "0";
       }
-
       function restart() {
         if (lastAdvanceTimer) {
           clearTimeout(lastAdvanceTimer);
@@ -737,11 +681,9 @@ const crumbs = [
         showQuestion();
       }
 
-      // Wire up
       map.addEventListener("click", handleClick);
       $("sq-skip").addEventListener("click", skipCurrent);
       $("sq-restart").addEventListener("click", restart);
-      // Boot
       restart();
     })();
   </script>
