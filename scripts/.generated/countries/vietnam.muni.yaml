@@ -1,0 +1,307 @@
+municipalities:
+  svg: "/maps/countries/vietnam.svg"
+  title:
+    ja: "ベトナムの省・直轄市"
+    en: "Provinces of Vietnam"
+  list:
+    - code: "VN-28"
+      name: "コントゥム省"
+      type: "province"
+      nameI18n:
+        en: "Kon Tum"
+    - code: "VN-72"
+      name: "ダクノン省"
+      type: "province"
+      nameI18n:
+        en: "Đắk Nông"
+    - code: "VN-33"
+      name: "ダクラク省"
+      type: "province"
+      nameI18n:
+        en: "Đắk Lắk"
+    - code: "VN-30"
+      name: "ザライ省"
+      type: "province"
+      nameI18n:
+        en: "Gia Lai"
+    - code: "VN-58"
+      name: "ビンフオック省"
+      type: "province"
+      nameI18n:
+        en: "Bình Phước"
+    - code: "VN-37"
+      name: "タイニン省"
+      type: "province"
+      nameI18n:
+        en: "Tây Ninh"
+    - code: "VN-41"
+      name: "ロンアン省"
+      type: "province"
+      nameI18n:
+        en: "Long An"
+    - code: "VN-45"
+      name: "ドンタップ省"
+      type: "province"
+      nameI18n:
+        en: "Đồng Tháp"
+    - code: "VN-44"
+      name: "アンザン省"
+      type: "province"
+      nameI18n:
+        en: "An Giang"
+    - code: "VN-47"
+      name: "キエンザン省"
+      type: "province"
+      nameI18n:
+        en: "Kiên Giang"
+    - code: "VN-71"
+      name: "ディエンビエン省"
+      type: "province"
+      nameI18n:
+        en: "Điện Biên"
+    - code: "VN-05"
+      name: "ソンラ省"
+      type: "province"
+      nameI18n:
+        en: "Sơn La"
+    - code: "VN-21"
+      name: "タインホア省"
+      type: "province"
+      nameI18n:
+        en: "Thanh Hóa"
+    - code: "VN-22"
+      name: "ゲアン省"
+      type: "province"
+      nameI18n:
+        en: "Nghệ An"
+    - code: "VN-23"
+      name: "ハティン省"
+      type: "province"
+      nameI18n:
+        en: "Hà Tĩnh"
+    - code: "VN-24"
+      name: "クアンビン省"
+      type: "province"
+      nameI18n:
+        en: "Quảng Bình"
+    - code: "VN-25"
+      name: "クアンチ省"
+      type: "province"
+      nameI18n:
+        en: "Quảng Trị"
+    - code: "VN-26"
+      name: "トゥアティエン・フエ省"
+      type: "province"
+      nameI18n:
+        en: "Thừa Thiên-Huế"
+    - code: "VN-27"
+      name: "クアンナム省"
+      type: "province"
+      nameI18n:
+        en: "Quảng Nam"
+    - code: "VN-03"
+      name: "ハザン省"
+      type: "province"
+      nameI18n:
+        en: "Hà Giang"
+    - code: "VN-04"
+      name: "カオバン省"
+      type: "province"
+      nameI18n:
+        en: "Cao Bằng"
+    - code: "VN-02"
+      name: "ラオカイ省"
+      type: "province"
+      nameI18n:
+        en: "Lào Cai"
+    - code: "VN-01"
+      name: "ライチャウ省"
+      type: "province"
+      nameI18n:
+        en: "Lai Châu"
+    - code: "VN-09"
+      name: "ランソン省"
+      type: "province"
+      nameI18n:
+        en: "Lạng Sơn"
+    - code: "VN-13"
+      name: "クアンニン省"
+      type: "province"
+      nameI18n:
+        en: "Quảng Ninh"
+    - code: "VN-52"
+      name: "ソクチャン省"
+      type: "province"
+      nameI18n:
+        en: "Sóc Trăng"
+    - code: "VN-46"
+      name: "ティエンザン省"
+      type: "province"
+      nameI18n:
+        en: "Tiền Giang"
+    - code: "VN-43"
+      name: "バリア・ブンタウ省"
+      type: "province"
+      nameI18n:
+        en: "Bà Rịa-Vũng Tàu"
+    - code: "VN-SG"
+      name: "ホーチミン市"
+      type: "metropolitan_city"
+      nameI18n:
+        en: "Ho Chi Minh City"
+    - code: "VN-34"
+      name: "カインホア省"
+      type: "province"
+      nameI18n:
+        en: "Khánh Hòa"
+    - code: "VN-59"
+      name: "カマウ省"
+      type: "province"
+      nameI18n:
+        en: "Cà Mau"
+    - code: "VN-55"
+      name: "バクリエウ省"
+      type: "province"
+      nameI18n:
+        en: "Bạc Liêu"
+    - code: "VN-73"
+      name: "ハウザン省"
+      type: "province"
+      nameI18n:
+        en: "Hậu Giang"
+    - code: "VN-49"
+      name: "ヴィンロン省"
+      type: "province"
+      nameI18n:
+        en: "Vĩnh Long"
+    - code: "VN-51"
+      name: "チャヴィン省"
+      type: "province"
+      nameI18n:
+        en: "Trà Vinh"
+    - code: "VN-50"
+      name: "ベンチェ省"
+      type: "province"
+      nameI18n:
+        en: "Bến Tre"
+    - code: "VN-40"
+      name: "ビントゥアン省"
+      type: "province"
+      nameI18n:
+        en: "Bình Thuận"
+    - code: "VN-36"
+      name: "ニントゥアン省"
+      type: "province"
+      nameI18n:
+        en: "Ninh Thuận"
+    - code: "VN-32"
+      name: "フーイエン省"
+      type: "province"
+      nameI18n:
+        en: "Phú Yên"
+    - code: "VN-31"
+      name: "ビンディン省"
+      type: "province"
+      nameI18n:
+        en: "Bình Định"
+    - code: "VN-29"
+      name: "クアンガイ省"
+      type: "province"
+      nameI18n:
+        en: "Quảng Ngãi"
+    - code: "VN-DN"
+      name: "ダナン"
+      type: "metropolitan_city"
+      nameI18n:
+        en: "Da Nang"
+    - code: "VN-18"
+      name: "ニンビン省"
+      type: "province"
+      nameI18n:
+        en: "Ninh Bình"
+    - code: "VN-67"
+      name: "ナムディン省"
+      type: "province"
+      nameI18n:
+        en: "Nam Định"
+    - code: "VN-20"
+      name: "タイビン省"
+      type: "province"
+      nameI18n:
+        en: "Thái Bình"
+    - code: "VN-HP"
+      name: "ハイフォン"
+      type: "metropolitan_city"
+      nameI18n:
+        en: "Haiphong"
+    - code: "VN-14"
+      name: "ホアビン省"
+      type: "province"
+      nameI18n:
+        en: "Hòa Bình"
+    - code: "VN-07"
+      name: "トゥエンクアン省"
+      type: "province"
+      nameI18n:
+        en: "Tuyên Quang"
+    - code: "VN-06"
+      name: "イエンバイ省"
+      type: "province"
+      nameI18n:
+        en: "Yên Bái"
+    - code: "VN-70"
+      name: "ヴィンフック省"
+      type: "province"
+      nameI18n:
+        en: "Vĩnh Phúc"
+    - code: "VN-68"
+      name: "フート省"
+      type: "province"
+      nameI18n:
+        en: "Phú Thọ"
+    - code: "VN-HN"
+      name: "ハノイ"
+      type: "metropolitan_city"
+      note: "首都"
+      nameI18n:
+        en: "Hanoi"
+    - code: "VN-56"
+      name: "バクニン省"
+      type: "province"
+      nameI18n:
+        en: "Bắc Ninh"
+    - code: "VN-54"
+      name: "バクザン省"
+      type: "province"
+      nameI18n:
+        en: "Bắc Giang"
+    - code: "VN-69"
+      name: "タイグエン省"
+      type: "province"
+      nameI18n:
+        en: "Thái Nguyên"
+    - code: "VN-61"
+      name: "ハイズオン省"
+      type: "province"
+      nameI18n:
+        en: "Hải Dương"
+    - code: "VN-63"
+      name: "ハナム省"
+      type: "province"
+      nameI18n:
+        en: "Hà Nam"
+    - code: "VN-57"
+      name: "ビンズオン省"
+      type: "province"
+      nameI18n:
+        en: "Bình Dương"
+    - code: "VN-35"
+      name: "ラムドン省"
+      type: "province"
+      nameI18n:
+        en: "Lâm Đồng"
+    - code: "VN-CT"
+      name: "カントー"
+      type: "metropolitan_city"
+      nameI18n:
+        en: "Can Tho"

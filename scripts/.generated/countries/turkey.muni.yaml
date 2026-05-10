@@ -1,0 +1,412 @@
+municipalities:
+  svg: "/maps/countries/turkey.svg"
+  title:
+    ja: "トルコの県"
+    en: "Provinces of Turkey"
+  list:
+    - code: "TR-75"
+      name: "アルダハン県"
+      type: "province"
+      nameI18n:
+        en: "Ardahan"
+    - code: "TR-08"
+      name: "アルトヴィン県"
+      type: "province"
+      nameI18n:
+        en: "Artvin"
+    - code: "TR-73"
+      name: "シュルナク県"
+      type: "province"
+      nameI18n:
+        en: "Şırnak"
+    - code: "TR-30"
+      name: "ハッキャリ県"
+      type: "province"
+      nameI18n:
+        en: "Hakkâri"
+    - code: "TR-76"
+      name: "ウードゥル県"
+      type: "province"
+      nameI18n:
+        en: "Iğdır"
+    - code: "TR-04"
+      name: "アール県"
+      type: "province"
+      nameI18n:
+        en: "Ağrı"
+    - code: "TR-65"
+      name: "ヴァン県"
+      type: "province"
+      nameI18n:
+        en: "Van"
+    - code: "TR-39"
+      name: "クルクラーレリ県"
+      type: "province"
+      nameI18n:
+        en: "Kırklareli"
+    - code: "TR-22"
+      name: "エディルネ県"
+      type: "province"
+      nameI18n:
+        en: "Edirne"
+    - code: "TR-36"
+      name: "カルス県"
+      type: "province"
+      nameI18n:
+        en: "Kars"
+    - code: "TR-47"
+      name: "マルディン県"
+      type: "province"
+      nameI18n:
+        en: "Mardin"
+    - code: "TR-63"
+      name: "シャンルウルファ県"
+      type: "province"
+      nameI18n:
+        en: "Şanlıurfa"
+    - code: "TR-79"
+      name: "キリス県"
+      type: "province"
+      nameI18n:
+        en: "Kilis"
+    - code: "TR-27"
+      name: "ガズィアンテプ県"
+      type: "province"
+      nameI18n:
+        en: "Gaziantep"
+    - code: "TR-31"
+      name: "ハタイ県"
+      type: "province"
+      nameI18n:
+        en: "Hatay"
+    - code: "TR-34"
+      name: "イスタンブール県"
+      type: "province"
+      nameI18n:
+        en: "Istanbul"
+    - code: "TR-59"
+      name: "テキルダー県"
+      type: "province"
+      nameI18n:
+        en: "Tekirdağ"
+    - code: "TR-17"
+      name: "チャナッカレ県"
+      type: "province"
+      nameI18n:
+        en: "Çanakkale"
+    - code: "TR-53"
+      name: "リゼ県"
+      type: "province"
+      nameI18n:
+        en: "Rize"
+    - code: "TR-61"
+      name: "トラブゾン県"
+      type: "province"
+      nameI18n:
+        en: "Trabzon"
+    - code: "TR-28"
+      name: "ギレスン県"
+      type: "province"
+      nameI18n:
+        en: "Giresun"
+    - code: "TR-52"
+      name: "オルドゥ県"
+      type: "province"
+      nameI18n:
+        en: "Ordu"
+    - code: "TR-55"
+      name: "サムスン県"
+      type: "province"
+      nameI18n:
+        en: "Samsun"
+    - code: "TR-57"
+      name: "スィノプ県"
+      type: "province"
+      nameI18n:
+        en: "Sinop"
+    - code: "TR-37"
+      name: "カスタモヌ県"
+      type: "province"
+      nameI18n:
+        en: "Kastamonu"
+    - code: "TR-74"
+      name: "バルトゥン県"
+      type: "province"
+      nameI18n:
+        en: "Bartın"
+    - code: "TR-67"
+      name: "ゾングルダク県"
+      type: "province"
+      nameI18n:
+        en: "Zonguldak"
+    - code: "TR-81"
+      name: "デュズジェ県"
+      type: "province"
+      nameI18n:
+        en: "Düzce"
+    - code: "TR-54"
+      name: "サカリヤ県"
+      type: "province"
+      nameI18n:
+        en: "Sakarya"
+    - code: "TR-41"
+      name: "コジャエリ県"
+      type: "province"
+      nameI18n:
+        en: "Kocaeli"
+    - code: "TR-77"
+      name: "ヤロヴァ県"
+      type: "province"
+      nameI18n:
+        en: "Yalova"
+    - code: "TR-16"
+      name: "ブルサ県"
+      type: "province"
+      nameI18n:
+        en: "Bursa"
+    - code: "TR-10"
+      name: "バルケスィル県"
+      type: "province"
+      nameI18n:
+        en: "Balıkesir"
+    - code: "TR-35"
+      name: "イズミル県"
+      type: "province"
+      nameI18n:
+        en: "İzmir"
+    - code: "TR-09"
+      name: "アイドゥン県"
+      type: "province"
+      nameI18n:
+        en: "Aydın"
+    - code: "TR-48"
+      name: "ムーラ県"
+      type: "province"
+      nameI18n:
+        en: "Muğla"
+    - code: "TR-07"
+      name: "アンタルヤ県"
+      type: "province"
+      nameI18n:
+        en: "Antalya"
+    - code: "TR-33"
+      name: "メルスィン県"
+      type: "province"
+      nameI18n:
+        en: "Mersin"
+    - code: "TR-01"
+      name: "アダナ県"
+      type: "province"
+      nameI18n:
+        en: "Adana"
+    - code: "TR-14"
+      name: "ボル県"
+      type: "province"
+      nameI18n:
+        en: "Bolu"
+    - code: "TR-06"
+      name: "アンカラ県"
+      type: "province"
+      note: "首都"
+      nameI18n:
+        en: "Ankara"
+    - code: "TR-11"
+      name: "ビレジク県"
+      type: "province"
+      nameI18n:
+        en: "Bilecik"
+    - code: "TR-26"
+      name: "エスキシェヒル県"
+      type: "province"
+      nameI18n:
+        en: "Eskişehir"
+    - code: "TR-18"
+      name: "チャンクル県"
+      type: "province"
+      nameI18n:
+        en: "Çankırı"
+    - code: "TR-78"
+      name: "カラビュク県"
+      type: "province"
+      nameI18n:
+        en: "Karabük"
+    - code: "TR-60"
+      name: "トカット県"
+      type: "province"
+      nameI18n:
+        en: "Tokat"
+    - code: "TR-58"
+      name: "スィヴァス県"
+      type: "province"
+      nameI18n:
+        en: "Sivas"
+    - code: "TR-19"
+      name: "チョルム県"
+      type: "province"
+      nameI18n:
+        en: "Çorum"
+    - code: "TR-05"
+      name: "アマスィヤ県"
+      type: "province"
+      nameI18n:
+        en: "Amasya"
+    - code: "TR-43"
+      name: "キュタヒヤ県"
+      type: "province"
+      nameI18n:
+        en: "Kütahya"
+    - code: "TR-42"
+      name: "コンヤ県"
+      type: "province"
+      nameI18n:
+        en: "Konya"
+    - code: "TR-70"
+      name: "カラマン県"
+      type: "province"
+      nameI18n:
+        en: "Karaman"
+    - code: "TR-51"
+      name: "ニーデ県"
+      type: "province"
+      nameI18n:
+        en: "Niğde"
+    - code: "TR-38"
+      name: "カイセリ県"
+      type: "province"
+      nameI18n:
+        en: "Kayseri"
+    - code: "TR-32"
+      name: "ウスパルタ県"
+      type: "province"
+      nameI18n:
+        en: "Isparta"
+    - code: "TR-45"
+      name: "マニサ県"
+      type: "province"
+      nameI18n:
+        en: "Manisa"
+    - code: "TR-20"
+      name: "デニズリ県"
+      type: "province"
+      nameI18n:
+        en: "Denizli"
+    - code: "TR-15"
+      name: "ブルドゥル県"
+      type: "province"
+      nameI18n:
+        en: "Burdur"
+    - code: "TR-68"
+      name: "アクサライ県"
+      type: "province"
+      nameI18n:
+        en: "Aksaray"
+    - code: "TR-50"
+      name: "ネヴシェヒル県"
+      type: "province"
+      nameI18n:
+        en: "Nevşehir"
+    - code: "TR-66"
+      name: "ヨズガト県"
+      type: "province"
+      nameI18n:
+        en: "Yozgat"
+    - code: "TR-40"
+      name: "クルシェヒル県"
+      type: "province"
+      nameI18n:
+        en: "Kırşehir"
+    - code: "TR-64"
+      name: "ウシャク県"
+      type: "province"
+      nameI18n:
+        en: "Uşak"
+    - code: "TR-24"
+      name: "エルズィンジャン県"
+      type: "province"
+      nameI18n:
+        en: "Erzincan"
+    - code: "TR-62"
+      name: "トゥンジェリ県"
+      type: "province"
+      nameI18n:
+        en: "Tunceli"
+    - code: "TR-03"
+      name: "アフィヨンカラヒサール県"
+      type: "province"
+      nameI18n:
+        en: "Afyonkarahisar"
+    - code: "TR-71"
+      name: "クルッカレ県"
+      type: "province"
+      nameI18n:
+        en: "Kırıkkale"
+    - code: "TR-46"
+      name: "カフラマンマラシュ県"
+      type: "province"
+      nameI18n:
+        en: "Kahramanmaraş"
+    - code: "TR-49"
+      name: "ムシュ県"
+      type: "province"
+      nameI18n:
+        en: "Muş"
+    - code: "TR-25"
+      name: "エルズルム県"
+      type: "province"
+      nameI18n:
+        en: "Erzurum"
+    - code: "TR-44"
+      name: "マラティヤ県"
+      type: "province"
+      nameI18n:
+        en: "Malatya"
+    - code: "TR-23"
+      name: "エラズー県"
+      type: "province"
+      nameI18n:
+        en: "Elazığ"
+    - code: "TR-13"
+      name: "ビトリス県"
+      type: "province"
+      nameI18n:
+        en: "Bitlis"
+    - code: "TR-12"
+      name: "ビンギョル県"
+      type: "province"
+      nameI18n:
+        en: "Bingöl"
+    - code: "TR-80"
+      name: "オスマニエ県"
+      type: "province"
+      nameI18n:
+        en: "Osmaniye"
+    - code: "TR-02"
+      name: "アドゥヤマン県"
+      type: "province"
+      nameI18n:
+        en: "Adıyaman"
+    - code: "TR-21"
+      name: "ディヤルバクル県"
+      type: "province"
+      nameI18n:
+        en: "Diyarbakır"
+    - code: "TR-72"
+      name: "バトマン県"
+      type: "province"
+      nameI18n:
+        en: "Batman"
+    - code: "TR-56"
+      name: "シイルト県"
+      type: "province"
+      nameI18n:
+        en: "Siirt"
+    - code: "TR-69"
+      name: "バイブルト県"
+      type: "province"
+      nameI18n:
+        en: "Bayburt"
+    - code: "TR-29"
+      name: "ギュミュシュハネ県"
+      type: "province"
+      nameI18n:
+        en: "Gümüşhane"

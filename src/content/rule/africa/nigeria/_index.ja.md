@@ -31,6 +31,199 @@ mapPins:
   - { lat: 4.815, lng: 7.050, label: "ポートハーコート", type: "port", note: "ニジェール・デルタの石油産業中心地" }
   - { lat: 6.339, lng: 5.617, label: "ベニンシティ", type: "historical", note: "旧ベニン王国の都・歴史的中心地" }
   - { lat: 11.852, lng: 13.160, label: "マイドゥグリ", type: "city", note: "北東部ボルノ州の州都" }
+municipalities:
+  svg: "/maps/countries/nigeria.svg"
+  title:
+    ja: "ナイジェリアの州"
+    en: "States of Nigeria"
+  list:
+    - code: "NG-KE"
+      name: "ケッビ州"
+      type: "state"
+      nameI18n:
+        en: "Kebbi"
+    - code: "NG-NI"
+      name: "ニジェール州"
+      type: "state"
+      nameI18n:
+        en: "Niger"
+    - code: "NG-KW"
+      name: "クワラ州"
+      type: "state"
+      nameI18n:
+        en: "Kwara"
+    - code: "NG-OG"
+      name: "オグン州"
+      type: "state"
+      nameI18n:
+        en: "Ogun"
+    - code: "NG-OY"
+      name: "オヨ州"
+      type: "state"
+      nameI18n:
+        en: "Oyo"
+    - code: "NG-LA"
+      name: "ラゴス州"
+      type: "state"
+      note: "最大都市"
+      nameI18n:
+        en: "Lagos"
+    - code: "NG-BO"
+      name: "ボルノ州"
+      type: "state"
+      nameI18n:
+        en: "Borno"
+    - code: "NG-AD"
+      name: "アダマワ州"
+      type: "state"
+      nameI18n:
+        en: "Adamawa"
+    - code: "NG-TA"
+      name: "タラバ州"
+      type: "state"
+      nameI18n:
+        en: "Taraba"
+    - code: "NG-BE"
+      name: "ベヌエ州"
+      type: "state"
+      nameI18n:
+        en: "Benue"
+    - code: "NG-CR"
+      name: "クロス・リバー州"
+      type: "state"
+      nameI18n:
+        en: "Cross River"
+    - code: "NG-SO"
+      name: "ソコト州"
+      type: "state"
+      nameI18n:
+        en: "Sokoto"
+    - code: "NG-ZA"
+      name: "ザムファラ州"
+      type: "state"
+      nameI18n:
+        en: "Zamfara"
+    - code: "NG-YO"
+      name: "ヨベ州"
+      type: "state"
+      nameI18n:
+        en: "Yobe"
+    - code: "NG-KT"
+      name: "カツィナ州"
+      type: "state"
+      nameI18n:
+        en: "Katsina"
+    - code: "NG-JI"
+      name: "ジガワ州"
+      type: "state"
+      nameI18n:
+        en: "Jigawa"
+    - code: "NG-ON"
+      name: "オンド州"
+      type: "state"
+      nameI18n:
+        en: "Ondo"
+    - code: "NG-DE"
+      name: "デルタ州"
+      type: "state"
+      nameI18n:
+        en: "Delta"
+    - code: "NG-BY"
+      name: "バイエルサ州"
+      type: "state"
+      nameI18n:
+        en: "Bayelsa"
+    - code: "NG-RI"
+      name: "リバーズ州"
+      type: "state"
+      nameI18n:
+        en: "Rivers"
+    - code: "NG-AK"
+      name: "アクワ・イボム州"
+      type: "state"
+      nameI18n:
+        en: "Akwa Ibom"
+    - code: "NG-AB"
+      name: "アビア州"
+      type: "state"
+      nameI18n:
+        en: "Abia"
+    - code: "NG-EB"
+      name: "エボニ州"
+      type: "state"
+      nameI18n:
+        en: "Ebonyi"
+    - code: "NG-AN"
+      name: "アナンブラ州"
+      type: "state"
+      nameI18n:
+        en: "Anambra"
+    - code: "NG-ED"
+      name: "エド州"
+      type: "state"
+      nameI18n:
+        en: "Edo"
+    - code: "NG-BA"
+      name: "バウチ州"
+      type: "state"
+      nameI18n:
+        en: "Bauchi"
+    - code: "NG-PL"
+      name: "プラトー州"
+      type: "state"
+      nameI18n:
+        en: "Plateau"
+    - code: "NG-NA"
+      name: "ナサラワ州"
+      type: "state"
+      nameI18n:
+        en: "Nasarawa"
+    - code: "NG-GO"
+      name: "ゴンベ州"
+      type: "state"
+      nameI18n:
+        en: "Gombe"
+    - code: "NG-EN"
+      name: "エヌグ州"
+      type: "state"
+      nameI18n:
+        en: "Enugu"
+    - code: "NG-KO"
+      name: "コギ州"
+      type: "state"
+      nameI18n:
+        en: "Kogi"
+    - code: "NG-OS"
+      name: "オスン州"
+      type: "state"
+      nameI18n:
+        en: "Osun"
+    - code: "NG-IM"
+      name: "イモ州"
+      type: "state"
+      nameI18n:
+        en: "Imo"
+    - code: "NG-EK"
+      name: "エキティ州"
+      type: "state"
+      nameI18n:
+        en: "Ekiti"
+    - code: "NG-KD"
+      name: "カドゥナ州"
+      type: "state"
+      nameI18n:
+        en: "Kaduna"
+    - code: "NG-KN"
+      name: "カノ州"
+      type: "state"
+      nameI18n:
+        en: "Kano"
+    - code: "NG-FC"
+      name: "アブジャ連邦首都地区"
+      type: "federal_district"
+      note: "首都アブジャ"
+      nameI18n:
+        en: "Federal Capital Territory"
 ---
 
 <div class="main-desciption country-description">

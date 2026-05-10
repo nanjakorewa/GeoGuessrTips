@@ -179,28 +179,22 @@ function processAllShortcodes(
     }
   }
 
-  // Frontmatter `municipalities` → render block. Insertion point cascades:
-  //   1. Before <div id="corp-desc"> if present (Japan-style prefecture pages)
-  //   2. Else before the {{% corp %}} shortcode (country pages without a
-  //      dedicated corp table — the section appears just above the company
-  //      logos and writeup)
-  //   3. Else after the closing </div> of the first
-  //      <div class="main-desciption country-description"> block (typical
-  //      country pages — places the section right after the overview card)
-  //   4. Else appended at the end of the body
+  // Frontmatter `municipalities` → render block. Insertion point:
+  //   - If `<div id="corp-desc">` is present (Japan-style prefecture pages
+  //     and country pages with an auto-emitted corp section), inject just
+  //     before that block so the section sits between the prefInfo card
+  //     and the company table.
+  //   - Otherwise append at the very end of the body. The DefaultLayout
+  //     renders related industry / related sites / sibling-countries /
+  //     references AFTER the markdown body, so this places the section
+  //     just before those layout-injected reference blocks (i.e. as the
+  //     last user-content section).
   if (municipalities) {
     const muniHtml = renderMunicipalitiesHtml(municipalities, pageTitle, lang);
     if (muniHtml) {
       const corpDescOpen = /<div\b[^>]*\bid=["']corp-desc["']/;
-      const corpShortcode = /\{\{%\s*corp\s/;
-      const countryDescBlock =
-        /(<div\s+class="main-desciption country-description"[\s\S]*?<\/div>)/;
       if (corpDescOpen.test(result)) {
         result = result.replace(corpDescOpen, (m) => `${muniHtml}\n\n${m}`);
-      } else if (corpShortcode.test(result)) {
-        result = result.replace(corpShortcode, (m) => `${muniHtml}\n\n${m}`);
-      } else if (countryDescBlock.test(result)) {
-        result = result.replace(countryDescBlock, `$1\n\n${muniHtml}`);
       } else {
         result = result + `\n\n${muniHtml}\n`;
       }

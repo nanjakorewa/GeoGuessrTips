@@ -1,0 +1,434 @@
+municipalities:
+  svg: "/maps/countries/russia.svg"
+  title:
+    ja: "ロシアの連邦構成主体"
+    en: "Federal Subjects of Russia"
+  list:
+    - code: "RU-AL"
+      name: "アルタイ共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Altai Republic"
+    - code: "RU-PSK"
+      name: "プスコフ州"
+      type: "oblast"
+      nameI18n:
+        en: "Pskov Oblast"
+    - code: "RU-KDA"
+      name: "クラスノダール地方"
+      type: "oblast"
+      nameI18n:
+        en: "Krasnodar Krai"
+    - code: "RU-KC"
+      name: "カラチャイ・チェルケス共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Karachay-Cherkessia"
+    - code: "RU-KB"
+      name: "カバルダ・バルカル共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Kabardino-Balkaria"
+    - code: "RU-SE"
+      name: "北オセチア共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "North Ossetia"
+    - code: "RU-IN"
+      name: "イングーシ共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Ingushetia"
+    - code: "RU-CE"
+      name: "チェチェン共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Chechnya"
+    - code: "RU-DA"
+      name: "ダゲスタン共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Dagestan"
+    - code: "RU-MUR"
+      name: "ムルマンスク州"
+      type: "oblast"
+      nameI18n:
+        en: "Murmansk Oblast"
+    - code: "RU-KR"
+      name: "カレリア共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Karelia"
+    - code: "RU-LEN"
+      name: "レニングラード州"
+      type: "oblast"
+      nameI18n:
+        en: "Leningrad Oblast"
+    - code: "RU-KGD"
+      name: "カリーニングラード州"
+      type: "oblast"
+      nameI18n:
+        en: "Kaliningrad Oblast"
+    - code: "RU-SMO"
+      name: "スモレンスク州"
+      type: "oblast"
+      nameI18n:
+        en: "Smolensk Oblast"
+    - code: "RU-BRY"
+      name: "ブリャンスク州"
+      type: "oblast"
+      nameI18n:
+        en: "Bryansk Oblast"
+    - code: "RU-KRS"
+      name: "クルスク州"
+      type: "oblast"
+      nameI18n:
+        en: "Kursk Oblast"
+    - code: "RU-BEL"
+      name: "ベルゴロド州"
+      type: "oblast"
+      nameI18n:
+        en: "Belgorod Oblast"
+    - code: "RU-VOR"
+      name: "ヴォロネジ州"
+      type: "oblast"
+      nameI18n:
+        en: "Voronezh Oblast"
+    - code: "RU-ROS"
+      name: "ロストフ州"
+      type: "oblast"
+      nameI18n:
+        en: "Rostov Oblast"
+    - code: "RU-BU"
+      name: "ブリヤート共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Buryatia"
+    - code: "RU-TY"
+      name: "トゥヴァ共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Tuva"
+    - code: "RU-ZAB"
+      name: "ザバイカル地方"
+      type: "oblast"
+      nameI18n:
+        en: "Zabaykalsky Krai"
+    - code: "RU-AMU"
+      name: "アムール州"
+      type: "oblast"
+      nameI18n:
+        en: "Amur Oblast"
+    - code: "RU-YEV"
+      name: "ユダヤ自治州"
+      type: "territory"
+      nameI18n:
+        en: "Jewish Autonomous Oblast"
+    - code: "RU-KHA"
+      name: "ハバロフスク地方"
+      type: "oblast"
+      nameI18n:
+        en: "Khabarovsk Krai"
+    - code: "RU-PRI"
+      name: "沿海地方"
+      type: "oblast"
+      nameI18n:
+        en: "Primorsky Krai"
+    - code: "RU-TYU"
+      name: "チュメニ州"
+      type: "oblast"
+      nameI18n:
+        en: "Tyumen Oblast"
+    - code: "RU-KGN"
+      name: "クルガン州"
+      type: "oblast"
+      nameI18n:
+        en: "Kurgan Oblast"
+    - code: "RU-OMS"
+      name: "オムスク州"
+      type: "oblast"
+      nameI18n:
+        en: "Omsk Oblast"
+    - code: "RU-NVS"
+      name: "ノヴォシビルスク州"
+      type: "oblast"
+      nameI18n:
+        en: "Novosibirsk Oblast"
+    - code: "RU-CHE"
+      name: "チェリャビンスク州"
+      type: "oblast"
+      nameI18n:
+        en: "Chelyabinsk Oblast"
+    - code: "RU-ALT"
+      name: "アルタイ地方"
+      type: "oblast"
+      nameI18n:
+        en: "Altai Krai"
+    - code: "RU-ORE"
+      name: "オレンブルク州"
+      type: "oblast"
+      nameI18n:
+        en: "Orenburg Oblast"
+    - code: "RU-SAR"
+      name: "サラトフ州"
+      type: "oblast"
+      nameI18n:
+        en: "Saratov Oblast"
+    - code: "RU-AST"
+      name: "アストラハン州"
+      type: "oblast"
+      nameI18n:
+        en: "Astrakhan Oblast"
+    - code: "RU-VGG"
+      name: "ヴォルゴグラード州"
+      type: "oblast"
+      nameI18n:
+        en: "Volgograd Oblast"
+    - code: "UA-43"
+      name: "クリミア共和国"
+      type: "oblast"
+      note: "ロシアが実効支配（国際的には係争中）"
+      nameI18n:
+        en: "Crimea"
+    - code: "RU-MAG"
+      name: "マガダン州"
+      type: "oblast"
+      nameI18n:
+        en: "Magadan Oblast"
+    - code: "RU-SAK"
+      name: "サハリン州"
+      type: "oblast"
+      nameI18n:
+        en: "Sakhalin Oblast"
+    - code: "UA-40"
+      name: "セヴァストポリ"
+      type: "oblast"
+      note: "ロシアが実効支配（国際的には係争中）"
+      nameI18n:
+        en: "Sevastopol"
+    - code: "RU-CHU"
+      name: "チュコト自治管区"
+      type: "territory"
+      nameI18n:
+        en: "Chukotka Autonomous Okrug"
+    - code: "RU-YAN"
+      name: "ヤマロ・ネネツ自治管区"
+      type: "territory"
+      nameI18n:
+        en: "Yamalo-Nenets Autonomous Okrug"
+    - code: "RU-NEN"
+      name: "ネネツ自治管区"
+      type: "territory"
+      nameI18n:
+        en: "Nenets Autonomous Okrug"
+    - code: "RU-SA"
+      name: "サハ共和国（ヤクート）"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Sakha (Yakutia)"
+    - code: "RU-SPE"
+      name: "サンクトペテルブルク"
+      type: "metropolitan_city"
+      nameI18n:
+        en: "Saint Petersburg"
+    - code: "RU-ARK"
+      name: "アルハンゲリスク州"
+      type: "oblast"
+      nameI18n:
+        en: "Arkhangelsk Oblast"
+    - code: "RU-KYA"
+      name: "クラスノヤルスク地方"
+      type: "oblast"
+      nameI18n:
+        en: "Krasnoyarsk Krai"
+    - code: "RU-KL"
+      name: "カルムイク共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Kalmykia"
+    - code: "RU-KAM"
+      name: "カムチャツカ地方"
+      type: "oblast"
+      nameI18n:
+        en: "Kamchatka Krai"
+    - code: "RU-BA"
+      name: "バシコルトスタン共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Bashkortostan"
+    - code: "RU-SVE"
+      name: "スヴェルドロフスク州"
+      type: "oblast"
+      nameI18n:
+        en: "Sverdlovsk Oblast"
+    - code: "RU-KHM"
+      name: "ハンティ・マンシ自治管区"
+      type: "territory"
+      nameI18n:
+        en: "Khanty-Mansi Autonomous Okrug"
+    - code: "RU-LIP"
+      name: "リペツク州"
+      type: "oblast"
+      nameI18n:
+        en: "Lipetsk Oblast"
+    - code: "RU-TAM"
+      name: "タンボフ州"
+      type: "oblast"
+      nameI18n:
+        en: "Tambov Oblast"
+    - code: "RU-TOM"
+      name: "トムスク州"
+      type: "oblast"
+      nameI18n:
+        en: "Tomsk Oblast"
+    - code: "RU-TA"
+      name: "タタールスタン共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Tatarstan"
+    - code: "RU-ULY"
+      name: "ウリヤノフスク州"
+      type: "oblast"
+      nameI18n:
+        en: "Ulyanovsk Oblast"
+    - code: "RU-PNZ"
+      name: "ペンザ州"
+      type: "oblast"
+      nameI18n:
+        en: "Penza Oblast"
+    - code: "RU-KEM"
+      name: "ケメロヴォ州"
+      type: "oblast"
+      nameI18n:
+        en: "Kemerovo Oblast"
+    - code: "RU-ORL"
+      name: "オリョール州"
+      type: "oblast"
+      nameI18n:
+        en: "Oryol Oblast"
+    - code: "RU-IRK"
+      name: "イルクーツク州"
+      type: "oblast"
+      nameI18n:
+        en: "Irkutsk Oblast"
+    - code: "RU-KK"
+      name: "ハカス共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Khakassia"
+    - code: "RU-MO"
+      name: "モルドヴィア共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Mordovia"
+    - code: "RU-KLU"
+      name: "カルーガ州"
+      type: "oblast"
+      nameI18n:
+        en: "Kaluga Oblast"
+    - code: "RU-KOS"
+      name: "コストロマ州"
+      type: "oblast"
+      nameI18n:
+        en: "Kostroma Oblast"
+    - code: "RU-YAR"
+      name: "ヤロスラヴリ州"
+      type: "oblast"
+      nameI18n:
+        en: "Yaroslavl Oblast"
+    - code: "RU-VLA"
+      name: "ウラジーミル州"
+      type: "oblast"
+      nameI18n:
+        en: "Vladimir Oblast"
+    - code: "RU-RYA"
+      name: "リャザン州"
+      type: "oblast"
+      nameI18n:
+        en: "Ryazan Oblast"
+    - code: "RU-IVA"
+      name: "イヴァノヴォ州"
+      type: "oblast"
+      nameI18n:
+        en: "Ivanovo Oblast"
+    - code: "RU-NIZ"
+      name: "ニジニ・ノヴゴロド州"
+      type: "oblast"
+      nameI18n:
+        en: "Nizhny Novgorod Oblast"
+    - code: "RU-TUL"
+      name: "トゥーラ州"
+      type: "oblast"
+      nameI18n:
+        en: "Tula Oblast"
+    - code: "RU-CU"
+      name: "チュヴァシ共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Chuvashia"
+    - code: "RU-VLG"
+      name: "ヴォログダ州"
+      type: "oblast"
+      nameI18n:
+        en: "Vologda Oblast"
+    - code: "RU-NGR"
+      name: "ノヴゴロド州"
+      type: "oblast"
+      nameI18n:
+        en: "Novgorod Oblast"
+    - code: "RU-TVE"
+      name: "トヴェリ州"
+      type: "oblast"
+      nameI18n:
+        en: "Tver Oblast"
+    - code: "RU-MOW"
+      name: "モスクワ州"
+      type: "oblast"
+      nameI18n:
+        en: "Moscow Oblast"
+    - code: "RU-MOS"
+      name: "モスクワ"
+      type: "metropolitan_city"
+      note: "首都"
+      nameI18n:
+        en: "Moscow"
+    - code: "RU-ME"
+      name: "マリ・エル共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Mari El"
+    - code: "RU-KIR"
+      name: "キーロフ州"
+      type: "oblast"
+      nameI18n:
+        en: "Kirov Oblast"
+    - code: "RU-UD"
+      name: "ウドムルト共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Udmurtia"
+    - code: "RU-KO"
+      name: "コミ共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Komi"
+    - code: "RU-PER"
+      name: "ペルミ地方"
+      type: "oblast"
+      nameI18n:
+        en: "Perm Krai"
+    - code: "RU-SAM"
+      name: "サマラ州"
+      type: "oblast"
+      nameI18n:
+        en: "Samara Oblast"
+    - code: "RU-STA"
+      name: "スタヴロポリ地方"
+      type: "oblast"
+      nameI18n:
+        en: "Stavropol Krai"
+    - code: "RU-AD"
+      name: "アディゲ共和国"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Adygea"

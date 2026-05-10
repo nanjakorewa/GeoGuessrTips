@@ -45,6 +45,398 @@ mapPins:
   - { lat: 14.353, lng: 100.569, label: "アユタヤ", type: "historical", note: "世界遺産・古都" }
   - { lat: 12.923, lng: 100.882, label: "パタヤ", type: "city", note: "観光リゾート都市" }
   - { lat: 17.992, lng: 99.806, label: "ランパーン", type: "city", note: "北部の歴史ある都市" }
+municipalities:
+  svg: "/maps/countries/thailand.svg"
+  title:
+    ja: "タイの県"
+    en: "Provinces of Thailand"
+  list:
+    - code: "TH-32"
+      name: "スリン県"
+      type: "province"
+      nameI18n:
+        en: "Surin"
+    - code: "TH-33"
+      name: "シーサケート県"
+      type: "province"
+      nameI18n:
+        en: "Si Sa Ket"
+    - code: "TH-34"
+      name: "ウボンラーチャターニー県"
+      type: "province"
+      nameI18n:
+        en: "Ubon Ratchathani"
+    - code: "TH-27"
+      name: "サケーオ県"
+      type: "province"
+      nameI18n:
+        en: "Sa Kaeo"
+    - code: "TH-31"
+      name: "ブリーラム県"
+      type: "province"
+      nameI18n:
+        en: "Buri Ram"
+    - code: "TH-23"
+      name: "トラート県"
+      type: "province"
+      nameI18n:
+        en: "Trat"
+    - code: "TH-22"
+      name: "チャンタブリー県"
+      type: "province"
+      nameI18n:
+        en: "Chanthaburi"
+    - code: "TH-91"
+      name: "サトゥーン県"
+      type: "province"
+      nameI18n:
+        en: "Satun"
+    - code: "TH-90"
+      name: "ソンクラー県"
+      type: "province"
+      nameI18n:
+        en: "Songkhla"
+    - code: "TH-95"
+      name: "ヤラー県"
+      type: "province"
+      nameI18n:
+        en: "Yala"
+    - code: "TH-96"
+      name: "ナラーティワート県"
+      type: "province"
+      nameI18n:
+        en: "Narathiwat"
+    - code: "TH-57"
+      name: "チエンラーイ県"
+      type: "province"
+      nameI18n:
+        en: "Chiang Rai"
+    - code: "TH-50"
+      name: "チエンマイ県"
+      type: "province"
+      nameI18n:
+        en: "Chiang Mai"
+    - code: "TH-58"
+      name: "メーホンソーン県"
+      type: "province"
+      nameI18n:
+        en: "Mae Hong Son"
+    - code: "TH-63"
+      name: "ターク県"
+      type: "province"
+      nameI18n:
+        en: "Tak"
+    - code: "TH-71"
+      name: "カーンチャナブリー県"
+      type: "province"
+      nameI18n:
+        en: "Kanchanaburi"
+    - code: "TH-77"
+      name: "プラチュワップキーリーカン県"
+      type: "province"
+      nameI18n:
+        en: "Prachuap Khiri Khan"
+    - code: "TH-76"
+      name: "ペッチャブリー県"
+      type: "province"
+      nameI18n:
+        en: "Phetchaburi"
+    - code: "TH-70"
+      name: "ラーチャブリー県"
+      type: "province"
+      nameI18n:
+        en: "Ratchaburi"
+    - code: "TH-86"
+      name: "チュムポーン県"
+      type: "province"
+      nameI18n:
+        en: "Chumphon"
+    - code: "TH-85"
+      name: "ラノーン県"
+      type: "province"
+      nameI18n:
+        en: "Ranong"
+    - code: "TH-56"
+      name: "パヤオ県"
+      type: "province"
+      nameI18n:
+        en: "Phayao"
+    - code: "TH-55"
+      name: "ナーン県"
+      type: "province"
+      nameI18n:
+        en: "Nan"
+    - code: "TH-53"
+      name: "ウタラディット県"
+      type: "province"
+      nameI18n:
+        en: "Uttaradit"
+    - code: "TH-65"
+      name: "ピッサヌローク県"
+      type: "province"
+      nameI18n:
+        en: "Phitsanulok"
+    - code: "TH-42"
+      name: "ルーイ県"
+      type: "province"
+      nameI18n:
+        en: "Loei"
+    - code: "TH-38"
+      name: "ブンカーン県"
+      type: "province"
+      nameI18n:
+        en: "Bueng Kan"
+    - code: "TH-43"
+      name: "ノーンカーイ県"
+      type: "province"
+      nameI18n:
+        en: "Nong Khai"
+    - code: "TH-48"
+      name: "ナコーンパノム県"
+      type: "province"
+      nameI18n:
+        en: "Nakhon Phanom"
+    - code: "TH-49"
+      name: "ムックダーハーン県"
+      type: "province"
+      nameI18n:
+        en: "Mukdahan"
+    - code: "TH-37"
+      name: "アムナートチャルーン県"
+      type: "province"
+      nameI18n:
+        en: "Amnat Charoen"
+    - code: "TH-82"
+      name: "パンガー県"
+      type: "province"
+      nameI18n:
+        en: "Phangnga"
+    - code: "TH-81"
+      name: "クラビー県"
+      type: "province"
+      nameI18n:
+        en: "Krabi"
+    - code: "TH-92"
+      name: "トラン県"
+      type: "province"
+      nameI18n:
+        en: "Trang"
+    - code: "TH-94"
+      name: "パッターニー県"
+      type: "province"
+      nameI18n:
+        en: "Pattani"
+    - code: "TH-93"
+      name: "パッタルン県"
+      type: "province"
+      nameI18n:
+        en: "Phatthalung"
+    - code: "TH-80"
+      name: "ナコーンシータマラート県"
+      type: "province"
+      nameI18n:
+        en: "Nakhon Si Thammarat"
+    - code: "TH-84"
+      name: "スラートターニー県"
+      type: "province"
+      nameI18n:
+        en: "Surat Thani"
+    - code: "TH-75"
+      name: "サムットソンクラーム県"
+      type: "province"
+      nameI18n:
+        en: "Samut Songkhram"
+    - code: "TH-74"
+      name: "サムットサーコーン県"
+      type: "province"
+      nameI18n:
+        en: "Samut Sakhon"
+    - code: "TH-10"
+      name: "バンコク都"
+      type: "metropolitan_city"
+      note: "首都"
+      nameI18n:
+        en: "Bangkok"
+    - code: "TH-11"
+      name: "サムットプラーカーン県"
+      type: "province"
+      nameI18n:
+        en: "Samut Prakan"
+    - code: "TH-24"
+      name: "チャチューンサオ県"
+      type: "province"
+      nameI18n:
+        en: "Chachoengsao"
+    - code: "TH-20"
+      name: "チョンブリー県"
+      type: "province"
+      nameI18n:
+        en: "Chon Buri"
+    - code: "TH-21"
+      name: "ラヨーン県"
+      type: "province"
+      nameI18n:
+        en: "Rayong"
+    - code: "TH-83"
+      name: "プーケット県"
+      type: "province"
+      nameI18n:
+        en: "Phuket"
+    - code: "TH-40"
+      name: "コーンケン県"
+      type: "province"
+      nameI18n:
+        en: "Khon Kaen"
+    - code: "TH-47"
+      name: "サコンナコーン県"
+      type: "province"
+      nameI18n:
+        en: "Sakon Nakhon"
+    - code: "TH-72"
+      name: "スパンブリー県"
+      type: "province"
+      nameI18n:
+        en: "Suphan Buri"
+    - code: "TH-17"
+      name: "シンブリー県"
+      type: "province"
+      nameI18n:
+        en: "Sing Buri"
+    - code: "TH-18"
+      name: "チャイナート県"
+      type: "province"
+      nameI18n:
+        en: "Chai Nat"
+    - code: "TH-15"
+      name: "アーントーン県"
+      type: "province"
+      nameI18n:
+        en: "Ang Thong"
+    - code: "TH-19"
+      name: "サラブリー県"
+      type: "province"
+      nameI18n:
+        en: "Saraburi"
+    - code: "TH-30"
+      name: "ナコーンラーチャシーマー県"
+      type: "province"
+      nameI18n:
+        en: "Nakhon Ratchasima"
+    - code: "TH-26"
+      name: "ナコーンナーヨック県"
+      type: "province"
+      nameI18n:
+        en: "Nakhon Nayok"
+    - code: "TH-13"
+      name: "パトゥムターニー県"
+      type: "province"
+      nameI18n:
+        en: "Pathum Thani"
+    - code: "TH-61"
+      name: "ウタイターニー県"
+      type: "province"
+      nameI18n:
+        en: "Uthai Thani"
+    - code: "TH-46"
+      name: "カーラシン県"
+      type: "province"
+      nameI18n:
+        en: "Kalasin"
+    - code: "TH-45"
+      name: "ロイエット県"
+      type: "province"
+      nameI18n:
+        en: "Roi Et"
+    - code: "TH-44"
+      name: "マハーサーラカーム県"
+      type: "province"
+      nameI18n:
+        en: "Maha Sarakham"
+    - code: "TH-39"
+      name: "ノーンブワラムプー県"
+      type: "province"
+      nameI18n:
+        en: "Nong Bua Lam Phu"
+    - code: "TH-16"
+      name: "ロッブリー県"
+      type: "province"
+      nameI18n:
+        en: "Lop Buri"
+    - code: "TH-41"
+      name: "ウドーンターニー県"
+      type: "province"
+      nameI18n:
+        en: "Udon Thani"
+    - code: "TH-14"
+      name: "アユタヤ県"
+      type: "province"
+      nameI18n:
+        en: "Phra Nakhon Si Ayutthaya"
+    - code: "TH-12"
+      name: "ノンタブリー県"
+      type: "province"
+      nameI18n:
+        en: "Nonthaburi"
+    - code: "TH-73"
+      name: "ナコーンパトム県"
+      type: "province"
+      nameI18n:
+        en: "Nakhon Pathom"
+    - code: "TH-62"
+      name: "カムペーンペット県"
+      type: "province"
+      nameI18n:
+        en: "Kamphaeng Phet"
+    - code: "TH-52"
+      name: "ラムパーン県"
+      type: "province"
+      nameI18n:
+        en: "Lampang"
+    - code: "TH-64"
+      name: "スコータイ県"
+      type: "province"
+      nameI18n:
+        en: "Sukhothai"
+    - code: "TH-60"
+      name: "ナコーンサワン県"
+      type: "province"
+      nameI18n:
+        en: "Nakhon Sawan"
+    - code: "TH-67"
+      name: "ペッチャブーン県"
+      type: "province"
+      nameI18n:
+        en: "Phetchabun"
+    - code: "TH-66"
+      name: "ピチット県"
+      type: "province"
+      nameI18n:
+        en: "Phichit"
+    - code: "TH-36"
+      name: "チャイヤプーム県"
+      type: "province"
+      nameI18n:
+        en: "Chaiyaphum"
+    - code: "TH-54"
+      name: "プレー県"
+      type: "province"
+      nameI18n:
+        en: "Phrae"
+    - code: "TH-51"
+      name: "ラムプーン県"
+      type: "province"
+      nameI18n:
+        en: "Lamphun"
+    - code: "TH-25"
+      name: "プラーチーンブリー県"
+      type: "province"
+      nameI18n:
+        en: "Prachin Buri"
+    - code: "TH-35"
+      name: "ヤソートーン県"
+      type: "province"
+      nameI18n:
+        en: "Yasothon"
 ---
 
 <div class="main-desciption country-description">

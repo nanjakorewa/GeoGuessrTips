@@ -32,6 +32,413 @@ mapPins:
   - { lat: 9.838, lng: 118.736, label: "プエルトプリンセサ", type: "nature", note: "パラワン島の都市・地下河川国立公園" }
   - { lat: 16.412, lng: 120.594, label: "バギオ", type: "city", note: "ルソン島北部の高原都市" }
   - { lat: 13.257, lng: 123.685, label: "マヨン火山", type: "nature", note: "完璧な円錐形で知られる活火山" }
+municipalities:
+  svg: "/maps/countries/philippines.svg"
+  title:
+    ja: "フィリピンの州"
+    en: "Provinces of the Philippines"
+  list:
+    - code: "PH-SLU"
+      name: "スールー州"
+      type: "province"
+      nameI18n:
+        en: "Sulu"
+    - code: "PH-DAV"
+      name: "北ダバオ州"
+      type: "province"
+      nameI18n:
+        en: "Davao del Norte"
+    - code: "PH-ZSI"
+      name: "サンボアンガ・シブガイ州"
+      type: "province"
+      nameI18n:
+        en: "Zamboanga Sibugay"
+    - code: "PH-PLW"
+      name: "パラワン州"
+      type: "province"
+      nameI18n:
+        en: "Palawan"
+    - code: "PH-SUN"
+      name: "北スリガオ州"
+      type: "province"
+      nameI18n:
+        en: "Surigao del Norte"
+    - code: "PH-SUR"
+      name: "南スリガオ州"
+      type: "province"
+      nameI18n:
+        en: "Surigao del Sur"
+    - code: "PH-AGN"
+      name: "北アグサン州"
+      type: "province"
+      nameI18n:
+        en: "Agusan del Norte"
+    - code: "PH-MSR"
+      name: "東ミサミス州"
+      type: "province"
+      nameI18n:
+        en: "Misamis Oriental"
+    - code: "PH-LAN"
+      name: "北ラナオ州"
+      type: "province"
+      nameI18n:
+        en: "Lanao del Norte"
+    - code: "PH-ZAS"
+      name: "南サンボアンガ州"
+      type: "province"
+      nameI18n:
+        en: "Zamboanga del Sur"
+    - code: "PH-MSC"
+      name: "西ミサミス州"
+      type: "province"
+      nameI18n:
+        en: "Misamis Occidental"
+    - code: "PH-ZAN"
+      name: "北サンボアンガ州"
+      type: "province"
+      nameI18n:
+        en: "Zamboanga del Norte"
+    - code: "PH-LAS"
+      name: "南ラナオ州"
+      type: "province"
+      nameI18n:
+        en: "Lanao del Sur"
+    - code: "PH-MAG"
+      name: "マギンダナオ州"
+      type: "province"
+      nameI18n:
+        en: "Maguindanao"
+    - code: "PH-SUK"
+      name: "スルタン・クダラット州"
+      type: "province"
+      nameI18n:
+        en: "Sultan Kudarat"
+    - code: "PH-SAR"
+      name: "サランガニ州"
+      type: "province"
+      nameI18n:
+        en: "Sarangani"
+    - code: "PH-DAS"
+      name: "南ダバオ州"
+      type: "province"
+      nameI18n:
+        en: "Davao del Sur"
+    - code: "PH-COM"
+      name: "ダバオ・デ・オロ州"
+      type: "province"
+      nameI18n:
+        en: "Davao de Oro"
+    - code: "PH-DAO"
+      name: "東ダバオ州"
+      type: "province"
+      nameI18n:
+        en: "Davao Oriental"
+    - code: "PH-SLE"
+      name: "南レイテ州"
+      type: "province"
+      nameI18n:
+        en: "Southern Leyte"
+    - code: "PH-LEY"
+      name: "レイテ州"
+      type: "province"
+      nameI18n:
+        en: "Leyte"
+    - code: "PH-EAS"
+      name: "東サマール州"
+      type: "province"
+      nameI18n:
+        en: "Eastern Samar"
+    - code: "PH-BIL"
+      name: "ビリラン州"
+      type: "province"
+      nameI18n:
+        en: "Biliran"
+    - code: "PH-WSA"
+      name: "サマール州"
+      type: "province"
+      nameI18n:
+        en: "Samar"
+    - code: "PH-AUR"
+      name: "アウロラ州"
+      type: "province"
+      nameI18n:
+        en: "Aurora"
+    - code: "PH-QUE"
+      name: "ケソン州"
+      type: "province"
+      nameI18n:
+        en: "Quezon"
+    - code: "PH-CAN"
+      name: "北カマリネス州"
+      type: "province"
+      nameI18n:
+        en: "Camarines Norte"
+    - code: "PH-CAS"
+      name: "南カマリネス州"
+      type: "province"
+      nameI18n:
+        en: "Camarines Sur"
+    - code: "PH-ALB"
+      name: "アルバイ州"
+      type: "province"
+      nameI18n:
+        en: "Albay"
+    - code: "PH-SOR"
+      name: "ソルソゴン州"
+      type: "province"
+      nameI18n:
+        en: "Sorsogon"
+    - code: "PH-BTG"
+      name: "バタンガス州"
+      type: "province"
+      nameI18n:
+        en: "Batangas"
+    - code: "PH-CAV"
+      name: "カビテ州"
+      type: "province"
+      nameI18n:
+        en: "Cavite"
+    - code: "PH-BUL"
+      name: "ブラカン州"
+      type: "province"
+      nameI18n:
+        en: "Bulacan"
+    - code: "PH-PAM"
+      name: "パンパンガ州"
+      type: "province"
+      nameI18n:
+        en: "Pampanga"
+    - code: "PH-BAN"
+      name: "バターン州"
+      type: "province"
+      nameI18n:
+        en: "Bataan"
+    - code: "PH-ZMB"
+      name: "サンバレス州"
+      type: "province"
+      nameI18n:
+        en: "Zambales"
+    - code: "PH-PAN"
+      name: "パンガシナン州"
+      type: "province"
+      nameI18n:
+        en: "Pangasinan"
+    - code: "PH-LUN"
+      name: "ラ・ウニオン州"
+      type: "province"
+      nameI18n:
+        en: "La Union"
+    - code: "PH-ILS"
+      name: "南イロコス州"
+      type: "province"
+      nameI18n:
+        en: "Ilocos Sur"
+    - code: "PH-ILN"
+      name: "北イロコス州"
+      type: "province"
+      nameI18n:
+        en: "Ilocos Norte"
+    - code: "PH-CAG"
+      name: "カガヤン州"
+      type: "province"
+      nameI18n:
+        en: "Cagayan"
+    - code: "PH-ISA"
+      name: "イサベラ州"
+      type: "province"
+      nameI18n:
+        en: "Isabela"
+    - code: "PH-TAW"
+      name: "タウィタウィ州"
+      type: "province"
+      nameI18n:
+        en: "Tawi-Tawi"
+    - code: "PH-BAS"
+      name: "バシラン州"
+      type: "province"
+      nameI18n:
+        en: "Basilan"
+    - code: "PH-CAM"
+      name: "カミギン州"
+      type: "province"
+      nameI18n:
+        en: "Camiguin"
+    - code: "PH-SIG"
+      name: "シキホール州"
+      type: "province"
+      nameI18n:
+        en: "Siquijor"
+    - code: "PH-BOH"
+      name: "ボホール州"
+      type: "province"
+      nameI18n:
+        en: "Bohol"
+    - code: "PH-GUI"
+      name: "ギマラス州"
+      type: "province"
+      nameI18n:
+        en: "Guimaras"
+    - code: "PH-NEC"
+      name: "西ネグロス州"
+      type: "province"
+      nameI18n:
+        en: "Negros Occidental"
+    - code: "PH-NER"
+      name: "東ネグロス州"
+      type: "province"
+      nameI18n:
+        en: "Negros Oriental"
+    - code: "PH-CEB"
+      name: "セブ州"
+      type: "province"
+      nameI18n:
+        en: "Cebu"
+    - code: "PH-AKL"
+      name: "アクラン州"
+      type: "province"
+      nameI18n:
+        en: "Aklan"
+    - code: "PH-ANT"
+      name: "アンティーケ州"
+      type: "province"
+      nameI18n:
+        en: "Antique"
+    - code: "PH-ILI"
+      name: "イロイロ州"
+      type: "province"
+      nameI18n:
+        en: "Iloilo"
+    - code: "PH-CAP"
+      name: "カピス州"
+      type: "province"
+      nameI18n:
+        en: "Capiz"
+    - code: "PH-ROM"
+      name: "ロンブロン州"
+      type: "province"
+      nameI18n:
+        en: "Romblon"
+    - code: "PH-NSA"
+      name: "北サマール州"
+      type: "province"
+      nameI18n:
+        en: "Northern Samar"
+    - code: "PH-MAS"
+      name: "マスバテ州"
+      type: "province"
+      nameI18n:
+        en: "Masbate"
+    - code: "PH-MDR"
+      name: "東ミンドロ州"
+      type: "province"
+      nameI18n:
+        en: "Oriental Mindoro"
+    - code: "PH-MDC"
+      name: "西ミンドロ州"
+      type: "province"
+      nameI18n:
+        en: "Occidental Mindoro"
+    - code: "PH-MAD"
+      name: "マリンドゥケ州"
+      type: "province"
+      nameI18n:
+        en: "Marinduque"
+    - code: "PH-CAT"
+      name: "カタンドゥアネス州"
+      type: "province"
+      nameI18n:
+        en: "Catanduanes"
+    - code: "PH-BTN"
+      name: "バターネス州"
+      type: "province"
+      nameI18n:
+        en: "Batanes"
+    - code: "PH-AGS"
+      name: "南アグサン州"
+      type: "province"
+      nameI18n:
+        en: "Agusan del Sur"
+    - code: "PH-BUK"
+      name: "ブキドノン州"
+      type: "province"
+      nameI18n:
+        en: "Bukidnon"
+    - code: "PH-NCO"
+      name: "北コタバト州"
+      type: "province"
+      nameI18n:
+        en: "North Cotabato"
+    - code: "PH-SCO"
+      name: "南コタバト州"
+      type: "province"
+      nameI18n:
+        en: "South Cotabato"
+    - code: "PH-NUE"
+      name: "ヌエバ・エシハ州"
+      type: "province"
+      nameI18n:
+        en: "Nueva Ecija"
+    - code: "PH-LAG"
+      name: "ラグナ州"
+      type: "province"
+      nameI18n:
+        en: "Laguna"
+    - code: "PH-RIZ"
+      name: "リサール州"
+      type: "province"
+      nameI18n:
+        en: "Rizal"
+    - code: "PH-QUI"
+      name: "キリノ州"
+      type: "province"
+      nameI18n:
+        en: "Quirino"
+    - code: "PH-NUV"
+      name: "ヌエバ・ビスカヤ州"
+      type: "province"
+      nameI18n:
+        en: "Nueva Vizcaya"
+    - code: "PH-BEN"
+      name: "ベンゲット州"
+      type: "province"
+      nameI18n:
+        en: "Benguet"
+    - code: "PH-IFU"
+      name: "イフガオ州"
+      type: "province"
+      nameI18n:
+        en: "Ifugao"
+    - code: "PH-MOU"
+      name: "山岳州"
+      type: "province"
+      nameI18n:
+        en: "Mountain Province"
+    - code: "PH-TAR"
+      name: "タルラック州"
+      type: "province"
+      nameI18n:
+        en: "Tarlac"
+    - code: "PH-APA"
+      name: "アパヤオ州"
+      type: "province"
+      nameI18n:
+        en: "Apayao"
+    - code: "PH-KAL"
+      name: "カリンガ州"
+      type: "province"
+      nameI18n:
+        en: "Kalinga"
+    - code: "PH-ABR"
+      name: "アブラ州"
+      type: "province"
+      nameI18n:
+        en: "Abra"
+    - code: "PH-MNL"
+      name: "マニラ首都圏"
+      type: "province"
+      note: "首都"
+      nameI18n:
+        en: "Manila"
 ---
 
 <div class="main-desciption country-description">

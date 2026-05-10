@@ -26,6 +26,148 @@ mapPins:
   - { lat: 24.089, lng: 32.899, label: "アスワン", type: "city", note: "ナイル川上流の都市・アスワンハイダム" }
   - { lat: 27.717, lng: 33.937, label: "シャルム・エル・シェイク", type: "city", note: "紅海沿岸のリゾート都市" }
   - { lat: 30.589, lng: 32.273, label: "スエズ運河", type: "landmark", note: "地中海と紅海を結ぶ要衝" }
+municipalities:
+  svg: "/maps/countries/egypt.svg"
+  title:
+    ja: "エジプトの県"
+    en: "Governorates of Egypt"
+  list:
+    - code: "EG-SIN"
+      name: "北シナイ県"
+      type: "department"
+      nameI18n:
+        en: "North Sinai"
+    - code: "EG-ASN"
+      name: "アスワン県"
+      type: "department"
+      nameI18n:
+        en: "Aswan"
+    - code: "EG-BA"
+      name: "紅海県"
+      type: "department"
+      nameI18n:
+        en: "Red Sea"
+    - code: "EG-MT"
+      name: "マトルーフ県"
+      type: "department"
+      nameI18n:
+        en: "Matrouh"
+    - code: "EG-WAD"
+      name: "新峡谷県"
+      type: "department"
+      nameI18n:
+        en: "New Valley"
+    - code: "EG-SUZ"
+      name: "スエズ県"
+      type: "department"
+      nameI18n:
+        en: "Suez"
+    - code: "EG-JS"
+      name: "南シナイ県"
+      type: "department"
+      nameI18n:
+        en: "South Sinai"
+    - code: "EG-PTS"
+      name: "ポートサイド県"
+      type: "department"
+      nameI18n:
+        en: "Port Said"
+    - code: "EG-DK"
+      name: "ダカリーヤ県"
+      type: "department"
+      nameI18n:
+        en: "Dakahlia"
+    - code: "EG-SHR"
+      name: "シャルキーヤ県"
+      type: "department"
+      nameI18n:
+        en: "Sharqia"
+    - code: "EG-IS"
+      name: "イスマイリア県"
+      type: "department"
+      nameI18n:
+        en: "Ismailia"
+    - code: "EG-DT"
+      name: "ダミエッタ県"
+      type: "department"
+      nameI18n:
+        en: "Damietta"
+    - code: "EG-KFS"
+      name: "カフル・エル・シェイフ県"
+      type: "department"
+      nameI18n:
+        en: "Kafr El Sheikh"
+    - code: "EG-BH"
+      name: "ブハイラ県"
+      type: "department"
+      nameI18n:
+        en: "Beheira"
+    - code: "EG-ALX"
+      name: "アレクサンドリア県"
+      type: "department"
+      nameI18n:
+        en: "Alexandria"
+    - code: "EG-C"
+      name: "カイロ県"
+      type: "department"
+      note: "首都"
+      nameI18n:
+        en: "Cairo"
+    - code: "EG-GZ"
+      name: "ギーザ県"
+      type: "department"
+      nameI18n:
+        en: "Giza"
+    - code: "EG-MN"
+      name: "ミニヤー県"
+      type: "department"
+      nameI18n:
+        en: "Minya"
+    - code: "EG-FYM"
+      name: "ファイユーム県"
+      type: "department"
+      nameI18n:
+        en: "Faiyum"
+    - code: "EG-BNS"
+      name: "バニー・スエフ県"
+      type: "department"
+      nameI18n:
+        en: "Beni Suef"
+    - code: "EG-MNF"
+      name: "ミヌフィーヤ県"
+      type: "department"
+      nameI18n:
+        en: "Monufia"
+    - code: "EG-KB"
+      name: "カリュビーヤ県"
+      type: "department"
+      nameI18n:
+        en: "Qalyubia"
+    - code: "EG-GH"
+      name: "ガルビーヤ県"
+      type: "department"
+      nameI18n:
+        en: "Gharbia"
+    - code: "EG-SHG"
+      name: "ソハーグ県"
+      type: "department"
+      nameI18n:
+        en: "Sohag"
+    - code: "EG-KN"
+      name: "キナ県"
+      type: "department"
+      nameI18n:
+        en: "Qena"
+    - code: "EG-AST"
+      name: "アシュート県"
+      type: "department"
+      nameI18n:
+        en: "Asyut"
+    - code: "EG-LX"
+      name: "ルクソール県"
+      type: "department"
+      nameI18n:
+        en: "Luxor"
 ---
 
 <div class="main-desciption country-description">
