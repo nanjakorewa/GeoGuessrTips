@@ -28,6 +28,31 @@ mapPins:
   - { lat: 41.378, lng: 60.351, label: "ヒヴァ", type: "historical", note: "世界遺産・砂漠のオアシス城塞都市" }
   - { lat: 40.781, lng: 72.347, label: "フェルガナ", type: "city", note: "東部の主要都市・フェルガナ盆地の中心" }
   - { lat: 42.460, lng: 59.611, label: "ヌクス", type: "city", note: "西部カラカルパクスタン共和国の首都" }
+municipalities:
+  svg: "/maps/countries/uzbekistan.svg"
+  title:
+    ja: "ウズベキスタンの州"
+    en: "Regions of Uzbekistan"
+  list:
+    - { code: "UZ-FA", name: "Ferghana", type: "region" }
+    - { code: "UZ-TO", name: "Tashkent", type: "region" }
+    - { code: "UZ-NG", name: "Namangan", type: "region" }
+    - { code: "UZ-AN", name: "Andijon", type: "region" }
+    - { code: "UZ-SI", name: "Sirdaryo", type: "region" }
+    - { code: "UZ-JI", name: "Jizzakh", type: "region" }
+    - { code: "UZ-SA", name: "Samarkand", type: "region" }
+    - { code: "UZ-QA", name: "Kashkadarya", type: "region" }
+    - { code: "UZ-SU", name: "Surkhandarya", type: "region" }
+    - { code: "UZ-QR", name: "Karakalpakstan", type: "region" }
+    - { code: "UZ-NW", name: "Navoi", type: "region" }
+    - { code: "UZ-XO", name: "Khorezm", type: "region" }
+    - { code: "UZ-BU", name: "Bukhoro", type: "region" }
+    - code: "UZ-TK"
+      name: "タシュケント市"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Tashkent (City)"
 ---
 
 <div class="main-desciption country-description">

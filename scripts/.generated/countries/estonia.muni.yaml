@@ -1,0 +1,82 @@
+municipalities:
+  svg: "/maps/countries/estonia.svg"
+  title:
+    ja: "エストニアの県"
+    en: "Counties of Estonia"
+  list:
+    - code: "EE-84"
+      name: "ヴィリャンディ県"
+      type: "county"
+      nameI18n:
+        en: "Viljandi"
+    - code: "EE-67"
+      name: "ポルヴァ県"
+      type: "county"
+      nameI18n:
+        en: "Põlva"
+    - code: "EE-82"
+      name: "ヴァルガ県"
+      type: "county"
+      nameI18n:
+        en: "Valga"
+    - code: "EE-86"
+      name: "ヴル県"
+      type: "county"
+      nameI18n:
+        en: "Võru"
+    - code: "EE-44"
+      name: "イダ・ヴィル県"
+      type: "county"
+      nameI18n:
+        en: "Ida-Viru"
+    - code: "EE-65"
+      name: "ペルヌ県"
+      type: "county"
+      nameI18n:
+        en: "Pärnu"
+    - code: "EE-78"
+      name: "タルトゥ県"
+      type: "county"
+      nameI18n:
+        en: "Tartu"
+    - code: "EE-49"
+      name: "ヨーゲヴァ県"
+      type: "county"
+      nameI18n:
+        en: "Jõgeva"
+    - code: "EE-57"
+      name: "レーネ県"
+      type: "county"
+      nameI18n:
+        en: "Lääne"
+    - code: "EE-37"
+      name: "ハリュ県"
+      type: "county"
+      note: "首都タリン"
+      nameI18n:
+        en: "Harju"
+    - code: "EE-59"
+      name: "レーネ・ヴィル県"
+      type: "county"
+      nameI18n:
+        en: "Lääne-Viru"
+    - code: "EE-74"
+      name: "サーレ県"
+      type: "county"
+      nameI18n:
+        en: "Saare"
+    - code: "EE-39"
+      name: "ヒーウ県"
+      type: "county"
+      nameI18n:
+        en: "Hiiu"
+    - code: "EE-70"
+      name: "ラプラ県"
+      type: "county"
+      nameI18n:
+        en: "Rapla"
+    - code: "EE-51"
+      name: "ヤルヴァ県"
+      type: "county"
+      nameI18n:
+        en: "Järva"

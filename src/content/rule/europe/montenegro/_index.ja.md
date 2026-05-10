@@ -28,6 +28,38 @@ mapPins:
   - { lat: 42.787, lng: 19.295, label: "ニクシッチ", type: "city", note: "国内第二の都市" }
   - { lat: 42.385, lng: 18.952, label: "ツェティニェ", type: "historical", note: "旧首都・歴史文化の中心" }
   - { lat: 43.354, lng: 19.099, label: "ドゥルミトル国立公園", type: "nature", note: "世界遺産の山岳地帯" }
+municipalities:
+  svg: "/maps/countries/montenegro.svg"
+  title:
+    ja: "モンテネグロの自治体"
+    en: "Municipalities of Montenegro"
+  list:
+    - { code: "ME-08", name: "Herceg Novi", type: "county" }
+    - { code: "ME-17", name: "Rožaje", type: "county" }
+    - { code: "ME-03", name: "Berane", type: "county" }
+    - { code: "ME-13", name: "Plav", type: "county" }
+    - { code: "ME-14", name: "Pljevlja", type: "county" }
+    - { code: "ME-04", name: "Bijelo Polje", type: "county" }
+    - { code: "ME-21", name: "Žabljak", type: "county" }
+    - code: "ME-15"
+      name: "ポドゴリツァ"
+      type: "county"
+      note: "首都"
+      nameI18n:
+        en: "Podgorica"
+    - { code: "ME-12", name: "Nikšic", type: "county" }
+    - { code: "ME-10", name: "Kotor", type: "county" }
+    - { code: "ME-01", name: "Andrijevica", type: "county" }
+    - { code: "ME-16", name: "Podgorica", type: "county" }
+    - { code: "ME-02", name: "Bar", type: "county" }
+    - { code: "ME-20", name: "Ulcinj", type: "county" }
+    - { code: "ME-05", name: "Budva", type: "county" }
+    - { code: "ME-19", name: "Tivat", type: "county" }
+    - { code: "ME-11", name: "Mojkovac", type: "county" }
+    - { code: "ME-06", name: "Cetinje", type: "county" }
+    - { code: "ME-18", name: "Šavnik", type: "county" }
+    - { code: "ME-09", name: "Kolašin", type: "county" }
+    - { code: "ME-07", name: "Danilovgrad", type: "county" }
 ---
 
 

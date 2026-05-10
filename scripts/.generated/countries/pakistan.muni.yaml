@@ -1,0 +1,47 @@
+municipalities:
+  svg: "/maps/countries/pakistan.svg"
+  title:
+    ja: "パキスタンの州"
+    en: "Provinces of Pakistan"
+  list:
+    - code: "PK-GB"
+      name: "ギルギット・バルティスタン"
+      type: "province"
+      nameI18n:
+        en: "Gilgit-Baltistan"
+    - code: "PK-KP"
+      name: "ハイバル・パフトゥンクワ州"
+      type: "province"
+      nameI18n:
+        en: "Khyber Pakhtunkhwa"
+    - code: "PK-TA"
+      name: "連邦直轄部族地域"
+      type: "province"
+      nameI18n:
+        en: "FATA"
+    - code: "PK-BA"
+      name: "バルチスタン州"
+      type: "province"
+      nameI18n:
+        en: "Balochistan"
+    - code: "PK-PB"
+      name: "パンジャブ州"
+      type: "province"
+      nameI18n:
+        en: "Punjab"
+    - code: "PK-SD"
+      name: "シンド州"
+      type: "province"
+      nameI18n:
+        en: "Sindh"
+    - code: "PK-JK"
+      name: "アザド・カシミール"
+      type: "province"
+      nameI18n:
+        en: "Azad Kashmir"
+    - code: "PK-IS"
+      name: "イスラマバード首都圏"
+      type: "province"
+      note: "首都"
+      nameI18n:
+        en: "Islamabad Capital Territory"

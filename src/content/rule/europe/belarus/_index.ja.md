@@ -30,6 +30,48 @@ mapPins:
   - { lat: 52.425, lng: 31.014, label: "ホメリ", type: "city", note: "南東部の主要都市" }
   - { lat: 52.700, lng: 23.867, label: "ベラヴェシュスカヤ・プーシャ", type: "nature", note: "欧州最大の原生林・世界遺産" }
   - { lat: 53.870, lng: 25.840, label: "ミール城", type: "historical", note: "16世紀の城・世界遺産" }
+municipalities:
+  svg: "/maps/countries/belarus.svg"
+  title:
+    ja: "ベラルーシの州"
+    en: "Regions of Belarus"
+  list:
+    - code: "BY-HO"
+      name: "ホメリ州"
+      type: "region"
+      nameI18n:
+        en: "Gomel"
+    - code: "BY-BR"
+      name: "ブレスト州"
+      type: "region"
+      nameI18n:
+        en: "Brest"
+    - code: "BY-VI"
+      name: "ヴィーツェプスク州"
+      type: "region"
+      nameI18n:
+        en: "Vitebsk"
+    - code: "BY-HR"
+      name: "フロドナ州"
+      type: "region"
+      nameI18n:
+        en: "Grodno"
+    - code: "BY-MA"
+      name: "マヒリョウ州"
+      type: "region"
+      nameI18n:
+        en: "Mogilev"
+    - code: "BY-MI"
+      name: "ミンスク州"
+      type: "region"
+      nameI18n:
+        en: "Minsk (Region)"
+    - code: "BY-HM"
+      name: "ミンスク市"
+      type: "metropolitan_city"
+      note: "首都"
+      nameI18n:
+        en: "Minsk (City)"
 ---
 
 <div class="main-desciption country-description">

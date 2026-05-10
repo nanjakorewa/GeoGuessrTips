@@ -33,6 +33,38 @@ mapPins:
   - { lat: 55.713, lng: 9.535, label: "ビルン", type: "landmark", note: "レゴランド本拠地" }
   - { lat: 55.692, lng: 12.599, label: "人魚姫像", type: "landmark", note: "コペンハーゲンの象徴" }
   - { lat: 55.460, lng: 8.450, label: "ヴァッデン海", type: "nature", note: "世界遺産の干潟" }
+municipalities:
+  svg: "/maps/countries/denmark.svg"
+  title:
+    ja: "デンマークの地域"
+    en: "Regions of Denmark"
+  list:
+    - code: "DK-83"
+      name: "南デンマーク地域"
+      type: "region"
+      nameI18n:
+        en: "Southern Denmark"
+    - code: "DK-82"
+      name: "中央ユラン地域"
+      type: "region"
+      nameI18n:
+        en: "Central Denmark"
+    - code: "DK-81"
+      name: "北ユラン地域"
+      type: "region"
+      nameI18n:
+        en: "North Denmark"
+    - code: "DK-85"
+      name: "シェラン地域"
+      type: "region"
+      nameI18n:
+        en: "Zealand"
+    - code: "DK-84"
+      name: "首都地域"
+      type: "region"
+      note: "首都コペンハーゲン"
+      nameI18n:
+        en: "Capital Region"
 ---
 
 <div class="main-desciption country-description">

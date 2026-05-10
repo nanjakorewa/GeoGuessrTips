@@ -30,6 +30,118 @@ mapPins:
   - { lat: 45.066, lng: 13.640, label: "プーラ", type: "city", note: "ローマ円形闘技場で有名" }
   - { lat: 44.881, lng: 15.620, label: "プリトヴィツェ湖群", type: "nature", note: "16の湖と滝・世界遺産" }
   - { lat: 45.487, lng: 17.401, label: "オシエク", type: "city", note: "東部スラヴォニア地方の中心" }
+municipalities:
+  svg: "/maps/countries/croatia.svg"
+  title:
+    ja: "クロアチアの県"
+    en: "Counties of Croatia"
+  list:
+    - code: "HR-20"
+      name: "メジムリエ郡"
+      type: "county"
+      nameI18n:
+        en: "Međimurje"
+    - code: "HR-10"
+      name: "ヴィロヴィティツァ・ポドラヴィナ郡"
+      type: "county"
+      nameI18n:
+        en: "Virovitica-Podravina"
+    - code: "HR-06"
+      name: "コプリヴニツァ・クリジェヴツィ郡"
+      type: "county"
+      nameI18n:
+        en: "Koprivnica-Križevci"
+    - code: "HR-14"
+      name: "オシイェク・バラニャ郡"
+      type: "county"
+      nameI18n:
+        en: "Osijek-Baranja"
+    - code: "HR-18"
+      name: "イストラ郡"
+      type: "county"
+      nameI18n:
+        en: "Istria"
+    - code: "HR-19"
+      name: "ドゥブロヴニク・ネレトヴァ郡"
+      type: "county"
+      nameI18n:
+        en: "Dubrovnik-Neretva"
+    - code: "HR-03"
+      name: "シサク・モスラビナ郡"
+      type: "county"
+      nameI18n:
+        en: "Sisak-Moslavina"
+    - code: "HR-12"
+      name: "ブロド・ポサヴィナ郡"
+      type: "county"
+      nameI18n:
+        en: "Brod-Posavina"
+    - code: "HR-04"
+      name: "カルロヴァツ郡"
+      type: "county"
+      nameI18n:
+        en: "Karlovac"
+    - code: "HR-13"
+      name: "ザダル郡"
+      type: "county"
+      nameI18n:
+        en: "Zadar"
+    - code: "HR-16"
+      name: "ヴコヴァル・スリイェム郡"
+      type: "county"
+      nameI18n:
+        en: "Vukovar-Srijem"
+    - code: "HR-17"
+      name: "スプリト・ダルマチア郡"
+      type: "county"
+      nameI18n:
+        en: "Split-Dalmatia"
+    - code: "HR-05"
+      name: "ヴァラジュディン郡"
+      type: "county"
+      nameI18n:
+        en: "Varaždin"
+    - code: "HR-02"
+      name: "クラピナ・ザゴリエ郡"
+      type: "county"
+      nameI18n:
+        en: "Krapina-Zagorje"
+    - code: "HR-01"
+      name: "ザグレブ郡"
+      type: "county"
+      nameI18n:
+        en: "Zagreb County"
+    - code: "HR-08"
+      name: "プリモリェ・ゴルスキー・コタール郡"
+      type: "county"
+      nameI18n:
+        en: "Primorje-Gorski Kotar"
+    - code: "HR-15"
+      name: "シベニク・クニン郡"
+      type: "county"
+      nameI18n:
+        en: "Šibenik-Knin"
+    - code: "HR-09"
+      name: "リカ・セニ郡"
+      type: "county"
+      nameI18n:
+        en: "Lika-Senj"
+    - code: "HR-07"
+      name: "ビェロヴァル・ビロゴラ郡"
+      type: "county"
+      nameI18n:
+        en: "Bjelovar-Bilogora"
+    - code: "HR-21"
+      name: "ザグレブ市"
+      type: "metropolitan_city"
+      note: "首都"
+      nameI18n:
+        en: "Zagreb (City)"
+    - code: "HR-12"
+      name: "ブロド・ポサヴィナ郡"
+      type: "county"
+      nameI18n:
+        en: "Brod-Posavina"
 ---
 
 <div class="main-desciption country-description">

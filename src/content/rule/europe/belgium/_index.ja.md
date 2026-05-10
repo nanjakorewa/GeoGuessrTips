@@ -34,6 +34,68 @@ mapPins:
   - { lat: 50.633, lng: 5.567, label: "リエージュ", type: "city", note: "ワロン地方の中心都市" }
   - { lat: 50.851, lng: 2.886, label: "イーペル", type: "historical", note: "第一次大戦の激戦地" }
   - { lat: 50.467, lng: 4.872, label: "ナミュール", type: "city", note: "ワロン地方の州都" }
+municipalities:
+  svg: "/maps/countries/belgium.svg"
+  title:
+    ja: "ベルギーの州"
+    en: "Provinces of Belgium"
+  list:
+    - code: "BE-VWV"
+      name: "西フランデレン州"
+      type: "province"
+      nameI18n:
+        en: "West Flanders"
+    - code: "BE-WHT"
+      name: "エノー州"
+      type: "province"
+      nameI18n:
+        en: "Hainaut"
+    - code: "BE-WNA"
+      name: "ナミュール州"
+      type: "province"
+      nameI18n:
+        en: "Namur"
+    - code: "BE-WLX"
+      name: "リュクサンブール州"
+      type: "province"
+      nameI18n:
+        en: "Luxembourg"
+    - code: "BE-WLG"
+      name: "リエージュ州"
+      type: "province"
+      nameI18n:
+        en: "Liège"
+    - code: "BE-VOV"
+      name: "東フランデレン州"
+      type: "province"
+      nameI18n:
+        en: "East Flanders"
+    - code: "BE-VAN"
+      name: "アントワープ州"
+      type: "province"
+      nameI18n:
+        en: "Antwerp"
+    - code: "BE-VLI"
+      name: "リンブルフ州"
+      type: "province"
+      nameI18n:
+        en: "Limburg"
+    - code: "BE-BRU"
+      name: "ブリュッセル首都圏"
+      type: "federal_district"
+      note: "首都"
+      nameI18n:
+        en: "Brussels"
+    - code: "BE-VBR"
+      name: "フラームス・ブラバン州"
+      type: "province"
+      nameI18n:
+        en: "Flemish Brabant"
+    - code: "BE-WBR"
+      name: "ワロン・ブラバン州"
+      type: "province"
+      nameI18n:
+        en: "Walloon Brabant"
 ---
 
 <div class="main-desciption country-description">

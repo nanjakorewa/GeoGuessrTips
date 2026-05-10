@@ -1,0 +1,87 @@
+municipalities:
+  svg: "/maps/countries/malaysia.svg"
+  title:
+    ja: "マレーシアの州"
+    en: "States of Malaysia"
+  list:
+    - code: "MY-12"
+      name: "サバ州"
+      type: "state"
+      nameI18n:
+        en: "Sabah"
+    - code: "MY-09"
+      name: "プルリス州"
+      type: "state"
+      nameI18n:
+        en: "Perlis"
+    - code: "MY-02"
+      name: "ケダ州"
+      type: "state"
+      nameI18n:
+        en: "Kedah"
+    - code: "MY-03"
+      name: "クランタン州"
+      type: "state"
+      nameI18n:
+        en: "Kelantan"
+    - code: "MY-08"
+      name: "ペラ州"
+      type: "state"
+      nameI18n:
+        en: "Perak"
+    - code: "MY-13"
+      name: "サラワク州"
+      type: "state"
+      nameI18n:
+        en: "Sarawak"
+    - code: "MY-07"
+      name: "ペナン州"
+      type: "state"
+      nameI18n:
+        en: "Penang"
+    - code: "MY-10"
+      name: "セランゴール州"
+      type: "state"
+      nameI18n:
+        en: "Selangor"
+    - code: "MY-05"
+      name: "ヌグリ・スンビラン州"
+      type: "state"
+      nameI18n:
+        en: "Negeri Sembilan"
+    - code: "MY-04"
+      name: "マラッカ州"
+      type: "state"
+      nameI18n:
+        en: "Melaka"
+    - code: "MY-01"
+      name: "ジョホール州"
+      type: "state"
+      nameI18n:
+        en: "Johor"
+    - code: "MY-06"
+      name: "パハン州"
+      type: "state"
+      nameI18n:
+        en: "Pahang"
+    - code: "MY-11"
+      name: "トレンガヌ州"
+      type: "state"
+      nameI18n:
+        en: "Terengganu"
+    - code: "MY-15"
+      name: "ラブアン連邦領"
+      type: "federal_district"
+      nameI18n:
+        en: "Labuan"
+    - code: "MY-14"
+      name: "クアラルンプール連邦領"
+      type: "federal_district"
+      note: "首都"
+      nameI18n:
+        en: "Kuala Lumpur"
+    - code: "MY-16"
+      name: "プトラジャヤ連邦領"
+      type: "federal_district"
+      nameI18n:
+        en: "Putrajaya"

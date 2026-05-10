@@ -34,6 +34,69 @@ mapPins:
   - { lat: 47.094, lng: 51.923, label: "アティラウ", type: "port", note: "カスピ海沿岸の石油都市" }
   - { lat: 43.250, lng: 77.085, label: "天山山脈", type: "nature", note: "南東部の大山脈・キルギスとの国境" }
   - { lat: 45.000, lng: 60.000, label: "アラル海", type: "nature", note: "縮小が続く塩湖・南西部" }
+municipalities:
+  svg: "/maps/countries/kazakhstan.svg"
+  title:
+    ja: "カザフスタンの州"
+    en: "Regions of Kazakhstan"
+  list:
+    - code: "KZ-VOS"
+      name: "東カザフスタン州"
+      type: "region"
+      nameI18n:
+        en: "East Kazakhstan"
+    - code: "KZ-ALA"
+      name: "アルマトイ"
+      type: "region"
+      nameI18n:
+        en: "Almaty (City)"
+    - { code: "KZ-ZHA", name: "Zhambyl", type: "region" }
+    - code: "KZ-YUZ"
+      name: "南カザフスタン州"
+      type: "region"
+      nameI18n:
+        en: "South Kazakhstan"
+    - code: "KZ-MAN"
+      name: "マンギスタウ州"
+      type: "region"
+      nameI18n:
+        en: "Mangystau"
+    - { code: "KZ-KZY", name: "Qyzylorda", type: "region" }
+    - code: "KZ-AKT"
+      name: "アクトベ州"
+      type: "region"
+      nameI18n:
+        en: "Aktobe"
+    - { code: "KZ-SEV", name: "North Kazakhstan", type: "region" }
+    - { code: "KZ-KUS", name: "Qostanay", type: "region" }
+    - { code: "KZ-PAV", name: "Pavlodar", type: "region" }
+    - code: "KZ-ZAP"
+      name: "西カザフスタン州"
+      type: "region"
+      nameI18n:
+        en: "West Kazakhstan"
+    - code: "KZ-ATY"
+      name: "アティラウ州"
+      type: "region"
+      nameI18n:
+        en: "Atyrau"
+    - code: "KZ-AKM"
+      name: "アクモラ州"
+      type: "region"
+      nameI18n:
+        en: "Akmola"
+    - { code: "KZ-KAR", name: "Qaraghandy", type: "region" }
+    - code: "KZ-ALA"
+      name: "アルマトイ"
+      type: "region"
+      nameI18n:
+        en: "Almaty (City)"
+    - code: "KZ-AST"
+      name: "アスタナ"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Astana"
 ---
 
 <div class="main-desciption country-description">

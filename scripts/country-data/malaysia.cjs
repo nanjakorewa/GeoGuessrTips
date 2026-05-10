@@ -1,0 +1,28 @@
+// Malaysia: 13 states + 3 federal territories
+module.exports = {
+  pageDir: "asia/malaysia",
+  source: { type: "natural-earth", iso_a2: "MY" },
+  title: { ja: "マレーシアの州", en: "States of Malaysia" },
+  defaultType: "state",
+  tolerance: 0.02,
+  minOuterArea: 1e-3,
+  typeOverrides: { "MY-14": "federal_district", "MY-15": "federal_district", "MY-16": "federal_district" },
+  names: {
+    "MY-01": { ja: "ジョホール州",      en: "Johor" },
+    "MY-02": { ja: "ケダ州",            en: "Kedah" },
+    "MY-03": { ja: "クランタン州",      en: "Kelantan" },
+    "MY-04": { ja: "マラッカ州",        en: "Melaka" },
+    "MY-05": { ja: "ヌグリ・スンビラン州", en: "Negeri Sembilan" },
+    "MY-06": { ja: "パハン州",          en: "Pahang" },
+    "MY-07": { ja: "ペナン州",          en: "Penang" },
+    "MY-08": { ja: "ペラ州",            en: "Perak" },
+    "MY-09": { ja: "プルリス州",        en: "Perlis" },
+    "MY-10": { ja: "セランゴール州",    en: "Selangor" },
+    "MY-11": { ja: "トレンガヌ州",      en: "Terengganu" },
+    "MY-12": { ja: "サバ州",            en: "Sabah" },
+    "MY-13": { ja: "サラワク州",        en: "Sarawak" },
+    "MY-14": { ja: "クアラルンプール連邦領", en: "Kuala Lumpur", note: "首都" },
+    "MY-15": { ja: "ラブアン連邦領",    en: "Labuan" },
+    "MY-16": { ja: "プトラジャヤ連邦領",en: "Putrajaya" },
+  },
+};

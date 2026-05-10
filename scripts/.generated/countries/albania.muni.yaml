@@ -1,0 +1,67 @@
+municipalities:
+  svg: "/maps/countries/albania.svg"
+  title:
+    ja: "アルバニアの県"
+    en: "Counties of Albania"
+  list:
+    - code: "AL-09"
+      name: "ディブラ県"
+      type: "county"
+      nameI18n:
+        en: "Dibër"
+    - code: "AL-07"
+      name: "クケス県"
+      type: "county"
+      nameI18n:
+        en: "Kukës"
+    - code: "AL-06"
+      name: "ヴロラ県"
+      type: "county"
+      nameI18n:
+        en: "Vlorë"
+    - code: "AL-03"
+      name: "レジャ県"
+      type: "county"
+      nameI18n:
+        en: "Lezhë"
+    - code: "AL-05"
+      name: "ジロカストラ県"
+      type: "county"
+      nameI18n:
+        en: "Gjirokastër"
+    - code: "AL-12"
+      name: "フィエル県"
+      type: "county"
+      nameI18n:
+        en: "Fier"
+    - code: "AL-10"
+      name: "ドゥラス県"
+      type: "county"
+      nameI18n:
+        en: "Durrës"
+    - code: "AL-04"
+      name: "ティラナ県"
+      type: "county"
+      note: "首都"
+      nameI18n:
+        en: "Tirana"
+    - code: "AL-11"
+      name: "エルバサン県"
+      type: "county"
+      nameI18n:
+        en: "Elbasan"
+    - code: "AL-02"
+      name: "シュコドラ県"
+      type: "county"
+      nameI18n:
+        en: "Shkodër"
+    - code: "AL-08"
+      name: "コルチャ県"
+      type: "county"
+      nameI18n:
+        en: "Korçë"
+    - code: "AL-01"
+      name: "ベラト県"
+      type: "county"
+      nameI18n:
+        en: "Berat"

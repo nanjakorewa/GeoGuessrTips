@@ -27,6 +27,34 @@ mapPins:
   - { lat: 21.975, lng: 96.084, label: "マンダレー", type: "city", note: "中部の主要都市・最後の王朝の都" }
   - { lat: 21.171, lng: 94.858, label: "バガン", type: "historical", note: "世界遺産・無数のパゴダが残る古都" }
   - { lat: 20.368, lng: 96.916, label: "インレー湖", type: "nature", note: "高地にある湖・水上集落で有名" }
+municipalities:
+  svg: "/maps/countries/myanmar.svg"
+  title:
+    ja: "ミャンマーの州・管区"
+    en: "States and Regions of Myanmar"
+  list:
+    - { code: "MM-16", name: "Rakhine", type: "state" }
+    - { code: "MM-14", name: "Chin", type: "state" }
+    - { code: "MM-11", name: "Kachin", type: "state" }
+    - { code: "MM-01", name: "Sagaing", type: "state" }
+    - { code: "MM-17", name: "Shan", type: "state" }
+    - { code: "MM-12", name: "Kayah", type: "state" }
+    - { code: "MM-13", name: "Kayin", type: "state" }
+    - code: "MM-15"
+      name: "マンダレー管区"
+      type: "state"
+      nameI18n:
+        en: "Mandalay"
+    - { code: "MM-05", name: "Tanintharyi", type: "state" }
+    - { code: "MM-07", name: "Ayeyarwady", type: "state" }
+    - code: "MM-06"
+      name: "ヤンゴン管区"
+      type: "state"
+      nameI18n:
+        en: "Yangon"
+    - { code: "MM-02", name: "Bago", type: "state" }
+    - { code: "MM-03", name: "Magway", type: "state" }
+    - { code: "MM-04", name: "Mandalay", type: "state" }
 ---
 
 <div class="main-desciption country-description">

@@ -1,0 +1,42 @@
+municipalities:
+  svg: "/maps/countries/bangladesh.svg"
+  title:
+    ja: "バングラデシュの管区"
+    en: "Divisions of Bangladesh"
+  list:
+    - code: "BD-B"
+      name: "チッタゴン管区"
+      type: "region"
+      nameI18n:
+        en: "Chittagong"
+    - code: "BD-G"
+      name: "シレット管区"
+      type: "region"
+      nameI18n:
+        en: "Sylhet"
+    - code: "BD-C"
+      name: "ダッカ管区"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Dhaka"
+    - code: "BD-F"
+      name: "ラングプール管区"
+      type: "region"
+      nameI18n:
+        en: "Rangpur"
+    - code: "BD-E"
+      name: "ラジシャヒ管区"
+      type: "region"
+      nameI18n:
+        en: "Rajshahi"
+    - code: "BD-D"
+      name: "クルナ管区"
+      type: "region"
+      nameI18n:
+        en: "Khulna"
+    - code: "BD-A"
+      name: "バリサル管区"
+      type: "region"
+      nameI18n:
+        en: "Barisal"

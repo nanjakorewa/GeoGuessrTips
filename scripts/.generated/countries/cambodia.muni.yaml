@@ -1,0 +1,35 @@
+municipalities:
+  svg: "/maps/countries/cambodia.svg"
+  title:
+    ja: "カンボジアの州"
+    en: "Provinces of Cambodia"
+  list:
+    - { code: "KH-16", name: "Rôtânôkiri", type: "province" }
+    - { code: "KH-11", name: "Môndól Kiri", type: "province" }
+    - { code: "KH-10", name: "Krâchéh", type: "province" }
+    - { code: "KH-3", name: "Kâmpóng Cham", type: "province" }
+    - { code: "KH-20", name: "Svay Rieng", type: "province" }
+    - { code: "KH-14", name: "Prey Vêng", type: "province" }
+    - { code: "KH-8", name: "Kândal", type: "province" }
+    - { code: "KH-21", name: "Takêv", type: "province" }
+    - { code: "KH-7", name: "Kâmpôt", type: "province" }
+    - { code: "KH-22", name: "Otdar Mean Chey", type: "province" }
+    - { code: "KH-13", name: "Preah Vihéar", type: "province" }
+    - { code: "KH-17", name: "Siemréab", type: "province" }
+    - { code: "KH-1", name: "Bântéay Méanchey", type: "province" }
+    - { code: "KH-9", name: "Kaôh Kong", type: "province" }
+    - { code: "KH-15", name: "Pouthisat", type: "province" }
+    - { code: "KH-2", name: "Batdâmbâng", type: "province" }
+    - { code: "KH-24", name: "Krong Pailin", type: "province" }
+    - { code: "KH-19", name: "Stœng Trêng", type: "province" }
+    - { code: "KH-18", name: "Krong Preah Sihanouk", type: "province" }
+    - { code: "KH-23", name: "Kep", type: "province" }
+    - { code: "KH-4", name: "Kâmpóng Chhnang", type: "province" }
+    - { code: "KH-6", name: "Kâmpóng Thum", type: "province" }
+    - { code: "KH-5", name: "Kâmpóng Spœ", type: "province" }
+    - code: "KH-12"
+      name: "プノンペン"
+      type: "province"
+      note: "首都"
+      nameI18n:
+        en: "Phnom Penh"

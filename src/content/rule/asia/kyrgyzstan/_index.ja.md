@@ -33,6 +33,25 @@ mapPins:
   - { lat: 42.428, lng: 77.252, label: "イシク・クル湖", type: "nature", note: "世界第2位の透明度を持つ山岳湖" }
   - { lat: 42.034, lng: 80.115, label: "ハン・テングリ", type: "nature", note: "天山山脈の名峰（標高7,010m）" }
   - { lat: 41.000, lng: 75.000, label: "天山山脈", type: "nature", note: "国土の大部分を占める大山脈" }
+municipalities:
+  svg: "/maps/countries/kyrgyzstan.svg"
+  title:
+    ja: "キルギスの州"
+    en: "Regions of Kyrgyzstan"
+  list:
+    - { code: "KG-Y", name: "Ysyk-Köl", type: "region" }
+    - { code: "KG-N", name: "Naryn", type: "region" }
+    - { code: "KG-O", name: "Osh", type: "region" }
+    - { code: "KG-C", name: "Chuy", type: "region" }
+    - { code: "KG-T", name: "Talas", type: "region" }
+    - { code: "KG-J", name: "Jalal-Abad", type: "region" }
+    - { code: "KG-B", name: "Batken", type: "region" }
+    - code: "KG-GB"
+      name: "ビシュケク市"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Bishkek"
 ---
 
 <div class="main-desciption country-description">

@@ -1,0 +1,26 @@
+// Estonia: 15 counties (maakond)
+module.exports = {
+  pageDir: "europe/baltic-state/estonia",
+  source: { type: "natural-earth", iso_a2: "EE" },
+  title: { ja: "エストニアの県", en: "Counties of Estonia" },
+  defaultType: "county",
+  tolerance: 0.01,
+  minOuterArea: 1e-4,
+  names: {
+    "EE-37": { ja: "ハリュ県",       en: "Harju", note: "首都タリン" },
+    "EE-39": { ja: "ヒーウ県",       en: "Hiiu" },
+    "EE-44": { ja: "イダ・ヴィル県", en: "Ida-Viru" },
+    "EE-49": { ja: "ヨーゲヴァ県",   en: "Jõgeva" },
+    "EE-51": { ja: "ヤルヴァ県",     en: "Järva" },
+    "EE-57": { ja: "レーネ県",       en: "Lääne" },
+    "EE-59": { ja: "レーネ・ヴィル県",en: "Lääne-Viru" },
+    "EE-65": { ja: "ペルヌ県",       en: "Pärnu" },
+    "EE-67": { ja: "ポルヴァ県",     en: "Põlva" },
+    "EE-70": { ja: "ラプラ県",       en: "Rapla" },
+    "EE-74": { ja: "サーレ県",       en: "Saare" },
+    "EE-78": { ja: "タルトゥ県",     en: "Tartu" },
+    "EE-82": { ja: "ヴァルガ県",     en: "Valga" },
+    "EE-84": { ja: "ヴィリャンディ県",en: "Viljandi" },
+    "EE-86": { ja: "ヴル県",         en: "Võru" },
+  },
+};

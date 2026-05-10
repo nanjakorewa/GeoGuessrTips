@@ -32,6 +32,53 @@ mapPins:
   - { lat: 35.881, lng: 76.515, label: "K2", type: "nature", note: "世界第2位の高峰（標高8,611m）" }
   - { lat: 35.000, lng: 75.000, label: "カラコルム山脈", type: "nature", note: "北部の大山脈・世界有数の高峰群" }
   - { lat: 31.460, lng: 73.135, label: "フェイサラーバード", type: "city", note: "パンジャーブ州の工業都市" }
+municipalities:
+  svg: "/maps/countries/pakistan.svg"
+  title:
+    ja: "パキスタンの州"
+    en: "Provinces of Pakistan"
+  list:
+    - code: "PK-GB"
+      name: "ギルギット・バルティスタン"
+      type: "province"
+      nameI18n:
+        en: "Gilgit-Baltistan"
+    - code: "PK-KP"
+      name: "ハイバル・パフトゥンクワ州"
+      type: "province"
+      nameI18n:
+        en: "Khyber Pakhtunkhwa"
+    - code: "PK-TA"
+      name: "連邦直轄部族地域"
+      type: "province"
+      nameI18n:
+        en: "FATA"
+    - code: "PK-BA"
+      name: "バルチスタン州"
+      type: "province"
+      nameI18n:
+        en: "Balochistan"
+    - code: "PK-PB"
+      name: "パンジャブ州"
+      type: "province"
+      nameI18n:
+        en: "Punjab"
+    - code: "PK-SD"
+      name: "シンド州"
+      type: "province"
+      nameI18n:
+        en: "Sindh"
+    - code: "PK-JK"
+      name: "アザド・カシミール"
+      type: "province"
+      nameI18n:
+        en: "Azad Kashmir"
+    - code: "PK-IS"
+      name: "イスラマバード首都圏"
+      type: "province"
+      note: "首都"
+      nameI18n:
+        en: "Islamabad Capital Territory"
 ---
 
 <div class="main-desciption country-description">

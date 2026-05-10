@@ -31,6 +31,21 @@ mapPins:
   - { lat: 64.327, lng: -20.121, label: "ゲイシール", type: "nature", note: "間欠泉で有名な地熱地帯" }
   - { lat: 64.014, lng: -19.991, label: "グトルフォス", type: "nature", note: "黄金の滝" }
   - { lat: 63.430, lng: -19.066, label: "エイヤフィヤトラヨークトル", type: "nature", note: "2010年噴火の氷河火山" }
+municipalities:
+  svg: "/maps/countries/iceland.svg"
+  title:
+    ja: "アイスランドの地方"
+    en: "Regions of Iceland"
+  list:
+    - { code: "IS-7", name: "Austurland", type: "region" }
+    - { code: "IS-8", name: "Suðurland", type: "region" }
+    - { code: "IS-2", name: "Suðurnes", type: "region" }
+    - { code: "IS-0", name: "Reykjavík", type: "region" }
+    - { code: "IS-1", name: "Höfuðborgarsvæði", type: "region" }
+    - { code: "IS-3", name: "Vesturland", type: "region" }
+    - { code: "IS-4", name: "Vestfirðir", type: "region" }
+    - { code: "IS-5", name: "Norðurland vestra", type: "region" }
+    - { code: "IS-6", name: "Norðurland eystra", type: "region" }
 ---
 
 <div class="main-desciption country-description">

@@ -1,0 +1,25 @@
+municipalities:
+  svg: "/maps/countries/nepal.svg"
+  title:
+    ja: "ネパールの地方"
+    en: "Zones of Nepal"
+  list:
+    - { code: "NP-KA", name: "Karnali", type: "region" }
+    - { code: "NP-MA", name: "Mahakali", type: "region" }
+    - { code: "NP-SE", name: "Seti", type: "region" }
+    - { code: "NP-DH", name: "Dhawalagiri", type: "region" }
+    - { code: "NP-GA", name: "Gandaki", type: "region" }
+    - code: "NP-BA"
+      name: "バグマティ"
+      type: "region"
+      note: "首都カトマンズ"
+      nameI18n:
+        en: "Bagmati"
+    - { code: "NP-JA", name: "Janakpur", type: "region" }
+    - { code: "NP-SA", name: "Sagarmatha", type: "region" }
+    - { code: "NP-KO", name: "Bhojpur", type: "region" }
+    - { code: "NP-ME", name: "Mechi", type: "region" }
+    - { code: "NP-NA", name: "Narayani", type: "region" }
+    - { code: "NP-LU", name: "Lumbini", type: "region" }
+    - { code: "NP-RA", name: "Rapti", type: "region" }
+    - { code: "NP-BH", name: "Bheri", type: "region" }

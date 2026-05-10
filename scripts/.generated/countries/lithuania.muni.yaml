@@ -1,0 +1,57 @@
+municipalities:
+  svg: "/maps/countries/lithuania.svg"
+  title:
+    ja: "リトアニアの県"
+    en: "Counties of Lithuania"
+  list:
+    - code: "LT-UT"
+      name: "ウテナ県"
+      type: "county"
+      nameI18n:
+        en: "Utena"
+    - code: "LT-VL"
+      name: "ヴィリニュス県"
+      type: "county"
+      note: "首都"
+      nameI18n:
+        en: "Vilnius"
+    - code: "LT-AL"
+      name: "アリートゥス県"
+      type: "county"
+      nameI18n:
+        en: "Alytus"
+    - code: "LT-PN"
+      name: "パネヴェジース県"
+      type: "county"
+      nameI18n:
+        en: "Panevėžys"
+    - code: "LT-TE"
+      name: "テルシェイ県"
+      type: "county"
+      nameI18n:
+        en: "Telšiai"
+    - code: "LT-KL"
+      name: "クライペダ県"
+      type: "county"
+      nameI18n:
+        en: "Klaipėda"
+    - code: "LT-SA"
+      name: "シャウレイ県"
+      type: "county"
+      nameI18n:
+        en: "Šiauliai"
+    - code: "LT-MR"
+      name: "マリヤンポレ県"
+      type: "county"
+      nameI18n:
+        en: "Marijampolė"
+    - code: "LT-TA"
+      name: "タウラゲ県"
+      type: "county"
+      nameI18n:
+        en: "Tauragė"
+    - code: "LT-KU"
+      name: "カウナス県"
+      type: "county"
+      nameI18n:
+        en: "Kaunas"

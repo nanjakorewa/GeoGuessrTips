@@ -1,0 +1,147 @@
+municipalities:
+  svg: "/maps/countries/bulgaria.svg"
+  title:
+    ja: "ブルガリアの州"
+    en: "Provinces of Bulgaria"
+  list:
+    - code: "BG-02"
+      name: "ブルガス州"
+      type: "province"
+      nameI18n:
+        en: "Burgas"
+    - code: "BG-28"
+      name: "ヤンボル州"
+      type: "province"
+      nameI18n:
+        en: "Yambol"
+    - code: "BG-26"
+      name: "ハスコヴォ州"
+      type: "province"
+      nameI18n:
+        en: "Haskovo"
+    - code: "BG-05"
+      name: "ヴィディン州"
+      type: "province"
+      nameI18n:
+        en: "Vidin"
+    - code: "BG-14"
+      name: "ペルニク州"
+      type: "province"
+      nameI18n:
+        en: "Pernik"
+    - code: "BG-23"
+      name: "ソフィア州"
+      type: "province"
+      nameI18n:
+        en: "Sofia (Province)"
+    - code: "BG-12"
+      name: "モンタナ州"
+      type: "province"
+      nameI18n:
+        en: "Montana"
+    - code: "BG-10"
+      name: "キュステンディル州"
+      type: "province"
+      nameI18n:
+        en: "Kyustendil"
+    - code: "BG-01"
+      name: "ブラゴエヴグラト州"
+      type: "province"
+      nameI18n:
+        en: "Blagoevgrad"
+    - code: "BG-19"
+      name: "シリストラ州"
+      type: "province"
+      nameI18n:
+        en: "Silistra"
+    - code: "BG-18"
+      name: "ルセ州"
+      type: "province"
+      nameI18n:
+        en: "Ruse"
+    - code: "BG-08"
+      name: "ドブリチ州"
+      type: "province"
+      nameI18n:
+        en: "Dobrich"
+    - code: "BG-06"
+      name: "ヴラツァ州"
+      type: "province"
+      nameI18n:
+        en: "Vratsa"
+    - code: "BG-15"
+      name: "プレヴェン州"
+      type: "province"
+      nameI18n:
+        en: "Pleven"
+    - code: "BG-04"
+      name: "ヴェリコ・タルノヴォ州"
+      type: "province"
+      nameI18n:
+        en: "Veliko Tarnovo"
+    - code: "BG-09"
+      name: "クルジャリ州"
+      type: "province"
+      nameI18n:
+        en: "Kardzhali"
+    - code: "BG-21"
+      name: "スモリャン州"
+      type: "province"
+      nameI18n:
+        en: "Smolyan"
+    - code: "BG-03"
+      name: "ヴァルナ州"
+      type: "province"
+      nameI18n:
+        en: "Varna"
+    - code: "BG-16"
+      name: "プロヴディフ州"
+      type: "province"
+      nameI18n:
+        en: "Plovdiv"
+    - code: "BG-24"
+      name: "スタラ・ザゴラ州"
+      type: "province"
+      nameI18n:
+        en: "Stara Zagora"
+    - code: "BG-20"
+      name: "スリヴェン州"
+      type: "province"
+      nameI18n:
+        en: "Sliven"
+    - code: "BG-27"
+      name: "シュメン州"
+      type: "province"
+      nameI18n:
+        en: "Shumen"
+    - code: "BG-17"
+      name: "ラズグラド州"
+      type: "province"
+      nameI18n:
+        en: "Razgrad"
+    - code: "BG-25"
+      name: "タルゴヴィシテ州"
+      type: "province"
+      nameI18n:
+        en: "Targovishte"
+    - code: "BG-07"
+      name: "ガブロヴォ州"
+      type: "province"
+      nameI18n:
+        en: "Gabrovo"
+    - code: "BG-13"
+      name: "パザルジク州"
+      type: "province"
+      nameI18n:
+        en: "Pazardzhik"
+    - code: "BG-11"
+      name: "ロヴェチ州"
+      type: "province"
+      nameI18n:
+        en: "Lovech"
+    - code: "BG-22"
+      name: "ソフィア市"
+      type: "province"
+      note: "首都"
+      nameI18n:
+        en: "Sofia (City)"

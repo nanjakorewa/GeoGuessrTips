@@ -1,0 +1,15 @@
+municipalities:
+  svg: "/maps/countries/iceland.svg"
+  title:
+    ja: "アイスランドの地方"
+    en: "Regions of Iceland"
+  list:
+    - { code: "IS-7", name: "Austurland", type: "region" }
+    - { code: "IS-8", name: "Suðurland", type: "region" }
+    - { code: "IS-2", name: "Suðurnes", type: "region" }
+    - { code: "IS-0", name: "Reykjavík", type: "region" }
+    - { code: "IS-1", name: "Höfuðborgarsvæði", type: "region" }
+    - { code: "IS-3", name: "Vesturland", type: "region" }
+    - { code: "IS-4", name: "Vestfirðir", type: "region" }
+    - { code: "IS-5", name: "Norðurland vestra", type: "region" }
+    - { code: "IS-6", name: "Norðurland eystra", type: "region" }

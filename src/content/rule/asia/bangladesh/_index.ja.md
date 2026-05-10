@@ -30,6 +30,48 @@ mapPins:
   - { lat: 21.984, lng: 89.183, label: "スンダルバンス", type: "nature", note: "世界遺産・世界最大のマングローブ林" }
   - { lat: 21.428, lng: 92.005, label: "コックスバザール", type: "landmark", note: "世界最長級の自然海岸ビーチ" }
   - { lat: 24.475, lng: 90.787, label: "ガンジスデルタ", type: "nature", note: "世界最大のデルタ地帯" }
+municipalities:
+  svg: "/maps/countries/bangladesh.svg"
+  title:
+    ja: "バングラデシュの管区"
+    en: "Divisions of Bangladesh"
+  list:
+    - code: "BD-B"
+      name: "チッタゴン管区"
+      type: "region"
+      nameI18n:
+        en: "Chittagong"
+    - code: "BD-G"
+      name: "シレット管区"
+      type: "region"
+      nameI18n:
+        en: "Sylhet"
+    - code: "BD-C"
+      name: "ダッカ管区"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Dhaka"
+    - code: "BD-F"
+      name: "ラングプール管区"
+      type: "region"
+      nameI18n:
+        en: "Rangpur"
+    - code: "BD-E"
+      name: "ラジシャヒ管区"
+      type: "region"
+      nameI18n:
+        en: "Rajshahi"
+    - code: "BD-D"
+      name: "クルナ管区"
+      type: "region"
+      nameI18n:
+        en: "Khulna"
+    - code: "BD-A"
+      name: "バリサル管区"
+      type: "region"
+      nameI18n:
+        en: "Barisal"
 ---
 
 <div class="main-desciption country-description">

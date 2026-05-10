@@ -32,6 +32,29 @@ mapPins:
   - { lat: 19.612, lng: 103.736, label: "シェンクワン", type: "historical", note: "ジャール平原（謎の石壺）で有名" }
   - { lat: 17.412, lng: 104.787, label: "サワンナケート", type: "city", note: "中部の主要都市" }
   - { lat: 17.500, lng: 104.500, label: "メコン川", type: "nature", note: "国土を縦断する東南アジアの大河" }
+municipalities:
+  svg: "/maps/countries/laos.svg"
+  title:
+    ja: "ラオスの県"
+    en: "Provinces of Laos"
+  list:
+    - { code: "LA-PH", name: "Phôngsali", type: "province" }
+    - { code: "LA-OU", name: "Oudômxai", type: "province" }
+    - { code: "LA-LM", name: "Louang Namtha", type: "province" }
+    - { code: "LA-BK", name: "Bokeo", type: "province" }
+    - { code: "LA-XA", name: "Xaignabouri", type: "province" }
+    - { code: "LA-BL", name: "Bolikhamxai", type: "province" }
+    - { code: "LA-KH", name: "Khammouan", type: "province" }
+    - { code: "LA-SV", name: "Savannakhét", type: "province" }
+    - { code: "LA-SL", name: "Saravan", type: "province" }
+    - { code: "LA-VI", name: "Vientiane [prefecture]", type: "province" }
+    - { code: "LA-VI", name: "Vientiane", type: "province" }
+    - { code: "LA-CH", name: "Champasak", type: "province" }
+    - { code: "LA-LP", name: "Louangphrabang", type: "province" }
+    - { code: "LA-HO", name: "Houaphan", type: "province" }
+    - { code: "LA-XI", name: "Xiangkhoang", type: "province" }
+    - { code: "LA-XE", name: "Xékong", type: "province" }
+    - { code: "LA-AT", name: "Attapu", type: "province" }
 ---
 
 <div class="main-desciption country-description">

@@ -33,6 +33,42 @@ mapPins:
   - { lat: 7.957, lng: 80.760, label: "シーギリヤ", type: "landmark", note: "世界遺産・岩山の上の宮殿跡" }
   - { lat: 6.949, lng: 80.789, label: "ヌワラエリヤ", type: "city", note: "高原リゾート・紅茶の名産地" }
   - { lat: 9.661, lng: 80.025, label: "ジャフナ", type: "city", note: "北部最大の都市・タミル文化の中心" }
+municipalities:
+  svg: "/maps/countries/srilanka.svg"
+  title:
+    ja: "スリランカの県"
+    en: "Districts of Sri Lanka"
+  list:
+    - { code: "LK-53", name: "Trikuṇāmalaya", type: "department" }
+    - { code: "LK-45", name: "Mulativ", type: "department" }
+    - { code: "LK-41", name: "Yāpanaya", type: "department" }
+    - { code: "LK-42", name: "Kilinŏchchi", type: "department" }
+    - { code: "LK-43", name: "Mannārama", type: "department" }
+    - { code: "LK-62", name: "Puttalama", type: "department" }
+    - { code: "LK-12", name: "Gampaha", type: "department" }
+    - code: "LK-11"
+      name: "コロンボ県"
+      type: "department"
+      note: "首都"
+      nameI18n:
+        en: "Colombo"
+    - { code: "LK-13", name: "Kaḷutara", type: "department" }
+    - { code: "LK-31", name: "Gālla", type: "department" }
+    - { code: "LK-32", name: "Mātara", type: "department" }
+    - { code: "LK-33", name: "Hambantŏṭa", type: "department" }
+    - { code: "LK-52", name: "Ampāra", type: "department" }
+    - { code: "LK-51", name: "Maḍakalapuva", type: "department" }
+    - { code: "LK-91", name: "Ratnapura", type: "department" }
+    - { code: "LK-82", name: "Mŏṇarāgala", type: "department" }
+    - { code: "LK-92", name: "Kægalla", type: "department" }
+    - { code: "LK-81", name: "Badulla", type: "department" }
+    - { code: "LK-22", name: "Mātale", type: "department" }
+    - { code: "LK-72", name: "Pŏḷŏnnaruva", type: "department" }
+    - { code: "LK-61", name: "Kuruṇægala", type: "department" }
+    - { code: "LK-71", name: "Anurādhapura", type: "department" }
+    - { code: "LK-23", name: "Nuvara Ĕliya", type: "department" }
+    - { code: "LK-44", name: "Vavuniyāva", type: "department" }
+    - { code: "LK-21", name: "Mahanuvara", type: "department" }
 ---
 
 <div class="main-desciption country-description">

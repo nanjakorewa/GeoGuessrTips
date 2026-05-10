@@ -31,6 +31,39 @@ mapPins:
   - { lat: 48.166, lng: 99.910, label: "フブスグル湖", type: "nature", note: "国内最大の淡水湖・モンゴルの真珠" }
   - { lat: 47.197, lng: 102.802, label: "カラコルム", type: "historical", note: "モンゴル帝国の旧首都" }
   - { lat: 49.808, lng: 87.737, label: "アルタイ山脈", type: "nature", note: "西部の大山脈" }
+municipalities:
+  svg: "/maps/countries/mongolia.svg"
+  title:
+    ja: "モンゴルの県"
+    en: "Provinces of Mongolia"
+  list:
+    - { code: "MN-061", name: "Dornod", type: "province" }
+    - { code: "MN-071", name: "Bayan-Ölgiy", type: "province" }
+    - { code: "MN-043", name: "Hovd", type: "province" }
+    - { code: "MN-051", name: "Sühbaatar", type: "province" }
+    - { code: "MN-063", name: "Dornogovi", type: "province" }
+    - { code: "MN-065", name: "Govi-Altay", type: "province" }
+    - { code: "MN-069", name: "Bayanhongor", type: "province" }
+    - { code: "MN-053", name: "Ömnögovi", type: "province" }
+    - { code: "MN-041", name: "Hövsgöl", type: "province" }
+    - { code: "MN-067", name: "Bulgan", type: "province" }
+    - { code: "MN-046", name: "Uvs", type: "province" }
+    - { code: "MN-049", name: "Selenge", type: "province" }
+    - { code: "MN-057", name: "Dzavhan", type: "province" }
+    - { code: "MN-039", name: "Hentiy", type: "province" }
+    - { code: "MN-037", name: "Darhan-Uul", type: "province" }
+    - { code: "MN-047", name: "Töv", type: "province" }
+    - { code: "MN-073", name: "Arhangay", type: "province" }
+    - { code: "MN-035", name: "Orhon", type: "province" }
+    - { code: "MN-059", name: "Dundgovi", type: "province" }
+    - { code: "MN-055", name: "Övörhangay", type: "province" }
+    - { code: "MN-064", name: "Govĭ-Sümber", type: "province" }
+    - code: "MN-1"
+      name: "ウランバートル"
+      type: "province"
+      note: "首都"
+      nameI18n:
+        en: "Ulaanbaatar"
 ---
 
 <div class="main-desciption country-description">

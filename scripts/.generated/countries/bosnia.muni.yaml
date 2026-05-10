@@ -1,0 +1,24 @@
+municipalities:
+  svg: "/maps/countries/bosnia.svg"
+  title:
+    ja: "ボスニア・ヘルツェゴビナの行政区分"
+    en: "Administrative Divisions of Bosnia and Herzegovina"
+  list:
+    - { code: "BA-BIH", name: "Herzegovina-Neretva", type: "region" }
+    - { code: "BA-X07~", name: "Trebinje", type: "region" }
+    - { code: "BA-X06~", name: "Foča", type: "region" }
+    - { code: "BA-X02~", name: "Banja Luka", type: "region" }
+    - { code: "BA-BIH", name: "Una-Sana", type: "region" }
+    - { code: "BA-X01~", name: "Doboj", type: "region" }
+    - { code: "BA-SRP", name: "Posavina", type: "region" }
+    - { code: "BA-BRC", name: "Brčko Distrikt", type: "region" }
+    - { code: "BA-X03~", name: "Bijeljina", type: "region" }
+    - { code: "BA-BIH", name: "West Bosnia", type: "region" }
+    - { code: "BA-BIH", name: "West Herzegovina", type: "region" }
+    - { code: "BA-X04~", name: "Vlasenica", type: "region" }
+    - { code: "BA-BIH", name: "Central Bosnia", type: "region" }
+    - { code: "BA-BIH", name: "Zenica-Doboj", type: "region" }
+    - { code: "BA-BIH", name: "Tuzla", type: "region" }
+    - { code: "BA-X05~", name: "Sarajevo-romanija", type: "region" }
+    - { code: "BA-BIH", name: "Sarajevo", type: "region" }
+    - { code: "BA-BIH", name: "Bosnian Podrinje", type: "region" }

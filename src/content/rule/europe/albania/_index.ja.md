@@ -32,6 +32,73 @@ mapPins:
   - { lat: 40.075, lng: 20.142, label: "ジロカストラ", type: "historical", note: "世界遺産の歴史地区" }
   - { lat: 40.706, lng: 19.945, label: "ベラト", type: "historical", note: "千の窓の街・世界遺産" }
   - { lat: 40.910, lng: 20.787, label: "オフリド湖", type: "nature", note: "北マケドニアと共有する古代湖" }
+municipalities:
+  svg: "/maps/countries/albania.svg"
+  title:
+    ja: "アルバニアの県"
+    en: "Counties of Albania"
+  list:
+    - code: "AL-09"
+      name: "ディブラ県"
+      type: "county"
+      nameI18n:
+        en: "Dibër"
+    - code: "AL-07"
+      name: "クケス県"
+      type: "county"
+      nameI18n:
+        en: "Kukës"
+    - code: "AL-06"
+      name: "ヴロラ県"
+      type: "county"
+      nameI18n:
+        en: "Vlorë"
+    - code: "AL-03"
+      name: "レジャ県"
+      type: "county"
+      nameI18n:
+        en: "Lezhë"
+    - code: "AL-05"
+      name: "ジロカストラ県"
+      type: "county"
+      nameI18n:
+        en: "Gjirokastër"
+    - code: "AL-12"
+      name: "フィエル県"
+      type: "county"
+      nameI18n:
+        en: "Fier"
+    - code: "AL-10"
+      name: "ドゥラス県"
+      type: "county"
+      nameI18n:
+        en: "Durrës"
+    - code: "AL-04"
+      name: "ティラナ県"
+      type: "county"
+      note: "首都"
+      nameI18n:
+        en: "Tirana"
+    - code: "AL-11"
+      name: "エルバサン県"
+      type: "county"
+      nameI18n:
+        en: "Elbasan"
+    - code: "AL-02"
+      name: "シュコドラ県"
+      type: "county"
+      nameI18n:
+        en: "Shkodër"
+    - code: "AL-08"
+      name: "コルチャ県"
+      type: "county"
+      nameI18n:
+        en: "Korçë"
+    - code: "AL-01"
+      name: "ベラト県"
+      type: "county"
+      nameI18n:
+        en: "Berat"
 ---
 
 <div class="main-desciption country-description">

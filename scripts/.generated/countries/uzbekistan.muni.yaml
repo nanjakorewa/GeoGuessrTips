@@ -1,0 +1,25 @@
+municipalities:
+  svg: "/maps/countries/uzbekistan.svg"
+  title:
+    ja: "ウズベキスタンの州"
+    en: "Regions of Uzbekistan"
+  list:
+    - { code: "UZ-FA", name: "Ferghana", type: "region" }
+    - { code: "UZ-TO", name: "Tashkent", type: "region" }
+    - { code: "UZ-NG", name: "Namangan", type: "region" }
+    - { code: "UZ-AN", name: "Andijon", type: "region" }
+    - { code: "UZ-SI", name: "Sirdaryo", type: "region" }
+    - { code: "UZ-JI", name: "Jizzakh", type: "region" }
+    - { code: "UZ-SA", name: "Samarkand", type: "region" }
+    - { code: "UZ-QA", name: "Kashkadarya", type: "region" }
+    - { code: "UZ-SU", name: "Surkhandarya", type: "region" }
+    - { code: "UZ-QR", name: "Karakalpakstan", type: "region" }
+    - { code: "UZ-NW", name: "Navoi", type: "region" }
+    - { code: "UZ-XO", name: "Khorezm", type: "region" }
+    - { code: "UZ-BU", name: "Bukhoro", type: "region" }
+    - code: "UZ-TK"
+      name: "タシュケント市"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Tashkent (City)"

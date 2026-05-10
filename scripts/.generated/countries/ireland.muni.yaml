@@ -1,0 +1,180 @@
+municipalities:
+  svg: "/maps/countries/ireland.svg"
+  title:
+    ja: "アイルランドの県"
+    en: "Counties of Ireland"
+  list:
+    - code: "IE-DL"
+      name: "ドニゴール県"
+      type: "county"
+      nameI18n:
+        en: "Donegal"
+    - code: "IE-LM"
+      name: "リートリム県"
+      type: "county"
+      nameI18n:
+        en: "Leitrim"
+    - code: "IE-CN"
+      name: "キャヴァン県"
+      type: "county"
+      nameI18n:
+        en: "Cavan"
+    - code: "IE-MN"
+      name: "モナハン県"
+      type: "county"
+      nameI18n:
+        en: "Monaghan"
+    - code: "IE-LH"
+      name: "ラウス県"
+      type: "county"
+      nameI18n:
+        en: "Louth"
+    - code: "IE-D"
+      name: "ダブリン県"
+      type: "county"
+      note: "首都"
+      nameI18n:
+        en: "Dublin"
+    - code: "IE-D"
+      name: "ダブリン県"
+      type: "county"
+      note: "首都"
+      nameI18n:
+        en: "Dublin"
+    - code: "IE-WW"
+      name: "ウィックロー県"
+      type: "county"
+      nameI18n:
+        en: "Wicklow"
+    - code: "IE-WX"
+      name: "ウェックスフォード県"
+      type: "county"
+      nameI18n:
+        en: "Wexford"
+    - code: "IE-KK"
+      name: "キルケニー県"
+      type: "county"
+      nameI18n:
+        en: "Kilkenny"
+    - code: "IE-WD"
+      name: "ウォーターフォード県"
+      type: "county"
+      nameI18n:
+        en: "Waterford"
+    - code: "IE-CO"
+      name: "コーク県"
+      type: "county"
+      nameI18n:
+        en: "Cork"
+    - code: "IE-CO"
+      name: "コーク県"
+      type: "county"
+      nameI18n:
+        en: "Cork"
+    - code: "IE-KY"
+      name: "ケリー県"
+      type: "county"
+      nameI18n:
+        en: "Kerry"
+    - code: "IE-LK"
+      name: "リムリック県"
+      type: "county"
+      nameI18n:
+        en: "Limerick"
+    - code: "IE-CE"
+      name: "クレア県"
+      type: "county"
+      nameI18n:
+        en: "Clare"
+    - code: "IE-G"
+      name: "ゴールウェイ県"
+      type: "county"
+      nameI18n:
+        en: "Galway"
+    - code: "IE-G"
+      name: "ゴールウェイ県"
+      type: "county"
+      nameI18n:
+        en: "Galway"
+    - code: "IE-MO"
+      name: "メイヨー県"
+      type: "county"
+      nameI18n:
+        en: "Mayo"
+    - code: "IE-SO"
+      name: "スライゴ県"
+      type: "county"
+      nameI18n:
+        en: "Sligo"
+    - code: "IE-MH"
+      name: "ミーズ県"
+      type: "county"
+      nameI18n:
+        en: "Meath"
+    - code: "IE-D"
+      name: "ダブリン県"
+      type: "county"
+      note: "首都"
+      nameI18n:
+        en: "Dublin"
+    - code: "IE-KE"
+      name: "キルデア県"
+      type: "county"
+      nameI18n:
+        en: "Kildare"
+    - code: "IE-CW"
+      name: "カーロウ県"
+      type: "county"
+      nameI18n:
+        en: "Carlow"
+    - code: "IE-LS"
+      name: "リーシュ県"
+      type: "county"
+      nameI18n:
+        en: "Laois"
+    - code: "IE-D"
+      name: "ダブリン県"
+      type: "county"
+      note: "首都"
+      nameI18n:
+        en: "Dublin"
+    - code: "IE-OY"
+      name: "オファリー県"
+      type: "county"
+      nameI18n:
+        en: "Offaly"
+    - code: "IE-WH"
+      name: "ウェストミース県"
+      type: "county"
+      nameI18n:
+        en: "Westmeath"
+    - code: "IE-LD"
+      name: "ロングフォード県"
+      type: "county"
+      nameI18n:
+        en: "Longford"
+    - code: "IE-RN"
+      name: "ロスコモン県"
+      type: "county"
+      nameI18n:
+        en: "Roscommon"
+    - code: "IE-TA"
+      name: "ティペラリー県"
+      type: "county"
+      nameI18n:
+        en: "Tipperary"
+    - code: "IE-TA"
+      name: "ティペラリー県"
+      type: "county"
+      nameI18n:
+        en: "Tipperary"
+    - code: "IE-WD"
+      name: "ウォーターフォード県"
+      type: "county"
+      nameI18n:
+        en: "Waterford"
+    - code: "IE-LK"
+      name: "リムリック県"
+      type: "county"
+      nameI18n:
+        en: "Limerick"

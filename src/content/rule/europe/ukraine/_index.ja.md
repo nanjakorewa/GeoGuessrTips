@@ -28,6 +28,138 @@ mapPins:
   - { lat: 48.464, lng: 35.046, label: "ドニプロ", type: "city", note: "ドニプロ川沿いの工業都市" }
   - { lat: 51.389, lng: 30.099, label: "チョルノービリ", type: "historical", note: "原発事故跡地" }
   - { lat: 44.611, lng: 33.525, label: "セヴァストポリ", type: "port", note: "クリミア半島の港湾都市" }
+municipalities:
+  svg: "/maps/countries/ukraine.svg"
+  title:
+    ja: "ウクライナの州"
+    en: "Oblasts of Ukraine"
+  list:
+    - code: "UA-74"
+      name: "チェルニーヒウ州"
+      type: "oblast"
+      nameI18n:
+        en: "Chernihiv"
+    - code: "UA-07"
+      name: "ヴォルィーニ州"
+      type: "oblast"
+      nameI18n:
+        en: "Volyn"
+    - code: "UA-56"
+      name: "リウネ州"
+      type: "oblast"
+      nameI18n:
+        en: "Rivne"
+    - code: "UA-18"
+      name: "ジトームィル州"
+      type: "oblast"
+      nameI18n:
+        en: "Zhytomyr"
+    - code: "UA-32"
+      name: "キーウ州"
+      type: "oblast"
+      nameI18n:
+        en: "Kyiv (Oblast)"
+    - code: "UA-21"
+      name: "ザカルパッチャ州"
+      type: "oblast"
+      nameI18n:
+        en: "Zakarpattia"
+    - code: "UA-77"
+      name: "チェルニウツィー州"
+      type: "oblast"
+      nameI18n:
+        en: "Chernivtsi"
+    - code: "UA-26"
+      name: "イヴァーノ・フランキーウシク州"
+      type: "oblast"
+      nameI18n:
+        en: "Ivano-Frankivsk"
+    - code: "UA-51"
+      name: "オデーサ州"
+      type: "oblast"
+      nameI18n:
+        en: "Odesa"
+    - code: "UA-05"
+      name: "ヴィーンヌィツャ州"
+      type: "oblast"
+      nameI18n:
+        en: "Vinnytsia"
+    - code: "UA-46"
+      name: "リヴィウ州"
+      type: "oblast"
+      nameI18n:
+        en: "Lviv"
+    - code: "UA-59"
+      name: "スームィ州"
+      type: "oblast"
+      nameI18n:
+        en: "Sumy"
+    - code: "UA-63"
+      name: "ハルキウ州"
+      type: "oblast"
+      nameI18n:
+        en: "Kharkiv"
+    - code: "UA-09"
+      name: "ルハーンシク州"
+      type: "oblast"
+      nameI18n:
+        en: "Luhansk"
+    - code: "UA-14"
+      name: "ドネツク州"
+      type: "oblast"
+      nameI18n:
+        en: "Donetsk"
+    - code: "UA-65"
+      name: "ヘルソン州"
+      type: "oblast"
+      nameI18n:
+        en: "Kherson"
+    - code: "UA-23"
+      name: "ザポリージャ州"
+      type: "oblast"
+      nameI18n:
+        en: "Zaporizhzhia"
+    - code: "UA-48"
+      name: "ミコライウ州"
+      type: "oblast"
+      nameI18n:
+        en: "Mykolaiv"
+    - code: "UA-53"
+      name: "ポルタヴァ州"
+      type: "oblast"
+      nameI18n:
+        en: "Poltava"
+    - code: "UA-68"
+      name: "フメリヌィーツィクィイ州"
+      type: "oblast"
+      nameI18n:
+        en: "Khmelnytskyi"
+    - code: "UA-61"
+      name: "テルノーピリ州"
+      type: "oblast"
+      nameI18n:
+        en: "Ternopil"
+    - code: "UA-12"
+      name: "ドニプロペトロウシク州"
+      type: "oblast"
+      nameI18n:
+        en: "Dnipropetrovsk"
+    - code: "UA-71"
+      name: "チェルカースィ州"
+      type: "oblast"
+      nameI18n:
+        en: "Cherkasy"
+    - code: "UA-35"
+      name: "キロヴォフラード州"
+      type: "oblast"
+      nameI18n:
+        en: "Kirovohrad"
+    - code: "UA-30"
+      name: "キーウ市"
+      type: "metropolitan_city"
+      note: "首都"
+      nameI18n:
+        en: "Kyiv (City)"
 ---
 
 <div class="main-desciption country-description">

@@ -30,6 +30,223 @@ mapPins:
   - { lat: 45.515, lng: 25.367, label: "ブラン城", type: "historical", note: "ドラキュラ城のモデル" }
   - { lat: 45.792, lng: 24.151, label: "シビウ", type: "historical", note: "ドイツ系移住者の旧市街" }
   - { lat: 45.115, lng: 29.567, label: "ドナウ・デルタ", type: "nature", note: "欧州最大の湿地・世界遺産" }
+municipalities:
+  svg: "/maps/countries/romania.svg"
+  title:
+    ja: "ルーマニアの県"
+    en: "Counties of Romania"
+  list:
+    - code: "RO-SM"
+      name: "サトゥ・マレ県"
+      type: "department"
+      nameI18n:
+        en: "Satu Mare"
+    - code: "RO-AR"
+      name: "アラド県"
+      type: "department"
+      nameI18n:
+        en: "Arad"
+    - code: "RO-BH"
+      name: "ビホル県"
+      type: "department"
+      nameI18n:
+        en: "Bihor"
+    - code: "RO-TM"
+      name: "ティミシュ県"
+      type: "department"
+      nameI18n:
+        en: "Timiș"
+    - code: "RO-MH"
+      name: "メヘディンツィ県"
+      type: "department"
+      nameI18n:
+        en: "Mehedinți"
+    - code: "RO-DJ"
+      name: "ドルジュ県"
+      type: "department"
+      nameI18n:
+        en: "Dolj"
+    - code: "RO-CL"
+      name: "カララシ県"
+      type: "department"
+      nameI18n:
+        en: "Călărași"
+    - code: "RO-TR"
+      name: "テレオルマン県"
+      type: "department"
+      nameI18n:
+        en: "Teleorman"
+    - code: "RO-GR"
+      name: "ジュルジュ県"
+      type: "department"
+      nameI18n:
+        en: "Giurgiu"
+    - code: "RO-CT"
+      name: "コンスタンツァ県"
+      type: "department"
+      nameI18n:
+        en: "Constanța"
+    - code: "RO-OT"
+      name: "オルト県"
+      type: "department"
+      nameI18n:
+        en: "Olt"
+    - code: "RO-CS"
+      name: "カラシュ・セヴェリン県"
+      type: "department"
+      nameI18n:
+        en: "Caraș-Severin"
+    - code: "RO-BT"
+      name: "ボトシャニ県"
+      type: "department"
+      nameI18n:
+        en: "Botoșani"
+    - code: "RO-IS"
+      name: "ヤシ県"
+      type: "department"
+      nameI18n:
+        en: "Iași"
+    - code: "RO-VS"
+      name: "ヴァスルイ県"
+      type: "department"
+      nameI18n:
+        en: "Vaslui"
+    - code: "RO-GL"
+      name: "ガラツィ県"
+      type: "department"
+      nameI18n:
+        en: "Galați"
+    - code: "RO-SV"
+      name: "スチャヴァ県"
+      type: "department"
+      nameI18n:
+        en: "Suceava"
+    - code: "RO-MM"
+      name: "マラムレシュ県"
+      type: "department"
+      nameI18n:
+        en: "Maramureș"
+    - code: "RO-TL"
+      name: "トゥルチャ県"
+      type: "department"
+      nameI18n:
+        en: "Tulcea"
+    - code: "RO-CJ"
+      name: "クルージュ県"
+      type: "department"
+      nameI18n:
+        en: "Cluj"
+    - code: "RO-BN"
+      name: "ビストリツァ・ナサウド県"
+      type: "department"
+      nameI18n:
+        en: "Bistrița-Năsăud"
+    - code: "RO-SJ"
+      name: "サラジュ県"
+      type: "department"
+      nameI18n:
+        en: "Sălaj"
+    - code: "RO-DB"
+      name: "ドゥンボヴィツァ県"
+      type: "department"
+      nameI18n:
+        en: "Dâmbovița"
+    - code: "RO-IF"
+      name: "イルフォフ県"
+      type: "department"
+      nameI18n:
+        en: "Ilfov"
+    - code: "RO-AG"
+      name: "アルジェシュ県"
+      type: "department"
+      nameI18n:
+        en: "Argeș"
+    - code: "RO-GJ"
+      name: "ゴルジュ県"
+      type: "department"
+      nameI18n:
+        en: "Gorj"
+    - code: "RO-HD"
+      name: "フネドアラ県"
+      type: "department"
+      nameI18n:
+        en: "Hunedoara"
+    - code: "RO-VL"
+      name: "ヴルチャ県"
+      type: "department"
+      nameI18n:
+        en: "Vâlcea"
+    - code: "RO-PH"
+      name: "プラホヴァ県"
+      type: "department"
+      nameI18n:
+        en: "Prahova"
+    - code: "RO-CV"
+      name: "コヴァスナ県"
+      type: "department"
+      nameI18n:
+        en: "Covasna"
+    - code: "RO-VN"
+      name: "ヴランチャ県"
+      type: "department"
+      nameI18n:
+        en: "Vrancea"
+    - code: "RO-BZ"
+      name: "ブザウ県"
+      type: "department"
+      nameI18n:
+        en: "Buzău"
+    - code: "RO-BV"
+      name: "ブラショフ県"
+      type: "department"
+      nameI18n:
+        en: "Brașov"
+    - code: "RO-SB"
+      name: "シビウ県"
+      type: "department"
+      nameI18n:
+        en: "Sibiu"
+    - code: "RO-MS"
+      name: "ムレシュ県"
+      type: "department"
+      nameI18n:
+        en: "Mureș"
+    - code: "RO-HR"
+      name: "ハルギタ県"
+      type: "department"
+      nameI18n:
+        en: "Harghita"
+    - code: "RO-NT"
+      name: "ネアムツ県"
+      type: "department"
+      nameI18n:
+        en: "Neamț"
+    - code: "RO-BC"
+      name: "バカウ県"
+      type: "department"
+      nameI18n:
+        en: "Bacău"
+    - code: "RO-AB"
+      name: "アルバ県"
+      type: "department"
+      nameI18n:
+        en: "Alba"
+    - code: "RO-BR"
+      name: "ブライラ県"
+      type: "department"
+      nameI18n:
+        en: "Brăila"
+    - code: "RO-IL"
+      name: "イアロミツァ県"
+      type: "department"
+      nameI18n:
+        en: "Ialomița"
+    - code: "RO-B"
+      name: "ブカレスト"
+      type: "metropolitan_city"
+      note: "首都"
+      nameI18n:
+        en: "Bucharest"
 ---
 
 <div class="main-desciption country-description">

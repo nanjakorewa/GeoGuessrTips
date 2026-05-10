@@ -1,0 +1,19 @@
+municipalities:
+  svg: "/maps/countries/kyrgyzstan.svg"
+  title:
+    ja: "キルギスの州"
+    en: "Regions of Kyrgyzstan"
+  list:
+    - { code: "KG-Y", name: "Ysyk-Köl", type: "region" }
+    - { code: "KG-N", name: "Naryn", type: "region" }
+    - { code: "KG-O", name: "Osh", type: "region" }
+    - { code: "KG-C", name: "Chuy", type: "region" }
+    - { code: "KG-T", name: "Talas", type: "region" }
+    - { code: "KG-J", name: "Jalal-Abad", type: "region" }
+    - { code: "KG-B", name: "Batken", type: "region" }
+    - code: "KG-GB"
+      name: "ビシュケク市"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Bishkek"

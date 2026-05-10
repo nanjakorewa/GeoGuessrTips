@@ -30,6 +30,136 @@ mapPins:
   - { lat: 46.920, lng: 17.890, label: "バラトン湖", type: "nature", note: "中央欧州最大の湖" }
   - { lat: 47.910, lng: 19.890, label: "エゲル", type: "historical", note: "城とワインで知られる街" }
   - { lat: 47.498, lng: 19.044, label: "国会議事堂", type: "landmark", note: "ブダペストの象徴的建築" }
+municipalities:
+  svg: "/maps/countries/hungary.svg"
+  title:
+    ja: "ハンガリーの県"
+    en: "Counties of Hungary"
+  list:
+    - code: "HU-SZ"
+      name: "サボルチ・サトマール・ベレグ県"
+      type: "county"
+      nameI18n:
+        en: "Szabolcs-Szatmár-Bereg"
+    - code: "HU-BE"
+      name: "ベーケーシュ県"
+      type: "county"
+      nameI18n:
+        en: "Békés"
+    - code: "HU-HB"
+      name: "ハイドゥー・ビハル県"
+      type: "county"
+      nameI18n:
+        en: "Hajdú-Bihar"
+    - code: "HU-CS"
+      name: "チョングラード・チャナード県"
+      type: "county"
+      nameI18n:
+        en: "Csongrád-Csanád"
+    - code: "HU-GS"
+      name: "ジェール・モション・ショプロン県"
+      type: "county"
+      nameI18n:
+        en: "Győr-Moson-Sopron"
+    - { code: "HU-SN", name: "Sopron", type: "county" }
+    - code: "HU-VA"
+      name: "ヴァシュ県"
+      type: "county"
+      nameI18n:
+        en: "Vas"
+    - code: "HU-BK"
+      name: "バーチ・キシュクン県"
+      type: "county"
+      nameI18n:
+        en: "Bács-Kiskun"
+    - { code: "HU-SD", name: "Szeged", type: "county" }
+    - code: "HU-ZA"
+      name: "ザラ県"
+      type: "county"
+      nameI18n:
+        en: "Zala"
+    - code: "HU-SO"
+      name: "シャモジ県"
+      type: "county"
+      nameI18n:
+        en: "Somogy"
+    - code: "HU-BA"
+      name: "バラニャ県"
+      type: "county"
+      nameI18n:
+        en: "Baranya"
+    - code: "HU-BZ"
+      name: "ボルショド・アバウーイ・ゼンプレーン県"
+      type: "county"
+      nameI18n:
+        en: "Borsod-Abaúj-Zemplén"
+    - code: "HU-NO"
+      name: "ノーグラード県"
+      type: "county"
+      nameI18n:
+        en: "Nógrád"
+    - { code: "HU-ST", name: "Salgótarján", type: "county" }
+    - code: "HU-KE"
+      name: "コマーロム・エステルゴム県"
+      type: "county"
+      nameI18n:
+        en: "Komárom-Esztergom"
+    - code: "HU-PE"
+      name: "ペシュト県"
+      type: "county"
+      nameI18n:
+        en: "Pest"
+    - code: "HU-JN"
+      name: "ヤース・ナジクン・ソルノク県"
+      type: "county"
+      nameI18n:
+        en: "Jász-Nagykun-Szolnok"
+    - code: "HU-FE"
+      name: "フェイェール県"
+      type: "county"
+      nameI18n:
+        en: "Fejér"
+    - code: "HU-VE"
+      name: "ヴェスプレーム県"
+      type: "county"
+      nameI18n:
+        en: "Veszprém"
+    - code: "HU-TO"
+      name: "トルナ県"
+      type: "county"
+      nameI18n:
+        en: "Tolna"
+    - { code: "HU-SK", name: "Szolnok", type: "county" }
+    - code: "HU-BU"
+      name: "ブダペスト"
+      type: "metropolitan_city"
+      note: "首都"
+      nameI18n:
+        en: "Budapest"
+    - { code: "HU-ED", name: "Érd", type: "county" }
+    - code: "HU-HE"
+      name: "ヘヴェシュ県"
+      type: "county"
+      nameI18n:
+        en: "Heves"
+    - { code: "HU-EG", name: "Eger", type: "county" }
+    - { code: "HU-MI", name: "Miskolc", type: "county" }
+    - { code: "HU-HV", name: "Hódmezôvásárhely", type: "county" }
+    - { code: "HU-DU", name: "Dunaújváros", type: "county" }
+    - { code: "HU-KM", name: "Kecskemét", type: "county" }
+    - { code: "HU-TB", name: "Tatabánya", type: "county" }
+    - { code: "HU-GY", name: "Gyôr", type: "county" }
+    - { code: "HU-SH", name: "Szombathely", type: "county" }
+    - { code: "HU-ZE", name: "Zalaegerszeg", type: "county" }
+    - { code: "HU-NK", name: "Nagykanizsa", type: "county" }
+    - { code: "HU-VM", name: "Veszprém", type: "county" }
+    - { code: "HU-KV", name: "Kaposvár", type: "county" }
+    - { code: "HU-PS", name: "Pécs", type: "county" }
+    - { code: "HU-SS", name: "Szekszárd", type: "county" }
+    - { code: "HU-SF", name: "Székesfehérvár", type: "county" }
+    - { code: "HU-BC", name: "Békéscsaba", type: "county" }
+    - { code: "HU-DE", name: "Debrecen", type: "county" }
+    - { code: "HU-NY", name: "Nyíregyháza", type: "county" }
 ---
 
 <div class="main-desciption country-description">

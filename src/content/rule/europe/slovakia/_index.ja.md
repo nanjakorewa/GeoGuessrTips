@@ -30,6 +30,53 @@ mapPins:
   - { lat: 49.001, lng: 20.764, label: "スピシュ城", type: "historical", note: "中欧最大級の城跡・世界遺産" }
   - { lat: 49.156, lng: 20.140, label: "高タトラ山脈", type: "nature", note: "国立公園・スキー保養地" }
   - { lat: 48.819, lng: 20.498, label: "スロバキア・カルスト", type: "nature", note: "鍾乳洞群・世界遺産" }
+municipalities:
+  svg: "/maps/countries/slovakia.svg"
+  title:
+    ja: "スロバキアの州"
+    en: "Regions of Slovakia"
+  list:
+    - code: "SK-ZI"
+      name: "ジリナ州"
+      type: "region"
+      nameI18n:
+        en: "Žilina"
+    - code: "SK-PV"
+      name: "プレショフ州"
+      type: "region"
+      nameI18n:
+        en: "Prešov"
+    - code: "SK-KI"
+      name: "コシツェ州"
+      type: "region"
+      nameI18n:
+        en: "Košice"
+    - code: "SK-BL"
+      name: "ブラチスラバ州"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Bratislava"
+    - code: "SK-TA"
+      name: "トルナヴァ州"
+      type: "region"
+      nameI18n:
+        en: "Trnava"
+    - code: "SK-TC"
+      name: "トレンチーン州"
+      type: "region"
+      nameI18n:
+        en: "Trenčín"
+    - code: "SK-BC"
+      name: "バンスカー・ビストリツァ州"
+      type: "region"
+      nameI18n:
+        en: "Banská Bystrica"
+    - code: "SK-NI"
+      name: "ニトラ州"
+      type: "region"
+      nameI18n:
+        en: "Nitra"
 ---
 
 <div class="main-desciption country-description">

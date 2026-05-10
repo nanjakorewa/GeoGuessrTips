@@ -1,0 +1,59 @@
+municipalities:
+  svg: "/maps/countries/moldova.svg"
+  title:
+    ja: "モルドバの地区"
+    en: "Districts of Moldova"
+  list:
+    - { code: "MD-BR", name: "Briceni", type: "department" }
+    - { code: "MD-ED", name: "Edineţ", type: "department" }
+    - { code: "MD-RI", name: "Rîşcani", type: "department" }
+    - { code: "MD-GL", name: "Glodeni", type: "department" }
+    - { code: "MD-FA", name: "Făleşti", type: "department" }
+    - { code: "MD-UN", name: "Ungheni", type: "department" }
+    - { code: "MD-NI", name: "Nisporeni", type: "department" }
+    - { code: "MD-HI", name: "Hîncesti", type: "department" }
+    - { code: "MD-LE", name: "Leova", type: "department" }
+    - { code: "MD-CT", name: "Cantemir", type: "department" }
+    - { code: "MD-CA", name: "Cahul", type: "department" }
+    - { code: "MD-OC", name: "Ocniţa", type: "department" }
+    - { code: "MD-DO", name: "Donduseni", type: "department" }
+    - { code: "MD-SO", name: "Soroca", type: "department" }
+    - { code: "MD-CAM", name: "Camenca", type: "department" }
+    - { code: "MD-RE", name: "Rezina", type: "department" }
+    - { code: "MD-SN", name: "Stîngă Nistrului", type: "department" }
+    - { code: "MD-GRI", name: "Grigoriopol", type: "department" }
+    - { code: "MD-BD", name: "Bender", type: "department" }
+    - { code: "MD-SV", name: "Ștefan Vodă", type: "department" }
+    - { code: "MD-CS", name: "Causeni", type: "department" }
+    - { code: "MD-CM", name: "Cimişlia", type: "department" }
+    - { code: "MD-BS", name: "Basarabeasca", type: "department" }
+    - { code: "MD-TA", name: "Taraclia", type: "department" }
+    - code: "MD-GA"
+      name: "ガガウズ自治区"
+      type: "department"
+      nameI18n:
+        en: "Gagauzia"
+    - { code: "MD-CR", name: "Criuleni", type: "department" }
+    - { code: "MD-ST", name: "Străşeni", type: "department" }
+    - { code: "MD-AN", name: "Anenii Noi", type: "department" }
+    - { code: "MD-OR", name: "Orhei", type: "department" }
+    - { code: "MD-SN", name: "Transnistria", type: "department" }
+    - code: "MD-CU"
+      name: "キシナウ"
+      type: "department"
+      note: "首都"
+      nameI18n:
+        en: "Chișinău"
+    - { code: "MD-TE", name: "Teleneşti", type: "department" }
+    - { code: "MD-SD", name: "Şoldăneşti", type: "department" }
+    - { code: "MD-FL", name: "Floreşti", type: "department" }
+    - { code: "MD-RE", name: "Rezina", type: "department" }
+    - { code: "MD-IA", name: "Ialoveni", type: "department" }
+    - { code: "MD-CL", name: "Călărași", type: "department" }
+    - { code: "MD-DR", name: "Drochia", type: "department" }
+    - { code: "MD-SI", name: "Sîngerei", type: "department" }
+    - code: "MD-BA"
+      name: "バルツィ"
+      type: "department"
+      nameI18n:
+        en: "Bălți"

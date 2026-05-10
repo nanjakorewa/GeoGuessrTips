@@ -35,6 +35,31 @@ mapPins:
   - { lat: 28.596, lng: 83.819, label: "アンナプルナ", type: "nature", note: "ヒマラヤ山脈の名峰群" }
   - { lat: 27.484, lng: 83.945, label: "ルンビニ", type: "historical", note: "世界遺産・釈迦の生誕地" }
   - { lat: 28.394, lng: 84.124, label: "マナスル", type: "nature", note: "世界第8位の高峰（標高8,163m）" }
+municipalities:
+  svg: "/maps/countries/nepal.svg"
+  title:
+    ja: "ネパールの地方"
+    en: "Zones of Nepal"
+  list:
+    - { code: "NP-KA", name: "Karnali", type: "region" }
+    - { code: "NP-MA", name: "Mahakali", type: "region" }
+    - { code: "NP-SE", name: "Seti", type: "region" }
+    - { code: "NP-DH", name: "Dhawalagiri", type: "region" }
+    - { code: "NP-GA", name: "Gandaki", type: "region" }
+    - code: "NP-BA"
+      name: "バグマティ"
+      type: "region"
+      note: "首都カトマンズ"
+      nameI18n:
+        en: "Bagmati"
+    - { code: "NP-JA", name: "Janakpur", type: "region" }
+    - { code: "NP-SA", name: "Sagarmatha", type: "region" }
+    - { code: "NP-KO", name: "Bhojpur", type: "region" }
+    - { code: "NP-ME", name: "Mechi", type: "region" }
+    - { code: "NP-NA", name: "Narayani", type: "region" }
+    - { code: "NP-LU", name: "Lumbini", type: "region" }
+    - { code: "NP-RA", name: "Rapti", type: "region" }
+    - { code: "NP-BH", name: "Bheri", type: "region" }
 ---
 
 <div class="main-desciption country-description">

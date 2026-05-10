@@ -1,0 +1,23 @@
+municipalities:
+  svg: "/maps/countries/laos.svg"
+  title:
+    ja: "ラオスの県"
+    en: "Provinces of Laos"
+  list:
+    - { code: "LA-PH", name: "Phôngsali", type: "province" }
+    - { code: "LA-OU", name: "Oudômxai", type: "province" }
+    - { code: "LA-LM", name: "Louang Namtha", type: "province" }
+    - { code: "LA-BK", name: "Bokeo", type: "province" }
+    - { code: "LA-XA", name: "Xaignabouri", type: "province" }
+    - { code: "LA-BL", name: "Bolikhamxai", type: "province" }
+    - { code: "LA-KH", name: "Khammouan", type: "province" }
+    - { code: "LA-SV", name: "Savannakhét", type: "province" }
+    - { code: "LA-SL", name: "Saravan", type: "province" }
+    - { code: "LA-VI", name: "Vientiane [prefecture]", type: "province" }
+    - { code: "LA-VI", name: "Vientiane", type: "province" }
+    - { code: "LA-CH", name: "Champasak", type: "province" }
+    - { code: "LA-LP", name: "Louangphrabang", type: "province" }
+    - { code: "LA-HO", name: "Houaphan", type: "province" }
+    - { code: "LA-XI", name: "Xiangkhoang", type: "province" }
+    - { code: "LA-XE", name: "Xékong", type: "province" }
+    - { code: "LA-AT", name: "Attapu", type: "province" }
