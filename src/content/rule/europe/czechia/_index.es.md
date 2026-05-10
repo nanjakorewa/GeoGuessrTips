@@ -13,8 +13,8 @@ jetro_detail: false
 plonkit: true
 sc_title: "Regiones que se confunden con facilidad"
 sc: [
-    ["../slovakia", "Eslovaquia"],
-    ["../slovenia", "Eslovenia"],
+    ["../slovakia/", "Eslovaquia"],
+    ["../slovenia/", "Eslovenia"],
     ]
 mapProvider: "osm"
 mapPins:

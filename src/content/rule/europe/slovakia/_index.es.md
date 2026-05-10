@@ -14,7 +14,7 @@ jetro_detail: true
 plonkit: true
 sc_title: "Regiones que se confunden con facilidad"
 sc: [
-    ["../czechia", "checo"],
+    ["../czechia/", "checo"],
     ["../bulgaria/", "Bulgaria"],
     ]
 mapProvider: "osm"

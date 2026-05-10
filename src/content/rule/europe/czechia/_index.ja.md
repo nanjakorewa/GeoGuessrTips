@@ -13,8 +13,8 @@ jetro_detail: false
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../slovakia", "スロバキア"],
-    ["../slovenia", "スロベニア"],
+    ["../slovakia/", "スロバキア"],
+    ["../slovenia/", "スロベニア"],
     ]
 features:
   - text: '国民一人当たりの<span class="quiz">ビール</span>消費量が世界一で、<span class="quiz">ピルスナー</span>ビール発祥の地であるプルゼニがある'

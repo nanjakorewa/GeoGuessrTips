@@ -21,7 +21,7 @@ maps: [
 sc_title: "Commonly Confused Regions"
 sc: [
     ["../../africa/south-africa/", "South Africa"],
-    ["../new-zealand", "New Zealand"],
+    ["../new-zealand/", "New Zealand"],
     ["../christmas-island/", "Christmas Island"],
     ["../cocos_islands/", "Cocos (Keeling) Islands"],
 ]

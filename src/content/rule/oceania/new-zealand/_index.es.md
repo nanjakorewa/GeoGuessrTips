@@ -14,8 +14,8 @@ plonkit: true
 is_has_distinctive_bollard: true
 sc_title: "Regiones que se confunden con facilidad"
 sc: [
-    ["../australia", "Australia"],
-    ["../australia", "Isla de Tasmania"],
+    ["../australia/", "Australia"],
+    ["../australia/", "Isla de Tasmania"],
 ]
 mapProvider: "osm"
 mapPins:

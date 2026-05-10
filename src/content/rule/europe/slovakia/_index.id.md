@@ -14,7 +14,7 @@ jetro_detail: true
 plonkit: true
 sc_title: "Wilayah yang Sering Tertukar"
 sc: [
-    ["../czechia", "Ceko"],
+    ["../czechia/", "Ceko"],
     ["../bulgaria/", "Bulgaria"],
     ]
 mapProvider: "osm"

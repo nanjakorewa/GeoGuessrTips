@@ -13,7 +13,7 @@ jetro_detail: true
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../czechia", "チェコ"],
+    ["../czechia/", "チェコ"],
     ["../bulgaria/", "ブルガリア"],
     ]
 features:

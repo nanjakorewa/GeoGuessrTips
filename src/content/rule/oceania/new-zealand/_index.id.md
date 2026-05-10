@@ -14,8 +14,8 @@ plonkit: true
 is_has_distinctive_bollard: true
 sc_title: "Wilayah yang Sering Tertukar"
 sc: [
-    ["../australia", "Australia"],
-    ["../australia", "Pulau Tasmania"],
+    ["../australia/", "Australia"],
+    ["../australia/", "Pulau Tasmania"],
     ]
 mapProvider: "osm"
 mapPins:

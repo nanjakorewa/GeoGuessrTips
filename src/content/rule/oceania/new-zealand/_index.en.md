@@ -14,8 +14,8 @@ plonkit: true
 is_has_distinctive_bollard: true
 sc_title: "Commonly Confused Regions"
 sc: [
-    ["../australia", "Australia"],
-    ["../australia", "Tasmania"],
+    ["../australia/", "Australia"],
+    ["../australia/", "Tasmania"],
 ]
 mapProvider: "osm"
 mapPins:

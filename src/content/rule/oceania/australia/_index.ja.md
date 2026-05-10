@@ -21,7 +21,7 @@ maps: [
 sc_title: "間違えやすい地域"
 sc: [
     ["../../africa/south-africa/", "南アフリカ"],
-    ["../new-zealand", "ニュージーランド"],
+    ["../new-zealand/", "ニュージーランド"],
     ["../christmas-island/", "クリスマス島"],
     ["../cocos_islands/", "ココス諸島"],
     ]

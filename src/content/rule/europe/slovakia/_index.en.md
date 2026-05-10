@@ -14,7 +14,7 @@ jetro_detail: true
 plonkit: true
 sc_title: "Commonly Confused Regions"
 sc: [
-    ["../czechia", "czech"],
+    ["../czechia/", "czech"],
     ["../bulgaria/", "Bulgaria"],
     ]
 mapProvider: "osm"

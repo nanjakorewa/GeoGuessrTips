@@ -13,8 +13,8 @@ jetro_detail: false
 plonkit: true
 sc_title: "Wilayah yang Sering Tertukar"
 sc: [
-    ["../slovakia", "Slovakia"],
-    ["../slovenia", "Slovenia"],
+    ["../slovakia/", "Slovakia"],
+    ["../slovenia/", "Slovenia"],
 ]
 mapProvider: "osm"
 mapPins:

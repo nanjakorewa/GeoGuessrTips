@@ -21,7 +21,7 @@ maps: [
 sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../../africa/south-africa/", "Afrika Selatan"],
-    ["../new-zealand", "Selandia Baru"],
+    ["../new-zealand/", "Selandia Baru"],
     ["../christmas-island/", "Pulau Christmas"],
     ["../cocos_islands/", "Kepulauan Cocos"],
     ]

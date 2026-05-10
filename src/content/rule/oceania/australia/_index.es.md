@@ -21,7 +21,7 @@ maps: [
 sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../africa/south-africa/", "Sudáfrica"],
-    ["../new-zealand", "Nueva Zelanda"],
+    ["../new-zealand/", "Nueva Zelanda"],
     ["../christmas-island/", "Isla Navidad"],
     ["../cocos_islands/", "Islas Cocos"],
 ]
