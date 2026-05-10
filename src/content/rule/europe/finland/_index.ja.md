@@ -33,6 +33,30 @@ mapPins:
   - { lat: 66.504, lng: 25.730, label: "ロヴァニエミ", type: "city", note: "ラップランドの中心・サンタクロース村" }
   - { lat: 60.151, lng: 24.950, label: "スオメンリンナ要塞", type: "landmark", note: "世界遺産の海防要塞" }
   - { lat: 61.687, lng: 27.272, label: "サイマー湖", type: "nature", note: "国内最大の湖" }
+municipalities:
+  svg: "/maps/countries/finland.svg"
+  title:
+    ja: "フィンランドの地方"
+    en: "Regions of Finland"
+  list:
+    - { code: "FI-10", name: "Lapland", type: "region" }
+    - { code: "FI-14", name: "Northern Ostrobothnia", type: "region" }
+    - { code: "FI-05", name: "Kainuu", type: "region" }
+    - { code: "FI-13", name: "North Karelia", type: "region" }
+    - { code: "FI-02", name: "South Karelia", type: "region" }
+    - { code: "FI-09", name: "Kymenlaakso", type: "region" }
+    - { code: "FI-18", name: "Uusimaa", type: "region" }
+    - { code: "FI-19", name: "Finland Proper", type: "region" }
+    - { code: "FI-17", name: "Satakunta", type: "region" }
+    - { code: "FI-12", name: "Ostrobothnia", type: "region" }
+    - { code: "FI-07", name: "Central Ostrobothnia", type: "region" }
+    - { code: "FI-15", name: "Northern Savonia", type: "region" }
+    - { code: "FI-04", name: "Southern Savonia", type: "region" }
+    - { code: "FI-08", name: "Central Finland", type: "region" }
+    - { code: "FI-03", name: "Southern Ostrobothnia", type: "region" }
+    - { code: "FI-11", name: "Pirkanmaa", type: "region" }
+    - { code: "FI-06", name: "Tavastia Proper", type: "region" }
+    - { code: "FI-16", name: "Päijät-Häme", type: "region" }
 ---
 
 <div class="main-desciption country-description">

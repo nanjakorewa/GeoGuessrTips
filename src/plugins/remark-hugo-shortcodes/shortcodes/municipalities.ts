@@ -12,22 +12,39 @@ import type { Language } from "../../../lib/i18n-utils.ts";
 export interface MunicipalityItem {
   code: string;
   name: string;
+  /** Per-language overrides; preferred over `name` when language matches. */
+  nameI18n?: Record<string, string>;
   /**
    * Built-in Japan types get localized labels and grouped order; any other
    * string falls through as a custom group label (used as-is).
    */
   type?: string;
   note?: string;
+  noteI18n?: Record<string, string>;
 }
 
 export interface MunicipalitiesData {
   svg: string;
-  /** Optional override for the section heading (defaults to "{title}の自治体"). */
-  title?: string;
+  /**
+   * Optional override for the section heading. Either a single string
+   * (used in any locale) or a record keyed by language code.
+   */
+  title?: string | Record<string, string>;
   asOf?: string;
   source?: string;
   sourceUrl?: string;
   list: MunicipalityItem[];
+}
+
+/** Pick a string from a possibly-i18n value. */
+function localized(
+  value: string | Record<string, string> | undefined,
+  lang: Language,
+  fallback: string = ""
+): string {
+  if (!value) return fallback;
+  if (typeof value === "string") return value;
+  return value[lang] ?? value.ja ?? value.en ?? fallback;
 }
 
 const TITLE: Record<Language, (name: string) => string> = {
@@ -39,32 +56,26 @@ const TITLE: Record<Language, (name: string) => string> = {
 };
 
 const TYPE_LABEL: Record<string, Record<Language, string>> = {
-  city: { ja: "市", en: "City", id: "Kota", es: "Ciudad", pt: "Cidade" },
-  town: { ja: "町", en: "Town", id: "Kota kecil", es: "Pueblo", pt: "Vila" },
-  village: { ja: "村", en: "Village", id: "Desa", es: "Aldea", pt: "Aldeia" },
-  ward: { ja: "区", en: "Ward", id: "Distrik", es: "Distrito", pt: "Distrito" },
-  // Common non-Japan types — extend as needed
-  metropolitan_city: {
-    ja: "広域市・特別市",
-    en: "Metropolitan City",
-    id: "Kota metropolitan",
-    es: "Ciudad metropolitana",
-    pt: "Cidade metropolitana",
-  },
-  province: {
-    ja: "道",
-    en: "Province",
-    id: "Provinsi",
-    es: "Provincia",
-    pt: "Província",
-  },
-  state: {
-    ja: "州",
-    en: "State",
-    id: "Negara bagian",
-    es: "Estado",
-    pt: "Estado",
-  },
+  // Japan
+  city:    { ja: "市",  en: "City",     id: "Kota",         es: "Ciudad",     pt: "Cidade" },
+  town:    { ja: "町",  en: "Town",     id: "Kota kecil",   es: "Pueblo",     pt: "Vila" },
+  village: { ja: "村",  en: "Village",  id: "Desa",         es: "Aldea",      pt: "Aldeia" },
+  ward:    { ja: "区",  en: "Ward",     id: "Distrik",      es: "Distrito",   pt: "Distrito" },
+  // International (first-level admin)
+  metropolitan_city:   { ja: "広域市・特別市", en: "Metropolitan City",  id: "Kota metropolitan", es: "Ciudad metropolitana", pt: "Cidade metropolitana" },
+  province:            { ja: "道",            en: "Province",            id: "Provinsi",          es: "Provincia",            pt: "Província" },
+  state:               { ja: "州",            en: "State",               id: "Negara bagian",     es: "Estado",               pt: "Estado" },
+  region:              { ja: "地域・地方",    en: "Region",              id: "Wilayah",           es: "Región",               pt: "Região" },
+  territory:           { ja: "準州・特別地域", en: "Territory",           id: "Teritori",          es: "Territorio",           pt: "Território" },
+  federal_district:    { ja: "連邦区・特別区", en: "Federal District",    id: "Distrik federal",   es: "Distrito federal",     pt: "Distrito federal" },
+  autonomous_community:{ ja: "自治州",        en: "Autonomous Community", id: "Komunitas otonom",  es: "Comunidad autónoma",   pt: "Comunidade autónoma" },
+  autonomous_city:     { ja: "自治都市",      en: "Autonomous City",     id: "Kota otonom",       es: "Ciudad autónoma",      pt: "Cidade autónoma" },
+  constituent_country: { ja: "構成国",        en: "Constituent Country", id: "Negara konstituen", es: "Nación constitutiva",  pt: "País constituinte" },
+  county:              { ja: "県・郡",        en: "County",              id: "Kabupaten",         es: "Condado",              pt: "Condado" },
+  department:          { ja: "県",            en: "Department",          id: "Departemen",        es: "Departamento",         pt: "Departamento" },
+  prefecture:          { ja: "県",            en: "Prefecture",          id: "Prefektur",         es: "Prefectura",           pt: "Prefeitura" },
+  canton:              { ja: "州",            en: "Canton",              id: "Kanton",            es: "Cantón",               pt: "Cantão" },
+  oblast:              { ja: "州",            en: "Oblast",              id: "Oblast",            es: "Óblast",               pt: "Oblast" },
 };
 
 const ALT_LABEL: Record<Language, (n: string) => string> = {
@@ -91,8 +102,19 @@ function esc(s: string): string {
 // these in the order they first appear in the frontmatter.
 const TYPE_ORDER: string[] = [
   "metropolitan_city",
-  "province",
+  "constituent_country",
   "state",
+  "province",
+  "region",
+  "territory",
+  "federal_district",
+  "autonomous_community",
+  "autonomous_city",
+  "department",
+  "county",
+  "canton",
+  "oblast",
+  "prefecture",
   "city",
   "ward",
   "town",
@@ -138,10 +160,12 @@ export function renderMunicipalitiesHtml(
     const label = TYPE_LABEL[t] ? pick(TYPE_LABEL[t], lang) : t;
     const lis = items
       .map((m) => {
-        const note = m.note
-          ? `<span class="pref-muni-list__note">${esc(m.note)}</span>`
+        const displayName = localized(m.nameI18n, lang, m.name);
+        const displayNote = localized(m.noteI18n, lang, m.note ?? "");
+        const noteHtml = displayNote
+          ? `<span class="pref-muni-list__note">${esc(displayNote)}</span>`
           : "";
-        return `            <li data-code="${esc(m.code)}"><span class="pref-muni-list__name">${esc(m.name)}</span>${note}</li>`;
+        return `            <li data-code="${esc(m.code)}"><span class="pref-muni-list__name">${esc(displayName)}</span>${noteHtml}</li>`;
       })
       .join("\n");
     groupHtml.push(
@@ -155,12 +179,14 @@ ${lis}
   }
   if (ungrouped.length > 0) {
     const lis = ungrouped
-      .map(
-        (m) =>
-          `            <li data-code="${esc(m.code)}"><span class="pref-muni-list__name">${esc(m.name)}</span>${
-            m.note ? `<span class="pref-muni-list__note">${esc(m.note)}</span>` : ""
-          }</li>`
-      )
+      .map((m) => {
+        const displayName = localized(m.nameI18n, lang, m.name);
+        const displayNote = localized(m.noteI18n, lang, m.note ?? "");
+        const noteHtml = displayNote
+          ? `<span class="pref-muni-list__note">${esc(displayNote)}</span>`
+          : "";
+        return `            <li data-code="${esc(m.code)}"><span class="pref-muni-list__name">${esc(displayName)}</span>${noteHtml}</li>`;
+      })
       .join("\n");
     groupHtml.push(
       `        <div class="pref-muni-list__group" data-type="other">
@@ -233,7 +259,7 @@ ${lis}
     : "";
 
   const sectionTitle = data.title
-    ? data.title
+    ? localized(data.title, lang, pick(TITLE, lang)(pageTitle))
     : pick(TITLE, lang)(pageTitle);
 
   return `<section class="pref-muni-section" id="pref-muni">

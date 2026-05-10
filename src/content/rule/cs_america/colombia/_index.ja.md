@@ -34,6 +34,178 @@ mapPins:
   - { lat: 10.391, lng: -75.479, label: "カルタヘナ", type: "city", note: "カリブ海岸の世界遺産・植民地時代の旧市街" }
   - { lat: 11.241, lng: -74.199, label: "サンタ・マルタ", type: "city", note: "カリブ海岸最古の植民都市" }
   - { lat: 5.054, lng: -75.508, label: "コーヒー文化的景観", type: "landmark", note: "世界遺産・コーヒー栽培地帯" }
+municipalities:
+  svg: "/maps/countries/colombia.svg"
+  title:
+    ja: "コロンビアの県"
+    en: "Departments of Colombia"
+  list:
+    - code: "CO-NAR"
+      name: "ナリーニョ県"
+      type: "department"
+      nameI18n:
+        en: "Nariño"
+    - code: "CO-PUT"
+      name: "プトゥマヨ県"
+      type: "department"
+      nameI18n:
+        en: "Putumayo"
+    - code: "CO-CHO"
+      name: "チョコ県"
+      type: "department"
+      nameI18n:
+        en: "Chocó"
+    - code: "CO-GUA"
+      name: "ラ・グアヒラ県"
+      type: "department"
+      nameI18n:
+        en: "La Guajira"
+    - code: "CO-VAU"
+      name: "バウペス県"
+      type: "department"
+      nameI18n:
+        en: "Vaupés"
+    - code: "CO-AMA"
+      name: "アマソナス県"
+      type: "department"
+      nameI18n:
+        en: "Amazonas"
+    - code: "CO-LAG"
+      name: "ラ・グアヒラ県"
+      type: "department"
+      nameI18n:
+        en: "La Guajira"
+    - code: "CO-CES"
+      name: "セサル県"
+      type: "department"
+      nameI18n:
+        en: "Cesar"
+    - code: "CO-NSA"
+      name: "ノルテ・デ・サンタンデル県"
+      type: "department"
+      nameI18n:
+        en: "Norte de Santander"
+    - code: "CO-ARA"
+      name: "アラウカ県"
+      type: "department"
+      nameI18n:
+        en: "Arauca"
+    - code: "CO-BOY"
+      name: "ボヤカ県"
+      type: "department"
+      nameI18n:
+        en: "Boyacá"
+    - code: "CO-VID"
+      name: "ビチャダ県"
+      type: "department"
+      nameI18n:
+        en: "Vichada"
+    - code: "CO-CAU"
+      name: "カウカ県"
+      type: "department"
+      nameI18n:
+        en: "Cauca"
+    - code: "CO-VAC"
+      name: "バジェ・デル・カウカ県"
+      type: "department"
+      nameI18n:
+        en: "Valle del Cauca"
+    - code: "CO-ANT"
+      name: "アンティオキア県"
+      type: "department"
+      nameI18n:
+        en: "Antioquia"
+    - code: "CO-COR"
+      name: "コルドバ県"
+      type: "department"
+      nameI18n:
+        en: "Córdoba"
+    - code: "CO-SUC"
+      name: "スクレ県"
+      type: "department"
+      nameI18n:
+        en: "Sucre"
+    - code: "CO-BOL"
+      name: "ボリーバル県"
+      type: "department"
+      nameI18n:
+        en: "Bolívar"
+    - code: "CO-ATL"
+      name: "アトランティコ県"
+      type: "department"
+      nameI18n:
+        en: "Atlántico"
+    - code: "CO-MAG"
+      name: "マグダレナ県"
+      type: "department"
+      nameI18n:
+        en: "Magdalena"
+    - code: "CO-SAP"
+      name: "サン・アンドレス諸島県"
+      type: "department"
+      nameI18n:
+        en: "San Andrés"
+    - { code: "CO-X01~", name: "null", type: "department" }
+    - code: "CO-CAQ"
+      name: "カケタ県"
+      type: "department"
+      nameI18n:
+        en: "Caquetá"
+    - code: "CO-HUI"
+      name: "ウイラ県"
+      type: "department"
+      nameI18n:
+        en: "Huila"
+    - code: "CO-GUV"
+      name: "グアビアレ県"
+      type: "department"
+      nameI18n:
+        en: "Guaviare"
+    - code: "CO-CAL"
+      name: "カルダス県"
+      type: "department"
+      nameI18n:
+        en: "Caldas"
+    - code: "CO-CAS"
+      name: "カサナレ県"
+      type: "department"
+      nameI18n:
+        en: "Casanare"
+    - code: "CO-MET"
+      name: "メタ県"
+      type: "department"
+      nameI18n:
+        en: "Meta"
+    - code: "CO-CUN"
+      name: "クンディナマルカ県"
+      type: "department"
+      nameI18n:
+        en: "Cundinamarca"
+    - code: "CO-SAN"
+      name: "サンタンデル県"
+      type: "department"
+      nameI18n:
+        en: "Santander"
+    - code: "CO-TOL"
+      name: "トリマ県"
+      type: "department"
+      nameI18n:
+        en: "Tolima"
+    - code: "CO-QUI"
+      name: "キンディオ県"
+      type: "department"
+      nameI18n:
+        en: "Quindío"
+    - code: "CO-CUN"
+      name: "クンディナマルカ県"
+      type: "department"
+      nameI18n:
+        en: "Cundinamarca"
+    - code: "CO-RIS"
+      name: "リサラルダ県"
+      type: "department"
+      nameI18n:
+        en: "Risaralda"
 ---
 
 <div class="main-desciption country-description">

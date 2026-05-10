@@ -1,0 +1,89 @@
+municipalities:
+  svg: "/maps/countries/new-zealand.svg"
+  title:
+    ja: "ニュージーランドの地方"
+    en: "Regions of New Zealand"
+  list:
+    - { code: "NZ-CIT", name: "Chatham Islands Territory", type: "region" }
+    - code: "NZ-STL"
+      name: "サウスランド地方"
+      type: "region"
+      nameI18n:
+        en: "Southland"
+    - code: "NZ-MBH"
+      name: "マールボロ地方"
+      type: "region"
+      nameI18n:
+        en: "Marlborough"
+    - code: "NZ-NSN"
+      name: "ネルソン地方"
+      type: "region"
+      nameI18n:
+        en: "Nelson"
+    - code: "NZ-TAS"
+      name: "タスマン地方"
+      type: "region"
+      nameI18n:
+        en: "Tasman"
+    - code: "NZ-WTC"
+      name: "ウェスト・コースト地方"
+      type: "region"
+      nameI18n:
+        en: "West Coast"
+    - code: "NZ-OTA"
+      name: "オタゴ地方"
+      type: "region"
+      nameI18n:
+        en: "Otago"
+    - code: "NZ-CAN"
+      name: "カンタベリー地方"
+      type: "region"
+      nameI18n:
+        en: "Canterbury"
+    - code: "NZ-AUK"
+      name: "オークランド地方"
+      type: "region"
+      note: "最大都市"
+      nameI18n:
+        en: "Auckland"
+    - code: "NZ-WKO"
+      name: "ワイカト地方"
+      type: "region"
+      nameI18n:
+        en: "Waikato"
+    - code: "NZ-WGN"
+      name: "ウェリントン地方"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Wellington"
+    - code: "NZ-MWT"
+      name: "マナワツ・ワンガヌイ地方"
+      type: "region"
+      nameI18n:
+        en: "Manawatu-Whanganui"
+    - code: "NZ-TKI"
+      name: "タラナキ地方"
+      type: "region"
+      nameI18n:
+        en: "Taranaki"
+    - code: "NZ-NTL"
+      name: "ノースランド地方"
+      type: "region"
+      nameI18n:
+        en: "Northland"
+    - code: "NZ-BOP"
+      name: "ベイ・オブ・プレンティ地方"
+      type: "region"
+      nameI18n:
+        en: "Bay of Plenty"
+    - code: "NZ-GIS"
+      name: "ギズボーン地方"
+      type: "region"
+      nameI18n:
+        en: "Gisborne"
+    - code: "NZ-HKB"
+      name: "ホークス・ベイ地方"
+      type: "region"
+      nameI18n:
+        en: "Hawke's Bay"

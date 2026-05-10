@@ -1,0 +1,26 @@
+// Chile: 16 regions
+module.exports = {
+  pageDir: "cs_america/chile",
+  source: { type: "natural-earth", iso_a2: "CL" },
+  title: { ja: "チリの州", en: "Regions of Chile" },
+  defaultType: "region",
+  tolerance: 0.02,
+  names: {
+    "CL-AI": { ja: "アイセン州",            en: "Aysén" },
+    "CL-AN": { ja: "アントファガスタ州",    en: "Antofagasta" },
+    "CL-AP": { ja: "アリカ・パリナコータ州",en: "Arica y Parinacota" },
+    "CL-AR": { ja: "ラ・アラウカニア州",    en: "Araucanía" },
+    "CL-AT": { ja: "アタカマ州",            en: "Atacama" },
+    "CL-BI": { ja: "ビオビオ州",            en: "Biobío" },
+    "CL-CO": { ja: "コキンボ州",            en: "Coquimbo" },
+    "CL-LI": { ja: "リベルタドール・ベルナルド・オイギンス州", en: "O'Higgins" },
+    "CL-LL": { ja: "ロス・ラゴス州",        en: "Los Lagos" },
+    "CL-LR": { ja: "ロス・リオス州",        en: "Los Ríos" },
+    "CL-MA": { ja: "マガジャーネス・南極州",en: "Magallanes" },
+    "CL-ML": { ja: "マウレ州",              en: "Maule" },
+    "CL-NB": { ja: "ニュブレ州",            en: "Ñuble" },
+    "CL-RM": { ja: "サンティアゴ首都州",    en: "Santiago Metropolitan", note: "首都" },
+    "CL-TA": { ja: "タラパカ州",            en: "Tarapacá" },
+    "CL-VS": { ja: "バルパライソ州",        en: "Valparaíso" },
+  },
+};

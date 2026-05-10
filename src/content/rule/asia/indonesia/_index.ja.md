@@ -37,6 +37,178 @@ mapPins:
   - { lat: -7.608, lng: 110.204, label: "ボロブドゥール", type: "landmark", note: "世界遺産・世界最大級の仏教遺跡" }
   - { lat: 3.595, lng: 98.673, label: "メダン", type: "city", note: "スマトラ島最大の都市" }
   - { lat: -8.342, lng: 115.508, label: "アグン山", type: "nature", note: "バリ島最高峰の活火山（標高3,031m）" }
+municipalities:
+  svg: "/maps/countries/indonesia.svg"
+  title:
+    ja: "インドネシアの州"
+    en: "Provinces of Indonesia"
+  list:
+    - code: "ID-KI"
+      name: "東カリマンタン州"
+      type: "province"
+      nameI18n:
+        en: "East Kalimantan"
+    - code: "ID-NT"
+      name: "東ヌサ・トゥンガラ州"
+      type: "province"
+      nameI18n:
+        en: "East Nusa Tenggara"
+    - code: "ID-KB"
+      name: "西カリマンタン州"
+      type: "province"
+      nameI18n:
+        en: "West Kalimantan"
+    - code: "ID-PA"
+      name: "パプア州"
+      type: "province"
+      nameI18n:
+        en: "Papua"
+    - code: "ID-JI"
+      name: "東ジャワ州"
+      type: "province"
+      nameI18n:
+        en: "East Java"
+    - code: "ID-MA"
+      name: "マルク州"
+      type: "province"
+      nameI18n:
+        en: "Maluku"
+    - code: "ID-NB"
+      name: "西ヌサ・トゥンガラ州"
+      type: "province"
+      nameI18n:
+        en: "West Nusa Tenggara"
+    - code: "ID-SN"
+      name: "南スラウェシ州"
+      type: "province"
+      nameI18n:
+        en: "South Sulawesi"
+    - code: "ID-JT"
+      name: "中部ジャワ州"
+      type: "province"
+      nameI18n:
+        en: "Central Java"
+    - code: "ID-JB"
+      name: "西ジャワ州"
+      type: "province"
+      nameI18n:
+        en: "West Java"
+    - code: "ID-JK"
+      name: "ジャカルタ首都特別州"
+      type: "province"
+      note: "首都"
+      nameI18n:
+        en: "Jakarta"
+    - code: "ID-BT"
+      name: "バンテン州"
+      type: "province"
+      nameI18n:
+        en: "Banten"
+    - code: "ID-YO"
+      name: "ジョグジャカルタ特別州"
+      type: "province"
+      nameI18n:
+        en: "Yogyakarta"
+    - code: "ID-SG"
+      name: "東南スラウェシ州"
+      type: "province"
+      nameI18n:
+        en: "Southeast Sulawesi"
+    - code: "ID-PB"
+      name: "西パプア州"
+      type: "province"
+      nameI18n:
+        en: "West Papua"
+    - code: "ID-ST"
+      name: "中部スラウェシ州"
+      type: "province"
+      nameI18n:
+        en: "Central Sulawesi"
+    - code: "ID-MU"
+      name: "北マルク州"
+      type: "province"
+      nameI18n:
+        en: "North Maluku"
+    - code: "ID-KR"
+      name: "リアウ諸島州"
+      type: "province"
+      nameI18n:
+        en: "Riau Islands"
+    - code: "ID-RI"
+      name: "リアウ州"
+      type: "province"
+      nameI18n:
+        en: "Riau"
+    - code: "ID-GO"
+      name: "ゴロンタロ州"
+      type: "province"
+      nameI18n:
+        en: "Gorontalo"
+    - code: "ID-SA"
+      name: "北スラウェシ州"
+      type: "province"
+      nameI18n:
+        en: "North Sulawesi"
+    - code: "ID-SR"
+      name: "西スラウェシ州"
+      type: "province"
+      nameI18n:
+        en: "West Sulawesi"
+    - code: "ID-JA"
+      name: "ジャンビ州"
+      type: "province"
+      nameI18n:
+        en: "Jambi"
+    - code: "ID-SS"
+      name: "南スマトラ州"
+      type: "province"
+      nameI18n:
+        en: "South Sumatra"
+    - code: "ID-LA"
+      name: "ランプン州"
+      type: "province"
+      nameI18n:
+        en: "Lampung"
+    - code: "ID-BE"
+      name: "ブンクル州"
+      type: "province"
+      nameI18n:
+        en: "Bengkulu"
+    - code: "ID-SB"
+      name: "西スマトラ州"
+      type: "province"
+      nameI18n:
+        en: "West Sumatra"
+    - code: "ID-SU"
+      name: "北スマトラ州"
+      type: "province"
+      nameI18n:
+        en: "North Sumatra"
+    - code: "ID-AC"
+      name: "アチェ州"
+      type: "province"
+      nameI18n:
+        en: "Aceh"
+    - code: "ID-KT"
+      name: "中部カリマンタン州"
+      type: "province"
+      nameI18n:
+        en: "Central Kalimantan"
+    - code: "ID-KS"
+      name: "南カリマンタン州"
+      type: "province"
+      nameI18n:
+        en: "South Kalimantan"
+    - code: "ID-BA"
+      name: "バリ州"
+      type: "province"
+      nameI18n:
+        en: "Bali"
+    - code: "ID-BB"
+      name: "バンカ・ブリトゥン諸島州"
+      type: "province"
+      nameI18n:
+        en: "Bangka Belitung"
 ---
 
 <div class="main-desciption country-description">

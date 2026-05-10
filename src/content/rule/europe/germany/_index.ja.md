@@ -46,6 +46,93 @@ mapPins:
   - { lat: 50.110, lng: 8.682, label: "フランクフルト", type: "city", note: "金融の中心・欧州中央銀行所在地" }
   - { lat: 47.557, lng: 10.749, label: "ノイシュヴァンシュタイン城", type: "landmark", note: "ルートヴィヒ2世の白亜の城" }
   - { lat: 51.050, lng: 13.738, label: "ドレスデン", type: "city", note: "エルベ川沿いの芸術の街" }
+municipalities:
+  svg: "/maps/countries/germany.svg"
+  title:
+    ja: "ドイツの連邦州"
+    en: "States of Germany"
+  list:
+    - code: "DE-SN"
+      name: "ザクセン州"
+      type: "state"
+      nameI18n:
+        en: "Saxony"
+    - code: "DE-BY"
+      name: "バイエルン州"
+      type: "state"
+      nameI18n:
+        en: "Bavaria"
+    - code: "DE-RP"
+      name: "ラインラント・プファルツ州"
+      type: "state"
+      nameI18n:
+        en: "Rhineland-Palatinate"
+    - code: "DE-SL"
+      name: "ザールラント州"
+      type: "state"
+      nameI18n:
+        en: "Saarland"
+    - code: "DE-SH"
+      name: "シュレースヴィヒ・ホルシュタイン州"
+      type: "state"
+      nameI18n:
+        en: "Schleswig-Holstein"
+    - code: "DE-NI"
+      name: "ニーダーザクセン州"
+      type: "state"
+      nameI18n:
+        en: "Lower Saxony"
+    - code: "DE-NW"
+      name: "ノルトライン・ヴェストファーレン州"
+      type: "state"
+      nameI18n:
+        en: "North Rhine-Westphalia"
+    - code: "DE-BW"
+      name: "バーデン・ヴュルテンベルク州"
+      type: "state"
+      nameI18n:
+        en: "Baden-Württemberg"
+    - code: "DE-BB"
+      name: "ブランデンブルク州"
+      type: "state"
+      nameI18n:
+        en: "Brandenburg"
+    - code: "DE-MV"
+      name: "メクレンブルク・フォアポンメルン州"
+      type: "state"
+      nameI18n:
+        en: "Mecklenburg-Vorpommern"
+    - code: "DE-HB"
+      name: "ブレーメン"
+      type: "state"
+      nameI18n:
+        en: "Bremen"
+    - code: "DE-HH"
+      name: "ハンブルク"
+      type: "state"
+      nameI18n:
+        en: "Hamburg"
+    - code: "DE-HE"
+      name: "ヘッセン州"
+      type: "state"
+      nameI18n:
+        en: "Hesse"
+    - code: "DE-TH"
+      name: "テューリンゲン州"
+      type: "state"
+      nameI18n:
+        en: "Thuringia"
+    - code: "DE-ST"
+      name: "ザクセン・アンハルト州"
+      type: "state"
+      nameI18n:
+        en: "Saxony-Anhalt"
+    - code: "DE-BE"
+      name: "ベルリン"
+      type: "state"
+      note: "首都"
+      nameI18n:
+        en: "Berlin"
 ---
 
 <div class="main-desciption country-description">

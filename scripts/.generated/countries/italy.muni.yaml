@@ -1,0 +1,107 @@
+municipalities:
+  svg: "/maps/countries/italy.svg"
+  title:
+    ja: "イタリアの州"
+    en: "Regions of Italy"
+  list:
+    - code: "01"
+      name: "ピエモンテ州"
+      type: "region"
+      nameI18n:
+        en: "Piemonte"
+    - code: "02"
+      name: "ヴァッレ・ダオスタ州"
+      type: "region"
+      nameI18n:
+        en: "Valle d'Aosta"
+    - code: "03"
+      name: "ロンバルディア州"
+      type: "region"
+      nameI18n:
+        en: "Lombardia"
+    - code: "04"
+      name: "トレンティーノ・アルト・アディジェ州"
+      type: "region"
+      nameI18n:
+        en: "Trentino-Alto Adige"
+    - code: "05"
+      name: "ヴェネト州"
+      type: "region"
+      nameI18n:
+        en: "Veneto"
+    - code: "06"
+      name: "フリウリ・ヴェネツィア・ジュリア州"
+      type: "region"
+      nameI18n:
+        en: "Friuli-Venezia Giulia"
+    - code: "07"
+      name: "リグーリア州"
+      type: "region"
+      nameI18n:
+        en: "Liguria"
+    - code: "08"
+      name: "エミリア・ロマーニャ州"
+      type: "region"
+      nameI18n:
+        en: "Emilia-Romagna"
+    - code: "09"
+      name: "トスカーナ州"
+      type: "region"
+      nameI18n:
+        en: "Toscana"
+    - code: "10"
+      name: "ウンブリア州"
+      type: "region"
+      nameI18n:
+        en: "Umbria"
+    - code: "11"
+      name: "マルケ州"
+      type: "region"
+      nameI18n:
+        en: "Marche"
+    - code: "12"
+      name: "ラツィオ州"
+      type: "region"
+      note: "首都ローマ"
+      nameI18n:
+        en: "Lazio"
+    - code: "13"
+      name: "アブルッツォ州"
+      type: "region"
+      nameI18n:
+        en: "Abruzzo"
+    - code: "14"
+      name: "モリーゼ州"
+      type: "region"
+      nameI18n:
+        en: "Molise"
+    - code: "15"
+      name: "カンパニア州"
+      type: "region"
+      nameI18n:
+        en: "Campania"
+    - code: "16"
+      name: "プッリャ州"
+      type: "region"
+      nameI18n:
+        en: "Puglia"
+    - code: "17"
+      name: "バジリカータ州"
+      type: "region"
+      nameI18n:
+        en: "Basilicata"
+    - code: "18"
+      name: "カラブリア州"
+      type: "region"
+      nameI18n:
+        en: "Calabria"
+    - code: "19"
+      name: "シチリア州"
+      type: "region"
+      nameI18n:
+        en: "Sicilia"
+    - code: "20"
+      name: "サルデーニャ州"
+      type: "region"
+      nameI18n:
+        en: "Sardegna"

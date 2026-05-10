@@ -1,0 +1,108 @@
+municipalities:
+  svg: "/maps/countries/taiwan.svg"
+  title:
+    ja: "台湾の県・市"
+    en: "Counties and Cities of Taiwan"
+  list:
+    - code: "TW-TAO"
+      name: "桃園市"
+      type: "city"
+      nameI18n:
+        en: "Taoyuan"
+    - code: "TW-HSQ"
+      name: "新竹県"
+      type: "county"
+      nameI18n:
+        en: "Hsinchu County"
+    - code: "TW-HSZ"
+      name: "新竹市"
+      type: "city"
+      nameI18n:
+        en: "Hsinchu City"
+    - code: "TW-MIA"
+      name: "苗栗県"
+      type: "county"
+      nameI18n:
+        en: "Miaoli"
+    - code: "TW-TXG"
+      name: "台中市"
+      type: "city"
+      nameI18n:
+        en: "Taichung"
+    - code: "TW-CHA"
+      name: "彰化県"
+      type: "county"
+      nameI18n:
+        en: "Changhua"
+    - code: "TW-YUN"
+      name: "雲林県"
+      type: "county"
+      nameI18n:
+        en: "Yunlin"
+    - code: "TW-CYQ"
+      name: "嘉義市"
+      type: "city"
+      nameI18n:
+        en: "Chiayi City"
+    - code: "TW-TNN"
+      name: "台南市"
+      type: "city"
+      nameI18n:
+        en: "Tainan"
+    - code: "TW-KHH"
+      name: "高雄市"
+      type: "city"
+      nameI18n:
+        en: "Kaohsiung"
+    - code: "TW-PIF"
+      name: "屏東県"
+      type: "county"
+      nameI18n:
+        en: "Pingtung"
+    - code: "TW-TTT"
+      name: "台東県"
+      type: "county"
+      nameI18n:
+        en: "Taitung"
+    - code: "TW-HUA"
+      name: "花蓮県"
+      type: "county"
+      nameI18n:
+        en: "Hualien"
+    - code: "TW-ILA"
+      name: "宜蘭県"
+      type: "county"
+      nameI18n:
+        en: "Yilan"
+    - { code: "TW-TPQ", name: "New Taipei City", type: "city" }
+    - code: "TW-KEE"
+      name: "基隆市"
+      type: "city"
+      nameI18n:
+        en: "Keelung"
+    - code: "TW-KIN"
+      name: "金門県"
+      type: "county"
+      nameI18n:
+        en: "Kinmen"
+    - code: "TW-PEN"
+      name: "澎湖県"
+      type: "county"
+      nameI18n:
+        en: "Penghu"
+    - code: "TW-NAN"
+      name: "南投県"
+      type: "county"
+      nameI18n:
+        en: "Nantou"
+    - code: "TW-TPE"
+      name: "台北市"
+      type: "city"
+      note: "首都"
+      nameI18n:
+        en: "Taipei"
+    - code: "TW-CYI"
+      name: "嘉義県"
+      type: "county"
+      nameI18n:
+        en: "Chiayi County"

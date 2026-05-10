@@ -1,0 +1,107 @@
+municipalities:
+  svg: "/maps/countries/portugal.svg"
+  title:
+    ja: "ポルトガルの県"
+    en: "Districts of Portugal"
+  list:
+    - code: "PT-07"
+      name: "エヴォラ県"
+      type: "department"
+      nameI18n:
+        en: "Évora"
+    - code: "PT-12"
+      name: "ポルタレグレ県"
+      type: "department"
+      nameI18n:
+        en: "Portalegre"
+    - code: "PT-16"
+      name: "ヴィアナ・ド・カステロ県"
+      type: "department"
+      nameI18n:
+        en: "Viana do Castelo"
+    - code: "PT-05"
+      name: "カステロ・ブランコ県"
+      type: "department"
+      nameI18n:
+        en: "Castelo Branco"
+    - code: "PT-09"
+      name: "グアルダ県"
+      type: "department"
+      nameI18n:
+        en: "Guarda"
+    - code: "PT-04"
+      name: "ブラガ県"
+      type: "department"
+      nameI18n:
+        en: "Braga"
+    - code: "PT-17"
+      name: "ヴィラ・レアル県"
+      type: "department"
+      nameI18n:
+        en: "Vila Real"
+    - code: "PT-03"
+      name: "ブラガンサ県"
+      type: "department"
+      nameI18n:
+        en: "Bragança"
+    - code: "PT-08"
+      name: "ファロ県"
+      type: "department"
+      nameI18n:
+        en: "Faro"
+    - code: "PT-02"
+      name: "ベージャ県"
+      type: "department"
+      nameI18n:
+        en: "Beja"
+    - code: "PT-15"
+      name: "セトゥーバル県"
+      type: "department"
+      nameI18n:
+        en: "Setúbal"
+    - code: "PT-11"
+      name: "リスボン県"
+      type: "department"
+      note: "首都"
+      nameI18n:
+        en: "Lisboa"
+    - code: "PT-14"
+      name: "サンタレン県"
+      type: "department"
+      nameI18n:
+        en: "Santarém"
+    - code: "PT-10"
+      name: "レイリア県"
+      type: "department"
+      nameI18n:
+        en: "Leiria"
+    - code: "PT-06"
+      name: "コインブラ県"
+      type: "department"
+      nameI18n:
+        en: "Coimbra"
+    - code: "PT-01"
+      name: "アヴェイロ県"
+      type: "department"
+      nameI18n:
+        en: "Aveiro"
+    - code: "PT-13"
+      name: "ポルト県"
+      type: "department"
+      nameI18n:
+        en: "Porto"
+    - code: "PT-30"
+      name: "マデイラ自治州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Madeira"
+    - code: "PT-20"
+      name: "アゾレス諸島自治州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Açores"
+    - code: "PT-18"
+      name: "ヴィゼウ県"
+      type: "department"
+      nameI18n:
+        en: "Viseu"

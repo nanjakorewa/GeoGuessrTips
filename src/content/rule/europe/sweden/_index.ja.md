@@ -33,6 +33,118 @@ mapPins:
   - { lat: 67.855, lng: 20.225, label: "キルナ", type: "city", note: "北極圏の鉱山都市・オーロラ観測地" }
   - { lat: 59.323, lng: 17.871, label: "ドロットニングホルム宮殿", type: "landmark", note: "世界遺産・王室の住居" }
   - { lat: 57.629, lng: 18.295, label: "ヴィスビュー", type: "historical", note: "ゴットランド島の中世都市" }
+municipalities:
+  svg: "/maps/countries/sweden.svg"
+  title:
+    ja: "スウェーデンの県"
+    en: "Counties of Sweden"
+  list:
+    - code: "SE-BD"
+      name: "ノールボッテン県"
+      type: "county"
+      nameI18n:
+        en: "Norrbotten"
+    - code: "SE-AC"
+      name: "ヴェステルボッテン県"
+      type: "county"
+      nameI18n:
+        en: "Västerbotten"
+    - code: "SE-Z"
+      name: "イェムトランド県"
+      type: "county"
+      nameI18n:
+        en: "Jämtland"
+    - code: "SE-W"
+      name: "ダーラナ県"
+      type: "county"
+      nameI18n:
+        en: "Dalarna"
+    - code: "SE-S"
+      name: "ヴェルムランド県"
+      type: "county"
+      nameI18n:
+        en: "Värmland"
+    - code: "SE-O"
+      name: "ヴェストラ・イェータランド県"
+      type: "county"
+      nameI18n:
+        en: "Västra Götaland"
+    - code: "SE-Y"
+      name: "ヴェステルノールランド県"
+      type: "county"
+      nameI18n:
+        en: "Västernorrland"
+    - code: "SE-X"
+      name: "イェヴレボリ県"
+      type: "county"
+      nameI18n:
+        en: "Gävleborg"
+    - code: "SE-C"
+      name: "ウプサラ県"
+      type: "county"
+      nameI18n:
+        en: "Uppsala"
+    - code: "SE-AB"
+      name: "ストックホルム県"
+      type: "county"
+      note: "首都"
+      nameI18n:
+        en: "Stockholm"
+    - code: "SE-D"
+      name: "セーデルマンランド県"
+      type: "county"
+      nameI18n:
+        en: "Södermanland"
+    - code: "SE-E"
+      name: "エステルイェートランド県"
+      type: "county"
+      nameI18n:
+        en: "Östergötland"
+    - code: "SE-H"
+      name: "カルマル県"
+      type: "county"
+      nameI18n:
+        en: "Kalmar"
+    - code: "SE-K"
+      name: "ブレーキンゲ県"
+      type: "county"
+      nameI18n:
+        en: "Blekinge"
+    - code: "SE-M"
+      name: "スコーネ県"
+      type: "county"
+      nameI18n:
+        en: "Skåne"
+    - code: "SE-N"
+      name: "ハッランド県"
+      type: "county"
+      nameI18n:
+        en: "Halland"
+    - code: "SE-I"
+      name: "ゴットランド県"
+      type: "county"
+      nameI18n:
+        en: "Gotland"
+    - code: "SE-U"
+      name: "ヴェストマンランド県"
+      type: "county"
+      nameI18n:
+        en: "Västmanland"
+    - code: "SE-F"
+      name: "ヨンショーピング県"
+      type: "county"
+      nameI18n:
+        en: "Jönköping"
+    - code: "SE-T"
+      name: "エレブルー県"
+      type: "county"
+      nameI18n:
+        en: "Örebro"
+    - code: "SE-G"
+      name: "クロノベリ県"
+      type: "county"
+      nameI18n:
+        en: "Kronoberg"
 ---
 
 <div class="main-desciption country-description">

@@ -1,0 +1,139 @@
+municipalities:
+  svg: "/maps/countries/peru.svg"
+  title:
+    ja: "ペルーの県"
+    en: "Departments of Peru"
+  list:
+    - code: "PE-TAC"
+      name: "タクナ県"
+      type: "department"
+      nameI18n:
+        en: "Tacna"
+    - code: "PE-MDD"
+      name: "マードレ・デ・ディオス県"
+      type: "department"
+      nameI18n:
+        en: "Madre de Dios"
+    - code: "PE-LOR"
+      name: "ロレト県"
+      type: "department"
+      nameI18n:
+        en: "Loreto"
+    - code: "PE-AMA"
+      name: "アマソナス県"
+      type: "department"
+      nameI18n:
+        en: "Amazonas"
+    - code: "PE-CAJ"
+      name: "カハマルカ県"
+      type: "department"
+      nameI18n:
+        en: "Cajamarca"
+    - code: "PE-TUM"
+      name: "トゥンベス県"
+      type: "department"
+      nameI18n:
+        en: "Tumbes"
+    - code: "PE-PIU"
+      name: "ピウラ県"
+      type: "department"
+      nameI18n:
+        en: "Piura"
+    - code: "PE-UCA"
+      name: "ウカヤリ県"
+      type: "department"
+      nameI18n:
+        en: "Ucayali"
+    - code: "PE-PUN"
+      name: "プノ県"
+      type: "department"
+      nameI18n:
+        en: "Puno"
+    - code: "PE-MOQ"
+      name: "モケグア県"
+      type: "department"
+      nameI18n:
+        en: "Moquegua"
+    - code: "PE-ARE"
+      name: "アレキパ県"
+      type: "department"
+      nameI18n:
+        en: "Arequipa"
+    - code: "PE-ICA"
+      name: "イカ県"
+      type: "department"
+      nameI18n:
+        en: "Ica"
+    - code: "PE-LIM"
+      name: "リマ県"
+      type: "department"
+      note: "首都"
+      nameI18n:
+        en: "Lima"
+    - code: "PE-LIM"
+      name: "リマ県"
+      type: "department"
+      note: "首都"
+      nameI18n:
+        en: "Lima"
+    - code: "PE-CAL"
+      name: "カヤオ憲法特別区"
+      type: "department"
+      note: "憲法特別区"
+      nameI18n:
+        en: "Callao"
+    - code: "PE-ANC"
+      name: "アンカシュ県"
+      type: "department"
+      nameI18n:
+        en: "Áncash"
+    - code: "PE-LAL"
+      name: "ラ・リベルタ県"
+      type: "department"
+      nameI18n:
+        en: "La Libertad"
+    - code: "PE-LAM"
+      name: "ランバイェケ県"
+      type: "department"
+      nameI18n:
+        en: "Lambayeque"
+    - code: "PE-CUS"
+      name: "クスコ県"
+      type: "department"
+      nameI18n:
+        en: "Cusco"
+    - code: "PE-AYA"
+      name: "アヤクチョ県"
+      type: "department"
+      nameI18n:
+        en: "Ayacucho"
+    - code: "PE-APU"
+      name: "アプリマック県"
+      type: "department"
+      nameI18n:
+        en: "Apurímac"
+    - code: "PE-HUV"
+      name: "ウアンカベリカ県"
+      type: "department"
+      nameI18n:
+        en: "Huancavelica"
+    - code: "PE-SAM"
+      name: "サン・マルティン県"
+      type: "department"
+      nameI18n:
+        en: "San Martín"
+    - code: "PE-HUC"
+      name: "ウアヌコ県"
+      type: "department"
+      nameI18n:
+        en: "Huánuco"
+    - code: "PE-PAS"
+      name: "パスコ県"
+      type: "department"
+      nameI18n:
+        en: "Pasco"
+    - code: "PE-JUN"
+      name: "フニン県"
+      type: "department"
+      nameI18n:
+        en: "Junín"

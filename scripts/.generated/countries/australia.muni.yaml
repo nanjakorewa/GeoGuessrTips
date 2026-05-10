@@ -1,0 +1,55 @@
+municipalities:
+  svg: "/maps/countries/australia.svg"
+  title:
+    ja: "オーストラリアの州・準州"
+    en: "States and Territories of Australia"
+  list:
+    - code: "AU-WA"
+      name: "西オーストラリア州"
+      type: "state"
+      nameI18n:
+        en: "Western Australia"
+    - code: "AU-NT"
+      name: "ノーザンテリトリー"
+      type: "territory"
+      nameI18n:
+        en: "Northern Territory"
+    - code: "AU-SA"
+      name: "南オーストラリア州"
+      type: "state"
+      nameI18n:
+        en: "South Australia"
+    - code: "AU-QLD"
+      name: "クイーンズランド州"
+      type: "state"
+      nameI18n:
+        en: "Queensland"
+    - code: "AU-NSW"
+      name: "ニューサウスウェールズ州"
+      type: "state"
+      nameI18n:
+        en: "New South Wales"
+    - { code: "AU-X02~", name: "Jervis Bay Territory", type: "state" }
+    - code: "AU-VIC"
+      name: "ビクトリア州"
+      type: "state"
+      nameI18n:
+        en: "Victoria"
+    - code: "AU-TAS"
+      name: "タスマニア州"
+      type: "state"
+      nameI18n:
+        en: "Tasmania"
+    - { code: "AU-X03~", name: "Macquarie Island", type: "state" }
+    - code: "AU-NSW"
+      name: "ニューサウスウェールズ州"
+      type: "state"
+      nameI18n:
+        en: "New South Wales"
+    - { code: "AU-X04~", name: "Ashmore and Cartier Islands", type: "state" }
+    - code: "AU-ACT"
+      name: "オーストラリア首都特別地域"
+      type: "territory"
+      note: "首都キャンベラ"
+      nameI18n:
+        en: "Australian Capital Territory"

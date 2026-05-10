@@ -28,6 +28,78 @@ mapPins:
   - { lat: 26.420, lng: 50.088, label: "ダンマーム", type: "city", note: "東部州の中心・石油産業の拠点" }
   - { lat: 18.213, lng: 42.505, label: "アブハー", type: "city", note: "南西部のアシール州の中心都市" }
   - { lat: 26.629, lng: 37.948, label: "ヘグラ（マダイン・サーレハ）", type: "historical", note: "ナバテア人の遺跡・世界遺産" }
+municipalities:
+  svg: "/maps/countries/saudiarabia.svg"
+  title:
+    ja: "サウジアラビアの州"
+    en: "Regions of Saudi Arabia"
+  list:
+    - code: "SA-04"
+      name: "東部州"
+      type: "region"
+      nameI18n:
+        en: "Eastern Province"
+    - code: "SA-08"
+      name: "北部国境州"
+      type: "region"
+      nameI18n:
+        en: "Northern Borders"
+    - code: "SA-12"
+      name: "アル・バーハ州"
+      type: "region"
+      nameI18n:
+        en: "Al Bahah"
+    - code: "SA-10"
+      name: "ジャザーン州"
+      type: "region"
+      nameI18n:
+        en: "Jazan"
+    - code: "SA-14"
+      name: "アル・アシール州"
+      type: "region"
+      nameI18n:
+        en: "'Asir"
+    - code: "SA-09"
+      name: "ジャウフ州"
+      type: "region"
+      nameI18n:
+        en: "Al-Jawf"
+    - code: "SA-07"
+      name: "タブーク州"
+      type: "region"
+      nameI18n:
+        en: "Tabuk"
+    - code: "SA-03"
+      name: "マディーナ州"
+      type: "region"
+      nameI18n:
+        en: "Madinah"
+    - code: "SA-02"
+      name: "マッカ州"
+      type: "region"
+      nameI18n:
+        en: "Makkah"
+    - code: "SA-01"
+      name: "リヤド州"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Riyadh"
+    - code: "SA-05"
+      name: "アル・カシム州"
+      type: "region"
+      nameI18n:
+        en: "Al-Qassim"
+    - code: "SA-06"
+      name: "ハーイル州"
+      type: "region"
+      nameI18n:
+        en: "Ha'il"
+    - code: "SA-11"
+      name: "ナジュラーン州"
+      type: "region"
+      nameI18n:
+        en: "Najran"
 ---
 
 <div class="main-desciption country-description">

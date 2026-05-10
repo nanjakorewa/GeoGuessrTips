@@ -1,0 +1,32 @@
+// Portugal: 18 districts + 2 autonomous regions = 20 (NE has 20 districts/regions)
+module.exports = {
+  pageDir: "europe/portugal",
+  source: { type: "natural-earth", iso_a2: "PT" },
+  title: { ja: "ポルトガルの県", en: "Districts of Portugal" },
+  defaultType: "department",
+  tolerance: 0.01,
+  minOuterArea: 1e-4,
+  // Names will fall back to source data; curating the major ones for Japanese display.
+  names: {
+    "PT-13": { ja: "ポルト県",       en: "Porto" },
+    "PT-11": { ja: "リスボン県",     en: "Lisboa", note: "首都" },
+    "PT-08": { ja: "ファロ県",       en: "Faro" },
+    "PT-04": { ja: "ブラガ県",       en: "Braga" },
+    "PT-01": { ja: "アヴェイロ県",   en: "Aveiro" },
+    "PT-06": { ja: "コインブラ県",   en: "Coimbra" },
+    "PT-02": { ja: "ベージャ県",     en: "Beja" },
+    "PT-03": { ja: "ブラガンサ県",   en: "Bragança" },
+    "PT-05": { ja: "カステロ・ブランコ県", en: "Castelo Branco" },
+    "PT-07": { ja: "エヴォラ県",     en: "Évora" },
+    "PT-09": { ja: "グアルダ県",     en: "Guarda" },
+    "PT-10": { ja: "レイリア県",     en: "Leiria" },
+    "PT-12": { ja: "ポルタレグレ県", en: "Portalegre" },
+    "PT-14": { ja: "サンタレン県",   en: "Santarém" },
+    "PT-15": { ja: "セトゥーバル県", en: "Setúbal" },
+    "PT-16": { ja: "ヴィアナ・ド・カステロ県", en: "Viana do Castelo" },
+    "PT-17": { ja: "ヴィラ・レアル県", en: "Vila Real" },
+    "PT-18": { ja: "ヴィゼウ県",     en: "Viseu" },
+    "PT-20": { ja: "アゾレス諸島自治州", en: "Açores", type: "autonomous_community" },
+    "PT-30": { ja: "マデイラ自治州", en: "Madeira", type: "autonomous_community" },
+  },
+};

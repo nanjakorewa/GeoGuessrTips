@@ -37,6 +37,78 @@ mapPins:
   - { lat: 43.084, lng: -79.075, label: "ナイアガラ滝", type: "landmark", note: "アメリカ国境の世界的な大瀑布" }
   - { lat: 43.643, lng: -79.387, label: "CN タワー", type: "landmark", note: "トロントの象徴的な電波塔" }
   - { lat: 51.418, lng: -116.215, label: "ルイーズ湖", type: "nature", note: "カナディアンロッキーの氷河湖" }
+municipalities:
+  svg: "/maps/countries/canada.svg"
+  title:
+    ja: "カナダの州・準州"
+    en: "Provinces and Territories of Canada"
+  list:
+    - code: "CA-BC"
+      name: "ブリティッシュコロンビア州"
+      type: "province"
+      nameI18n:
+        en: "British Columbia"
+    - code: "CA-AB"
+      name: "アルバータ州"
+      type: "province"
+      nameI18n:
+        en: "Alberta"
+    - code: "CA-SK"
+      name: "サスカチュワン州"
+      type: "province"
+      nameI18n:
+        en: "Saskatchewan"
+    - code: "CA-MB"
+      name: "マニトバ州"
+      type: "province"
+      nameI18n:
+        en: "Manitoba"
+    - code: "CA-ON"
+      name: "オンタリオ州"
+      type: "province"
+      note: "首都オタワ"
+      nameI18n:
+        en: "Ontario"
+    - code: "CA-QC"
+      name: "ケベック州"
+      type: "province"
+      nameI18n:
+        en: "Quebec"
+    - code: "CA-NB"
+      name: "ニューブランズウィック州"
+      type: "province"
+      nameI18n:
+        en: "New Brunswick"
+    - code: "CA-YT"
+      name: "ユーコン準州"
+      type: "territory"
+      nameI18n:
+        en: "Yukon"
+    - code: "CA-NU"
+      name: "ヌナブト準州"
+      type: "territory"
+      nameI18n:
+        en: "Nunavut"
+    - code: "CA-NL"
+      name: "ニューファンドランド・ラブラドール州"
+      type: "province"
+      nameI18n:
+        en: "Newfoundland and Labrador"
+    - code: "CA-NS"
+      name: "ノバスコシア州"
+      type: "province"
+      nameI18n:
+        en: "Nova Scotia"
+    - code: "CA-NT"
+      name: "ノースウエスト準州"
+      type: "territory"
+      nameI18n:
+        en: "Northwest Territories"
+    - code: "CA-PE"
+      name: "プリンスエドワードアイランド州"
+      type: "province"
+      nameI18n:
+        en: "Prince Edward Island"
 ---
 
 <div class="main-desciption country-description">

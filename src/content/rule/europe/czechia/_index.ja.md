@@ -28,6 +28,83 @@ mapPins:
   - { lat: 48.808, lng: 14.314, label: "チェスキー・クルムロフ", type: "historical", note: "世界遺産の中世の街" }
   - { lat: 50.762, lng: 15.732, label: "リベレツ", type: "city", note: "北部の都市・冬季スポーツ拠点" }
   - { lat: 50.230, lng: 12.871, label: "カルロヴィ・ヴァリ", type: "city", note: "西部の温泉保養地" }
+municipalities:
+  svg: "/maps/countries/czechia.svg"
+  title:
+    ja: "チェコの州"
+    en: "Regions of Czech Republic"
+  list:
+    - code: "CZ-US"
+      name: "ウースチー州"
+      type: "region"
+      nameI18n:
+        en: "Ústí nad Labem"
+    - code: "CZ-LI"
+      name: "リベレツ州"
+      type: "region"
+      nameI18n:
+        en: "Liberec"
+    - code: "CZ-KA"
+      name: "カルロヴィ・ヴァリ州"
+      type: "region"
+      nameI18n:
+        en: "Karlovy Vary"
+    - code: "CZ-PL"
+      name: "プルゼニ州"
+      type: "region"
+      nameI18n:
+        en: "Plzeň"
+    - code: "CZ-JC"
+      name: "南ボヘミア州"
+      type: "region"
+      nameI18n:
+        en: "South Bohemian"
+    - code: "CZ-KR"
+      name: "フラデツ・クラーロヴェー州"
+      type: "region"
+      nameI18n:
+        en: "Hradec Králové"
+    - code: "CZ-OL"
+      name: "オロモウツ州"
+      type: "region"
+      nameI18n:
+        en: "Olomouc"
+    - code: "CZ-PA"
+      name: "パルドゥビツェ州"
+      type: "region"
+      nameI18n:
+        en: "Pardubice"
+    - code: "CZ-MO"
+      name: "モラヴィア・スレスコ州"
+      type: "region"
+      nameI18n:
+        en: "Moravian-Silesian"
+    - code: "CZ-JM"
+      name: "南モラヴィア州"
+      type: "region"
+      nameI18n:
+        en: "South Moravian"
+    - code: "CZ-ZL"
+      name: "ズリーン州"
+      type: "region"
+      nameI18n:
+        en: "Zlín"
+    - code: "CZ-VY"
+      name: "ヴィソチナ州"
+      type: "region"
+      nameI18n:
+        en: "Vysočina"
+    - code: "CZ-ST"
+      name: "中央ボヘミア州"
+      type: "region"
+      nameI18n:
+        en: "Central Bohemian"
+    - code: "CZ-PR"
+      name: "プラハ"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Prague"
 ---
 
 <div class="main-desciption country-description">

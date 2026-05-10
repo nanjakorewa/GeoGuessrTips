@@ -35,6 +35,174 @@ mapPins:
   - { lat: 19.692, lng: -98.844, label: "ティオティワカン", type: "landmark", note: "太陽と月のピラミッドの世界遺産" }
   - { lat: 20.682, lng: -88.568, label: "チチェン・イッツァ", type: "landmark", note: "ユカタン半島のマヤ文明大遺跡・世界遺産" }
   - { lat: 16.859, lng: -99.877, label: "アカプルコ", type: "port", note: "太平洋岸の老舗リゾート港湾" }
+municipalities:
+  svg: "/maps/countries/mexico.svg"
+  title:
+    ja: "メキシコの州"
+    en: "States of Mexico"
+  list:
+    - code: "MX-SON"
+      name: "ソノラ州"
+      type: "state"
+      nameI18n:
+        en: "Sonora"
+    - code: "MX-BCN"
+      name: "バハ・カリフォルニア州"
+      type: "state"
+      nameI18n:
+        en: "Baja California"
+    - code: "MX-CHH"
+      name: "チワワ州"
+      type: "state"
+      nameI18n:
+        en: "Chihuahua"
+    - code: "MX-COA"
+      name: "コアウイラ州"
+      type: "state"
+      nameI18n:
+        en: "Coahuila"
+    - code: "MX-TAM"
+      name: "タマウリパス州"
+      type: "state"
+      nameI18n:
+        en: "Tamaulipas"
+    - code: "MX-NLE"
+      name: "ヌエボ・レオン州"
+      type: "state"
+      nameI18n:
+        en: "Nuevo León"
+    - code: "MX-ROO"
+      name: "キンタナ・ロー州"
+      type: "state"
+      nameI18n:
+        en: "Quintana Roo"
+    - code: "MX-CAM"
+      name: "カンペチェ州"
+      type: "state"
+      nameI18n:
+        en: "Campeche"
+    - code: "MX-TAB"
+      name: "タバスコ州"
+      type: "state"
+      nameI18n:
+        en: "Tabasco"
+    - code: "MX-CHP"
+      name: "チアパス州"
+      type: "state"
+      nameI18n:
+        en: "Chiapas"
+    - code: "MX-COL"
+      name: "コリマ州"
+      type: "state"
+      nameI18n:
+        en: "Colima"
+    - code: "MX-NAY"
+      name: "ナヤリット州"
+      type: "state"
+      nameI18n:
+        en: "Nayarit"
+    - code: "MX-BCS"
+      name: "バハ・カリフォルニア・スール州"
+      type: "state"
+      nameI18n:
+        en: "Baja California Sur"
+    - code: "MX-SIN"
+      name: "シナロア州"
+      type: "state"
+      nameI18n:
+        en: "Sinaloa"
+    - code: "MX-YUC"
+      name: "ユカタン州"
+      type: "state"
+      nameI18n:
+        en: "Yucatán"
+    - code: "MX-VER"
+      name: "ベラクルス州"
+      type: "state"
+      nameI18n:
+        en: "Veracruz"
+    - code: "MX-JAL"
+      name: "ハリスコ州"
+      type: "state"
+      nameI18n:
+        en: "Jalisco"
+    - code: "MX-MIC"
+      name: "ミチョアカン州"
+      type: "state"
+      nameI18n:
+        en: "Michoacán"
+    - code: "MX-GRO"
+      name: "ゲレーロ州"
+      type: "state"
+      nameI18n:
+        en: "Guerrero"
+    - code: "MX-OAX"
+      name: "オアハカ州"
+      type: "state"
+      nameI18n:
+        en: "Oaxaca"
+    - { code: "MX-X01~", name: "null", type: "state" }
+    - code: "MX-MEX"
+      name: "メキシコ州"
+      type: "state"
+      nameI18n:
+        en: "México"
+    - code: "MX-PUE"
+      name: "プエブラ州"
+      type: "state"
+      nameI18n:
+        en: "Puebla"
+    - code: "MX-MOR"
+      name: "モレロス州"
+      type: "state"
+      nameI18n:
+        en: "Morelos"
+    - code: "MX-QUE"
+      name: "ケレタロ州"
+      type: "state"
+      nameI18n:
+        en: "Querétaro"
+    - code: "MX-HID"
+      name: "イダルゴ州"
+      type: "state"
+      nameI18n:
+        en: "Hidalgo"
+    - code: "MX-GUA"
+      name: "グアナフアト州"
+      type: "state"
+      nameI18n:
+        en: "Guanajuato"
+    - code: "MX-SLP"
+      name: "サン・ルイス・ポトシ州"
+      type: "state"
+      nameI18n:
+        en: "San Luis Potosí"
+    - code: "MX-ZAC"
+      name: "サカテカス州"
+      type: "state"
+      nameI18n:
+        en: "Zacatecas"
+    - code: "MX-AGU"
+      name: "アグアスカリエンテス州"
+      type: "state"
+      nameI18n:
+        en: "Aguascalientes"
+    - code: "MX-DUR"
+      name: "ドゥランゴ州"
+      type: "state"
+      nameI18n:
+        en: "Durango"
+    - code: "MX-TLA"
+      name: "トラスカラ州"
+      type: "state"
+      nameI18n:
+        en: "Tlaxcala"
+    - code: "MX-DIF"
+      name: "メキシコシティ"
+      type: "federal_district"
+      note: "首都"
+      nameI18n:
+        en: "Mexico City"
 ---
 
 <div class="main-desciption country-description">

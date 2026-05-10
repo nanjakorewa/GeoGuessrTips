@@ -30,6 +30,73 @@ mapPins:
   - { lat: 51.972, lng: 4.137, label: "キンデルダイク", type: "landmark", note: "風車群・世界遺産" }
   - { lat: 51.443, lng: 5.479, label: "アイントホーフェン", type: "city", note: "南部の工業都市・フィリップス本拠" }
   - { lat: 53.218, lng: 6.566, label: "フローニンゲン", type: "city", note: "北部の大学都市" }
+municipalities:
+  svg: "/maps/countries/netherlands.svg"
+  title:
+    ja: "オランダの州"
+    en: "Provinces of the Netherlands"
+  list:
+    - code: "NL-GR"
+      name: "フローニンゲン州"
+      type: "province"
+      nameI18n:
+        en: "Groningen"
+    - code: "NL-DR"
+      name: "ドレンテ州"
+      type: "province"
+      nameI18n:
+        en: "Drenthe"
+    - code: "NL-OV"
+      name: "オーファーアイセル州"
+      type: "province"
+      nameI18n:
+        en: "Overijssel"
+    - code: "NL-GE"
+      name: "ヘルダーラント州"
+      type: "province"
+      nameI18n:
+        en: "Gelderland"
+    - code: "NL-LI"
+      name: "リンブルフ州"
+      type: "province"
+      nameI18n:
+        en: "Limburg"
+    - code: "NL-ZE"
+      name: "ゼーラント州"
+      type: "province"
+      nameI18n:
+        en: "Zeeland"
+    - code: "NL-NB"
+      name: "北ブラバント州"
+      type: "province"
+      nameI18n:
+        en: "North Brabant"
+    - code: "NL-ZH"
+      name: "南ホラント州"
+      type: "province"
+      note: "首都ハーグ・最大都市アムステルダムは隣州"
+      nameI18n:
+        en: "South Holland"
+    - code: "NL-NH"
+      name: "北ホラント州"
+      type: "province"
+      nameI18n:
+        en: "North Holland"
+    - code: "NL-FR"
+      name: "フリースラント州"
+      type: "province"
+      nameI18n:
+        en: "Friesland"
+    - code: "NL-FL"
+      name: "フレヴォラント州"
+      type: "province"
+      nameI18n:
+        en: "Flevoland"
+    - code: "NL-UT"
+      name: "ユトレヒト州"
+      type: "province"
+      nameI18n:
+        en: "Utrecht"
 ---
 
 <div class="main-desciption country-description">

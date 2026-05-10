@@ -1,0 +1,72 @@
+municipalities:
+  svg: "/maps/countries/saudiarabia.svg"
+  title:
+    ja: "サウジアラビアの州"
+    en: "Regions of Saudi Arabia"
+  list:
+    - code: "SA-04"
+      name: "東部州"
+      type: "region"
+      nameI18n:
+        en: "Eastern Province"
+    - code: "SA-08"
+      name: "北部国境州"
+      type: "region"
+      nameI18n:
+        en: "Northern Borders"
+    - code: "SA-12"
+      name: "アル・バーハ州"
+      type: "region"
+      nameI18n:
+        en: "Al Bahah"
+    - code: "SA-10"
+      name: "ジャザーン州"
+      type: "region"
+      nameI18n:
+        en: "Jazan"
+    - code: "SA-14"
+      name: "アル・アシール州"
+      type: "region"
+      nameI18n:
+        en: "'Asir"
+    - code: "SA-09"
+      name: "ジャウフ州"
+      type: "region"
+      nameI18n:
+        en: "Al-Jawf"
+    - code: "SA-07"
+      name: "タブーク州"
+      type: "region"
+      nameI18n:
+        en: "Tabuk"
+    - code: "SA-03"
+      name: "マディーナ州"
+      type: "region"
+      nameI18n:
+        en: "Madinah"
+    - code: "SA-02"
+      name: "マッカ州"
+      type: "region"
+      nameI18n:
+        en: "Makkah"
+    - code: "SA-01"
+      name: "リヤド州"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Riyadh"
+    - code: "SA-05"
+      name: "アル・カシム州"
+      type: "region"
+      nameI18n:
+        en: "Al-Qassim"
+    - code: "SA-06"
+      name: "ハーイル州"
+      type: "region"
+      nameI18n:
+        en: "Ha'il"
+    - code: "SA-11"
+      name: "ナジュラーン州"
+      type: "region"
+      nameI18n:
+        en: "Najran"

@@ -38,6 +38,268 @@ mapPins:
   - { lat: 36.107, lng: -112.113, label: "グランドキャニオン", type: "nature", note: "アリゾナ州の世界遺産の大渓谷" }
   - { lat: 40.689, lng: -74.044, label: "自由の女神", type: "landmark", note: "ニューヨーク港の象徴的な世界遺産" }
   - { lat: 38.898, lng: -77.037, label: "ホワイトハウス", type: "landmark", note: "大統領官邸" }
+municipalities:
+  svg: "/maps/countries/usa.svg"
+  title:
+    ja: "アメリカの州"
+    en: "States of the United States"
+  list:
+    - code: "US-WA"
+      name: "ワシントン州"
+      type: "state"
+      nameI18n:
+        en: "Washington"
+    - code: "US-ID"
+      name: "アイダホ州"
+      type: "state"
+      nameI18n:
+        en: "Idaho"
+    - code: "US-MT"
+      name: "モンタナ州"
+      type: "state"
+      nameI18n:
+        en: "Montana"
+    - code: "US-ND"
+      name: "ノースダコタ州"
+      type: "state"
+      nameI18n:
+        en: "North Dakota"
+    - code: "US-MN"
+      name: "ミネソタ州"
+      type: "state"
+      nameI18n:
+        en: "Minnesota"
+    - code: "US-MI"
+      name: "ミシガン州"
+      type: "state"
+      nameI18n:
+        en: "Michigan"
+    - code: "US-OH"
+      name: "オハイオ州"
+      type: "state"
+      nameI18n:
+        en: "Ohio"
+    - code: "US-PA"
+      name: "ペンシルベニア州"
+      type: "state"
+      nameI18n:
+        en: "Pennsylvania"
+    - code: "US-NY"
+      name: "ニューヨーク州"
+      type: "state"
+      nameI18n:
+        en: "New York"
+    - code: "US-VT"
+      name: "バーモント州"
+      type: "state"
+      nameI18n:
+        en: "Vermont"
+    - code: "US-NH"
+      name: "ニューハンプシャー州"
+      type: "state"
+      nameI18n:
+        en: "New Hampshire"
+    - code: "US-ME"
+      name: "メイン州"
+      type: "state"
+      nameI18n:
+        en: "Maine"
+    - code: "US-AZ"
+      name: "アリゾナ州"
+      type: "state"
+      nameI18n:
+        en: "Arizona"
+    - code: "US-CA"
+      name: "カリフォルニア州"
+      type: "state"
+      nameI18n:
+        en: "California"
+    - code: "US-NM"
+      name: "ニューメキシコ州"
+      type: "state"
+      nameI18n:
+        en: "New Mexico"
+    - code: "US-TX"
+      name: "テキサス州"
+      type: "state"
+      nameI18n:
+        en: "Texas"
+    - code: "US-AK"
+      name: "アラスカ州"
+      type: "state"
+      nameI18n:
+        en: "Alaska"
+    - code: "US-LA"
+      name: "ルイジアナ州"
+      type: "state"
+      nameI18n:
+        en: "Louisiana"
+    - code: "US-MS"
+      name: "ミシシッピ州"
+      type: "state"
+      nameI18n:
+        en: "Mississippi"
+    - code: "US-AL"
+      name: "アラバマ州"
+      type: "state"
+      nameI18n:
+        en: "Alabama"
+    - code: "US-FL"
+      name: "フロリダ州"
+      type: "state"
+      nameI18n:
+        en: "Florida"
+    - code: "US-GA"
+      name: "ジョージア州"
+      type: "state"
+      nameI18n:
+        en: "Georgia"
+    - code: "US-SC"
+      name: "サウスカロライナ州"
+      type: "state"
+      nameI18n:
+        en: "South Carolina"
+    - code: "US-NC"
+      name: "ノースカロライナ州"
+      type: "state"
+      nameI18n:
+        en: "North Carolina"
+    - code: "US-VA"
+      name: "バージニア州"
+      type: "state"
+      nameI18n:
+        en: "Virginia"
+    - code: "US-DC"
+      name: "コロンビア特別区"
+      type: "federal_district"
+      note: "首都"
+      nameI18n:
+        en: "District of Columbia"
+    - code: "US-MD"
+      name: "メリーランド州"
+      type: "state"
+      nameI18n:
+        en: "Maryland"
+    - code: "US-DE"
+      name: "デラウェア州"
+      type: "state"
+      nameI18n:
+        en: "Delaware"
+    - code: "US-NJ"
+      name: "ニュージャージー州"
+      type: "state"
+      nameI18n:
+        en: "New Jersey"
+    - code: "US-CT"
+      name: "コネチカット州"
+      type: "state"
+      nameI18n:
+        en: "Connecticut"
+    - code: "US-RI"
+      name: "ロードアイランド州"
+      type: "state"
+      nameI18n:
+        en: "Rhode Island"
+    - code: "US-MA"
+      name: "マサチューセッツ州"
+      type: "state"
+      nameI18n:
+        en: "Massachusetts"
+    - code: "US-OR"
+      name: "オレゴン州"
+      type: "state"
+      nameI18n:
+        en: "Oregon"
+    - code: "US-HI"
+      name: "ハワイ州"
+      type: "state"
+      nameI18n:
+        en: "Hawaii"
+    - code: "US-UT"
+      name: "ユタ州"
+      type: "state"
+      nameI18n:
+        en: "Utah"
+    - code: "US-WY"
+      name: "ワイオミング州"
+      type: "state"
+      nameI18n:
+        en: "Wyoming"
+    - code: "US-NV"
+      name: "ネバダ州"
+      type: "state"
+      nameI18n:
+        en: "Nevada"
+    - code: "US-CO"
+      name: "コロラド州"
+      type: "state"
+      nameI18n:
+        en: "Colorado"
+    - code: "US-SD"
+      name: "サウスダコタ州"
+      type: "state"
+      nameI18n:
+        en: "South Dakota"
+    - code: "US-NE"
+      name: "ネブラスカ州"
+      type: "state"
+      nameI18n:
+        en: "Nebraska"
+    - code: "US-KS"
+      name: "カンザス州"
+      type: "state"
+      nameI18n:
+        en: "Kansas"
+    - code: "US-OK"
+      name: "オクラホマ州"
+      type: "state"
+      nameI18n:
+        en: "Oklahoma"
+    - code: "US-IA"
+      name: "アイオワ州"
+      type: "state"
+      nameI18n:
+        en: "Iowa"
+    - code: "US-MO"
+      name: "ミズーリ州"
+      type: "state"
+      nameI18n:
+        en: "Missouri"
+    - code: "US-WI"
+      name: "ウィスコンシン州"
+      type: "state"
+      nameI18n:
+        en: "Wisconsin"
+    - code: "US-IL"
+      name: "イリノイ州"
+      type: "state"
+      nameI18n:
+        en: "Illinois"
+    - code: "US-KY"
+      name: "ケンタッキー州"
+      type: "state"
+      nameI18n:
+        en: "Kentucky"
+    - code: "US-AR"
+      name: "アーカンソー州"
+      type: "state"
+      nameI18n:
+        en: "Arkansas"
+    - code: "US-TN"
+      name: "テネシー州"
+      type: "state"
+      nameI18n:
+        en: "Tennessee"
+    - code: "US-WV"
+      name: "ウェストバージニア州"
+      type: "state"
+      nameI18n:
+        en: "West Virginia"
+    - code: "US-IN"
+      name: "インディアナ州"
+      type: "state"
+      nameI18n:
+        en: "Indiana"
 ---
 
 <div class="main-desciption country-description">

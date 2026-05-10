@@ -32,6 +32,74 @@ mapPins:
   - { lat: 35.339, lng: 25.144, label: "ヘラクリオン", type: "city", note: "クレタ島の中心都市" }
   - { lat: 38.482, lng: 22.501, label: "デルフィ", type: "historical", note: "古代の聖地・世界遺産" }
   - { lat: 39.713, lng: 21.628, label: "メテオラ", type: "landmark", note: "奇岩上の修道院群・世界遺産" }
+municipalities:
+  svg: "/maps/countries/greece.svg"
+  title:
+    ja: "ギリシャの地方"
+    en: "Regions of Greece"
+  list:
+    - code: "GR-C"
+      name: "西マケドニア地方"
+      type: "region"
+      nameI18n:
+        en: "West Macedonia"
+    - code: "GR-D"
+      name: "イピロス地方"
+      type: "region"
+      nameI18n:
+        en: "Epirus"
+    - code: "GR-B"
+      name: "中央マケドニア地方"
+      type: "region"
+      nameI18n:
+        en: "Central Macedonia"
+    - code: "GR-A"
+      name: "東マケドニア・トラキア地方"
+      type: "region"
+      nameI18n:
+        en: "East Macedonia and Thrace"
+    - { code: "GR-69", name: "Ayion Oros", type: "region" }
+    - code: "GR-E"
+      name: "テッサリア地方"
+      type: "region"
+      nameI18n:
+        en: "Thessaly"
+    - code: "GR-H"
+      name: "中央ギリシャ地方"
+      type: "region"
+      nameI18n:
+        en: "Central Greece"
+    - { code: "GR-A1", name: "Attiki", type: "region" }
+    - code: "GR-J"
+      name: "ペロポネソス地方"
+      type: "region"
+      nameI18n:
+        en: "Peloponnese"
+    - code: "GR-G"
+      name: "西ギリシャ地方"
+      type: "region"
+      nameI18n:
+        en: "West Greece"
+    - code: "GR-M"
+      name: "クレタ地方"
+      type: "region"
+      nameI18n:
+        en: "Crete"
+    - code: "GR-L"
+      name: "南エーゲ地方"
+      type: "region"
+      nameI18n:
+        en: "South Aegean"
+    - code: "GR-K"
+      name: "北エーゲ地方"
+      type: "region"
+      nameI18n:
+        en: "North Aegean"
+    - code: "GR-F"
+      name: "イオニア諸島地方"
+      type: "region"
+      nameI18n:
+        en: "Ionian Islands"
 ---
 
 <div class="main-desciption country-description">

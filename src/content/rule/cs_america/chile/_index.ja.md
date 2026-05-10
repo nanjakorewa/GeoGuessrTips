@@ -35,6 +35,93 @@ mapPins:
   - { lat: -23.500, lng: -68.500, label: "アタカマ砂漠", type: "nature", note: "世界で最も乾燥した砂漠" }
   - { lat: -27.121, lng: -109.367, label: "イースター島", type: "landmark", note: "モアイ像で知られる絶海の孤島" }
   - { lat: -41.469, lng: -72.940, label: "プエルト・モン", type: "port", note: "湖水地方とパタゴニアの玄関口" }
+municipalities:
+  svg: "/maps/countries/chile.svg"
+  title:
+    ja: "チリの州"
+    en: "Regions of Chile"
+  list:
+    - code: "CL-AP"
+      name: "アリカ・パリナコータ州"
+      type: "region"
+      nameI18n:
+        en: "Arica y Parinacota"
+    - code: "CL-TA"
+      name: "タラパカ州"
+      type: "region"
+      nameI18n:
+        en: "Tarapacá"
+    - code: "CL-AN"
+      name: "アントファガスタ州"
+      type: "region"
+      nameI18n:
+        en: "Antofagasta"
+    - code: "CL-AT"
+      name: "アタカマ州"
+      type: "region"
+      nameI18n:
+        en: "Atacama"
+    - code: "CL-CO"
+      name: "コキンボ州"
+      type: "region"
+      nameI18n:
+        en: "Coquimbo"
+    - code: "CL-RM"
+      name: "サンティアゴ首都州"
+      type: "region"
+      note: "首都"
+      nameI18n:
+        en: "Santiago Metropolitan"
+    - code: "CL-VS"
+      name: "バルパライソ州"
+      type: "region"
+      nameI18n:
+        en: "Valparaíso"
+    - code: "CL-ML"
+      name: "マウレ州"
+      type: "region"
+      nameI18n:
+        en: "Maule"
+    - code: "CL-LI"
+      name: "リベルタドール・ベルナルド・オイギンス州"
+      type: "region"
+      nameI18n:
+        en: "O'Higgins"
+    - code: "CL-NB"
+      name: "ニュブレ州"
+      type: "region"
+      nameI18n:
+        en: "Ñuble"
+    - code: "CL-AR"
+      name: "ラ・アラウカニア州"
+      type: "region"
+      nameI18n:
+        en: "Araucanía"
+    - code: "CL-BI"
+      name: "ビオビオ州"
+      type: "region"
+      nameI18n:
+        en: "Biobío"
+    - code: "CL-LR"
+      name: "ロス・リオス州"
+      type: "region"
+      nameI18n:
+        en: "Los Ríos"
+    - code: "CL-LL"
+      name: "ロス・ラゴス州"
+      type: "region"
+      nameI18n:
+        en: "Los Lagos"
+    - code: "CL-AI"
+      name: "アイセン州"
+      type: "region"
+      nameI18n:
+        en: "Aysén"
+    - code: "CL-MA"
+      name: "マガジャーネス・南極州"
+      type: "region"
+      nameI18n:
+        en: "Magallanes"
 ---
 
 <div class="main-desciption country-description">

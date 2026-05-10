@@ -1,0 +1,187 @@
+municipalities:
+  svg: "/maps/countries/india.svg"
+  title:
+    ja: "インドの州・連邦直轄地"
+    en: "States and Union Territories of India"
+  list:
+    - code: "IN-LA"
+      name: "ラダック"
+      type: "territory"
+      nameI18n:
+        en: "Ladakh"
+    - code: "IN-AR"
+      name: "アルナーチャル・プラデーシュ州"
+      type: "state"
+      nameI18n:
+        en: "Arunachal Pradesh"
+    - code: "IN-SK"
+      name: "シッキム州"
+      type: "state"
+      nameI18n:
+        en: "Sikkim"
+    - code: "IN-WB"
+      name: "西ベンガル州"
+      type: "state"
+      nameI18n:
+        en: "West Bengal"
+    - code: "IN-AS"
+      name: "アッサム州"
+      type: "state"
+      nameI18n:
+        en: "Assam"
+    - code: "IN-UT"
+      name: "ウッタラーカンド州"
+      type: "state"
+      nameI18n:
+        en: "Uttarakhand"
+    - code: "IN-NL"
+      name: "ナガランド州"
+      type: "state"
+      nameI18n:
+        en: "Nagaland"
+    - code: "IN-MN"
+      name: "マニプル州"
+      type: "state"
+      nameI18n:
+        en: "Manipur"
+    - code: "IN-MZ"
+      name: "ミゾラム州"
+      type: "state"
+      nameI18n:
+        en: "Mizoram"
+    - code: "IN-TR"
+      name: "トリプラ州"
+      type: "state"
+      nameI18n:
+        en: "Tripura"
+    - code: "IN-ML"
+      name: "メーガーラヤ州"
+      type: "state"
+      nameI18n:
+        en: "Meghalaya"
+    - code: "IN-PB"
+      name: "パンジャーブ州"
+      type: "state"
+      nameI18n:
+        en: "Punjab"
+    - code: "IN-RJ"
+      name: "ラージャスターン州"
+      type: "state"
+      nameI18n:
+        en: "Rajasthan"
+    - code: "IN-GJ"
+      name: "グジャラート州"
+      type: "state"
+      nameI18n:
+        en: "Gujarat"
+    - code: "IN-HP"
+      name: "ヒマーチャル・プラデーシュ州"
+      type: "state"
+      nameI18n:
+        en: "Himachal Pradesh"
+    - code: "IN-JK"
+      name: "ジャンムー・カシミール"
+      type: "territory"
+      nameI18n:
+        en: "Jammu and Kashmir"
+    - code: "IN-BR"
+      name: "ビハール州"
+      type: "state"
+      nameI18n:
+        en: "Bihar"
+    - code: "IN-UP"
+      name: "ウッタル・プラデーシュ州"
+      type: "state"
+      nameI18n:
+        en: "Uttar Pradesh"
+    - code: "IN-AP"
+      name: "アンドラ・プラデーシュ州"
+      type: "state"
+      nameI18n:
+        en: "Andhra Pradesh"
+    - code: "IN-OR"
+      name: "オリッサ州"
+      type: "state"
+      nameI18n:
+        en: "Odisha"
+    - code: "IN-DH"
+      name: "ダードラ・ナガル・ハヴェリー"
+      type: "territory"
+      nameI18n:
+        en: "Dadra and Nagar Haveli"
+    - code: "IN-MH"
+      name: "マハーラーシュトラ州"
+      type: "state"
+      nameI18n:
+        en: "Maharashtra"
+    - code: "IN-GA"
+      name: "ゴア州"
+      type: "state"
+      nameI18n:
+        en: "Goa"
+    - code: "IN-KA"
+      name: "カルナータカ州"
+      type: "state"
+      nameI18n:
+        en: "Karnataka"
+    - code: "IN-KL"
+      name: "ケーララ州"
+      type: "state"
+      nameI18n:
+        en: "Kerala"
+    - code: "IN-PY"
+      name: "プドゥッチェリー"
+      type: "territory"
+      nameI18n:
+        en: "Puducherry"
+    - code: "IN-TN"
+      name: "タミル・ナードゥ州"
+      type: "state"
+      nameI18n:
+        en: "Tamil Nadu"
+    - code: "IN-LD"
+      name: "ラクシャドウィープ諸島"
+      type: "territory"
+      nameI18n:
+        en: "Lakshadweep"
+    - code: "IN-AN"
+      name: "アンダマン・ニコバル諸島"
+      type: "territory"
+      nameI18n:
+        en: "Andaman and Nicobar Islands"
+    - code: "IN-JH"
+      name: "ジャールカンド州"
+      type: "state"
+      nameI18n:
+        en: "Jharkhand"
+    - code: "IN-DL"
+      name: "デリー首都圏"
+      type: "territory"
+      note: "首都"
+      nameI18n:
+        en: "Delhi"
+    - code: "IN-CH"
+      name: "チャンディーガル"
+      type: "territory"
+      nameI18n:
+        en: "Chandigarh"
+    - code: "IN-MP"
+      name: "マディヤ・プラデーシュ州"
+      type: "state"
+      nameI18n:
+        en: "Madhya Pradesh"
+    - code: "IN-CT"
+      name: "チャッティースガル州"
+      type: "state"
+      nameI18n:
+        en: "Chhattisgarh"
+    - code: "IN-HR"
+      name: "ハリヤーナー州"
+      type: "state"
+      nameI18n:
+        en: "Haryana"
+    - code: "IN-TG"
+      name: "テランガナ州"
+      type: "state"
+      nameI18n:
+        en: "Telangana"

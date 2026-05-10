@@ -34,6 +34,78 @@ mapPins:
   - { lat: 48.636, lng: -1.511, label: "モン・サン・ミシェル", type: "landmark", note: "世界遺産の修道院島" }
   - { lat: 48.858, lng: 2.295, label: "エッフェル塔", type: "landmark", note: "パリのシンボル・1889年完成" }
   - { lat: 50.629, lng: 3.057, label: "リール", type: "city", note: "フランス北部の中心都市" }
+municipalities:
+  svg: "/maps/countries/france.svg"
+  title:
+    ja: "フランスの地域圏"
+    en: "Regions of France"
+  list:
+    - code: "11"
+      name: "イル・ド・フランス地域圏"
+      type: "region"
+      note: "首都パリ"
+      nameI18n:
+        en: "Île-de-France"
+    - code: "24"
+      name: "サントル・ヴァル・ド・ロワール地域圏"
+      type: "region"
+      nameI18n:
+        en: "Centre-Val de Loire"
+    - code: "27"
+      name: "ブルゴーニュ・フランシュ・コンテ地域圏"
+      type: "region"
+      nameI18n:
+        en: "Bourgogne-Franche-Comté"
+    - code: "28"
+      name: "ノルマンディー地域圏"
+      type: "region"
+      nameI18n:
+        en: "Normandie"
+    - code: "32"
+      name: "オー・ド・フランス地域圏"
+      type: "region"
+      nameI18n:
+        en: "Hauts-de-France"
+    - code: "44"
+      name: "グラン・テスト地域圏"
+      type: "region"
+      nameI18n:
+        en: "Grand Est"
+    - code: "52"
+      name: "ペイ・ド・ラ・ロワール地域圏"
+      type: "region"
+      nameI18n:
+        en: "Pays de la Loire"
+    - code: "53"
+      name: "ブルターニュ地域圏"
+      type: "region"
+      nameI18n:
+        en: "Bretagne"
+    - code: "75"
+      name: "ヌーヴェル・アキテーヌ地域圏"
+      type: "region"
+      nameI18n:
+        en: "Nouvelle-Aquitaine"
+    - code: "76"
+      name: "オクシタニー地域圏"
+      type: "region"
+      nameI18n:
+        en: "Occitanie"
+    - code: "84"
+      name: "オーヴェルニュ・ローヌ・アルプ地域圏"
+      type: "region"
+      nameI18n:
+        en: "Auvergne-Rhône-Alpes"
+    - code: "93"
+      name: "プロヴァンス・アルプ・コート・ダジュール地域圏"
+      type: "region"
+      nameI18n:
+        en: "Provence-Alpes-Côte d'Azur"
+    - code: "94"
+      name: "コルス地域圏"
+      type: "region"
+      nameI18n:
+        en: "Corse"
 ---
 
 <div class="main-desciption country-description">
@@ -569,11 +641,6 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 {{% /tab %}}
 {{% /tabs %}}
 
-{{% imgref %}}
-<li>By <a href="//commons.wikimedia.org/wiki/User:Chabe01" title="User:Chabe01">Chabe01</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59212980">Link</a></li>
-{{% /imgref %}}
-
-
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">
@@ -604,3 +671,7 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
         </tbody>
     </table>
 </div>
+
+{{% imgref %}}
+<li>By <a href="//commons.wikimedia.org/wiki/User:Chabe01" title="User:Chabe01">Chabe01</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59212980">Link</a></li>
+{{% /imgref %}}

@@ -1,0 +1,26 @@
+// Poland: 16 voivodeships
+module.exports = {
+  pageDir: "europe/poland",
+  source: { type: "natural-earth", iso_a2: "PL" },
+  title: { ja: "ポーランドの県（県）", en: "Voivodeships of Poland" },
+  defaultType: "province",
+  tolerance: 0.01,
+  names: {
+    "PL-DS": { ja: "ドルヌィ・シロンスク県",      en: "Lower Silesian" },
+    "PL-KP": { ja: "クヤヴィ・ポモージェ県",      en: "Kuyavian-Pomeranian" },
+    "PL-LU": { ja: "ルブリン県",                  en: "Lublin" },
+    "PL-LB": { ja: "ルブシュ県",                  en: "Lubusz" },
+    "PL-LD": { ja: "ウッチ県",                    en: "Łódź" },
+    "PL-MA": { ja: "マウォポルスカ県",            en: "Lesser Poland" },
+    "PL-MZ": { ja: "マゾフシェ県",                en: "Masovian", note: "首都ワルシャワ" },
+    "PL-OP": { ja: "オポーレ県",                  en: "Opole" },
+    "PL-PK": { ja: "ポトカルパチェ県",            en: "Subcarpathian" },
+    "PL-PD": { ja: "ポドラシェ県",                en: "Podlaskie" },
+    "PL-PM": { ja: "ポモージェ県",                en: "Pomeranian" },
+    "PL-SL": { ja: "シロンスク県",                en: "Silesian" },
+    "PL-SK": { ja: "シフィェントクシシュ県",      en: "Holy Cross" },
+    "PL-WN": { ja: "ヴァルミア・マズールィ県",    en: "Warmian-Masurian" },
+    "PL-WP": { ja: "ヴィエルコポルスカ県",        en: "Greater Poland" },
+    "PL-ZP": { ja: "ザホドニォ・ポモージェ県",    en: "West Pomeranian" },
+  },
+};

@@ -34,6 +34,58 @@ mapPins:
   - { lat: -29.119, lng: 26.215, label: "ブルームフォンテーン", type: "capital", note: "司法首都・中央高原の都市" }
   - { lat: -34.358, lng: 18.473, label: "喜望峰", type: "landmark", note: "アフリカ大陸最南西端の岬" }
   - { lat: -25.000, lng: 31.500, label: "クルーガー国立公園", type: "nature", note: "アフリカ最大級の野生動物保護区" }
+municipalities:
+  svg: "/maps/countries/south-africa.svg"
+  title:
+    ja: "南アフリカの州"
+    en: "Provinces of South Africa"
+  list:
+    - code: "ZA-NC"
+      name: "北ケープ州"
+      type: "province"
+      nameI18n:
+        en: "Northern Cape"
+    - code: "ZA-NL"
+      name: "クワズール・ナタール州"
+      type: "province"
+      nameI18n:
+        en: "KwaZulu-Natal"
+    - code: "ZA-FS"
+      name: "フリーステート州"
+      type: "province"
+      nameI18n:
+        en: "Free State"
+    - code: "ZA-EC"
+      name: "東ケープ州"
+      type: "province"
+      nameI18n:
+        en: "Eastern Cape"
+    - code: "ZA-LP"
+      name: "リンポポ州"
+      type: "province"
+      nameI18n:
+        en: "Limpopo"
+    - code: "ZA-NW"
+      name: "北西州"
+      type: "province"
+      nameI18n:
+        en: "North West"
+    - code: "ZA-MP"
+      name: "ムプマランガ州"
+      type: "province"
+      nameI18n:
+        en: "Mpumalanga"
+    - code: "ZA-WC"
+      name: "西ケープ州"
+      type: "province"
+      nameI18n:
+        en: "Western Cape"
+    - code: "ZA-GT"
+      name: "ハウテン州"
+      type: "province"
+      note: "首都プレトリア・最大都市ヨハネスブルグ"
+      nameI18n:
+        en: "Gauteng"
 ---
 
 <div class="main-desciption country-description">

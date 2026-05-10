@@ -1,0 +1,25 @@
+// Czechia: 14 regions
+module.exports = {
+  pageDir: "europe/czechia",
+  source: { type: "natural-earth", iso_a2: "CZ" },
+  title: { ja: "チェコの州", en: "Regions of Czech Republic" },
+  defaultType: "region",
+  tolerance: 0.005,
+  minOuterArea: 1e-4,
+  names: {
+    "CZ-PR": { ja: "プラハ",                   en: "Prague", note: "首都" },
+    "CZ-ST": { ja: "中央ボヘミア州",           en: "Central Bohemian" },
+    "CZ-JC": { ja: "南ボヘミア州",             en: "South Bohemian" },
+    "CZ-PL": { ja: "プルゼニ州",               en: "Plzeň" },
+    "CZ-KA": { ja: "カルロヴィ・ヴァリ州",     en: "Karlovy Vary" },
+    "CZ-US": { ja: "ウースチー州",             en: "Ústí nad Labem" },
+    "CZ-LI": { ja: "リベレツ州",               en: "Liberec" },
+    "CZ-KR": { ja: "フラデツ・クラーロヴェー州", en: "Hradec Králové" },
+    "CZ-PA": { ja: "パルドゥビツェ州",         en: "Pardubice" },
+    "CZ-VY": { ja: "ヴィソチナ州",             en: "Vysočina" },
+    "CZ-JM": { ja: "南モラヴィア州",           en: "South Moravian" },
+    "CZ-OL": { ja: "オロモウツ州",             en: "Olomouc" },
+    "CZ-ZL": { ja: "ズリーン州",               en: "Zlín" },
+    "CZ-MO": { ja: "モラヴィア・スレスコ州",   en: "Moravian-Silesian" },
+  },
+};

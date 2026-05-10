@@ -30,6 +30,58 @@ mapPins:
   - { lat: 47.071, lng: 15.439, label: "グラーツ", type: "city", note: "オーストリア第二の都市" }
   - { lat: 47.580, lng: 13.647, label: "ハルシュタット", type: "landmark", note: "世界遺産の湖畔の村" }
   - { lat: 47.305, lng: 11.876, label: "アルプス山脈", type: "nature", note: "国土の62%を占める山岳地帯" }
+municipalities:
+  svg: "/maps/countries/austria.svg"
+  title:
+    ja: "オーストリアの州"
+    en: "States of Austria"
+  list:
+    - code: "AT-3"
+      name: "ニーダーエスターライヒ州"
+      type: "state"
+      nameI18n:
+        en: "Lower Austria"
+    - code: "AT-4"
+      name: "オーバーエスターライヒ州"
+      type: "state"
+      nameI18n:
+        en: "Upper Austria"
+    - code: "AT-1"
+      name: "ブルゲンラント州"
+      type: "state"
+      nameI18n:
+        en: "Burgenland"
+    - code: "AT-8"
+      name: "フォアアールベルク州"
+      type: "state"
+      nameI18n:
+        en: "Vorarlberg"
+    - code: "AT-7"
+      name: "チロル州"
+      type: "state"
+      nameI18n:
+        en: "Tyrol"
+    - code: "AT-5"
+      name: "ザルツブルク州"
+      type: "state"
+      nameI18n:
+        en: "Salzburg"
+    - code: "AT-2"
+      name: "ケルンテン州"
+      type: "state"
+      nameI18n:
+        en: "Carinthia"
+    - code: "AT-6"
+      name: "シュタイアーマルク州"
+      type: "state"
+      nameI18n:
+        en: "Styria"
+    - code: "AT-9"
+      name: "ウィーン"
+      type: "state"
+      note: "首都"
+      nameI18n:
+        en: "Vienna"
 ---
 
 <div class="main-desciption country-description">

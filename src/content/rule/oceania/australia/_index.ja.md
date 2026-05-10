@@ -34,6 +34,61 @@ mapPins:
   - { lat: -31.953, lng: 115.857, label: "パース", type: "city", note: "西オーストラリア州の州都" }
   - { lat: -25.345, lng: 131.034, label: "ウルル", type: "landmark", note: "巨大な一枚岩・世界遺産" }
   - { lat: -18.286, lng: 147.700, label: "グレートバリアリーフ", type: "nature", note: "世界最大のサンゴ礁・世界遺産" }
+municipalities:
+  svg: "/maps/countries/australia.svg"
+  title:
+    ja: "オーストラリアの州・準州"
+    en: "States and Territories of Australia"
+  list:
+    - code: "AU-WA"
+      name: "西オーストラリア州"
+      type: "state"
+      nameI18n:
+        en: "Western Australia"
+    - code: "AU-NT"
+      name: "ノーザンテリトリー"
+      type: "territory"
+      nameI18n:
+        en: "Northern Territory"
+    - code: "AU-SA"
+      name: "南オーストラリア州"
+      type: "state"
+      nameI18n:
+        en: "South Australia"
+    - code: "AU-QLD"
+      name: "クイーンズランド州"
+      type: "state"
+      nameI18n:
+        en: "Queensland"
+    - code: "AU-NSW"
+      name: "ニューサウスウェールズ州"
+      type: "state"
+      nameI18n:
+        en: "New South Wales"
+    - { code: "AU-X02~", name: "Jervis Bay Territory", type: "state" }
+    - code: "AU-VIC"
+      name: "ビクトリア州"
+      type: "state"
+      nameI18n:
+        en: "Victoria"
+    - code: "AU-TAS"
+      name: "タスマニア州"
+      type: "state"
+      nameI18n:
+        en: "Tasmania"
+    - { code: "AU-X03~", name: "Macquarie Island", type: "state" }
+    - code: "AU-NSW"
+      name: "ニューサウスウェールズ州"
+      type: "state"
+      nameI18n:
+        en: "New South Wales"
+    - { code: "AU-X04~", name: "Ashmore and Cartier Islands", type: "state" }
+    - code: "AU-ACT"
+      name: "オーストラリア首都特別地域"
+      type: "territory"
+      note: "首都キャンベラ"
+      nameI18n:
+        en: "Australian Capital Territory"
 ---
 
 <div class="main-desciption country-description">

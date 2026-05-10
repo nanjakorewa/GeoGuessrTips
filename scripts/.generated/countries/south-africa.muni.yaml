@@ -1,0 +1,52 @@
+municipalities:
+  svg: "/maps/countries/south-africa.svg"
+  title:
+    ja: "南アフリカの州"
+    en: "Provinces of South Africa"
+  list:
+    - code: "ZA-NC"
+      name: "北ケープ州"
+      type: "province"
+      nameI18n:
+        en: "Northern Cape"
+    - code: "ZA-NL"
+      name: "クワズール・ナタール州"
+      type: "province"
+      nameI18n:
+        en: "KwaZulu-Natal"
+    - code: "ZA-FS"
+      name: "フリーステート州"
+      type: "province"
+      nameI18n:
+        en: "Free State"
+    - code: "ZA-EC"
+      name: "東ケープ州"
+      type: "province"
+      nameI18n:
+        en: "Eastern Cape"
+    - code: "ZA-LP"
+      name: "リンポポ州"
+      type: "province"
+      nameI18n:
+        en: "Limpopo"
+    - code: "ZA-NW"
+      name: "北西州"
+      type: "province"
+      nameI18n:
+        en: "North West"
+    - code: "ZA-MP"
+      name: "ムプマランガ州"
+      type: "province"
+      nameI18n:
+        en: "Mpumalanga"
+    - code: "ZA-WC"
+      name: "西ケープ州"
+      type: "province"
+      nameI18n:
+        en: "Western Cape"
+    - code: "ZA-GT"
+      name: "ハウテン州"
+      type: "province"
+      note: "首都プレトリア・最大都市ヨハネスブルグ"
+      nameI18n:
+        en: "Gauteng"

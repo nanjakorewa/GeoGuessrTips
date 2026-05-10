@@ -32,6 +32,133 @@ mapPins:
   - { lat: -25.690, lng: -54.435, label: "イグアスの滝", type: "landmark", note: "ブラジル国境の世界遺産・大瀑布" }
   - { lat: -50.000, lng: -73.000, label: "パタゴニア", type: "nature", note: "氷河と山岳の南部地方" }
   - { lat: -54.807, lng: -68.308, label: "ウシュアイア", type: "city", note: "世界最南端の都市の一つ" }
+municipalities:
+  svg: "/maps/countries/argentina.svg"
+  title:
+    ja: "アルゼンチンの州"
+    en: "Provinces of Argentina"
+  list:
+    - code: "AR-E"
+      name: "エントレ・リオス州"
+      type: "province"
+      nameI18n:
+        en: "Entre Ríos"
+    - code: "AR-A"
+      name: "サルタ州"
+      type: "province"
+      nameI18n:
+        en: "Salta"
+    - code: "AR-Y"
+      name: "フフイ州"
+      type: "province"
+      nameI18n:
+        en: "Jujuy"
+    - code: "AR-P"
+      name: "フォルモサ州"
+      type: "province"
+      nameI18n:
+        en: "Formosa"
+    - code: "AR-N"
+      name: "ミシオネス州"
+      type: "province"
+      nameI18n:
+        en: "Misiones"
+    - code: "AR-H"
+      name: "チャコ州"
+      type: "province"
+      nameI18n:
+        en: "Chaco"
+    - code: "AR-W"
+      name: "コリエンテス州"
+      type: "province"
+      nameI18n:
+        en: "Corrientes"
+    - code: "AR-K"
+      name: "カタマルカ州"
+      type: "province"
+      nameI18n:
+        en: "Catamarca"
+    - code: "AR-F"
+      name: "ラ・リオハ州"
+      type: "province"
+      nameI18n:
+        en: "La Rioja"
+    - code: "AR-J"
+      name: "サン・フアン州"
+      type: "province"
+      nameI18n:
+        en: "San Juan"
+    - code: "AR-M"
+      name: "メンドーサ州"
+      type: "province"
+      nameI18n:
+        en: "Mendoza"
+    - code: "AR-Q"
+      name: "ネウケン州"
+      type: "province"
+      nameI18n:
+        en: "Neuquén"
+    - code: "AR-U"
+      name: "チュブ州"
+      type: "province"
+      nameI18n:
+        en: "Chubut"
+    - code: "AR-R"
+      name: "リオネグロ州"
+      type: "province"
+      nameI18n:
+        en: "Río Negro"
+    - code: "AR-Z"
+      name: "サンタクルス州"
+      type: "province"
+      nameI18n:
+        en: "Santa Cruz"
+    - code: "AR-V"
+      name: "ティエラ・デル・フエゴ州"
+      type: "province"
+      nameI18n:
+        en: "Tierra del Fuego"
+    - code: "AR-B"
+      name: "ブエノスアイレス州"
+      type: "province"
+      nameI18n:
+        en: "Buenos Aires"
+    - code: "AR-C"
+      name: "ブエノスアイレス自治市"
+      type: "autonomous_city"
+      note: "首都"
+      nameI18n:
+        en: "Autonomous City of Buenos Aires"
+    - code: "AR-S"
+      name: "サンタフェ州"
+      type: "province"
+      nameI18n:
+        en: "Santa Fe"
+    - code: "AR-T"
+      name: "トゥクマン州"
+      type: "province"
+      nameI18n:
+        en: "Tucumán"
+    - code: "AR-G"
+      name: "サンティアゴ・デル・エステロ州"
+      type: "province"
+      nameI18n:
+        en: "Santiago del Estero"
+    - code: "AR-D"
+      name: "サン・ルイス州"
+      type: "province"
+      nameI18n:
+        en: "San Luis"
+    - code: "AR-L"
+      name: "ラ・パンパ州"
+      type: "province"
+      nameI18n:
+        en: "La Pampa"
+    - code: "AR-X"
+      name: "コルドバ州"
+      type: "province"
+      nameI18n:
+        en: "Córdoba"
 ---
 
 <div class="main-desciption country-description">

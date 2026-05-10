@@ -34,6 +34,108 @@ mapPins:
   - { lat: 41.404, lng: 2.174, label: "サグラダ・ファミリア", type: "landmark", note: "ガウディの未完の大聖堂" }
   - { lat: 37.176, lng: -3.588, label: "アルハンブラ宮殿", type: "landmark", note: "イスラム建築の世界遺産" }
   - { lat: 43.263, lng: -2.935, label: "ビルバオ", type: "city", note: "バスク地方の中心都市" }
+municipalities:
+  svg: "/maps/countries/spain.svg"
+  title:
+    ja: "スペインの自治州"
+    en: "Autonomous Communities of Spain"
+  list:
+    - code: "07"
+      name: "カスティーリャ・イ・レオン州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Castilla y León"
+    - code: "09"
+      name: "カタルーニャ州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Cataluña"
+    - code: "18"
+      name: "セウタ自治都市"
+      type: "autonomous_city"
+      nameI18n:
+        en: "Ceuta"
+    - code: "14"
+      name: "ムルシア州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Murcia"
+    - code: "17"
+      name: "ラ・リオハ州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "La Rioja"
+    - code: "04"
+      name: "バレアレス諸島州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Illes Balears"
+    - code: "05"
+      name: "カナリア諸島州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Canarias"
+    - code: "06"
+      name: "カンタブリア州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Cantabria"
+    - code: "01"
+      name: "アンダルシア州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Andalucía"
+    - code: "03"
+      name: "アストゥリアス州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Asturias"
+    - code: "10"
+      name: "バレンシア州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Valencia"
+    - code: "19"
+      name: "メリリャ自治都市"
+      type: "autonomous_city"
+      nameI18n:
+        en: "Melilla"
+    - code: "15"
+      name: "ナバーラ州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Navarra"
+    - code: "12"
+      name: "ガリシア州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Galicia"
+    - code: "02"
+      name: "アラゴン州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Aragón"
+    - code: "13"
+      name: "マドリード州"
+      type: "autonomous_community"
+      note: "首都"
+      nameI18n:
+        en: "Madrid"
+    - code: "11"
+      name: "エストレマドゥーラ州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Extremadura"
+    - code: "08"
+      name: "カスティーリャ・ラ・マンチャ州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Castilla-La Mancha"
+    - code: "16"
+      name: "バスク州"
+      type: "autonomous_community"
+      nameI18n:
+        en: "País Vasco"
 ---
 
 <div class="main-desciption country-description">

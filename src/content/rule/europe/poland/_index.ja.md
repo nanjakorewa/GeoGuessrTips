@@ -31,6 +31,93 @@ mapPins:
   - { lat: 52.407, lng: 16.925, label: "ポズナン", type: "city", note: "西部の主要都市" }
   - { lat: 50.034, lng: 19.180, label: "アウシュヴィッツ", type: "historical", note: "強制収容所跡・世界遺産" }
   - { lat: 49.299, lng: 19.949, label: "ザコパネ", type: "nature", note: "タトラ山脈の麓の保養地" }
+municipalities:
+  svg: "/maps/countries/poland.svg"
+  title:
+    ja: "ポーランドの県（県）"
+    en: "Voivodeships of Poland"
+  list:
+    - code: "PL-SL"
+      name: "シロンスク県"
+      type: "province"
+      nameI18n:
+        en: "Silesian"
+    - code: "PL-MA"
+      name: "マウォポルスカ県"
+      type: "province"
+      nameI18n:
+        en: "Lesser Poland"
+    - code: "PL-PK"
+      name: "ポトカルパチェ県"
+      type: "province"
+      nameI18n:
+        en: "Subcarpathian"
+    - code: "PL-DS"
+      name: "ドルヌィ・シロンスク県"
+      type: "province"
+      nameI18n:
+        en: "Lower Silesian"
+    - code: "PL-OP"
+      name: "オポーレ県"
+      type: "province"
+      nameI18n:
+        en: "Opole"
+    - code: "PL-PD"
+      name: "ポドラシェ県"
+      type: "province"
+      nameI18n:
+        en: "Podlaskie"
+    - code: "PL-WN"
+      name: "ヴァルミア・マズールィ県"
+      type: "province"
+      nameI18n:
+        en: "Warmian-Masurian"
+    - code: "PL-LB"
+      name: "ルブシュ県"
+      type: "province"
+      nameI18n:
+        en: "Lubusz"
+    - code: "PL-ZP"
+      name: "ザホドニォ・ポモージェ県"
+      type: "province"
+      nameI18n:
+        en: "West Pomeranian"
+    - code: "PL-LU"
+      name: "ルブリン県"
+      type: "province"
+      nameI18n:
+        en: "Lublin"
+    - code: "PL-PM"
+      name: "ポモージェ県"
+      type: "province"
+      nameI18n:
+        en: "Pomeranian"
+    - code: "PL-MZ"
+      name: "マゾフシェ県"
+      type: "province"
+      note: "首都ワルシャワ"
+      nameI18n:
+        en: "Masovian"
+    - code: "PL-LD"
+      name: "ウッチ県"
+      type: "province"
+      nameI18n:
+        en: "Łódź"
+    - code: "PL-KP"
+      name: "クヤヴィ・ポモージェ県"
+      type: "province"
+      nameI18n:
+        en: "Kuyavian-Pomeranian"
+    - code: "PL-WP"
+      name: "ヴィエルコポルスカ県"
+      type: "province"
+      nameI18n:
+        en: "Greater Poland"
+    - code: "PL-SK"
+      name: "シフィェントクシシュ県"
+      type: "province"
+      nameI18n:
+        en: "Holy Cross"
 ---
 
 <div class="main-desciption country-description">

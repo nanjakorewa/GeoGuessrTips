@@ -32,6 +32,143 @@ mapPins:
   - { lat: 45.977, lng: 7.659, label: "マッターホルン", type: "nature", note: "アルプスの象徴的な山" }
   - { lat: 46.534, lng: 7.962, label: "ユングフラウヨッホ", type: "landmark", note: "ヨーロッパ最高所の鉄道駅" }
   - { lat: 47.558, lng: 7.587, label: "バーゼル", type: "city", note: "ライン川沿いの文化都市" }
+municipalities:
+  svg: "/maps/countries/switzerland.svg"
+  title:
+    ja: "スイスの州（カントン）"
+    en: "Cantons of Switzerland"
+  list:
+    - code: "CH-VS"
+      name: "ヴァレー州"
+      type: "canton"
+      nameI18n:
+        en: "Valais"
+    - code: "CH-TI"
+      name: "ティチーノ州"
+      type: "canton"
+      nameI18n:
+        en: "Ticino"
+    - code: "CH-GR"
+      name: "グラウビュンデン州"
+      type: "canton"
+      nameI18n:
+        en: "Graubünden"
+    - code: "CH-SH"
+      name: "シャフハウゼン州"
+      type: "canton"
+      nameI18n:
+        en: "Schaffhausen"
+    - code: "CH-TG"
+      name: "トゥールガウ州"
+      type: "canton"
+      nameI18n:
+        en: "Thurgau"
+    - code: "CH-ZH"
+      name: "チューリッヒ州"
+      type: "canton"
+      nameI18n:
+        en: "Zürich"
+    - code: "CH-AG"
+      name: "アールガウ州"
+      type: "canton"
+      nameI18n:
+        en: "Aargau"
+    - code: "CH-BS"
+      name: "バーゼル・シュタット準州"
+      type: "canton"
+      nameI18n:
+        en: "Basel-Stadt"
+    - code: "CH-BL"
+      name: "バーゼル・ラント準州"
+      type: "canton"
+      nameI18n:
+        en: "Basel-Landschaft"
+    - code: "CH-SG"
+      name: "ザンクトガレン州"
+      type: "canton"
+      nameI18n:
+        en: "St. Gallen"
+    - code: "CH-SO"
+      name: "ゾロトゥルン州"
+      type: "canton"
+      nameI18n:
+        en: "Solothurn"
+    - code: "CH-JU"
+      name: "ジュラ州"
+      type: "canton"
+      nameI18n:
+        en: "Jura"
+    - code: "CH-GE"
+      name: "ジュネーヴ州"
+      type: "canton"
+      nameI18n:
+        en: "Genève"
+    - code: "CH-VD"
+      name: "ヴォー州"
+      type: "canton"
+      nameI18n:
+        en: "Vaud"
+    - code: "CH-NE"
+      name: "ヌーシャテル州"
+      type: "canton"
+      nameI18n:
+        en: "Neuchâtel"
+    - code: "CH-BE"
+      name: "ベルン州"
+      type: "canton"
+      note: "首都"
+      nameI18n:
+        en: "Bern"
+    - code: "CH-LU"
+      name: "ルツェルン州"
+      type: "canton"
+      nameI18n:
+        en: "Luzern"
+    - code: "CH-ZG"
+      name: "ツーク州"
+      type: "canton"
+      nameI18n:
+        en: "Zug"
+    - code: "CH-UR"
+      name: "ウーリ州"
+      type: "canton"
+      nameI18n:
+        en: "Uri"
+    - code: "CH-SZ"
+      name: "シュヴィーツ州"
+      type: "canton"
+      nameI18n:
+        en: "Schwyz"
+    - code: "CH-GL"
+      name: "グラールス州"
+      type: "canton"
+      nameI18n:
+        en: "Glarus"
+    - code: "CH-NW"
+      name: "ニトヴァルデン準州"
+      type: "canton"
+      nameI18n:
+        en: "Nidwalden"
+    - code: "CH-FR"
+      name: "フリブール州"
+      type: "canton"
+      nameI18n:
+        en: "Fribourg"
+    - code: "CH-OW"
+      name: "オプヴァルデン準州"
+      type: "canton"
+      nameI18n:
+        en: "Obwalden"
+    - code: "CH-AR"
+      name: "アッペンツェル・アウサーローデン準州"
+      type: "canton"
+      nameI18n:
+        en: "Appenzell Ausserrhoden"
+    - code: "CH-AI"
+      name: "アッペンツェル・インナーローデン準州"
+      type: "canton"
+      nameI18n:
+        en: "Appenzell Innerrhoden"
 ---
 
 <div class="main-desciption country-description">

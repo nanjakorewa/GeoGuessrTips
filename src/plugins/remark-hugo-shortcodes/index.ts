@@ -179,15 +179,30 @@ function processAllShortcodes(
     }
   }
 
-  // Frontmatter `municipalities` → render between prefInfo and corp-desc.
-  // Injected after prefInfo above, so the regex below targets corp-desc and
-  // the new block ends up sandwiched between the two existing sections.
+  // Frontmatter `municipalities` → render block. Insertion point cascades:
+  //   1. Before <div id="corp-desc"> if present (Japan-style prefecture pages)
+  //   2. Else before the {{% corp %}} shortcode (country pages without a
+  //      dedicated corp table — the section appears just above the company
+  //      logos and writeup)
+  //   3. Else after the closing </div> of the first
+  //      <div class="main-desciption country-description"> block (typical
+  //      country pages — places the section right after the overview card)
+  //   4. Else appended at the end of the body
   if (municipalities) {
     const muniHtml = renderMunicipalitiesHtml(municipalities, pageTitle, lang);
     if (muniHtml) {
       const corpDescOpen = /<div\b[^>]*\bid=["']corp-desc["']/;
+      const corpShortcode = /\{\{%\s*corp\s/;
+      const countryDescBlock =
+        /(<div\s+class="main-desciption country-description"[\s\S]*?<\/div>)/;
       if (corpDescOpen.test(result)) {
         result = result.replace(corpDescOpen, (m) => `${muniHtml}\n\n${m}`);
+      } else if (corpShortcode.test(result)) {
+        result = result.replace(corpShortcode, (m) => `${muniHtml}\n\n${m}`);
+      } else if (countryDescBlock.test(result)) {
+        result = result.replace(countryDescBlock, `$1\n\n${muniHtml}`);
+      } else {
+        result = result + `\n\n${muniHtml}\n`;
       }
     }
   }

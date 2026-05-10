@@ -216,23 +216,34 @@ const ruleCollection = defineCollection({
       svg: z.string(),
       /**
        * Optional override for the section heading. Defaults to
-       * "{title}の自治体" / "Municipalities of {title}". Useful for
-       * non-Japan pages where 自治体 doesn't fit (e.g. "韓国の行政区分").
+       * "{title}の自治体" / "Municipalities of {title}".
+       * For multilingual support, supply an object keyed by language.
        */
-      title: z.string().optional(),
+      title: z.union([
+        z.string(),
+        z.record(z.string(), z.string()),
+      ]).optional(),
       asOf: z.string().optional(),
       source: z.string().optional(),
       sourceUrl: z.string().optional(),
       list: z.array(z.object({
         code: z.string(),
-        name: z.string(),
         /**
-         * Per-row category. Japan uses city/town/village/ward; for other
-         * countries we accept arbitrary strings (e.g. "metropolitan_city",
-         * "province"). Unknown values fall through ungrouped.
+         * Display name in the file's locale. For multilingual support,
+         * supply `nameI18n` with translations keyed by language code; the
+         * renderer prefers `nameI18n[lang]` over `name` when available.
+         */
+        name: z.string(),
+        nameI18n: z.record(z.string(), z.string()).optional(),
+        /**
+         * Per-row category. Japan uses city/town/village/ward; other
+         * countries accept arbitrary strings (e.g. "metropolitan_city",
+         * "state", "territory"). Unknown values render with the raw value
+         * as the label.
          */
         type: z.string().optional(),
         note: z.string().optional(),
+        noteI18n: z.record(z.string(), z.string()).optional(),
       })),
     }).optional(),
 

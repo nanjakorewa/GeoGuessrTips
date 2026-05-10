@@ -1,0 +1,26 @@
+// Germany: 16 federal states (Länder)
+module.exports = {
+  pageDir: "europe/germany",
+  source: { type: "natural-earth", iso_a2: "DE" },
+  title: { ja: "ドイツの連邦州", en: "States of Germany" },
+  defaultType: "state",
+  tolerance: 0.015,
+  names: {
+    "DE-BW": { ja: "バーデン・ヴュルテンベルク州", en: "Baden-Württemberg" },
+    "DE-BY": { ja: "バイエルン州",                  en: "Bavaria" },
+    "DE-BE": { ja: "ベルリン",                      en: "Berlin", note: "首都" },
+    "DE-BB": { ja: "ブランデンブルク州",            en: "Brandenburg" },
+    "DE-HB": { ja: "ブレーメン",                    en: "Bremen" },
+    "DE-HH": { ja: "ハンブルク",                    en: "Hamburg" },
+    "DE-HE": { ja: "ヘッセン州",                    en: "Hesse" },
+    "DE-MV": { ja: "メクレンブルク・フォアポンメルン州", en: "Mecklenburg-Vorpommern" },
+    "DE-NI": { ja: "ニーダーザクセン州",            en: "Lower Saxony" },
+    "DE-NW": { ja: "ノルトライン・ヴェストファーレン州", en: "North Rhine-Westphalia" },
+    "DE-RP": { ja: "ラインラント・プファルツ州",    en: "Rhineland-Palatinate" },
+    "DE-SL": { ja: "ザールラント州",                en: "Saarland" },
+    "DE-SN": { ja: "ザクセン州",                    en: "Saxony" },
+    "DE-ST": { ja: "ザクセン・アンハルト州",        en: "Saxony-Anhalt" },
+    "DE-SH": { ja: "シュレースヴィヒ・ホルシュタイン州", en: "Schleswig-Holstein" },
+    "DE-TH": { ja: "テューリンゲン州",              en: "Thuringia" },
+  },
+};

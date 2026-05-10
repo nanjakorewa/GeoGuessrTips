@@ -37,6 +37,148 @@ mapPins:
   - { lat: -8.054, lng: -34.881, label: "レシフェ", type: "city", note: "北東部の港湾都市・ブラジルのヴェネツィア" }
   - { lat: -25.687, lng: -54.444, label: "イグアスの滝", type: "landmark", note: "アルゼンチン国境の世界最大級の滝" }
   - { lat: -22.952, lng: -43.211, label: "キリスト像", type: "landmark", note: "コルコバードの丘の象徴的な巨像" }
+municipalities:
+  svg: "/maps/countries/brazil.svg"
+  title:
+    ja: "ブラジルの州"
+    en: "States of Brazil"
+  list:
+    - code: "BR-RS"
+      name: "リオグランデ・ド・スル州"
+      type: "state"
+      nameI18n:
+        en: "Rio Grande do Sul"
+    - code: "BR-RR"
+      name: "ロライマ州"
+      type: "state"
+      nameI18n:
+        en: "Roraima"
+    - code: "BR-PA"
+      name: "パラー州"
+      type: "state"
+      nameI18n:
+        en: "Pará"
+    - code: "BR-AC"
+      name: "アクレ州"
+      type: "state"
+      nameI18n:
+        en: "Acre"
+    - code: "BR-AP"
+      name: "アマパー州"
+      type: "state"
+      nameI18n:
+        en: "Amapá"
+    - code: "BR-MS"
+      name: "マットグロッソ・ド・スル州"
+      type: "state"
+      nameI18n:
+        en: "Mato Grosso do Sul"
+    - code: "BR-PR"
+      name: "パラナ州"
+      type: "state"
+      nameI18n:
+        en: "Paraná"
+    - code: "BR-SC"
+      name: "サンタカタリーナ州"
+      type: "state"
+      nameI18n:
+        en: "Santa Catarina"
+    - code: "BR-AM"
+      name: "アマゾナス州"
+      type: "state"
+      nameI18n:
+        en: "Amazonas"
+    - code: "BR-RO"
+      name: "ロンドニア州"
+      type: "state"
+      nameI18n:
+        en: "Rondônia"
+    - code: "BR-MT"
+      name: "マットグロッソ州"
+      type: "state"
+      nameI18n:
+        en: "Mato Grosso"
+    - code: "BR-MA"
+      name: "マラニョン州"
+      type: "state"
+      nameI18n:
+        en: "Maranhão"
+    - code: "BR-PI"
+      name: "ピアウイ州"
+      type: "state"
+      nameI18n:
+        en: "Piauí"
+    - code: "BR-CE"
+      name: "セアラ州"
+      type: "state"
+      nameI18n:
+        en: "Ceará"
+    - code: "BR-RN"
+      name: "リオグランデ・ド・ノルテ州"
+      type: "state"
+      nameI18n:
+        en: "Rio Grande do Norte"
+    - code: "BR-PB"
+      name: "パライバ州"
+      type: "state"
+      nameI18n:
+        en: "Paraíba"
+    - code: "BR-PE"
+      name: "ペルナンブコ州"
+      type: "state"
+      nameI18n:
+        en: "Pernambuco"
+    - code: "BR-AL"
+      name: "アラゴアス州"
+      type: "state"
+      nameI18n:
+        en: "Alagoas"
+    - code: "BR-SE"
+      name: "セルジペ州"
+      type: "state"
+      nameI18n:
+        en: "Sergipe"
+    - code: "BR-BA"
+      name: "バイーア州"
+      type: "state"
+      nameI18n:
+        en: "Bahia"
+    - code: "BR-ES"
+      name: "エスピリトサント州"
+      type: "state"
+      nameI18n:
+        en: "Espírito Santo"
+    - code: "BR-RJ"
+      name: "リオデジャネイロ州"
+      type: "state"
+      nameI18n:
+        en: "Rio de Janeiro"
+    - code: "BR-SP"
+      name: "サンパウロ州"
+      type: "state"
+      nameI18n:
+        en: "São Paulo"
+    - code: "BR-GO"
+      name: "ゴイアス州"
+      type: "state"
+      nameI18n:
+        en: "Goiás"
+    - code: "BR-DF"
+      name: "ブラジリア連邦区"
+      type: "federal_district"
+      note: "首都"
+      nameI18n:
+        en: "Federal District"
+    - code: "BR-MG"
+      name: "ミナスジェライス州"
+      type: "state"
+      nameI18n:
+        en: "Minas Gerais"
+    - code: "BR-TO"
+      name: "トカンチンス州"
+      type: "state"
+      nameI18n:
+        en: "Tocantins"
 ---
 
 <div class="main-desciption country-description">

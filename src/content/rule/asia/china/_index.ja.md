@@ -34,6 +34,169 @@ mapPins:
   - { lat: 30.659, lng: 104.066, label: "成都", type: "city", note: "四川省の省都・パンダ繁殖研究の中心" }
   - { lat: 29.561, lng: 106.553, label: "重慶", type: "city", note: "中国西南部最大の直轄市" }
   - { lat: 23.129, lng: 113.264, label: "広州", type: "city", note: "華南地域の経済中心地" }
+municipalities:
+  svg: "/maps/countries/china.svg"
+  title:
+    ja: "中国の省・自治区・直轄市"
+    en: "Provincial-level administrative divisions of China"
+  list:
+    - code: "CN-XJ"
+      name: "新疆ウイグル自治区"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Xinjiang"
+    - code: "CN-XZ"
+      name: "チベット自治区"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Tibet"
+    - code: "CN-NM"
+      name: "内モンゴル自治区"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Inner Mongolia"
+    - code: "CN-GS"
+      name: "甘粛省"
+      type: "province"
+      nameI18n:
+        en: "Gansu"
+    - code: "CN-YN"
+      name: "雲南省"
+      type: "province"
+      nameI18n:
+        en: "Yunnan"
+    - code: "CN-HL"
+      name: "黒竜江省"
+      type: "province"
+      nameI18n:
+        en: "Heilongjiang"
+    - code: "CN-JL"
+      name: "吉林省"
+      type: "province"
+      nameI18n:
+        en: "Jilin"
+    - code: "CN-LN"
+      name: "遼寧省"
+      type: "province"
+      nameI18n:
+        en: "Liaoning"
+    - code: "CN-GX"
+      name: "広西チワン族自治区"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Guangxi"
+    - code: "CN-GD"
+      name: "広東省"
+      type: "province"
+      nameI18n:
+        en: "Guangdong"
+    - code: "CN-HI"
+      name: "海南省"
+      type: "province"
+      nameI18n:
+        en: "Hainan"
+    - code: "CN-FJ"
+      name: "福建省"
+      type: "province"
+      nameI18n:
+        en: "Fujian"
+    - code: "CN-ZJ"
+      name: "浙江省"
+      type: "province"
+      nameI18n:
+        en: "Zhejiang"
+    - code: "CN-SH"
+      name: "上海市"
+      type: "metropolitan_city"
+      nameI18n:
+        en: "Shanghai"
+    - code: "CN-JS"
+      name: "江蘇省"
+      type: "province"
+      nameI18n:
+        en: "Jiangsu"
+    - code: "CN-SD"
+      name: "山東省"
+      type: "province"
+      nameI18n:
+        en: "Shandong"
+    - code: "CN-HE"
+      name: "河北省"
+      type: "province"
+      nameI18n:
+        en: "Hebei"
+    - code: "CN-TJ"
+      name: "天津市"
+      type: "metropolitan_city"
+      nameI18n:
+        en: "Tianjin"
+    - { code: "CN-X01~", name: "Paracel Islands", type: "province" }
+    - code: "CN-BJ"
+      name: "北京市"
+      type: "metropolitan_city"
+      note: "首都"
+      nameI18n:
+        en: "Beijing"
+    - code: "CN-SC"
+      name: "四川省"
+      type: "province"
+      nameI18n:
+        en: "Sichuan"
+    - code: "CN-CQ"
+      name: "重慶市"
+      type: "metropolitan_city"
+      nameI18n:
+        en: "Chongqing"
+    - code: "CN-GZ"
+      name: "貴州省"
+      type: "province"
+      nameI18n:
+        en: "Guizhou"
+    - code: "CN-HN"
+      name: "湖南省"
+      type: "province"
+      nameI18n:
+        en: "Hunan"
+    - code: "CN-NX"
+      name: "寧夏回族自治区"
+      type: "autonomous_community"
+      nameI18n:
+        en: "Ningxia"
+    - code: "CN-SN"
+      name: "陝西省"
+      type: "province"
+      nameI18n:
+        en: "Shaanxi"
+    - code: "CN-QH"
+      name: "青海省"
+      type: "province"
+      nameI18n:
+        en: "Qinghai"
+    - code: "CN-SX"
+      name: "山西省"
+      type: "province"
+      nameI18n:
+        en: "Shanxi"
+    - code: "CN-JX"
+      name: "江西省"
+      type: "province"
+      nameI18n:
+        en: "Jiangxi"
+    - code: "CN-HA"
+      name: "河南省"
+      type: "province"
+      nameI18n:
+        en: "Henan"
+    - code: "CN-HB"
+      name: "湖北省"
+      type: "province"
+      nameI18n:
+        en: "Hubei"
+    - code: "CN-AH"
+      name: "安徽省"
+      type: "province"
+      nameI18n:
+        en: "Anhui"
 ---
 
 <div class="main-desciption country-description">
