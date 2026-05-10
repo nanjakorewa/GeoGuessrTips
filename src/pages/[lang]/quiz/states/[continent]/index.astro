@@ -1,10 +1,6 @@
 ---
 /**
- * Dynamic continent quiz hub: /quiz/states/{continent}/
- *
- * Lists all countries available in that continent as cards. Generates one
- * page per CONTINENTS entry. Disabled cards (countries without quiz data)
- * are not rendered — only configured countries appear.
+ * Continent quiz hub (non-default lang): /[lang]/quiz/states/{continent}/
  */
 import { getCollection } from "astro:content";
 import Head from "@components/seo/Head.astro";
@@ -14,30 +10,41 @@ import SearchModal from "@components/search/SearchModal.astro";
 import {
   CONTINENTS,
   countriesByContinent,
-} from "../../../../data/quiz-states-countries";
-import { getQuizI18n, quizPath, langPath } from "../../../../data/quiz-states-i18n";
+} from "../../../../../data/quiz-states-countries";
+import {
+  getQuizI18n,
+  quizPath,
+  langPath,
+} from "../../../../../data/quiz-states-i18n";
+import { NON_DEFAULT_LANGUAGES } from "../../../../../data/quiz-states-page-data";
 import type { Language } from "@lib/i18n-utils";
 
 export async function getStaticPaths() {
-  return CONTINENTS
-    .filter((c) => countriesByContinent(c.slug).length > 0)
-    .map((c) => ({ params: { continent: c.slug }, props: { continent: c } }));
+  const paths: any[] = [];
+  for (const lang of NON_DEFAULT_LANGUAGES) {
+    for (const c of CONTINENTS) {
+      if (countriesByContinent(c.slug).length === 0) continue;
+      paths.push({
+        params: { lang, continent: c.slug },
+        props: { lang, continent: c },
+      });
+    }
+  }
+  return paths;
 }
 
-const { continent } = Astro.props as {
+const { lang, continent } = Astro.props as {
+  lang: Language;
   continent: { slug: string; ja: string; emoji: string; desc: string };
 };
 
-const lang: Language = "ja";
 const t = getQuizI18n(lang);
-const continentName =
-  t.continents[continent.slug as keyof typeof t.continents] ?? continent.ja;
+const continentName = t.continents[continent.slug as keyof typeof t.continents] ?? continent.ja;
 const site = "https://geopinning.space";
 const pageTitle = t.continent.pageTitleFmt(continentName);
 const pageDescription = t.continent.pageDescriptionFmt(continentName);
 const canonical = `${site}${quizPath(lang, `/quiz/states/${continent.slug}/`)}`;
 
-// Pull flag, count, and locale-specific title for each country card.
 const allRules = await getCollection("rule");
 const ruleById = new Map(allRules.map((e: any) => [e.id, e]));
 
@@ -131,7 +138,6 @@ const crumbs = [
   <header class="shadow-bottom sticky-top bg-white">
     <Navbar lang={lang} isHome={false} />
   </header>
-
   <main>
     <div class="sqi-page">
       <ol class="sqi-breadcrumb">
@@ -141,7 +147,6 @@ const crumbs = [
       </ol>
       <h1 class="sqi-title">{t.continent.titleFmt(continentName)}</h1>
       <p class="sqi-desc">{t.continent.lead}</p>
-
       <div class="sqi-grid">
         {countries.map((c) => (
           <a href={c.href} class="sqi-card">
@@ -155,7 +160,6 @@ const crumbs = [
       </div>
     </div>
   </main>
-
   <Footer lang={lang} title={t.continent.titleFmt(continentName)} permalink={canonical} />
   <SearchModal lang={lang} />
 </body>

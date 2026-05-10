@@ -1,0 +1,54 @@
+---
+/**
+ * Country quiz (non-default lang): /[lang]/quiz/states/{continent}/{country}/
+ */
+import { getCollection } from "astro:content";
+import StateQuizPage from "@components/StateQuizPage.astro";
+import { COUNTRIES } from "../../../../../data/quiz-states-countries";
+import {
+  buildCountryQuizProps,
+  NON_DEFAULT_LANGUAGES,
+} from "../../../../../data/quiz-states-page-data";
+import type { Language } from "@lib/i18n-utils";
+
+export async function getStaticPaths() {
+  const allRules = await getCollection("rule");
+  const ruleById = new Map(allRules.map((e: any) => [e.id, e]));
+  const paths: any[] = [];
+  for (const lang of NON_DEFAULT_LANGUAGES) {
+    for (const c of COUNTRIES) {
+      const entry: any = ruleById.get(`${c.pageDir}/_index.ja`);
+      if (!entry) continue;
+      const munis = entry.data.municipalities;
+      if (!munis) continue;
+      paths.push({
+        params: { lang, continent: c.continent, country: c.slug },
+        props: {
+          lang,
+          slug: c.slug,
+          continent: c.continent,
+          pageDir: c.pageDir,
+          munis,
+        },
+      });
+    }
+  }
+  return paths;
+}
+
+const { lang, slug, continent, pageDir, munis } = Astro.props as {
+  lang: Language;
+  slug: string;
+  continent: string;
+  pageDir: string;
+  munis: any;
+};
+const allRules = await getCollection("rule");
+const props = buildCountryQuizProps(
+  lang,
+  { slug, continent, pageDir },
+  munis,
+  allRules.map((e: any) => ({ id: e.id, data: e.data })),
+);
+---
+<StateQuizPage {...props} />

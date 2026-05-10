@@ -11,6 +11,8 @@ import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
+import type { Language } from "@lib/i18n-utils";
+import { getQuizI18n } from "../data/quiz-states-i18n";
 
 interface QuizItem {
   code: string;
@@ -22,12 +24,13 @@ interface Crumb {
 }
 
 interface Props {
+  lang: Language;
   pageTitle: string;
   pageDescription: string;
   canonical: string;
-  /** Visible H1 in the score bar, e.g. "アメリカの州当てクイズ" */
+  /** Visible H1 in the score bar */
   pageH1: string;
-  /** Visible prompt above the question name, e.g. "この州はどこ？" */
+  /** Visible prompt above the question name */
   prompt: string;
   /** localStorage key for best-streak persistence */
   storageKey: string;
@@ -39,6 +42,7 @@ interface Props {
 }
 
 const {
+  lang,
   pageTitle,
   pageDescription,
   canonical,
@@ -50,8 +54,18 @@ const {
   inlinedSvg,
 } = Astro.props as Props;
 
-const lang = "ja" as const;
+const t = getQuizI18n(lang);
 const site = "https://geopinning.space";
+// JS-side label set passed via define:vars (must serialize cleanly).
+const jsLabels = {
+  loading: t.question.loading,
+  finished: t.question.finished,
+  summaryTitleFmt: t.summary.titleFmt(0).replace(/0/, "{n}"),
+  summaryCorrect: t.summary.correct,
+  summaryBestThis: t.summary.bestThisRound,
+  summaryBestAll: t.summary.bestAll,
+  summaryQuestionsSuffix: t.summary.questionsSuffix,
+};
 ---
 
 <!DOCTYPE html>
@@ -346,8 +360,8 @@ const site = "https://geopinning.space";
       </ol>
 
       <div class="sq-layout">
-        <aside class="sq-ad-col" aria-label="広告">
-          <div class="sq-ad-col__label">広告</div>
+        <aside class="sq-ad-col" aria-label={t.ad.label}>
+          <div class="sq-ad-col__label">{t.ad.label}</div>
           <ins class="adsbygoogle"
                style="display:block"
                data-ad-client="ca-pub-3422749596492644"
@@ -361,38 +375,38 @@ const site = "https://geopinning.space";
           <div class="sq-bar">
             <h1 class="sq-title">{pageH1}</h1>
             <div class="sq-stats">
-              <span class="sq-stat sq-stat--streak">🔥 連続: <span id="sq-streak">0</span></span>
-              <span class="sq-stat sq-stat--best">🏆 最高: <span id="sq-best">0</span></span>
-              <span class="sq-stat sq-stat--correct">○ <span id="sq-correct">0</span></span>
-              <span class="sq-stat sq-stat--wrong">✕ <span id="sq-wrong">0</span></span>
-              <span class="sq-stat">残り <span id="sq-remaining">{quizStates.length}</span></span>
+              <span class="sq-stat sq-stat--streak">🔥 {t.scores.streak}: <span id="sq-streak">0</span></span>
+              <span class="sq-stat sq-stat--best">🏆 {t.scores.best}: <span id="sq-best">0</span></span>
+              <span class="sq-stat sq-stat--correct">{t.scores.correct} <span id="sq-correct">0</span></span>
+              <span class="sq-stat sq-stat--wrong">{t.scores.wrong} <span id="sq-wrong">0</span></span>
+              <span class="sq-stat">{t.scores.remaining} <span id="sq-remaining">{quizStates.length}</span></span>
             </div>
           </div>
 
           <div class="sq-question" id="sq-question">
             <div class="sq-prompt">{prompt}</div>
-            <div class="sq-state-name" id="sq-state-name">読み込み中…</div>
+            <div class="sq-state-name" id="sq-state-name">{t.question.loading}</div>
           </div>
 
           <div class="sq-map-wrap" id="sq-map-wrap">
             <Fragment set:html={inlinedSvg} />
-            <div class="sq-zoom-controls" role="group" aria-label="マップ拡大縮小">
-              <button class="sq-zoom-btn" id="sq-zoom-in" type="button" aria-label="拡大">＋</button>
-              <button class="sq-zoom-btn" id="sq-zoom-out" type="button" aria-label="縮小">−</button>
-              <button class="sq-zoom-btn sq-zoom-btn--reset" id="sq-zoom-reset" type="button" aria-label="リセット">⤺</button>
+            <div class="sq-zoom-controls" role="group" aria-label="zoom">
+              <button class="sq-zoom-btn" id="sq-zoom-in" type="button" aria-label="zoom in">＋</button>
+              <button class="sq-zoom-btn" id="sq-zoom-out" type="button" aria-label="zoom out">−</button>
+              <button class="sq-zoom-btn sq-zoom-btn--reset" id="sq-zoom-reset" type="button" aria-label="reset zoom">⤺</button>
             </div>
           </div>
 
           <div class="sq-actions">
-            <button class="sq-btn" id="sq-skip" type="button">スキップ</button>
-            <button class="sq-btn sq-btn--primary" id="sq-restart" type="button">最初から</button>
+            <button class="sq-btn" id="sq-skip" type="button">{t.buttons.skip}</button>
+            <button class="sq-btn sq-btn--primary" id="sq-restart" type="button">{t.buttons.restart}</button>
           </div>
 
           <div class="sq-summary" id="sq-summary" hidden>
-            <div class="sq-summary__title">🎉 全 <span id="sq-summary-total">0</span> 問終了</div>
-            <p class="sq-summary__line">正解: <strong id="sq-summary-correct">0</strong></p>
-            <p class="sq-summary__line">最高連続正解: <strong id="sq-summary-best-this">0</strong> 問</p>
-            <p class="sq-summary__line">通算ベスト: <strong id="sq-summary-best-all">0</strong> 問</p>
+            <div class="sq-summary__title" id="sq-summary-title-text">&nbsp;</div>
+            <p class="sq-summary__line">{t.summary.correct}: <strong id="sq-summary-correct">0</strong></p>
+            <p class="sq-summary__line">{t.summary.bestThisRound}: <strong id="sq-summary-best-this">0</strong> {t.summary.questionsSuffix}</p>
+            <p class="sq-summary__line">{t.summary.bestAll}: <strong id="sq-summary-best-all">0</strong> {t.summary.questionsSuffix}</p>
           </div>
         </div>
       </div>
@@ -402,11 +416,12 @@ const site = "https://geopinning.space";
   <Footer lang={lang} title={pageH1} permalink={canonical} />
   <SearchModal lang={lang} />
 
-  <script is:inline define:vars={{ quizStates, storageKey }}>
+  <script is:inline define:vars={{ quizStates, storageKey, jsLabels }}>
     (function () {
       const STORAGE_KEY = storageKey;
       const ADVANCE_OK = 550;
       const ADVANCE_NG = 1700;
+      const LABELS = jsLabels;
 
       const $ = (id) => document.getElementById(id);
       const page = $("sq-page");
@@ -420,7 +435,7 @@ const site = "https://geopinning.space";
       const elWrong = $("sq-wrong");
       const elRemaining = $("sq-remaining");
       const elSummary = $("sq-summary");
-      const elSummaryTotal = $("sq-summary-total");
+      const elSummaryTitle = $("sq-summary-title-text");
       const elSummaryCorrect = $("sq-summary-correct");
       const elSummaryBestThis = $("sq-summary-best-this");
       const elSummaryBestAll = $("sq-summary-best-all");
@@ -654,12 +669,14 @@ const site = "https://geopinning.space";
       }
       function finish() {
         page.classList.add("is-finished");
-        elSummaryTotal.textContent = String(queue.length);
+        if (elSummaryTitle) {
+          elSummaryTitle.textContent = LABELS.summaryTitleFmt.replace("{n}", String(queue.length));
+        }
         elSummaryCorrect.textContent = correct + " / " + queue.length;
         elSummaryBestThis.textContent = String(bestThisRound);
         elSummaryBestAll.textContent = String(bestAllTime);
         elSummary.hidden = false;
-        stateNameEl.textContent = "終了！";
+        stateNameEl.textContent = LABELS.finished;
         elRemaining.textContent = "0";
       }
       function restart() {

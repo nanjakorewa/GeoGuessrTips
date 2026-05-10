@@ -1,10 +1,13 @@
 ---
 /**
- * Japan prefecture quiz (default lang): /quiz/states/japan/{pref}/
+ * Japan prefecture quiz (non-default lang): /[lang]/quiz/states/japan/{pref}/
  */
 import { getCollection } from "astro:content";
 import StateQuizPage from "@components/StateQuizPage.astro";
-import { buildPrefectureQuizProps } from "../../../../data/quiz-states-page-data";
+import {
+  buildPrefectureQuizProps,
+  NON_DEFAULT_LANGUAGES,
+} from "../../../../../data/quiz-states-page-data";
 import type { Language } from "@lib/i18n-utils";
 
 export async function getStaticPaths() {
@@ -15,17 +18,26 @@ export async function getStaticPaths() {
       (e.data as any).is_pref === true &&
       !!(e.data as any).municipalities,
   );
-  return prefs.map((p: any) => {
-    const seg = p.id.split("/");
-    return {
-      params: { pref: seg[3] },
-      props: { dir: seg[3], region: seg[2], munis: (p.data as any).municipalities },
-    };
-  });
+  const paths: any[] = [];
+  for (const lang of NON_DEFAULT_LANGUAGES) {
+    for (const p of prefs) {
+      const seg = p.id.split("/");
+      paths.push({
+        params: { lang, pref: seg[3] },
+        props: {
+          lang,
+          dir: seg[3],
+          region: seg[2],
+          munis: (p.data as any).municipalities,
+        },
+      });
+    }
+  }
+  return paths;
 }
 
-const lang: Language = "ja";
-const { dir, region, munis } = Astro.props as {
+const { lang, dir, region, munis } = Astro.props as {
+  lang: Language;
   dir: string;
   region: string;
   munis: any;
