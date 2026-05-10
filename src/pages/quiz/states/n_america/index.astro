@@ -1,0 +1,138 @@
+---
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+
+const lang = "ja" as const;
+const site = "https://geopinning.space";
+const pageTitle = "北米の州当てクイズ｜国を選ぶ";
+const pageDescription =
+  "アメリカ合衆国・カナダ・メキシコの州/準州をマップで当てるクイズ集。国を選んでスタート。";
+const canonical = `${site}/quiz/states/n_america/`;
+
+type Country = {
+  slug: string;
+  name: string;
+  count: number;
+  flag: string;
+  url?: string; // when undefined the card is shown as "coming soon"
+};
+
+const countries: Country[] = [
+  { slug: "usa",    name: "アメリカ",   count: 51, flag: "USA.svg",    url: "/quiz/states/n_america/usa/" },
+  { slug: "canada", name: "カナダ",     count: 13, flag: "Canada.svg" },
+  { slug: "mexico", name: "メキシコ",   count: 32, flag: "MEX.svg" },
+];
+
+const crumbs = [
+  { name: "トップ", url: "/" },
+  { name: "クイズ", url: "/quiz/" },
+  { name: "州当てクイズ", url: "/quiz/states/" },
+  { name: "北米", url: "/quiz/states/n_america/" },
+];
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <Head
+    title={pageTitle}
+    description={pageDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={`${site}/images/icon-512x512.png`}
+    ogType="website"
+    breadcrumbs={crumbs}
+    collection="quiz"
+  />
+  <style is:global>
+    .sqi-page { max-width: 980px; margin: 0 auto; padding: 1rem 1rem 2rem; }
+    .sqi-breadcrumb {
+      list-style: none; padding: 0; margin: 0 0 0.6rem;
+      display: flex; flex-wrap: wrap;
+      font-size: 0.78rem; color: rgba(60,60,60,0.7);
+    }
+    .sqi-breadcrumb li::after { content: "›"; margin: 0 0.4em; color: rgba(120,120,120,0.6); }
+    .sqi-breadcrumb li:last-child::after { content: ""; }
+    .sqi-breadcrumb a { color: inherit; text-decoration: none; }
+    .sqi-breadcrumb a:hover { text-decoration: underline; }
+    .sqi-title { font-size: 1.45rem; font-weight: 800; color: #1f3a5c; margin: 0 0 0.4rem; }
+    .sqi-desc { color: #4a5568; margin: 0 0 1.2rem; line-height: 1.6; font-size: 0.95rem; }
+    .sqi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 0.85rem;
+    }
+    .sqi-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.45rem;
+      padding: 1rem 0.8rem;
+      background: #fff;
+      border: 1px solid #d6deea;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+    }
+    .sqi-card:hover {
+      transform: translateY(-2px);
+      border-color: #1f4d80;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+    .sqi-card--disabled {
+      pointer-events: none;
+      opacity: 0.45;
+      filter: grayscale(0.6);
+    }
+    .sqi-flag {
+      width: 96px; height: 64px; object-fit: contain;
+      background: #f6f9fd; border: 1px solid #e1e6ec;
+    }
+    .sqi-name { font-weight: 700; color: #1f3a5c; font-size: 1.05rem; }
+    .sqi-meta { font-size: 0.78rem; color: #6b7a8d; }
+    .sqi-soon {
+      display: inline-block; font-size: 0.72rem; color: #6b7a8d;
+      background: rgba(0,0,0,0.06); padding: 0.1em 0.6em;
+    }
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+
+  <main>
+    <div class="sqi-page">
+      <ol class="sqi-breadcrumb">
+        {crumbs.map((c, i) => (
+          <li>{i === crumbs.length - 1 ? c.name : <a href={c.url}>{c.name}</a>}</li>
+        ))}
+      </ol>
+      <h1 class="sqi-title">北米の州当てクイズ</h1>
+      <p class="sqi-desc">
+        国を選ぶと、出題された州/準州を地図上で当てるクイズが始まります。
+      </p>
+
+      <div class="sqi-grid">
+        {countries.map((c) => (
+          <a
+            href={c.url ?? "#"}
+            class:list={["sqi-card", { "sqi-card--disabled": !c.url }]}
+            aria-disabled={!c.url}
+          >
+            <img src={`/flags/${c.flag}`} alt={`${c.name}の国旗`} class="sqi-flag" loading="lazy" />
+            <div class="sqi-name">{c.name}</div>
+            <div class="sqi-meta">州・地域 {c.count} 件</div>
+            {!c.url && <span class="sqi-soon">準備中</span>}
+          </a>
+        ))}
+      </div>
+    </div>
+  </main>
+
+  <Footer lang={lang} title="北米の州当てクイズ" permalink={canonical} />
+  <SearchModal lang={lang} />
+</body>
+</html>

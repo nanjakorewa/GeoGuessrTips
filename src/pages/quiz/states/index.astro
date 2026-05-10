@@ -1,0 +1,141 @@
+---
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+
+const lang = "ja" as const;
+const site = "https://geopinning.space";
+const pageTitle = "州当てクイズ｜大陸を選ぶ";
+const pageDescription =
+  "世界各国の州・地域を地図上で当てるクイズ。大陸を選ぶと、その大陸の国別クイズページに進みます。";
+const canonical = `${site}/quiz/states/`;
+
+type Continent = {
+  slug: string;
+  name: string;
+  desc: string;
+  emoji: string;
+  url?: string;
+};
+
+const continents: Continent[] = [
+  { slug: "n_america", name: "北米",       desc: "アメリカ・カナダ・メキシコ", emoji: "🌎",
+    url: "/quiz/states/n_america/" },
+  { slug: "cs_america", name: "中南米",    desc: "ブラジル・アルゼンチン ほか", emoji: "🌎" },
+  { slug: "europe",    name: "ヨーロッパ", desc: "ドイツ・フランス・イタリア ほか", emoji: "🌍" },
+  { slug: "asia",      name: "アジア",     desc: "中国・インド・台湾 ほか", emoji: "🌏" },
+  { slug: "oceania",   name: "オセアニア", desc: "オーストラリア・ニュージーランド", emoji: "🌏" },
+  { slug: "middle_east", name: "中東",     desc: "サウジアラビア・トルコ ほか", emoji: "🌍" },
+  { slug: "africa",    name: "アフリカ",   desc: "南アフリカ・エジプト ほか", emoji: "🌍" },
+];
+
+const crumbs = [
+  { name: "トップ", url: "/" },
+  { name: "クイズ", url: "/quiz/" },
+  { name: "州当てクイズ", url: "/quiz/states/" },
+];
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <Head
+    title={pageTitle}
+    description={pageDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={`${site}/images/icon-512x512.png`}
+    ogType="website"
+    breadcrumbs={crumbs}
+    collection="quiz"
+  />
+  <style is:global>
+    .sqh-page { max-width: 980px; margin: 0 auto; padding: 1rem 1rem 2rem; }
+    .sqh-breadcrumb {
+      list-style: none; padding: 0; margin: 0 0 0.6rem;
+      display: flex; flex-wrap: wrap;
+      font-size: 0.78rem; color: rgba(60,60,60,0.7);
+    }
+    .sqh-breadcrumb li::after { content: "›"; margin: 0 0.4em; color: rgba(120,120,120,0.6); }
+    .sqh-breadcrumb li:last-child::after { content: ""; }
+    .sqh-breadcrumb a { color: inherit; text-decoration: none; }
+    .sqh-breadcrumb a:hover { text-decoration: underline; }
+    .sqh-title { font-size: 1.55rem; font-weight: 800; color: #1f3a5c; margin: 0 0 0.4rem; }
+    .sqh-lead { color: #4a5568; margin: 0 0 1.4rem; line-height: 1.65; font-size: 0.95rem; }
+    .sqh-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 0.85rem;
+    }
+    .sqh-card {
+      display: flex;
+      gap: 0.85rem;
+      align-items: center;
+      padding: 1rem;
+      background: #fff;
+      border: 1px solid #d6deea;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+    }
+    .sqh-card:hover {
+      transform: translateY(-2px);
+      border-color: #1f4d80;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+    .sqh-card--disabled { pointer-events: none; opacity: 0.45; }
+    .sqh-emoji { font-size: 1.8rem; line-height: 1; }
+    .sqh-card-body { display: flex; flex-direction: column; gap: 0.15rem; }
+    .sqh-card-name {
+      font-weight: 700; color: #1f3a5c; font-size: 1.05rem;
+    }
+    .sqh-card-desc { font-size: 0.78rem; color: #6b7a8d; line-height: 1.4; }
+    .sqh-soon {
+      display: inline-block; font-size: 0.7rem; color: #6b7a8d;
+      background: rgba(0,0,0,0.06); padding: 0.1em 0.55em; margin-top: 0.25rem;
+      align-self: flex-start;
+    }
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+
+  <main>
+    <div class="sqh-page">
+      <ol class="sqh-breadcrumb">
+        {crumbs.map((c, i) => (
+          <li>{i === crumbs.length - 1 ? c.name : <a href={c.url}>{c.name}</a>}</li>
+        ))}
+      </ol>
+      <h1 class="sqh-title">州当てクイズ</h1>
+      <p class="sqh-lead">
+        世界各国の州・地域を地図上で当てるクイズです。<br/>
+        まずは大陸を選んでください。各国ページで国を選ぶと、ランダム出題が始まります。
+      </p>
+
+      <div class="sqh-grid">
+        {continents.map((c) => (
+          <a
+            href={c.url ?? "#"}
+            class:list={["sqh-card", { "sqh-card--disabled": !c.url }]}
+            aria-disabled={!c.url}
+          >
+            <span class="sqh-emoji" aria-hidden="true">{c.emoji}</span>
+            <div class="sqh-card-body">
+              <span class="sqh-card-name">{c.name}</span>
+              <span class="sqh-card-desc">{c.desc}</span>
+              {!c.url && <span class="sqh-soon">準備中</span>}
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </main>
+
+  <Footer lang={lang} title="州当てクイズ" permalink={canonical} />
+  <SearchModal lang={lang} />
+</body>
+</html>
