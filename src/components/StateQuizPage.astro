@@ -60,6 +60,7 @@ const site = "https://geopinning.space";
 const jsLabels = {
   loading: t.question.loading,
   finished: t.question.finished,
+  clicked: t.feedback.clicked,
   summaryTitleFmt: t.summary.titleFmt(0).replace(/0/, "{n}"),
   summaryCorrect: t.summary.correct,
   summaryBestThis: t.summary.bestThisRound,
@@ -181,6 +182,39 @@ const jsLabels = {
     }
     .sq-stat--best { background: rgba(124,58,237,0.13); color: #6b21a8; }
 
+    /* Progress bar across the top of the content column. Correct + wrong
+       segments fill left → right; the rest is the un-answered tail. */
+    .sq-progress {
+      position: relative;
+      display: flex;
+      width: 100%;
+      height: 8px;
+      background: #eaf2fb;
+      border: 1px solid #d6deea;
+      margin: 0 0 0.7rem;
+      overflow: hidden;
+    }
+    .sq-progress__fill {
+      height: 100%;
+      width: 0;
+      transition: width 0.35s ease;
+    }
+    .sq-progress__fill--correct { background: #4a9e5c; }
+    .sq-progress__fill--wrong   { background: #d35a4d; }
+    .sq-progress__count {
+      position: absolute;
+      top: 50%;
+      right: 0.4em;
+      transform: translateY(-50%);
+      font-size: 0.62rem;
+      font-weight: 700;
+      color: #1f3a5c;
+      background: rgba(255,255,255,0.85);
+      padding: 0 0.4em;
+      line-height: 1.4;
+      pointer-events: none;
+    }
+
     .sq-question {
       text-align: center;
       padding: 0.85rem 1rem;
@@ -209,6 +243,20 @@ const jsLabels = {
     .sq-question.is-wrong {
       background: rgba(192,57,43,0.13);
       border-color: rgba(192,57,43,0.55);
+    }
+    /* Wrong-answer feedback: shows the user's clicked place name. The
+       state name above already serves as the correct answer. */
+    .sq-feedback {
+      margin-top: 0.45rem;
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: #9a2d24;
+      letter-spacing: 0.02em;
+    }
+    .sq-feedback[hidden] { display: none; }
+    .sq-feedback strong {
+      font-weight: 800;
+      color: #b13427;
     }
 
     .sq-map-wrap {
@@ -383,9 +431,16 @@ const jsLabels = {
             </div>
           </div>
 
+          <div class="sq-progress" id="sq-progress" role="progressbar" aria-label={t.progress.ariaLabel} aria-valuemin="0" aria-valuemax={quizStates.length} aria-valuenow="0">
+            <div class="sq-progress__fill sq-progress__fill--correct" id="sq-progress-correct"></div>
+            <div class="sq-progress__fill sq-progress__fill--wrong" id="sq-progress-wrong"></div>
+            <div class="sq-progress__count" id="sq-progress-count">0 / {quizStates.length}</div>
+          </div>
+
           <div class="sq-question" id="sq-question">
             <div class="sq-prompt">{prompt}</div>
             <div class="sq-state-name" id="sq-state-name">{t.question.loading}</div>
+            <div class="sq-feedback" id="sq-feedback" hidden></div>
           </div>
 
           <div class="sq-map-wrap" id="sq-map-wrap">
@@ -429,16 +484,26 @@ const jsLabels = {
       const mapWrap = $("sq-map-wrap");
       const stateNameEl = $("sq-state-name");
       const questionEl = $("sq-question");
+      const feedbackEl = $("sq-feedback");
       const elStreak = $("sq-streak");
       const elBest = $("sq-best");
       const elCorrect = $("sq-correct");
       const elWrong = $("sq-wrong");
       const elRemaining = $("sq-remaining");
+      const elProgress = $("sq-progress");
+      const elProgressCorrect = $("sq-progress-correct");
+      const elProgressWrong = $("sq-progress-wrong");
+      const elProgressCount = $("sq-progress-count");
       const elSummary = $("sq-summary");
       const elSummaryTitle = $("sq-summary-title-text");
       const elSummaryCorrect = $("sq-summary-correct");
       const elSummaryBestThis = $("sq-summary-best-this");
       const elSummaryBestAll = $("sq-summary-best-all");
+
+      // Quick lookup: code → quiz-state name (for showing the user's
+      // wrong-click feedback in their current language).
+      const codeToName = Object.create(null);
+      quizStates.forEach(function (q) { codeToName[q.code] = q.name; });
 
       // ============ Zoom & Pan via SVG viewBox ============
       const initialVb = (() => {
@@ -589,12 +654,46 @@ const jsLabels = {
           p.classList.remove("sq-correct", "sq-wrong", "sq-reveal");
         });
       }
+      function clearFeedback() {
+        if (!feedbackEl) return;
+        feedbackEl.hidden = true;
+        feedbackEl.innerHTML = "";
+      }
+      function showWrongFeedback(clickedCode, clickedPath) {
+        if (!feedbackEl) return;
+        // Prefer the localized quiz-state name (so it matches the language
+        // of the prompt). Fall back to the SVG path's data-name (source
+        // language) and finally to the raw code.
+        let name = codeToName[clickedCode];
+        if (!name && clickedPath) {
+          name = clickedPath.getAttribute("data-name") || "";
+        }
+        if (!name) name = clickedCode;
+        const safe = String(name)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;");
+        feedbackEl.innerHTML =
+          "✕ " + LABELS.clicked + " <strong>" + safe + "</strong>";
+        feedbackEl.hidden = false;
+      }
+      function updateProgress() {
+        const total = queue.length;
+        if (!total) return;
+        const correctPct = (correct / total) * 100;
+        const wrongPct = (wrong / total) * 100;
+        if (elProgressCorrect) elProgressCorrect.style.width = correctPct + "%";
+        if (elProgressWrong) elProgressWrong.style.width = wrongPct + "%";
+        if (elProgressCount) elProgressCount.textContent = (correct + wrong) + " / " + total;
+        if (elProgress) elProgress.setAttribute("aria-valuenow", String(correct + wrong));
+      }
       function showQuestion() {
         if (index >= queue.length) { finish(); return; }
         const q = queue[index];
         stateNameEl.textContent = q.name;
         questionEl.classList.remove("is-correct", "is-wrong");
         clearMapClasses();
+        clearFeedback();
         elRemaining.textContent = String(queue.length - index);
         locked = false;
       }
@@ -603,6 +702,7 @@ const jsLabels = {
         elWrong.textContent = String(wrong);
         elStreak.textContent = String(streak);
         elBest.textContent = String(bestAllTime);
+        updateProgress();
       }
       function recordAnswer(isCorrect) {
         if (isCorrect) {
@@ -651,6 +751,7 @@ const jsLabels = {
             .querySelectorAll('path[data-code="' + cssEscape(q.code) + '"]')
             .forEach((p) => p.classList.add("sq-reveal"));
           questionEl.classList.add("is-wrong");
+          showWrongFeedback(clicked, path);
           recordAnswer(false);
           lastAdvanceTimer = setTimeout(advance, ADVANCE_NG);
         }

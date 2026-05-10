@@ -51,6 +51,13 @@ export interface QuizStatesI18n {
     loading: string;
     finished: string;
   };
+  feedback: {
+    /** Label preceding the clicked-wrong place name. e.g. "クリック:" */
+    clicked: string;
+  };
+  progress: {
+    ariaLabel: string;
+  };
   buttons: {
     skip: string;
     restart: string;
@@ -124,6 +131,8 @@ const T: Record<Language, QuizStatesI18n> = {
       remaining: "残り",
     },
     question: { loading: "読み込み中…", finished: "終了！" },
+    feedback: { clicked: "クリック:" },
+    progress: { ariaLabel: "クイズの進捗" },
     buttons: { skip: "スキップ", restart: "最初から", cta: "クイズに挑戦" },
     summary: {
       titleFmt: (n) => `🎉 全 ${n} 問終了`,
@@ -189,6 +198,8 @@ const T: Record<Language, QuizStatesI18n> = {
     },
     scores: { streak: "Streak", best: "Best", correct: "✓", wrong: "✕", remaining: "Left" },
     question: { loading: "Loading…", finished: "Finished!" },
+    feedback: { clicked: "Clicked:" },
+    progress: { ariaLabel: "Quiz progress" },
     buttons: { skip: "Skip", restart: "Restart", cta: "Try the quiz" },
     summary: {
       titleFmt: (n) => `🎉 Finished all ${n} questions`,
@@ -254,6 +265,8 @@ const T: Record<Language, QuizStatesI18n> = {
     },
     scores: { streak: "Beruntun", best: "Terbaik", correct: "✓", wrong: "✕", remaining: "Tersisa" },
     question: { loading: "Memuat…", finished: "Selesai!" },
+    feedback: { clicked: "Diklik:" },
+    progress: { ariaLabel: "Kemajuan kuis" },
     buttons: { skip: "Lewati", restart: "Mulai ulang", cta: "Coba kuis ini" },
     summary: {
       titleFmt: (n) => `🎉 Selesai ${n} pertanyaan`,
@@ -319,6 +332,8 @@ const T: Record<Language, QuizStatesI18n> = {
     },
     scores: { streak: "Racha", best: "Mejor", correct: "✓", wrong: "✕", remaining: "Restantes" },
     question: { loading: "Cargando…", finished: "¡Terminado!" },
+    feedback: { clicked: "Clic:" },
+    progress: { ariaLabel: "Progreso del quiz" },
     buttons: { skip: "Saltar", restart: "Reiniciar", cta: "Probar el quiz" },
     summary: {
       titleFmt: (n) => `🎉 Terminadas ${n} preguntas`,
@@ -384,6 +399,8 @@ const T: Record<Language, QuizStatesI18n> = {
     },
     scores: { streak: "Sequência", best: "Melhor", correct: "✓", wrong: "✕", remaining: "Restantes" },
     question: { loading: "Carregando…", finished: "Concluído!" },
+    feedback: { clicked: "Clicado:" },
+    progress: { ariaLabel: "Progresso do quiz" },
     buttons: { skip: "Pular", restart: "Reiniciar", cta: "Tente o quiz" },
     summary: {
       titleFmt: (n) => `🎉 Concluídas ${n} perguntas`,
