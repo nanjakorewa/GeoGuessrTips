@@ -1,0 +1,60 @@
+/** Top ~35 Pakistani cities ordered by population (~thousands). */
+import type { CityEntry, CityCountryMeta, CityProjection } from "./_types";
+
+export const PAKISTAN_CITIES: CityEntry[] = [
+  { id: "karachi",       nameJa: "カラチ",             nameEn: "Karachi",         lat: 24.8607, lng: 67.0011, pop: 16459 },
+  { id: "lahore",        nameJa: "ラホール",           nameEn: "Lahore",          lat: 31.5497, lng: 74.3436, pop: 13095 },
+  { id: "faisalabad",    nameJa: "ファイサラーバード", nameEn: "Faisalabad",      lat: 31.4504, lng: 73.1350, pop: 3677 },
+  { id: "rawalpindi",    nameJa: "ラーワルピンディー", nameEn: "Rawalpindi",      lat: 33.5651, lng: 73.0169, pop: 2230 },
+  { id: "gujranwala",    nameJa: "グジュラーンワーラー", nameEn: "Gujranwala",    lat: 32.1877, lng: 74.1945, pop: 2027 },
+  { id: "peshawar",      nameJa: "ペシャワール",       nameEn: "Peshawar",        lat: 34.0151, lng: 71.5249, pop: 1970 },
+  { id: "multan",        nameJa: "ムルターン",         nameEn: "Multan",          lat: 30.1575, lng: 71.5249, pop: 1872 },
+  { id: "hyderabad-pk",  nameJa: "ハイダラーバード",   nameEn: "Hyderabad",       lat: 25.3960, lng: 68.3578, pop: 1734 },
+  { id: "islamabad",     nameJa: "イスラマバード",     nameEn: "Islamabad",       lat: 33.6844, lng: 73.0479, pop: 1015 },
+  { id: "quetta",        nameJa: "クエッタ",           nameEn: "Quetta",          lat: 30.1798, lng: 66.9750, pop: 1001 },
+  { id: "bahawalpur",    nameJa: "バハーワルプル",     nameEn: "Bahawalpur",      lat: 29.3956, lng: 71.6722, pop: 762 },
+  { id: "sargodha",      nameJa: "サルゴーダー",       nameEn: "Sargodha",        lat: 32.0836, lng: 72.6711, pop: 659 },
+  { id: "sialkot",       nameJa: "シヤールコート",     nameEn: "Sialkot",         lat: 32.4945, lng: 74.5229, pop: 656 },
+  { id: "sukkur",        nameJa: "サッカル",           nameEn: "Sukkur",          lat: 27.7052, lng: 68.8574, pop: 499 },
+  { id: "larkana",       nameJa: "ラールカーナー",     nameEn: "Larkana",         lat: 27.5588, lng: 68.2120, pop: 491 },
+  { id: "sheikhupura",   nameJa: "シェイクプラ",       nameEn: "Sheikhupura",     lat: 31.7167, lng: 73.9850, pop: 473 },
+  { id: "rahim-yar-khan", nameJa: "ラヒーム・ヤール・ハーン", nameEn: "Rahim Yar Khan", lat: 28.4202, lng: 70.2952, pop: 421 },
+  { id: "jhang",         nameJa: "ジャング",           nameEn: "Jhang",           lat: 31.2781, lng: 72.3317, pop: 414 },
+  { id: "gujrat",        nameJa: "グジラート",         nameEn: "Gujrat",          lat: 32.5736, lng: 74.0789, pop: 391 },
+  { id: "mardan",        nameJa: "マルダーン",         nameEn: "Mardan",          lat: 34.1985, lng: 72.0445, pop: 358 },
+  { id: "kasur",         nameJa: "カスール",           nameEn: "Kasur",           lat: 31.1156, lng: 74.4495, pop: 358 },
+  { id: "dera-ghazi-khan", nameJa: "デーラ・ガーズィー・ハーン", nameEn: "Dera Ghazi Khan", lat: 30.0561, lng: 70.6403, pop: 339 },
+  { id: "saidu-sharif",  nameJa: "サイドゥ・シャリフ", nameEn: "Saidu Sharif",    lat: 34.7461, lng: 72.3611, pop: 322 },
+  { id: "nawabshah",     nameJa: "ナワーブシャー",     nameEn: "Nawabshah",       lat: 26.2389, lng: 68.4081, pop: 280 },
+  { id: "okara",         nameJa: "オーカーラー",       nameEn: "Okara",           lat: 30.8088, lng: 73.4534, pop: 240 },
+  { id: "mirpur-khas",   nameJa: "ミールプル・ハース", nameEn: "Mirpur Khas",     lat: 25.5276, lng: 69.0119, pop: 234 },
+  { id: "chiniot",       nameJa: "チニオート",         nameEn: "Chiniot",         lat: 31.7200, lng: 72.9789, pop: 278 },
+  { id: "kamoke",        nameJa: "カモーケー",         nameEn: "Kamoke",          lat: 31.9742, lng: 74.2244, pop: 250 },
+  { id: "sadiqabad",     nameJa: "サーディクアーバード", nameEn: "Sadiqabad",     lat: 28.3094, lng: 70.1294, pop: 240 },
+  { id: "burewala",      nameJa: "ブレーワーラー",     nameEn: "Burewala",        lat: 30.1681, lng: 72.6500, pop: 237 },
+  { id: "jacobabad",     nameJa: "ジャコバーバード",   nameEn: "Jacobabad",       lat: 28.2825, lng: 68.4375, pop: 200 },
+  { id: "mingora",       nameJa: "ミンゴーラ",         nameEn: "Mingora",         lat: 34.7717, lng: 72.3608, pop: 332 },
+  { id: "abbottabad",    nameJa: "アボッターバード",   nameEn: "Abbottabad",      lat: 34.1688, lng: 73.2215, pop: 184 },
+  { id: "muzaffargarh",  nameJa: "ムザッファルガル",   nameEn: "Muzaffargarh",    lat: 30.0719, lng: 71.1936, pop: 189 },
+  { id: "kotri",         nameJa: "コートリー",         nameEn: "Kotri",           lat: 25.3667, lng: 68.3083, pop: 230 },
+  { id: "tando-allahyar", nameJa: "タンドー・アッラーヤール", nameEn: "Tando Allahyar", lat: 25.4604, lng: 68.7172, pop: 153 },
+];
+
+export const PAKISTAN_PROJECTION: CityProjection = {
+  minLon: 60.844379,
+  minLat: 23.694525,
+  maxLon: 77.048971,
+  maxLat: 37.054484,
+  cosLat: 0.862739,
+  scale: 38.911815,
+  offX: 8,
+  offY: 60.069873,
+};
+
+export const PAKISTAN_META: CityCountryMeta = {
+  slug: "pakistan",
+  continent: "asia",
+  svgPath: "/maps/countries/pakistan.svg",
+  countryJa: "パキスタン",
+  countryEn: "Pakistan",
+};

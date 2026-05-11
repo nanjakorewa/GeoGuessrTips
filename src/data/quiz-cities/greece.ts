@@ -1,0 +1,60 @@
+/** Top ~35 Greek cities ordered by population (~thousands). */
+import type { CityEntry, CityCountryMeta, CityProjection } from "./_types";
+
+export const GREECE_CITIES: CityEntry[] = [
+  { id: "athens",        nameJa: "アテネ",             nameEn: "Athens",          lat: 37.9838, lng: 23.7275, pop: 664 },
+  { id: "thessaloniki",  nameJa: "テッサロニキ",       nameEn: "Thessaloniki",    lat: 40.6401, lng: 22.9444, pop: 325 },
+  { id: "patras",        nameJa: "パトラ",             nameEn: "Patras",          lat: 38.2466, lng: 21.7346, pop: 215 },
+  { id: "piraeus",       nameJa: "ピレウス",           nameEn: "Piraeus",         lat: 37.9420, lng: 23.6464, pop: 163 },
+  { id: "larissa",       nameJa: "ラリサ",             nameEn: "Larissa",         lat: 39.6390, lng: 22.4192, pop: 145 },
+  { id: "heraklion",     nameJa: "イラクリオン",       nameEn: "Heraklion",       lat: 35.3387, lng: 25.1442, pop: 140 },
+  { id: "peristeri",     nameJa: "ペリステリ",         nameEn: "Peristeri",       lat: 38.0150, lng: 23.6917, pop: 138 },
+  { id: "kallithea",     nameJa: "カリテア",           nameEn: "Kallithea",       lat: 37.9509, lng: 23.7028, pop: 100 },
+  { id: "acharnes",      nameJa: "アハルネス",         nameEn: "Acharnes",        lat: 38.0833, lng: 23.7333, pop: 99 },
+  { id: "kalamaria",     nameJa: "カラマリア",         nameEn: "Kalamaria",       lat: 40.5868, lng: 22.9498, pop: 91 },
+  { id: "nikaia",        nameJa: "ニケア",             nameEn: "Nikaia",          lat: 37.9667, lng: 23.6500, pop: 89 },
+  { id: "glyfada",       nameJa: "グリファダ",         nameEn: "Glyfada",         lat: 37.8633, lng: 23.7560, pop: 87 },
+  { id: "volos",         nameJa: "ヴォロス",           nameEn: "Volos",           lat: 39.3661, lng: 22.9426, pop: 86 },
+  { id: "ilio",          nameJa: "イリオン",           nameEn: "Ilion",           lat: 38.0317, lng: 23.7000, pop: 84 },
+  { id: "ilioupoli",     nameJa: "イリオウポリ",       nameEn: "Ilioupoli",       lat: 37.9300, lng: 23.7600, pop: 78 },
+  { id: "keratsini",     nameJa: "ケラツィニ",         nameEn: "Keratsini",       lat: 37.9637, lng: 23.6184, pop: 77 },
+  { id: "evosmos",       nameJa: "エヴォスモス",       nameEn: "Evosmos",         lat: 40.6741, lng: 22.9100, pop: 74 },
+  { id: "chalandri",     nameJa: "ハランドリ",         nameEn: "Chalandri",       lat: 38.0192, lng: 23.8000, pop: 74 },
+  { id: "marousi",       nameJa: "マルーシ",           nameEn: "Marousi",         lat: 38.0567, lng: 23.8055, pop: 73 },
+  { id: "rhodes",        nameJa: "ロドス",             nameEn: "Rhodes",          lat: 36.4341, lng: 28.2176, pop: 73 },
+  { id: "ioannina",      nameJa: "イオアニナ",         nameEn: "Ioannina",        lat: 39.6650, lng: 20.8537, pop: 65 },
+  { id: "chania",        nameJa: "ハニア",             nameEn: "Chania",          lat: 35.5138, lng: 24.0180, pop: 54 },
+  { id: "chalkida",      nameJa: "ハルキダ",           nameEn: "Chalkida",        lat: 38.4634, lng: 23.6024, pop: 65 },
+  { id: "agrinio",       nameJa: "アグリニオ",         nameEn: "Agrinio",         lat: 38.6217, lng: 21.4079, pop: 60 },
+  { id: "katerini",      nameJa: "カテリニ",           nameEn: "Katerini",        lat: 40.2716, lng: 22.5028, pop: 58 },
+  { id: "trikala",       nameJa: "トリカラ",           nameEn: "Trikala",         lat: 39.5557, lng: 21.7677, pop: 62 },
+  { id: "serres",        nameJa: "セレス",             nameEn: "Serres",          lat: 41.0856, lng: 23.5483, pop: 58 },
+  { id: "alexandroupoli", nameJa: "アレクサンドルポリ", nameEn: "Alexandroupoli", lat: 40.8425, lng: 25.8742, pop: 57 },
+  { id: "xanthi",        nameJa: "クサンティ",         nameEn: "Xanthi",          lat: 41.1413, lng: 24.8881, pop: 56 },
+  { id: "kalamata",      nameJa: "カラマタ",           nameEn: "Kalamata",        lat: 37.0388, lng: 22.1142, pop: 54 },
+  { id: "kavala",        nameJa: "カヴァラ",           nameEn: "Kavala",          lat: 40.9396, lng: 24.4124, pop: 54 },
+  { id: "kozani",        nameJa: "コザニ",             nameEn: "Kozani",          lat: 40.3015, lng: 21.7891, pop: 41 },
+  { id: "veria",         nameJa: "ヴェリア",           nameEn: "Veria",           lat: 40.5236, lng: 22.2034, pop: 43 },
+  { id: "drama",         nameJa: "ドラマ",             nameEn: "Drama",           lat: 41.1532, lng: 24.1473, pop: 44 },
+  { id: "komotini",      nameJa: "コモティニ",         nameEn: "Komotini",        lat: 41.1199, lng: 25.4068, pop: 50 },
+  { id: "lamia",         nameJa: "ラミア",             nameEn: "Lamia",           lat: 38.8975, lng: 22.4337, pop: 52 },
+];
+
+export const GREECE_PROJECTION: CityProjection = {
+  minLon: 19.626475,
+  minLat: 34.815009,
+  maxLon: 28.239757,
+  maxLat: 41.750476,
+  cosLat: 0.784963,
+  scale: 80.460187,
+  offX: 8,
+  offY: 40.985512,
+};
+
+export const GREECE_META: CityCountryMeta = {
+  slug: "greece",
+  continent: "europe",
+  svgPath: "/maps/countries/greece.svg",
+  countryJa: "ギリシャ",
+  countryEn: "Greece",
+};
