@@ -61,12 +61,22 @@ const jsLabels = {
   loading: t.question.loading,
   finished: t.question.finished,
   clicked: t.feedback.clicked,
+  memorizePrompt: t.memorize.prompt,
+  memorizeHint: t.memorize.hint,
+  memorizeEmpty: t.memorize.emptyName,
+  defaultPrompt: prompt,
   summaryTitleFmt: t.summary.titleFmt(0).replace(/0/, "{n}"),
   summaryCorrect: t.summary.correct,
   summaryBestThis: t.summary.bestThisRound,
   summaryBestAll: t.summary.bestAll,
   summaryQuestionsSuffix: t.summary.questionsSuffix,
 };
+
+// Description text for SEO content section
+const seoDescription = t.description.textFmt(pageH1, quizStates.length);
+const seoNames = quizStates
+  .map((s) => s.name)
+  .join(lang === "ja" ? "、" : ", ");
 ---
 
 <!DOCTYPE html>
@@ -364,6 +374,59 @@ const jsLabels = {
       border-color: #1f4d80;
     }
     .sq-btn--primary:hover { background: #163a63; }
+    /* Memorize/study mode toggle — outlined when off, filled amber when on. */
+    .sq-btn--memorize {
+      border-color: #d6b878;
+      color: #92670f;
+    }
+    .sq-btn--memorize:hover { background: #fff4dc; border-color: #c89f3d; }
+    .sq-btn--memorize.is-active {
+      background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+      color: #fff;
+      border-color: #d97706;
+      box-shadow: 0 2px 6px rgba(217, 119, 6, 0.25);
+    }
+    .sq-btn--memorize.is-active:hover {
+      background: linear-gradient(135deg, #ea8c00 0%, #c2680a 100%);
+    }
+
+    /* Memorize-mode visual state: question card stays neutral, no flashes. */
+    .sq-question.is-memorize {
+      background: linear-gradient(135deg, rgba(245,158,11,0.10), rgba(245,158,11,0.04));
+      border-color: rgba(245,158,11,0.45);
+    }
+    .sq-memorize-hint {
+      font-size: 0.72rem;
+      color: #6b7a8d;
+      margin-top: 0.35rem;
+      letter-spacing: 0.02em;
+      display: none;
+    }
+    .sq-question.is-memorize .sq-memorize-hint { display: block; }
+
+    /* SEO content area: name list + description below the action buttons.
+       Intentionally muted — fonts small, neutral color — so it stays out of
+       the quiz UI's way but is still indexable for search. */
+    .sq-content {
+      margin-top: 1.6rem;
+      padding-top: 1rem;
+      border-top: 1px dashed #e1e6ec;
+      font-size: 0.78rem;
+      color: #4a5568;
+      line-height: 1.75;
+    }
+    .sq-content__section + .sq-content__section { margin-top: 0.9rem; }
+    .sq-content__title {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: #1f3a5c;
+      margin: 0 0 0.25rem;
+    }
+    .sq-content__names {
+      color: #6b7a8d;
+      word-break: break-word;
+    }
+    .sq-content__desc { color: #6b7a8d; margin: 0; }
 
     .sq-summary {
       text-align: center;
@@ -438,9 +501,10 @@ const jsLabels = {
           </div>
 
           <div class="sq-question" id="sq-question">
-            <div class="sq-prompt">{prompt}</div>
+            <div class="sq-prompt" id="sq-prompt">{prompt}</div>
             <div class="sq-state-name" id="sq-state-name">{t.question.loading}</div>
             <div class="sq-feedback" id="sq-feedback" hidden></div>
+            <div class="sq-memorize-hint">{t.memorize.hint}</div>
           </div>
 
           <div class="sq-map-wrap" id="sq-map-wrap">
@@ -455,6 +519,7 @@ const jsLabels = {
           <div class="sq-actions">
             <button class="sq-btn" id="sq-skip" type="button">{t.buttons.skip}</button>
             <button class="sq-btn sq-btn--primary" id="sq-restart" type="button">{t.buttons.restart}</button>
+            <button class="sq-btn sq-btn--memorize" id="sq-memorize" type="button" aria-pressed="false">{t.buttons.memorize}</button>
           </div>
 
           <div class="sq-summary" id="sq-summary" hidden>
@@ -462,6 +527,16 @@ const jsLabels = {
             <p class="sq-summary__line">{t.summary.correct}: <strong id="sq-summary-correct">0</strong></p>
             <p class="sq-summary__line">{t.summary.bestThisRound}: <strong id="sq-summary-best-this">0</strong> {t.summary.questionsSuffix}</p>
             <p class="sq-summary__line">{t.summary.bestAll}: <strong id="sq-summary-best-all">0</strong> {t.summary.questionsSuffix}</p>
+          </div>
+
+          <div class="sq-content" aria-label={t.list.title}>
+            <section class="sq-content__section">
+              <h2 class="sq-content__title">{t.list.title} ({quizStates.length})</h2>
+              <p class="sq-content__names">{seoNames}</p>
+            </section>
+            <section class="sq-content__section">
+              <p class="sq-content__desc">{seoDescription}</p>
+            </section>
           </div>
         </div>
       </div>
@@ -482,9 +557,11 @@ const jsLabels = {
       const page = $("sq-page");
       const map = $("sq-map");
       const mapWrap = $("sq-map-wrap");
+      const promptEl = $("sq-prompt");
       const stateNameEl = $("sq-state-name");
       const questionEl = $("sq-question");
       const feedbackEl = $("sq-feedback");
+      const memorizeBtn = $("sq-memorize");
       const elStreak = $("sq-streak");
       const elBest = $("sq-best");
       const elCorrect = $("sq-correct");
@@ -640,6 +717,9 @@ const jsLabels = {
       let bestThisRound = 0;
       let lastAdvanceTimer = null;
       let locked = false;
+      // Memorize/study mode: when true, clicks don't score and hover/tap
+      // shows the region's name in the state-name slot instead.
+      let memorizeMode = false;
 
       function getBest() {
         const v = parseInt(localStorage.getItem(STORAGE_KEY) || "0", 10);
@@ -724,13 +804,32 @@ const jsLabels = {
       function cssEscape(s) {
         return String(s).replace(/(["\\])/g, "\\$1");
       }
+      function lookupName(path) {
+        if (!path) return "";
+        const code = path.getAttribute("data-code");
+        return (
+          (code && codeToName[code]) ||
+          path.getAttribute("data-name") ||
+          (code || "")
+        );
+      }
+      function showHoveredName(path) {
+        const name = lookupName(path);
+        stateNameEl.textContent = name || LABELS.memorizeEmpty;
+      }
       function handleClick(e) {
         if (suppressNextClick) {
           suppressNextClick = false;
           return;
         }
-        if (locked) return;
         const path = e.target && e.target.closest && e.target.closest("path[data-code]");
+        if (memorizeMode) {
+          // Click in study mode just reveals the name (useful on mobile,
+          // where there's no hover). Never scores.
+          if (path) showHoveredName(path);
+          return;
+        }
+        if (locked) return;
         if (!path) return;
         const clicked = path.getAttribute("data-code");
         const q = queue[index];
@@ -785,6 +884,15 @@ const jsLabels = {
           clearTimeout(lastAdvanceTimer);
           lastAdvanceTimer = null;
         }
+        // Exit memorize mode (without recursing into showQuestion)
+        memorizeMode = false;
+        if (memorizeBtn) {
+          memorizeBtn.classList.remove("is-active");
+          memorizeBtn.setAttribute("aria-pressed", "false");
+        }
+        questionEl.classList.remove("is-memorize");
+        if (promptEl) promptEl.textContent = LABELS.defaultPrompt;
+
         queue = shuffle(quizStates);
         index = 0;
         correct = 0;
@@ -799,9 +907,45 @@ const jsLabels = {
         showQuestion();
       }
 
+      // ============ Memorize / study mode ============
+      function setMemorizeMode(on) {
+        memorizeMode = !!on;
+        if (memorizeBtn) {
+          memorizeBtn.classList.toggle("is-active", memorizeMode);
+          memorizeBtn.setAttribute("aria-pressed", memorizeMode ? "true" : "false");
+        }
+        if (memorizeMode) {
+          if (lastAdvanceTimer) { clearTimeout(lastAdvanceTimer); lastAdvanceTimer = null; }
+          questionEl.classList.add("is-memorize");
+          questionEl.classList.remove("is-correct", "is-wrong");
+          clearMapClasses();
+          clearFeedback();
+          if (promptEl) promptEl.textContent = LABELS.memorizePrompt;
+          stateNameEl.textContent = LABELS.memorizeEmpty;
+        } else {
+          questionEl.classList.remove("is-memorize");
+          if (promptEl) promptEl.textContent = LABELS.defaultPrompt;
+          // Resume current question (or finish state) without changing score
+          if (page.classList.contains("is-finished")) {
+            stateNameEl.textContent = LABELS.finished;
+          } else {
+            showQuestion();
+          }
+        }
+      }
+      function toggleMemorize() { setMemorizeMode(!memorizeMode); }
+
+      // Hover-to-preview (desktop). Mobile uses tap → handled in handleClick.
+      map.addEventListener("mouseover", (e) => {
+        if (!memorizeMode) return;
+        const path = e.target && e.target.closest && e.target.closest("path[data-code]");
+        if (path) showHoveredName(path);
+      });
+
       map.addEventListener("click", handleClick);
       $("sq-skip").addEventListener("click", skipCurrent);
       $("sq-restart").addEventListener("click", restart);
+      if (memorizeBtn) memorizeBtn.addEventListener("click", toggleMemorize);
       restart();
     })();
   </script>

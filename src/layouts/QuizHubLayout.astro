@@ -110,6 +110,21 @@ if (lang === "ja") {
     diffs: [0, 0, 0, 0],
   });
 
+  // 都市当てクイズ: count countries that have a city-quiz registry entry.
+  const { CITY_QUIZ_REGISTRY } = await import("../data/quiz-cities-registry");
+  const cityCountryCount = Object.keys(CITY_QUIZ_REGISTRY).length;
+  groups.push({
+    title: "都市当てクイズ",
+    description:
+      "地図上のオレンジ色のピンに対応する都市名カードを選ぶクイズ。世界各国の主要都市の位置を覚えよう。",
+    icon: "📍",
+    image: undefined,
+    url: "/quiz/cities/",
+    count: cityCountryCount,
+    unit: "か国",
+    diffs: [0, 0, 0, 0],
+  });
+
   const municipalityCount = Object.values(municipalitiesData as Record<string, string[]>)
     .reduce((acc, prs) => acc + prs.length, 0);
   groups.push({

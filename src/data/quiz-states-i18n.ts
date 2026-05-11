@@ -62,6 +62,23 @@ export interface QuizStatesI18n {
     skip: string;
     restart: string;
     cta: string;        // "クイズに挑戦"
+    memorize: string;   // "暗記モード"
+  };
+  memorize: {
+    /** Prompt shown in the question card while memorize mode is on. */
+    prompt: string;
+    /** Hint subtitle inside the question card, explaining the mode. */
+    hint: string;
+    /** Empty placeholder when nothing is hovered yet. */
+    emptyName: string;
+  };
+  list: {
+    /** Title above the SEO list of all quizable places, e.g. "出題地名一覧". */
+    title: string;
+  };
+  description: {
+    /** Generic page description, gets the page H1 + count of items. */
+    textFmt: (h1: string, count: number) => string;
   };
   summary: {
     titleFmt: (total: number) => string;
@@ -133,7 +150,17 @@ const T: Record<Language, QuizStatesI18n> = {
     question: { loading: "読み込み中…", finished: "終了！" },
     feedback: { clicked: "クリック:" },
     progress: { ariaLabel: "クイズの進捗" },
-    buttons: { skip: "スキップ", restart: "最初から", cta: "クイズに挑戦" },
+    buttons: { skip: "スキップ", restart: "最初から", cta: "クイズに挑戦", memorize: "暗記モード" },
+    memorize: {
+      prompt: "暗記モード",
+      hint: "マップ上の地域にカーソルを合わせる（スマホはタップ）と名称が表示されます",
+      emptyName: "—",
+    },
+    list: { title: "このクイズで出題される地名一覧" },
+    description: {
+      textFmt: (h1, n) =>
+        `「${h1}」のページです。地図上に表示される${n}件の地名がランダムに出題され、正しい場所をクリックして答えます。`,
+    },
     summary: {
       titleFmt: (n) => `🎉 全 ${n} 問終了`,
       correct: "正解",
@@ -200,7 +227,17 @@ const T: Record<Language, QuizStatesI18n> = {
     question: { loading: "Loading…", finished: "Finished!" },
     feedback: { clicked: "Clicked:" },
     progress: { ariaLabel: "Quiz progress" },
-    buttons: { skip: "Skip", restart: "Restart", cta: "Try the quiz" },
+    buttons: { skip: "Skip", restart: "Restart", cta: "Try the quiz", memorize: "Study mode" },
+    memorize: {
+      prompt: "Study mode",
+      hint: "Hover over a region (or tap on mobile) to see its name.",
+      emptyName: "—",
+    },
+    list: { title: "All places that can appear in this quiz" },
+    description: {
+      textFmt: (h1, n) =>
+        `${h1} — click the correct place on the map for each of the ${n} prompts in random order. Track your best streak and study the names interactively.`,
+    },
     summary: {
       titleFmt: (n) => `🎉 Finished all ${n} questions`,
       correct: "Correct",
@@ -267,7 +304,17 @@ const T: Record<Language, QuizStatesI18n> = {
     question: { loading: "Memuat…", finished: "Selesai!" },
     feedback: { clicked: "Diklik:" },
     progress: { ariaLabel: "Kemajuan kuis" },
-    buttons: { skip: "Lewati", restart: "Mulai ulang", cta: "Coba kuis ini" },
+    buttons: { skip: "Lewati", restart: "Mulai ulang", cta: "Coba kuis ini", memorize: "Mode belajar" },
+    memorize: {
+      prompt: "Mode belajar",
+      hint: "Arahkan kursor (atau ketuk di ponsel) ke wilayah pada peta untuk melihat namanya.",
+      emptyName: "—",
+    },
+    list: { title: "Daftar nama yang muncul dalam kuis ini" },
+    description: {
+      textFmt: (h1, n) =>
+        `${h1} — klik tempat yang benar pada peta untuk masing-masing ${n} pertanyaan acak. Catat beruntun terbaik dan pelajari nama-namanya secara interaktif.`,
+    },
     summary: {
       titleFmt: (n) => `🎉 Selesai ${n} pertanyaan`,
       correct: "Benar",
@@ -334,7 +381,17 @@ const T: Record<Language, QuizStatesI18n> = {
     question: { loading: "Cargando…", finished: "¡Terminado!" },
     feedback: { clicked: "Clic:" },
     progress: { ariaLabel: "Progreso del quiz" },
-    buttons: { skip: "Saltar", restart: "Reiniciar", cta: "Probar el quiz" },
+    buttons: { skip: "Saltar", restart: "Reiniciar", cta: "Probar el quiz", memorize: "Modo estudio" },
+    memorize: {
+      prompt: "Modo estudio",
+      hint: "Pase el cursor (o pulse en móvil) sobre una región del mapa para ver su nombre.",
+      emptyName: "—",
+    },
+    list: { title: "Lista de lugares que aparecen en este quiz" },
+    description: {
+      textFmt: (h1, n) =>
+        `${h1} — haz clic en el lugar correcto del mapa para cada una de las ${n} preguntas en orden aleatorio. Bate tu mejor racha y aprende los nombres de forma interactiva.`,
+    },
     summary: {
       titleFmt: (n) => `🎉 Terminadas ${n} preguntas`,
       correct: "Correctas",
@@ -401,7 +458,17 @@ const T: Record<Language, QuizStatesI18n> = {
     question: { loading: "Carregando…", finished: "Concluído!" },
     feedback: { clicked: "Clicado:" },
     progress: { ariaLabel: "Progresso do quiz" },
-    buttons: { skip: "Pular", restart: "Reiniciar", cta: "Tente o quiz" },
+    buttons: { skip: "Pular", restart: "Reiniciar", cta: "Tente o quiz", memorize: "Modo estudo" },
+    memorize: {
+      prompt: "Modo estudo",
+      hint: "Passe o cursor (ou toque no celular) sobre uma região do mapa para ver o nome.",
+      emptyName: "—",
+    },
+    list: { title: "Lista de lugares que aparecem neste quiz" },
+    description: {
+      textFmt: (h1, n) =>
+        `${h1} — clique no local correto do mapa para cada uma das ${n} perguntas em ordem aleatória. Bata seu melhor recorde e aprenda os nomes de forma interativa.`,
+    },
     summary: {
       titleFmt: (n) => `🎉 Concluídas ${n} perguntas`,
       correct: "Corretas",
