@@ -101,7 +101,8 @@ const jsLabels = {
   promptMemorize: "暗記モード",
   promptMemorizeSub: "ピンまたはカードにカーソルを合わせると（スマホはタップ）対応するものがハイライトされます",
   promptHint: "ヒント有モード",
-  promptHintSub: "ハイライトされている5つのカードから選んでください",
+  promptHintSub: "上の候補から選んでください（5つの候補）",
+  choicesLabel: "候補から選んでください（ヒント有モード）",
   correctPrefix: "正解: ",
   summaryTitleFmt: "🎉 全 {n} 問終了",
 };
@@ -302,24 +303,99 @@ const TIER_LABELS: Record<number, string> = {
       100% { opacity: 1; }
     }
     .cq-pin.is-correct { fill: #4a9e5c; stroke: #fff; stroke-width: 1.5; animation: none; }
-    .cq-pin.is-wrong   { fill: #d35a4d; stroke: #fff; stroke-width: 1.5; animation: none; }
+    /* On wrong answer the correct-answer pin is revealed in gold ("this was the answer") */
+    .cq-pin.is-wrong   { fill: #f59e0b; stroke: #fff; stroke-width: 1.8; animation: cq-pulse 1.0s ease-in-out infinite; }
+    /* The pin the user wrongly clicked is shown in red so they can see where it was */
+    .cq-pin.is-wrong-pick {
+      fill: #d35a4d; stroke: #fff; stroke-width: 1.8; animation: none;
+      r: 11 !important;
+    }
     .cq-pin.is-done    { fill: #b6c1cf; stroke: #fff; }
     .cq-pin.is-preview { fill: #f59e0b; stroke: #fff; stroke-width: 1.5; animation: none; }
     .cq-map-wrap.is-memorize .cq-pin { cursor: pointer; }
 
+    /* ===== Choice area (5 large candidate buttons shown in hint mode) =====
+       Placed directly below the map so the user does not need to scroll
+       through the full city list to answer. */
+    .cq-choices {
+      display: none; /* shown when hint mode is on (toggled via .is-active) */
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 0.55rem;
+      margin-top: 0.7rem;
+      padding: 0.75rem;
+      background: linear-gradient(135deg, rgba(74,158,92,0.10), rgba(74,158,92,0.03));
+      border: 1px solid rgba(74,158,92,0.35);
+    }
+    .cq-choices.is-active { display: grid; }
+    .cq-choices__label {
+      grid-column: 1 / -1;
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: #2c6f3c;
+      letter-spacing: 0.03em;
+      margin: 0;
+    }
+    .cq-choice {
+      background: #fff;
+      border: 2px solid #a8d2b1;
+      color: #1f3a5c;
+      font-weight: 700;
+      font-size: 1rem;
+      padding: 0.85rem 0.7rem;
+      cursor: pointer;
+      text-align: center;
+      transition: background 0.12s, border-color 0.12s, transform 0.1s, box-shadow 0.12s;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.1em;
+      line-height: 1.25;
+      min-height: 56px;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+      touch-action: manipulation;
+    }
+    .cq-choice:hover { background: #eff7f1; border-color: #4a9e5c; }
+    .cq-choice:active { transform: translateY(1px); }
+    .cq-choice__name { font-size: 1rem; font-weight: 800; }
+    .cq-choice__sub { font-size: 0.72rem; font-weight: 500; color: #6b7a8d; }
+    .cq-choice.is-correct { background: #4a9e5c; color: #fff; border-color: #2c6f3c; cursor: default; }
+    .cq-choice.is-wrong   { background: #d35a4d; color: #fff; border-color: #9a2d24; animation: cq-shake 0.35s ease-in-out; }
+    .cq-choice.is-reveal  {
+      background: #ffd082; color: #7a4f10; border-color: #c97a18;
+      animation: cq-reveal-flash 0.7s ease-in-out;
+    }
+    .cq-choice.is-correct .cq-choice__sub,
+    .cq-choice.is-wrong .cq-choice__sub { color: rgba(255,255,255,0.85); }
+    .cq-choice.is-reveal .cq-choice__sub { color: rgba(122,79,16,0.82); }
+
+    /* ===== Main city list / status reference ===== */
     .cq-cards {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
       gap: 0.4rem;
       margin-top: 0.9rem;
     }
+    /* In hint mode the main grid is a compact reference list (not the primary
+       answer interface). Still clickable to answer if the user prefers. */
+    .cq-cards.is-hint {
+      grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+      gap: 0.3rem;
+      opacity: 0.95;
+    }
+    .cq-cards.is-hint .cq-card {
+      font-size: 0.78rem;
+      padding: 0.3rem 0.45rem 0.35rem;
+    }
+    .cq-cards.is-hint .cq-card__name { font-size: 0.8rem; }
+    .cq-cards.is-hint .cq-card__sub { font-size: 0.58rem; }
     .cq-card {
       background: #fff;
       border: 1px solid #d6deea;
       color: #1f3a5c;
       font-weight: 600;
-      font-size: 0.85rem;
-      padding: 0.4rem 0.6rem 0.45rem;
+      font-size: 0.9rem;
+      padding: 0.55rem 0.6rem 0.6rem;
       cursor: pointer;
       text-align: center;
       transition: background 0.12s, border-color 0.12s, transform 0.1s, opacity 0.2s;
@@ -328,11 +404,13 @@ const TIER_LABELS: Record<number, string> = {
       align-items: center;
       gap: 0.05em;
       line-height: 1.25;
+      min-height: 44px;
+      touch-action: manipulation;
     }
     .cq-card.is-hidden { display: none; }
-    .cq-card__name { font-size: 0.88rem; font-weight: 700; }
+    .cq-card__name { font-size: 0.9rem; font-weight: 700; }
     .cq-card__sub {
-      font-size: 0.62rem; font-weight: 400;
+      font-size: 0.65rem; font-weight: 400;
       color: #6b7a8d; letter-spacing: 0.01em;
     }
     .cq-card:hover { background: #eef3f9; border-color: #1f4d80; }
@@ -349,8 +427,7 @@ const TIER_LABELS: Record<number, string> = {
       border-color: #c89f3d;
       color: #92670f;
     }
-    /* Hint mode: non-candidate cards dimmed; candidate cards glow green */
-    .cq-cards.is-hint .cq-card:not(.is-candidate):not(.is-done) { opacity: 0.4; }
+    /* Hint mode: candidate cards glow; non-candidates stay visible (just less prominent) */
     .cq-card.is-candidate {
       border: 2px solid #4a9e5c;
       box-shadow: 0 0 0 1px rgba(74,158,92,0.25);
@@ -464,10 +541,20 @@ const TIER_LABELS: Record<number, string> = {
     .cq-city-table td.cq-pop { text-align: right; color: #6b7a8d; font-variant-numeric: tabular-nums; }
 
     @media (max-width: 700px) {
-      .cq-page { padding: 0.6rem 0.7rem 1rem; }
+      .cq-page { padding: 0.6rem 0.6rem 1rem; }
       .cq-title { font-size: 1.05rem; }
       .cq-stats { font-size: 0.78rem; gap: 0.3rem; }
       .cq-city-table { font-size: 0.72rem; }
+      /* Larger tap targets on mobile */
+      .cq-choices { padding: 0.6rem; gap: 0.5rem; grid-template-columns: repeat(2, 1fr); }
+      .cq-choice { min-height: 60px; font-size: 1rem; padding: 0.75rem 0.5rem; }
+      .cq-choice__name { font-size: 0.95rem; }
+      .cq-cards { gap: 0.35rem; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); }
+      .cq-cards.is-hint { grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); gap: 0.25rem; }
+      .cq-card { min-height: 46px; padding: 0.5rem 0.45rem; }
+      .cq-btn { padding: 0.55em 1em; font-size: 0.88rem; }
+      .cq-diff-btn { padding: 0.45em 0.7em; }
+      #cq-map { max-height: 55vh; }
     }
   </style>
 </head>
@@ -530,6 +617,10 @@ const TIER_LABELS: Record<number, string> = {
 
           <div class="cq-map-wrap" id="cq-map-wrap">
             <Fragment set:html={inlinedSvg} />
+          </div>
+
+          <div class="cq-choices is-active" id="cq-choices" aria-label="回答候補">
+            <p class="cq-choices__label">候補から選んでください（ヒント有モード）</p>
           </div>
 
           <div class="cq-cards is-hint" id="cq-cards">
@@ -607,6 +698,7 @@ const TIER_LABELS: Record<number, string> = {
       const $ = (id) => document.getElementById(id);
       const page = $("cq-page");
       const cardsEl = $("cq-cards");
+      const choicesEl = $("cq-choices");
       const promptRow = $("cq-prompt-row");
       const promptEl = $("cq-prompt");
       const promptSubEl = $("cq-prompt-sub");
@@ -744,26 +836,59 @@ const TIER_LABELS: Record<number, string> = {
           c.classList.remove("is-wrong", "is-reveal");
         });
       }
+      function clearWrongPickPin() {
+        Object.values(pinByCode).forEach((p) => p.classList.remove("is-wrong-pick"));
+      }
       function clearHintHighlight() {
         cardsEl.querySelectorAll(".cq-card.is-candidate").forEach((c) => c.classList.remove("is-candidate"));
       }
+      function clearChoices() {
+        // Drop everything except the static label child
+        Array.from(choicesEl.querySelectorAll(".cq-choice")).forEach((b) => b.remove());
+      }
+      function buildChoices(candidateIds) {
+        clearChoices();
+        candidateIds.forEach((id) => {
+          const c = cities.find((x) => x.id === id);
+          if (!c) return;
+          const btn = document.createElement("button");
+          btn.type = "button";
+          btn.className = "cq-choice";
+          btn.setAttribute("data-id", id);
+          const nameEl = document.createElement("span");
+          nameEl.className = "cq-choice__name";
+          nameEl.textContent = c.name;
+          btn.appendChild(nameEl);
+          if (c.sub) {
+            const sub = document.createElement("span");
+            sub.className = "cq-choice__sub";
+            sub.setAttribute("lang", "en");
+            sub.textContent = c.sub;
+            btn.appendChild(sub);
+          }
+          choicesEl.appendChild(btn);
+        });
+      }
       function applyHintForCurrent() {
         clearHintHighlight();
+        clearChoices();
         if (!hintMode) return;
         const q = queue[index];
         if (!q) return;
-        const pool = activePoolIds().filter((id) => id !== q && !cardByCode[id].classList.contains("is-done"));
+        const pool = activePoolIds().filter((id) => id !== q && cardByCode[id] && !cardByCode[id].classList.contains("is-done"));
         const distractors = shuffle(pool).slice(0, HINT_CANDIDATE_COUNT - 1);
         const candidates = shuffle([q, ...distractors]);
         candidates.forEach((id) => {
           if (cardByCode[id]) cardByCode[id].classList.add("is-candidate");
         });
+        buildChoices(candidates);
       }
 
       function showQuestion() {
         if (index >= queue.length) { finish(); return; }
         const q = queue[index];
         clearActivePin();
+        clearWrongPickPin();
         clearCardFeedback();
         clearHintHighlight();
         const pin = pinByCode[q];
@@ -779,12 +904,18 @@ const TIER_LABELS: Record<number, string> = {
         } else {
           if (promptEl) promptEl.textContent = LABELS.promptDefault;
           if (promptSubEl) promptSubEl.textContent = LABELS.promptDefaultSub;
+          clearChoices();
         }
         locked = false;
+      }
+      // Find the choice button (if any) matching a given id.
+      function getChoice(id) {
+        return choicesEl.querySelector('.cq-choice[data-id="' + id + '"]');
       }
       function markDone(id, isCorrect) {
         const pin = pinByCode[id];
         const card = cardByCode[id];
+        const choice = getChoice(id);
         if (pin) {
           pin.classList.remove("is-active");
           pin.classList.add(isCorrect ? "is-correct" : "is-wrong");
@@ -806,6 +937,10 @@ const TIER_LABELS: Record<number, string> = {
               card.classList.remove("is-candidate");
             }, ADVANCE_NG);
           }
+        }
+        if (choice) {
+          // Mirror the green/gold reveal on the choice button so the user sees the result above.
+          choice.classList.add(isCorrect ? "is-correct" : "is-reveal");
         }
       }
       function advance() { index++; showQuestion(); }
@@ -858,6 +993,7 @@ const TIER_LABELS: Record<number, string> = {
           hintBtn.setAttribute("aria-pressed", hintMode ? "true" : "false");
         }
         cardsEl.classList.toggle("is-hint", hintMode);
+        choicesEl.classList.toggle("is-active", hintMode);
         promptRow.classList.toggle("is-hint", hintMode && !memorizeMode);
         if (memorizeMode) return; // memorize already overrides prompt
         if (hintMode) {
@@ -866,6 +1002,7 @@ const TIER_LABELS: Record<number, string> = {
           applyHintForCurrent();
         } else {
           clearHintHighlight();
+          clearChoices();
           if (promptEl) promptEl.textContent = LABELS.promptDefault;
           if (promptSubEl) promptSubEl.textContent = LABELS.promptDefaultSub;
         }
@@ -910,30 +1047,46 @@ const TIER_LABELS: Record<number, string> = {
         }
       });
 
-      // ===== Card click =====
+      // ===== Card / choice click =====
+      // Accept clicks from either the main grid (.cq-card) or the choice area (.cq-choice).
       function handleCardClick(e) {
-        const card = e.target.closest(".cq-card");
-        if (!card) return;
+        const target = e.target.closest(".cq-card, .cq-choice");
+        if (!target) return;
+        const id = target.getAttribute("data-id");
         if (memorizeMode) {
-          previewByCode(card.getAttribute("data-id"));
+          previewByCode(id);
           return;
         }
         if (locked) return;
-        if (card.classList.contains("is-done") || card.classList.contains("is-hidden")) return;
-        const clicked = card.getAttribute("data-id");
+        if (target.classList.contains("is-done") || target.classList.contains("is-hidden")) return;
         const q = queue[index];
         if (!q) return;
 
         locked = true;
-        if (clicked === q) {
-          card.classList.add("is-correct");
+        const isChoice = target.classList.contains("cq-choice");
+        const mirrorCard = !isChoice ? null : cardByCode[id];
+        const mirrorChoice = isChoice ? null : getChoice(id);
+
+        if (id === q) {
+          target.classList.add("is-correct");
+          if (mirrorCard) mirrorCard.classList.add("is-correct");
+          if (mirrorChoice) mirrorChoice.classList.add("is-correct");
           recordAnswer(true);
           markDone(q, true);
           lastAdvanceTimer = setTimeout(advance, ADVANCE_OK);
         } else {
-          card.classList.add("is-wrong");
+          target.classList.add("is-wrong");
+          if (mirrorCard) mirrorCard.classList.add("is-wrong");
+          if (mirrorChoice) mirrorChoice.classList.add("is-wrong");
+          // Reveal the correct answer in both the cards grid and the choices area.
           const correctCard = cardByCode[q];
           if (correctCard) correctCard.classList.add("is-reveal");
+          const correctChoice = getChoice(q);
+          if (correctChoice) correctChoice.classList.add("is-reveal");
+          // Highlight the wrongly-clicked pin in red so the user can see its
+          // location on the map (alongside the gold "is-wrong" reveal pin).
+          const wrongPin = pinByCode[id];
+          if (wrongPin) wrongPin.classList.add("is-wrong-pick");
           if (promptSubEl) promptSubEl.textContent = LABELS.correctPrefix + fullName(q);
           recordAnswer(false);
           markDone(q, false);
@@ -949,6 +1102,8 @@ const TIER_LABELS: Record<number, string> = {
         locked = true;
         const correctCard = cardByCode[q];
         if (correctCard) correctCard.classList.add("is-reveal");
+        const correctChoice = getChoice(q);
+        if (correctChoice) correctChoice.classList.add("is-reveal");
         if (promptSubEl) promptSubEl.textContent = LABELS.correctPrefix + fullName(q);
         recordAnswer(false);
         markDone(q, false);
@@ -967,7 +1122,9 @@ const TIER_LABELS: Record<number, string> = {
         if (promptSubEl) promptSubEl.textContent = LABELS.finished;
         elRemaining.textContent = "0";
         clearActivePin();
+        clearWrongPickPin();
         clearHintHighlight();
+        clearChoices();
       }
 
       function restart() {
@@ -986,11 +1143,12 @@ const TIER_LABELS: Record<number, string> = {
         page.classList.remove("is-finished");
         elSummary.hidden = true;
         Object.values(pinByCode).forEach((p) => {
-          p.classList.remove("is-active", "is-correct", "is-wrong", "is-done", "is-preview");
+          p.classList.remove("is-active", "is-correct", "is-wrong", "is-wrong-pick", "is-done", "is-preview");
         });
         Object.values(cardByCode).forEach((c) => {
           c.classList.remove("is-correct", "is-wrong", "is-reveal", "is-done", "is-preview", "is-candidate");
         });
+        clearChoices();
         applyDifficultyVisibility();
         updateScores();
         showQuestion();
@@ -1010,6 +1168,7 @@ const TIER_LABELS: Record<number, string> = {
       });
 
       cardsEl.addEventListener("click", handleCardClick);
+      choicesEl.addEventListener("click", handleCardClick);
       $("cq-skip").addEventListener("click", skipCurrent);
       $("cq-restart").addEventListener("click", restart);
       if (memorizeBtn) memorizeBtn.addEventListener("click", toggleMemorize);
