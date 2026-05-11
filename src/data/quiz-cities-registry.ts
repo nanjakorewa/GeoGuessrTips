@@ -39,6 +39,14 @@ import { VIETNAM_CITIES,     VIETNAM_PROJECTION,     VIETNAM_META     } from "./
 import { MALAYSIA_CITIES,    MALAYSIA_PROJECTION,    MALAYSIA_META    } from "./quiz-cities/malaysia";
 import { SAUDI_ARABIA_CITIES, SAUDI_ARABIA_PROJECTION, SAUDI_ARABIA_META } from "./quiz-cities/saudi-arabia";
 import { AUSTRALIA_CITIES,   AUSTRALIA_PROJECTION,   AUSTRALIA_META   } from "./quiz-cities/australia";
+import { NEW_ZEALAND_CITIES, NEW_ZEALAND_PROJECTION, NEW_ZEALAND_META } from "./quiz-cities/new-zealand";
+import { SOUTH_AFRICA_CITIES, SOUTH_AFRICA_PROJECTION, SOUTH_AFRICA_META } from "./quiz-cities/south-africa";
+import { EGYPT_CITIES,       EGYPT_PROJECTION,       EGYPT_META       } from "./quiz-cities/egypt";
+import { ARGENTINA_CITIES,   ARGENTINA_PROJECTION,   ARGENTINA_META   } from "./quiz-cities/argentina";
+import { CHILE_CITIES,       CHILE_PROJECTION,       CHILE_META       } from "./quiz-cities/chile";
+import { CANADA_CITIES,      CANADA_PROJECTION,      CANADA_META      } from "./quiz-cities/canada";
+import { COLOMBIA_CITIES,    COLOMBIA_PROJECTION,    COLOMBIA_META    } from "./quiz-cities/colombia";
+import { PERU_CITIES,        PERU_PROJECTION,        PERU_META        } from "./quiz-cities/peru";
 
 export interface CityQuizEntry {
   cities: CityEntry[];
@@ -77,6 +85,14 @@ export const CITY_QUIZ_REGISTRY: Record<string, CityQuizEntry> = {
   malaysia:    { cities: MALAYSIA_CITIES,    projection: MALAYSIA_PROJECTION,    meta: MALAYSIA_META },
   saudiarabia: { cities: SAUDI_ARABIA_CITIES, projection: SAUDI_ARABIA_PROJECTION, meta: SAUDI_ARABIA_META },
   australia:   { cities: AUSTRALIA_CITIES,   projection: AUSTRALIA_PROJECTION,   meta: AUSTRALIA_META },
+  "new-zealand": { cities: NEW_ZEALAND_CITIES, projection: NEW_ZEALAND_PROJECTION, meta: NEW_ZEALAND_META },
+  "south-africa": { cities: SOUTH_AFRICA_CITIES, projection: SOUTH_AFRICA_PROJECTION, meta: SOUTH_AFRICA_META },
+  egypt:       { cities: EGYPT_CITIES,       projection: EGYPT_PROJECTION,       meta: EGYPT_META },
+  argentina:   { cities: ARGENTINA_CITIES,   projection: ARGENTINA_PROJECTION,   meta: ARGENTINA_META },
+  chile:       { cities: CHILE_CITIES,       projection: CHILE_PROJECTION,       meta: CHILE_META },
+  canada:      { cities: CANADA_CITIES,      projection: CANADA_PROJECTION,      meta: CANADA_META },
+  colombia:    { cities: COLOMBIA_CITIES,    projection: COLOMBIA_PROJECTION,    meta: COLOMBIA_META },
+  peru:        { cities: PERU_CITIES,        projection: PERU_PROJECTION,        meta: PERU_META },
 };
 
 export const CITY_QUIZ_SLUGS = Object.keys(CITY_QUIZ_REGISTRY);
