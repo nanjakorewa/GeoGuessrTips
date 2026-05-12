@@ -17,6 +17,131 @@ sc: [
     ["../estonia/", "エストニア"],
     ["../lithuania/", "リトアニア"],
     ]
+municipalities:
+  svg: "/maps/countries/latvia.svg"
+  title:
+    ja: "ラトビアの自治体"
+    en: "Municipalities of Latvia"
+  list:
+    - { code: "LV-084", name: "Rujienas", type: "municipality" }
+    - { code: "LV-060", name: "Mazsalacas", type: "municipality" }
+    - { code: "LV-005", name: "Alojas", type: "municipality" }
+    - { code: "LV-064", name: "Nauksenu", type: "municipality" }
+    - { code: "LV-085", name: "Salacgrivas", type: "municipality" }
+    - { code: "LV-009", name: "Apes", type: "municipality" }
+    - { code: "LV-101", name: "Valkas", type: "municipality" }
+    - { code: "LV-007", name: "Aluksne", type: "municipality" }
+    - { code: "LV-108", name: "Vilakas", type: "municipality" }
+    - { code: "LV-014", name: "Baltinavas", type: "municipality" }
+    - { code: "LV-044", name: "Karsavas", type: "municipality" }
+    - { code: "LV-023", name: "Ciblas", type: "municipality" }
+    - { code: "LV-058", name: "Ludzas", type: "municipality" }
+    - { code: "LV-110", name: "Zilupes", type: "municipality" }
+    - { code: "LV-065", name: "Neretas", type: "municipality" }
+    - { code: "LV-107", name: "Viesites", type: "municipality" }
+    - { code: "LV-105", name: "Vecumnieku", type: "municipality" }
+    - { code: "LV-088", name: "Saldus", type: "municipality" }
+    - { code: "LV-081", name: "Rucavas", type: "municipality" }
+    - { code: "LV-074", name: "Priekules", type: "municipality" }
+    - { code: "LV-100", name: "Vainodes", type: "municipality" }
+    - { code: "LV-010", name: "Auces", type: "municipality" }
+    - { code: "LV-016", name: "Bauska", type: "municipality" }
+    - { code: "LV-098", name: "Tervetes", type: "municipality" }
+    - { code: "LV-JEL", name: "Jelgava", type: "municipality" }
+    - { code: "LV-083", name: "Rundales", type: "municipality" }
+    - { code: "LV-004", name: "Aknistes", type: "municipality" }
+    - { code: "LV-036", name: "Ilukstes", type: "municipality" }
+    - { code: "LV-DGV", name: "Daugavpils", type: "municipality" }
+    - { code: "LV-024", name: "Dagdas", type: "municipality" }
+    - { code: "LV-047", name: "Kraslavas", type: "municipality" }
+    - { code: "LV-066", name: "Nicas", type: "municipality" }
+    - { code: "LV-LPX", name: "Liepāja", type: "municipality" }
+    - { code: "LV-032", name: "Grobinas", type: "municipality" }
+    - { code: "LV-071", name: "Pavilostas", type: "municipality" }
+    - { code: "LV-VEN", name: "Ventspils", type: "municipality" }
+    - { code: "LV-VEN", name: "Ventspils", type: "municipality" }
+    - { code: "LV-027", name: "Dundagas", type: "municipality" }
+    - { code: "LV-079", name: "Rojas", type: "municipality" }
+    - { code: "LV-097", name: "Talsi", type: "municipality" }
+    - { code: "LV-063", name: "Mersraga", type: "municipality" }
+    - { code: "LV-029", name: "Engures", type: "municipality" }
+    - { code: "LV-JUR", name: "Jurmala", type: "municipality" }
+    - { code: "LV-RIX", name: "Riga", type: "municipality" }
+    - { code: "LV-020", name: "Carnikavas", type: "municipality" }
+    - { code: "LV-089", name: "Saulkrastu", type: "municipality" }
+    - { code: "LV-054", name: "Limbaži", type: "municipality" }
+    - { code: "LV-094", name: "Smiltenes", type: "municipality" }
+    - { code: "LV-015", name: "Balvu", type: "municipality" }
+    - { code: "LV-096", name: "Strencu", type: "municipality" }
+    - { code: "LV-017", name: "Beverinas", type: "municipality" }
+    - { code: "LV-019", name: "Burtnieku", type: "municipality" }
+    - { code: "LV-045", name: "Kocenu", type: "municipality" }
+    - { code: "LV-REZ", name: "Rezeknes", type: "municipality" }
+    - { code: "LV-104", name: "Vecpiebalgas", type: "municipality" }
+    - { code: "LV-076", name: "Raunas", type: "municipality" }
+    - { code: "LV-075", name: "Priekulu", type: "municipality" }
+    - { code: "LV-070", name: "Pargaujas", type: "municipality" }
+    - { code: "LV-048", name: "Krimuldas", type: "municipality" }
+    - { code: "LV-033", name: "Gulbene", type: "municipality" }
+    - { code: "LV-082", name: "Rugaju", type: "municipality" }
+    - { code: "LV-039", name: "Jaunpiebalgas", type: "municipality" }
+    - { code: "LV-001", name: "Aglonas", type: "municipality" }
+    - { code: "LV-078", name: "Riebinu", type: "municipality" }
+    - { code: "LV-109", name: "Vilanu", type: "municipality" }
+    - { code: "LV-012", name: "Babites", type: "municipality" }
+    - { code: "LV-031", name: "Garkalnes", type: "municipality" }
+    - { code: "LV-052", name: "Kekavas", type: "municipality" }
+    - { code: "LV-062", name: "Marupes", type: "municipality" }
+    - { code: "LV-068", name: "Olaines", type: "municipality" }
+    - { code: "LV-087", name: "Salaspils", type: "municipality" }
+    - { code: "LV-095", name: "Stopinu", type: "municipality" }
+    - { code: "LV-090", name: "Sejas", type: "municipality" }
+    - { code: "LV-061", name: "Malpils", type: "municipality" }
+    - { code: "LV-091", name: "Siguldas", type: "municipality" }
+    - { code: "LV-059", name: "Madona", type: "municipality" }
+    - { code: "LV-057", name: "Lubanas", type: "municipality" }
+    - { code: "LV-102", name: "Varaklanu", type: "municipality" }
+    - { code: "LV-008", name: "Amatas", type: "municipality" }
+    - { code: "LV-030", name: "Erglu", type: "municipality" }
+    - { code: "LV-021", name: "Cesvaines", type: "municipality" }
+    - { code: "LV-067", name: "Ogre", type: "municipality" }
+    - { code: "LV-080", name: "Ropazu", type: "municipality" }
+    - { code: "LV-035", name: "Ikskiles", type: "municipality" }
+    - { code: "LV-013", name: "Baldones", type: "municipality" }
+    - { code: "LV-051", name: "Keguma", type: "municipality" }
+    - { code: "LV-034", name: "Iecavas", type: "municipality" }
+    - { code: "LV-072", name: "Plavinu", type: "municipality" }
+    - { code: "LV-046", name: "Kokneses", type: "municipality" }
+    - { code: "LV-002", name: "Aizkraukles", type: "municipality" }
+    - { code: "LV-092", name: "Skriveru", type: "municipality" }
+    - { code: "LV-053", name: "Lielvardes", type: "municipality" }
+    - { code: "LV-038", name: "Jaunjelgavas", type: "municipality" }
+    - { code: "LV-073", name: "Preilu", type: "municipality" }
+    - { code: "LV-056", name: "Livanu", type: "municipality" }
+    - { code: "LV-103", name: "Varkavas", type: "municipality" }
+    - { code: "LV-JKB", name: "Jekabpils", type: "municipality" }
+    - { code: "LV-049", name: "Krustpils", type: "municipality" }
+    - { code: "LV-086", name: "Salas", type: "municipality" }
+    - { code: "LV-003", name: "Aizputes", type: "municipality" }
+    - { code: "LV-050", name: "Kuldigas", type: "municipality" }
+    - { code: "LV-006", name: "Alsungas", type: "municipality" }
+    - { code: "LV-093", name: "Skrundas", type: "municipality" }
+    - { code: "LV-043", name: "Kandavas", type: "municipality" }
+    - { code: "LV-099", name: "Tukums", type: "municipality" }
+    - { code: "LV-026", name: "Dobele", type: "municipality" }
+    - { code: "LV-040", name: "Jaunpils", type: "municipality" }
+    - { code: "LV-018", name: "Brocenu", type: "municipality" }
+    - { code: "LV-069", name: "Ozolnieku", type: "municipality" }
+    - { code: "LV-JEL", name: "Jelgava", type: "municipality" }
+    - { code: "LV-DGV", name: "Daugavpils", type: "municipality" }
+    - { code: "LV-REZ", name: "Rezekne", type: "municipality" }
+    - { code: "LV-028", name: "Durbes", type: "municipality" }
+    - { code: "LV-037", name: "Incukalna", type: "municipality" }
+    - { code: "LV-011", name: "Ādaži", type: "municipality" }
+    - { code: "LV-VMR", name: "Valmiera", type: "municipality" }
+    - { code: "LV-022", name: "Cesu", type: "municipality" }
+    - { code: "LV-055", name: "Ligatnes", type: "municipality" }
+    - { code: "LV-JKB", name: "Jekabpils", type: "municipality" }
 ---
 
 <div class="main-desciption country-description">

@@ -30,6 +30,20 @@ mapPins:
   - { lat: -0.091, lng: 34.768, label: "キスム", type: "city", note: "ビクトリア湖岸の主要都市" }
   - { lat: -1.500, lng: 35.250, label: "マサイマラ国立保護区", type: "nature", note: "ヌーの大移動で有名な野生動物保護区" }
   - { lat: -0.150, lng: 37.308, label: "ケニア山", type: "nature", note: "アフリカ第2位の高峰（5,199m）" }
+municipalities:
+  svg: "/maps/countries/kenya.svg"
+  title:
+    ja: "ケニアの郡"
+    en: "Counties of Kenya"
+  list:
+    - { code: "KE-700", name: "Rift Valley", type: "county" }
+    - { code: "KE-400", name: "Eastern", type: "county" }
+    - { code: "KE-500", name: "North-Eastern", type: "county" }
+    - { code: "KE-300", name: "Coast", type: "county" }
+    - { code: "KE-600", name: "Nyanza", type: "county" }
+    - { code: "KE-800", name: "Western", type: "county" }
+    - { code: "KE-110", name: "Nairobi", type: "county" }
+    - { code: "KE-200", name: "Central", type: "county" }
 ---
 
 <div class="main-desciption country-description">

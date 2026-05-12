@@ -31,6 +31,205 @@ mapPins:
   - { lat: 45.546, lng: 13.730, label: "ピラン", type: "historical", note: "アドリア海沿いの中世都市" }
   - { lat: 46.222, lng: 13.583, label: "トリグラフ国立公園", type: "nature", note: "ユリアン・アルプスの自然保護区" }
   - { lat: 45.892, lng: 13.730, label: "シュコツィアン洞窟群", type: "nature", note: "世界遺産の鍾乳洞" }
+municipalities:
+  svg: "/maps/countries/slovenia.svg"
+  title:
+    ja: "スロベニアの統計地域"
+    en: "Statistical Regions of Slovenia"
+  list:
+    - { code: "SI-090", name: "Piran", type: "region" }
+    - { code: "SI-078", name: "Moravske Toplice", type: "region" }
+    - { code: "SI-033", name: "Šalovci", type: "region" }
+    - { code: "SI-161", name: "Hodoš", type: "region" }
+    - { code: "SI-031", name: "Gornji Petrovci", type: "region" }
+    - { code: "SI-056", name: "Kuzma", type: "region" }
+    - { code: "SI-059", name: "Lendava", type: "region" }
+    - { code: "SI-156", name: "Dobrovnik", type: "region" }
+    - { code: "SI-047", name: "Kobilje", type: "region" }
+    - { code: "SI-053", name: "Kranjska Gora", type: "region" }
+    - { code: "SI-006", name: "Bovec", type: "region" }
+    - { code: "SI-046", name: "Kobarid", type: "region" }
+    - { code: "SI-128", name: "Tolmin", type: "region" }
+    - { code: "SI-044", name: "Kanal", type: "region" }
+    - { code: "SI-007", name: "Brda", type: "region" }
+    - { code: "SI-084", name: "Nova Goriška", type: "region" }
+    - { code: "SI-183", name: "Šempeter-Vrtojba", type: "region" }
+    - { code: "SI-075", name: "Miren-Kostanjevica", type: "region" }
+    - { code: "SI-049", name: "Komen", type: "region" }
+    - { code: "SI-111", name: "Sežana", type: "region" }
+    - { code: "SI-035", name: "Hrpelje-Kozina", type: "region" }
+    - { code: "SI-050", name: "Koper", type: "region" }
+    - { code: "SI-105", name: "Rogašovci", type: "region" }
+    - { code: "SI-152", name: "Cankova", type: "region" }
+    - { code: "SI-029", name: "Gornja Radgona", type: "region" }
+    - { code: "SI-195", name: "Apace", type: "region" }
+    - { code: "SI-118", name: "Šentilj", type: "region" }
+    - { code: "SI-055", name: "Kungota", type: "region" }
+    - { code: "SI-070", name: "Maribor", type: "region" }
+    - { code: "SI-178", name: "Selnica ob Dravi", type: "region" }
+    - { code: "SI-101", name: "Radlje ob Dravi", type: "region" }
+    - { code: "SI-081", name: "Muta", type: "region" }
+    - { code: "SI-025", name: "Dravograd", type: "region" }
+    - { code: "SI-093", name: "Podvelka", type: "region" }
+    - { code: "SI-103", name: "Ravne na Koroškem", type: "region" }
+    - { code: "SI-175", name: "Prevalje", type: "region" }
+    - { code: "SI-074", name: "Mežica", type: "region" }
+    - { code: "SI-016", name: "Črna na Koroškem", type: "region" }
+    - { code: "SI-131", name: "Tržič", type: "region" }
+    - { code: "SI-192", name: "Žirovnica", type: "region" }
+    - { code: "SI-041", name: "Jesenice", type: "region" }
+    - { code: "SI-180", name: "Solcava", type: "region" }
+    - { code: "SI-163", name: "Jezersko", type: "region" }
+    - { code: "SI-015", name: "Črenšovci", type: "region" }
+    - { code: "SI-063", name: "Ljutomer", type: "region" }
+    - { code: "SI-176", name: "Razkrižje", type: "region" }
+    - { code: "SI-087", name: "Ormož", type: "region" }
+    - { code: "SI-143", name: "Zavrc", type: "region" }
+    - { code: "SI-028", name: "Gorišnica", type: "region" }
+    - { code: "SI-135", name: "Videm", type: "region" }
+    - { code: "SI-172", name: "Podlehnik", type: "region" }
+    - { code: "SI-191", name: "Žetale", type: "region" }
+    - { code: "SI-107", name: "Rogatec", type: "region" }
+    - { code: "SI-106", name: "Rogaška Slatina", type: "region" }
+    - { code: "SI-149", name: "Bistrica ob Sotli", type: "region" }
+    - { code: "SI-092", name: "Podcetrtek", type: "region" }
+    - { code: "SI-009", name: "Brežice", type: "region" }
+    - { code: "SI-054", name: "Krško", type: "region" }
+    - { code: "SI-119", name: "Šentjernej", type: "region" }
+    - { code: "SI-085", name: "Novo Mesto", type: "region" }
+    - { code: "SI-073", name: "Metlika", type: "region" }
+    - { code: "SI-017", name: "Crnomelj", type: "region" }
+    - { code: "SI-048", name: "Kocevje", type: "region" }
+    - { code: "SI-165", name: "Kostel", type: "region" }
+    - { code: "SI-066", name: "Loški Potok", type: "region" }
+    - { code: "SI-065", name: "Loška dolina", type: "region" }
+    - { code: "SI-038", name: "Ilirska Bistrica", type: "region" }
+    - { code: "SI-040", name: "Izola", type: "region" }
+    - { code: "SI-089", name: "Pesnica", type: "region" }
+    - { code: "SI-026", name: "Duplek", type: "region" }
+    - { code: "SI-169", name: "Miklavž na Dravskem polju", type: "region" }
+    - { code: "SI-160", name: "Hoce-Slivnica", type: "region" }
+    - { code: "SI-058", name: "Lenart", type: "region" }
+    - { code: "SI-181", name: "Sveta Ana", type: "region" }
+    - { code: "SI-167", name: "Lovrenc na Pohorju", type: "region" }
+    - { code: "SI-177", name: "Ribnica na Pohorju", type: "region" }
+    - { code: "SI-112", name: "Slovenj Gradec", type: "region" }
+    - { code: "SI-141", name: "Vuzenica", type: "region" }
+    - { code: "SI-095", name: "Preddvor", type: "region" }
+    - { code: "SI-117", name: "Šenčur", type: "region" }
+    - { code: "SI-012", name: "Cerklje na Gorenjskem", type: "region" }
+    - { code: "SI-043", name: "Kamnik", type: "region" }
+    - { code: "SI-071", name: "Medvode", type: "region" }
+    - { code: "SI-052", name: "Kranj", type: "region" }
+    - { code: "SI-122", name: "Škofja Loka", type: "region" }
+    - { code: "SI-146", name: "Železniki", type: "region" }
+    - { code: "SI-004", name: "Bohinj", type: "region" }
+    - { code: "SI-082", name: "Naklo", type: "region" }
+    - { code: "SI-102", name: "Radovljica", type: "region" }
+    - { code: "SI-126", name: "Šoštanj", type: "region" }
+    - { code: "SI-062", name: "Ljubno", type: "region" }
+    - { code: "SI-067", name: "Luce", type: "region" }
+    - { code: "SI-068", name: "Lukovica", type: "region" }
+    - { code: "SI-148", name: "Benedikt", type: "region" }
+    - { code: "SI-057", name: "Laško", type: "region" }
+    - { code: "SI-154", name: "Dobje", type: "region" }
+    - { code: "SI-108", name: "Ruše", type: "region" }
+    - { code: "SI-138", name: "Vodice", type: "region" }
+    - { code: "SI-164", name: "Komenda", type: "region" }
+    - { code: "SI-072", name: "Mengeš", type: "region" }
+    - { code: "SI-140", name: "Vrhnika", type: "region" }
+    - { code: "SI-162", name: "Horjul", type: "region" }
+    - { code: "SI-153", name: "Cerkvenjak", type: "region" }
+    - { code: "SI-186", name: "Trzin", type: "region" }
+    - { code: "SI-097", name: "Puconci", type: "region" }
+    - { code: "SI-158", name: "Grad", type: "region" }
+    - { code: "SI-080", name: "Murska Sobota", type: "region" }
+    - { code: "SI-182", name: "Sveti Andraž v Slovenskih Goricah", type: "region" }
+    - { code: "SI-008", name: "Brezovica", type: "region" }
+    - { code: "SI-021", name: "Dobrova-Polhov Gradec", type: "region" }
+    - { code: "SI-027", name: "Gorenja vas-Poljane", type: "region" }
+    - { code: "SI-064", name: "Logatec", type: "region" }
+    - { code: "SI-185", name: "Trnovska vas", type: "region" }
+    - { code: "SI-018", name: "Destrnik", type: "region" }
+    - { code: "SI-098", name: "Race-Fram", type: "region" }
+    - { code: "SI-115", name: "Starše", type: "region" }
+    - { code: "SI-189", name: "Vransko", type: "region" }
+    - { code: "SI-133", name: "Velenje", type: "region" }
+    - { code: "SI-173", name: "Polzela", type: "region" }
+    - { code: "SI-125", name: "Šmartno ob Paki", type: "region" }
+    - { code: "SI-079", name: "Mozirje", type: "region" }
+    - { code: "SI-137", name: "Vitanje", type: "region" }
+    - { code: "SI-139", name: "Vojnik", type: "region" }
+    - { code: "SI-144", name: "Zrece", type: "region" }
+    - { code: "SI-076", name: "Mislinja", type: "region" }
+    - { code: "SI-05", name: "Zasavska", type: "region" }
+    - { code: "SI-060", name: "Litija", type: "region" }
+    - { code: "SI-030", name: "Gornji Grad", type: "region" }
+    - { code: "SI-013", name: "Cerknica", type: "region" }
+    - { code: "SI-134", name: "Velike Lašče", type: "region" }
+    - { code: "SI-005", name: "Borovnica", type: "region" }
+    - { code: "SI-094", name: "Postojna", type: "region" }
+    - { code: "SI-091", name: "Pivka", type: "region" }
+    - { code: "SI-155", name: "Dobrna", type: "region" }
+    - { code: "SI-011", name: "Celje", type: "region" }
+    - { code: "SI-083", name: "Nazarje", type: "region" }
+    - { code: "SI-023", name: "Domžale", type: "region" }
+    - { code: "SI-039", name: "Ivancna Gorica", type: "region" }
+    - { code: "SI-061", name: "Ljubljana", type: "region" }
+    - { code: "SI-194", name: "Šmartno in Litiji", type: "region" }
+    - { code: "SI-037", name: "Ig", type: "region" }
+    - { code: "SI-022", name: "Dol pri Ljubljani", type: "region" }
+    - { code: "SI-174", name: "Prebold", type: "region" }
+    - { code: "SI-077", name: "Moravce", type: "region" }
+    - { code: "SI-020", name: "Dobrepolje", type: "region" }
+    - { code: "SI-099", name: "Radece", type: "region" }
+    - { code: "SI-127", name: "Štore", type: "region" }
+    - { code: "SI-114", name: "Slovenske Konjice", type: "region" }
+    - { code: "SI-147", name: "Žiri", type: "region" }
+    - { code: "SI-171", name: "Oplotnica", type: "region" }
+    - { code: "SI-014", name: "Cerkno", type: "region" }
+    - { code: "SI-003", name: "Bled", type: "region" }
+    - { code: "SI-001", name: "Ajdovščina", type: "region" }
+    - { code: "SI-019", name: "Divaca", type: "region" }
+    - { code: "SI-036", name: "Idrija", type: "region" }
+    - { code: "SI-136", name: "Vipava", type: "region" }
+    - { code: "SI-150", name: "Bloke", type: "region" }
+    - { code: "SI-120", name: "Šentjur pri Celju", type: "region" }
+    - { code: "SI-051", name: "Kozje", type: "region" }
+    - { code: "SI-124", name: "Šmarje pri Jelšah", type: "region" }
+    - { code: "SI-110", name: "Sevnica", type: "region" }
+    - { code: "SI-170", name: "Mirna Pec", type: "region" }
+    - { code: "SI-130", name: "Trebnje", type: "region" }
+    - { code: "SI-193", name: "Žužemberk", type: "region" }
+    - { code: "SI-132", name: "Turnišče", type: "region" }
+    - { code: "SI-100", name: "Radenci", type: "region" }
+    - { code: "SI-116", name: "Sveti Jurij", type: "region" }
+    - { code: "SI-187", name: "Velika Polana", type: "region" }
+    - { code: "SI-002", name: "Beltinci", type: "region" }
+    - { code: "SI-188", name: "Veržej", type: "region" }
+    - { code: "SI-086", name: "Odranci", type: "region" }
+    - { code: "SI-032", name: "Grosuplje", type: "region" }
+    - { code: "SI-123", name: "Škofljica", type: "region" }
+    - { code: "SI-034", name: "Hrastnik", type: "region" }
+    - { code: "SI-190", name: "Žalec", type: "region" }
+    - { code: "SI-129", name: "Trbovlje", type: "region" }
+    - { code: "SI-151", name: "Braslovce", type: "region" }
+    - { code: "SI-184", name: "Tabor", type: "region" }
+    - { code: "SI-054", name: "Krsko", type: "region" }
+    - { code: "SI-159", name: "Hajdina", type: "region" }
+    - { code: "SI-096", name: "Ptuj", type: "region" }
+    - { code: "SI-069", name: "Majšperk", type: "region" }
+    - { code: "SI-113", name: "Slovenska Bistrica", type: "region" }
+    - { code: "SI-168", name: "Markovci", type: "region" }
+    - { code: "SI-045", name: "Kidricevo", type: "region" }
+    - { code: "SI-024", name: "Dornava", type: "region" }
+    - { code: "SI-166", name: "Križevci", type: "region" }
+    - { code: "SI-042", name: "Juršinci", type: "region" }
+    - { code: "SI-109", name: "Semic", type: "region" }
+    - { code: "SI-157", name: "Dolenjske Toplice", type: "region" }
+    - { code: "SI-179", name: "Sodražica", type: "region" }
+    - { code: "SI-104", name: "Ribnica", type: "region" }
+    - { code: "SI-121", name: "Škocjan", type: "region" }
 ---
 
 <div class="main-desciption country-description">

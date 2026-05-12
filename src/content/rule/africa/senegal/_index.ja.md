@@ -32,6 +32,26 @@ mapPins:
   - { lat: 16.018, lng: -16.500, label: "サンルイ", type: "historical", note: "世界遺産の旧仏領セネガルの首都" }
   - { lat: 12.567, lng: -16.267, label: "ジガンショール", type: "city", note: "南部カザマンス地方の中心都市" }
   - { lat: 14.183, lng: -16.083, label: "シネサルム・デルタ", type: "nature", note: "ユネスコ生物圏保存地域のマングローブデルタ" }
+municipalities:
+  svg: "/maps/countries/senegal.svg"
+  title:
+    ja: "セネガルの州"
+    en: "Regions of Senegal"
+  list:
+    - { code: "SN-KE", name: "Kédougou", type: "region" }
+    - { code: "SN-TC", name: "Tambacounda", type: "region" }
+    - { code: "SN-KD", name: "Kolda", type: "region" }
+    - { code: "SN-SE", name: "Sédhiou", type: "region" }
+    - { code: "SN-ZG", name: "Ziguinchor", type: "region" }
+    - { code: "SN-SL", name: "Saint-Louis", type: "region" }
+    - { code: "SN-MT", name: "Matam", type: "region" }
+    - { code: "SN-KA", name: "Kaffrine", type: "region" }
+    - { code: "SN-KL", name: "Kaolack", type: "region" }
+    - { code: "SN-FK", name: "Fatick", type: "region" }
+    - { code: "SN-LG", name: "Louga", type: "region" }
+    - { code: "SN-TH", name: "Thiès", type: "region" }
+    - { code: "SN-DK", name: "Dakar", type: "region" }
+    - { code: "SN-DB", name: "Diourbel", type: "region" }
 ---
 
 <div class="main-desciption country-description">

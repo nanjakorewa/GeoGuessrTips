@@ -31,6 +31,96 @@ mapPins:
   - { lat: 41.745, lng: 22.197, label: "シュティプ", type: "city", note: "東部の文化都市" }
   - { lat: 41.130, lng: 20.802, label: "オフリド湖", type: "nature", note: "欧州最古級の湖・世界遺産" }
   - { lat: 41.738, lng: 21.711, label: "ヴェレス", type: "city", note: "ヴァルダル川沿いの都市" }
+municipalities:
+  svg: "/maps/countries/macedonia.svg"
+  title:
+    ja: "北マケドニアの行政区分"
+    en: "Administrative Divisions of North Macedonia"
+  list:
+    - { code: "MK-72", name: "Struga", type: "region" }
+    - { code: "MK-78", name: "Centar župa", type: "region" }
+    - { code: "MK-21", name: "Debar", type: "region" }
+    - { code: "MK-50", name: "Mavrovo and Rostusa", type: "region" }
+    - { code: "MK-19", name: "Gostivar", type: "region" }
+    - { code: "MK-12", name: "Vevčani", type: "region" }
+    - { code: "MK-58", name: "Ohrid", type: "region" }
+    - { code: "MK-22", name: "Debarca", type: "region" }
+    - { code: "MK-66", name: "Resen", type: "region" }
+    - { code: "MK-56", name: "Novo Selo", type: "region" }
+    - { code: "MK-26", name: "Dojran", type: "region" }
+    - { code: "MK-10", name: "Valandovo", type: "region" }
+    - { code: "MK-73", name: "Strumitsa", type: "region" }
+    - { code: "MK-05", name: "Bogdanci", type: "region" }
+    - { code: "MK-18", name: "Gevgelija", type: "region" }
+    - { code: "MK-36", name: "Kavadartsi", type: "region" }
+    - { code: "MK-55", name: "Novaci", type: "region" }
+    - { code: "MK-62", name: "Prilep", type: "region" }
+    - { code: "MK-04", name: "Bitola", type: "region" }
+    - { code: "MK-48", name: "Lipkovo", type: "region" }
+    - { code: "MK-82", name: "Čučer Sandevo", type: "region" }
+    - { code: "MK-29", name: "Gjorče Petrov", type: "region" }
+    - { code: "MK-68", name: "Saraj", type: "region" }
+    - { code: "MK-35", name: "Jegunovce", type: "region" }
+    - { code: "MK-75", name: "Tearce", type: "region" }
+    - { code: "MK-76", name: "Tetovo", type: "region" }
+    - { code: "MK-06", name: "Bogovinje", type: "region" }
+    - { code: "MK-16", name: "Vrapcište", type: "region" }
+    - { code: "MK-44", name: "Kriva Palanka", type: "region" }
+    - { code: "MK-65", name: "Rankovce", type: "region" }
+    - { code: "MK-71", name: "Staro Nagoričane", type: "region" }
+    - { code: "MK-47", name: "Kumanovo", type: "region" }
+    - { code: "MK-23", name: "Delčevo", type: "region" }
+    - { code: "MK-51", name: "Makedonska Kamenica", type: "region" }
+    - { code: "MK-03", name: "Berovo", type: "region" }
+    - { code: "MK-60", name: "Pehčevo", type: "region" }
+    - { code: "MK-30", name: "Želino", type: "region" }
+    - { code: "MK-08", name: "Brvenica", type: "region" }
+    - { code: "MK-52", name: "Brod", type: "region" }
+    - { code: "MK-57", name: "Oslomej", type: "region" }
+    - { code: "MK-70", name: "Sopište", type: "region" }
+    - { code: "MK-38", name: "Karpoš", type: "region" }
+    - { code: "MK-84", name: "Šuto Orizari", type: "region" }
+    - { code: "MK-09", name: "Butel", type: "region" }
+    - { code: "MK-79", name: "Čair", type: "region" }
+    - { code: "MK-77", name: "Centar", type: "region" }
+    - { code: "MK-31", name: "Zajas", type: "region" }
+    - { code: "MK-27", name: "Dolneni", type: "region" }
+    - { code: "MK-45", name: "Krivogaštani", type: "region" }
+    - { code: "MK-53", name: "Mogila", type: "region" }
+    - { code: "MK-80", name: "Čaška", type: "region" }
+    - { code: "MK-67", name: "Rosoman", type: "region" }
+    - { code: "MK-54", name: "Negotino", type: "region" }
+    - { code: "MK-28", name: "Drugovo", type: "region" }
+    - { code: "MK-17", name: "Gazi Baba", type: "region" }
+    - { code: "MK-46", name: "Kruševo", type: "region" }
+    - { code: "MK-25", name: "Demir Hisar", type: "region" }
+    - { code: "MK-01", name: "Aerodrom", type: "region" }
+    - { code: "MK-74", name: "Studeničani", type: "region" }
+    - { code: "MK-39", name: "Kisela Voda", type: "region" }
+    - { code: "MK-63", name: "Probištip", type: "region" }
+    - { code: "MK-81", name: "Češinovo-Obleševo", type: "region" }
+    - { code: "MK-02", name: "Aračinovo", type: "region" }
+    - { code: "MK-32", name: "Zelenikovo", type: "region" }
+    - { code: "MK-40", name: "Kičevo", type: "region" }
+    - { code: "MK-61", name: "Plasnica", type: "region" }
+    - { code: "MK-15", name: "Vraneštica", type: "region" }
+    - { code: "MK-85", name: "Skopje", type: "region" }
+    - { code: "MK-49", name: "Lozovo", type: "region" }
+    - { code: "MK-69", name: "Sveti Nikole", type: "region" }
+    - { code: "MK-20", name: "Gradsko", type: "region" }
+    - { code: "MK-43", name: "Kratovo", type: "region" }
+    - { code: "MK-34", name: "Ilinden", type: "region" }
+    - { code: "MK-37", name: "Karbinci", type: "region" }
+    - { code: "MK-83", name: "Štip", type: "region" }
+    - { code: "MK-42", name: "Kočani", type: "region" }
+    - { code: "MK-33", name: "Zrnovci", type: "region" }
+    - { code: "MK-13", name: "Veles", type: "region" }
+    - { code: "MK-24", name: "Demir Kapija", type: "region" }
+    - { code: "MK-14", name: "Vinica", type: "region" }
+    - { code: "MK-07", name: "Bosilovo", type: "region" }
+    - { code: "MK-64", name: "Radoviš", type: "region" }
+    - { code: "MK-11", name: "Vasilevo", type: "region" }
+    - { code: "MK-41", name: "Konče", type: "region" }
 ---
 
 

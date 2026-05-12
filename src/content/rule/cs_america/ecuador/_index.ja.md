@@ -31,6 +31,35 @@ mapPins:
   - { lat: -1.243, lng: -78.617, label: "アンバート", type: "city", note: "中央高地の商業都市" }
   - { lat: -0.252, lng: -78.526, label: "赤道記念碑", type: "landmark", note: "ミタッド・デル・ムンドの赤道直下のモニュメント" }
   - { lat: -0.685, lng: -78.437, label: "コトパクシ山", type: "nature", note: "標高5,897mの世界最高峰級の活火山" }
+municipalities:
+  svg: "/maps/countries/ecuador.svg"
+  title:
+    ja: "エクアドルの州"
+    en: "Provinces of Ecuador"
+  list:
+    - { code: "EC-E", name: "Esmeraldas", type: "province" }
+    - { code: "EC-C", name: "Carchi", type: "province" }
+    - { code: "EC-U", name: "Sucumbios", type: "province" }
+    - { code: "EC-D", name: "Orellana", type: "province" }
+    - { code: "EC-Y", name: "Pastaza", type: "province" }
+    - { code: "EC-S", name: "Morona Santiago", type: "province" }
+    - { code: "EC-Z", name: "Zamora Chinchipe", type: "province" }
+    - { code: "EC-L", name: "Loja", type: "province" }
+    - { code: "EC-O", name: "El Oro", type: "province" }
+    - { code: "EC-G", name: "Guayas", type: "province" }
+    - { code: "EC-SE", name: "Santa Elena", type: "province" }
+    - { code: "EC-M", name: "Manabi", type: "province" }
+    - { code: "EC-A", name: "Azuay", type: "province" }
+    - { code: "EC-F", name: "Cañar", type: "province" }
+    - { code: "EC-N", name: "Napo", type: "province" }
+    - { code: "EC-T", name: "Tungurahua", type: "province" }
+    - { code: "EC-H", name: "Chimborazo", type: "province" }
+    - { code: "EC-B", name: "Bolivar", type: "province" }
+    - { code: "EC-I", name: "Imbabura", type: "province" }
+    - { code: "EC-X", name: "Cotopaxi", type: "province" }
+    - { code: "EC-R", name: "Los Rios", type: "province" }
+    - { code: "EC-P", name: "Pichincha", type: "province" }
+    - { code: "EC-SD", name: "Santo Domingo de los Tsáchilas", type: "province" }
 ---
 
 <div class="main-desciption country-description">

@@ -34,6 +34,9 @@ export const COUNTRIES: QuizCountry[] = [
   { slug: "chile",      continent: "cs_america", pageDir: "cs_america/chile",    ja: "チリ" },
   { slug: "peru",       continent: "cs_america", pageDir: "cs_america/peru",     ja: "ペルー" },
   { slug: "colombia",   continent: "cs_america", pageDir: "cs_america/colombia", ja: "コロンビア" },
+  { slug: "bolivia",    continent: "cs_america", pageDir: "cs_america/bolivia",  ja: "ボリビア" },
+  { slug: "ecuador",    continent: "cs_america", pageDir: "cs_america/ecuador",  ja: "エクアドル" },
+  { slug: "uruguay",    continent: "cs_america", pageDir: "cs_america/uruguay",  ja: "ウルグアイ" },
 
   // Europe
   { slug: "germany",    continent: "europe",     pageDir: "europe/germany",     ja: "ドイツ" },
@@ -68,6 +71,9 @@ export const COUNTRIES: QuizCountry[] = [
   { slug: "estonia",    continent: "europe",     pageDir: "europe/baltic-state/estonia",   ja: "エストニア" },
   { slug: "lithuania",  continent: "europe",     pageDir: "europe/baltic-state/lithuania", ja: "リトアニア" },
   { slug: "ireland",    continent: "europe",     pageDir: "europe/ireland",     ja: "アイルランド" },
+  { slug: "slovenia",   continent: "europe",     pageDir: "europe/slovenia",    ja: "スロベニア" },
+  { slug: "macedonia",  continent: "europe",     pageDir: "europe/macedonia",   ja: "北マケドニア" },
+  { slug: "latvia",     continent: "europe",     pageDir: "europe/baltic-state/latvia", ja: "ラトビア" },
 
   // Asia
   { slug: "korea",      continent: "asia",       pageDir: "asia/korea",         ja: "韓国" },
@@ -99,11 +105,15 @@ export const COUNTRIES: QuizCountry[] = [
   // Middle East
   { slug: "saudiarabia",continent: "middle_east", pageDir: "middle_east/saudiarabia", ja: "サウジアラビア" },
   { slug: "turkey",     continent: "middle_east", pageDir: "middle_east/turkey",      ja: "トルコ" },
+  { slug: "israel",     continent: "middle_east", pageDir: "middle_east/israel",      ja: "イスラエル" },
 
   // Africa
   { slug: "south-africa",continent: "africa",     pageDir: "africa/south-africa",ja: "南アフリカ" },
   { slug: "egypt",      continent: "africa",     pageDir: "africa/egypt",       ja: "エジプト" },
   { slug: "nigeria",    continent: "africa",     pageDir: "africa/nigeria",     ja: "ナイジェリア" },
+  { slug: "tunisia",    continent: "africa",     pageDir: "africa/tunisia",     ja: "チュニジア" },
+  { slug: "kenya",      continent: "africa",     pageDir: "africa/kenya",       ja: "ケニア" },
+  { slug: "senegal",    continent: "africa",     pageDir: "africa/senegal",     ja: "セネガル" },
 ];
 
 export interface QuizContinent {

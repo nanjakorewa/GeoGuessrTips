@@ -51,6 +51,44 @@ import { ALBANIA_CITIES,     ALBANIA_PROJECTION,     ALBANIA_META     } from "./
 import { BOSNIA_CITIES,      BOSNIA_PROJECTION,      BOSNIA_META      } from "./quiz-cities/bosnia";
 import { GUATEMALA_CITIES,   GUATEMALA_PROJECTION,   GUATEMALA_META   } from "./quiz-cities/guatemala";
 import { PANAMA_CITIES,      PANAMA_PROJECTION,      PANAMA_META      } from "./quiz-cities/panama";
+import { BANGLADESH_CITIES,  BANGLADESH_PROJECTION,  BANGLADESH_META  } from "./quiz-cities/bangladesh";
+import { BELARUS_CITIES,     BELARUS_PROJECTION,     BELARUS_META     } from "./quiz-cities/belarus";
+import { BULGARIA_CITIES,    BULGARIA_PROJECTION,    BULGARIA_META    } from "./quiz-cities/bulgaria";
+import { CAMBODIA_CITIES,    CAMBODIA_PROJECTION,    CAMBODIA_META    } from "./quiz-cities/cambodia";
+import { CROATIA_CITIES,     CROATIA_PROJECTION,     CROATIA_META     } from "./quiz-cities/croatia";
+import { ESTONIA_CITIES,     ESTONIA_PROJECTION,     ESTONIA_META     } from "./quiz-cities/estonia";
+import { ICELAND_CITIES,     ICELAND_PROJECTION,     ICELAND_META     } from "./quiz-cities/iceland";
+import { IRELAND_CITIES,     IRELAND_PROJECTION,     IRELAND_META     } from "./quiz-cities/ireland";
+import { KAZAKHSTAN_CITIES,  KAZAKHSTAN_PROJECTION,  KAZAKHSTAN_META  } from "./quiz-cities/kazakhstan";
+import { KOREA_CITIES,       KOREA_PROJECTION,       KOREA_META       } from "./quiz-cities/korea";
+import { KYRGYZSTAN_CITIES,  KYRGYZSTAN_PROJECTION,  KYRGYZSTAN_META  } from "./quiz-cities/kyrgyzstan";
+import { LAOS_CITIES,        LAOS_PROJECTION,        LAOS_META        } from "./quiz-cities/laos";
+import { LITHUANIA_CITIES,   LITHUANIA_PROJECTION,   LITHUANIA_META   } from "./quiz-cities/lithuania";
+import { MOLDOVA_CITIES,     MOLDOVA_PROJECTION,     MOLDOVA_META     } from "./quiz-cities/moldova";
+import { MONGOLIA_CITIES,    MONGOLIA_PROJECTION,    MONGOLIA_META    } from "./quiz-cities/mongolia";
+import { MONTENEGRO_CITIES,  MONTENEGRO_PROJECTION,  MONTENEGRO_META  } from "./quiz-cities/montenegro";
+import { MYANMAR_CITIES,     MYANMAR_PROJECTION,     MYANMAR_META     } from "./quiz-cities/myanmar";
+import { NEPAL_CITIES,       NEPAL_PROJECTION,       NEPAL_META       } from "./quiz-cities/nepal";
+import { NIGERIA_CITIES,     NIGERIA_PROJECTION,     NIGERIA_META     } from "./quiz-cities/nigeria";
+import { PHILIPPINES_CITIES, PHILIPPINES_PROJECTION, PHILIPPINES_META } from "./quiz-cities/philippines";
+import { RUSSIA_CITIES,      RUSSIA_PROJECTION,      RUSSIA_META      } from "./quiz-cities/russia";
+import { SERBIA_CITIES,      SERBIA_PROJECTION,      SERBIA_META      } from "./quiz-cities/serbia";
+import { SLOVAKIA_CITIES,    SLOVAKIA_PROJECTION,    SLOVAKIA_META    } from "./quiz-cities/slovakia";
+import { SRILANKA_CITIES,    SRILANKA_PROJECTION,    SRILANKA_META    } from "./quiz-cities/srilanka";
+import { TAIWAN_CITIES,      TAIWAN_PROJECTION,      TAIWAN_META      } from "./quiz-cities/taiwan";
+import { THAILAND_CITIES,    THAILAND_PROJECTION,    THAILAND_META    } from "./quiz-cities/thailand";
+import { TURKEY_CITIES,      TURKEY_PROJECTION,      TURKEY_META      } from "./quiz-cities/turkey";
+import { UZBEKISTAN_CITIES,  UZBEKISTAN_PROJECTION,  UZBEKISTAN_META  } from "./quiz-cities/uzbekistan";
+import { BOLIVIA_CITIES,     BOLIVIA_PROJECTION,     BOLIVIA_META     } from "./quiz-cities/bolivia";
+import { ECUADOR_CITIES,     ECUADOR_PROJECTION,     ECUADOR_META     } from "./quiz-cities/ecuador";
+import { URUGUAY_CITIES,     URUGUAY_PROJECTION,     URUGUAY_META     } from "./quiz-cities/uruguay";
+import { SLOVENIA_CITIES,    SLOVENIA_PROJECTION,    SLOVENIA_META    } from "./quiz-cities/slovenia";
+import { MACEDONIA_CITIES,   MACEDONIA_PROJECTION,   MACEDONIA_META   } from "./quiz-cities/macedonia";
+import { LATVIA_CITIES,      LATVIA_PROJECTION,      LATVIA_META      } from "./quiz-cities/latvia";
+import { TUNISIA_CITIES,     TUNISIA_PROJECTION,     TUNISIA_META     } from "./quiz-cities/tunisia";
+import { KENYA_CITIES,       KENYA_PROJECTION,       KENYA_META       } from "./quiz-cities/kenya";
+import { SENEGAL_CITIES,     SENEGAL_PROJECTION,     SENEGAL_META     } from "./quiz-cities/senegal";
+import { ISRAEL_CITIES,      ISRAEL_PROJECTION,      ISRAEL_META      } from "./quiz-cities/israel";
 
 export interface CityQuizEntry {
   cities: CityEntry[];
@@ -101,6 +139,44 @@ export const CITY_QUIZ_REGISTRY: Record<string, CityQuizEntry> = {
   bosnia:      { cities: BOSNIA_CITIES,      projection: BOSNIA_PROJECTION,      meta: BOSNIA_META },
   guatemala:   { cities: GUATEMALA_CITIES,   projection: GUATEMALA_PROJECTION,   meta: GUATEMALA_META },
   panama:      { cities: PANAMA_CITIES,      projection: PANAMA_PROJECTION,      meta: PANAMA_META },
+  bangladesh:  { cities: BANGLADESH_CITIES,  projection: BANGLADESH_PROJECTION,  meta: BANGLADESH_META },
+  belarus:     { cities: BELARUS_CITIES,     projection: BELARUS_PROJECTION,     meta: BELARUS_META },
+  bulgaria:    { cities: BULGARIA_CITIES,    projection: BULGARIA_PROJECTION,    meta: BULGARIA_META },
+  cambodia:    { cities: CAMBODIA_CITIES,    projection: CAMBODIA_PROJECTION,    meta: CAMBODIA_META },
+  croatia:     { cities: CROATIA_CITIES,     projection: CROATIA_PROJECTION,     meta: CROATIA_META },
+  estonia:     { cities: ESTONIA_CITIES,     projection: ESTONIA_PROJECTION,     meta: ESTONIA_META },
+  iceland:     { cities: ICELAND_CITIES,     projection: ICELAND_PROJECTION,     meta: ICELAND_META },
+  ireland:     { cities: IRELAND_CITIES,     projection: IRELAND_PROJECTION,     meta: IRELAND_META },
+  kazakhstan:  { cities: KAZAKHSTAN_CITIES,  projection: KAZAKHSTAN_PROJECTION,  meta: KAZAKHSTAN_META },
+  korea:       { cities: KOREA_CITIES,       projection: KOREA_PROJECTION,       meta: KOREA_META },
+  kyrgyzstan:  { cities: KYRGYZSTAN_CITIES,  projection: KYRGYZSTAN_PROJECTION,  meta: KYRGYZSTAN_META },
+  laos:        { cities: LAOS_CITIES,        projection: LAOS_PROJECTION,        meta: LAOS_META },
+  lithuania:   { cities: LITHUANIA_CITIES,   projection: LITHUANIA_PROJECTION,   meta: LITHUANIA_META },
+  moldova:     { cities: MOLDOVA_CITIES,     projection: MOLDOVA_PROJECTION,     meta: MOLDOVA_META },
+  mongolia:    { cities: MONGOLIA_CITIES,    projection: MONGOLIA_PROJECTION,    meta: MONGOLIA_META },
+  montenegro:  { cities: MONTENEGRO_CITIES,  projection: MONTENEGRO_PROJECTION,  meta: MONTENEGRO_META },
+  myanmar:     { cities: MYANMAR_CITIES,     projection: MYANMAR_PROJECTION,     meta: MYANMAR_META },
+  nepal:       { cities: NEPAL_CITIES,       projection: NEPAL_PROJECTION,       meta: NEPAL_META },
+  nigeria:     { cities: NIGERIA_CITIES,     projection: NIGERIA_PROJECTION,     meta: NIGERIA_META },
+  philippines: { cities: PHILIPPINES_CITIES, projection: PHILIPPINES_PROJECTION, meta: PHILIPPINES_META },
+  russia:      { cities: RUSSIA_CITIES,      projection: RUSSIA_PROJECTION,      meta: RUSSIA_META },
+  serbia:      { cities: SERBIA_CITIES,      projection: SERBIA_PROJECTION,      meta: SERBIA_META },
+  slovakia:    { cities: SLOVAKIA_CITIES,    projection: SLOVAKIA_PROJECTION,    meta: SLOVAKIA_META },
+  srilanka:    { cities: SRILANKA_CITIES,    projection: SRILANKA_PROJECTION,    meta: SRILANKA_META },
+  taiwan:      { cities: TAIWAN_CITIES,      projection: TAIWAN_PROJECTION,      meta: TAIWAN_META },
+  thailand:    { cities: THAILAND_CITIES,    projection: THAILAND_PROJECTION,    meta: THAILAND_META },
+  turkey:      { cities: TURKEY_CITIES,      projection: TURKEY_PROJECTION,      meta: TURKEY_META },
+  uzbekistan:  { cities: UZBEKISTAN_CITIES,  projection: UZBEKISTAN_PROJECTION,  meta: UZBEKISTAN_META },
+  bolivia:     { cities: BOLIVIA_CITIES,     projection: BOLIVIA_PROJECTION,     meta: BOLIVIA_META },
+  ecuador:     { cities: ECUADOR_CITIES,     projection: ECUADOR_PROJECTION,     meta: ECUADOR_META },
+  uruguay:     { cities: URUGUAY_CITIES,     projection: URUGUAY_PROJECTION,     meta: URUGUAY_META },
+  slovenia:    { cities: SLOVENIA_CITIES,    projection: SLOVENIA_PROJECTION,    meta: SLOVENIA_META },
+  macedonia:   { cities: MACEDONIA_CITIES,   projection: MACEDONIA_PROJECTION,   meta: MACEDONIA_META },
+  latvia:      { cities: LATVIA_CITIES,      projection: LATVIA_PROJECTION,      meta: LATVIA_META },
+  tunisia:     { cities: TUNISIA_CITIES,     projection: TUNISIA_PROJECTION,     meta: TUNISIA_META },
+  kenya:       { cities: KENYA_CITIES,       projection: KENYA_PROJECTION,       meta: KENYA_META },
+  senegal:     { cities: SENEGAL_CITIES,     projection: SENEGAL_PROJECTION,     meta: SENEGAL_META },
+  israel:      { cities: ISRAEL_CITIES,      projection: ISRAEL_PROJECTION,      meta: ISRAEL_META },
 };
 
 export const CITY_QUIZ_SLUGS = Object.keys(CITY_QUIZ_REGISTRY);

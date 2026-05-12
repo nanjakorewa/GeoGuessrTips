@@ -44,6 +44,58 @@ heroGallery:
   - "/rule/cs_america/bolivia/Cemitério_de_trens,_Uyuni,_Bolivia.jpg"
   - "/rule/cs_america/bolivia/ilha_do_sol14.jpg"
   - "/rule/cs_america/bolivia/19683170924_abbf5210de_c.jpg"
+municipalities:
+  svg: "/maps/countries/bolivia.svg"
+  title:
+    ja: "ボリビアの県"
+    en: "Departments of Bolivia"
+  list:
+    - code: "BO-L"
+      name: "ラパス県"
+      type: "department"
+      note: "首都所在地"
+      nameI18n:
+        en: "La Paz"
+    - code: "BO-O"
+      name: "オルロ県"
+      type: "department"
+      nameI18n:
+        en: "Oruro"
+    - code: "BO-P"
+      name: "ポトシ県"
+      type: "department"
+      nameI18n:
+        en: "Potosí"
+    - code: "BO-T"
+      name: "タリハ県"
+      type: "department"
+      nameI18n:
+        en: "Tarija"
+    - code: "BO-S"
+      name: "サンタクルス県"
+      type: "department"
+      nameI18n:
+        en: "Santa Cruz"
+    - code: "BO-H"
+      name: "チュキサカ県"
+      type: "department"
+      nameI18n:
+        en: "Chuquisaca"
+    - code: "BO-N"
+      name: "パンド県"
+      type: "department"
+      nameI18n:
+        en: "Pando"
+    - code: "BO-B"
+      name: "ベニ県"
+      type: "department"
+      nameI18n:
+        en: "Beni"
+    - code: "BO-C"
+      name: "コチャバンバ県"
+      type: "department"
+      nameI18n:
+        en: "Cochabamba"
 ---
 
 <div class="main-desciption country-description">

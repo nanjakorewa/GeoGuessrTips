@@ -23,6 +23,18 @@ mapPins:
   - { lat: 29.553, lng: 34.951, label: "エイラート", type: "city", note: "紅海に面したリゾート都市" }
   - { lat: 31.500, lng: 35.500, label: "死海", type: "nature", note: "世界でもっとも低い湖・海抜マイナス約430m" }
   - { lat: 32.708, lng: 35.317, label: "ガリラヤ湖", type: "nature", note: "イスラエル最大の淡水湖" }
+municipalities:
+  svg: "/maps/countries/israel.svg"
+  title:
+    ja: "イスラエルの地区"
+    en: "Districts of Israel"
+  list:
+    - { code: "IL-D", name: "HaDarom", type: "district" }
+    - { code: "IL-Z", name: "HaZafon", type: "district" }
+    - { code: "IL-HA", name: "Haifa", type: "district" }
+    - { code: "IL-M", name: "HaMerkaz", type: "district" }
+    - { code: "IL-JM", name: "Jerusalem", type: "district" }
+    - { code: "IL-TA", name: "Tel Aviv", type: "district" }
 ---
 
 <div class="main-desciption country-description">

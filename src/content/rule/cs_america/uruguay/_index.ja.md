@@ -26,6 +26,31 @@ mapPins:
   - { lat: -34.471, lng: -57.838, label: "コロニア・デル・サクラメント", type: "historical", note: "ポルトガル時代の旧市街・世界遺産" }
   - { lat: -32.371, lng: -54.167, label: "メロ", type: "city", note: "ブラジル国境の北東部都市" }
   - { lat: -34.339, lng: -53.508, label: "ラ・パロマ", type: "port", note: "東岸の漁港町" }
+municipalities:
+  svg: "/maps/countries/uruguay.svg"
+  title:
+    ja: "ウルグアイの県"
+    en: "Departments of Uruguay"
+  list:
+    - { code: "UY-PA", name: "Paysandú", type: "department" }
+    - { code: "UY-AR", name: "Artigas", type: "department" }
+    - { code: "UY-SA", name: "Salto", type: "department" }
+    - { code: "UY-RV", name: "Rivera", type: "department" }
+    - { code: "UY-RO", name: "Rocha", type: "department" }
+    - { code: "UY-TT", name: "Treinta y Tres", type: "department" }
+    - { code: "UY-CL", name: "Cerro Largo", type: "department" }
+    - { code: "UY-MA", name: "Maldonado", type: "department" }
+    - { code: "UY-CA", name: "Canelones", type: "department" }
+    - { code: "UY-MO", name: "Montevideo", type: "department" }
+    - { code: "UY-SJ", name: "San José", type: "department" }
+    - { code: "UY-CO", name: "Colonia", type: "department" }
+    - { code: "UY-SO", name: "Soriano", type: "department" }
+    - { code: "UY-RN", name: "Río Negro", type: "department" }
+    - { code: "UY-TA", name: "Tacuarembó", type: "department" }
+    - { code: "UY-DU", name: "Durazno", type: "department" }
+    - { code: "UY-FS", name: "Flores", type: "department" }
+    - { code: "UY-FD", name: "Florida", type: "department" }
+    - { code: "UY-LA", name: "Lavalleja", type: "department" }
 ---
 
 <div class="main-desciption country-description">
