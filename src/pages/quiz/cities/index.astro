@@ -187,6 +187,19 @@ const crumbs = [
         国を選ぶと、マップ上のピンに対応する都市名カードを選んで答えるクイズが始まります。暗記モードに切り替えるとピンとカードの対応を自由に確認できます。
       </p>
 
+      <section class="cqh-region">
+        <div class="cqh-region__label">日本（県別）</div>
+        <div class="cqh-grid">
+          <a href="/quiz/cities/japan/" class="cqh-card">
+            <img src="/flags/JP.png" alt="日本の国旗" class="cqh-flag" loading="lazy" />
+            <div class="cqh-body">
+              <span class="cqh-name">日本</span>
+              <span class="cqh-meta">47 都道府県の市町村クイズ</span>
+            </div>
+          </a>
+        </div>
+      </section>
+
       {grouped.map((g) => (
         <section class="cqh-region">
           <div class="cqh-region__label">{g.ja}</div>

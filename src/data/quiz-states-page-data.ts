@@ -136,13 +136,13 @@ export function buildPrefectureQuizProps(
   }
 
   const site = "https://geopinning.space";
-  const canonical = `${site}${quizPath(lang, `/quiz/states/japan/${prefDir}/`)}`;
+  const canonical = `${site}${quizPath(lang, `/quiz/cities/japan/${prefDir}/`)}`;
   const breadcrumbs = [
     { name: t.breadcrumbs.top, url: langPath(lang, "/") },
     { name: t.breadcrumbs.quiz, url: langPath(lang, "/quiz/") },
-    { name: t.breadcrumbs.states, url: quizPath(lang, "/quiz/states/") },
-    { name: t.breadcrumbs.japan, url: quizPath(lang, "/quiz/states/japan/") },
-    { name: prefDisplay, url: quizPath(lang, `/quiz/states/japan/${prefDir}/`) },
+    { name: t.breadcrumbs.cities, url: quizPath(lang, "/quiz/cities/") },
+    { name: t.breadcrumbs.japan, url: quizPath(lang, "/quiz/cities/japan/") },
+    { name: prefDisplay, url: quizPath(lang, `/quiz/cities/japan/${prefDir}/`) },
   ];
 
   return {

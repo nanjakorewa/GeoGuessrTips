@@ -20,7 +20,7 @@ const site = "https://geopinning.space";
 const canonical = `${site}${quizPath(lang, "/quiz/states/")}`;
 
 const CONTINENT_CARDS: Array<{ slug: string; emoji: string; image: string; descFallback: string }> = [
-  { slug: "japan",      emoji: "🗾", image: "/images/quiz-cover/state/japan.jpg",      descFallback: "47 prefectures · municipality quizzes" },
+  // Japan moved to the city-quiz section (/quiz/cities/japan/).
   { slug: "n_america",  emoji: "🌎", image: "/images/quiz-cover/state/n_america.jpg",  descFallback: "USA · Canada · Mexico" },
   { slug: "cs_america", emoji: "🌎", image: "/images/quiz-cover/state/cs_america.jpg", descFallback: "Brazil · Argentina · ..." },
   { slug: "europe",     emoji: "🌍", image: "/images/quiz-cover/state/europe.jpg",     descFallback: "Germany · France · Italy · ..." },
@@ -32,14 +32,11 @@ const CONTINENT_CARDS: Array<{ slug: string; emoji: string; image: string; descF
 
 const continents = CONTINENT_CARDS.map((c) => ({
   slug: c.slug,
-  name:
-    c.slug === "japan"
-      ? t.breadcrumbs.japan
-      : t.continents[c.slug as keyof typeof t.continents] ?? c.slug,
+  name: t.continents[c.slug as keyof typeof t.continents] ?? c.slug,
   desc: c.descFallback,
   emoji: c.emoji,
   image: c.image,
-  url: quizPath(lang, c.slug === "japan" ? "/quiz/states/japan/" : `/quiz/states/${c.slug}/`),
+  url: quizPath(lang, `/quiz/states/${c.slug}/`),
 }));
 
 const crumbs = [

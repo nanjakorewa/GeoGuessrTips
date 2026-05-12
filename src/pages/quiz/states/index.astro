@@ -27,7 +27,8 @@ type Continent = {
 // Card metadata: continent images & sample-country descriptions are
 // shared across locales; the displayed name comes from the i18n dict.
 const CONTINENT_CARDS: Array<{ slug: string; emoji: string; image: string; descKey?: keyof typeof t.continents | "japan"; descFallback: string }> = [
-  { slug: "japan",      emoji: "🗾", image: "/images/quiz-cover/state/japan.jpg",      descFallback: lang === "ja" ? "47 都道府県の市町村クイズ" : "47 prefectures · municipality quizzes" },
+  // Japan moved to the city-quiz section (/quiz/cities/japan/) since its
+  // per-prefecture pages are municipality-level quizzes.
   { slug: "n_america",  emoji: "🌎", image: "/images/quiz-cover/state/n_america.jpg",  descFallback: "USA · Canada · Mexico" },
   { slug: "cs_america", emoji: "🌎", image: "/images/quiz-cover/state/cs_america.jpg", descFallback: "Brazil · Argentina · ..." },
   { slug: "europe",     emoji: "🌍", image: "/images/quiz-cover/state/europe.jpg",     descFallback: "Germany · France · Italy · ..." },
@@ -38,17 +39,14 @@ const CONTINENT_CARDS: Array<{ slug: string; emoji: string; image: string; descK
 ];
 
 const continents: Continent[] = CONTINENT_CARDS.map((c) => {
-  const name =
-    c.slug === "japan"
-      ? (lang === "ja" ? "日本（県別）" : t.breadcrumbs.japan)
-      : t.continents[c.slug as keyof typeof t.continents] ?? c.slug;
+  const name = t.continents[c.slug as keyof typeof t.continents] ?? c.slug;
   return {
     slug: c.slug,
     name,
     desc: c.descFallback,
     emoji: c.emoji,
     image: c.image,
-    url: quizPath(lang, c.slug === "japan" ? "/quiz/states/japan/" : `/quiz/states/${c.slug}/`),
+    url: quizPath(lang, `/quiz/states/${c.slug}/`),
   };
 });
 

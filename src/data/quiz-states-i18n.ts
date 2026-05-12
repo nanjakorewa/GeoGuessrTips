@@ -94,6 +94,7 @@ export interface QuizStatesI18n {
     top: string;
     quiz: string;
     states: string;
+    cities: string;
     japan: string;
   };
   continents: Record<
@@ -169,7 +170,7 @@ const T: Record<Language, QuizStatesI18n> = {
       questionsSuffix: "問",
     },
     ad: { label: "広告" },
-    breadcrumbs: { top: "トップ", quiz: "クイズ", states: "州当てクイズ", japan: "日本（県別）" },
+    breadcrumbs: { top: "トップ", quiz: "クイズ", states: "州当てクイズ", cities: "都市当てクイズ", japan: "日本（県別）" },
     continents: {
       n_america: "北米",
       cs_america: "中南米",
@@ -246,7 +247,7 @@ const T: Record<Language, QuizStatesI18n> = {
       questionsSuffix: "",
     },
     ad: { label: "Advertisement" },
-    breadcrumbs: { top: "Home", quiz: "Quiz", states: "State Map Quiz", japan: "Japan (by prefecture)" },
+    breadcrumbs: { top: "Home", quiz: "Quiz", states: "State Map Quiz", cities: "City Map Quiz", japan: "Japan (by prefecture)" },
     continents: {
       n_america: "North America",
       cs_america: "Latin America",
@@ -323,7 +324,7 @@ const T: Record<Language, QuizStatesI18n> = {
       questionsSuffix: "",
     },
     ad: { label: "Iklan" },
-    breadcrumbs: { top: "Beranda", quiz: "Kuis", states: "Kuis Peta", japan: "Jepang (per prefektur)" },
+    breadcrumbs: { top: "Beranda", quiz: "Kuis", states: "Kuis Peta", cities: "Kuis Kota", japan: "Jepang (per prefektur)" },
     continents: {
       n_america: "Amerika Utara",
       cs_america: "Amerika Latin",
@@ -400,7 +401,7 @@ const T: Record<Language, QuizStatesI18n> = {
       questionsSuffix: "",
     },
     ad: { label: "Publicidad" },
-    breadcrumbs: { top: "Inicio", quiz: "Quiz", states: "Quiz de mapas", japan: "Japón (por prefectura)" },
+    breadcrumbs: { top: "Inicio", quiz: "Quiz", states: "Quiz de mapas", cities: "Quiz de ciudades", japan: "Japón (por prefectura)" },
     continents: {
       n_america: "América del Norte",
       cs_america: "América Latina",
@@ -477,7 +478,7 @@ const T: Record<Language, QuizStatesI18n> = {
       questionsSuffix: "",
     },
     ad: { label: "Publicidade" },
-    breadcrumbs: { top: "Início", quiz: "Quiz", states: "Quiz de mapas", japan: "Japão (por prefeitura)" },
+    breadcrumbs: { top: "Início", quiz: "Quiz", states: "Quiz de mapas", cities: "Quiz de cidades", japan: "Japão (por prefeitura)" },
     continents: {
       n_america: "América do Norte",
       cs_america: "América Latina",

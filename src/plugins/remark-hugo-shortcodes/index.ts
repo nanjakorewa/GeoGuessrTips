@@ -54,9 +54,9 @@ import { COUNTRIES } from "../../data/quiz-states-countries.ts";
 function deriveQuizUrl(ruleSlug: string | null): string | null {
   if (!ruleSlug) return null;
 
-  // Japan prefecture: asia/japan/{region}/{pref} → /quiz/states/japan/{pref}/
+  // Japan prefecture: asia/japan/{region}/{pref} → /quiz/cities/japan/{pref}/
   const prefMatch = ruleSlug.match(/^asia\/japan\/[^/]+\/([^/]+)$/);
-  if (prefMatch) return `/quiz/states/japan/${prefMatch[1]}/`;
+  if (prefMatch) return `/quiz/cities/japan/${prefMatch[1]}/`;
 
   // Country page: look up by pageDir to honor slug remappings (e.g. the
   // Vietnam rule page lives at asia/vietnum but the quiz at asia/vietnam).

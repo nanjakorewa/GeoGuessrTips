@@ -1,29 +1,30 @@
 ---
 /**
- * Japan prefecture hub (non-default lang): /[lang]/quiz/states/japan/
+ * Japan prefecture hub: /quiz/cities/japan/
+ *
+ * Lists all 47 prefectures grouped by region, each linking to its
+ * municipality-level quiz at /quiz/cities/japan/{prefDir}/.
  */
 import { getCollection } from "astro:content";
 import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
-import { getQuizI18n, quizPath, langPath } from "../../../../../data/quiz-states-i18n";
-import { NON_DEFAULT_LANGUAGES } from "../../../../../data/quiz-states-page-data";
+import { getQuizI18n, quizPath, langPath } from "../../../../data/quiz-states-i18n";
 import type { Language } from "@lib/i18n-utils";
 
-export async function getStaticPaths() {
-  return NON_DEFAULT_LANGUAGES.map((lang) => ({ params: { lang }, props: { lang } }));
-}
-
-const { lang } = Astro.props as { lang: Language };
+const lang: Language = "ja";
 const t = getQuizI18n(lang);
 const site = "https://geopinning.space";
 const pageTitle = t.japanHub.pageTitle;
 const pageDescription = t.japanHub.pageDescription;
-const canonical = `${site}${quizPath(lang, "/quiz/states/japan/")}`;
+const canonical = `${site}${quizPath(lang, "/quiz/cities/japan/")}`;
 
+// All 47 prefecture rule entries.
 const allRules = await getCollection("rule");
 type RuleEntry = (typeof allRules)[number];
+// Build pref entries: each pref has _index.ja (always) plus optional locale
+// .md files. Use the locale-specific title where available.
 const ruleById = new Map(allRules.map((e: any) => [e.id, e]));
 const prefEntries = allRules
   .filter(
@@ -59,8 +60,8 @@ const grouped = REGION_ORDER.map((r) => ({
 const crumbs = [
   { name: t.breadcrumbs.top, url: langPath(lang, "/") },
   { name: t.breadcrumbs.quiz, url: langPath(lang, "/quiz/") },
-  { name: t.breadcrumbs.states, url: quizPath(lang, "/quiz/states/") },
-  { name: t.breadcrumbs.japan, url: quizPath(lang, "/quiz/states/japan/") },
+  { name: t.breadcrumbs.cities, url: quizPath(lang, "/quiz/cities/") },
+  { name: t.breadcrumbs.japan, url: quizPath(lang, "/quiz/cities/japan/") },
 ];
 ---
 
@@ -96,7 +97,10 @@ const crumbs = [
     .sjp-breadcrumb a:hover { text-decoration: underline; }
     .sjp-title { font-size: 1.5rem; font-weight: 800; color: #1f3a5c; margin: 0 0 0.4rem; }
     .sjp-desc { color: #4a5568; margin: 0 0 1.4rem; line-height: 1.6; font-size: 0.95rem; }
-    .sjp-region { margin-bottom: 1.4rem; }
+
+    .sjp-region {
+      margin-bottom: 1.4rem;
+    }
     .sjp-region__label {
       font-size: 0.85rem;
       font-weight: 700;
@@ -140,6 +144,7 @@ const crumbs = [
   <header class="shadow-bottom sticky-top bg-white">
     <Navbar lang={lang} isHome={false} />
   </header>
+
   <main>
     <div class="sjp-page">
       <ol class="sjp-breadcrumb">
@@ -149,13 +154,14 @@ const crumbs = [
       </ol>
       <h1 class="sjp-title">{t.japanHub.title}</h1>
       <p class="sjp-desc">{t.japanHub.lead}</p>
+
       {grouped.map((g) => (
         g.prefs.length > 0 && (
           <section class="sjp-region">
             <div class="sjp-region__label">{g.ja}</div>
             <div class="sjp-grid">
               {g.prefs.map((p) => (
-                <a href={quizPath(lang, `/quiz/states/japan/${p.dir}/`)} class="sjp-card">
+                <a href={quizPath(lang, `/quiz/cities/japan/${p.dir}/`)} class="sjp-card">
                   {p.flag && (
                     <img src={`/flags/${p.flag}`} alt={t.flagAltFmt(p.title)} class="sjp-flag" loading="lazy" />
                   )}
@@ -169,6 +175,7 @@ const crumbs = [
       ))}
     </div>
   </main>
+
   <Footer lang={lang} title={t.japanHub.title} permalink={canonical} />
   <SearchModal lang={lang} />
 </body>
