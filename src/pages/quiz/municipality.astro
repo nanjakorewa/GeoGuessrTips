@@ -4,6 +4,7 @@ import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
 import municipalitiesData from "../../data/municipalities.json";
+import municipalitiesYomi from "../../data/municipalities-yomi.json";
 
 const lang = "ja" as const;
 const site = "https://geopinning.space";
@@ -225,6 +226,18 @@ const crumbs = [
       margin: 0;
       line-height: 1.15;
     }
+    /* Furigana (kana reading) shown above the kanji name. Smaller, lighter
+       weight so it reads as a pronunciation aid, not a competing label. */
+    .mq-yomi {
+      font-size: 0.78rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      color: rgba(100,100,100,0.78);
+      margin: 0 0 0.15rem;
+      min-height: 1.1em;
+      line-height: 1.2;
+    }
+    .mq-yomi:empty { visibility: hidden; }
     /* Always rendered (visibility-toggled) so the question card height stays
        constant whether the result is shown or not. min-height covers the
        2-line worst case (e.g. answer list with many prefectures wraps). */
@@ -394,6 +407,7 @@ const crumbs = [
     @media (max-width: 760px) {
       .mq-page { padding: 0.5rem 0.6rem; }
       .mq-name { font-size: 1.55rem; }
+      .mq-yomi { font-size: 0.7rem; }
       .mq-pref { font-size: 0.74rem; padding: 0.34rem 0.15rem; min-width: 54px; }
       .mq-region-label { width: 2.4em; font-size: 0.65rem; }
       .mq-title-sub { display: none; }
@@ -413,6 +427,7 @@ const crumbs = [
       .mq-question { padding: 1.1rem 1.4rem 1.3rem; margin-bottom: 1rem; }
       .mq-prompt { font-size: 0.88rem; margin: 0 0 0.4rem; }
       .mq-name { font-size: 2.4rem; }
+      .mq-yomi { font-size: 0.9rem; }
       .mq-result-inline { font-size: 0.95rem; min-height: 3.2rem; margin-top: 0.5rem; }
       .mq-result-mark { font-size: 1.4rem; }
       .mq-region { margin-bottom: 0.5rem; gap: 0.5rem; }
@@ -432,6 +447,7 @@ const crumbs = [
     @media (min-height: 1000px) {
       .mq-question { padding: 1.4rem 1.6rem 1.6rem; margin-bottom: 1.2rem; }
       .mq-name { font-size: 2.9rem; }
+      .mq-yomi { font-size: 1rem; }
       .mq-result-inline { font-size: 1rem; min-height: 3.4rem; }
       .mq-region { margin-bottom: 0.7rem; }
       .mq-pref { font-size: 1.05rem; padding: 0.85rem 0.4rem; }
@@ -742,6 +758,7 @@ const crumbs = [
 
     <section class="mq-question" id="mq-question" aria-live="polite">
       <p class="mq-prompt">この自治体は、どの都道府県にある？（該当する都道府県をすべて選択）</p>
+      <p class="mq-yomi" id="mq-yomi" aria-hidden="true"></p>
       <p class="mq-name" id="mq-name">―</p>
       <div class="mq-result-inline" id="mq-result">
         <span class="mq-result-mark" id="mq-result-mark">◯</span>
@@ -811,6 +828,7 @@ const crumbs = [
   </script>
 
   <script id="mq-data" type="application/json" set:html={JSON.stringify(municipalitiesData)}></script>
+  <script id="mq-yomi-data" type="application/json" set:html={JSON.stringify(municipalitiesYomi)}></script>
 
   <script is:inline>
   (function () {
@@ -818,6 +836,10 @@ const crumbs = [
     /** @type {Record<string, string[]>} */
     const data = JSON.parse(dataEl.textContent || "{}");
     if (Object.keys(data).length === 0) return;
+
+    const yomiEl = document.getElementById("mq-yomi-data");
+    /** @type {Record<string, string>} */
+    const yomi = JSON.parse((yomiEl && yomiEl.textContent) || "{}");
 
     const HISTORY_KEY = "mq-history-v2";
     const CURSOR_KEY  = "mq-cursor-v1";
@@ -891,6 +913,7 @@ const crumbs = [
     // DOM refs
     const questionEl   = document.getElementById("mq-question");
     const nameEl       = document.getElementById("mq-name");
+    const yomiNameEl   = document.getElementById("mq-yomi");
     const resultEl     = document.getElementById("mq-result");
     const resultMark   = document.getElementById("mq-result-mark");
     const resultText   = document.getElementById("mq-result-text");
@@ -950,6 +973,7 @@ const crumbs = [
 
     function renderQuestion() {
       nameEl.textContent = current.name;
+      if (yomiNameEl) yomiNameEl.textContent = yomi[current.name] || "";
       const list = [...currentAnswer].join("、");
 
       // Reset all classes first

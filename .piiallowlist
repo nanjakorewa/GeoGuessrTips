@@ -35,6 +35,7 @@ support@geopinning\.space
 ^src/data/municipalities\.json$
 ^src/data/areacodes\.json$
 ^src/data/highways\.json$
+^src/data/municipalities-yomi\.json$
 
 # --- Postal codes and 12-digit numbers used in pure data contexts ---------
 # Most stat-card numerics (e.g., production volumes) are 12 digits when grouped
