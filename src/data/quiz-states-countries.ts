@@ -25,6 +25,8 @@ export const COUNTRIES: QuizCountry[] = [
   { slug: "usa",        continent: "n_america", pageDir: "n_america/usa",       ja: "アメリカ" },
   { slug: "canada",     continent: "n_america", pageDir: "n_america/canada",    ja: "カナダ" },
   { slug: "mexico",     continent: "n_america", pageDir: "n_america/mexico",    ja: "メキシコ" },
+  { slug: "guatemala",  continent: "n_america", pageDir: "n_america/guatemala", ja: "グアテマラ" },
+  { slug: "panama",     continent: "n_america", pageDir: "n_america/panama",    ja: "パナマ" },
 
   // Central / South America
   { slug: "brazil",     continent: "cs_america", pageDir: "cs_america/brazil",   ja: "ブラジル" },

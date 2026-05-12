@@ -30,6 +30,123 @@ mapPins:
   - { lat: 14.692, lng: -91.202, label: "アティトラン湖", type: "nature", note: "火山に囲まれた風光明媚な高地湖" }
   - { lat: 15.471, lng: -89.348, label: "リオ・ドゥルセ", type: "nature", note: "カリブ海岸の渓谷と運河" }
   - { lat: 14.473, lng: -90.880, label: "フエゴ火山", type: "nature", note: "活発な活火山・標高3,763m" }
+municipalities:
+  svg: "/maps/countries/guatemala.svg"
+  title:
+    ja: "グアテマラの県"
+    en: "Departments of Guatemala"
+  list:
+    - code: "GT-JU"
+      name: "フティアパ県"
+      type: "department"
+      nameI18n:
+        en: "Jutiapa"
+    - code: "GT-CQ"
+      name: "チキムラ県"
+      type: "department"
+      nameI18n:
+        en: "Chiquimula"
+    - code: "GT-PE"
+      name: "ペテン県"
+      type: "department"
+      nameI18n:
+        en: "Petén"
+    - code: "GT-SM"
+      name: "サン・マルコス県"
+      type: "department"
+      nameI18n:
+        en: "San Marcos"
+    - code: "GT-HU"
+      name: "ウェウェテナンゴ県"
+      type: "department"
+      nameI18n:
+        en: "Huehuetenango"
+    - code: "GT-QC"
+      name: "キチェ県"
+      type: "department"
+      nameI18n:
+        en: "Quiché"
+    - code: "GT-AV"
+      name: "アルタ・ベラパス県"
+      type: "department"
+      nameI18n:
+        en: "Alta Verapaz"
+    - code: "GT-IZ"
+      name: "イサバル県"
+      type: "department"
+      nameI18n:
+        en: "Izabal"
+    - code: "GT-ZA"
+      name: "サカパ県"
+      type: "department"
+      nameI18n:
+        en: "Zacapa"
+    - code: "GT-RE"
+      name: "レタルレウ県"
+      type: "department"
+      nameI18n:
+        en: "Retalhuleu"
+    - code: "GT-SU"
+      name: "スチテペケス県"
+      type: "department"
+      nameI18n:
+        en: "Suchitepéquez"
+    - code: "GT-ES"
+      name: "エスクィントラ県"
+      type: "department"
+      nameI18n:
+        en: "Escuintla"
+    - code: "GT-SR"
+      name: "サンタ・ローサ県"
+      type: "department"
+      nameI18n:
+        en: "Santa Rosa"
+    - code: "GT-CM"
+      name: "チマルテナンゴ県"
+      type: "department"
+      nameI18n:
+        en: "Chimaltenango"
+    - code: "GT-SA"
+      name: "サカテペケス県"
+      type: "department"
+      nameI18n:
+        en: "Sacatepéquez"
+    - code: "GT-GU"
+      name: "グアテマラ県"
+      type: "department"
+      note: "首都所在地"
+      nameI18n:
+        en: "Guatemala"
+    - code: "GT-JA"
+      name: "ハラパ県"
+      type: "department"
+      nameI18n:
+        en: "Jalapa"
+    - code: "GT-PR"
+      name: "エル・プログレソ県"
+      type: "department"
+      nameI18n:
+        en: "El Progreso"
+    - code: "GT-SO"
+      name: "ソロラ県"
+      type: "department"
+      nameI18n:
+        en: "Sololá"
+    - code: "GT-QZ"
+      name: "ケツァルテナンゴ県"
+      type: "department"
+      nameI18n:
+        en: "Quetzaltenango"
+    - code: "GT-BV"
+      name: "バハ・ベラパス県"
+      type: "department"
+      nameI18n:
+        en: "Baja Verapaz"
+    - code: "GT-TO"
+      name: "トトニカパン県"
+      type: "department"
+      nameI18n:
+        en: "Totonicapán"
 ---
 
 <div class="main-desciption country-description">

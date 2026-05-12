@@ -32,6 +32,73 @@ mapPins:
   - { lat: 8.971, lng: -79.557, label: "パナマ・ビエホ", type: "historical", note: "旧パナマ市の世界遺産" }
   - { lat: 9.342, lng: -82.243, label: "ボカス・デル・トロ", type: "city", note: "カリブ海岸の群島観光地" }
   - { lat: 8.819, lng: -82.470, label: "バル火山", type: "nature", note: "国内最高峰・標高3,475m" }
+municipalities:
+  svg: "/maps/countries/panama.svg"
+  title:
+    ja: "パナマの州・特別区"
+    en: "Provinces and Comarcas of Panama"
+  list:
+    - code: "PA-1"
+      name: "ボカス・デル・トロ州"
+      type: "province"
+      nameI18n:
+        en: "Bocas del Toro"
+    - code: "PA-4"
+      name: "チリキ州"
+      type: "province"
+      nameI18n:
+        en: "Chiriquí"
+    - code: "PA-KY"
+      name: "クナ・ヤラ特別区"
+      type: "province"
+      nameI18n:
+        en: "Guna Yala"
+    - code: "PA-EM"
+      name: "エンベラ＝ウォウナーン特別区"
+      type: "province"
+      nameI18n:
+        en: "Emberá-Wounaan"
+    - code: "PA-5"
+      name: "ダリエン州"
+      type: "province"
+      nameI18n:
+        en: "Darién"
+    - code: "PA-8"
+      name: "パナマ州"
+      type: "province"
+      note: "首都所在地"
+      nameI18n:
+        en: "Panamá"
+    - code: "PA-2"
+      name: "コクレ州"
+      type: "province"
+      nameI18n:
+        en: "Coclé"
+    - code: "PA-9"
+      name: "ベラグアス州"
+      type: "province"
+      nameI18n:
+        en: "Veraguas"
+    - code: "PA-3"
+      name: "コロン州"
+      type: "province"
+      nameI18n:
+        en: "Colón"
+    - code: "PA-NB"
+      name: "ンゴベ＝ブグレ特別区"
+      type: "province"
+      nameI18n:
+        en: "Ngöbe-Buglé"
+    - code: "PA-7"
+      name: "ロス・サントス州"
+      type: "province"
+      nameI18n:
+        en: "Los Santos"
+    - code: "PA-6"
+      name: "エレラ州"
+      type: "province"
+      nameI18n:
+        en: "Herrera"
 ---
 
 <div class="main-desciption country-description">

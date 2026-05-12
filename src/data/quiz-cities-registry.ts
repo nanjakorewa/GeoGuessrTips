@@ -47,6 +47,10 @@ import { CHILE_CITIES,       CHILE_PROJECTION,       CHILE_META       } from "./
 import { CANADA_CITIES,      CANADA_PROJECTION,      CANADA_META      } from "./quiz-cities/canada";
 import { COLOMBIA_CITIES,    COLOMBIA_PROJECTION,    COLOMBIA_META    } from "./quiz-cities/colombia";
 import { PERU_CITIES,        PERU_PROJECTION,        PERU_META        } from "./quiz-cities/peru";
+import { ALBANIA_CITIES,     ALBANIA_PROJECTION,     ALBANIA_META     } from "./quiz-cities/albania";
+import { BOSNIA_CITIES,      BOSNIA_PROJECTION,      BOSNIA_META      } from "./quiz-cities/bosnia";
+import { GUATEMALA_CITIES,   GUATEMALA_PROJECTION,   GUATEMALA_META   } from "./quiz-cities/guatemala";
+import { PANAMA_CITIES,      PANAMA_PROJECTION,      PANAMA_META      } from "./quiz-cities/panama";
 
 export interface CityQuizEntry {
   cities: CityEntry[];
@@ -93,6 +97,10 @@ export const CITY_QUIZ_REGISTRY: Record<string, CityQuizEntry> = {
   canada:      { cities: CANADA_CITIES,      projection: CANADA_PROJECTION,      meta: CANADA_META },
   colombia:    { cities: COLOMBIA_CITIES,    projection: COLOMBIA_PROJECTION,    meta: COLOMBIA_META },
   peru:        { cities: PERU_CITIES,        projection: PERU_PROJECTION,        meta: PERU_META },
+  albania:     { cities: ALBANIA_CITIES,     projection: ALBANIA_PROJECTION,     meta: ALBANIA_META },
+  bosnia:      { cities: BOSNIA_CITIES,      projection: BOSNIA_PROJECTION,      meta: BOSNIA_META },
+  guatemala:   { cities: GUATEMALA_CITIES,   projection: GUATEMALA_PROJECTION,   meta: GUATEMALA_META },
+  panama:      { cities: PANAMA_CITIES,      projection: PANAMA_PROJECTION,      meta: PANAMA_META },
 };
 
 export const CITY_QUIZ_SLUGS = Object.keys(CITY_QUIZ_REGISTRY);
