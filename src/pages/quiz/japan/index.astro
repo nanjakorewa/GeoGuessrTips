@@ -1,0 +1,213 @@
+---
+/**
+ * Hub for the Japan-features quizzes at /quiz/japan/.
+ * Lists the 5 categories (dams, mountain ranges, plains, peninsulas, rivers).
+ */
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+import { JAPAN_FEATURES_REGISTRY } from "../../../data/quiz-japan-features-registry";
+
+const lang = "ja" as const;
+const site = "https://geopinning.space";
+const pageTitle = "日本地理クイズ｜ダム・山脈・平野・半島・河川を当てよう";
+const pageDescription =
+  "日本のダム・山脈・平野・半島・河川を、地図上のハイライトから名前を当てるクイズ。位置と名前の暗記学習に。";
+const canonical = `${site}/quiz/japan/`;
+
+const cards = Object.entries(JAPAN_FEATURES_REGISTRY).map(([slug, entry]) => ({
+  slug,
+  count: entry.features.length,
+  meta: entry.meta,
+  href: `/quiz/japan/${slug}/`,
+}));
+
+const crumbs = [
+  { name: "トップ", url: "/" },
+  { name: "クイズ", url: "/quiz/" },
+  { name: "日本地理クイズ", url: "/quiz/japan/" },
+];
+
+// Per-category cover image (placed under public/images/japan-features/).
+const COVERS: Record<string, string> = {
+  dams: "/images/japan-features/dams.jpg",
+  "mountain-ranges": "/images/japan-features/mountain-ranges.jpg",
+  plains: "/images/japan-features/plains.jpg",
+  peninsulas: "/images/japan-features/peninsulas.jpg",
+  rivers: "/images/japan-features/rivers.jpg",
+};
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <Head
+    title={pageTitle}
+    description={pageDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={`${site}/images/icon-512x512.png`}
+    ogType="website"
+    breadcrumbs={crumbs}
+    collection="quiz"
+  />
+  <style is:global>
+    html, body { min-height: 100vh; }
+    body { display: flex; flex-direction: column; }
+    body > header { flex: 0 0 auto; }
+    body > main { flex: 1 0 auto; }
+    body > .site-footer, body > footer { flex: 0 0 auto; margin-top: 0; }
+
+    .jh-page { max-width: 1000px; margin: 0 auto; padding: 1rem 1rem 2rem; }
+    .jh-breadcrumb {
+      list-style: none; padding: 0; margin: 0 0 0.6rem;
+      display: flex; flex-wrap: wrap;
+      font-size: 0.78rem; color: rgba(60,60,60,0.7);
+    }
+    .jh-breadcrumb li::after { content: "›"; margin: 0 0.4em; color: rgba(120,120,120,0.6); }
+    .jh-breadcrumb li:last-child::after { content: ""; }
+    .jh-breadcrumb a { color: inherit; text-decoration: none; }
+    .jh-breadcrumb a:hover { text-decoration: underline; }
+
+    .jh-title { font-size: 1.55rem; font-weight: 800; color: #1f3a5c; margin: 0 0 0.4rem; }
+    .jh-lead { color: #4a5568; margin: 0 0 1.4rem; line-height: 1.65; font-size: 0.95rem; }
+
+    .jh-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 0.9rem;
+    }
+    /* Image-backed panel. The cover image fills the card and is scaled +
+       darkened on hover so the white text remains legible without an emoji. */
+    .jh-card {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      min-height: 180px;
+      padding: 1rem;
+      border: 1px solid #d6deea;
+      text-decoration: none;
+      color: #fff;
+      overflow: hidden;
+      isolation: isolate;
+      transition: transform 0.18s, border-color 0.18s, box-shadow 0.18s;
+    }
+    /* The cover image as a dedicated layer so we can transform it without
+       affecting the text on top. */
+    .jh-card__bg {
+      position: absolute;
+      inset: 0;
+      background-size: cover;
+      background-position: center;
+      transform: scale(1.02);
+      transition: transform 0.45s ease, filter 0.25s ease;
+      z-index: -2;
+    }
+    /* Dark gradient overlay so white text reads against any background. */
+    .jh-card::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        to top,
+        rgba(0,0,0,0.72) 0%,
+        rgba(0,0,0,0.35) 45%,
+        rgba(0,0,0,0.15) 100%
+      );
+      z-index: -1;
+      transition: background 0.25s ease;
+    }
+    .jh-card:hover {
+      transform: translateY(-3px);
+      border-color: #1f4d80;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.18);
+    }
+    .jh-card:hover .jh-card__bg {
+      transform: scale(1.08);
+      filter: saturate(1.15) brightness(1.05);
+    }
+    .jh-card:hover::after {
+      background: linear-gradient(
+        to top,
+        rgba(20,40,70,0.78) 0%,
+        rgba(20,40,70,0.45) 50%,
+        rgba(20,40,70,0.20) 100%
+      );
+    }
+    .jh-card:focus-visible {
+      outline: 3px solid #f59e0b;
+      outline-offset: 2px;
+    }
+    .jh-name {
+      font-weight: 800;
+      color: #fff;
+      font-size: 1.35rem;
+      letter-spacing: 0.04em;
+      text-shadow: 0 2px 6px rgba(0,0,0,0.55);
+      margin: 0 0 0.25rem;
+      line-height: 1.2;
+    }
+    .jh-meta {
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.92);
+      text-shadow: 0 1px 4px rgba(0,0,0,0.55);
+      line-height: 1.4;
+    }
+    .jh-meta__count {
+      display: inline-block;
+      background: rgba(255,255,255,0.18);
+      backdrop-filter: blur(2px);
+      border: 1px solid rgba(255,255,255,0.25);
+      padding: 0.08em 0.55em;
+      margin-right: 0.4em;
+      font-weight: 700;
+      font-size: 0.72rem;
+    }
+
+    @media (max-width: 600px) {
+      .jh-grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 0.7rem; }
+      .jh-card { min-height: 150px; padding: 0.8rem; }
+      .jh-name { font-size: 1.15rem; }
+    }
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+  <main>
+    <div class="jh-page">
+      <ol class="jh-breadcrumb">
+        {crumbs.map((c, i) => (
+          <li>{i === crumbs.length - 1 ? c.name : <a href={c.url}>{c.name}</a>}</li>
+        ))}
+      </ol>
+      <h1 class="jh-title">日本地理クイズ</h1>
+      <p class="jh-lead">
+        日本のダム・山脈・平野・半島・河川を、地図上のハイライト位置から名前を当てるクイズです。<br/>
+        カテゴリを選ぶと、マップ上の該当箇所がオレンジ色で点滅・強調されるので、対応するカードを選んで答えます。
+      </p>
+      <div class="jh-grid">
+        {cards.map((c) => (
+          <a href={c.href} class="jh-card">
+            <span
+              class="jh-card__bg"
+              style={`background-image: url(${COVERS[c.slug] || ""});`}
+              aria-hidden="true"
+            ></span>
+            <span class="jh-name">{c.meta.categoryJa}</span>
+            <span class="jh-meta">
+              <span class="jh-meta__count">{c.count} 件</span>
+              <span>{c.meta.leadJa.slice(0, 28)}…</span>
+            </span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </main>
+  <Footer lang={lang} title={pageTitle} permalink={canonical} />
+  <SearchModal lang={lang} />
+</body>
+</html>

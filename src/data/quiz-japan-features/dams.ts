@@ -1,0 +1,45 @@
+/** 日本の代表的なダム30基（提体位置）。 */
+import type { JapanFeature, JapanFeatureCategoryMeta } from "./_types";
+
+export const DAMS: JapanFeature[] = [
+  { id: "kurobe",        nameJa: "黒部ダム",       nameKana: "くろべダム",         nameEn: "Kurobe Dam",        type: "point", lat: 36.5667, lng: 137.6628 },
+  { id: "okutadami",     nameJa: "奥只見ダム",     nameKana: "おくただみダム",     nameEn: "Okutadami Dam",     type: "point", lat: 37.1900, lng: 139.2200 },
+  { id: "tagokura",      nameJa: "田子倉ダム",     nameKana: "たごくらダム",       nameEn: "Tagokura Dam",      type: "point", lat: 37.2950, lng: 139.3294 },
+  { id: "miboro",        nameJa: "御母衣ダム",     nameKana: "みぼろダム",         nameEn: "Miboro Dam",        type: "point", lat: 36.1733, lng: 136.8169 },
+  { id: "sakuma",        nameJa: "佐久間ダム",     nameKana: "さくまダム",         nameEn: "Sakuma Dam",        type: "point", lat: 35.0875, lng: 137.7972 },
+  { id: "ikari",         nameJa: "五十里ダム",     nameKana: "いかりダム",         nameEn: "Ikari Dam",         type: "point", lat: 36.9417, lng: 139.7194 },
+  { id: "kawamata",      nameJa: "川俣ダム",       nameKana: "かわまたダム",       nameEn: "Kawamata Dam",      type: "point", lat: 36.8628, lng: 139.4969 },
+  { id: "yagisawa",      nameJa: "矢木沢ダム",     nameKana: "やぎさわダム",       nameEn: "Yagisawa Dam",      type: "point", lat: 36.9089, lng: 139.0344 },
+  { id: "fujiwara",      nameJa: "藤原ダム",       nameKana: "ふじわらダム",       nameEn: "Fujiwara Dam",      type: "point", lat: 36.8456, lng: 138.9433 },
+  { id: "shimokubo",     nameJa: "下久保ダム",     nameKana: "しもくぼダム",       nameEn: "Shimokubo Dam",     type: "point", lat: 36.1142, lng: 138.9314 },
+  { id: "ogouchi",       nameJa: "小河内ダム",     nameKana: "おごうちダム",       nameEn: "Ogouchi Dam",       type: "point", lat: 35.7833, lng: 139.0500 },
+  { id: "miyagase",      nameJa: "宮ヶ瀬ダム",     nameKana: "みやがせダム",       nameEn: "Miyagase Dam",      type: "point", lat: 35.5547, lng: 139.2483 },
+  { id: "sagami",        nameJa: "相模ダム",       nameKana: "さがみダム",         nameEn: "Sagami Dam",        type: "point", lat: 35.5942, lng: 139.1758 },
+  { id: "ikawa",         nameJa: "井川ダム",       nameKana: "いかわダム",         nameEn: "Ikawa Dam",         type: "point", lat: 35.2069, lng: 138.2294 },
+  { id: "kuzuryu",       nameJa: "九頭竜ダム",     nameKana: "くずりゅうダム",     nameEn: "Kuzuryū Dam",       type: "point", lat: 35.8978, lng: 136.6597 },
+  { id: "amagase",       nameJa: "天ヶ瀬ダム",     nameKana: "あまがせダム",       nameEn: "Amagase Dam",       type: "point", lat: 34.8794, lng: 135.8186 },
+  { id: "ikehara",       nameJa: "池原ダム",       nameKana: "いけはらダム",       nameEn: "Ikehara Dam",       type: "point", lat: 34.0397, lng: 135.9489 },
+  { id: "sameura",       nameJa: "早明浦ダム",     nameKana: "さめうらダム",       nameEn: "Sameura Dam",       type: "point", lat: 33.7589, lng: 133.5797 },
+  { id: "ikeda",         nameJa: "池田ダム",       nameKana: "いけだダム",         nameEn: "Ikeda Dam",         type: "point", lat: 34.0353, lng: 133.7794 },
+  { id: "takase",        nameJa: "高瀬ダム",       nameKana: "たかせダム",         nameEn: "Takase Dam",        type: "point", lat: 36.4750, lng: 137.6911 },
+  { id: "nukabira",      nameJa: "糠平ダム",       nameKana: "ぬかびらダム",       nameEn: "Nukabira Dam",      type: "point", lat: 43.3500, lng: 143.1833 },
+  { id: "kanayama",      nameJa: "金山ダム",       nameKana: "かなやまダム",       nameEn: "Kanayama Dam",      type: "point", lat: 43.2167, lng: 142.5667 },
+  { id: "shichikashuku", nameJa: "七ヶ宿ダム",     nameKana: "しちかしゅくダム",   nameEn: "Shichikashuku Dam", type: "point", lat: 38.0083, lng: 140.4014 },
+  { id: "tase",          nameJa: "田瀬ダム",       nameKana: "たせダム",           nameEn: "Tase Dam",          type: "point", lat: 39.4339, lng: 141.4500 },
+  { id: "miharu",        nameJa: "三春ダム",       nameKana: "みはるダム",         nameEn: "Miharu Dam",        type: "point", lat: 37.4528, lng: 140.5089 },
+  { id: "kawaji",        nameJa: "川治ダム",       nameKana: "かわじダム",         nameEn: "Kawaji Dam",        type: "point", lat: 36.8767, lng: 139.7106 },
+  { id: "yanase",        nameJa: "魚梁瀬ダム",     nameKana: "やなせダム",         nameEn: "Yanase Dam",        type: "point", lat: 33.7314, lng: 134.2389 },
+  { id: "urayama",       nameJa: "浦山ダム",       nameKana: "うらやまダム",       nameEn: "Urayama Dam",       type: "point", lat: 35.9858, lng: 139.0986 },
+  { id: "yokoyama",      nameJa: "横山ダム",       nameKana: "よこやまダム",       nameEn: "Yokoyama Dam",      type: "point", lat: 35.6789, lng: 136.4750 },
+  { id: "eigenji",       nameJa: "永源寺ダム",     nameKana: "えいげんじダム",     nameEn: "Eigenji Dam",       type: "point", lat: 35.1542, lng: 136.3097 },
+  { id: "hitokura",      nameJa: "一庫ダム",       nameKana: "ひとくらダム",       nameEn: "Hitokura Dam",      type: "point", lat: 34.9558, lng: 135.4156 },
+  { id: "tedori",        nameJa: "手取川ダム",     nameKana: "てどりがわダム",     nameEn: "Tedorigawa Dam",    type: "point", lat: 36.2389, lng: 136.6694 },
+];
+
+export const DAMS_META: JapanFeatureCategoryMeta = {
+  slug: "dams",
+  categoryJa: "ダム",
+  categoryEn: "Dams",
+  color: "#1f77b4",
+  leadJa: "オレンジ色のピンで示されたダムの名前を当てます。日本の代表的な多目的ダム・水力発電ダムを出題。",
+};

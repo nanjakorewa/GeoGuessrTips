@@ -1,0 +1,1295 @@
+---
+/**
+ * Japan-features quiz: /quiz/japan/{category}/
+ *
+ * Categories: dams / mountain-ranges / plains / peninsulas / rivers.
+ * A single nation-wide Japan SVG is shown with the features overlaid as
+ * pins (point) or polylines (mountain ridges, river courses). One feature
+ * is highlighted as the current question; the user picks the matching
+ * name card.
+ */
+import fs from "node:fs";
+import path from "node:path";
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+import type { Language } from "@lib/i18n-utils";
+import {
+  JAPAN_FEATURES_REGISTRY,
+  projectCity,
+} from "../../../data/quiz-japan-features-registry";
+
+export async function getStaticPaths() {
+  return Object.entries(JAPAN_FEATURES_REGISTRY).map(([slug, data]) => ({
+    params: { category: slug },
+    props: { slug, ...data },
+  }));
+}
+
+const { slug, features, projection, meta } = Astro.props as any;
+
+const lang: Language = "ja";
+const site = "https://geopinning.space";
+const pageTitle = `日本の${meta.categoryJa}クイズ｜マップ上のハイライトに対応する${meta.categoryJa}を当てよう`;
+const pageDescription = `日本の${meta.categoryJa}を、地図上でハイライトされた位置から名前を当てるクイズ。位置と名前の暗記学習に。`;
+const canonical = `${site}/quiz/japan/${meta.slug}/`;
+
+// Project features onto SVG viewBox.
+type Projected =
+  | { kind: "point"; id: string; nameJa: string; nameKana?: string; nameEn?: string; cx: number; cy: number }
+  | {
+      kind: "polyline";
+      id: string;
+      nameJa: string;
+      nameKana?: string;
+      nameEn?: string;
+      svgPoints: string;
+      /** Midpoint of the polyline used as anchor for the active label. */
+      midX: number;
+      midY: number;
+    };
+
+const projected: Projected[] = features.map((f: any) => {
+  if (f.type === "point") {
+    const { x, y } = projectCity(f.lng, f.lat, projection);
+    return { kind: "point", id: f.id, nameJa: f.nameJa, nameKana: f.nameKana, nameEn: f.nameEn, cx: x, cy: y };
+  }
+  // polyline
+  const xy = f.points.map(([lng, lat]: [number, number]) => projectCity(lng, lat, projection));
+  const svgPoints = xy.map((p: any) => `${p.x.toFixed(2)},${p.y.toFixed(2)}`).join(" ");
+  const mid = xy[Math.floor(xy.length / 2)];
+  return {
+    kind: "polyline",
+    id: f.id,
+    nameJa: f.nameJa,
+    nameKana: f.nameKana,
+    nameEn: f.nameEn,
+    svgPoints,
+    midX: mid.x,
+    midY: mid.y,
+  };
+});
+
+// Inline the base Japan SVG and inject feature overlays.
+const svgFsPath = path.join(process.cwd(), "public", "maps", "countries", "japan.svg");
+const svgRaw = fs.readFileSync(svgFsPath, "utf8");
+
+const overlayMarkup =
+  `\n  <g class="cq-pins">\n` +
+  projected
+    .map((p) => {
+      if (p.kind === "point") {
+        return `    <circle class="cq-pin" data-id="${p.id}" data-name="${p.nameJa}" cx="${p.cx.toFixed(2)}" cy="${p.cy.toFixed(2)}" r="5"><title>${p.nameJa}</title></circle>`;
+      }
+      return `    <polyline class="cq-line" data-id="${p.id}" data-name="${p.nameJa}" points="${p.svgPoints}" fill="none"><title>${p.nameJa}</title></polyline>`;
+    })
+    .join("\n") +
+  `\n  </g>\n`;
+
+const inlinedSvg = svgRaw
+  .replace(/<\?xml[^?]*\?>\s*/, "")
+  .replace(/<svg\b/, '<svg id="cq-map"')
+  .replace(/<\/svg>\s*$/, overlayMarkup + "</svg>");
+
+// JS-side payload (drop SVG coords, keep the bits the script needs).
+const jsFeatures = features.map((f: any) => ({
+  id: f.id,
+  name: f.nameJa,
+  kana: f.nameKana || "",
+  sub: f.nameEn || "",
+}));
+
+const jsLabels = {
+  promptDefault: `ハイライトされた${meta.categoryJa}は？`,
+  promptDefaultSub: "下のカードから選んでください",
+  promptMemorize: "暗記モード",
+  promptMemorizeSub: "ピン・ラインまたはカードにカーソルを合わせると（スマホはタップ）対応するものがハイライトされます",
+  promptHint: "ヒント有モード",
+  promptHintSub: "上の候補から選んでください（5つの候補）",
+  choicesLabel: "候補から選んでください（ヒント有モード）",
+  correctPrefix: "正解: ",
+  summaryTitleFmt: "🎉 全 {n} 問終了",
+  finished: "終了！",
+};
+
+const breadcrumbs = [
+  { name: "トップ", url: "/" },
+  { name: "クイズ", url: "/quiz/" },
+  { name: "日本地理クイズ", url: "/quiz/japan/" },
+  { name: meta.categoryJa, url: canonical.replace(site, "") },
+];
+
+const coverImage = `/images/japan-features/${meta.slug}.jpg`;
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <Head
+    title={pageTitle}
+    description={pageDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={`${site}/images/icon-512x512.png`}
+    ogType="website"
+    breadcrumbs={breadcrumbs}
+    collection="quiz"
+  />
+  <style is:global>
+    html, body { min-height: 100vh; }
+    body { overflow-x: hidden; display: flex; flex-direction: column; }
+    body > header { flex: 0 0 auto; }
+    body > main { flex: 1 0 auto; }
+    body > .site-footer, body > footer { flex: 0 0 auto; margin-top: 0; }
+
+    .cq-page { max-width: 1100px; margin: 0 auto; padding: 0.8rem 1rem 1.2rem; }
+    .cq-breadcrumb {
+      list-style: none; padding: 0; margin: 0 0 0.5rem 0;
+      display: flex; flex-wrap: wrap;
+      font-size: 0.78rem; color: rgba(60,60,60,0.7);
+    }
+    .cq-breadcrumb li::after { content: "›"; margin: 0 0.4em; color: rgba(120,120,120,0.6); }
+    .cq-breadcrumb li:last-child::after { content: ""; }
+    .cq-breadcrumb a { color: inherit; text-decoration: none; }
+    .cq-breadcrumb a:hover { text-decoration: underline; }
+
+    /* Category banner — the chosen cover photo with the title overlaid.
+       Mirrors the hub's image-panel treatment so the category page feels
+       like a continuation of the panel the user just clicked. */
+    .cq-banner {
+      position: relative;
+      margin: 0 0 0.9rem;
+      min-height: 120px;
+      overflow: hidden;
+      isolation: isolate;
+      display: flex;
+      align-items: flex-end;
+      padding: 0.9rem 1rem;
+      border: 1px solid #d6deea;
+    }
+    .cq-banner__bg {
+      position: absolute;
+      inset: 0;
+      background-size: cover;
+      background-position: center;
+      z-index: -2;
+    }
+    .cq-banner::after {
+      content: "";
+      position: absolute; inset: 0;
+      background: linear-gradient(
+        to top,
+        rgba(0,0,0,0.65) 0%,
+        rgba(0,0,0,0.25) 60%,
+        rgba(0,0,0,0.10) 100%
+      );
+      z-index: -1;
+    }
+    .cq-banner__title {
+      font-size: 1.45rem;
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: 0.04em;
+      text-shadow: 0 2px 6px rgba(0,0,0,0.55);
+      margin: 0;
+      line-height: 1.2;
+    }
+    .cq-banner__lead {
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.92);
+      text-shadow: 0 1px 4px rgba(0,0,0,0.6);
+      margin: 0.25rem 0 0;
+      line-height: 1.45;
+    }
+
+    .cq-bar {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 0.8rem; flex-wrap: wrap;
+      margin-bottom: 0.7rem; padding-bottom: 0.6rem;
+      border-bottom: 1px solid #e1e6ec;
+    }
+    .cq-title { font-size: 1.2rem; font-weight: 800; margin: 0; color: #1f3a5c; }
+    .cq-stats { display: flex; gap: 0.45rem; font-size: 0.85rem; flex-wrap: wrap; }
+    .cq-stats .cq-stat {
+      padding: 0.18em 0.7em; background: rgba(0,0,0,0.05);
+      font-weight: 700; border-radius: 3px;
+    }
+    .cq-stat--correct { background: rgba(74,158,92,0.18); color: #2c6f3c; }
+    .cq-stat--wrong   { background: rgba(192,57,43,0.13); color: #9a2d24; }
+    .cq-stat--streak  {
+      background: linear-gradient(135deg, rgba(249,115,22,0.22), rgba(234,88,12,0.15));
+      color: #c2410c;
+    }
+    .cq-stat--best { background: rgba(124,58,237,0.13); color: #6b21a8; }
+
+    .cq-progress {
+      position: relative; display: flex;
+      width: 100%; height: 8px;
+      background: #eaf2fb; border: 1px solid #d6deea;
+      margin: 0 0 0.7rem; overflow: hidden;
+    }
+    .cq-progress__fill { height: 100%; width: 0; transition: width 0.35s ease; }
+    .cq-progress__fill--correct { background: #4a9e5c; }
+    .cq-progress__fill--wrong   { background: #d35a4d; }
+    .cq-progress__count {
+      position: absolute; top: 50%; right: 0.4em;
+      transform: translateY(-50%);
+      font-size: 0.62rem; font-weight: 700; color: #1f3a5c;
+      background: rgba(255,255,255,0.85);
+      padding: 0 0.4em; line-height: 1.4;
+      pointer-events: none;
+    }
+
+    .cq-prompt-row {
+      text-align: center;
+      padding: 0.7rem 1rem 0.8rem;
+      background: linear-gradient(135deg, rgba(31,77,128,0.10), rgba(31,77,128,0.04));
+      border: 1px solid #d6deea;
+      margin-bottom: 0.8rem;
+    }
+    .cq-prompt-row.is-memorize {
+      background: linear-gradient(135deg, rgba(245,158,11,0.10), rgba(245,158,11,0.04));
+      border-color: rgba(245,158,11,0.45);
+    }
+    .cq-prompt-row.is-hint {
+      background: linear-gradient(135deg, rgba(74,158,92,0.10), rgba(74,158,92,0.04));
+      border-color: rgba(74,158,92,0.45);
+    }
+    .cq-prompt {
+      font-size: 0.78rem; color: rgba(70,70,80,0.75);
+      margin: 0 0 0.15rem; letter-spacing: 0.05em;
+    }
+    .cq-prompt-sub { font-size: 1rem; color: #1f3a5c; font-weight: 700; }
+
+    .cq-map-wrap {
+      position: relative;
+      background: #f6f9fd;
+      border: 1px solid #e1e6ec;
+      padding: 10px;
+    }
+    #cq-map {
+      display: block; width: 100%; height: auto; max-height: 70vh;
+      touch-action: none; /* allow custom pinch-zoom + pan */
+    }
+    #cq-map.is-pannable { cursor: grab; }
+    #cq-map.is-panning { cursor: grabbing; }
+    /* Zoom controls overlay (top-right of map) */
+    .cq-zoom {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      z-index: 5;
+    }
+    .cq-zoom__btn {
+      background: rgba(255,255,255,0.92);
+      border: 1px solid #c4cdd9;
+      width: 32px;
+      height: 32px;
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: #1f3a5c;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 1;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+      touch-action: manipulation;
+    }
+    .cq-zoom__btn:hover { background: #fff; border-color: #1f4d80; }
+    .cq-zoom__btn:active { transform: translateY(1px); }
+    .cq-zoom__btn:disabled { opacity: 0.4; cursor: not-allowed; }
+    #cq-map path {
+      fill: #eaf2fb;
+      stroke: #5b7fa8;
+      stroke-width: 0.4;
+    }
+    .cq-pin {
+      fill: #5b7fa8;
+      stroke: #fff;
+      stroke-width: 1.2;
+      transition: fill 0.18s, stroke 0.18s, r 0.18s;
+    }
+    .cq-pin.is-hidden { display: none; }
+    .cq-pin.is-active {
+      fill: #f59e0b;
+      stroke: #fff;
+      stroke-width: 1.8;
+      r: 9 !important;
+      animation: cq-pulse 1.1s ease-in-out infinite;
+    }
+    @keyframes cq-pulse {
+      0%   { opacity: 1; }
+      50%  { opacity: 0.55; }
+      100% { opacity: 1; }
+    }
+    .cq-pin.is-correct { fill: #4a9e5c; stroke: #fff; stroke-width: 1.5; animation: none; }
+    .cq-pin.is-wrong   { fill: #f59e0b; stroke: #fff; stroke-width: 1.8; animation: cq-pulse 1.0s ease-in-out infinite; }
+    .cq-pin.is-wrong-pick {
+      fill: #d35a4d; stroke: #fff; stroke-width: 1.8; animation: none; r: 8 !important;
+    }
+    .cq-pin.is-done    { fill: #b6c1cf; stroke: #fff; }
+    .cq-pin.is-preview { fill: #f59e0b; stroke: #fff; stroke-width: 1.5; animation: none; }
+
+    /* Polyline features (mountain ranges, rivers) */
+    .cq-line {
+      fill: none;
+      stroke: #5b7fa8;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: stroke 0.18s, stroke-width 0.18s;
+    }
+    .cq-line.is-hidden { display: none; }
+    .cq-line.is-active {
+      stroke: #f59e0b;
+      stroke-width: 4;
+      animation: cq-pulse 1.1s ease-in-out infinite;
+    }
+    .cq-line.is-correct { stroke: #4a9e5c; stroke-width: 3.5; animation: none; }
+    .cq-line.is-wrong   { stroke: #f59e0b; stroke-width: 4; animation: cq-pulse 1.0s ease-in-out infinite; }
+    .cq-line.is-wrong-pick { stroke: #d35a4d; stroke-width: 4; animation: none; }
+    .cq-line.is-done    { stroke: #b6c1cf; stroke-width: 1.5; opacity: 0.6; }
+    .cq-line.is-preview { stroke: #f59e0b; stroke-width: 4; animation: none; }
+    .cq-map-wrap.is-memorize .cq-pin,
+    .cq-map-wrap.is-memorize .cq-line { cursor: pointer; }
+
+    /* Choice area (5 large candidate buttons) */
+    .cq-choices {
+      display: none;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 0.55rem;
+      margin-top: 0.7rem;
+      padding: 0.75rem;
+      background: linear-gradient(135deg, rgba(74,158,92,0.10), rgba(74,158,92,0.03));
+      border: 1px solid rgba(74,158,92,0.35);
+    }
+    .cq-choices.is-active { display: grid; }
+    .cq-choices__label {
+      grid-column: 1 / -1;
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: #2c6f3c;
+      letter-spacing: 0.03em;
+      margin: 0;
+    }
+    .cq-choice {
+      background: #fff;
+      border: 2px solid #a8d2b1;
+      color: #1f3a5c;
+      font-weight: 700;
+      font-size: 1rem;
+      padding: 0.85rem 0.7rem;
+      cursor: pointer;
+      text-align: center;
+      transition: background 0.12s, border-color 0.12s, transform 0.1s, box-shadow 0.12s;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.1em;
+      line-height: 1.25;
+      min-height: 56px;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+      touch-action: manipulation;
+    }
+    .cq-choice:hover { background: #eff7f1; border-color: #4a9e5c; }
+    .cq-choice:active { transform: translateY(1px); }
+    .cq-choice__kana { font-size: 0.7rem; color: #6b7a8d; }
+    .cq-choice__name { font-size: 1rem; font-weight: 800; }
+    .cq-choice__sub  { font-size: 0.72rem; font-weight: 500; color: #6b7a8d; }
+    .cq-choice.is-correct { background: #4a9e5c; color: #fff; border-color: #2c6f3c; cursor: default; }
+    .cq-choice.is-wrong   { background: #d35a4d; color: #fff; border-color: #9a2d24; animation: cq-shake 0.35s ease-in-out; }
+    .cq-choice.is-reveal  {
+      background: #ffd082; color: #7a4f10; border-color: #c97a18;
+      animation: cq-reveal-flash 0.7s ease-in-out;
+    }
+    .cq-choice.is-correct .cq-choice__sub,
+    .cq-choice.is-correct .cq-choice__kana,
+    .cq-choice.is-wrong .cq-choice__sub,
+    .cq-choice.is-wrong .cq-choice__kana { color: rgba(255,255,255,0.85); }
+    .cq-choice.is-reveal .cq-choice__sub,
+    .cq-choice.is-reveal .cq-choice__kana { color: rgba(122,79,16,0.82); }
+
+    .cq-cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 0.4rem;
+      margin-top: 0.9rem;
+    }
+    .cq-cards.is-hint {
+      grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+      gap: 0.3rem;
+      opacity: 0.95;
+    }
+    .cq-cards.is-hint .cq-card {
+      font-size: 0.78rem;
+      padding: 0.3rem 0.45rem 0.35rem;
+    }
+    .cq-cards.is-hint .cq-card__name { font-size: 0.8rem; }
+    .cq-cards.is-hint .cq-card__sub { font-size: 0.58rem; }
+    .cq-card {
+      background: #fff;
+      border: 1px solid #d6deea;
+      color: #1f3a5c;
+      font-weight: 600;
+      font-size: 0.9rem;
+      padding: 0.55rem 0.6rem 0.6rem;
+      cursor: pointer;
+      text-align: center;
+      transition: background 0.12s, border-color 0.12s, transform 0.1s, opacity 0.2s;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.05em;
+      line-height: 1.25;
+      min-height: 44px;
+      touch-action: manipulation;
+    }
+    .cq-card.is-hidden { display: none; }
+    .cq-card__kana { font-size: 0.6rem; color: #8a96a8; }
+    .cq-card__name { font-size: 0.9rem; font-weight: 700; }
+    .cq-card__sub {
+      font-size: 0.62rem; font-weight: 400;
+      color: #6b7a8d; letter-spacing: 0.01em;
+    }
+    .cq-card:hover { background: #eef3f9; border-color: #1f4d80; }
+    .cq-card:active { transform: translateY(1px); }
+    .cq-card.is-correct { background: #4a9e5c; color: #fff; border-color: #2c6f3c; cursor: default; }
+    .cq-card.is-wrong   { background: #d35a4d; color: #fff; border-color: #9a2d24; animation: cq-shake 0.35s ease-in-out; }
+    .cq-card.is-done    { background: #f3f5f8; color: #9ca8b8; border-color: #e1e6ec; pointer-events: none; }
+    .cq-card.is-reveal  {
+      background: #ffd082; color: #7a4f10; border-color: #c97a18;
+      animation: cq-reveal-flash 0.7s ease-in-out;
+    }
+    .cq-card.is-preview {
+      background: #fff4dc;
+      border-color: #c89f3d;
+      color: #92670f;
+    }
+    .cq-card.is-candidate {
+      border: 2px solid #4a9e5c;
+      box-shadow: 0 0 0 1px rgba(74,158,92,0.25);
+    }
+    .cq-card.is-correct .cq-card__sub,
+    .cq-card.is-correct .cq-card__kana,
+    .cq-card.is-wrong .cq-card__sub,
+    .cq-card.is-wrong .cq-card__kana { color: rgba(255,255,255,0.82); }
+    .cq-card.is-reveal .cq-card__sub,
+    .cq-card.is-reveal .cq-card__kana { color: rgba(122,79,16,0.82); }
+    .cq-card.is-done .cq-card__sub,
+    .cq-card.is-done .cq-card__kana { color: #b6c1cf; }
+    @keyframes cq-shake {
+      0%, 100% { transform: translateX(0); }
+      25% { transform: translateX(-4px); }
+      75% { transform: translateX(4px); }
+    }
+    @keyframes cq-reveal-flash {
+      0%   { background: #ffd082; }
+      50%  { background: #ffba50; }
+      100% { background: #ffd082; }
+    }
+
+    .cq-actions {
+      display: flex; gap: 0.5rem;
+      margin-top: 0.7rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .cq-btn {
+      background: #fff;
+      color: #1f3a5c;
+      border: 1px solid #d6deea;
+      font-size: 0.85rem;
+      font-weight: 700;
+      padding: 0.45em 1.1em;
+      cursor: pointer;
+      transition: background 0.12s, border-color 0.12s;
+    }
+    .cq-btn:hover { background: #eef3f9; border-color: #1f4d80; }
+    .cq-btn--primary { background: #1f4d80; color: #fff; border-color: #1f4d80; }
+    .cq-btn--primary:hover { background: #163a63; }
+    .cq-btn--memorize { border-color: #d6b878; color: #92670f; }
+    .cq-btn--memorize:hover { background: #fff4dc; border-color: #c89f3d; }
+    .cq-btn--memorize.is-active {
+      background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+      color: #fff; border-color: #d97706;
+    }
+    .cq-btn--hint { border-color: #a8d2b1; color: #2c6f3c; }
+    .cq-btn--hint:hover { background: #eff7f1; border-color: #4a9e5c; }
+    .cq-btn--hint.is-active {
+      background: linear-gradient(135deg, #4a9e5c 0%, #2c6f3c 100%);
+      color: #fff; border-color: #2c6f3c;
+    }
+
+    .cq-summary {
+      text-align: center;
+      padding: 1rem 1rem 1.2rem;
+      background: #fff8e6;
+      border: 1px solid #ffd082;
+      margin-top: 0.8rem;
+    }
+    .cq-summary[hidden] { display: none; }
+    .cq-summary__title { font-size: 1.3rem; font-weight: 800; color: #c97a18; margin: 0 0 0.4rem; }
+    .cq-summary__line { font-size: 0.95rem; margin: 0.15rem 0; color: #7a4f10; }
+    .cq-summary__line strong { color: #1f3a5c; font-size: 1.1em; }
+
+    .cq-content {
+      margin-top: 1.6rem;
+      padding-top: 1rem;
+      border-top: 1px dashed #e1e6ec;
+      font-size: 0.82rem;
+      color: #4a5568;
+      line-height: 1.55;
+    }
+    .cq-content__title {
+      font-size: 0.95rem; font-weight: 700; color: #1f3a5c;
+      margin: 0 0 0.5rem;
+    }
+    .cq-content__desc { color: #6b7a8d; margin: 0 0 1rem; font-size: 0.78rem; line-height: 1.7; }
+    .cq-feature-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.78rem;
+    }
+    .cq-feature-table th,
+    .cq-feature-table td {
+      padding: 0.3em 0.55em;
+      text-align: left;
+      border-bottom: 1px solid #eaf0f6;
+    }
+    .cq-feature-table th {
+      font-weight: 700;
+      color: #1f3a5c;
+      background: #f6f9fd;
+      font-size: 0.72rem;
+    }
+    .cq-feature-table td:first-child { font-weight: 600; color: #1f3a5c; }
+    .cq-disclaimer {
+      margin-top: 1.4rem;
+      padding: 0.6rem 0.8rem;
+      background: #f6f9fd;
+      border-left: 3px solid #c4cdd9;
+      font-size: 0.72rem;
+      color: #6b7a8d;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 700px) {
+      .cq-page { padding: 0.6rem 0.6rem 1rem; }
+      .cq-title { font-size: 1.05rem; }
+      .cq-stats { font-size: 0.78rem; gap: 0.3rem; }
+      .cq-choices { padding: 0.6rem; gap: 0.5rem; grid-template-columns: repeat(2, 1fr); }
+      .cq-choice { min-height: 60px; font-size: 1rem; padding: 0.75rem 0.5rem; }
+      .cq-choice__name { font-size: 0.95rem; }
+      .cq-cards { gap: 0.35rem; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); }
+      .cq-cards.is-hint { grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); gap: 0.25rem; }
+      .cq-card { min-height: 46px; padding: 0.5rem 0.45rem; }
+      .cq-btn { padding: 0.55em 1em; font-size: 0.88rem; }
+      #cq-map { max-height: 55vh; }
+    }
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+
+  <main>
+    <div class="cq-page" id="cq-page">
+      <ol class="cq-breadcrumb">
+        {breadcrumbs.map((c, i) => (
+          <li>{i === breadcrumbs.length - 1 ? c.name : <a href={c.url}>{c.name}</a>}</li>
+        ))}
+      </ol>
+
+      <section class="cq-banner">
+        <span class="cq-banner__bg" style={`background-image: url(${coverImage});`} aria-hidden="true"></span>
+        <div>
+          <h1 class="cq-banner__title">日本の{meta.categoryJa}クイズ</h1>
+          <p class="cq-banner__lead">{meta.leadJa}</p>
+        </div>
+      </section>
+
+      <div class="cq-bar">
+        <div class="cq-stats">
+          <span class="cq-stat cq-stat--streak">🔥 連続: <span id="cq-streak">0</span></span>
+          <span class="cq-stat cq-stat--best">🏆 最高: <span id="cq-best">0</span></span>
+          <span class="cq-stat cq-stat--correct">○ <span id="cq-correct">0</span></span>
+          <span class="cq-stat cq-stat--wrong">✕ <span id="cq-wrong">0</span></span>
+          <span class="cq-stat">残り <span id="cq-remaining">{features.length}</span></span>
+        </div>
+      </div>
+
+      <div class="cq-progress" id="cq-progress" role="progressbar" aria-label="進捗" aria-valuemin="0" aria-valuemax={features.length} aria-valuenow="0">
+        <div class="cq-progress__fill cq-progress__fill--correct" id="cq-progress-correct"></div>
+        <div class="cq-progress__fill cq-progress__fill--wrong" id="cq-progress-wrong"></div>
+        <div class="cq-progress__count" id="cq-progress-count">0 / {features.length}</div>
+      </div>
+
+      <div class="cq-prompt-row is-hint" id="cq-prompt-row">
+        <div class="cq-prompt" id="cq-prompt">ヒント有モード</div>
+        <div class="cq-prompt-sub" id="cq-prompt-sub">上の候補から選んでください（5つの候補）</div>
+      </div>
+
+      <div class="cq-map-wrap" id="cq-map-wrap">
+        <Fragment set:html={inlinedSvg} />
+        <div class="cq-zoom" aria-label="マップのズーム">
+          <button class="cq-zoom__btn" id="cq-zoom-in" type="button" aria-label="拡大" title="拡大">＋</button>
+          <button class="cq-zoom__btn" id="cq-zoom-out" type="button" aria-label="縮小" title="縮小">−</button>
+          <button class="cq-zoom__btn" id="cq-zoom-reset" type="button" aria-label="全体表示" title="全体表示">⤧</button>
+        </div>
+      </div>
+
+      <div class="cq-choices is-active" id="cq-choices" aria-label="回答候補">
+        <p class="cq-choices__label">候補から選んでください（ヒント有モード）</p>
+      </div>
+
+      <div class="cq-cards is-hint" id="cq-cards">
+        {jsFeatures.map((c: any) => (
+          <button class="cq-card" type="button" data-id={c.id}>
+            {c.kana && <span class="cq-card__kana">{c.kana}</span>}
+            <span class="cq-card__name">{c.name}</span>
+            {c.sub && <span class="cq-card__sub" lang="en">{c.sub}</span>}
+          </button>
+        ))}
+      </div>
+
+      <div class="cq-actions">
+        <button class="cq-btn" id="cq-skip" type="button">スキップ</button>
+        <button class="cq-btn cq-btn--primary" id="cq-restart" type="button">最初から</button>
+        <button class="cq-btn cq-btn--memorize" id="cq-memorize" type="button" aria-pressed="false">暗記モード</button>
+        <button class="cq-btn cq-btn--hint is-active" id="cq-hint" type="button" aria-pressed="true">ヒント有</button>
+      </div>
+
+      <div class="cq-summary" id="cq-summary" hidden>
+        <div class="cq-summary__title" id="cq-summary-title-text">&nbsp;</div>
+        <p class="cq-summary__line">正解: <strong id="cq-summary-correct">0</strong></p>
+        <p class="cq-summary__line">最高連続正解: <strong id="cq-summary-best-this">0</strong> 問</p>
+        <p class="cq-summary__line">通算ベスト: <strong id="cq-summary-best-all">0</strong> 問</p>
+      </div>
+
+      <div class="cq-content">
+        <h2 class="cq-content__title">このクイズで出題される{meta.categoryJa} ({features.length})</h2>
+        <p class="cq-content__desc">{meta.leadJa}</p>
+        <table class="cq-feature-table">
+          <thead>
+            <tr><th>名前</th><th>読み</th><th>英語</th></tr>
+          </thead>
+          <tbody>
+            {jsFeatures.map((c: any) => (
+              <tr>
+                <td>{c.name}</td>
+                <td>{c.kana}</td>
+                <td lang="en">{c.sub}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        <p class="cq-disclaimer">
+          ※ 山脈・河川の線は概略のラインです。実際の稜線や流域の形状を正確に反映しているわけではなく、また分岐や急カーブは描画の都合上省略している点にご留意ください。
+        </p>
+      </div>
+    </div>
+  </main>
+
+  <Footer lang={lang} title={`日本の${meta.categoryJa}クイズ`} permalink={canonical} />
+  <SearchModal lang={lang} />
+
+  <script is:inline define:vars={{ features: jsFeatures, jsLabels, storageKey: `cq-jp-best:${slug}` }}>
+    (function () {
+      const STORAGE_KEY = storageKey;
+      const ADVANCE_OK = 550;
+      const ADVANCE_NG = 1700;
+      const LABELS = jsLabels;
+      const HINT_CANDIDATE_COUNT = 5;
+
+      const $ = (id) => document.getElementById(id);
+      const page = $("cq-page");
+      const cardsEl = $("cq-cards");
+      const choicesEl = $("cq-choices");
+      const promptRow = $("cq-prompt-row");
+      const promptEl = $("cq-prompt");
+      const promptSubEl = $("cq-prompt-sub");
+      const elStreak = $("cq-streak");
+      const elBest = $("cq-best");
+      const elCorrect = $("cq-correct");
+      const elWrong = $("cq-wrong");
+      const elRemaining = $("cq-remaining");
+      const elProgress = $("cq-progress");
+      const elProgressCorrect = $("cq-progress-correct");
+      const elProgressWrong = $("cq-progress-wrong");
+      const elProgressCount = $("cq-progress-count");
+      const elSummary = $("cq-summary");
+      const elSummaryTitle = $("cq-summary-title-text");
+      const elSummaryCorrect = $("cq-summary-correct");
+      const elSummaryBestThis = $("cq-summary-best-this");
+      const elSummaryBestAll = $("cq-summary-best-all");
+      const map = $("cq-map");
+      const mapWrap = $("cq-map-wrap");
+      const memorizeBtn = $("cq-memorize");
+      const hintBtn = $("cq-hint");
+
+      // Feature element lookup: both pins and polylines are addressable by id.
+      const featureByCode = {};
+      map.querySelectorAll(".cq-pin, .cq-line").forEach((el) => {
+        featureByCode[el.getAttribute("data-id")] = el;
+      });
+      const cardByCode = {};
+      cardsEl.querySelectorAll(".cq-card").forEach((c) => {
+        cardByCode[c.getAttribute("data-id")] = c;
+      });
+      const idToName = Object.create(null);
+      const idToSub = Object.create(null);
+      const idToKana = Object.create(null);
+      features.forEach((c) => {
+        idToName[c.id] = c.name;
+        if (c.sub) idToSub[c.id] = c.sub;
+        if (c.kana) idToKana[c.id] = c.kana;
+      });
+      function fullName(id) {
+        const j = idToName[id] || id;
+        const s = idToSub[id];
+        return s ? j + " (" + s + ")" : j;
+      }
+
+      function shuffle(arr) {
+        const a = arr.slice();
+        for (let i = a.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
+      }
+
+      // ===== State =====
+      let queue = [];
+      let index = 0;
+      let correct = 0;
+      let wrong = 0;
+      let streak = 0;
+      let bestThisRound = 0;
+      let lastAdvanceTimer = null;
+      let locked = false;
+      let memorizeMode = false;
+      let hintMode = true;
+
+      function getBest() {
+        const v = parseInt(localStorage.getItem(STORAGE_KEY) || "0", 10);
+        return isNaN(v) ? 0 : v;
+      }
+      function setBest(v) { localStorage.setItem(STORAGE_KEY, String(v)); }
+      let bestAllTime = getBest();
+      elBest.textContent = String(bestAllTime);
+
+      function activePoolIds() { return features.map((c) => c.id); }
+
+      function updateProgress() {
+        const total = queue.length;
+        if (!total) return;
+        const correctPct = (correct / total) * 100;
+        const wrongPct = (wrong / total) * 100;
+        elProgressCorrect.style.width = correctPct + "%";
+        elProgressWrong.style.width = wrongPct + "%";
+        elProgressCount.textContent = (correct + wrong) + " / " + total;
+        elProgress.setAttribute("aria-valuenow", String(correct + wrong));
+      }
+      function updateScores() {
+        elCorrect.textContent = String(correct);
+        elWrong.textContent = String(wrong);
+        elStreak.textContent = String(streak);
+        elBest.textContent = String(bestAllTime);
+        updateProgress();
+      }
+      function recordAnswer(isCorrect) {
+        if (isCorrect) {
+          correct++;
+          streak++;
+          if (streak > bestThisRound) bestThisRound = streak;
+          if (streak > bestAllTime) { bestAllTime = streak; setBest(bestAllTime); }
+        } else {
+          wrong++;
+          streak = 0;
+        }
+        updateScores();
+      }
+
+      function clearActiveFeature() {
+        Object.values(featureByCode).forEach((p) => p.classList.remove("is-active"));
+      }
+      function clearWrongPickFeature() {
+        Object.values(featureByCode).forEach((p) => p.classList.remove("is-wrong-pick"));
+      }
+      function clearAllPreviews() {
+        Object.values(featureByCode).forEach((p) => p.classList.remove("is-preview"));
+        Object.values(cardByCode).forEach((c) => c.classList.remove("is-preview"));
+      }
+      function clearCardFeedback() {
+        cardsEl.querySelectorAll(".cq-card.is-wrong, .cq-card.is-reveal").forEach((c) => {
+          c.classList.remove("is-wrong", "is-reveal");
+        });
+      }
+      function clearHintHighlight() {
+        cardsEl.querySelectorAll(".cq-card.is-candidate").forEach((c) => c.classList.remove("is-candidate"));
+      }
+      function clearChoices() {
+        Array.from(choicesEl.querySelectorAll(".cq-choice")).forEach((b) => b.remove());
+      }
+      function buildChoices(ids) {
+        clearChoices();
+        ids.forEach((id) => {
+          const c = features.find((x) => x.id === id);
+          if (!c) return;
+          const btn = document.createElement("button");
+          btn.type = "button";
+          btn.className = "cq-choice";
+          btn.setAttribute("data-id", id);
+          if (c.kana) {
+            const kana = document.createElement("span");
+            kana.className = "cq-choice__kana";
+            kana.textContent = c.kana;
+            btn.appendChild(kana);
+          }
+          const name = document.createElement("span");
+          name.className = "cq-choice__name";
+          name.textContent = c.name;
+          btn.appendChild(name);
+          if (c.sub) {
+            const sub = document.createElement("span");
+            sub.className = "cq-choice__sub";
+            sub.setAttribute("lang", "en");
+            sub.textContent = c.sub;
+            btn.appendChild(sub);
+          }
+          choicesEl.appendChild(btn);
+        });
+      }
+      function applyHintForCurrent() {
+        clearHintHighlight();
+        clearChoices();
+        if (!hintMode) return;
+        const q = queue[index];
+        if (!q) return;
+        const pool = activePoolIds().filter((id) => id !== q && cardByCode[id] && !cardByCode[id].classList.contains("is-done"));
+        const distractors = shuffle(pool).slice(0, HINT_CANDIDATE_COUNT - 1);
+        const candidates = shuffle([q, ...distractors]);
+        candidates.forEach((id) => {
+          if (cardByCode[id]) cardByCode[id].classList.add("is-candidate");
+        });
+        buildChoices(candidates);
+      }
+
+      function showQuestion() {
+        if (index >= queue.length) { finish(); return; }
+        const q = queue[index];
+        clearActiveFeature();
+        clearWrongPickFeature();
+        clearCardFeedback();
+        clearHintHighlight();
+        const el = featureByCode[q];
+        if (el) {
+          el.classList.remove("is-correct", "is-wrong");
+          el.classList.add("is-active");
+        }
+        elRemaining.textContent = String(queue.length - index);
+        if (hintMode) {
+          promptEl.textContent = LABELS.promptHint;
+          promptSubEl.textContent = LABELS.promptHintSub;
+          applyHintForCurrent();
+        } else {
+          promptEl.textContent = LABELS.promptDefault;
+          promptSubEl.textContent = LABELS.promptDefaultSub;
+          clearChoices();
+        }
+        locked = false;
+      }
+      function getChoice(id) {
+        return choicesEl.querySelector('.cq-choice[data-id="' + id + '"]');
+      }
+      function markDone(id, isCorrect) {
+        const el = featureByCode[id];
+        const card = cardByCode[id];
+        const choice = getChoice(id);
+        if (el) {
+          el.classList.remove("is-active");
+          el.classList.add(isCorrect ? "is-correct" : "is-wrong");
+          setTimeout(() => {
+            el.classList.remove("is-correct", "is-wrong");
+            el.classList.add("is-done");
+          }, isCorrect ? ADVANCE_OK : ADVANCE_NG);
+        }
+        if (card) {
+          if (isCorrect) {
+            card.classList.add("is-correct");
+            setTimeout(() => {
+              card.classList.remove("is-correct", "is-candidate");
+              card.classList.add("is-done");
+            }, ADVANCE_OK);
+          } else {
+            setTimeout(() => {
+              card.classList.add("is-done");
+              card.classList.remove("is-candidate");
+            }, ADVANCE_NG);
+          }
+        }
+        if (choice) choice.classList.add(isCorrect ? "is-correct" : "is-reveal");
+      }
+      function advance() { index++; showQuestion(); }
+
+      function setMemorizeMode(on) {
+        memorizeMode = !!on;
+        memorizeBtn.classList.toggle("is-active", memorizeMode);
+        memorizeBtn.setAttribute("aria-pressed", memorizeMode ? "true" : "false");
+        mapWrap.classList.toggle("is-memorize", memorizeMode);
+        promptRow.classList.toggle("is-memorize", memorizeMode);
+        promptRow.classList.toggle("is-hint", hintMode && !memorizeMode);
+        if (memorizeMode) {
+          if (lastAdvanceTimer) { clearTimeout(lastAdvanceTimer); lastAdvanceTimer = null; }
+          clearActiveFeature();
+          clearAllPreviews();
+          clearCardFeedback();
+          clearHintHighlight();
+          promptEl.textContent = LABELS.promptMemorize;
+          promptSubEl.textContent = LABELS.promptMemorizeSub;
+        } else {
+          clearAllPreviews();
+          if (page.classList.contains("is-finished")) {
+            promptSubEl.textContent = LABELS.finished;
+          } else {
+            const q = queue[index];
+            if (q && featureByCode[q] && !cardByCode[q].classList.contains("is-done")) {
+              featureByCode[q].classList.add("is-active");
+            }
+            if (hintMode) {
+              promptEl.textContent = LABELS.promptHint;
+              promptSubEl.textContent = LABELS.promptHintSub;
+              applyHintForCurrent();
+            } else {
+              promptEl.textContent = LABELS.promptDefault;
+              promptSubEl.textContent = LABELS.promptDefaultSub;
+            }
+          }
+        }
+      }
+      function toggleMemorize() { setMemorizeMode(!memorizeMode); }
+
+      function setHintMode(on) {
+        hintMode = !!on;
+        hintBtn.classList.toggle("is-active", hintMode);
+        hintBtn.setAttribute("aria-pressed", hintMode ? "true" : "false");
+        cardsEl.classList.toggle("is-hint", hintMode);
+        choicesEl.classList.toggle("is-active", hintMode);
+        promptRow.classList.toggle("is-hint", hintMode && !memorizeMode);
+        if (memorizeMode) return;
+        if (hintMode) {
+          promptEl.textContent = LABELS.promptHint;
+          promptSubEl.textContent = LABELS.promptHintSub;
+          applyHintForCurrent();
+        } else {
+          clearHintHighlight();
+          clearChoices();
+          promptEl.textContent = LABELS.promptDefault;
+          promptSubEl.textContent = LABELS.promptDefaultSub;
+        }
+      }
+      function toggleHint() { setHintMode(!hintMode); }
+
+      function previewByCode(code) {
+        clearAllPreviews();
+        const el = featureByCode[code];
+        const card = cardByCode[code];
+        if (el) el.classList.add("is-preview");
+        if (card) card.classList.add("is-preview");
+      }
+      map.addEventListener("mouseover", (e) => {
+        if (!memorizeMode) return;
+        const el = e.target.closest && e.target.closest(".cq-pin, .cq-line");
+        if (el) previewByCode(el.getAttribute("data-id"));
+      });
+      map.addEventListener("mouseout", (e) => {
+        if (!memorizeMode) return;
+        const r = e.relatedTarget;
+        if (!r || !r.closest || !r.closest(".cq-pin, .cq-line")) clearAllPreviews();
+      });
+      map.addEventListener("click", (e) => {
+        if (!memorizeMode) return;
+        const el = e.target.closest && e.target.closest(".cq-pin, .cq-line");
+        if (el) previewByCode(el.getAttribute("data-id"));
+      });
+      cardsEl.addEventListener("mouseover", (e) => {
+        if (!memorizeMode) return;
+        const card = e.target.closest && e.target.closest(".cq-card");
+        if (card) previewByCode(card.getAttribute("data-id"));
+      });
+      cardsEl.addEventListener("mouseout", (e) => {
+        if (!memorizeMode) return;
+        const r = e.relatedTarget;
+        if (!r || !r.closest || !r.closest(".cq-card")) clearAllPreviews();
+      });
+
+      function handleCardClick(e) {
+        const target = e.target.closest(".cq-card, .cq-choice");
+        if (!target) return;
+        const id = target.getAttribute("data-id");
+        if (memorizeMode) { previewByCode(id); return; }
+        if (locked) return;
+        if (target.classList.contains("is-done") || target.classList.contains("is-hidden")) return;
+        const q = queue[index];
+        if (!q) return;
+
+        locked = true;
+        const isChoice = target.classList.contains("cq-choice");
+        const mirrorCard = isChoice ? cardByCode[id] : null;
+        const mirrorChoice = isChoice ? null : getChoice(id);
+
+        if (id === q) {
+          target.classList.add("is-correct");
+          if (mirrorCard) mirrorCard.classList.add("is-correct");
+          if (mirrorChoice) mirrorChoice.classList.add("is-correct");
+          recordAnswer(true);
+          markDone(q, true);
+          lastAdvanceTimer = setTimeout(advance, ADVANCE_OK);
+        } else {
+          target.classList.add("is-wrong");
+          if (mirrorCard) mirrorCard.classList.add("is-wrong");
+          if (mirrorChoice) mirrorChoice.classList.add("is-wrong");
+          const correctCard = cardByCode[q];
+          if (correctCard) correctCard.classList.add("is-reveal");
+          const correctChoice = getChoice(q);
+          if (correctChoice) correctChoice.classList.add("is-reveal");
+          const wrongEl = featureByCode[id];
+          if (wrongEl) wrongEl.classList.add("is-wrong-pick");
+          promptSubEl.textContent = LABELS.correctPrefix + fullName(q);
+          recordAnswer(false);
+          markDone(q, false);
+          lastAdvanceTimer = setTimeout(advance, ADVANCE_NG);
+        }
+      }
+
+      function skipCurrent() {
+        if (memorizeMode) return;
+        if (locked) return;
+        const q = queue[index];
+        if (!q) return;
+        locked = true;
+        const correctCard = cardByCode[q];
+        if (correctCard) correctCard.classList.add("is-reveal");
+        const correctChoice = getChoice(q);
+        if (correctChoice) correctChoice.classList.add("is-reveal");
+        promptSubEl.textContent = LABELS.correctPrefix + fullName(q);
+        recordAnswer(false);
+        markDone(q, false);
+        lastAdvanceTimer = setTimeout(advance, ADVANCE_NG);
+      }
+
+      function finish() {
+        page.classList.add("is-finished");
+        elSummaryTitle.textContent = LABELS.summaryTitleFmt.replace("{n}", String(queue.length));
+        elSummaryCorrect.textContent = correct + " / " + queue.length;
+        elSummaryBestThis.textContent = String(bestThisRound);
+        elSummaryBestAll.textContent = String(bestAllTime);
+        elSummary.hidden = false;
+        promptSubEl.textContent = LABELS.finished;
+        elRemaining.textContent = "0";
+        clearActiveFeature();
+        clearWrongPickFeature();
+        clearHintHighlight();
+        clearChoices();
+      }
+
+      function restart() {
+        if (lastAdvanceTimer) { clearTimeout(lastAdvanceTimer); lastAdvanceTimer = null; }
+        if (memorizeMode) setMemorizeMode(false);
+        const pool = activePoolIds();
+        queue = shuffle(pool);
+        if (elProgress) elProgress.setAttribute("aria-valuemax", String(queue.length));
+        index = 0;
+        correct = 0;
+        wrong = 0;
+        streak = 0;
+        bestThisRound = 0;
+        locked = false;
+        page.classList.remove("is-finished");
+        elSummary.hidden = true;
+        Object.values(featureByCode).forEach((el) => {
+          el.classList.remove("is-active", "is-correct", "is-wrong", "is-wrong-pick", "is-done", "is-preview");
+        });
+        Object.values(cardByCode).forEach((c) => {
+          c.classList.remove("is-correct", "is-wrong", "is-reveal", "is-done", "is-preview", "is-candidate");
+        });
+        clearChoices();
+        updateScores();
+        showQuestion();
+      }
+
+      cardsEl.addEventListener("click", handleCardClick);
+      choicesEl.addEventListener("click", handleCardClick);
+      $("cq-skip").addEventListener("click", skipCurrent);
+      $("cq-restart").addEventListener("click", restart);
+      memorizeBtn.addEventListener("click", toggleMemorize);
+      hintBtn.addEventListener("click", toggleHint);
+
+      // ===== Map zoom & pan =====
+      // viewBox-based zoom. We remember the original viewBox to support reset.
+      const initialVB = (() => {
+        const vb = map.getAttribute("viewBox");
+        if (!vb) return null;
+        const [x, y, w, h] = vb.split(/\s+/).map(parseFloat);
+        return { x, y, w, h };
+      })();
+      let curVB = initialVB ? { ...initialVB } : null;
+      const ZOOM_MIN = 0.15; // 1/6.7 of original size = ~6x zoom in
+      const ZOOM_MAX = 1.0;  // 1x = original (no zoom-out beyond default)
+
+      function applyVB() {
+        if (!curVB || !map) return;
+        map.setAttribute("viewBox",
+          curVB.x + " " + curVB.y + " " + curVB.w + " " + curVB.h);
+      }
+      function clampVB() {
+        if (!curVB || !initialVB) return;
+        // Clamp pan so we never scroll past the original viewBox bounds.
+        const maxX = initialVB.x + initialVB.w - curVB.w;
+        const maxY = initialVB.y + initialVB.h - curVB.h;
+        curVB.x = Math.max(initialVB.x, Math.min(curVB.x, maxX));
+        curVB.y = Math.max(initialVB.y, Math.min(curVB.y, maxY));
+      }
+      function zoomBy(factor, cx, cy) {
+        if (!curVB || !initialVB) return;
+        const ratio = curVB.w / initialVB.w;
+        let next = ratio * factor;
+        next = Math.max(ZOOM_MIN, Math.min(ZOOM_MAX, next));
+        if (next === ratio) return;
+        const newW = initialVB.w * next;
+        const newH = initialVB.h * next;
+        // Anchor zoom at (cx, cy) inside SVG coords.
+        if (cx == null) cx = curVB.x + curVB.w / 2;
+        if (cy == null) cy = curVB.y + curVB.h / 2;
+        const px = (cx - curVB.x) / curVB.w;
+        const py = (cy - curVB.y) / curVB.h;
+        curVB.x = cx - px * newW;
+        curVB.y = cy - py * newH;
+        curVB.w = newW;
+        curVB.h = newH;
+        clampVB();
+        applyVB();
+        updatePannableCursor();
+      }
+      function resetZoom() {
+        if (!initialVB) return;
+        curVB = { ...initialVB };
+        applyVB();
+        updatePannableCursor();
+      }
+      function updatePannableCursor() {
+        if (!initialVB || !curVB) return;
+        const zoomed = curVB.w < initialVB.w - 0.01;
+        map.classList.toggle("is-pannable", zoomed);
+      }
+      // Translate a client-pixel point into SVG-coordinate space.
+      function clientToSvg(clientX, clientY) {
+        if (!map) return { x: 0, y: 0 };
+        const rect = map.getBoundingClientRect();
+        const px = (clientX - rect.left) / rect.width;
+        const py = (clientY - rect.top) / rect.height;
+        return {
+          x: curVB.x + px * curVB.w,
+          y: curVB.y + py * curVB.h,
+        };
+      }
+
+      const btnIn  = $("cq-zoom-in");
+      const btnOut = $("cq-zoom-out");
+      const btnReset = $("cq-zoom-reset");
+      if (btnIn)    btnIn.addEventListener("click", () => zoomBy(1 / 1.4));
+      if (btnOut)   btnOut.addEventListener("click", () => zoomBy(1.4));
+      if (btnReset) btnReset.addEventListener("click", resetZoom);
+
+      // Wheel zoom (Ctrl+wheel or plain wheel on touchpad).
+      map.addEventListener("wheel", (e) => {
+        if (!initialVB) return;
+        e.preventDefault();
+        const factor = e.deltaY > 0 ? 1.15 : 1 / 1.15;
+        const p = clientToSvg(e.clientX, e.clientY);
+        zoomBy(factor, p.x, p.y);
+      }, { passive: false });
+
+      // Drag-to-pan (only when zoomed in).
+      let panActive = false, panStart = null, vbStart = null;
+      map.addEventListener("pointerdown", (e) => {
+        if (memorizeMode) return; // memorize hover takes precedence
+        if (!curVB || !initialVB) return;
+        if (curVB.w >= initialVB.w - 0.01) return; // not zoomed: don't pan
+        // Don't start a pan when clicking directly on a pin/line — the user
+        // is interacting with the feature, not the map background.
+        if (e.target && e.target.closest && e.target.closest(".cq-pin, .cq-line")) return;
+        panActive = true;
+        panStart = { x: e.clientX, y: e.clientY };
+        vbStart = { x: curVB.x, y: curVB.y };
+        map.classList.add("is-panning");
+        try { map.setPointerCapture(e.pointerId); } catch {}
+      });
+      map.addEventListener("pointermove", (e) => {
+        if (!panActive || !panStart || !vbStart || !curVB) return;
+        const rect = map.getBoundingClientRect();
+        const dx = (e.clientX - panStart.x) / rect.width  * curVB.w;
+        const dy = (e.clientY - panStart.y) / rect.height * curVB.h;
+        curVB.x = vbStart.x - dx;
+        curVB.y = vbStart.y - dy;
+        clampVB();
+        applyVB();
+      });
+      function endPan(e) {
+        if (!panActive) return;
+        panActive = false;
+        map.classList.remove("is-panning");
+        try { if (e && e.pointerId != null) map.releasePointerCapture(e.pointerId); } catch {}
+      }
+      map.addEventListener("pointerup", endPan);
+      map.addEventListener("pointercancel", endPan);
+      map.addEventListener("pointerleave", endPan);
+
+      // Pinch-to-zoom (two-finger gesture).
+      const activePointers = new Map();
+      let pinchPrevDist = 0;
+      map.addEventListener("pointerdown", (e) => {
+        if (e.pointerType !== "touch") return;
+        activePointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
+        if (activePointers.size === 2) {
+          const pts = Array.from(activePointers.values());
+          pinchPrevDist = Math.hypot(pts[0].x - pts[1].x, pts[0].y - pts[1].y);
+          panActive = false; // pinch overrides pan
+        }
+      });
+      map.addEventListener("pointermove", (e) => {
+        if (e.pointerType !== "touch" || !activePointers.has(e.pointerId)) return;
+        activePointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
+        if (activePointers.size === 2 && pinchPrevDist > 0) {
+          const pts = Array.from(activePointers.values());
+          const dist = Math.hypot(pts[0].x - pts[1].x, pts[0].y - pts[1].y);
+          if (dist > 0) {
+            const factor = pinchPrevDist / dist;
+            const cx = (pts[0].x + pts[1].x) / 2;
+            const cy = (pts[0].y + pts[1].y) / 2;
+            const p = clientToSvg(cx, cy);
+            zoomBy(factor, p.x, p.y);
+            pinchPrevDist = dist;
+          }
+        }
+      });
+      function endTouch(e) {
+        activePointers.delete(e.pointerId);
+        if (activePointers.size < 2) pinchPrevDist = 0;
+      }
+      map.addEventListener("pointerup", endTouch);
+      map.addEventListener("pointercancel", endTouch);
+
+      restart();
+    })();
+  </script>
+</body>
+</html>
