@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%AD%E3%83%8A%E3%82%B9%E3%83%84%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%AF%E3%83%BC"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/asia/malaysia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/asia/malaysia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

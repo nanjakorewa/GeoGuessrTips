@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AD%E3%83%BC%E3%83%89%E9%9B%A2%E5%A9%9A"
   - text: '<span class="quiz">Pegunungan Tatra</span> menjulang di bagian utara wilayahnya, dan banyak kastil abad pertengahan yang masih berdiri seperti <span class="quiz">Kastil Spis</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%88%E3%83%A9%E5%B1%B1%E8%84%88"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/slovakia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/slovakia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

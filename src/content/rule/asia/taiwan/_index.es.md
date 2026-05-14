@@ -32,6 +32,11 @@ mapPins:
   - { lat: 25.034, lng: 121.564, label: "Taipéi 101", type: "landmark", note: "Edificio emblemático de 508 m de altura, antiguo récord mundial" }
   - { lat: 23.872, lng: 121.546, label: "Garganta de Taroko", type: "nature", note: "Cañón de mármol en Hualien, parque nacional" }
   - { lat: 23.466, lng: 120.957, label: "Alishan", type: "nature", note: "Paraje de montaña en la Cordillera Central, famoso por sus amaneceres" }
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/asia/taiwan/", "Quiz de estados"],
+    ["/es/quiz/cities/asia/taiwan/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

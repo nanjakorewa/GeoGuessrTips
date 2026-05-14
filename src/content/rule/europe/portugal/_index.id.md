@@ -29,6 +29,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%80%E3%83%BB%E3%82%AC%E3%83%9E"
   - text: 'Ubin dekoratif yang disebut <span class="quiz">Azulejo</span> dapat ditemukan di seluruh kota, dan <span class="quiz">Fado</span> sebagai musik nasional terdaftar dalam Warisan Budaya Takbenda UNESCO'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%89"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/portugal/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/portugal/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

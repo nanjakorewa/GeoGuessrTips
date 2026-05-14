@@ -340,6 +340,11 @@ municipalities:
       type: "metropolitan_city"
       nameI18n:
         en: "Can Tho"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/vietnam/", "州当てクイズ"],
+    ["/quiz/cities/asia/vietnam/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

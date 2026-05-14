@@ -159,6 +159,11 @@ municipalities:
       type: "province"
       nameI18n:
         en: "Córdoba"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/cs_america/argentina/", "州当てクイズ"],
+    ["/quiz/cities/cs_america/argentina/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

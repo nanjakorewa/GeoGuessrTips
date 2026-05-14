@@ -170,6 +170,11 @@ municipalities:
       type: "department"
       nameI18n:
         en: "Junín"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/cs_america/peru/", "州当てクイズ"],
+    ["/quiz/cities/cs_america/peru/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

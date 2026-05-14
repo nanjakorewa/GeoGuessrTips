@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2"
   - text: 'A unique culture that speaks Romanian, a <span class="quiz">Latin</span>-derived language, despite being surrounded by Slavic-speaking neighbors; the <span class="quiz">Danube Delta</span> is Europe''s largest wetland area'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%82%A6%E3%83%BB%E3%83%87%E3%83%AB%E3%82%BF"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/romania/", "State quiz"],
+    ["/en/quiz/cities/europe/romania/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

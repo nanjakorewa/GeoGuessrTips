@@ -16,6 +16,11 @@ sc_title: "Commonly Confused Regions"
 sc: [
     ["../../middle_east/jordan/", "Jordan"],
     ]
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/africa/tunisia/", "State quiz"],
+    ["/en/quiz/cities/africa/tunisia/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

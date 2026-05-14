@@ -35,6 +35,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
   - text: 'The country''s name comes from Christopher <span class="quiz">Columbus</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2#%E5%9B%BD%E5%90%8D"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/cs_america/colombia/", "State quiz"],
+    ["/en/quiz/cities/cs_america/colombia/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

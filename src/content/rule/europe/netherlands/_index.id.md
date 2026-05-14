@@ -30,6 +30,11 @@ mapPins:
 features:
   - text: 'Sekitar <span class="quiz">26%</span> wilayahnya berada di bawah permukaan laut; "Negeri Dataran Rendah" yang memperluas wilayahnya melalui <span class="quiz">reklamasi</span> dan tanggul'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/netherlands/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/netherlands/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

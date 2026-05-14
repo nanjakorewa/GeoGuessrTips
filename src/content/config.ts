@@ -74,6 +74,13 @@ const ruleCollection = defineCollection({
     maps: z
       .array(z.tuple([z.string(), z.string()]))
       .optional(),
+
+    // Related quizzes (rendered in the hero panel below `maps`).
+    // Same shape as `sc` / `maps` — tuples of [url, label].
+    related_quizzes_title: z.string().optional(),
+    related_quizzes: z
+      .array(z.tuple([z.string(), z.string()]))
+      .optional(),
     mapName: z.string().optional(),
     map_index: z.string().optional(),
     additional_map_class: z.string().optional(),

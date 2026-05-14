@@ -26,6 +26,11 @@ mapPins:
 features:
   - text: 'Salah satu negara terkecil di Amerika Selatan, dengan seluruh wilayahnya tertutup padang rumput yang disebut <span class="quiz">Pampa</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%82%B0%E3%82%A2%E3%82%A4"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/cs_america/uruguay/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/cs_america/uruguay/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

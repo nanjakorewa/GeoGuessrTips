@@ -28,6 +28,11 @@ mapPins:
 features:
   - text: 'Negara dengan konsumsi <span class="quiz">bir</span> per kapita tertinggi di dunia, dan terdapat Plzen yang merupakan tempat lahir bir <span class="quiz">Pilsner</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%BC%E3%83%8B"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/czechia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/czechia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

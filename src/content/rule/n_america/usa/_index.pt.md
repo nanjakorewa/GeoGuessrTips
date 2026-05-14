@@ -38,6 +38,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
   - text: 'Seu território é composto pela parte central do continente norte-americano e pelos enclaves do <span class="quiz">Alasca</span> e do Havaí'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD#%E5%9C%B0%E7%90%86"
+related_quizzes_title: "Quizzes relacionados"
+related_quizzes: [
+    ["/pt/quiz/states/n_america/usa/", "Quiz de estados"],
+    ["/pt/quiz/cities/n_america/usa/", "Quiz de cidades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

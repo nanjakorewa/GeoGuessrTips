@@ -89,6 +89,11 @@ municipalities:
       note: "首都キャンベラ"
       nameI18n:
         en: "Australian Capital Territory"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/oceania/australia/", "州当てクイズ"],
+    ["/quiz/cities/oceania/australia/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

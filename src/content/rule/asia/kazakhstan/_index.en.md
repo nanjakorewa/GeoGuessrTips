@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%8A"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/kazakhstan/", "State quiz"],
+    ["/en/quiz/cities/asia/kazakhstan/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

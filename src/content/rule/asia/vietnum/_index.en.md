@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/vietnam/", "State quiz"],
+    ["/en/quiz/cities/asia/vietnam/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

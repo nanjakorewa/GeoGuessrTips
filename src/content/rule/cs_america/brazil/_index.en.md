@@ -38,6 +38,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
   - text: 'About 60% of the country is covered by the <span class="quiz">Amazon rainforest</span>, home to the greatest biodiversity in the world'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E7%86%B1%E5%B8%AF%E9%9B%A8%E6%9E%97"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/cs_america/brazil/", "State quiz"],
+    ["/en/quiz/cities/cs_america/brazil/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

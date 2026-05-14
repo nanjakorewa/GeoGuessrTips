@@ -142,6 +142,11 @@ municipalities:
     - { code: "LV-022", name: "Cesu", type: "municipality" }
     - { code: "LV-055", name: "Ligatnes", type: "municipality" }
     - { code: "LV-JKB", name: "Jekabpils", type: "municipality" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/latvia/", "州当てクイズ"],
+    ["/quiz/cities/europe/latvia/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

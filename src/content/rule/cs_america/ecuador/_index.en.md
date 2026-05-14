@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB"
   - text: 'One of the world''s leading exporters of <span class="quiz">bananas</span>, with oil also a major export'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB#%E7%B5%8C%E6%B8%88"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/cs_america/ecuador/", "State quiz"],
+    ["/en/quiz/cities/cs_america/ecuador/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

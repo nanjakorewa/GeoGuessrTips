@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC"
   - text: 'In winter, the <span class="quiz">northern lights</span> can be seen in the north, and the <span class="quiz">Nobel Peace Prize</span> ceremony is held in Oslo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E5%B9%B3%E5%92%8C%E8%B3%9E"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/norway/", "State quiz"],
+    ["/en/quiz/cities/europe/norway/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

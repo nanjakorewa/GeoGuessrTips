@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E3%81%AE%E5%9B%BD%E6%97%97"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/asia/nepal/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/asia/nepal/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

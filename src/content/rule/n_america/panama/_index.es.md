@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E%E9%81%8B%E6%B2%B3"
   - text: 'Su moneda es el <span class="quiz">dólar estadounidense</span> (equivalente al balboa)'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E#%E7%B5%8C%E6%B8%88"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/n_america/panama/", "Quiz de estados"],
+    ["/es/quiz/cities/n_america/panama/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

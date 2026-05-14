@@ -145,6 +145,11 @@ municipalities:
       type: "county"
       nameI18n:
         en: "Kronoberg"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/sweden/", "州当てクイズ"],
+    ["/quiz/cities/europe/sweden/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

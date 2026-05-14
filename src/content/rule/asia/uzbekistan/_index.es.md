@@ -28,6 +28,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%BA%E3%83%99%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/asia/uzbekistan/", "Quiz de estados"],
+    ["/es/quiz/cities/asia/uzbekistan/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

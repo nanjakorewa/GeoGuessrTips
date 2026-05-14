@@ -43,6 +43,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%90%E3%83%BC%E3%83%B3"
   - text: 'Tiene la historia de la caída del <span class="quiz">Muro de Berlín</span> en 1989 y la reunificación de las dos Alemanias; es una república federal compuesta por 16 <span class="quiz">estados federados</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E5%A3%81%E5%B4%A9%E5%A3%8A"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/germany/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/germany/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

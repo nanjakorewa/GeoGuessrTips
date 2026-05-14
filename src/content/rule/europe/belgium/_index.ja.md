@@ -96,6 +96,11 @@ municipalities:
       type: "province"
       nameI18n:
         en: "Walloon Brabant"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/belgium/", "州当てクイズ"],
+    ["/quiz/cities/europe/belgium/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

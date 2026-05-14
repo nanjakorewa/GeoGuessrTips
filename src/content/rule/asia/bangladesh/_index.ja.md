@@ -72,6 +72,11 @@ municipalities:
       type: "region"
       nameI18n:
         en: "Barisal"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/bangladesh/", "州当てクイズ"],
+    ["/quiz/cities/asia/bangladesh/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -224,6 +224,11 @@ municipalities:
       note: "首都アブジャ"
       nameI18n:
         en: "Federal Capital Territory"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/africa/nigeria/", "州当てクイズ"],
+    ["/quiz/cities/africa/nigeria/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

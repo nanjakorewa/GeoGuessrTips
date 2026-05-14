@@ -226,6 +226,11 @@ municipalities:
       type: "state"
       nameI18n:
         en: "Telangana"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/india/", "州当てクイズ"],
+    ["/quiz/cities/asia/india/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8D%E3%82%B9_(%E3%83%93%E3%83%BC%E3%83%AB)"
   - text: 'A center of <span class="quiz">Celtic culture</span>, where Irish (<span class="quiz">Gaelic</span>) and English are both official languages'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/ireland/", "State quiz"],
+    ["/en/quiz/cities/europe/ireland/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

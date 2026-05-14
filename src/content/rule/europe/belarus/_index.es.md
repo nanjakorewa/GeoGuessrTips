@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%83%AB%E3%82%AB%E3%82%B7%E3%82%A7%E3%83%B3%E3%82%B3"
   - text: 'Cerca del 40% del territorio está cubierto por <span class="quiz">bosques</span>, incluido el mayor bosque primario de Europa, <span class="quiz">Belavezhskaya Pushcha</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%B4%E3%82%A7%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AB%E3%83%A4%E3%83%BB%E3%83%97%E3%83%BC%E3%82%B7%E3%83%A3"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/belarus/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/belarus/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

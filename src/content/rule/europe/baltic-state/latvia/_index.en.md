@@ -17,6 +17,11 @@ sc: [
     ["../estonia/", "Estonia"],
     ["../lithuania/", "Lithuania"],
     ]
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/latvia/", "State quiz"],
+    ["/en/quiz/cities/europe/latvia/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -160,6 +160,11 @@ municipalities:
     - { code: "HU-BC", name: "Békéscsaba", type: "county" }
     - { code: "HU-DE", name: "Debrecen", type: "county" }
     - { code: "HU-NY", name: "Nyíregyháza", type: "county" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/hungary/", "州当てクイズ"],
+    ["/quiz/cities/europe/hungary/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

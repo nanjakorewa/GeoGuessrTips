@@ -17,6 +17,11 @@ sc: [
     ["../singapore/", "Singapore"],
 ]
 flag_height: "380px"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/malaysia/", "State quiz"],
+    ["/en/quiz/cities/asia/malaysia/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -28,6 +28,11 @@ mapPins:
 features:
   - text: 'Alberga el lugar del accidente de la central nuclear de <span class="quiz">Chernóbil</span>, y la catedral de Santa Sofía de la capital <span class="quiz">Kiev</span> está inscrita como Patrimonio Mundial'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%A6"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/ukraine/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/ukraine/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

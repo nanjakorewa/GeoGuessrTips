@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B1%E3%83%89%E3%83%8B%E3%82%A2%E5%91%BC%E7%A7%B0%E5%95%8F%E9%A1%8C"
   - text: '<span class="quiz">Danau Ohrid</span> adalah salah satu danau tertua di Eropa, dan terdaftar sebagai <span class="quiz">warisan dunia</span> UNESCO bersama kota di tepi danaunya'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%83%AA%E3%83%89%E6%B9%96"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/macedonia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/macedonia/", "Kuis tebak kota"],
+    ]
 ---
 
 

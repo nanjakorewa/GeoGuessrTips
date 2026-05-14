@@ -37,6 +37,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
   - text: 'Sekitar 60% wilayah negara ini tertutup <span class="quiz">Hutan Hujan Amazon</span>, dengan keanekaragaman hayati terbesar di dunia'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E7%86%B1%E5%B8%AF%E9%9B%A8%E6%9E%97"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/cs_america/brazil/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/cs_america/brazil/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -36,6 +36,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%AC%E3%82%B5%E3%83%83%E3%83%97%E6%B9%96"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/asia/cambodia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/asia/cambodia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

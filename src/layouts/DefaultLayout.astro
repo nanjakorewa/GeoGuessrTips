@@ -692,6 +692,18 @@ const lastmodDisplay = modifiedTime
               </ul>
             </div>
           )}
+          {data.related_quizzes && (
+            <div class="rule-hero-links">
+              <div class="rule-hero-links__label">
+                <i class="fas fa-puzzle-piece"></i>{data.related_quizzes_title}
+              </div>
+              <ul class="rule-hero-links__list">
+                {data.related_quizzes.map((item: [string, string]) => (
+                  <li><a href={item[0]}>{item[1]}</a></li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
         <div class="rule-hero-map">
           <IndustryOSMMap

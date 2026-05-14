@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B4"
   - text: 'Negara terdepan dalam <span class="quiz">tenaga angin</span>; sekitar separuh listriknya berasal dari angin, dan memiliki <span class="quiz">Greenland</span> serta Kepulauan Faroe sebagai wilayah otonomi'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/denmark/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/denmark/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

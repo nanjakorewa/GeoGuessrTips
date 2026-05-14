@@ -44,6 +44,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%AC%E3%82%B5%E3%83%83%E3%83%97%E6%B9%96"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/asia/cambodia/", "Quiz de estados"],
+    ["/es/quiz/cities/asia/cambodia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

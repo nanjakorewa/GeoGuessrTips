@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%90%E3%83%BC%E3%83%B3"
   - text: 'Memiliki sejarah runtuhnya <span class="quiz">Tembok Berlin</span> pada tahun 1989 yang menyatukan Jerman Timur dan Barat, merupakan republik federal yang terdiri dari 16 <span class="quiz">negara bagian federal</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E5%A3%81%E5%B4%A9%E5%A3%8A"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/germany/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/germany/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

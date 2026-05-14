@@ -142,6 +142,11 @@ municipalities:
       type: "county"
       nameI18n:
         en: "Chiayi County"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/taiwan/", "州当てクイズ"],
+    ["/quiz/cities/asia/taiwan/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

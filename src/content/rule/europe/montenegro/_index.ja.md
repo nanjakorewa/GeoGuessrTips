@@ -60,6 +60,11 @@ municipalities:
     - { code: "ME-18", name: "Šavnik", type: "county" }
     - { code: "ME-09", name: "Kolašin", type: "county" }
     - { code: "ME-07", name: "Danilovgrad", type: "county" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/montenegro/", "州当てクイズ"],
+    ["/quiz/cities/europe/montenegro/", "都市当てクイズ"],
+    ]
 ---
 
 

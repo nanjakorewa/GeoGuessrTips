@@ -19,6 +19,11 @@ sc: [
     ["../../oceania/australia/", "Australia"],
     ["../botswana/", "Botswana"],
     ]
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/africa/south-africa/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/africa/south-africa/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

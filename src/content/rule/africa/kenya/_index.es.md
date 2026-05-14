@@ -18,6 +18,11 @@ sc: [
     ["../rwanda/", "Ruanda"],
     ["../../cs_america/curacao/", "Curazao"],
 ]
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/africa/kenya/", "Quiz de estados"],
+    ["/es/quiz/cities/africa/kenya/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

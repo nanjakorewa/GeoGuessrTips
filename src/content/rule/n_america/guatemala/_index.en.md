@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9"
   - text: 'The most populous Central American country; <span class="quiz">indigenous Maya people</span> make up about 40% of the population'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9#%E4%BD%8F%E6%B0%91"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/n_america/guatemala/", "State quiz"],
+    ["/en/quiz/cities/n_america/guatemala/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

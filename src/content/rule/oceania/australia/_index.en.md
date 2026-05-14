@@ -34,6 +34,11 @@ mapPins:
   - { lat: -31.953, lng: 115.857, label: "Perth", type: "city", note: "Capital of Western Australia" }
   - { lat: -25.345, lng: 131.034, label: "Uluru", type: "landmark", note: "Massive monolith; World Heritage Site" }
   - { lat: -18.286, lng: 147.700, label: "Great Barrier Reef", type: "nature", note: "World''s largest coral reef; World Heritage Site" }
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/oceania/australia/", "State quiz"],
+    ["/en/quiz/cities/oceania/australia/", "City quiz"],
+    ]
 ---
 
 <div class="main-description country-description">

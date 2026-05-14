@@ -38,6 +38,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
   - text: 'La mayor parte del territorio está cubierta por <span class="quiz">bosque boreal (taiga)</span> y tundra'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80#%E5%9C%B0%E7%90%86"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/n_america/canada/", "Quiz de estados"],
+    ["/es/quiz/cities/n_america/canada/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

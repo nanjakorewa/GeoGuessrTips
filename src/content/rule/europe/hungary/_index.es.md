@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%B9%E3%82%BF"
   - text: 'Es el país de los <span class="quiz">magiares</span> y se habla húngaro, una lengua que pertenece a la <span class="quiz">familia urálica</span>, algo poco habitual en Europa'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E8%AA%9E"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/hungary/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/hungary/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -22,6 +22,11 @@ sc: [
     ["../../cs_america/peru/", "Peru"],
     ["../malaysia/", "Malaysia"],
     ]
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/indonesia/", "State quiz"],
+    ["/en/quiz/cities/asia/indonesia/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -230,6 +230,11 @@ municipalities:
     - { code: "SI-179", name: "Sodražica", type: "region" }
     - { code: "SI-104", name: "Ribnica", type: "region" }
     - { code: "SI-121", name: "Škocjan", type: "region" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/slovenia/", "州当てクイズ"],
+    ["/quiz/cities/europe/slovenia/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

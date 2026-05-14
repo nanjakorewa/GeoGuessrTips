@@ -28,6 +28,11 @@ mapPins:
 features:
   - text: 'Teluk <span class="quiz">Kotor</span> memiliki bentuk lahan menyerupai fjord paling selatan di Eropa, dan terdaftar sebagai <span class="quiz">warisan dunia</span> UNESCO bersama kota tuanya'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%88%E3%83%AB"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/montenegro/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/montenegro/", "Kuis tebak kota"],
+    ]
 ---
 
 

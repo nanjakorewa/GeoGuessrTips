@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%AB%E6%96%87%E5%AD%97"
   - text: 'El <span class="quiz">Valle de las Rosas</span> (zona de Kazanlak) produce cerca del 85% del <span class="quiz">aceite de rosas</span> del mundo, materia prima para la industria del perfume'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%81%AE%E8%B0%B7"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/bulgaria/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/bulgaria/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

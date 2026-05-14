@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
   - text: 'Globally renowned for its high level of education, and home to <span class="quiz">Nokia</span> headquarters, the country was a pioneer of the mobile phone industry'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%AD%E3%82%A2"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/finland/", "State quiz"],
+    ["/en/quiz/cities/europe/finland/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

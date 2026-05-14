@@ -26,6 +26,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/russia/", "State quiz"],
+    ["/en/quiz/cities/asia/russia/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

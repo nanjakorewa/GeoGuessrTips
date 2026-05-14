@@ -86,6 +86,11 @@ municipalities:
       note: "首都プレトリア・最大都市ヨハネスブルグ"
       nameI18n:
         en: "Gauteng"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/africa/south-africa/", "州当てクイズ"],
+    ["/quiz/cities/africa/south-africa/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

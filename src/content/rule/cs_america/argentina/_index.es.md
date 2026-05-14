@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
   - text: 'Cuna del <span class="quiz">tango</span>; Buenos Aires es conocida como "la París de Sudamérica"'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%82%B4"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/cs_america/argentina/", "Quiz de estados"],
+    ["/es/quiz/cities/cs_america/argentina/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

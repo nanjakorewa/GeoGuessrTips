@@ -17,6 +17,11 @@ sc: [
     ["../thai/", "Thailand"],
     ["../vietnum/", "Vietnam"],
     ]
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/philippines/", "State quiz"],
+    ["/en/quiz/cities/asia/philippines/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

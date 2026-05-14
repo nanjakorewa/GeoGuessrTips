@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B1%E3%83%89%E3%83%8B%E3%82%A2%E5%91%BC%E7%A7%B0%E5%95%8F%E9%A1%8C"
   - text: 'El <span class="quiz">lago Ohrid</span> es uno de los lagos más antiguos de Europa y, junto con la ciudad ribereña, está inscrito como <span class="quiz">Patrimonio Mundial</span> de la UNESCO'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%83%AA%E3%83%89%E6%B9%96"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/macedonia/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/macedonia/", "Quiz de ciudades"],
+    ]
 ---
 
 

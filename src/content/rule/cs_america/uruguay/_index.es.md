@@ -26,6 +26,11 @@ mapPins:
 features:
   - text: 'Uno de los países más pequeños de Sudamérica; todo el territorio está cubierto por las praderas de la <span class="quiz">Pampa</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%82%B0%E3%82%A2%E3%82%A4"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/cs_america/uruguay/", "Quiz de estados"],
+    ["/es/quiz/cities/cs_america/uruguay/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

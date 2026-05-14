@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
   - text: 'En <span class="quiz">Ginebra</span> se encuentran las sedes del Comité Internacional de la <span class="quiz">Cruz Roja</span> y de muchos organismos internacionales, y también es mundialmente famosa por su industria relojera de precisión'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%8D%E3%83%BC%E3%83%B4"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/switzerland/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/switzerland/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

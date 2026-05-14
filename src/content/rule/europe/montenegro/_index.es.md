@@ -28,6 +28,11 @@ mapPins:
 features:
   - text: 'La bahía de <span class="quiz">Kotor</span> tiene un relieve similar al de un fiordo y es la más meridional de Europa; junto con el casco antiguo está inscrita como <span class="quiz">Patrimonio Mundial</span> de la UNESCO'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%88%E3%83%AB"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/montenegro/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/montenegro/", "Quiz de ciudades"],
+    ]
 ---
 
 

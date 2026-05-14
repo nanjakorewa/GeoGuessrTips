@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8D%E3%82%B9_(%E3%83%93%E3%83%BC%E3%83%AB)"
   - text: 'Pusat <span class="quiz">budaya Kelt</span>, dengan dua bahasa resmi yaitu bahasa Irlandia (<span class="quiz">bahasa Gaelik</span>) dan bahasa Inggris'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/ireland/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/ireland/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

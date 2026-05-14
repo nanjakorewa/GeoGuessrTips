@@ -65,6 +65,11 @@ municipalities:
       note: "首都コペンハーゲン"
       nameI18n:
         en: "Capital Region"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/denmark/", "州当てクイズ"],
+    ["/quiz/cities/europe/denmark/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

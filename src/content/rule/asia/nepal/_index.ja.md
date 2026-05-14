@@ -60,6 +60,11 @@ municipalities:
     - { code: "NP-LU", name: "Lumbini", type: "region" }
     - { code: "NP-RA", name: "Rapti", type: "region" }
     - { code: "NP-BH", name: "Bheri", type: "region" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/nepal/", "州当てクイズ"],
+    ["/quiz/cities/asia/nepal/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
   - text: 'Dikenal di seluruh dunia karena tingkat pendidikannya yang tinggi, merupakan negara pelopor industri ponsel dengan kantor pusat <span class="quiz">Nokia</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%AD%E3%82%A2"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/finland/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/finland/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -35,6 +35,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E3%81%AE%E5%9B%BD%E6%97%97"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/nepal/", "State quiz"],
+    ["/en/quiz/cities/asia/nepal/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

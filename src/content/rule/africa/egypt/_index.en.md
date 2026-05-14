@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 is_has_many_trekker: true
 plonkit: true
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/africa/egypt/", "State quiz"],
+    ["/en/quiz/cities/africa/egypt/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

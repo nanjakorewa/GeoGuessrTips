@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9"
   - text: 'Berpenduduk terbanyak di Amerika Tengah, dengan <span class="quiz">penduduk Maya</span> mencapai sekitar 40% populasi'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9#%E4%BD%8F%E6%B0%91"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/n_america/guatemala/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/n_america/guatemala/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

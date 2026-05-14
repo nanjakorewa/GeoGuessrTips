@@ -82,6 +82,11 @@ municipalities:
       note: "首都"
       nameI18n:
         en: "Vienna"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/austria/", "州当てクイズ"],
+    ["/quiz/cities/europe/austria/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

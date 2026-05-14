@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%80%E3%83%BB%E3%82%AC%E3%83%9E"
   - text: 'Las baldosas decorativas llamadas <span class="quiz">azulejos</span> se ven por toda la ciudad, y el <span class="quiz">fado</span>, música nacional del país, está inscrito como Patrimonio Cultural Inmaterial de la UNESCO'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%89"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/portugal/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/portugal/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

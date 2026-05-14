@@ -27,6 +27,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%80%E3%82%B4%E3%83%B3%E3%83%BB%E3%83%91%E3%82%B4%E3%83%80"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/asia/myanmar/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/asia/myanmar/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

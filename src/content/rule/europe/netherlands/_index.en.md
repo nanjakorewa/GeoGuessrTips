@@ -30,6 +30,11 @@ mapPins:
 features:
   - text: 'Roughly <span class="quiz">26%</span> of the country lies below sea level, a "lowland country" that has expanded its land through <span class="quiz">land reclamation</span> and dikes'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/netherlands/", "State quiz"],
+    ["/en/quiz/cities/europe/netherlands/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

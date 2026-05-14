@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A3%E3%83%83%E3%83%84%3D%E3%83%93%E3%83%AB%E3%82%B1%E3%83%8A%E3%82%A6%E5%BC%B7%E5%88%B6%E5%8F%8E%E5%AE%B9%E6%89%80"
   - text: 'Es la cuna de <span class="quiz">Chopin</span> y ha dado al mundo a numerosas figuras destacadas como <span class="quiz">Copérnico</span> y Marie Curie'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%91%E3%83%B3"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/poland/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/poland/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

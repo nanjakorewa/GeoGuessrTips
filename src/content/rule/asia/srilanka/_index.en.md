@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%AD%E3%83%B3%E8%8C%B6"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/srilanka/", "State quiz"],
+    ["/en/quiz/cities/asia/srilanka/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

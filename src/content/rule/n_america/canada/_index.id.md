@@ -38,6 +38,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
   - text: 'Sebagian besar wilayahnya tertutup <span class="quiz">hutan konifer (taiga)</span> dan tundra'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80#%E5%9C%B0%E7%90%86"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/n_america/canada/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/n_america/canada/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

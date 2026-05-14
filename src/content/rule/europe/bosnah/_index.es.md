@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%88%E3%83%B3%E5%90%88%E6%84%8F"
   - text: 'Su capital, <span class="quiz">Sarajevo</span>, fue sede de los JJ. OO. de invierno de 1984 y conserva la <span class="quiz">Baščaršija</span>, casco antiguo de la época otomana'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%82%A8%E3%83%9C"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/bosnia/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/bosnia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

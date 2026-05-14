@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%80%E3%83%BB%E3%82%AC%E3%83%9E"
   - text: 'Decorative tiles called <span class="quiz">azulejos</span> are seen throughout the cities, and <span class="quiz">fado</span>, the national music, is registered as a UNESCO Intangible Cultural Heritage'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%89"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/portugal/", "State quiz"],
+    ["/en/quiz/cities/europe/portugal/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

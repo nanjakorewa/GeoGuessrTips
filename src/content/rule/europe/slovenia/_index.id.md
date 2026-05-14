@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B9%E3%83%88%E3%82%A4%E3%83%8A%E9%8D%BE%E4%B9%B3%E6%B4%9E"
   - text: 'Negara pertama dari bekas negara Yugoslavia yang bergabung dengan Uni Eropa, dan gereja di tengah <span class="quiz">Danau Bled</span> adalah pemandangan ikonik negara ini'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E6%B9%96"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/slovenia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/slovenia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

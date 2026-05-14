@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%89"
   - text: 'Both <span class="quiz">Cyrillic</span> and Latin scripts are used in daily life, with a strong <span class="quiz">Orthodox Christian</span> cultural heritage'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2%E8%AA%9E"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/serbia/", "State quiz"],
+    ["/en/quiz/cities/europe/serbia/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

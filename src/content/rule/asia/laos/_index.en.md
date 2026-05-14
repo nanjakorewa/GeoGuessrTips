@@ -26,6 +26,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%91%E3%83%90%E3%83%BC%E3%83%B3%E3%81%AE%E7%94%BA"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/laos/", "State quiz"],
+    ["/en/quiz/cities/asia/laos/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

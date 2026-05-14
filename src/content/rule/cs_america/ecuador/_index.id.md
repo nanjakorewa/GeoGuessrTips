@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB"
   - text: 'Salah satu eksportir <span class="quiz">pisang</span> terbesar di dunia, dan minyak juga merupakan komoditas ekspor utama'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB#%E7%B5%8C%E6%B8%88"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/cs_america/ecuador/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/cs_america/ecuador/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

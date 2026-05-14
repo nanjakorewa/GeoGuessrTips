@@ -18,6 +18,11 @@ sc: [
     ["../lithuania/", "Lituania"],
     ["../../sweden/", "Swedia"],
     ]
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/estonia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/estonia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -55,6 +55,11 @@ municipalities:
     - { code: "BA-X05~", name: "Sarajevo-romanija", type: "region" }
     - { code: "BA-BIH", name: "Sarajevo", type: "region" }
     - { code: "BA-BIH", name: "Bosnian Podrinje", type: "region" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/bosnia/", "州当てクイズ"],
+    ["/quiz/cities/europe/bosnia/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

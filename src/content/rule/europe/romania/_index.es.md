@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2"
   - text: 'Aunque está rodeada de países eslavos, posee una cultura propia con un idioma rumano de raíz <span class="quiz">latina</span>, y el <span class="quiz">Delta del Danubio</span> es el mayor humedal de Europa'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%82%A6%E3%83%BB%E3%83%87%E3%83%AB%E3%82%BF"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/romania/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/romania/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

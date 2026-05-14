@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%BE%B2%E6%A5%AD"
   - text: 'Negara <span class="quiz">pariwisata</span> terbesar di dunia yang dikunjungi sekitar <span class="quiz">90 juta</span> wisatawan asing per tahun, dengan <span class="quiz">Menara Eiffel</span> dan Museum Louvre'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%A6%B3%E5%85%89"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/france/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/france/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

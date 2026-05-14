@@ -59,6 +59,11 @@ municipalities:
     - { code: "TN-43", name: "Sidi Bou Zid", type: "governorate" }
     - { code: "TN-41", name: "Kairouan", type: "governorate" }
     - { code: "TN-22", name: "Zaghouan", type: "governorate" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/africa/tunisia/", "州当てクイズ"],
+    ["/quiz/cities/africa/tunisia/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

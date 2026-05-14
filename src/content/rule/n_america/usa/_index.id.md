@@ -39,6 +39,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
   - text: 'Wilayahnya terdiri dari bagian tengah benua Amerika Utara serta enklave <span class="quiz">Alaska</span> dan Hawaii'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD#%E5%9C%B0%E7%90%86"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/n_america/usa/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/n_america/usa/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

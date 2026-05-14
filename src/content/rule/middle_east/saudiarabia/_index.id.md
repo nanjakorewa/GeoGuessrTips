@@ -28,6 +28,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%83%E3%82%AB"
   - text: 'Pengekspor <span class="quiz">minyak mentah</span> terbesar di dunia, dan Saudi Aramco yang dimiliki negara merupakan salah satu perusahaan terbesar di dunia'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%A0%E3%82%B3"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/middle_east/saudiarabia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/middle_east/saudiarabia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

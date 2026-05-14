@@ -32,6 +32,11 @@ mapPins:
 features:
   - text: 'The heartland of the Inca Empire; ruins such as <span class="quiz">Machu Picchu</span> are inscribed as UNESCO World Heritage Sites'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BB%E3%83%94%E3%83%81%E3%83%A5"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/cs_america/peru/", "State quiz"],
+    ["/en/quiz/cities/cs_america/peru/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9"
   - text: 'Es el país más poblado de Centroamérica y cerca del 40% de la población es <span class="quiz">indígena maya</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9#%E4%BD%8F%E6%B0%91"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/n_america/guatemala/", "Quiz de estados"],
+    ["/es/quiz/cities/n_america/guatemala/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

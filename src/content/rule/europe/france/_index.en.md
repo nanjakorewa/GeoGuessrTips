@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%BE%B2%E6%A5%AD"
   - text: 'The world''s leading <span class="quiz">tourism</span> destination, attracting around <span class="quiz">90 million</span> foreign visitors annually, with attractions like the <span class="quiz">Eiffel Tower</span> and the Louvre'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%A6%B3%E5%85%89"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/france/", "State quiz"],
+    ["/en/quiz/cities/europe/france/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

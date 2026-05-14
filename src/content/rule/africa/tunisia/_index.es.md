@@ -11,6 +11,11 @@ flag: "TN.svg"
 no_detaile_info: true
 jetro_detail: true
 plonkit: true
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/africa/tunisia/", "Quiz de estados"],
+    ["/es/quiz/cities/africa/tunisia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

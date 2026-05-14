@@ -1,0 +1,3771 @@
+[
+  {
+    "slug": "sumatera",
+    "nameId": "Sumatera",
+    "nameJa": "スマトラ島",
+    "bbox": [
+      95.0108,
+      -6.1686,
+      134.3397,
+      6.0771
+    ],
+    "provinces": [
+      {
+        "slug": "aceh",
+        "nameJa": "アチェ州",
+        "nameId": "Aceh"
+      },
+      {
+        "slug": "sumatera-utara",
+        "nameJa": "北スマトラ州",
+        "nameId": "Sumatera Utara"
+      },
+      {
+        "slug": "sumatera-barat",
+        "nameJa": "西スマトラ州",
+        "nameId": "Sumatera Barat"
+      },
+      {
+        "slug": "riau",
+        "nameJa": "リアウ州",
+        "nameId": "Riau"
+      },
+      {
+        "slug": "kepulauan-riau",
+        "nameJa": "リアウ諸島州",
+        "nameId": "Kepulauan Riau"
+      },
+      {
+        "slug": "jambi",
+        "nameJa": "ジャンビ州",
+        "nameId": "Jambi"
+      },
+      {
+        "slug": "sumatera-selatan",
+        "nameJa": "南スマトラ州",
+        "nameId": "Sumatera Selatan"
+      },
+      {
+        "slug": "bangka-belitung",
+        "nameJa": "バンカ・ブリトゥン諸島州",
+        "nameId": "Kep. Bangka Belitung"
+      },
+      {
+        "slug": "bengkulu",
+        "nameJa": "ブンクル州",
+        "nameId": "Bengkulu"
+      },
+      {
+        "slug": "lampung",
+        "nameJa": "ランプン州",
+        "nameId": "Lampung"
+      }
+    ],
+    "kabs": [
+      {
+        "name": "Kabupaten Aceh Barat",
+        "shortName": "Aceh Barat",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 96.2054,
+        "lat": 4.4248
+      },
+      {
+        "name": "Kabupaten Aceh Barat Daya",
+        "shortName": "Aceh Barat Daya",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 96.9143,
+        "lat": 3.7838
+      },
+      {
+        "name": "Kabupaten Aceh Besar",
+        "shortName": "Aceh Besar",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 95.5172,
+        "lat": 5.3583
+      },
+      {
+        "name": "Kabupaten Aceh Jaya",
+        "shortName": "Aceh Jaya",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 95.6495,
+        "lat": 4.8275
+      },
+      {
+        "name": "Kabupaten Aceh Selatan",
+        "shortName": "Aceh Selatan",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 97.4462,
+        "lat": 3.0381
+      },
+      {
+        "name": "Kabupaten Aceh Singkil",
+        "shortName": "Aceh Singkil",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 97.9241,
+        "lat": 2.5349
+      },
+      {
+        "name": "Kabupaten Aceh Tamiang",
+        "shortName": "Aceh Tamiang",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 98.0026,
+        "lat": 4.2071
+      },
+      {
+        "name": "Kabupaten Aceh Tengah",
+        "shortName": "Aceh Tengah",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 96.8145,
+        "lat": 4.5669
+      },
+      {
+        "name": "Kabupaten Aceh Tenggara",
+        "shortName": "Aceh Tenggara",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 97.6236,
+        "lat": 3.3414
+      },
+      {
+        "name": "Kabupaten Aceh Timur",
+        "shortName": "Aceh Timur",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 97.6386,
+        "lat": 4.702
+      },
+      {
+        "name": "Kabupaten Aceh Utara",
+        "shortName": "Aceh Utara",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 97.1452,
+        "lat": 4.9926
+      },
+      {
+        "name": "Kabupaten Agam",
+        "shortName": "Agam",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 100.1499,
+        "lat": -0.2661
+      },
+      {
+        "name": "Kabupaten Asahan",
+        "shortName": "Asahan",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 99.5291,
+        "lat": 2.9848
+      },
+      {
+        "name": "Kabupaten Bangka",
+        "shortName": "Bangka",
+        "province": "バンカ・ブリトゥン諸島州",
+        "provinceId": "Kep. Bangka Belitung",
+        "provinceSlug": "bangka-belitung",
+        "lng": 105.9455,
+        "lat": -1.9372
+      },
+      {
+        "name": "Kabupaten Bangka Barat",
+        "shortName": "Bangka Barat",
+        "province": "バンカ・ブリトゥン諸島州",
+        "provinceId": "Kep. Bangka Belitung",
+        "provinceSlug": "bangka-belitung",
+        "lng": 105.4481,
+        "lat": -1.8402
+      },
+      {
+        "name": "Kabupaten Bangka Selatan",
+        "shortName": "Bangka Selatan",
+        "province": "バンカ・ブリトゥン諸島州",
+        "provinceId": "Kep. Bangka Belitung",
+        "provinceSlug": "bangka-belitung",
+        "lng": 106.3154,
+        "lat": -2.7909
+      },
+      {
+        "name": "Kabupaten Bangka Tengah",
+        "shortName": "Bangka Tengah",
+        "province": "バンカ・ブリトゥン諸島州",
+        "provinceId": "Kep. Bangka Belitung",
+        "provinceSlug": "bangka-belitung",
+        "lng": 106.3261,
+        "lat": -2.4961
+      },
+      {
+        "name": "Kabupaten Banyuasin",
+        "shortName": "Banyuasin",
+        "province": "南スマトラ州",
+        "provinceId": "Sumatera Selatan",
+        "provinceSlug": "sumatera-selatan",
+        "lng": 104.7894,
+        "lat": -2.4104
+      },
+      {
+        "name": "Kabupaten Batang Hari",
+        "shortName": "Batang Hari",
+        "province": "ジャンビ州",
+        "provinceId": "Jambi",
+        "provinceSlug": "jambi",
+        "lng": 103.015,
+        "lat": -1.8572
+      },
+      {
+        "name": "Kabupaten Belitung",
+        "shortName": "Belitung",
+        "province": "バンカ・ブリトゥン諸島州",
+        "provinceId": "Kep. Bangka Belitung",
+        "provinceSlug": "bangka-belitung",
+        "lng": 107.7543,
+        "lat": -2.8856
+      },
+      {
+        "name": "Kabupaten Belitung Timur",
+        "shortName": "Belitung Timur",
+        "province": "バンカ・ブリトゥン諸島州",
+        "provinceId": "Kep. Bangka Belitung",
+        "provinceSlug": "bangka-belitung",
+        "lng": 108.0239,
+        "lat": -2.9196
+      },
+      {
+        "name": "Kabupaten Bengkalis",
+        "shortName": "Bengkalis",
+        "province": "リアウ州",
+        "provinceId": "Riau",
+        "provinceSlug": "riau",
+        "lng": 101.5275,
+        "lat": 1.2464
+      },
+      {
+        "name": "Kabupaten Bengkulu Selatan",
+        "shortName": "Bengkulu Selatan",
+        "province": "ブンクル州",
+        "provinceId": "Bengkulu",
+        "provinceSlug": "bengkulu",
+        "lng": 103.0397,
+        "lat": -4.3612
+      },
+      {
+        "name": "Kabupaten Bengkulu Utara",
+        "shortName": "Bengkulu Utara",
+        "province": "ブンクル州",
+        "provinceId": "Bengkulu",
+        "provinceSlug": "bengkulu",
+        "lng": 101.8334,
+        "lat": -3.0694
+      },
+      {
+        "name": "Kabupaten Bireuen",
+        "shortName": "Bireuen",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 96.5975,
+        "lat": 5.0824
+      },
+      {
+        "name": "Kabupaten Bungo",
+        "shortName": "Bungo",
+        "province": "ジャンビ州",
+        "provinceId": "Jambi",
+        "provinceSlug": "jambi",
+        "lng": 101.9585,
+        "lat": -1.5094
+      },
+      {
+        "name": "Kabupaten Dairi",
+        "shortName": "Dairi",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 98.5413,
+        "lat": 2.7141
+      },
+      {
+        "name": "Kabupaten Deli Serdang",
+        "shortName": "Deli Serdang",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 98.8886,
+        "lat": 3.4617
+      },
+      {
+        "name": "Kabupaten Gayo Lues",
+        "shortName": "Gayo Lues",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 97.323,
+        "lat": 3.978
+      },
+      {
+        "name": "Kabupaten Indragiri Hilir",
+        "shortName": "Indragiri Hilir",
+        "province": "リアウ州",
+        "provinceId": "Riau",
+        "provinceSlug": "riau",
+        "lng": 103.1862,
+        "lat": -0.2911
+      },
+      {
+        "name": "Kabupaten Indragiri Hulu",
+        "shortName": "Indragiri Hulu",
+        "province": "リアウ州",
+        "provinceId": "Riau",
+        "provinceSlug": "riau",
+        "lng": 102.2434,
+        "lat": -0.5227
+      },
+      {
+        "name": "Kabupaten Kampar",
+        "shortName": "Kampar",
+        "province": "リアウ州",
+        "provinceId": "Riau",
+        "provinceSlug": "riau",
+        "lng": 101.0895,
+        "lat": 0.2712
+      },
+      {
+        "name": "Kabupaten Karimun",
+        "shortName": "Karimun",
+        "province": "リアウ諸島州",
+        "provinceId": "Kepulauan Riau",
+        "provinceSlug": "kepulauan-riau",
+        "lng": 103.428,
+        "lat": 0.7665
+      },
+      {
+        "name": "Kabupaten Karo",
+        "shortName": "Karo",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 98.2515,
+        "lat": 3.0964
+      },
+      {
+        "name": "Kabupaten Kepulauan Mentawai",
+        "shortName": "Kepulauan Mentawai",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 98.95,
+        "lat": -1.3588
+      },
+      {
+        "name": "Kabupaten Kepulauan Riau",
+        "shortName": "Kepulauan Riau",
+        "province": "リアウ諸島州",
+        "provinceId": "Kepulauan Riau",
+        "provinceSlug": "kepulauan-riau",
+        "lng": 104.7127,
+        "lat": -0.1553
+      },
+      {
+        "name": "Kabupaten Kerinci",
+        "shortName": "Kerinci",
+        "province": "ジャンビ州",
+        "provinceId": "Jambi",
+        "provinceSlug": "jambi",
+        "lng": 101.4782,
+        "lat": -2.0601
+      },
+      {
+        "name": "Kabupaten Kuantan Singingi",
+        "shortName": "Kuantan Singingi",
+        "province": "リアウ州",
+        "provinceId": "Riau",
+        "provinceSlug": "riau",
+        "lng": 101.4694,
+        "lat": -0.492
+      },
+      {
+        "name": "Kabupaten Labuhan Batu",
+        "shortName": "Labuhan Batu",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 99.922,
+        "lat": 2.1469
+      },
+      {
+        "name": "Kabupaten Lahat",
+        "shortName": "Lahat",
+        "province": "南スマトラ州",
+        "provinceId": "Sumatera Selatan",
+        "provinceSlug": "sumatera-selatan",
+        "lng": 103.1957,
+        "lat": -3.8888
+      },
+      {
+        "name": "Kabupaten Lampung Barat",
+        "shortName": "Lampung Barat",
+        "province": "ランプン州",
+        "provinceId": "Lampung",
+        "provinceSlug": "lampung",
+        "lng": 104.1252,
+        "lat": -5.3653
+      },
+      {
+        "name": "Kabupaten Lampung Selatan",
+        "shortName": "Lampung Selatan",
+        "province": "ランプン州",
+        "provinceId": "Lampung",
+        "provinceSlug": "lampung",
+        "lng": 105.3812,
+        "lat": -5.5145
+      },
+      {
+        "name": "Kabupaten Lampung Tengah",
+        "shortName": "Lampung Tengah",
+        "province": "ランプン州",
+        "provinceId": "Lampung",
+        "provinceSlug": "lampung",
+        "lng": 105.1756,
+        "lat": -4.8669
+      },
+      {
+        "name": "Kabupaten Lampung Timur",
+        "shortName": "Lampung Timur",
+        "province": "ランプン州",
+        "provinceId": "Lampung",
+        "provinceSlug": "lampung",
+        "lng": 105.5661,
+        "lat": -5.2512
+      },
+      {
+        "name": "Kabupaten Lampung Utara",
+        "shortName": "Lampung Utara",
+        "province": "ランプン州",
+        "provinceId": "Lampung",
+        "provinceSlug": "lampung",
+        "lng": 104.8135,
+        "lat": -4.8318
+      },
+      {
+        "name": "Kabupaten Langkat",
+        "shortName": "Langkat",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 98.2142,
+        "lat": 3.766
+      },
+      {
+        "name": "Kabupaten Lima Puluh Koto",
+        "shortName": "Lima Puluh Koto",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 100.5627,
+        "lat": -0.0006
+      },
+      {
+        "name": "Kabupaten Mandailing Natal",
+        "shortName": "Mandailing Natal",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 99.4188,
+        "lat": 0.717
+      },
+      {
+        "name": "Kabupaten Merangin",
+        "shortName": "Merangin",
+        "province": "ジャンビ州",
+        "provinceId": "Jambi",
+        "provinceSlug": "jambi",
+        "lng": 102.0561,
+        "lat": -2.2047
+      },
+      {
+        "name": "Kabupaten Muara Enim",
+        "shortName": "Muara Enim",
+        "province": "南スマトラ州",
+        "provinceId": "Sumatera Selatan",
+        "provinceSlug": "sumatera-selatan",
+        "lng": 104.0442,
+        "lat": -3.7107
+      },
+      {
+        "name": "Kabupaten Muaro Jambi",
+        "shortName": "Muaro Jambi",
+        "province": "ジャンビ州",
+        "provinceId": "Jambi",
+        "provinceSlug": "jambi",
+        "lng": 103.7461,
+        "lat": -1.6455
+      },
+      {
+        "name": "Kabupaten Musi Banyu Asin",
+        "shortName": "Musi Banyu Asin",
+        "province": "南スマトラ州",
+        "provinceId": "Sumatera Selatan",
+        "provinceSlug": "sumatera-selatan",
+        "lng": 103.8409,
+        "lat": -2.5001
+      },
+      {
+        "name": "Kabupaten Musi Rawas",
+        "shortName": "Musi Rawas",
+        "province": "南スマトラ州",
+        "provinceId": "Sumatera Selatan",
+        "provinceSlug": "sumatera-selatan",
+        "lng": 102.8605,
+        "lat": -2.9596
+      },
+      {
+        "name": "Kabupaten Nagan Raya",
+        "shortName": "Nagan Raya",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 96.5199,
+        "lat": 4.1549
+      },
+      {
+        "name": "Kabupaten Nias",
+        "shortName": "Nias",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 97.5029,
+        "lat": 1.0422
+      },
+      {
+        "name": "Kabupaten Ogan Komering Ilir",
+        "shortName": "Ogan Komering Ilir",
+        "province": "南スマトラ州",
+        "provinceId": "Sumatera Selatan",
+        "provinceSlug": "sumatera-selatan",
+        "lng": 105.2024,
+        "lat": -3.3265
+      },
+      {
+        "name": "Kabupaten Ogan Komering Ulu",
+        "shortName": "Ogan Komering Ulu",
+        "province": "南スマトラ州",
+        "provinceId": "Sumatera Selatan",
+        "provinceSlug": "sumatera-selatan",
+        "lng": 104.252,
+        "lat": -4.3004
+      },
+      {
+        "name": "Kabupaten Padang Pariaman",
+        "shortName": "Padang Pariaman",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 100.2572,
+        "lat": -0.5929
+      },
+      {
+        "name": "Kabupaten Pasaman",
+        "shortName": "Pasaman",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 99.7601,
+        "lat": 0.3698
+      },
+      {
+        "name": "Kabupaten Pelalawan",
+        "shortName": "Pelalawan",
+        "province": "リアウ州",
+        "provinceId": "Riau",
+        "provinceSlug": "riau",
+        "lng": 102.4263,
+        "lat": 0.1256
+      },
+      {
+        "name": "Kabupaten Pesisir Selatan",
+        "shortName": "Pesisir Selatan",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 100.8432,
+        "lat": -1.7476
+      },
+      {
+        "name": "Kabupaten Pidie",
+        "shortName": "Pidie",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 96.0983,
+        "lat": 5.1152
+      },
+      {
+        "name": "Kabupaten Rejang Lebong",
+        "shortName": "Rejang Lebong",
+        "province": "ブンクル州",
+        "provinceId": "Bengkulu",
+        "provinceSlug": "bengkulu",
+        "lng": 102.4658,
+        "lat": -3.2568
+      },
+      {
+        "name": "Kabupaten Rokan Hilir",
+        "shortName": "Rokan Hilir",
+        "province": "リアウ州",
+        "provinceId": "Riau",
+        "provinceSlug": "riau",
+        "lng": 100.8381,
+        "lat": 1.8848
+      },
+      {
+        "name": "Kabupaten Rokan Hulu",
+        "shortName": "Rokan Hulu",
+        "province": "リアウ州",
+        "provinceId": "Riau",
+        "provinceSlug": "riau",
+        "lng": 100.5064,
+        "lat": 0.8211
+      },
+      {
+        "name": "Kabupaten Sarolangun",
+        "shortName": "Sarolangun",
+        "province": "ジャンビ州",
+        "provinceId": "Jambi",
+        "provinceSlug": "jambi",
+        "lng": 102.6493,
+        "lat": -2.3301
+      },
+      {
+        "name": "Kabupaten Sawahlunto",
+        "shortName": "Sawahlunto",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 101.3416,
+        "lat": -1.0013
+      },
+      {
+        "name": "Kabupaten Siak",
+        "shortName": "Siak",
+        "province": "リアウ州",
+        "provinceId": "Riau",
+        "provinceSlug": "riau",
+        "lng": 101.8473,
+        "lat": 0.76
+      },
+      {
+        "name": "Kabupaten Simalungun",
+        "shortName": "Simalungun",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 99.055,
+        "lat": 2.9531
+      },
+      {
+        "name": "Kabupaten Simeulue",
+        "shortName": "Simeulue",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 96.0953,
+        "lat": 2.6295
+      },
+      {
+        "name": "Kabupaten Solok",
+        "shortName": "Solok",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 101.0539,
+        "lat": -1.1257
+      },
+      {
+        "name": "Kabupaten Tanah Datar",
+        "shortName": "Tanah Datar",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 100.5823,
+        "lat": -0.47
+      },
+      {
+        "name": "Kabupaten Tanggamus",
+        "shortName": "Tanggamus",
+        "province": "ランプン州",
+        "provinceId": "Lampung",
+        "provinceSlug": "lampung",
+        "lng": 104.7612,
+        "lat": -5.5162
+      },
+      {
+        "name": "Kabupaten Tanjung Jabung Barat",
+        "shortName": "Tanjung Jabung Barat",
+        "province": "ジャンビ州",
+        "provinceId": "Jambi",
+        "provinceSlug": "jambi",
+        "lng": 103.1414,
+        "lat": -1.1201
+      },
+      {
+        "name": "Kabupaten Tanjung Jabung Timur",
+        "shortName": "Tanjung Jabung Timur",
+        "province": "ジャンビ州",
+        "provinceId": "Jambi",
+        "provinceSlug": "jambi",
+        "lng": 103.9677,
+        "lat": -1.2923
+      },
+      {
+        "name": "Kabupaten Tapanuli Selatan",
+        "shortName": "Tapanuli Selatan",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 99.5602,
+        "lat": 1.4335
+      },
+      {
+        "name": "Kabupaten Tapanuli Tengah",
+        "shortName": "Tapanuli Tengah",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 98.6094,
+        "lat": 1.8688
+      },
+      {
+        "name": "Kabupaten Tapanuli Utara",
+        "shortName": "Tapanuli Utara",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 98.8282,
+        "lat": 2.0633
+      },
+      {
+        "name": "Kabupaten Tebo",
+        "shortName": "Tebo",
+        "province": "ジャンビ州",
+        "provinceId": "Jambi",
+        "provinceSlug": "jambi",
+        "lng": 102.3166,
+        "lat": -1.3936
+      },
+      {
+        "name": "Kabupaten Toba Samosir",
+        "shortName": "Toba Samosir",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 99.2468,
+        "lat": 2.3803
+      },
+      {
+        "name": "Kabupaten Tulang Bawang",
+        "shortName": "Tulang Bawang",
+        "province": "ランプン州",
+        "provinceId": "Lampung",
+        "provinceSlug": "lampung",
+        "lng": 105.4256,
+        "lat": -4.2755
+      },
+      {
+        "name": "Kabupaten Way Kanan",
+        "shortName": "Way Kanan",
+        "province": "ランプン州",
+        "provinceId": "Lampung",
+        "provinceSlug": "lampung",
+        "lng": 104.6476,
+        "lat": -4.5755
+      },
+      {
+        "name": "Kota Banda Aceh",
+        "shortName": "Banda Aceh",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 95.3432,
+        "lat": 5.5408
+      },
+      {
+        "name": "Kota Bandar Lampung",
+        "shortName": "Bandar Lampung",
+        "province": "ランプン州",
+        "provinceId": "Lampung",
+        "provinceSlug": "lampung",
+        "lng": 105.2508,
+        "lat": -5.4239
+      },
+      {
+        "name": "Kota Batam",
+        "shortName": "Batam",
+        "province": "リアウ諸島州",
+        "provinceId": "Kepulauan Riau",
+        "provinceSlug": "kepulauan-riau",
+        "lng": 104.0195,
+        "lat": 1.0899
+      },
+      {
+        "name": "Kota Bengkulu",
+        "shortName": "Bengkulu",
+        "province": "ブンクル州",
+        "provinceId": "Bengkulu",
+        "provinceSlug": "bengkulu",
+        "lng": 102.3099,
+        "lat": -3.856
+      },
+      {
+        "name": "Kota Binjai",
+        "shortName": "Binjai",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 98.4848,
+        "lat": 3.6191
+      },
+      {
+        "name": "Kota Bukittinggi",
+        "shortName": "Bukittinggi",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 100.3718,
+        "lat": -0.2718
+      },
+      {
+        "name": "Kota Dumai",
+        "shortName": "Dumai",
+        "province": "リアウ州",
+        "provinceId": "Riau",
+        "provinceSlug": "riau",
+        "lng": 101.4687,
+        "lat": 1.7482
+      },
+      {
+        "name": "Kota Jambi",
+        "shortName": "Jambi",
+        "province": "ジャンビ州",
+        "provinceId": "Jambi",
+        "provinceSlug": "jambi",
+        "lng": 103.6409,
+        "lat": -1.6222
+      },
+      {
+        "name": "Kota Kota Solok",
+        "shortName": "Kota Solok",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 100.5988,
+        "lat": -0.7589
+      },
+      {
+        "name": "Kota Langsa",
+        "shortName": "Langsa",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 97.9226,
+        "lat": 4.4786
+      },
+      {
+        "name": "Kota Lhokseumawe",
+        "shortName": "Lhokseumawe",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 97.0655,
+        "lat": 5.13
+      },
+      {
+        "name": "Kota Lubuk Linggau",
+        "shortName": "Lubuk Linggau",
+        "province": "南スマトラ州",
+        "provinceId": "Sumatera Selatan",
+        "provinceSlug": "sumatera-selatan",
+        "lng": 102.8385,
+        "lat": -3.2247
+      },
+      {
+        "name": "Kota Medan",
+        "shortName": "Medan",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 98.6712,
+        "lat": 3.6566
+      },
+      {
+        "name": "Kota Metro",
+        "shortName": "Metro",
+        "province": "ランプン州",
+        "provinceId": "Lampung",
+        "provinceSlug": "lampung",
+        "lng": 105.3097,
+        "lat": -5.1117
+      },
+      {
+        "name": "Kota Padang",
+        "shortName": "Padang",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 100.4493,
+        "lat": -1.0024
+      },
+      {
+        "name": "Kota Padang Panjang",
+        "shortName": "Padang Panjang",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 100.4234,
+        "lat": -0.4539
+      },
+      {
+        "name": "Kota Padang Sidempuan",
+        "shortName": "Padang Sidempuan",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 99.2565,
+        "lat": 1.3372
+      },
+      {
+        "name": "Kota Pagar Alam",
+        "shortName": "Pagar Alam",
+        "province": "南スマトラ州",
+        "provinceId": "Sumatera Selatan",
+        "provinceSlug": "sumatera-selatan",
+        "lng": 103.3434,
+        "lat": -4.1495
+      },
+      {
+        "name": "Kota Palembang",
+        "shortName": "Palembang",
+        "province": "南スマトラ州",
+        "provinceId": "Sumatera Selatan",
+        "provinceSlug": "sumatera-selatan",
+        "lng": 104.7283,
+        "lat": -3.0036
+      },
+      {
+        "name": "Kota Pangkal Pinang",
+        "shortName": "Pangkal Pinang",
+        "province": "バンカ・ブリトゥン諸島州",
+        "provinceId": "Kep. Bangka Belitung",
+        "provinceSlug": "bangka-belitung",
+        "lng": 106.1278,
+        "lat": -2.226
+      },
+      {
+        "name": "Kota Payakumbuh",
+        "shortName": "Payakumbuh",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 100.6411,
+        "lat": -0.2396
+      },
+      {
+        "name": "Kota Pekan Baru",
+        "shortName": "Pekan Baru",
+        "province": "リアウ州",
+        "provinceId": "Riau",
+        "provinceSlug": "riau",
+        "lng": 101.4623,
+        "lat": 0.5574
+      },
+      {
+        "name": "Kota Pematang Siantar",
+        "shortName": "Pematang Siantar",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 99.0518,
+        "lat": 2.9676
+      },
+      {
+        "name": "Kota Prabumulih",
+        "shortName": "Prabumulih",
+        "province": "南スマトラ州",
+        "provinceId": "Sumatera Selatan",
+        "provinceSlug": "sumatera-selatan",
+        "lng": 104.2201,
+        "lat": -3.4976
+      },
+      {
+        "name": "Kota Sabang",
+        "shortName": "Sabang",
+        "province": "アチェ州",
+        "provinceId": "Aceh",
+        "provinceSlug": "aceh",
+        "lng": 95.2961,
+        "lat": 5.8399
+      },
+      {
+        "name": "Kota Sawah Lunto",
+        "shortName": "Sawah Lunto",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 100.7878,
+        "lat": -0.6776
+      },
+      {
+        "name": "Kota Sibolga",
+        "shortName": "Sibolga",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 98.7986,
+        "lat": 1.7274
+      },
+      {
+        "name": "Kota Tanjung Balai",
+        "shortName": "Tanjung Balai",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 99.7785,
+        "lat": 2.9417
+      },
+      {
+        "name": "Kota Tanjung Pinang",
+        "shortName": "Tanjung Pinang",
+        "province": "リアウ諸島州",
+        "provinceId": "Kepulauan Riau",
+        "provinceSlug": "kepulauan-riau",
+        "lng": 104.4437,
+        "lat": 1.0492
+      },
+      {
+        "name": "Kota Tebing Tinggi",
+        "shortName": "Tebing Tinggi",
+        "province": "北スマトラ州",
+        "provinceId": "Sumatera Utara",
+        "provinceSlug": "sumatera-utara",
+        "lng": 99.1415,
+        "lat": 3.3311
+      }
+    ]
+  },
+  {
+    "slug": "jawa",
+    "nameId": "Jawa",
+    "nameJa": "ジャワ島",
+    "bbox": [
+      105.1081,
+      -8.7805,
+      116.27,
+      -5.0428
+    ],
+    "provinces": [
+      {
+        "slug": "jakarta",
+        "nameJa": "ジャカルタ首都特別州",
+        "nameId": "DKI Jakarta"
+      },
+      {
+        "slug": "banten",
+        "nameJa": "バンテン州",
+        "nameId": "Banten"
+      },
+      {
+        "slug": "jawa-barat",
+        "nameJa": "西ジャワ州",
+        "nameId": "Jawa Barat"
+      },
+      {
+        "slug": "jawa-tengah",
+        "nameJa": "中部ジャワ州",
+        "nameId": "Jawa Tengah"
+      },
+      {
+        "slug": "yogyakarta",
+        "nameJa": "ジョグジャカルタ特別州",
+        "nameId": "DI Yogyakarta"
+      },
+      {
+        "slug": "jawa-timur",
+        "nameJa": "東ジャワ州",
+        "nameId": "Jawa Timur"
+      }
+    ],
+    "kabs": [
+      {
+        "name": "Kabupaten Administrasi Kepulauan Seribu",
+        "shortName": "Kepulauan Seribu",
+        "province": "ジャカルタ首都特別州",
+        "provinceId": "DKI Jakarta",
+        "provinceSlug": "jakarta",
+        "lng": 106.5779,
+        "lat": -5.6126
+      },
+      {
+        "name": "Kabupaten Bandung",
+        "shortName": "Bandung",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 107.5572,
+        "lat": -6.999
+      },
+      {
+        "name": "Kabupaten Bangkalan",
+        "shortName": "Bangkalan",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.9092,
+        "lat": -7.0472
+      },
+      {
+        "name": "Kabupaten Banjarnegara",
+        "shortName": "Banjarnegara",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.6389,
+        "lat": -7.3528
+      },
+      {
+        "name": "Kabupaten Bantul",
+        "shortName": "Bantul",
+        "province": "ジョグジャカルタ特別州",
+        "provinceId": "DI Yogyakarta",
+        "provinceSlug": "yogyakarta",
+        "lng": 110.3569,
+        "lat": -7.9083
+      },
+      {
+        "name": "Kabupaten Banyumas",
+        "shortName": "Banyumas",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.1682,
+        "lat": -7.4525
+      },
+      {
+        "name": "Kabupaten Banyuwangi",
+        "shortName": "Banyuwangi",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 114.2192,
+        "lat": -8.3309
+      },
+      {
+        "name": "Kabupaten Batang",
+        "shortName": "Batang",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.8805,
+        "lat": -7.0378
+      },
+      {
+        "name": "Kabupaten Bekasi",
+        "shortName": "Bekasi",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 107.1351,
+        "lat": -6.2044
+      },
+      {
+        "name": "Kabupaten Blora",
+        "shortName": "Blora",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 111.3612,
+        "lat": -7.1136
+      },
+      {
+        "name": "Kabupaten Bogor",
+        "shortName": "Bogor",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 106.8113,
+        "lat": -6.5441
+      },
+      {
+        "name": "Kabupaten Bojonegoro",
+        "shortName": "Bojonegoro",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 111.7916,
+        "lat": -7.2261
+      },
+      {
+        "name": "Kabupaten Bondowoso",
+        "shortName": "Bondowoso",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 113.9325,
+        "lat": -7.9433
+      },
+      {
+        "name": "Kabupaten Boyolali",
+        "shortName": "Boyolali",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.6124,
+        "lat": -7.3826
+      },
+      {
+        "name": "Kabupaten Brebes",
+        "shortName": "Brebes",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 108.9447,
+        "lat": -7.0451
+      },
+      {
+        "name": "Kabupaten Ciamis",
+        "shortName": "Ciamis",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 108.4852,
+        "lat": -7.4359
+      },
+      {
+        "name": "Kabupaten Cianjur",
+        "shortName": "Cianjur",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 107.1263,
+        "lat": -7.0522
+      },
+      {
+        "name": "Kabupaten Cilacap",
+        "shortName": "Cilacap",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 108.9747,
+        "lat": -7.4445
+      },
+      {
+        "name": "Kabupaten Cirebon",
+        "shortName": "Cirebon",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 108.5758,
+        "lat": -6.7555
+      },
+      {
+        "name": "Kabupaten Demak",
+        "shortName": "Demak",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.6379,
+        "lat": -6.9285
+      },
+      {
+        "name": "Kabupaten Garut",
+        "shortName": "Garut",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 107.7784,
+        "lat": -7.3447
+      },
+      {
+        "name": "Kabupaten Gresik",
+        "shortName": "Gresik",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.5182,
+        "lat": -7.1205
+      },
+      {
+        "name": "Kabupaten Grobogan",
+        "shortName": "Grobogan",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.8944,
+        "lat": -7.1069
+      },
+      {
+        "name": "Kabupaten Gunungkidul",
+        "shortName": "Gunungkidul",
+        "province": "ジョグジャカルタ特別州",
+        "provinceId": "DI Yogyakarta",
+        "provinceSlug": "yogyakarta",
+        "lng": 110.5853,
+        "lat": -7.993
+      },
+      {
+        "name": "Kabupaten Indramayu",
+        "shortName": "Indramayu",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 108.197,
+        "lat": -6.4468
+      },
+      {
+        "name": "Kabupaten Jember",
+        "shortName": "Jember",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 113.6754,
+        "lat": -8.2633
+      },
+      {
+        "name": "Kabupaten Jepara",
+        "shortName": "Jepara",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.7899,
+        "lat": -6.6062
+      },
+      {
+        "name": "Kabupaten Jombang",
+        "shortName": "Jombang",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.2577,
+        "lat": -7.5597
+      },
+      {
+        "name": "Kabupaten Karanganyar",
+        "shortName": "Karanganyar",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.9842,
+        "lat": -7.6131
+      },
+      {
+        "name": "Kabupaten Karawang",
+        "shortName": "Karawang",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 107.364,
+        "lat": -6.2897
+      },
+      {
+        "name": "Kabupaten Kebumen",
+        "shortName": "Kebumen",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.6468,
+        "lat": -7.6499
+      },
+      {
+        "name": "Kabupaten Kediri",
+        "shortName": "Kediri",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.1038,
+        "lat": -7.8029
+      },
+      {
+        "name": "Kabupaten Kendal",
+        "shortName": "Kendal",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.1423,
+        "lat": -7.0214
+      },
+      {
+        "name": "Kabupaten Klaten",
+        "shortName": "Klaten",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.6094,
+        "lat": -7.676
+      },
+      {
+        "name": "Kabupaten Kudus",
+        "shortName": "Kudus",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.8704,
+        "lat": -6.7982
+      },
+      {
+        "name": "Kabupaten Kulon Progo",
+        "shortName": "Kulon Progo",
+        "province": "ジョグジャカルタ特別州",
+        "provinceId": "DI Yogyakarta",
+        "provinceSlug": "yogyakarta",
+        "lng": 110.1579,
+        "lat": -7.8134
+      },
+      {
+        "name": "Kabupaten Kuningan",
+        "shortName": "Kuningan",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 108.5915,
+        "lat": -6.9885
+      },
+      {
+        "name": "Kabupaten Lamongan",
+        "shortName": "Lamongan",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.3116,
+        "lat": -7.1242
+      },
+      {
+        "name": "Kabupaten Lebak",
+        "shortName": "Lebak",
+        "province": "バンテン州",
+        "provinceId": "Banten",
+        "provinceSlug": "banten",
+        "lng": 106.1895,
+        "lat": -6.6527
+      },
+      {
+        "name": "Kabupaten Lumajang",
+        "shortName": "Lumajang",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 113.1391,
+        "lat": -8.1253
+      },
+      {
+        "name": "Kabupaten Madiun",
+        "shortName": "Madiun",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 111.648,
+        "lat": -7.6126
+      },
+      {
+        "name": "Kabupaten Magelang",
+        "shortName": "Magelang",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.2467,
+        "lat": -7.5106
+      },
+      {
+        "name": "Kabupaten Magetan",
+        "shortName": "Magetan",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 111.3462,
+        "lat": -7.6545
+      },
+      {
+        "name": "Kabupaten Majalengka",
+        "shortName": "Majalengka",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 108.2277,
+        "lat": -6.8175
+      },
+      {
+        "name": "Kabupaten Malang",
+        "shortName": "Malang",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.6239,
+        "lat": -8.1044
+      },
+      {
+        "name": "Kabupaten Mojokerto",
+        "shortName": "Mojokerto",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.4961,
+        "lat": -7.5413
+      },
+      {
+        "name": "Kabupaten Nganjuk",
+        "shortName": "Nganjuk",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 111.9454,
+        "lat": -7.6161
+      },
+      {
+        "name": "Kabupaten Ngawi",
+        "shortName": "Ngawi",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 111.3943,
+        "lat": -7.4287
+      },
+      {
+        "name": "Kabupaten Pacitan",
+        "shortName": "Pacitan",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 111.1607,
+        "lat": -8.0988
+      },
+      {
+        "name": "Kabupaten Pamekasan",
+        "shortName": "Pamekasan",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 113.5005,
+        "lat": -7.0713
+      },
+      {
+        "name": "Kabupaten Pandeglang",
+        "shortName": "Pandeglang",
+        "province": "バンテン州",
+        "provinceId": "Banten",
+        "provinceSlug": "banten",
+        "lng": 105.7155,
+        "lat": -6.5499
+      },
+      {
+        "name": "Kabupaten Pasuruan",
+        "shortName": "Pasuruan",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.8307,
+        "lat": -7.7485
+      },
+      {
+        "name": "Kabupaten Pati",
+        "shortName": "Pati",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 111.0337,
+        "lat": -6.7028
+      },
+      {
+        "name": "Kabupaten Pekalongan",
+        "shortName": "Pekalongan",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.6571,
+        "lat": -7.0405
+      },
+      {
+        "name": "Kabupaten Pemalang",
+        "shortName": "Pemalang",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.3921,
+        "lat": -7.0097
+      },
+      {
+        "name": "Kabupaten Ponorogo",
+        "shortName": "Ponorogo",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 111.5314,
+        "lat": -7.9731
+      },
+      {
+        "name": "Kabupaten Probolinggo",
+        "shortName": "Probolinggo",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 113.2758,
+        "lat": -7.863
+      },
+      {
+        "name": "Kabupaten Purbalingga",
+        "shortName": "Purbalingga",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.4088,
+        "lat": -7.3277
+      },
+      {
+        "name": "Kabupaten Purwakarta",
+        "shortName": "Purwakarta",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 107.4306,
+        "lat": -6.5896
+      },
+      {
+        "name": "Kabupaten Purworejo",
+        "shortName": "Purworejo",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.9692,
+        "lat": -7.7006
+      },
+      {
+        "name": "Kabupaten Rembang",
+        "shortName": "Rembang",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 111.464,
+        "lat": -6.7713
+      },
+      {
+        "name": "Kabupaten Sampang",
+        "shortName": "Sampang",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 113.2837,
+        "lat": -7.0572
+      },
+      {
+        "name": "Kabupaten Semarang",
+        "shortName": "Semarang",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.4559,
+        "lat": -7.2868
+      },
+      {
+        "name": "Kabupaten Serang",
+        "shortName": "Serang",
+        "province": "バンテン州",
+        "provinceId": "Banten",
+        "provinceSlug": "banten",
+        "lng": 106.1213,
+        "lat": -6.1104
+      },
+      {
+        "name": "Kabupaten Sidoarjo",
+        "shortName": "Sidoarjo",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.6665,
+        "lat": -7.4526
+      },
+      {
+        "name": "Kabupaten Situbondo",
+        "shortName": "Situbondo",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 114.0212,
+        "lat": -7.7991
+      },
+      {
+        "name": "Kabupaten Sleman",
+        "shortName": "Sleman",
+        "province": "ジョグジャカルタ特別州",
+        "provinceId": "DI Yogyakarta",
+        "provinceSlug": "yogyakarta",
+        "lng": 110.3865,
+        "lat": -7.6903
+      },
+      {
+        "name": "Kabupaten Sragen",
+        "shortName": "Sragen",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.9617,
+        "lat": -7.3909
+      },
+      {
+        "name": "Kabupaten Subang",
+        "shortName": "Subang",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 107.7263,
+        "lat": -6.4967
+      },
+      {
+        "name": "Kabupaten Sukabumi",
+        "shortName": "Sukabumi",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 106.7192,
+        "lat": -7.0745
+      },
+      {
+        "name": "Kabupaten Sukoharjo",
+        "shortName": "Sukoharjo",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.8315,
+        "lat": -7.6827
+      },
+      {
+        "name": "Kabupaten Sumedang",
+        "shortName": "Sumedang",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 107.9799,
+        "lat": -6.8101
+      },
+      {
+        "name": "Kabupaten Sumenep",
+        "shortName": "Sumenep",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 113.8511,
+        "lat": -6.9988
+      },
+      {
+        "name": "Kabupaten Tangerang",
+        "shortName": "Tangerang",
+        "province": "バンテン州",
+        "provinceId": "Banten",
+        "provinceSlug": "banten",
+        "lng": 106.561,
+        "lat": -6.1839
+      },
+      {
+        "name": "Kabupaten Tasikmalaya",
+        "shortName": "Tasikmalaya",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 108.1642,
+        "lat": -7.4283
+      },
+      {
+        "name": "Kabupaten Tegal",
+        "shortName": "Tegal",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.1572,
+        "lat": -7.0472
+      },
+      {
+        "name": "Kabupaten Temanggung",
+        "shortName": "Temanggung",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.1373,
+        "lat": -7.2454
+      },
+      {
+        "name": "Kabupaten Trenggalek",
+        "shortName": "Trenggalek",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 111.6167,
+        "lat": -8.139
+      },
+      {
+        "name": "Kabupaten Tuban",
+        "shortName": "Tuban",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 111.8932,
+        "lat": -6.9597
+      },
+      {
+        "name": "Kabupaten Tulungagung",
+        "shortName": "Tulungagung",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 111.9155,
+        "lat": -8.0743
+      },
+      {
+        "name": "Kabupaten Wonogiri",
+        "shortName": "Wonogiri",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 111.0349,
+        "lat": -7.9609
+      },
+      {
+        "name": "Kabupaten Wonosobo",
+        "shortName": "Wonosobo",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.903,
+        "lat": -7.3975
+      },
+      {
+        "name": "Kota Administrasi Jakarta Barat",
+        "shortName": "Jakarta Barat",
+        "province": "ジャカルタ首都特別州",
+        "provinceId": "DKI Jakarta",
+        "provinceSlug": "jakarta",
+        "lng": 106.7546,
+        "lat": -6.1597
+      },
+      {
+        "name": "Kota Administrasi Jakarta Pusat",
+        "shortName": "Jakarta Pusat",
+        "province": "ジャカルタ首都特別州",
+        "provinceId": "DKI Jakarta",
+        "provinceSlug": "jakarta",
+        "lng": 106.8363,
+        "lat": -6.1826
+      },
+      {
+        "name": "Kota Administrasi Jakarta Selatan",
+        "shortName": "Jakarta Selatan",
+        "province": "ジャカルタ首都特別州",
+        "provinceId": "DKI Jakarta",
+        "provinceSlug": "jakarta",
+        "lng": 106.793,
+        "lat": -6.2846
+      },
+      {
+        "name": "Kota Administrasi Jakarta Timur",
+        "shortName": "Jakarta Timur",
+        "province": "ジャカルタ首都特別州",
+        "provinceId": "DKI Jakarta",
+        "provinceSlug": "jakarta",
+        "lng": 106.9077,
+        "lat": -6.2622
+      },
+      {
+        "name": "Kota Administrasi Jakarta Utara",
+        "shortName": "Jakarta Utara",
+        "province": "ジャカルタ首都特別州",
+        "provinceId": "DKI Jakarta",
+        "provinceSlug": "jakarta",
+        "lng": 106.8408,
+        "lat": -6.1358
+      },
+      {
+        "name": "Kota Banjar",
+        "shortName": "Banjar",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 108.5591,
+        "lat": -7.37
+      },
+      {
+        "name": "Kota Batu",
+        "shortName": "Batu",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.5314,
+        "lat": -7.8371
+      },
+      {
+        "name": "Kota Blitar",
+        "shortName": "Blitar",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.215,
+        "lat": -8.1393
+      },
+      {
+        "name": "Kota Cilegon",
+        "shortName": "Cilegon",
+        "province": "バンテン州",
+        "provinceId": "Banten",
+        "provinceSlug": "banten",
+        "lng": 106.0049,
+        "lat": -6.0029
+      },
+      {
+        "name": "Kota Cimahi",
+        "shortName": "Cimahi",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 107.5486,
+        "lat": -6.8812
+      },
+      {
+        "name": "Kota Depok",
+        "shortName": "Depok",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 106.8165,
+        "lat": -6.3886
+      },
+      {
+        "name": "Kota Kota Bandung",
+        "shortName": "Kota Bandung",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 107.6469,
+        "lat": -6.9104
+      },
+      {
+        "name": "Kota Kota Bekasi",
+        "shortName": "Kota Bekasi",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 106.9732,
+        "lat": -6.2851
+      },
+      {
+        "name": "Kota Kota Bogor",
+        "shortName": "Kota Bogor",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 106.7937,
+        "lat": -6.5962
+      },
+      {
+        "name": "Kota Kota Cirebon",
+        "shortName": "Kota Cirebon",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 108.5548,
+        "lat": -6.7493
+      },
+      {
+        "name": "Kota Kota Kediri",
+        "shortName": "Kota Kediri",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.0161,
+        "lat": -7.8242
+      },
+      {
+        "name": "Kota Kota Madiun",
+        "shortName": "Kota Madiun",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 111.5301,
+        "lat": -7.6305
+      },
+      {
+        "name": "Kota Kota Magelang",
+        "shortName": "Kota Magelang",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.2251,
+        "lat": -7.492
+      },
+      {
+        "name": "Kota Kota Malang",
+        "shortName": "Kota Malang",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.6273,
+        "lat": -7.9764
+      },
+      {
+        "name": "Kota Kota Mojokerto",
+        "shortName": "Kota Mojokerto",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.4377,
+        "lat": -7.4689
+      },
+      {
+        "name": "Kota Kota Pasuruan",
+        "shortName": "Kota Pasuruan",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.905,
+        "lat": -7.6553
+      },
+      {
+        "name": "Kota Kota Pekalongan",
+        "shortName": "Kota Pekalongan",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.6885,
+        "lat": -6.9005
+      },
+      {
+        "name": "Kota Kota Probolinggo",
+        "shortName": "Kota Probolinggo",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 113.2089,
+        "lat": -7.7797
+      },
+      {
+        "name": "Kota Kota Semarang",
+        "shortName": "Kota Semarang",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.3889,
+        "lat": -7.0318
+      },
+      {
+        "name": "Kota Kota Sukabumi",
+        "shortName": "Kota Sukabumi",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 106.9057,
+        "lat": -6.9412
+      },
+      {
+        "name": "Kota Kota Surabaya",
+        "shortName": "Kota Surabaya",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.7157,
+        "lat": -7.2788
+      },
+      {
+        "name": "Kota Kota Tangerang",
+        "shortName": "Kota Tangerang",
+        "province": "バンテン州",
+        "provinceId": "Banten",
+        "provinceSlug": "banten",
+        "lng": 106.6523,
+        "lat": -6.1754
+      },
+      {
+        "name": "Kota Kota Tasikmalaya",
+        "shortName": "Kota Tasikmalaya",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 108.2176,
+        "lat": -7.3603
+      },
+      {
+        "name": "Kota Kota Tegal",
+        "shortName": "Kota Tegal",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.1084,
+        "lat": -6.872
+      },
+      {
+        "name": "Kota Salatiga",
+        "shortName": "Salatiga",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.4998,
+        "lat": -7.343
+      },
+      {
+        "name": "Kota Surakarta",
+        "shortName": "Surakarta",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.8236,
+        "lat": -7.5591
+      },
+      {
+        "name": "Kota Yogyakarta",
+        "shortName": "Yogyakarta",
+        "province": "ジョグジャカルタ特別州",
+        "provinceId": "DI Yogyakarta",
+        "provinceSlug": "yogyakarta",
+        "lng": 110.3762,
+        "lat": -7.8002
+      }
+    ]
+  },
+  {
+    "slug": "nusa-tenggara",
+    "nameId": "Bali & Nusa Tenggara",
+    "nameJa": "バリ・ヌサ・トゥンガラ諸島",
+    "bbox": [
+      114.4311,
+      -11.0097,
+      125.1889,
+      -7.7777
+    ],
+    "provinces": [
+      {
+        "slug": "bali",
+        "nameJa": "バリ州",
+        "nameId": "Bali"
+      },
+      {
+        "slug": "nusa-tenggara-barat",
+        "nameJa": "西ヌサ・トゥンガラ州",
+        "nameId": "Nusa Tenggara Barat"
+      },
+      {
+        "slug": "nusa-tenggara-timur",
+        "nameJa": "東ヌサ・トゥンガラ州",
+        "nameId": "Nusa Tenggara Timur"
+      }
+    ],
+    "kabs": [
+      {
+        "name": "Kabupaten Alor",
+        "shortName": "Alor",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 124.7407,
+        "lat": -8.291
+      },
+      {
+        "name": "Kabupaten Badung",
+        "shortName": "Badung",
+        "province": "バリ州",
+        "provinceId": "Bali",
+        "provinceSlug": "bali",
+        "lng": 115.1684,
+        "lat": -8.5413
+      },
+      {
+        "name": "Kabupaten Bangli",
+        "shortName": "Bangli",
+        "province": "バリ州",
+        "provinceId": "Bali",
+        "provinceSlug": "bali",
+        "lng": 115.3465,
+        "lat": -8.3352
+      },
+      {
+        "name": "Kabupaten Belu",
+        "shortName": "Belu",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 124.9289,
+        "lat": -9.3757
+      },
+      {
+        "name": "Kabupaten Bima",
+        "shortName": "Bima",
+        "province": "西ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Barat",
+        "provinceSlug": "nusa-tenggara-barat",
+        "lng": 118.8161,
+        "lat": -8.5639
+      },
+      {
+        "name": "Kabupaten Buleleng",
+        "shortName": "Buleleng",
+        "province": "バリ州",
+        "provinceId": "Bali",
+        "provinceSlug": "bali",
+        "lng": 114.9458,
+        "lat": -8.2205
+      },
+      {
+        "name": "Kabupaten Dompu",
+        "shortName": "Dompu",
+        "province": "西ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Barat",
+        "provinceSlug": "nusa-tenggara-barat",
+        "lng": 118.1148,
+        "lat": -8.5155
+      },
+      {
+        "name": "Kabupaten Ende",
+        "shortName": "Ende",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 121.6928,
+        "lat": -8.6732
+      },
+      {
+        "name": "Kabupaten Flores Timur",
+        "shortName": "Flores Timur",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 122.8185,
+        "lat": -8.3485
+      },
+      {
+        "name": "Kabupaten Gianyar",
+        "shortName": "Gianyar",
+        "province": "バリ州",
+        "provinceId": "Bali",
+        "provinceSlug": "bali",
+        "lng": 115.2968,
+        "lat": -8.4796
+      },
+      {
+        "name": "Kabupaten Jembrana",
+        "shortName": "Jembrana",
+        "province": "バリ州",
+        "provinceId": "Bali",
+        "provinceSlug": "bali",
+        "lng": 114.6827,
+        "lat": -8.3149
+      },
+      {
+        "name": "Kabupaten Karangasem",
+        "shortName": "Karangasem",
+        "province": "バリ州",
+        "provinceId": "Bali",
+        "provinceSlug": "bali",
+        "lng": 115.5514,
+        "lat": -8.3609
+      },
+      {
+        "name": "Kabupaten Klungkung",
+        "shortName": "Klungkung",
+        "province": "バリ州",
+        "provinceId": "Bali",
+        "provinceSlug": "bali",
+        "lng": 115.5381,
+        "lat": -8.7439
+      },
+      {
+        "name": "Kabupaten Kupang",
+        "shortName": "Kupang",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 123.8392,
+        "lat": -9.8531
+      },
+      {
+        "name": "Kabupaten Lembata",
+        "shortName": "Lembata",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 123.565,
+        "lat": -8.3779
+      },
+      {
+        "name": "Kabupaten Lombok Barat",
+        "shortName": "Lombok Barat",
+        "province": "西ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Barat",
+        "provinceSlug": "nusa-tenggara-barat",
+        "lng": 116.1609,
+        "lat": -8.5575
+      },
+      {
+        "name": "Kabupaten Lombok Tengah",
+        "shortName": "Lombok Tengah",
+        "province": "西ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Barat",
+        "provinceSlug": "nusa-tenggara-barat",
+        "lng": 116.2828,
+        "lat": -8.6835
+      },
+      {
+        "name": "Kabupaten Lombok Timur",
+        "shortName": "Lombok Timur",
+        "province": "西ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Barat",
+        "provinceSlug": "nusa-tenggara-barat",
+        "lng": 116.5569,
+        "lat": -8.5833
+      },
+      {
+        "name": "Kabupaten Manggarai",
+        "shortName": "Manggarai",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 120.3744,
+        "lat": -8.5674
+      },
+      {
+        "name": "Kabupaten Ngada",
+        "shortName": "Ngada",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 121.1562,
+        "lat": -8.6502
+      },
+      {
+        "name": "Kabupaten Rote Ndao",
+        "shortName": "Rote Ndao",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 123.1221,
+        "lat": -10.6871
+      },
+      {
+        "name": "Kabupaten Sikka",
+        "shortName": "Sikka",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 122.307,
+        "lat": -8.5972
+      },
+      {
+        "name": "Kabupaten Sumba Barat",
+        "shortName": "Sumba Barat",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 119.4301,
+        "lat": -9.5885
+      },
+      {
+        "name": "Kabupaten Sumba Timur",
+        "shortName": "Sumba Timur",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 120.2609,
+        "lat": -9.7936
+      },
+      {
+        "name": "Kabupaten Sumbawa",
+        "shortName": "Sumbawa",
+        "province": "西ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Barat",
+        "provinceSlug": "nusa-tenggara-barat",
+        "lng": 117.5218,
+        "lat": -8.7371
+      },
+      {
+        "name": "Kabupaten Tabanan",
+        "shortName": "Tabanan",
+        "province": "バリ州",
+        "provinceId": "Bali",
+        "provinceSlug": "bali",
+        "lng": 115.0651,
+        "lat": -8.437
+      },
+      {
+        "name": "Kabupaten Timor Tengah Selatan",
+        "shortName": "Timor Tengah Selatan",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 124.4255,
+        "lat": -9.8284
+      },
+      {
+        "name": "Kabupaten Timor Tengah Utara",
+        "shortName": "Timor Tengah Utara",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 124.4745,
+        "lat": -9.3543
+      },
+      {
+        "name": "Kota Denpasar",
+        "shortName": "Denpasar",
+        "province": "バリ州",
+        "provinceId": "Bali",
+        "provinceSlug": "bali",
+        "lng": 115.2278,
+        "lat": -8.6663
+      },
+      {
+        "name": "Kota Kota Bima",
+        "shortName": "Kota Bima",
+        "province": "西ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Barat",
+        "provinceSlug": "nusa-tenggara-barat",
+        "lng": 118.8047,
+        "lat": -8.4535
+      },
+      {
+        "name": "Kota Kota Kupang",
+        "shortName": "Kota Kupang",
+        "province": "東ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Timur",
+        "provinceSlug": "nusa-tenggara-timur",
+        "lng": 123.6026,
+        "lat": -10.2236
+      },
+      {
+        "name": "Kota Mataram",
+        "shortName": "Mataram",
+        "province": "西ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Barat",
+        "provinceSlug": "nusa-tenggara-barat",
+        "lng": 116.1169,
+        "lat": -8.5812
+      }
+    ]
+  },
+  {
+    "slug": "kalimantan",
+    "nameId": "Kalimantan (Borneo)",
+    "nameJa": "カリマンタン島",
+    "bbox": [
+      105.5836,
+      -4.9383,
+      118.9878,
+      4.7958
+    ],
+    "provinces": [
+      {
+        "slug": "kalimantan-barat",
+        "nameJa": "西カリマンタン州",
+        "nameId": "Kalimantan Barat"
+      },
+      {
+        "slug": "kalimantan-tengah",
+        "nameJa": "中部カリマンタン州",
+        "nameId": "Kalimantan Tengah"
+      },
+      {
+        "slug": "kalimantan-selatan",
+        "nameJa": "南カリマンタン州",
+        "nameId": "Kalimantan Selatan"
+      },
+      {
+        "slug": "kalimantan-timur",
+        "nameJa": "東カリマンタン州",
+        "nameId": "Kalimantan Timur"
+      },
+      {
+        "slug": "kalimantan-utara",
+        "nameJa": "北カリマンタン州",
+        "nameId": "Kalimantan Utara"
+      }
+    ],
+    "kabs": [
+      {
+        "name": "Kabupaten Barito Kuala",
+        "shortName": "Barito Kuala",
+        "province": "南カリマンタン州",
+        "provinceId": "Kalimantan Selatan",
+        "provinceSlug": "kalimantan-selatan",
+        "lng": 114.6089,
+        "lat": -3.0126
+      },
+      {
+        "name": "Kabupaten Barito Selatan",
+        "shortName": "Barito Selatan",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 114.9647,
+        "lat": -1.9274
+      },
+      {
+        "name": "Kabupaten Barito Timur",
+        "shortName": "Barito Timur",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 115.0881,
+        "lat": -1.9325
+      },
+      {
+        "name": "Kabupaten Barito Utara",
+        "shortName": "Barito Utara",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 115.129,
+        "lat": -0.7581
+      },
+      {
+        "name": "Kabupaten Bengkayang",
+        "shortName": "Bengkayang",
+        "province": "西カリマンタン州",
+        "provinceId": "Kalimantan Barat",
+        "provinceSlug": "kalimantan-barat",
+        "lng": 109.4889,
+        "lat": 1.0343
+      },
+      {
+        "name": "Kabupaten Berau",
+        "shortName": "Berau",
+        "province": "東カリマンタン州",
+        "provinceId": "Kalimantan Timur",
+        "provinceSlug": "kalimantan-timur",
+        "lng": 117.5817,
+        "lat": 1.8081
+      },
+      {
+        "name": "Kabupaten Bulungan",
+        "shortName": "Bulungan",
+        "province": "北カリマンタン州",
+        "provinceId": "Kalimantan Utara",
+        "provinceSlug": "kalimantan-utara",
+        "lng": 117.0224,
+        "lat": 2.9206
+      },
+      {
+        "name": "Kabupaten Gunung Mas",
+        "shortName": "Gunung Mas",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 113.4913,
+        "lat": -0.8953
+      },
+      {
+        "name": "Kabupaten Hulu Sungai Selatan",
+        "shortName": "Hulu Sungai Selatan",
+        "province": "南カリマンタン州",
+        "provinceId": "Kalimantan Selatan",
+        "provinceSlug": "kalimantan-selatan",
+        "lng": 115.2318,
+        "lat": -2.7068
+      },
+      {
+        "name": "Kabupaten Hulu Sungai Tengah",
+        "shortName": "Hulu Sungai Tengah",
+        "province": "南カリマンタン州",
+        "provinceId": "Kalimantan Selatan",
+        "provinceSlug": "kalimantan-selatan",
+        "lng": 115.4214,
+        "lat": -2.6311
+      },
+      {
+        "name": "Kabupaten Hulu Sungai Utara",
+        "shortName": "Hulu Sungai Utara",
+        "province": "南カリマンタン州",
+        "provinceId": "Kalimantan Selatan",
+        "provinceSlug": "kalimantan-selatan",
+        "lng": 115.3495,
+        "lat": -2.2968
+      },
+      {
+        "name": "Kabupaten Kapuas",
+        "shortName": "Kapuas",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 114.2449,
+        "lat": -1.9435
+      },
+      {
+        "name": "Kabupaten Kapuas Hulu",
+        "shortName": "Kapuas Hulu",
+        "province": "西カリマンタン州",
+        "provinceId": "Kalimantan Barat",
+        "provinceSlug": "kalimantan-barat",
+        "lng": 112.9164,
+        "lat": 0.8309
+      },
+      {
+        "name": "Kabupaten Katingan",
+        "shortName": "Katingan",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 112.8654,
+        "lat": -1.8618
+      },
+      {
+        "name": "Kabupaten Ketapang",
+        "shortName": "Ketapang",
+        "province": "西カリマンタン州",
+        "provinceId": "Kalimantan Barat",
+        "provinceSlug": "kalimantan-barat",
+        "lng": 110.5415,
+        "lat": -1.6831
+      },
+      {
+        "name": "Kabupaten Kota Baru",
+        "shortName": "Kota Baru",
+        "province": "南カリマンタン州",
+        "provinceId": "Kalimantan Selatan",
+        "provinceSlug": "kalimantan-selatan",
+        "lng": 115.9092,
+        "lat": -3.0762
+      },
+      {
+        "name": "Kabupaten Kotawaringin Barat",
+        "shortName": "Kotawaringin Barat",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 111.7115,
+        "lat": -2.4368
+      },
+      {
+        "name": "Kabupaten Kotawaringin Timur",
+        "shortName": "Kotawaringin Timur",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 112.6482,
+        "lat": -2.2436
+      },
+      {
+        "name": "Kabupaten Kutai Barat",
+        "shortName": "Kutai Barat",
+        "province": "東カリマンタン州",
+        "provinceId": "Kalimantan Timur",
+        "provinceSlug": "kalimantan-timur",
+        "lng": 115.1912,
+        "lat": 0.1899
+      },
+      {
+        "name": "Kabupaten Kutai Kartanegara",
+        "shortName": "Kutai Kartanegara",
+        "province": "東カリマンタン州",
+        "provinceId": "Kalimantan Timur",
+        "provinceSlug": "kalimantan-timur",
+        "lng": 116.5566,
+        "lat": 0.246
+      },
+      {
+        "name": "Kabupaten Kutai Timur",
+        "shortName": "Kutai Timur",
+        "province": "東カリマンタン州",
+        "provinceId": "Kalimantan Timur",
+        "provinceSlug": "kalimantan-timur",
+        "lng": 117.5269,
+        "lat": 1.0223
+      },
+      {
+        "name": "Kabupaten Lamandau",
+        "shortName": "Lamandau",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 111.2368,
+        "lat": -1.6926
+      },
+      {
+        "name": "Kabupaten Landak",
+        "shortName": "Landak",
+        "province": "西カリマンタン州",
+        "provinceId": "Kalimantan Barat",
+        "provinceSlug": "kalimantan-barat",
+        "lng": 109.6972,
+        "lat": 0.5163
+      },
+      {
+        "name": "Kabupaten Malinau",
+        "shortName": "Malinau",
+        "province": "北カリマンタン州",
+        "provinceId": "Kalimantan Utara",
+        "provinceSlug": "kalimantan-utara",
+        "lng": 115.6979,
+        "lat": 2.5945
+      },
+      {
+        "name": "Kabupaten Murung Raya",
+        "shortName": "Murung Raya",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 114.2036,
+        "lat": -0.0634
+      },
+      {
+        "name": "Kabupaten Natuna",
+        "shortName": "Natuna",
+        "province": "西カリマンタン州",
+        "provinceId": "Kalimantan Barat",
+        "provinceSlug": "kalimantan-barat",
+        "lng": 108.1854,
+        "lat": 3.9308
+      },
+      {
+        "name": "Kabupaten Nunukan",
+        "shortName": "Nunukan",
+        "province": "北カリマンタン州",
+        "provinceId": "Kalimantan Utara",
+        "provinceSlug": "kalimantan-utara",
+        "lng": 116.6818,
+        "lat": 3.8743
+      },
+      {
+        "name": "Kabupaten Paser",
+        "shortName": "Paser",
+        "province": "東カリマンタン州",
+        "provinceId": "Kalimantan Timur",
+        "provinceSlug": "kalimantan-timur",
+        "lng": 116.0667,
+        "lat": -1.7267
+      },
+      {
+        "name": "Kabupaten Penajam Paser Utara",
+        "shortName": "Penajam Paser Utara",
+        "province": "東カリマンタン州",
+        "provinceId": "Kalimantan Timur",
+        "provinceSlug": "kalimantan-timur",
+        "lng": 116.6118,
+        "lat": -1.2212
+      },
+      {
+        "name": "Kabupaten Pulang Pisau",
+        "shortName": "Pulang Pisau",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 113.9811,
+        "lat": -2.7732
+      },
+      {
+        "name": "Kabupaten Sambas",
+        "shortName": "Sambas",
+        "province": "西カリマンタン州",
+        "provinceId": "Kalimantan Barat",
+        "provinceSlug": "kalimantan-barat",
+        "lng": 109.3268,
+        "lat": 1.5158
+      },
+      {
+        "name": "Kabupaten Sanggau",
+        "shortName": "Sanggau",
+        "province": "西カリマンタン州",
+        "provinceId": "Kalimantan Barat",
+        "provinceSlug": "kalimantan-barat",
+        "lng": 110.5767,
+        "lat": 0.2854
+      },
+      {
+        "name": "Kabupaten Seruyan",
+        "shortName": "Seruyan",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 112.1658,
+        "lat": -2.1588
+      },
+      {
+        "name": "Kabupaten Sintang",
+        "shortName": "Sintang",
+        "province": "西カリマンタン州",
+        "provinceId": "Kalimantan Barat",
+        "provinceSlug": "kalimantan-barat",
+        "lng": 112.1067,
+        "lat": -0.1197
+      },
+      {
+        "name": "Kabupaten Sukamara",
+        "shortName": "Sukamara",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 111.0835,
+        "lat": -2.53
+      },
+      {
+        "name": "Kabupaten Tabalong",
+        "shortName": "Tabalong",
+        "province": "南カリマンタン州",
+        "provinceId": "Kalimantan Selatan",
+        "provinceSlug": "kalimantan-selatan",
+        "lng": 115.4478,
+        "lat": -1.8303
+      },
+      {
+        "name": "Kabupaten Tanah Laut",
+        "shortName": "Tanah Laut",
+        "province": "南カリマンタン州",
+        "provinceId": "Kalimantan Selatan",
+        "provinceSlug": "kalimantan-selatan",
+        "lng": 114.9468,
+        "lat": -3.8429
+      },
+      {
+        "name": "Kabupaten Tapin",
+        "shortName": "Tapin",
+        "province": "南カリマンタン州",
+        "provinceId": "Kalimantan Selatan",
+        "provinceSlug": "kalimantan-selatan",
+        "lng": 115.1635,
+        "lat": -2.8505
+      },
+      {
+        "name": "Kota Balikpapan",
+        "shortName": "Balikpapan",
+        "province": "東カリマンタン州",
+        "provinceId": "Kalimantan Timur",
+        "provinceSlug": "kalimantan-timur",
+        "lng": 116.8852,
+        "lat": -1.1611
+      },
+      {
+        "name": "Kota Banjar",
+        "shortName": "Banjar",
+        "province": "南カリマンタン州",
+        "provinceId": "Kalimantan Selatan",
+        "provinceSlug": "kalimantan-selatan",
+        "lng": 115.0553,
+        "lat": -3.2803
+      },
+      {
+        "name": "Kota Banjar Baru",
+        "shortName": "Banjar Baru",
+        "province": "南カリマンタン州",
+        "provinceId": "Kalimantan Selatan",
+        "provinceSlug": "kalimantan-selatan",
+        "lng": 114.7859,
+        "lat": -3.4613
+      },
+      {
+        "name": "Kota Banjarmasin",
+        "shortName": "Banjarmasin",
+        "province": "南カリマンタン州",
+        "provinceId": "Kalimantan Selatan",
+        "provinceSlug": "kalimantan-selatan",
+        "lng": 114.5732,
+        "lat": -3.3291
+      },
+      {
+        "name": "Kota Bontang",
+        "shortName": "Bontang",
+        "province": "東カリマンタン州",
+        "provinceId": "Kalimantan Timur",
+        "provinceSlug": "kalimantan-timur",
+        "lng": 117.3452,
+        "lat": 0.2098
+      },
+      {
+        "name": "Kota Palangka Raya",
+        "shortName": "Palangka Raya",
+        "province": "中部カリマンタン州",
+        "provinceId": "Kalimantan Tengah",
+        "provinceSlug": "kalimantan-tengah",
+        "lng": 113.8087,
+        "lat": -1.7798
+      },
+      {
+        "name": "Kota Pontianak",
+        "shortName": "Pontianak",
+        "province": "西カリマンタン州",
+        "provinceId": "Kalimantan Barat",
+        "provinceSlug": "kalimantan-barat",
+        "lng": 109.4403,
+        "lat": -0.0876
+      },
+      {
+        "name": "Kota Samarinda",
+        "shortName": "Samarinda",
+        "province": "東カリマンタン州",
+        "provinceId": "Kalimantan Timur",
+        "provinceSlug": "kalimantan-timur",
+        "lng": 117.1743,
+        "lat": -0.4302
+      },
+      {
+        "name": "Kota Singkawang",
+        "shortName": "Singkawang",
+        "province": "西カリマンタン州",
+        "provinceId": "Kalimantan Barat",
+        "provinceSlug": "kalimantan-barat",
+        "lng": 109.0224,
+        "lat": 0.8788
+      },
+      {
+        "name": "Kota Tarakan",
+        "shortName": "Tarakan",
+        "province": "北カリマンタン州",
+        "provinceId": "Kalimantan Utara",
+        "provinceSlug": "kalimantan-utara",
+        "lng": 117.5919,
+        "lat": 3.3412
+      }
+    ]
+  },
+  {
+    "slug": "sulawesi",
+    "nameId": "Sulawesi",
+    "nameJa": "スラウェシ島",
+    "bbox": [
+      118.7567,
+      -7.4953,
+      127.1473,
+      5.5649
+    ],
+    "provinces": [
+      {
+        "slug": "sulawesi-utara",
+        "nameJa": "北スラウェシ州",
+        "nameId": "Sulawesi Utara"
+      },
+      {
+        "slug": "gorontalo",
+        "nameJa": "ゴロンタロ州",
+        "nameId": "Gorontalo"
+      },
+      {
+        "slug": "sulawesi-tengah",
+        "nameJa": "中部スラウェシ州",
+        "nameId": "Sulawesi Tengah"
+      },
+      {
+        "slug": "sulawesi-barat",
+        "nameJa": "西スラウェシ州",
+        "nameId": "Sulawesi Barat"
+      },
+      {
+        "slug": "sulawesi-selatan",
+        "nameJa": "南スラウェシ州",
+        "nameId": "Sulawesi Selatan"
+      },
+      {
+        "slug": "sulawesi-tenggara",
+        "nameJa": "東南スラウェシ州",
+        "nameId": "Sulawesi Tenggara"
+      }
+    ],
+    "kabs": [
+      {
+        "name": "Kabupaten Banggai",
+        "shortName": "Banggai",
+        "province": "中部スラウェシ州",
+        "provinceId": "Sulawesi Tengah",
+        "provinceSlug": "sulawesi-tengah",
+        "lng": 122.6164,
+        "lat": -1.0988
+      },
+      {
+        "name": "Kabupaten Banggai Kepulauan",
+        "shortName": "Banggai Kepulauan",
+        "province": "中部スラウェシ州",
+        "provinceId": "Sulawesi Tengah",
+        "provinceSlug": "sulawesi-tengah",
+        "lng": 123.1724,
+        "lat": -1.3986
+      },
+      {
+        "name": "Kabupaten Bantaeng",
+        "shortName": "Bantaeng",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.9964,
+        "lat": -5.4736
+      },
+      {
+        "name": "Kabupaten Barru",
+        "shortName": "Barru",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.6997,
+        "lat": -4.4311
+      },
+      {
+        "name": "Kabupaten Boalemo",
+        "shortName": "Boalemo",
+        "province": "ゴロンタロ州",
+        "provinceId": "Gorontalo",
+        "provinceSlug": "gorontalo",
+        "lng": 121.8933,
+        "lat": 0.6939
+      },
+      {
+        "name": "Kabupaten Bolaang Mongondow",
+        "shortName": "Bolaang Mongondow",
+        "province": "北スラウェシ州",
+        "provinceId": "Sulawesi Utara",
+        "provinceSlug": "sulawesi-utara",
+        "lng": 123.9089,
+        "lat": 0.6509
+      },
+      {
+        "name": "Kabupaten Bone",
+        "shortName": "Bone",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 120.1001,
+        "lat": -4.6813
+      },
+      {
+        "name": "Kabupaten Bulukumba",
+        "shortName": "Bulukumba",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 120.2039,
+        "lat": -5.4536
+      },
+      {
+        "name": "Kabupaten Buol",
+        "shortName": "Buol",
+        "province": "中部スラウェシ州",
+        "provinceId": "Sulawesi Tengah",
+        "provinceSlug": "sulawesi-tengah",
+        "lng": 121.5507,
+        "lat": 0.9965
+      },
+      {
+        "name": "Kabupaten Buton",
+        "shortName": "Buton",
+        "province": "東南スラウェシ州",
+        "provinceId": "Sulawesi Tenggara",
+        "provinceSlug": "sulawesi-tenggara",
+        "lng": 122.8988,
+        "lat": -5.3879
+      },
+      {
+        "name": "Kabupaten Donggala",
+        "shortName": "Donggala",
+        "province": "中部スラウェシ州",
+        "provinceId": "Sulawesi Tengah",
+        "provinceSlug": "sulawesi-tengah",
+        "lng": 119.8137,
+        "lat": -1.348
+      },
+      {
+        "name": "Kabupaten Enrekang",
+        "shortName": "Enrekang",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.8896,
+        "lat": -3.5376
+      },
+      {
+        "name": "Kabupaten Gorontalo",
+        "shortName": "Gorontalo",
+        "province": "ゴロンタロ州",
+        "provinceId": "Gorontalo",
+        "provinceSlug": "gorontalo",
+        "lng": 122.7527,
+        "lat": 0.6734
+      },
+      {
+        "name": "Kabupaten Gowa",
+        "shortName": "Gowa",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.6949,
+        "lat": -5.3485
+      },
+      {
+        "name": "Kabupaten Jeneponto",
+        "shortName": "Jeneponto",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.7095,
+        "lat": -5.5679
+      },
+      {
+        "name": "Kabupaten Kepulauan Sangihe Talaud",
+        "shortName": "Kepulauan Sangihe Talaud",
+        "province": "北スラウェシ州",
+        "provinceId": "Sulawesi Utara",
+        "provinceSlug": "sulawesi-utara",
+        "lng": 126.7888,
+        "lat": 4.2696
+      },
+      {
+        "name": "Kabupaten Kolaka",
+        "shortName": "Kolaka",
+        "province": "東南スラウェシ州",
+        "provinceId": "Sulawesi Tenggara",
+        "provinceSlug": "sulawesi-tenggara",
+        "lng": 121.4331,
+        "lat": -3.6811
+      },
+      {
+        "name": "Kabupaten Luwu",
+        "shortName": "Luwu",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 120.2074,
+        "lat": -3.3449
+      },
+      {
+        "name": "Kabupaten Luwu Utara",
+        "shortName": "Luwu Utara",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 120.6988,
+        "lat": -2.4776
+      },
+      {
+        "name": "Kabupaten Majene",
+        "shortName": "Majene",
+        "province": "西スラウェシ州",
+        "provinceId": "Sulawesi Barat",
+        "provinceSlug": "sulawesi-barat",
+        "lng": 118.9387,
+        "lat": -3.2153
+      },
+      {
+        "name": "Kabupaten Mamasa",
+        "shortName": "Mamasa",
+        "province": "西スラウェシ州",
+        "provinceId": "Sulawesi Barat",
+        "provinceSlug": "sulawesi-barat",
+        "lng": 119.3429,
+        "lat": -2.995
+      },
+      {
+        "name": "Kabupaten Mamuju",
+        "shortName": "Mamuju",
+        "province": "西スラウェシ州",
+        "provinceId": "Sulawesi Barat",
+        "provinceSlug": "sulawesi-barat",
+        "lng": 119.3329,
+        "lat": -1.8936
+      },
+      {
+        "name": "Kabupaten Maros",
+        "shortName": "Maros",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.7216,
+        "lat": -4.966
+      },
+      {
+        "name": "Kabupaten Minahasa",
+        "shortName": "Minahasa",
+        "province": "北スラウェシ州",
+        "provinceId": "Sulawesi Utara",
+        "provinceSlug": "sulawesi-utara",
+        "lng": 124.7371,
+        "lat": 1.2583
+      },
+      {
+        "name": "Kabupaten Morowali",
+        "shortName": "Morowali",
+        "province": "中部スラウェシ州",
+        "provinceId": "Sulawesi Tengah",
+        "provinceSlug": "sulawesi-tengah",
+        "lng": 121.6467,
+        "lat": -2.2794
+      },
+      {
+        "name": "Kabupaten Muna",
+        "shortName": "Muna",
+        "province": "東南スラウェシ州",
+        "provinceId": "Sulawesi Tenggara",
+        "provinceSlug": "sulawesi-tenggara",
+        "lng": 122.9755,
+        "lat": -4.7401
+      },
+      {
+        "name": "Kabupaten Pangkajene Kepulauan",
+        "shortName": "Pangkajene Kepulauan",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.6436,
+        "lat": -4.7511
+      },
+      {
+        "name": "Kabupaten Parigi Moutong",
+        "shortName": "Parigi Moutong",
+        "province": "中部スラウェシ州",
+        "provinceId": "Sulawesi Tengah",
+        "provinceSlug": "sulawesi-tengah",
+        "lng": 120.6279,
+        "lat": -0.2376
+      },
+      {
+        "name": "Kabupaten Pinrang",
+        "shortName": "Pinrang",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.611,
+        "lat": -3.6467
+      },
+      {
+        "name": "Kabupaten Polewali Mamasa",
+        "shortName": "Polewali Mamasa",
+        "province": "西スラウェシ州",
+        "provinceId": "Sulawesi Barat",
+        "provinceSlug": "sulawesi-barat",
+        "lng": 119.1969,
+        "lat": -3.3065
+      },
+      {
+        "name": "Kabupaten Poso",
+        "shortName": "Poso",
+        "province": "中部スラウェシ州",
+        "provinceId": "Sulawesi Tengah",
+        "provinceSlug": "sulawesi-tengah",
+        "lng": 120.9756,
+        "lat": -1.5159
+      },
+      {
+        "name": "Kabupaten Selayar",
+        "shortName": "Selayar",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 120.5009,
+        "lat": -6.1306
+      },
+      {
+        "name": "Kabupaten Sidenreng Rappang",
+        "shortName": "Sidenreng Rappang",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.9955,
+        "lat": -3.8099
+      },
+      {
+        "name": "Kabupaten Sinjai",
+        "shortName": "Sinjai",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 120.1448,
+        "lat": -5.1975
+      },
+      {
+        "name": "Kabupaten Soppeng",
+        "shortName": "Soppeng",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.9035,
+        "lat": -4.3195
+      },
+      {
+        "name": "Kabupaten Takalar",
+        "shortName": "Takalar",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.5003,
+        "lat": -5.4119
+      },
+      {
+        "name": "Kabupaten Tana Toraja",
+        "shortName": "Tana Toraja",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.731,
+        "lat": -2.9922
+      },
+      {
+        "name": "Kabupaten Toli-Toli",
+        "shortName": "Toli-Toli",
+        "province": "中部スラウェシ州",
+        "provinceId": "Sulawesi Tengah",
+        "provinceSlug": "sulawesi-tengah",
+        "lng": 120.6692,
+        "lat": 0.9686
+      },
+      {
+        "name": "Kabupaten Wajo",
+        "shortName": "Wajo",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 120.1613,
+        "lat": -3.9777
+      },
+      {
+        "name": "Kota Baubau",
+        "shortName": "Baubau",
+        "province": "東南スラウェシ州",
+        "provinceId": "Sulawesi Tenggara",
+        "provinceSlug": "sulawesi-tenggara",
+        "lng": 122.6818,
+        "lat": -5.4319
+      },
+      {
+        "name": "Kota Bitung",
+        "shortName": "Bitung",
+        "province": "北スラウェシ州",
+        "provinceId": "Sulawesi Utara",
+        "provinceSlug": "sulawesi-utara",
+        "lng": 125.1307,
+        "lat": 1.4784
+      },
+      {
+        "name": "Kota Kendari",
+        "shortName": "Kendari",
+        "province": "東南スラウェシ州",
+        "provinceId": "Sulawesi Tenggara",
+        "provinceSlug": "sulawesi-tenggara",
+        "lng": 122.1299,
+        "lat": -3.6137
+      },
+      {
+        "name": "Kota Makassar",
+        "shortName": "Makassar",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.4555,
+        "lat": -5.1515
+      },
+      {
+        "name": "Kota Manado",
+        "shortName": "Manado",
+        "province": "北スラウェシ州",
+        "provinceId": "Sulawesi Utara",
+        "provinceSlug": "sulawesi-utara",
+        "lng": 124.853,
+        "lat": 1.4967
+      },
+      {
+        "name": "Kota Palopo",
+        "shortName": "Palopo",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 120.132,
+        "lat": -2.9875
+      },
+      {
+        "name": "Kota Palu",
+        "shortName": "Palu",
+        "province": "中部スラウェシ州",
+        "provinceId": "Sulawesi Tengah",
+        "provinceSlug": "sulawesi-tengah",
+        "lng": 119.9011,
+        "lat": -0.821
+      },
+      {
+        "name": "Kota Pare-Pare",
+        "shortName": "Pare-Pare",
+        "province": "南スラウェシ州",
+        "provinceId": "Sulawesi Selatan",
+        "provinceSlug": "sulawesi-selatan",
+        "lng": 119.6648,
+        "lat": -4.0213
+      }
+    ]
+  },
+  {
+    "slug": "maluku",
+    "nameId": "Maluku",
+    "nameJa": "マルク諸島",
+    "bbox": [
+      124.2831,
+      -8.3456,
+      134.9083,
+      2.6456
+    ],
+    "provinces": [
+      {
+        "slug": "maluku",
+        "nameJa": "マルク州",
+        "nameId": "Maluku"
+      },
+      {
+        "slug": "maluku-utara",
+        "nameJa": "北マルク州",
+        "nameId": "Maluku Utara"
+      }
+    ],
+    "kabs": [
+      {
+        "name": "Kabupaten Buru",
+        "shortName": "Buru",
+        "province": "マルク州",
+        "provinceId": "Maluku",
+        "provinceSlug": "maluku",
+        "lng": 126.632,
+        "lat": -3.459
+      },
+      {
+        "name": "Kabupaten Halmahera Tengah",
+        "shortName": "Halmahera Tengah",
+        "province": "北マルク州",
+        "provinceId": "Maluku Utara",
+        "provinceSlug": "maluku-utara",
+        "lng": 128.2113,
+        "lat": 0.795
+      },
+      {
+        "name": "Kabupaten Halmahera Utara",
+        "shortName": "Halmahera Utara",
+        "province": "北マルク州",
+        "provinceId": "Maluku Utara",
+        "provinceSlug": "maluku-utara",
+        "lng": 127.7335,
+        "lat": 1.5148
+      },
+      {
+        "name": "Kabupaten Maluku Tengah",
+        "shortName": "Maluku Tengah",
+        "province": "マルク州",
+        "provinceId": "Maluku",
+        "provinceSlug": "maluku",
+        "lng": 129.3596,
+        "lat": -3.3242
+      },
+      {
+        "name": "Kabupaten Maluku Tenggara",
+        "shortName": "Maluku Tenggara",
+        "province": "マルク州",
+        "provinceId": "Maluku",
+        "provinceSlug": "maluku",
+        "lng": 134.291,
+        "lat": -6.5507
+      },
+      {
+        "name": "Kabupaten Maluku Tenggara Barat",
+        "shortName": "Maluku Tenggara Barat",
+        "province": "マルク州",
+        "provinceId": "Maluku",
+        "provinceSlug": "maluku",
+        "lng": 131.4125,
+        "lat": -7.5735
+      },
+      {
+        "name": "Kota Ambon",
+        "shortName": "Ambon",
+        "province": "マルク州",
+        "provinceId": "Maluku",
+        "provinceSlug": "maluku",
+        "lng": 128.137,
+        "lat": -3.6421
+      },
+      {
+        "name": "Kota Ternate",
+        "shortName": "Ternate",
+        "province": "北マルク州",
+        "provinceId": "Maluku Utara",
+        "provinceSlug": "maluku-utara",
+        "lng": 127.3416,
+        "lat": 0.8109
+      }
+    ]
+  },
+  {
+    "slug": "papua",
+    "nameId": "Papua (Western New Guinea)",
+    "nameJa": "パプア（ニューギニア島西部）",
+    "bbox": [
+      128.9103,
+      -9.1183,
+      141.0118,
+      1.0814
+    ],
+    "provinces": [
+      {
+        "slug": "papua-barat",
+        "nameJa": "西パプア州",
+        "nameId": "Papua Barat"
+      },
+      {
+        "slug": "papua-barat-daya",
+        "nameJa": "南西パプア州",
+        "nameId": "Papua Barat Daya"
+      },
+      {
+        "slug": "papua",
+        "nameJa": "パプア州",
+        "nameId": "Papua"
+      },
+      {
+        "slug": "papua-selatan",
+        "nameJa": "南パプア州",
+        "nameId": "Papua Selatan"
+      },
+      {
+        "slug": "papua-tengah",
+        "nameJa": "中部パプア州",
+        "nameId": "Papua Tengah"
+      },
+      {
+        "slug": "papua-pegunungan",
+        "nameJa": "パプア山岳州",
+        "nameId": "Papua Pegunungan"
+      }
+    ],
+    "kabs": [
+      {
+        "name": "Kabupaten Asmat",
+        "shortName": "Asmat",
+        "province": "南パプア州",
+        "provinceId": "Papua Selatan",
+        "provinceSlug": "papua-selatan",
+        "lng": 138.7601,
+        "lat": -5.4395
+      },
+      {
+        "name": "Kabupaten Biak Numfor",
+        "shortName": "Biak Numfor",
+        "province": "パプア州",
+        "provinceId": "Papua",
+        "provinceSlug": "papua",
+        "lng": 135.8741,
+        "lat": -0.9103
+      },
+      {
+        "name": "Kabupaten Boven Digoel",
+        "shortName": "Boven Digoel",
+        "province": "南パプア州",
+        "provinceId": "Papua Selatan",
+        "provinceSlug": "papua-selatan",
+        "lng": 140.3829,
+        "lat": -6.1358
+      },
+      {
+        "name": "Kabupaten Fakfak",
+        "shortName": "Fakfak",
+        "province": "西パプア州",
+        "provinceId": "Papua Barat",
+        "provinceSlug": "papua-barat",
+        "lng": 132.8107,
+        "lat": -3.2035
+      },
+      {
+        "name": "Kabupaten Jayawijaya",
+        "shortName": "Jayawijaya",
+        "province": "パプア山岳州",
+        "provinceId": "Papua Pegunungan",
+        "provinceSlug": "papua-pegunungan",
+        "lng": 138.8323,
+        "lat": -4.0487
+      },
+      {
+        "name": "Kabupaten Kaimana",
+        "shortName": "Kaimana",
+        "province": "西パプア州",
+        "provinceId": "Papua Barat",
+        "provinceSlug": "papua-barat",
+        "lng": 134.4394,
+        "lat": -3.546
+      },
+      {
+        "name": "Kabupaten Keerom",
+        "shortName": "Keerom",
+        "province": "パプア州",
+        "provinceId": "Papua",
+        "provinceSlug": "papua",
+        "lng": 140.5457,
+        "lat": -3.2441
+      },
+      {
+        "name": "Kabupaten Kepulauan Yapen",
+        "shortName": "Kepulauan Yapen",
+        "province": "パプア州",
+        "provinceId": "Papua",
+        "provinceSlug": "papua",
+        "lng": 136.157,
+        "lat": -1.7531
+      },
+      {
+        "name": "Kabupaten Manokwari",
+        "shortName": "Manokwari",
+        "province": "西パプア州",
+        "provinceId": "Papua Barat",
+        "provinceSlug": "papua-barat",
+        "lng": 133.3844,
+        "lat": -1.2191
+      },
+      {
+        "name": "Kabupaten Mappi",
+        "shortName": "Mappi",
+        "province": "南パプア州",
+        "provinceId": "Papua Selatan",
+        "provinceSlug": "papua-selatan",
+        "lng": 139.4029,
+        "lat": -6.3244
+      },
+      {
+        "name": "Kabupaten Merauke",
+        "shortName": "Merauke",
+        "province": "南パプア州",
+        "provinceId": "Papua Selatan",
+        "provinceSlug": "papua-selatan",
+        "lng": 139.8398,
+        "lat": -7.9772
+      },
+      {
+        "name": "Kabupaten Mimika",
+        "shortName": "Mimika",
+        "province": "中部パプア州",
+        "provinceId": "Papua Tengah",
+        "provinceSlug": "papua-tengah",
+        "lng": 136.3457,
+        "lat": -4.4511
+      },
+      {
+        "name": "Kabupaten Nabire",
+        "shortName": "Nabire",
+        "province": "中部パプア州",
+        "provinceId": "Papua Tengah",
+        "provinceSlug": "papua-tengah",
+        "lng": 135.2994,
+        "lat": -3.4732
+      },
+      {
+        "name": "Kabupaten Paniai",
+        "shortName": "Paniai",
+        "province": "中部パプア州",
+        "provinceId": "Papua Tengah",
+        "provinceSlug": "papua-tengah",
+        "lng": 136.5986,
+        "lat": -3.5985
+      },
+      {
+        "name": "Kabupaten Pegunungan Bintang",
+        "shortName": "Pegunungan Bintang",
+        "province": "パプア山岳州",
+        "provinceId": "Papua Pegunungan",
+        "provinceSlug": "papua-pegunungan",
+        "lng": 140.5294,
+        "lat": -4.5479
+      },
+      {
+        "name": "Kabupaten Puncak Jaya",
+        "shortName": "Puncak Jaya",
+        "province": "中部パプア州",
+        "provinceId": "Papua Tengah",
+        "provinceSlug": "papua-tengah",
+        "lng": 137.6791,
+        "lat": -3.5624
+      },
+      {
+        "name": "Kabupaten Raja Ampat",
+        "shortName": "Raja Ampat",
+        "province": "南西パプア州",
+        "provinceId": "Papua Barat Daya",
+        "provinceSlug": "papua-barat-daya",
+        "lng": 130.7794,
+        "lat": -0.2241
+      },
+      {
+        "name": "Kabupaten Sarmi",
+        "shortName": "Sarmi",
+        "province": "パプア州",
+        "provinceId": "Papua",
+        "provinceSlug": "papua",
+        "lng": 138.9656,
+        "lat": -2.4895
+      },
+      {
+        "name": "Kabupaten Teluk Bintuni",
+        "shortName": "Teluk Bintuni",
+        "province": "西パプア州",
+        "provinceId": "Papua Barat",
+        "provinceSlug": "papua-barat",
+        "lng": 133.3192,
+        "lat": -2.097
+      },
+      {
+        "name": "Kabupaten Teluk Wondama",
+        "shortName": "Teluk Wondama",
+        "province": "西パプア州",
+        "provinceId": "Papua Barat",
+        "provinceSlug": "papua-barat",
+        "lng": 134.3414,
+        "lat": -2.5866
+      },
+      {
+        "name": "Kabupaten Tolikara",
+        "shortName": "Tolikara",
+        "province": "パプア山岳州",
+        "provinceId": "Papua Pegunungan",
+        "provinceSlug": "papua-pegunungan",
+        "lng": 138.6333,
+        "lat": -3.3123
+      },
+      {
+        "name": "Kabupaten Waropen",
+        "shortName": "Waropen",
+        "province": "パプア州",
+        "provinceId": "Papua",
+        "provinceSlug": "papua",
+        "lng": 137.2228,
+        "lat": -2.3192
+      },
+      {
+        "name": "Kabupaten Yahukimo",
+        "shortName": "Yahukimo",
+        "province": "パプア山岳州",
+        "provinceId": "Papua Pegunungan",
+        "provinceSlug": "papua-pegunungan",
+        "lng": 139.4666,
+        "lat": -4.4468
+      },
+      {
+        "name": "Kota Jayapura",
+        "shortName": "Jayapura",
+        "province": "パプア州",
+        "provinceId": "Papua",
+        "provinceSlug": "papua",
+        "lng": 140.2162,
+        "lat": -3.048
+      },
+      {
+        "name": "Kota Sorong",
+        "shortName": "Sorong",
+        "province": "南西パプア州",
+        "provinceId": "Papua Barat Daya",
+        "provinceSlug": "papua-barat-daya",
+        "lng": 131.8653,
+        "lat": -1.3135
+      }
+    ]
+  }
+]

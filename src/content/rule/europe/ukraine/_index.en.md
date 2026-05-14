@@ -28,6 +28,11 @@ mapPins:
 features:
   - text: 'Site of the <span class="quiz">Chernobyl</span> nuclear power plant disaster, and Saint Sophia''s Cathedral in the capital <span class="quiz">Kyiv</span> is registered as a World Heritage Site'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%A6"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/ukraine/", "State quiz"],
+    ["/en/quiz/cities/europe/ukraine/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

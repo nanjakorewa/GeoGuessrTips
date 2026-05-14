@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%82%B7%E3%83%A5"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/bangladesh/", "State quiz"],
+    ["/en/quiz/cities/asia/bangladesh/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

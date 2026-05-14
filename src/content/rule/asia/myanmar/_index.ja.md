@@ -55,6 +55,11 @@ municipalities:
     - { code: "MM-02", name: "Bago", type: "state" }
     - { code: "MM-03", name: "Magway", type: "state" }
     - { code: "MM-04", name: "Mandalay", type: "state" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/myanmar/", "州当てクイズ"],
+    ["/quiz/cities/asia/myanmar/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

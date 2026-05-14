@@ -470,6 +470,11 @@ municipalities:
       type: "autonomous_community"
       nameI18n:
         en: "Adygea"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/russia/", "州当てクイズ"],
+    ["/quiz/cities/asia/russia/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

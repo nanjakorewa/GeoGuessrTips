@@ -18,6 +18,11 @@ sc: [
     ["../rwanda/", "Rwanda"],
     ["../../cs_america/curacao/", "Curaﾃｧao"],
     ]
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/africa/kenya/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/africa/kenya/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -28,6 +28,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%83%E3%82%AB"
   - text: 'Es el mayor exportador mundial de <span class="quiz">petróleo crudo</span>; la estatal Saudi Aramco es una de las mayores empresas del mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%A0%E3%82%B3"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/middle_east/saudiarabia/", "Quiz de estados"],
+    ["/es/quiz/cities/middle_east/saudiarabia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

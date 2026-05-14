@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AA%E3%83%AA"
   - text: 'There are more <span class="quiz">sheep</span> than people, and it is one of the world''s leading dairy exporters'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/oceania/new-zealand/", "State quiz"],
+    ["/en/quiz/cities/oceania/new-zealand/", "City quiz"],
+    ]
 ---
 
 <div class="main-description country-description">

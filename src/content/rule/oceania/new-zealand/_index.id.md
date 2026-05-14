@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AA%E3%83%AA"
   - text: 'Jumlah <span class="quiz">domba</span> melebihi jumlah penduduk; salah satu pengekspor produk susu terbesar di dunia'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/oceania/new-zealand/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/oceania/new-zealand/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

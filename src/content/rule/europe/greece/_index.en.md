@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BB%A3%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2"
   - text: 'Has about <span class="quiz">6,000</span> islands, and is famous for the Aegean islands like <span class="quiz">Santorini</span> and Mykonos with their iconic white-walled, blue-roofed scenery'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%8B%E5%B3%B6"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/greece/", "State quiz"],
+    ["/en/quiz/cities/europe/greece/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

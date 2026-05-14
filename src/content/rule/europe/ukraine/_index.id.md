@@ -28,6 +28,11 @@ mapPins:
 features:
   - text: 'Memiliki bekas lokasi kecelakaan PLTN <span class="quiz">Chernobyl</span>, dan Katedral Santa Sofia di ibu kota <span class="quiz">Kyiv</span> terdaftar sebagai warisan dunia UNESCO'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%A6"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/ukraine/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/ukraine/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

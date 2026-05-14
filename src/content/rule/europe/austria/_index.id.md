@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B3"
   - text: 'Sekitar 62% wilayahnya tertutup <span class="quiz">Pegunungan Alpen</span>, dan sebagai pusat <span class="quiz">Wangsa Habsburg</span> berkuasa di Eropa selama sekitar 640 tahun'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%97%E3%82%B9%E3%83%96%E3%83%AB%E3%82%AF%E5%AE%B6"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/austria/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/austria/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

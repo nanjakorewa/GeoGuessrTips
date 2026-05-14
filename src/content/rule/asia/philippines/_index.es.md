@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3#%E5%AE%97%E6%95%99"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/asia/philippines/", "Quiz de estados"],
+    ["/es/quiz/cities/asia/philippines/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

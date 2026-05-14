@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89"
   - text: 'O <span class="quiz">Althing</span>, considerado o <span class="quiz">parlamento</span> mais antigo do mundo, foi fundado em 930, e a energia geotérmica supre a maior parte da eletricidade do país'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3%E3%82%B0"
+related_quizzes_title: "Quizzes relacionados"
+related_quizzes: [
+    ["/pt/quiz/states/europe/iceland/", "Quiz de estados"],
+    ["/pt/quiz/cities/europe/iceland/", "Quiz de cidades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

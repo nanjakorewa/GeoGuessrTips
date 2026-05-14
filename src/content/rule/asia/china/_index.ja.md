@@ -197,6 +197,11 @@ municipalities:
       type: "province"
       nameI18n:
         en: "Anhui"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/china/", "州当てクイズ"],
+    ["/quiz/cities/asia/china/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

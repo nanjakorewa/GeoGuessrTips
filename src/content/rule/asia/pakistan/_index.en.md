@@ -16,6 +16,11 @@ sc_title: "Commonly Confused Regions"
 sc: [
     ["../india/", "India"],
     ]
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/pakistan/", "State quiz"],
+    ["/en/quiz/cities/asia/pakistan/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

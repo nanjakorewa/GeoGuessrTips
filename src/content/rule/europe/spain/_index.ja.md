@@ -136,6 +136,11 @@ municipalities:
       type: "autonomous_community"
       nameI18n:
         en: "País Vasco"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/spain/", "州当てクイズ"],
+    ["/quiz/cities/europe/spain/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

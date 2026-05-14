@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B3"
   - text: 'About 62% of the country is covered by the <span class="quiz">Alps</span>, and as the home of the <span class="quiz">House of Habsburg</span> it dominated Europe for around 640 years'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%97%E3%82%B9%E3%83%96%E3%83%AB%E3%82%AF%E5%AE%B6"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/austria/", "State quiz"],
+    ["/en/quiz/cities/europe/austria/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

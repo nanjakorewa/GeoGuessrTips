@@ -30,6 +30,11 @@ mapPins:
 features:
   - text: 'The <span class="quiz">Dalmatia</span> region along the Adriatic coast is a world-class tourist destination, and the old town of <span class="quiz">Dubrovnik</span>, called the "Pearl of the Adriatic", is a World Heritage Site'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A5%E3%83%96%E3%83%AD%E3%83%B4%E3%83%8B%E3%82%AF"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/croatia/", "State quiz"],
+    ["/en/quiz/cities/europe/croatia/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

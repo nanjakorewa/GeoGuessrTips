@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
   - text: 'Nama negara ini berasal dari Christopher <span class="quiz">Columbus</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2#%E5%9B%BD%E5%90%8D"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/cs_america/colombia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/cs_america/colombia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

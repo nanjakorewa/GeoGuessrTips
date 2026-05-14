@@ -118,6 +118,11 @@ municipalities:
       type: "province"
       nameI18n:
         en: "Holy Cross"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/poland/", "州当てクイズ"],
+    ["/quiz/cities/europe/poland/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

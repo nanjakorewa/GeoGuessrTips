@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
   - text: 'Su nombre proviene de Cristóbal <span class="quiz">Colón</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2#%E5%9B%BD%E5%90%8D"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/cs_america/colombia/", "Quiz de estados"],
+    ["/es/quiz/cities/cs_america/colombia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

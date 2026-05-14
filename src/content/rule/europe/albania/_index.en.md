@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E3%81%AE%E3%83%88%E3%83%BC%E3%83%81%E3%82%AB"
   - text: 'Roughly 70% of the country is <span class="quiz">mountainous</span>, and the World Heritage historic districts of <span class="quiz">Berat</span> and Gjirokastër are located here'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%88%E3%81%A8%E3%82%B8%E3%83%AD%E3%82%AB%E3%82%B9%E3%83%88%E3%83%A9%E3%81%AE%E6%AD%B4%E5%8F%B2%E5%9C%B0%E5%8C%BA%E7%BE%A4"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/albania/", "State quiz"],
+    ["/en/quiz/cities/europe/albania/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

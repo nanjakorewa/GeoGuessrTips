@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%BE%B2%E6%A5%AD"
   - text: 'Mayor potencia <span class="quiz">turística</span> del mundo, con unos <span class="quiz">90 millones</span> de turistas extranjeros al año; alberga la <span class="quiz">Torre Eiffel</span> y el Museo del Louvre'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%A6%B3%E5%85%89"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/france/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/france/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

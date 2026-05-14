@@ -23,6 +23,11 @@ mapPins:
   - { lat: 29.553, lng: 34.951, label: "Eilat", type: "city", note: "Ciudad turística junto al mar Rojo" }
   - { lat: 31.500, lng: 35.500, label: "Mar Muerto", type: "nature", note: "Lago más bajo del mundo, unos 430 m bajo el nivel del mar" }
   - { lat: 32.708, lng: 35.317, label: "Mar de Galilea", type: "nature", note: "Mayor lago de agua dulce de Israel" }
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/middle_east/israel/", "Quiz de estados"],
+    ["/es/quiz/cities/middle_east/israel/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -36,6 +36,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3"
   - text: 'Salah satu produsen <span class="quiz">perak</span> terbesar di dunia, dengan pertambangan sebagai industri penting'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3#%E9%89%B1%E6%A5%AD"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/n_america/mexico/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/n_america/mexico/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

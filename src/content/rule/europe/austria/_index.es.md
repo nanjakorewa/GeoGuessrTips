@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B3"
   - text: 'Cerca del 62% del territorio está cubierto por los <span class="quiz">Alpes</span>; sede de la <span class="quiz">Casa de Habsburgo</span> que reinó en Europa unos 640 años'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%97%E3%82%B9%E3%83%96%E3%83%AB%E3%82%AF%E5%AE%B6"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/austria/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/austria/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

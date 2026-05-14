@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3"
   - text: 'Es un país con forma de <span class="quiz">península</span> en forma de bota, y la cocina italiana, como la <span class="quiz">pizza</span> y la pasta, es apreciada en todo el mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E6%96%99%E7%90%86"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/italy/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/italy/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

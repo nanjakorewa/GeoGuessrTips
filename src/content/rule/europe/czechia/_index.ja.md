@@ -105,6 +105,11 @@ municipalities:
       note: "首都"
       nameI18n:
         en: "Prague"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/czechia/", "州当てクイズ"],
+    ["/quiz/cities/europe/czechia/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

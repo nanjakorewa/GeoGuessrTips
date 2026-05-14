@@ -439,6 +439,11 @@ municipalities:
       note: "首都"
       nameI18n:
         en: "Manila"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/philippines/", "州当てクイズ"],
+    ["/quiz/cities/asia/philippines/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

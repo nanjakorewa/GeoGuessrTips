@@ -21,6 +21,12 @@ sc: [
     ["../../cs_america/peru/", "ペルー"],
     ["../malaysia/", "マレーシア"],
     ]
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/indonesia/", "州当てクイズ"],
+    ["/quiz/states/asia/indonesia-kabupaten/", "kabupaten 当てクイズ"],
+    ["/quiz/cities/asia/indonesia/", "都市当てクイズ"],
+    ]
 features:
   - text: '約<span class="quiz">1万7000</span>の島々からなる世界最大の<span class="quiz">島嶼国家</span>である'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2"
@@ -351,6 +357,10 @@ CC0
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>Kabupatenの位置を覚える（{{% goto "https://juraganposter.net/product_images/uploaded_images/peta-indonesia-hd-pdf-08.jpg" "マップ" %}}、参考文献先で確認してください）{{% ref "https://juraganposter.net/blog/peta-indonesia-hd-pdf/" "Peta Indonesia HD PDF" %}}
+            <ul>
+                <li>👉 <a href="/quiz/states/asia/indonesia-kabupaten/"><b>kabupaten 当てクイズ</b></a> で各州の kabupaten / kota の位置をピンで覚えられます</li>
+            </ul>
+        </li>
             <ul>
                 <li>Aceh{{% ex "https://maps.app.goo.gl/Bist9SqqxLQhp23w8" %}}</li>
                 <li>Maluku UtaraのTernate市{{% ex "https://maps.app.goo.gl/PXf3fXyAF1JSbGD19" %}}</li>

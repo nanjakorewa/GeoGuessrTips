@@ -55,6 +55,11 @@ municipalities:
     - { code: "LA-XI", name: "Xiangkhoang", type: "province" }
     - { code: "LA-XE", name: "Xékong", type: "province" }
     - { code: "LA-AT", name: "Attapu", type: "province" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/laos/", "州当てクイズ"],
+    ["/quiz/cities/asia/laos/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

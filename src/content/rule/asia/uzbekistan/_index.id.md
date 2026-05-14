@@ -28,6 +28,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%BA%E3%83%99%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/asia/uzbekistan/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/asia/uzbekistan/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

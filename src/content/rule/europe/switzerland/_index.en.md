@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
   - text: 'The headquarters of the International Committee of the <span class="quiz">Red Cross</span> and many international organizations are located in <span class="quiz">Geneva</span>, and the country is also world-famous for its precision watch industry'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%8D%E3%83%BC%E3%83%B4"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/switzerland/", "State quiz"],
+    ["/en/quiz/cities/europe/switzerland/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

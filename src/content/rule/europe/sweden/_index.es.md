@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3"
   - text: 'La ceremonia de los <span class="quiz">Premios Nobel</span> (salvo el de la Paz) se celebra en Estocolmo, y se considera un modelo de estado del bienestar'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/sweden/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/sweden/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

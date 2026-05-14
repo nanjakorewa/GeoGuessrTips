@@ -25,6 +25,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%89%E3%83%90"
   - text: 'Es uno de los principales países productores de <span class="quiz">vino</span> del mundo, y <span class="quiz">Mileștii Mici</span> está inscrita en el Libro Guinness como la mayor bodega del mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AC%E3%82%B7%E3%83%A5%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9F%E3%83%81"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/moldova/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/moldova/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

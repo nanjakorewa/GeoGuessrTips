@@ -20,6 +20,11 @@ sc: [
     ["../../oceania/australia/", "Australia"],
     ["../botswana/", "Botswana"],
     ]
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/africa/south-africa/", "State quiz"],
+    ["/en/quiz/cities/africa/south-africa/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

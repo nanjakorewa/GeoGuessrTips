@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%A5%E3%83%83%E3%82%BB%E3%83%AB"
   - text: 'Divided into Dutch-speaking <span class="quiz">Flanders</span> and French-speaking Wallonia, world-famous for <span class="quiz">chocolate</span> and beer production'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/belgium/", "State quiz"],
+    ["/en/quiz/cities/europe/belgium/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

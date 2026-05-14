@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AD%E3%83%BC%E3%83%89%E9%9B%A2%E5%A9%9A"
   - text: 'En el norte del país se alzan los <span class="quiz">Tatras</span>, y se conservan numerosos castillos medievales como el <span class="quiz">castillo de Spiš</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%88%E3%83%A9%E5%B1%B1%E8%84%88"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/slovakia/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/slovakia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

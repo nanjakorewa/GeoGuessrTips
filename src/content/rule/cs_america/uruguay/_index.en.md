@@ -26,6 +26,11 @@ mapPins:
 features:
   - text: 'One of the smallest countries in South America, almost entirely covered by grasslands known as the <span class="quiz">Pampas</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%82%B0%E3%82%A2%E3%82%A4"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/cs_america/uruguay/", "State quiz"],
+    ["/en/quiz/cities/cs_america/uruguay/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

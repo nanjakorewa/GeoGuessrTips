@@ -69,6 +69,11 @@ municipalities:
     - { code: "LK-23", name: "Nuvara Ĕliya", type: "department" }
     - { code: "LK-44", name: "Vavuniyāva", type: "department" }
     - { code: "LK-21", name: "Mahanuvara", type: "department" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/srilanka/", "州当てクイズ"],
+    ["/quiz/cities/asia/srilanka/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

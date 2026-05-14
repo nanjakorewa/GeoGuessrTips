@@ -57,6 +57,11 @@ municipalities:
     - { code: "FI-11", name: "Pirkanmaa", type: "region" }
     - { code: "FI-06", name: "Tavastia Proper", type: "region" }
     - { code: "FI-16", name: "Päijät-Häme", type: "region" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/finland/", "州当てクイズ"],
+    ["/quiz/cities/europe/finland/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

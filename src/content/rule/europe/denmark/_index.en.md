@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B4"
   - text: 'A leader in <span class="quiz">wind power</span> generation, supplying about half of its electricity from wind, with <span class="quiz">Greenland</span> and the Faroe Islands as autonomous territories'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/denmark/", "State quiz"],
+    ["/en/quiz/cities/europe/denmark/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

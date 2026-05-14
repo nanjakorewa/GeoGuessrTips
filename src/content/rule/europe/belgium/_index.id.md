@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%A5%E3%83%83%E3%82%BB%E3%83%AB"
   - text: 'Terbagi menjadi wilayah berbahasa Belanda <span class="quiz">Flandria</span> dan wilayah berbahasa Prancis Wallonia, terkenal di dunia dengan produksi <span class="quiz">cokelat</span> dan birnya'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/belgium/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/belgium/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

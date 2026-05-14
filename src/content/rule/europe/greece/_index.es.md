@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BB%A3%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2"
   - text: 'Posee unas <span class="quiz">6.000</span> islas, y son famosas las islas del mar Egeo como <span class="quiz">Santorini</span> y Míconos, conocidas por su paisaje de paredes blancas y techos azules'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%8B%E5%B3%B6"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/greece/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/greece/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B1%E3%83%89%E3%83%8B%E3%82%A2%E5%91%BC%E7%A7%B0%E5%95%8F%E9%A1%8C"
   - text: '<span class="quiz">Lake Ohrid</span> is one of the oldest lakes in Europe and, together with the lakeside town, is registered as a UNESCO <span class="quiz">World Heritage Site</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%83%AA%E3%83%89%E6%B9%96"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/macedonia/", "State quiz"],
+    ["/en/quiz/cities/europe/macedonia/", "City quiz"],
+    ]
 ---
 
 

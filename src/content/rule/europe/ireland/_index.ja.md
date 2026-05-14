@@ -211,6 +211,11 @@ municipalities:
       type: "county"
       nameI18n:
         en: "Limerick"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/ireland/", "州当てクイズ"],
+    ["/quiz/cities/europe/ireland/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

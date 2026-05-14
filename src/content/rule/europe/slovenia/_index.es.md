@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B9%E3%83%88%E3%82%A4%E3%83%8A%E9%8D%BE%E4%B9%B3%E6%B4%9E"
   - text: 'Fue el primer país en adherirse a la UE de entre las antiguas repúblicas de Yugoslavia, y la iglesia sobre el <span class="quiz">lago Bled</span> es un paisaje emblemático del país'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E6%B9%96"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/slovenia/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/slovenia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

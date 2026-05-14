@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E5%B8%9D%E5%9B%BD"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/asia/mongolia/", "Quiz de estados"],
+    ["/es/quiz/cities/asia/mongolia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

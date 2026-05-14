@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC"
   - text: 'Pada musim dingin, <span class="quiz">aurora</span> dapat diamati di bagian utara, dan upacara penghargaan <span class="quiz">Hadiah Nobel Perdamaian</span> diadakan di Oslo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E5%B9%B3%E5%92%8C%E8%B3%9E"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/norway/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/norway/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -59,6 +59,11 @@ municipalities:
     - { code: "NO-21", name: "Svalbard", type: "county" }
     - { code: "NO-X01~", name: "Bouvet Island", type: "county" }
     - { code: "NO-05", name: "Oppland", type: "county" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/norway/", "州当てクイズ"],
+    ["/quiz/cities/europe/norway/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

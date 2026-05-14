@@ -26,6 +26,11 @@ sc: [
     ["../aani/", "Andaman Islands"],
     ["../lakshadweep/", "Lakshadweep"],
     ]
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/india/", "State quiz"],
+    ["/en/quiz/cities/asia/india/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

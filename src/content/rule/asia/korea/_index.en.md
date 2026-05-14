@@ -13,6 +13,11 @@ jetro_detail: true
 plonkit: false
 dont_show_usda: true
 import_jquery_36: true
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/korea/", "State quiz"],
+    ["/en/quiz/cities/asia/korea/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

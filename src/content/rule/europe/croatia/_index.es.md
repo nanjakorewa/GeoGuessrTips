@@ -30,6 +30,11 @@ mapPins:
 features:
   - text: 'La región de <span class="quiz">Dalmacia</span>, en la costa adriática, es un destino turístico mundial; el casco antiguo de <span class="quiz">Dubrovnik</span> es Patrimonio Mundial conocido como "la perla del Adriático"'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A5%E3%83%96%E3%83%AD%E3%83%B4%E3%83%8B%E3%82%AF"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/croatia/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/croatia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -52,6 +52,11 @@ municipalities:
     - { code: "SN-TH", name: "Thiès", type: "region" }
     - { code: "SN-DK", name: "Dakar", type: "region" }
     - { code: "SN-DB", name: "Diourbel", type: "region" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/africa/senegal/", "州当てクイズ"],
+    ["/quiz/cities/africa/senegal/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

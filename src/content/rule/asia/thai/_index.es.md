@@ -46,6 +46,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD#%E5%AE%97%E6%95%99"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/asia/thailand/", "Quiz de estados"],
+    ["/es/quiz/cities/asia/thailand/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

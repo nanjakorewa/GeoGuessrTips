@@ -17,6 +17,11 @@ sc: [
     ["../senegal/", "Senegal"],
     ["../saotome/", "Santo Tomé y Príncipe"],
 ]
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/africa/nigeria/", "Quiz de estados"],
+    ["/es/quiz/cities/africa/nigeria/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

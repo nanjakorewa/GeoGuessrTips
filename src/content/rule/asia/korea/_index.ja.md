@@ -51,6 +51,11 @@ municipalities:
     - { code: "37", name: "慶尚北道",       type: "province" }
     - { code: "38", name: "慶尚南道",       type: "province" }
     - { code: "39", name: "済州特別自治道", type: "province" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/korea/", "州当てクイズ"],
+    ["/quiz/cities/asia/korea/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

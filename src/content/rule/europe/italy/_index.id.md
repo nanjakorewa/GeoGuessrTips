@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3"
   - text: 'Negara <span class="quiz">semenanjung</span> berbentuk sepatu bot, masakan Italia seperti <span class="quiz">pizza</span> dan pasta digemari di seluruh dunia'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E6%96%99%E7%90%86"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/italy/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/italy/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

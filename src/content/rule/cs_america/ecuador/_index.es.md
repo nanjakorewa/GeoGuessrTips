@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB"
   - text: 'Uno de los principales exportadores mundiales de <span class="quiz">banano</span>; el petróleo también es un producto clave de exportación'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB#%E7%B5%8C%E6%B8%88"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/cs_america/ecuador/", "Quiz de estados"],
+    ["/es/quiz/cities/cs_america/ecuador/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

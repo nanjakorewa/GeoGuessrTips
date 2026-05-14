@@ -28,6 +28,11 @@ mapPins:
 features:
   - text: 'Tiene el mayor consumo de <span class="quiz">cerveza</span> per cápita del mundo; Plzeň es cuna de la cerveza <span class="quiz">Pilsner</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%BC%E3%83%8B"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/czechia/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/czechia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8D%E3%82%B9_(%E3%83%93%E3%83%BC%E3%83%AB)"
   - text: 'Centro da <span class="quiz">cultura celta</span>, tem como idiomas oficiais o irlandês (<span class="quiz">gaélico</span>) e o inglês'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E"
+related_quizzes_title: "Quizzes relacionados"
+related_quizzes: [
+    ["/pt/quiz/states/europe/ireland/", "Quiz de estados"],
+    ["/pt/quiz/cities/europe/ireland/", "Quiz de cidades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

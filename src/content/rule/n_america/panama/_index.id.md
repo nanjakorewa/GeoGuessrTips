@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E%E9%81%8B%E6%B2%B3"
   - text: 'Mata uang yang digunakan adalah <span class="quiz">dolar AS</span> (setara dengan Balboa)'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E#%E7%B5%8C%E6%B8%88"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/n_america/panama/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/n_america/panama/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

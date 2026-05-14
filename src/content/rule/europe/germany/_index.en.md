@@ -46,6 +46,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%90%E3%83%BC%E3%83%B3"
   - text: 'Has a history of reunification after the <span class="quiz">Berlin Wall</span> fell in 1989, and is a federal republic made up of 16 <span class="quiz">federal states</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E5%A3%81%E5%B4%A9%E5%A3%8A"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/germany/", "State quiz"],
+    ["/en/quiz/cities/europe/germany/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

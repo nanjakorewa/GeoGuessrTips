@@ -38,6 +38,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
   - text: 'Its territory consists of the central part of North America plus the exclaves of <span class="quiz">Alaska</span> and Hawaii'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD#%E5%9C%B0%E7%90%86"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/n_america/usa/", "State quiz"],
+    ["/en/quiz/cities/n_america/usa/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

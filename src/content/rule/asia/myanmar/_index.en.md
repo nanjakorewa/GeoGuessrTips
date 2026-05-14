@@ -27,6 +27,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%80%E3%82%B4%E3%83%B3%E3%83%BB%E3%83%91%E3%82%B4%E3%83%80"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/myanmar/", "State quiz"],
+    ["/en/quiz/cities/asia/myanmar/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -16,6 +16,11 @@ sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../../middle_east/jordan/", "Jordan"],
     ]
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/africa/tunisia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/africa/tunisia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

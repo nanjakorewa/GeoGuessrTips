@@ -31,6 +31,11 @@ mapPins:
 features:
   - text: 'Pusat Kekaisaran Inca, dan reruntuhan seperti <span class="quiz">Machu Picchu</span> terdaftar sebagai warisan dunia'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BB%E3%83%94%E3%83%81%E3%83%A5"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/cs_america/peru/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/cs_america/peru/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -139,6 +139,11 @@ municipalities:
       type: "region"
       nameI18n:
         en: "Sardegna"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/italy/", "州当てクイズ"],
+    ["/quiz/cities/europe/italy/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -28,6 +28,11 @@ mapPins:
 features:
   - text: 'Has the world''s highest per-capita <span class="quiz">beer</span> consumption, with Plzeň being the birthplace of <span class="quiz">Pilsner</span> beer'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%BC%E3%83%8B"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/czechia/", "State quiz"],
+    ["/en/quiz/cities/europe/czechia/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

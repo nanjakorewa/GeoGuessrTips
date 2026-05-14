@@ -74,6 +74,11 @@ municipalities:
       type: "county"
       nameI18n:
         en: "Kaunas"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/lithuania/", "州当てクイズ"],
+    ["/quiz/cities/europe/lithuania/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

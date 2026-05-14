@@ -23,6 +23,11 @@ mapPins:
   - { lat: 29.553, lng: 34.951, label: "Eilat", type: "city", note: "Resort city on the Red Sea" }
   - { lat: 31.500, lng: 35.500, label: "Dead Sea", type: "nature", note: "World's lowest lake, about 430 m below sea level" }
   - { lat: 32.708, lng: 35.317, label: "Sea of Galilee", type: "nature", note: "Israel's largest freshwater lake" }
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/middle_east/israel/", "State quiz"],
+    ["/en/quiz/cities/middle_east/israel/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

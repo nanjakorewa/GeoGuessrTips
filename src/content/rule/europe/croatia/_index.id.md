@@ -31,6 +31,11 @@ mapPins:
 features:
   - text: 'Wilayah <span class="quiz">Dalmatia</span> di pesisir Laut Adriatik merupakan tujuan wisata kelas dunia, dan kota tua <span class="quiz">Dubrovnik</span> dijuluki "Mutiara Laut Adriatik" sebagai warisan dunia UNESCO'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A5%E3%83%96%E3%83%AD%E3%83%B4%E3%83%8B%E3%82%AF"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/croatia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/croatia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -32,6 +32,11 @@ mapPins:
 features:
   - text: 'Centro del Imperio inca; ruinas como <span class="quiz">Machu Picchu</span> figuran como Patrimonio de la Humanidad'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BB%E3%83%94%E3%83%81%E3%83%A5"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/cs_america/peru/", "Quiz de estados"],
+    ["/es/quiz/cities/cs_america/peru/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

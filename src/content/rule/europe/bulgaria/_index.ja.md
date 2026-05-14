@@ -178,6 +178,11 @@ municipalities:
       note: "首都"
       nameI18n:
         en: "Sofia (City)"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/bulgaria/", "州当てクイズ"],
+    ["/quiz/cities/europe/bulgaria/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
   - text: 'Tempat lahirnya <span class="quiz">Tango</span>, dan Buenos Aires dijuluki "Paris-nya Amerika Selatan"'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%82%B4"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/cs_america/argentina/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/cs_america/argentina/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

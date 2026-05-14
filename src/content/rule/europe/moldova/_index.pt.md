@@ -25,6 +25,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%89%E3%83%90"
   - text: 'É um dos maiores produtores mundiais de <span class="quiz">vinho</span>, e <span class="quiz">Mileștii Mici</span> está registrada no Guinness como a maior adega do mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AC%E3%82%B7%E3%83%A5%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9F%E3%83%81"
+related_quizzes_title: "Quizzes relacionados"
+related_quizzes: [
+    ["/pt/quiz/states/europe/moldova/", "Quiz de estados"],
+    ["/pt/quiz/cities/europe/moldova/", "Quiz de cidades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%83%AB%E3%82%AB%E3%82%B7%E3%82%A7%E3%83%B3%E3%82%B3"
   - text: 'Sekitar 40% wilayahnya tertutup <span class="quiz">hutan</span>, dan memiliki hutan primer terbesar di Eropa, <span class="quiz">Belovezhskaya Pushcha</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%B4%E3%82%A7%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AB%E3%83%A4%E3%83%BB%E3%83%97%E3%83%BC%E3%82%B7%E3%83%A3"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/belarus/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/belarus/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B0%E3%83%A9%E3%83%80%E3%83%BB%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%82%A2"
   - text: 'In addition to Castilian (Spanish), several regional languages are recognized as official, including <span class="quiz">Catalan</span>, Basque, and Galician'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E3%81%AE%E8%A8%80%E8%AA%9E"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/spain/", "State quiz"],
+    ["/en/quiz/cities/europe/spain/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

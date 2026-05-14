@@ -84,6 +84,11 @@ municipalities:
       type: "department"
       nameI18n:
         en: "Bălți"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/moldova/", "州当てクイズ"],
+    ["/quiz/cities/europe/moldova/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

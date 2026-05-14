@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B7%E3%82%AF%E3%83%BB%E3%82%AF%E3%83%AB%E6%B9%96"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/asia/kyrgyzstan/", "Quiz de estados"],
+    ["/es/quiz/cities/asia/kyrgyzstan/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

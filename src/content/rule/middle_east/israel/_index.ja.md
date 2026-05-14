@@ -35,6 +35,11 @@ municipalities:
     - { code: "IL-M", name: "HaMerkaz", type: "district" }
     - { code: "IL-JM", name: "Jerusalem", type: "district" }
     - { code: "IL-TA", name: "Tel Aviv", type: "district" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/middle_east/israel/", "州当てクイズ"],
+    ["/quiz/cities/middle_east/israel/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

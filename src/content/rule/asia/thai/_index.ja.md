@@ -437,6 +437,11 @@ municipalities:
       type: "province"
       nameI18n:
         en: "Yasothon"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/thailand/", "州当てクイズ"],
+    ["/quiz/cities/asia/thailand/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

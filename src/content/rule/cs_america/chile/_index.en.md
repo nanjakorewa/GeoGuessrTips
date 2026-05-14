@@ -36,6 +36,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BF%E3%82%AB%E3%83%9E%E7%A0%82%E6%BC%A0"
   - text: 'The world''s largest producer of <span class="quiz">copper</span>; mining is the backbone of the economy'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%AA#%E9%89%B1%E6%A5%AD"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/cs_america/chile/", "State quiz"],
+    ["/en/quiz/cities/cs_america/chile/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

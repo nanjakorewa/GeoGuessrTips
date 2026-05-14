@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%AB%E6%96%87%E5%AD%97"
   - text: 'Terdapat <span class="quiz">Lembah Mawar</span> (sekitar Kazanlak) yang menyumbang sekitar 85% produksi <span class="quiz">minyak mawar</span> dunia, dan dikenal sebagai pemasok bahan baku untuk industri parfum'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%81%AE%E8%B0%B7"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/bulgaria/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/bulgaria/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

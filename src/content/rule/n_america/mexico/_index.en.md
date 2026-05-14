@@ -35,6 +35,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3"
   - text: 'One of the world''s leading producers of <span class="quiz">silver</span>; mining is a key industry'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3#%E9%89%B1%E6%A5%AD"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/n_america/mexico/", "State quiz"],
+    ["/en/quiz/cities/n_america/mexico/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

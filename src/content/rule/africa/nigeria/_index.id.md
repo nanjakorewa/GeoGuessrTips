@@ -17,6 +17,11 @@ sc: [
     ["../senegal/", "Senegal"],
     ["../saotome/", "Sao Tome dan Principe"],
 ]
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/africa/nigeria/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/africa/nigeria/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

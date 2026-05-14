@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B4"
   - text: 'Pionera en <span class="quiz">energía eólica</span>, cubre cerca de la mitad de su electricidad; tiene como territorios autónomos <span class="quiz">Groenlandia</span> y las Islas Feroe'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/denmark/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/denmark/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

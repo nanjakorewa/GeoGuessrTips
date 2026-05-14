@@ -30,6 +30,11 @@ mapPins:
 features:
   - text: 'Aproximadamente el <span class="quiz">26 %</span> del territorio está por debajo del nivel del mar; es el «país de las tierras bajas» que ha ampliado su territorio mediante <span class="quiz">pólderes</span> y diques'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/netherlands/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/netherlands/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

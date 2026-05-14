@@ -28,6 +28,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E8%BB%8D%E4%BA%8B%E5%A2%83%E7%95%8C%E7%B7%9A_(%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6)"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/asia/korea/", "Quiz de estados"],
+    ["/es/quiz/cities/asia/korea/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -23,6 +23,11 @@ mapPins:
   - { lat: 29.553, lng: 34.951, label: "Eilat", type: "city", note: "Kota wisata yang menghadap Laut Merah" }
   - { lat: 31.500, lng: 35.500, label: "Laut Mati", type: "nature", note: "Danau terendah di dunia, sekitar 430 m di bawah permukaan laut" }
   - { lat: 32.708, lng: 35.317, label: "Danau Galilea", type: "nature", note: "Danau air tawar terbesar di Israel" }
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/middle_east/israel/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/middle_east/israel/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

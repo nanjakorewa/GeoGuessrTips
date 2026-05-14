@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
   - text: 'Markas Komite Internasional <span class="quiz">Palang Merah</span> dan banyak lembaga internasional berlokasi di <span class="quiz">Jenewa</span>, dan juga terkenal di dunia dengan industri jam presisinya'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%8D%E3%83%BC%E3%83%B4"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/switzerland/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/switzerland/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

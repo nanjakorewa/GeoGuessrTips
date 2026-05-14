@@ -17,6 +17,11 @@ sc: [
     ["../kenya/", "Kenya"],
     ["../nigeria/", "Nigeria"],
     ]
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/africa/senegal/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/africa/senegal/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

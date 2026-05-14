@@ -38,6 +38,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
   - text: 'Su territorio comprende la zona central de Norteamérica más los enclaves de <span class="quiz">Alaska</span> y Hawái'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD#%E5%9C%B0%E7%90%86"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/n_america/usa/", "Quiz de estados"],
+    ["/es/quiz/cities/n_america/usa/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

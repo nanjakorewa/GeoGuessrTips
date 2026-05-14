@@ -100,6 +100,11 @@ municipalities:
       type: "region"
       nameI18n:
         en: "Najran"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/middle_east/saudiarabia/", "州当てクイズ"],
+    ["/quiz/cities/middle_east/saudiarabia/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3"
   - text: 'A boot-shaped <span class="quiz">peninsula</span> nation, where Italian cuisine like <span class="quiz">pizza</span> and pasta is loved worldwide'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E6%96%99%E7%90%86"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/italy/", "State quiz"],
+    ["/en/quiz/cities/europe/italy/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

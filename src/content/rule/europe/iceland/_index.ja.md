@@ -46,6 +46,11 @@ municipalities:
     - { code: "IS-4", name: "Vestfirðir", type: "region" }
     - { code: "IS-5", name: "Norðurland vestra", type: "region" }
     - { code: "IS-6", name: "Norðurland eystra", type: "region" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/iceland/", "州当てクイズ"],
+    ["/quiz/cities/europe/iceland/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

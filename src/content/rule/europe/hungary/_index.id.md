@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%B9%E3%82%BF"
   - text: 'Negara <span class="quiz">orang Magyar</span>; berbeda dengan negara Eropa lainnya, mereka berbicara bahasa Hongaria yang termasuk dalam <span class="quiz">rumpun bahasa Ural</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E8%AA%9E"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/hungary/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/hungary/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

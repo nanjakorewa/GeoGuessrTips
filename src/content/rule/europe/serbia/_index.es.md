@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%89"
   - text: 'Se utilizan a diario tanto el <span class="quiz">alfabeto cirílico</span> como el latino, y se conserva una fuerte cultura de la <span class="quiz">Iglesia ortodoxa</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2%E8%AA%9E"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/serbia/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/serbia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

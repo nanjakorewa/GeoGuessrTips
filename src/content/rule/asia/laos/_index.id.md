@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%91%E3%83%90%E3%83%BC%E3%83%B3%E3%81%AE%E7%94%BA"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/asia/laos/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/asia/laos/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

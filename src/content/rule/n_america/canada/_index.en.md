@@ -38,6 +38,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
   - text: 'Most of the country is covered by <span class="quiz">boreal forest (taiga)</span> and tundra'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80#%E5%9C%B0%E7%90%86"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/n_america/canada/", "State quiz"],
+    ["/en/quiz/cities/n_america/canada/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

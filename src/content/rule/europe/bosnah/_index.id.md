@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%88%E3%83%B3%E5%90%88%E6%84%8F"
   - text: 'Ibu kota <span class="quiz">Sarajevo</span> menjadi tuan rumah Olimpiade Musim Dingin 1984 dan masih memiliki kota tua <span class="quiz">Bascarsija</span> dari era Kekaisaran Ottoman'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%82%A8%E3%83%9C"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/bosnia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/bosnia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

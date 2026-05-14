@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AD%E3%83%BC%E3%83%89%E9%9B%A2%E5%A9%9A"
   - text: 'The <span class="quiz">Tatra Mountains</span> rise in the north, and many medieval castles such as <span class="quiz">Spiš Castle</span> remain'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%88%E3%83%A9%E5%B1%B1%E8%84%88"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/slovakia/", "State quiz"],
+    ["/en/quiz/cities/europe/slovakia/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

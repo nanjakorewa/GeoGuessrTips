@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%A5%E3%83%83%E3%82%BB%E3%83%AB"
   - text: 'Dividida entre la <span class="quiz">Flandes</span> neerlandófona y la Valonia francófona; mundialmente famosa por su producción de <span class="quiz">chocolate</span> y cerveza'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/belgium/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/belgium/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

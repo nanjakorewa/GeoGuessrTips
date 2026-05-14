@@ -32,6 +32,11 @@ mapPins:
   - { lat: 25.034, lng: 121.564, label: "Taipei 101", type: "landmark", note: "Penanda kota setinggi 508 m, dahulu tertinggi di dunia" }
   - { lat: 23.872, lng: 121.546, label: "Ngarai Taroko", type: "nature", note: "Ngarai marmer di Hualien, taman nasional" }
   - { lat: 23.466, lng: 120.957, label: "Alishan", type: "nature", note: "Pegunungan indah di Pegunungan Tengah, terkenal dengan matahari terbit" }
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/asia/taiwan/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/asia/taiwan/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

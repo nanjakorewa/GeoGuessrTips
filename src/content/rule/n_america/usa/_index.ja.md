@@ -300,6 +300,11 @@ municipalities:
       type: "state"
       nameI18n:
         en: "Indiana"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/n_america/usa/", "州当てクイズ"],
+    ["/quiz/cities/n_america/usa/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

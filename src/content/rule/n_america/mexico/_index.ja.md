@@ -203,6 +203,11 @@ municipalities:
       note: "首都"
       nameI18n:
         en: "Mexico City"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/n_america/mexico/", "州当てクイズ"],
+    ["/quiz/cities/n_america/mexico/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

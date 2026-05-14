@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
   - text: 'Reconocida mundialmente por su nivel educativo; sede de <span class="quiz">Nokia</span>, pionera de la industria de la telefonía móvil'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%AD%E3%82%A2"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/europe/finland/", "Quiz de estados"],
+    ["/es/quiz/cities/europe/finland/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

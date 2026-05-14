@@ -122,6 +122,11 @@ municipalities:
       type: "region"
       nameI18n:
         en: "Magallanes"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/cs_america/chile/", "州当てクイズ"],
+    ["/quiz/cities/cs_america/chile/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

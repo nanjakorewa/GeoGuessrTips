@@ -24,6 +24,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E5%85%AC%E7%94%A8%E8%AA%9E"
 
 # ===== OSM ヒーロー設定 =====
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/asia/india/", "Quiz de estados"],
+    ["/es/quiz/cities/asia/india/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

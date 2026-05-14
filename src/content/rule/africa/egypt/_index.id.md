@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 is_has_many_trekker: true
 plonkit: true
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/africa/egypt/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/africa/egypt/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

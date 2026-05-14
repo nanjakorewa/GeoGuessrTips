@@ -444,6 +444,11 @@ municipalities:
       type: "province"
       nameI18n:
         en: "Gümüşhane"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/middle_east/turkey/", "州当てクイズ"],
+    ["/quiz/cities/middle_east/turkey/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

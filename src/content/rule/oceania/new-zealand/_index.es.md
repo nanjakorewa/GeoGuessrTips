@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AA%E3%83%AA"
   - text: 'Hay más <span class="quiz">ovejas</span> que personas y es uno de los principales exportadores de productos lácteos del mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/oceania/new-zealand/", "Quiz de estados"],
+    ["/es/quiz/cities/oceania/new-zealand/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

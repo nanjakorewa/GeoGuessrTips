@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%89"
   - text: '<span class="quiz">Aksara Kiril</span> dan aksara Latin sama-sama digunakan dalam kehidupan sehari-hari, dan budaya <span class="quiz">Gereja Ortodoks</span> masih sangat kental'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2%E8%AA%9E"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/serbia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/serbia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -28,6 +28,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%83%E3%82%AB"
   - text: 'The world''s largest exporter of <span class="quiz">crude oil</span>; the state-owned Saudi Aramco is one of the world''s largest companies'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%A0%E3%82%B3"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/middle_east/saudiarabia/", "State quiz"],
+    ["/en/quiz/cities/middle_east/saudiarabia/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

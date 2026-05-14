@@ -147,6 +147,11 @@ municipalities:
       type: "department"
       nameI18n:
         en: "Totonicapán"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/n_america/guatemala/", "州当てクイズ"],
+    ["/quiz/cities/n_america/guatemala/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

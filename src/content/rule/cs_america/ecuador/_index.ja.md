@@ -60,6 +60,11 @@ municipalities:
     - { code: "EC-R", name: "Los Rios", type: "province" }
     - { code: "EC-P", name: "Pichincha", type: "province" }
     - { code: "EC-SD", name: "Santo Domingo de los Tsáchilas", type: "province" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/cs_america/ecuador/", "州当てクイズ"],
+    ["/quiz/cities/cs_america/ecuador/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

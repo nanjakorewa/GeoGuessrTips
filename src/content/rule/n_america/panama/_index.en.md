@@ -32,6 +32,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E%E9%81%8B%E6%B2%B3"
   - text: 'The currency is the <span class="quiz">US dollar</span> (at par with the balboa)'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E#%E7%B5%8C%E6%B8%88"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/n_america/panama/", "State quiz"],
+    ["/en/quiz/cities/n_america/panama/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

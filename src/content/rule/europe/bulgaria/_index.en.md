@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%AB%E6%96%87%E5%AD%97"
   - text: 'The <span class="quiz">Valley of Roses</span> (around Kazanlak) accounts for about 85% of the world''s <span class="quiz">rose oil</span> production, known as a key supplier to the perfume industry'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%81%AE%E8%B0%B7"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/bulgaria/", "State quiz"],
+    ["/en/quiz/cities/europe/bulgaria/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

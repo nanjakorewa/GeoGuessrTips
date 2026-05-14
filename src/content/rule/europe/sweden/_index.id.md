@@ -34,6 +34,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3"
   - text: 'Upacara penghargaan <span class="quiz">Hadiah Nobel</span> (kecuali Hadiah Perdamaian) diadakan di Stockholm, dan dianggap sebagai negara teladan kesejahteraan'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/sweden/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/sweden/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

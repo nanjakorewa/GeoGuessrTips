@@ -44,6 +44,11 @@ municipalities:
     - { code: "KE-800", name: "Western", type: "county" }
     - { code: "KE-110", name: "Nairobi", type: "county" }
     - { code: "KE-200", name: "Central", type: "county" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/africa/kenya/", "州当てクイズ"],
+    ["/quiz/cities/africa/kenya/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

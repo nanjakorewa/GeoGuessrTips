@@ -30,6 +30,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%B9%E3%82%BF"
   - text: 'A nation of the <span class="quiz">Magyars</span>, where Hungarian, unusually for Europe, belongs to the <span class="quiz">Uralic language family</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E8%AA%9E"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/hungary/", "State quiz"],
+    ["/en/quiz/cities/europe/hungary/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

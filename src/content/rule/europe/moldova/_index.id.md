@@ -25,6 +25,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%89%E3%83%90"
   - text: 'Salah satu negara produsen <span class="quiz">anggur</span> terbesar di dunia, <span class="quiz">Milestii Mici</span> tercatat dalam Guinness sebagai gudang anggur terbesar di dunia'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AC%E3%82%B7%E3%83%A5%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9F%E3%83%81"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/moldova/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/moldova/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

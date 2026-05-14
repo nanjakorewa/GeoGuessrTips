@@ -34,6 +34,11 @@ mapPins:
   - { lat: -31.953, lng: 115.857, label: "Perth", type: "city", note: "Ibu kota Negara Bagian Australia Barat" }
   - { lat: -25.345, lng: 131.034, label: "Uluru", type: "landmark", note: "Monolit raksasa; Warisan Dunia" }
   - { lat: -18.286, lng: 147.700, label: "Great Barrier Reef", type: "nature", note: "Terumbu karang terbesar di dunia; Warisan Dunia" }
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/oceania/australia/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/oceania/australia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

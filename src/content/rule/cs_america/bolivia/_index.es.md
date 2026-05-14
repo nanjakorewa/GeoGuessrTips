@@ -44,6 +44,11 @@ heroGallery:
   - "/rule/cs_america/bolivia/Cemitério_de_trens,_Uyuni,_Bolivia.jpg"
   - "/rule/cs_america/bolivia/ilha_do_sol14.jpg"
   - "/rule/cs_america/bolivia/19683170924_abbf5210de_c.jpg"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/cs_america/bolivia/", "Quiz de estados"],
+    ["/es/quiz/cities/cs_america/bolivia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

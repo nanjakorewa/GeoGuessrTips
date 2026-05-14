@@ -168,6 +168,11 @@ municipalities:
       type: "department"
       nameI18n:
         en: "Luxor"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/africa/egypt/", "州当てクイズ"],
+    ["/quiz/cities/africa/egypt/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

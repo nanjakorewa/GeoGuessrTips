@@ -64,6 +64,11 @@ municipalities:
       note: "首都"
       nameI18n:
         en: "Ulaanbaatar"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/mongolia/", "州当てクイズ"],
+    ["/quiz/cities/asia/mongolia/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

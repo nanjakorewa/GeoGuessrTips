@@ -97,6 +97,11 @@ municipalities:
       type: "department"
       nameI18n:
         en: "North Banat"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/serbia/", "州当てクイズ"],
+    ["/quiz/cities/europe/serbia/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

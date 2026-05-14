@@ -152,6 +152,13 @@ const crumbs = [
             <div class="sqi-meta">{t.continent.countLabelFmt(c.count)}</div>
           </a>
         ))}
+        {continent.slug === "asia" && lang === "ja" && (
+          <a href="/quiz/states/asia/indonesia-kabupaten/" class="sqi-card">
+            <img src="/flags/ID.svg" alt="インドネシアの国旗" class="sqi-flag" loading="lazy" />
+            <div class="sqi-name">インドネシア（kabupaten 版）</div>
+            <div class="sqi-meta">島ごとに kabupaten / kota をピンで出題</div>
+          </a>
+        )}
       </div>
     </div>
   </main>

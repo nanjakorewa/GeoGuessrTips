@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%9D%E3%83%A9%E3%82%B9%E6%B5%B7%E5%B3%A1"
   - text: 'Memiliki banyak warisan dunia seperti formasi batu <span class="quiz">Cappadocia</span> dan teras kapur <span class="quiz">Pamukkale</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%83%E3%83%91%E3%83%89%E3%82%AD%E3%82%A2"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/middle_east/turkey/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/middle_east/turkey/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

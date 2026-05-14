@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3"
   - text: 'The <span class="quiz">Nobel Prize</span> ceremony (excluding the Peace Prize) is held in Stockholm, and the country is considered a model welfare state'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/sweden/", "State quiz"],
+    ["/en/quiz/cities/europe/sweden/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

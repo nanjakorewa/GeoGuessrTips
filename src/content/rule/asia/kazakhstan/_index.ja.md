@@ -97,6 +97,11 @@ municipalities:
       note: "首都"
       nameI18n:
         en: "Astana"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/asia/kazakhstan/", "州当てクイズ"],
+    ["/quiz/cities/asia/kazakhstan/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

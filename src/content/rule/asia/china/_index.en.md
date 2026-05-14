@@ -17,6 +17,11 @@ sc: [
     ["../macau/", "Macau"],
     ["../hongkong/", "Hong Kong"],
     ]
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/china/", "State quiz"],
+    ["/en/quiz/cities/asia/china/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

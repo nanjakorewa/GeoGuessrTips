@@ -121,6 +121,11 @@ municipalities:
     - { code: "MK-64", name: "Radoviš", type: "region" }
     - { code: "MK-11", name: "Vasilevo", type: "region" }
     - { code: "MK-41", name: "Konče", type: "region" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/macedonia/", "州当てクイズ"],
+    ["/quiz/cities/europe/macedonia/", "都市当てクイズ"],
+    ]
 ---
 
 

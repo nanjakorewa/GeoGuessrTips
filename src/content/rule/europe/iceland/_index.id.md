@@ -31,6 +31,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89"
   - text: '<span class="quiz">Althing</span>, yang dianggap sebagai <span class="quiz">parlemen</span> tertua di dunia, didirikan pada tahun 930, dan sebagian besar listrik domestik dipasok dari energi panas bumi'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3%E3%82%B0"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/iceland/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/iceland/", "Kuis tebak kota"],
+    ]
 ---
 
 

@@ -38,6 +38,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
   - text: 'Cerca del 60% del territorio lo ocupa la <span class="quiz">selva amazónica</span>, con la mayor biodiversidad del mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E7%86%B1%E5%B8%AF%E9%9B%A8%E6%9E%97"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/cs_america/brazil/", "Quiz de estados"],
+    ["/es/quiz/cities/cs_america/brazil/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -28,6 +28,11 @@ mapPins:
 features:
   - text: 'The Bay of <span class="quiz">Kotor</span> is a fjord-like inlet at Europe''s southernmost point, registered together with the old town as a UNESCO <span class="quiz">World Heritage Site</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%88%E3%83%AB"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/montenegro/", "State quiz"],
+    ["/en/quiz/cities/europe/montenegro/", "City quiz"],
+    ]
 ---
 
 

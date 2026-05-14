@@ -24,6 +24,11 @@ map_title: "Related"
 maps: [
     ["https://donation.yahoo.co.jp/promo/20240403.html", "Taiwan earthquake emergency donation"],
     ]
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/asia/taiwan/", "State quiz"],
+    ["/en/quiz/cities/asia/taiwan/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

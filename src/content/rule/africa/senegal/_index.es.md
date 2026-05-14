@@ -18,6 +18,11 @@ sc: [
     ["../kenya/", "Kenia"],
     ["../nigeria/", "Nigeria"],
 ]
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/africa/senegal/", "Quiz de estados"],
+    ["/es/quiz/cities/africa/senegal/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

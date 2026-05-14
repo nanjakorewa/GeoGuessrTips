@@ -34,6 +34,11 @@ mapPins:
   - { lat: -31.953, lng: 115.857, label: "Perth", type: "city", note: "Capital de Australia Occidental" }
   - { lat: -25.345, lng: 131.034, label: "Uluru", type: "landmark", note: "Enorme monolito Patrimonio de la Humanidad" }
   - { lat: -18.286, lng: 147.700, label: "Gran Barrera de Coral", type: "nature", note: "Mayor arrecife coralino del mundo, Patrimonio de la Humanidad" }
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/states/oceania/australia/", "Quiz de estados"],
+    ["/es/quiz/cities/oceania/australia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

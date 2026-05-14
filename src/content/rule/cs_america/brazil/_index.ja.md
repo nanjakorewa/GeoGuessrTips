@@ -179,6 +179,11 @@ municipalities:
       type: "state"
       nameI18n:
         en: "Tocantins"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/cs_america/brazil/", "州当てクイズ"],
+    ["/quiz/cities/cs_america/brazil/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

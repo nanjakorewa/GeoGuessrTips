@@ -25,6 +25,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%89%E3%83%90"
   - text: 'A leading <span class="quiz">wine</span>-producing country, with <span class="quiz">Mileștii Mici</span> registered in Guinness as the world''s largest wine cellar'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AC%E3%82%B7%E3%83%A5%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9F%E3%83%81"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/europe/moldova/", "State quiz"],
+    ["/en/quiz/cities/europe/moldova/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

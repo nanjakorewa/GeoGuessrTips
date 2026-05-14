@@ -169,6 +169,11 @@ municipalities:
       type: "canton"
       nameI18n:
         en: "Appenzell Innerrhoden"
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/states/europe/switzerland/", "州当てクイズ"],
+    ["/quiz/cities/europe/switzerland/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

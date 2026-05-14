@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
   - text: 'The birthplace of <span class="quiz">tango</span>, with Buenos Aires often called the "Paris of South America"'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%82%B4"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/states/cs_america/argentina/", "State quiz"],
+    ["/en/quiz/cities/cs_america/argentina/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

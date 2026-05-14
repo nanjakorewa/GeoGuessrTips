@@ -33,6 +33,11 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BB%A3%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2"
   - text: 'Memiliki sekitar <span class="quiz">6.000</span> pulau, dan terkenal dengan kepulauan Aegea seperti <span class="quiz">Pulau Santorini</span> dan Pulau Mykonos yang dikenal dengan pemandangan dinding putih serta atap biru'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%8B%E5%B3%B6"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/states/europe/greece/", "Kuis tebak provinsi"],
+    ["/id/quiz/cities/europe/greece/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">
