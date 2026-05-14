@@ -277,12 +277,51 @@ const TIER_LABELS: Record<number, string> = {
       border: 1px solid #e1e6ec;
       padding: 10px;
     }
-    #cq-map { display: block; width: 100%; height: auto; max-height: 70vh; }
+    #cq-map {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-height: 70vh;
+      touch-action: none;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+    .cq-map-wrap.cq-panning #cq-map { cursor: grabbing; }
+    .cq-map-wrap.cq-zoomed #cq-map { cursor: grab; }
     #cq-map path {
       fill: #eaf2fb;
       stroke: #5b7fa8;
       stroke-width: 0.6;
     }
+    .cq-zoom-controls {
+      position: absolute;
+      top: 18px;
+      right: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      z-index: 2;
+    }
+    .cq-zoom-btn {
+      width: 32px;
+      height: 32px;
+      background: #fff;
+      border: 1px solid #d6deea;
+      color: #1f3a5c;
+      font-size: 1.1rem;
+      font-weight: 700;
+      line-height: 1;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+      transition: background 0.12s, border-color 0.12s;
+    }
+    .cq-zoom-btn:hover { background: #eef3f9; border-color: #1f4d80; }
+    .cq-zoom-btn:active { background: #d6e2f0; }
+    .cq-zoom-btn[disabled] { opacity: 0.4; cursor: not-allowed; }
+    .cq-zoom-btn--reset { font-size: 0.75rem; font-weight: 600; }
     .cq-pin {
       fill: #5b7fa8;
       stroke: #fff;
@@ -617,6 +656,11 @@ const TIER_LABELS: Record<number, string> = {
 
           <div class="cq-map-wrap" id="cq-map-wrap">
             <Fragment set:html={inlinedSvg} />
+            <div class="cq-zoom-controls" role="group" aria-label="zoom">
+              <button class="cq-zoom-btn" id="cq-zoom-in" type="button" aria-label="zoom in">＋</button>
+              <button class="cq-zoom-btn" id="cq-zoom-out" type="button" aria-label="zoom out">−</button>
+              <button class="cq-zoom-btn cq-zoom-btn--reset" id="cq-zoom-reset" type="button" aria-label="reset zoom">⤺</button>
+            </div>
           </div>
 
           <div class="cq-choices is-active" id="cq-choices" aria-label="回答候補">
@@ -720,6 +764,108 @@ const TIER_LABELS: Record<number, string> = {
       const mapWrap = $("cq-map-wrap");
       const memorizeBtn = $("cq-memorize");
       const hintBtn = $("cq-hint");
+
+      // ============ Zoom & Pan via SVG viewBox ============
+      const initialVb = (() => {
+        const vb = (map.getAttribute("viewBox") || "0 0 1000 1000").split(/\s+/).map(Number);
+        return { x: vb[0], y: vb[1], w: vb[2], h: vb[3] };
+      })();
+      let vb = { ...initialVb };
+      const MAX_SCALE = 8;
+      function setViewBox() {
+        map.setAttribute("viewBox", vb.x + " " + vb.y + " " + vb.w + " " + vb.h);
+        mapWrap.classList.toggle("cq-zoomed", vb.w < initialVb.w * 0.99);
+      }
+      function clientToSvg(clientX, clientY) {
+        const r = map.getBoundingClientRect();
+        const px = (clientX - r.left) / r.width;
+        const py = (clientY - r.top) / r.height;
+        return { x: vb.x + px * vb.w, y: vb.y + py * vb.h };
+      }
+      function clampVb() {
+        const minW = initialVb.w / MAX_SCALE;
+        const minH = initialVb.h / MAX_SCALE;
+        if (vb.w < minW) vb.w = minW;
+        if (vb.h < minH) vb.h = minH;
+        if (vb.w > initialVb.w) vb.w = initialVb.w;
+        if (vb.h > initialVb.h) vb.h = initialVb.h;
+        const slackX = vb.w * 0.3;
+        const slackY = vb.h * 0.3;
+        const minX = initialVb.x - slackX;
+        const maxX = initialVb.x + initialVb.w + slackX - vb.w;
+        const minY = initialVb.y - slackY;
+        const maxY = initialVb.y + initialVb.h + slackY - vb.h;
+        if (vb.x < minX) vb.x = minX;
+        if (vb.x > maxX) vb.x = maxX;
+        if (vb.y < minY) vb.y = minY;
+        if (vb.y > maxY) vb.y = maxY;
+      }
+      function zoomTo(factor, anchorX, anchorY) {
+        const svgPt = (anchorX != null && anchorY != null)
+          ? clientToSvg(anchorX, anchorY)
+          : { x: vb.x + vb.w / 2, y: vb.y + vb.h / 2 };
+        const newW = vb.w / factor;
+        const newH = vb.h / factor;
+        const dx = (svgPt.x - vb.x) * (newW / vb.w);
+        const dy = (svgPt.y - vb.y) * (newH / vb.h);
+        vb = { x: svgPt.x - dx, y: svgPt.y - dy, w: newW, h: newH };
+        clampVb();
+        setViewBox();
+      }
+      function resetZoom() { vb = { ...initialVb }; setViewBox(); }
+      $("cq-zoom-in").addEventListener("click", (e) => { e.preventDefault(); zoomTo(1.5); });
+      $("cq-zoom-out").addEventListener("click", (e) => { e.preventDefault(); zoomTo(1 / 1.5); });
+      $("cq-zoom-reset").addEventListener("click", (e) => { e.preventDefault(); resetZoom(); });
+      mapWrap.addEventListener("wheel", (e) => {
+        e.preventDefault();
+        const factor = e.deltaY < 0 ? 1.18 : 1 / 1.18;
+        zoomTo(factor, e.clientX, e.clientY);
+      }, { passive: false });
+
+      const DRAG_THRESHOLD = 5;
+      let dragState = null;
+      let suppressNextClick = false;
+      mapWrap.addEventListener("pointerdown", (e) => {
+        if (e.button !== 0 && e.pointerType !== "touch") return;
+        if (e.target.closest(".cq-zoom-controls")) return;
+        dragState = {
+          startX: e.clientX, startY: e.clientY,
+          vbX: vb.x, vbY: vb.y,
+          dragged: false, captured: false,
+          pointerId: e.pointerId,
+        };
+      });
+      mapWrap.addEventListener("pointermove", (e) => {
+        if (!dragState || e.pointerId !== dragState.pointerId) return;
+        const dx = e.clientX - dragState.startX;
+        const dy = e.clientY - dragState.startY;
+        if (!dragState.dragged && Math.hypot(dx, dy) > DRAG_THRESHOLD) {
+          dragState.dragged = true;
+          mapWrap.classList.add("cq-panning");
+          try { mapWrap.setPointerCapture(e.pointerId); dragState.captured = true; } catch (_) {}
+        }
+        if (dragState.dragged) {
+          const r = map.getBoundingClientRect();
+          vb.x = dragState.vbX - (dx / r.width) * vb.w;
+          vb.y = dragState.vbY - (dy / r.height) * vb.h;
+          clampVb();
+          setViewBox();
+        }
+      });
+      function endDrag(e) {
+        if (!dragState || (e && e.pointerId !== dragState.pointerId)) return;
+        if (dragState.dragged) {
+          suppressNextClick = true;
+          setTimeout(() => { suppressNextClick = false; }, 120);
+        }
+        mapWrap.classList.remove("cq-panning");
+        if (dragState.captured) {
+          try { mapWrap.releasePointerCapture(dragState.pointerId); } catch (_) {}
+        }
+        dragState = null;
+      }
+      mapWrap.addEventListener("pointerup", endDrag);
+      mapWrap.addEventListener("pointercancel", endDrag);
 
       const pinByCode = {};
       map.querySelectorAll(".cq-pin").forEach((p) => {
@@ -1010,12 +1156,24 @@ const TIER_LABELS: Record<number, string> = {
       function toggleHint() { setHintMode(!hintMode); }
 
       // ===== Memorize hover/tap =====
+      // In memorize mode the prompt-sub area doubles as the answer reveal: we
+      // overwrite the static hint text with the focused city's name. When the
+      // cursor leaves all pins/cards, restore the hint text.
+      function showMemorizeName(code) {
+        if (!promptSubEl) return;
+        if (code && idToName[code]) {
+          promptSubEl.textContent = fullName(code);
+        } else {
+          promptSubEl.textContent = LABELS.promptMemorizeSub;
+        }
+      }
       function previewByCode(code) {
         clearAllPreviews();
         const pin = pinByCode[code];
         const card = cardByCode[code];
         if (pin) pin.classList.add("is-preview");
         if (card) card.classList.add("is-preview");
+        if (memorizeMode) showMemorizeName(code);
       }
       map.addEventListener("mouseover", (e) => {
         if (!memorizeMode) return;
@@ -1027,9 +1185,11 @@ const TIER_LABELS: Record<number, string> = {
         const related = e.relatedTarget;
         if (!related || !related.closest || !related.closest(".cq-pin")) {
           clearAllPreviews();
+          showMemorizeName(null);
         }
       });
       map.addEventListener("click", (e) => {
+        if (suppressNextClick) { suppressNextClick = false; return; }
         if (!memorizeMode) return;
         const pin = e.target.closest && e.target.closest(".cq-pin");
         if (pin) previewByCode(pin.getAttribute("data-id"));
@@ -1044,6 +1204,21 @@ const TIER_LABELS: Record<number, string> = {
         const related = e.relatedTarget;
         if (!related || !related.closest || !related.closest(".cq-card")) {
           clearAllPreviews();
+          showMemorizeName(null);
+        }
+      });
+      // Choices grid (visible while hint mode is on): also previewable in memorize mode.
+      choicesEl.addEventListener("mouseover", (e) => {
+        if (!memorizeMode) return;
+        const choice = e.target.closest && e.target.closest(".cq-choice");
+        if (choice) previewByCode(choice.getAttribute("data-id"));
+      });
+      choicesEl.addEventListener("mouseout", (e) => {
+        if (!memorizeMode) return;
+        const related = e.relatedTarget;
+        if (!related || !related.closest || !related.closest(".cq-choice")) {
+          clearAllPreviews();
+          showMemorizeName(null);
         }
       });
 
@@ -1150,6 +1325,7 @@ const TIER_LABELS: Record<number, string> = {
         });
         clearChoices();
         applyDifficultyVisibility();
+        resetZoom();
         updateScores();
         showQuestion();
       }
