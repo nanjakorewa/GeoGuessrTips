@@ -31,6 +31,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3"
   - text: 'El casco antiguo de <span class="quiz">San Juan</span>, fundado por los españoles en el siglo XVI, es Patrimonio de la Humanidad'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A2%E3%83%B3_(%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3)"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/cities/n_america/puerto-rico/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

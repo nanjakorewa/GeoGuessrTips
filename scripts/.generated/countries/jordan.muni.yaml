@@ -1,0 +1,18 @@
+municipalities:
+  svg: "/maps/countries/jordan.svg"
+  title:
+    ja: "ヨルダンの県"
+    en: "Governorates of Jordan"
+  list:
+    - { code: "JO-IR", name: "Irbid", type: "governorate" }
+    - { code: "JO-MD", name: "Madaba", type: "governorate" }
+    - { code: "JO-KA", name: "Karak", type: "governorate" }
+    - { code: "JO-AT", name: "Tafilah", type: "governorate" }
+    - { code: "JO-AQ", name: "Aqaba", type: "governorate" }
+    - { code: "JO-BA", name: "Balqa", type: "governorate" }
+    - { code: "JO-MA", name: "Mafraq", type: "governorate" }
+    - { code: "JO-MN", name: "Ma`an", type: "governorate" }
+    - { code: "JO-AM", name: "Amman", type: "governorate" }
+    - { code: "JO-AZ", name: "Zarqa", type: "governorate" }
+    - { code: "JO-AJ", name: "Ajlun", type: "governorate" }
+    - { code: "JO-JA", name: "Jarash", type: "governorate" }

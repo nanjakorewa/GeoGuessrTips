@@ -33,6 +33,10 @@ mapPins:
   - { lat: -24.737, lng: 15.290, label: "ソススブレイ", type: "nature", note: "ナミブ砂漠の赤い砂丘で有名" }
   - { lat: -19.500, lng: 15.917, label: "エトーシャ国立公園", type: "nature", note: "塩湖と野生動物保護区" }
   - { lat: -27.673, lng: 17.156, label: "フィッシュリバー・キャニオン", type: "nature", note: "アフリカ最大級の渓谷" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/africa/namibia/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

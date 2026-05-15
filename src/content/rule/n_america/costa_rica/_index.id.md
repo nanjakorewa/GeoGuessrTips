@@ -32,6 +32,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB"
   - text: 'Sekitar 25% wilayahnya ditetapkan sebagai <span class="quiz">taman nasional atau cagar alam</span> dan kaya keanekaragaman hayati'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB#%E5%9C%B0%E7%90%86"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/cities/n_america/costa-rica/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -24,6 +24,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%A9%E3%82%BD%E3%83%BC"
   - text: 'El casco histórico de <span class="quiz">Willemstad</span>, con sus edificios coloridos, está inscrito como Patrimonio de la Humanidad'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AC%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%83%E3%83%88"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/cities/cs_america/curacao/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

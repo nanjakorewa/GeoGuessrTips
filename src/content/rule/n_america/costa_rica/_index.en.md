@@ -32,6 +32,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB"
   - text: 'About 25% of the country is designated as <span class="quiz">national parks and nature reserves</span>, supporting rich biodiversity'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB#%E5%9C%B0%E7%90%86"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/cities/n_america/costa-rica/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

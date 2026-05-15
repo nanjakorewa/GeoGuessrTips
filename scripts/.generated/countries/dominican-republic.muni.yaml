@@ -1,0 +1,38 @@
+municipalities:
+  svg: "/maps/countries/dominican-republic.svg"
+  title:
+    ja: "ドミニカ共和国の県"
+    en: "Provinces of the Dominican Republic"
+  list:
+    - { code: "DO-15", name: "Monte Cristi", type: "province" }
+    - { code: "DO-05", name: "Dajabón", type: "province" }
+    - { code: "DO-07", name: "La Estrelleta", type: "province" }
+    - { code: "DO-10", name: "Independencia", type: "province" }
+    - { code: "DO-16", name: "Pedernales", type: "province" }
+    - { code: "DO-11", name: "La Altagracia", type: "province" }
+    - { code: "DO-08", name: "El Seybo", type: "province" }
+    - { code: "DO-30", name: "Hato Mayor", type: "province" }
+    - { code: "DO-20", name: "Samaná", type: "province" }
+    - { code: "DO-14", name: "María Trinidad Sánchez", type: "province" }
+    - { code: "DO-09", name: "Espaillat", type: "province" }
+    - { code: "DO-18", name: "Puerto Plata", type: "province" }
+    - { code: "DO-04", name: "Barahona", type: "province" }
+    - { code: "DO-02", name: "Azua", type: "province" }
+    - { code: "DO-17", name: "Peravia", type: "province" }
+    - { code: "DO-21", name: "San Cristóbal", type: "province" }
+    - { code: "DO-32", name: "Santo Domingo", type: "province" }
+    - { code: "DO-01", name: "Distrito Nacional", type: "province" }
+    - { code: "DO-23", name: "San Pedro de Macorís", type: "province" }
+    - { code: "DO-12", name: "La Romana", type: "province" }
+    - { code: "DO-27", name: "Valverde", type: "province" }
+    - { code: "DO-26", name: "Santiago Rodríguez", type: "province" }
+    - { code: "DO-13", name: "La Vega", type: "province" }
+    - { code: "DO-19", name: "Hermanas", type: "province" }
+    - { code: "DO-06", name: "Duarte", type: "province" }
+    - { code: "DO-25", name: "Santiago", type: "province" }
+    - { code: "DO-03", name: "Bahoruco", type: "province" }
+    - { code: "DO-22", name: "San Juan", type: "province" }
+    - { code: "DO-28", name: "Monseñor Nouel", type: "province" }
+    - { code: "DO-24", name: "Sánchez Ramírez", type: "province" }
+    - { code: "DO-31", name: "San José de Ocoa", type: "province" }
+    - { code: "DO-29", name: "Monte Plata", type: "province" }

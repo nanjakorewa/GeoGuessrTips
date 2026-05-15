@@ -16,6 +16,10 @@ sc: [
     ["../south-africa/", "South Africa"],
     ["../lesotho/", "Lesotho"],
 ]
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/cities/africa/eswatini/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

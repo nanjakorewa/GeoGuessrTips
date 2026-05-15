@@ -31,6 +31,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3"
   - text: 'Kota tua <span class="quiz">San Juan</span> yang dibangun Spanyol pada abad ke-16 terdaftar sebagai Warisan Dunia'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A2%E3%83%B3_(%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3)"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/cities/n_america/puerto-rico/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

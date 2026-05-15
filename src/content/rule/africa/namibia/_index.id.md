@@ -18,6 +18,10 @@ sc: [
     ["../botswana/", "Botswana"],
     ["../senegal/", "Senegal"],
     ]
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/cities/africa/namibia/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

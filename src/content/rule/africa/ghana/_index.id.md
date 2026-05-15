@@ -15,6 +15,10 @@ sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../reunion/", "Rﾃｩunion"],
     ]
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/cities/africa/ghana/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -1,0 +1,7 @@
+municipalities:
+  svg: "/maps/countries/puerto-rico.svg"
+  title:
+    ja: "プエルトリコ"
+    en: "Puerto Rico"
+  list:
+    - { code: "US-PR", name: "Puerto Rico", type: "territory" }

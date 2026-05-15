@@ -1,0 +1,11 @@
+municipalities:
+  svg: "/maps/countries/rwanda.svg"
+  title:
+    ja: "ルワンダの州"
+    en: "Provinces of Rwanda"
+  list:
+    - { code: "RW-02", name: "Eastern", type: "province" }
+    - { code: "RW-05", name: "Southern", type: "province" }
+    - { code: "RW-04", name: "Western", type: "province" }
+    - { code: "RW-03", name: "Northern", type: "province" }
+    - { code: "RW-01", name: "Kigali City", type: "province" }

@@ -32,6 +32,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB"
   - text: 'Cerca de 25% do território é designado como <span class="quiz">parques nacionais ou áreas de proteção</span>, com grande biodiversidade'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB#%E5%9C%B0%E7%90%86"
+related_quizzes_title: "Quizzes relacionados"
+related_quizzes: [
+    ["/pt/quiz/cities/n_america/costa-rica/", "Quiz de cidades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

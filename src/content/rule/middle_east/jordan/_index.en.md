@@ -26,6 +26,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%A9"
   - text: 'About 80% of the country is <span class="quiz">desert</span>, with extremely scarce water resources'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%AB%E3%83%80%E3%83%B3"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/cities/middle_east/jordan/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

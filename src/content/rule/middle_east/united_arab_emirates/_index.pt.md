@@ -33,6 +33,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4"
   - text: 'O arranha-céu mais alto do mundo, o <span class="quiz">Burj Khalifa</span>, fica em Dubai'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%95%E3%82%A1"
+related_quizzes_title: "Quizzes relacionados"
+related_quizzes: [
+    ["/pt/quiz/cities/middle_east/uae/", "Quiz de cidades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

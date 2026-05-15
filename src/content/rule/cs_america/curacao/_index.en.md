@@ -24,6 +24,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%A9%E3%82%BD%E3%83%BC"
   - text: 'The historic district of <span class="quiz">Willemstad</span>, lined with colorful buildings, is a UNESCO World Heritage Site'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AC%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%83%E3%83%88"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/cities/cs_america/curacao/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

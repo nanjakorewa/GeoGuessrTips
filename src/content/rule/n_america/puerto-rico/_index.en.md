@@ -31,6 +31,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3"
   - text: 'The 16th-century Spanish-built old town of <span class="quiz">San Juan</span> is a UNESCO World Heritage Site'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A2%E3%83%B3_(%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3)"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/cities/n_america/puerto-rico/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

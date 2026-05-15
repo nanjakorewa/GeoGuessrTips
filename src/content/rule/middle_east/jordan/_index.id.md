@@ -32,6 +32,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%A9"
   - text: 'Sekitar 80% wilayah negara berupa <span class="quiz">gurun</span> dengan sumber daya air yang sangat terbatas'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%AB%E3%83%80%E3%83%B3"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/cities/middle_east/jordan/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

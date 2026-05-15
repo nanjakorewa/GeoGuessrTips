@@ -39,13 +39,37 @@ while ((m = CITY_LINE_RE.exec(citiesTs)) !== null) {
   CITY_SLUGS.add(m[1] || m[2]);
 }
 
+// Countries that have a city quiz but no state quiz — pageDir + continent
+// kept here so we can target their rule pages. Slug matches the city-quiz
+// registry key (URL slug under /quiz/cities/{continent}/{slug}/).
+const CITY_ONLY_COUNTRIES = [
+  { slug: "paraguay",           continent: "cs_america",  pageDir: "cs_america/paraguay" },
+  { slug: "namibia",            continent: "africa",      pageDir: "africa/namibia" },
+  { slug: "ghana",              continent: "africa",      pageDir: "africa/ghana" },
+  { slug: "jordan",             continent: "middle_east", pageDir: "middle_east/jordan" },
+  { slug: "eswatini",           continent: "africa",      pageDir: "africa/eswatini" },
+  { slug: "lesotho",            continent: "africa",      pageDir: "africa/lesotho" },
+  { slug: "rwanda",             continent: "africa",      pageDir: "africa/rwanda" },
+  { slug: "costa-rica",         continent: "n_america",   pageDir: "n_america/costa_rica" },
+  { slug: "dominican-republic", continent: "n_america",   pageDir: "n_america/dominican-republic" },
+  { slug: "puerto-rico",        continent: "n_america",   pageDir: "n_america/puerto-rico" },
+  { slug: "curacao",            continent: "cs_america",  pageDir: "cs_america/curacao" },
+  { slug: "oman",               continent: "middle_east", pageDir: "middle_east/oman" },
+  { slug: "qatar",              continent: "middle_east", pageDir: "middle_east/qatar" },
+  { slug: "uae",                continent: "middle_east", pageDir: "middle_east/united_arab_emirates" },
+];
+
 // Build per-country quiz inventory
-const PLAN = COUNTRIES
+const stateCountriesPlan = COUNTRIES
   .map((c) => ({
     ...c,
     hasState: true, // by definition: it's in COUNTRIES
     hasCity: CITY_SLUGS.has(c.slug),
-  }))
+  }));
+const cityOnlyPlan = CITY_ONLY_COUNTRIES
+  .filter((c) => CITY_SLUGS.has(c.slug))
+  .map((c) => ({ ...c, hasState: false, hasCity: true }));
+const PLAN = [...stateCountriesPlan, ...cityOnlyPlan]
   .filter((c) => c.hasState || c.hasCity);
 
 // ── 3. Localized labels & URL builder
@@ -88,14 +112,17 @@ function processFile(filePath, lang, country) {
   const leadingWs = leadMatch ? leadMatch[1] : '';
   if (leadingWs) raw = raw.slice(leadingWs.length);
   if (!/^---\s*(\r?\n)/.test(raw)) return { status: 'no-frontmatter' };
-  if (/^related_quizzes_title\s*:/m.test(raw.slice(0, 8192))) {
-    return { status: 'already-has' };
-  }
   // Find end of frontmatter — first line after the opener that is exactly "---"
   const fmEndRe = /\r?\n---\s*(\r?\n|$)/g;
   fmEndRe.lastIndex = 3; // skip the opening "---"
   const endMatch = fmEndRe.exec(raw);
   if (!endMatch) return { status: 'no-frontmatter-end' };
+  // Idempotency: scan the actual frontmatter region (not just the first 8KB,
+  // which fails on files with long municipality lists in frontmatter).
+  const frontmatterText = raw.slice(0, endMatch.index);
+  if (/^related_quizzes_title\s*:/m.test(frontmatterText)) {
+    return { status: 'already-has' };
+  }
   // endMatch.index points to the "\n" before the closing "---"; we want to
   // insert AT that newline so the new lines appear before "---".
   const insertAt = endMatch.index + (endMatch[0].startsWith('\r\n') ? 2 : 1);

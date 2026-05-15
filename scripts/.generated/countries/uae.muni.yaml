@@ -1,0 +1,15 @@
+municipalities:
+  svg: "/maps/countries/uae.svg"
+  title:
+    ja: "アラブ首長国連邦の首長国"
+    en: "Emirates of the United Arab Emirates"
+  list:
+    - { code: "AE-FU", name: "Fujayrah", type: "emirate" }
+    - { code: "AE-SH", name: "Sharjah", type: "emirate" }
+    - { code: "AE-RK", name: "Ras Al Khaymah", type: "emirate" }
+    - { code: "AE-DU", name: "Dubay", type: "emirate" }
+    - { code: "AE-X01~", name: "Neutral Zone", type: "emirate" }
+    - { code: "AE-X02~", name: "Neutral Zone", type: "emirate" }
+    - { code: "AE-AZ", name: "Abu Dhabi", type: "emirate" }
+    - { code: "AE-UQ", name: "Umm Al Qaywayn", type: "emirate" }
+    - { code: "AE-AJ", name: "Ajman", type: "emirate" }

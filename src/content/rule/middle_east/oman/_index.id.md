@@ -35,6 +35,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E4%B9%B3%E9%A6%99"
   - text: 'Terletak di tenggara Semenanjung Arab, lokasi strategis yang menghadap <span class="quiz">Selat Hormuz</span>'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/cities/middle_east/oman/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

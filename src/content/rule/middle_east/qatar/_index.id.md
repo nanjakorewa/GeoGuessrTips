@@ -31,6 +31,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%AB"
   - text: 'Pada tahun 2022 menjadi tuan rumah <span class="quiz">Piala Dunia FIFA</span> pertama di Timur Tengah'
     ref: "https://ja.wikipedia.org/wiki/2022_FIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/cities/middle_east/qatar/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

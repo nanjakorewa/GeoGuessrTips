@@ -1,0 +1,17 @@
+municipalities:
+  svg: "/maps/countries/oman.svg"
+  title:
+    ja: "オマーンの県"
+    en: "Governorates of Oman"
+  list:
+    - { code: "OM-MU", name: "Musandam", type: "governorate" }
+    - { code: "OM-BA", name: "Al Batnah North", type: "governorate" }
+    - { code: "OM-BU", name: "Al Buraymi", type: "governorate" }
+    - { code: "OM-ZA", name: "Al Dhahira", type: "governorate" }
+    - { code: "OM-ZU", name: "Dhofar", type: "governorate" }
+    - { code: "OM-WU", name: "Al Wusta", type: "governorate" }
+    - { code: "OM-SH", name: "Ash Sharqiyah South", type: "governorate" }
+    - { code: "OM-SS", name: "Ash Sharqiyah North", type: "governorate" }
+    - { code: "OM-MA", name: "Muscat", type: "governorate" }
+    - { code: "OM-BJ", name: "Al Batnah South", type: "governorate" }
+    - { code: "OM-DA", name: "Ad Dakhliyah", type: "governorate" }

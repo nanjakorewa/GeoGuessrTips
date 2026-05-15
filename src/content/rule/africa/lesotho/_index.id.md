@@ -16,6 +16,10 @@ sc: [
     ["../eswatini/", "Eswatini"],
     ["../south-africa/", "Afrika Selatan"],
     ]
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/cities/africa/lesotho/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

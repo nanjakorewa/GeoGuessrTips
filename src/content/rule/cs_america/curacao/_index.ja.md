@@ -24,6 +24,10 @@ mapPins:
   - { lat: 12.378, lng: -69.158, label: "ウェストプント", type: "city", note: "島北西部のビーチが多いエリア" }
   - { lat: 12.064, lng: -68.864, label: "スパニッシュ・ウォーター", type: "port", note: "南東部の天然湾・マリーナ" }
   - { lat: 12.302, lng: -69.150, label: "シェテ・ボカ国立公園", type: "nature", note: "海食洞と荒波の海岸線で有名" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/cs_america/curacao/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

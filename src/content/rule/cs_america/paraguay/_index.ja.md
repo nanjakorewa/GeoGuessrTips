@@ -28,6 +28,10 @@ mapPins:
   - { lat: -27.333, lng: -55.867, label: "エンカルナシオン", type: "city", note: "アルゼンチン国境の南部都市" }
   - { lat: -25.408, lng: -54.589, label: "イタイプダム", type: "landmark", note: "世界最大級の水力発電ダム" }
   - { lat: -27.327, lng: -55.541, label: "イエズス会伝道所遺跡", type: "historical", note: "ラ・サンティシマ・トリニダの世界遺産" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/cs_america/paraguay/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

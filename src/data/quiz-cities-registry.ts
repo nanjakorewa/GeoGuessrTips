@@ -89,6 +89,20 @@ import { TUNISIA_CITIES,     TUNISIA_PROJECTION,     TUNISIA_META     } from "./
 import { KENYA_CITIES,       KENYA_PROJECTION,       KENYA_META       } from "./quiz-cities/kenya";
 import { SENEGAL_CITIES,     SENEGAL_PROJECTION,     SENEGAL_META     } from "./quiz-cities/senegal";
 import { ISRAEL_CITIES,      ISRAEL_PROJECTION,      ISRAEL_META      } from "./quiz-cities/israel";
+import { PARAGUAY_CITIES,    PARAGUAY_PROJECTION,    PARAGUAY_META    } from "./quiz-cities/paraguay";
+import { NAMIBIA_CITIES,     NAMIBIA_PROJECTION,     NAMIBIA_META     } from "./quiz-cities/namibia";
+import { GHANA_CITIES,       GHANA_PROJECTION,       GHANA_META       } from "./quiz-cities/ghana";
+import { JORDAN_CITIES,      JORDAN_PROJECTION,      JORDAN_META      } from "./quiz-cities/jordan";
+import { ESWATINI_CITIES,    ESWATINI_PROJECTION,    ESWATINI_META    } from "./quiz-cities/eswatini";
+import { LESOTHO_CITIES,     LESOTHO_PROJECTION,     LESOTHO_META     } from "./quiz-cities/lesotho";
+import { RWANDA_CITIES,      RWANDA_PROJECTION,      RWANDA_META      } from "./quiz-cities/rwanda";
+import { COSTA_RICA_CITIES,  COSTA_RICA_PROJECTION,  COSTA_RICA_META  } from "./quiz-cities/costa-rica";
+import { DOMINICAN_REPUBLIC_CITIES, DOMINICAN_REPUBLIC_PROJECTION, DOMINICAN_REPUBLIC_META } from "./quiz-cities/dominican-republic";
+import { PUERTO_RICO_CITIES, PUERTO_RICO_PROJECTION, PUERTO_RICO_META } from "./quiz-cities/puerto-rico";
+import { CURACAO_CITIES,     CURACAO_PROJECTION,     CURACAO_META     } from "./quiz-cities/curacao";
+import { OMAN_CITIES,        OMAN_PROJECTION,        OMAN_META        } from "./quiz-cities/oman";
+import { QATAR_CITIES,       QATAR_PROJECTION,       QATAR_META       } from "./quiz-cities/qatar";
+import { UAE_CITIES,         UAE_PROJECTION,         UAE_META         } from "./quiz-cities/uae";
 
 export interface CityQuizEntry {
   cities: CityEntry[];
@@ -177,6 +191,20 @@ export const CITY_QUIZ_REGISTRY: Record<string, CityQuizEntry> = {
   kenya:       { cities: KENYA_CITIES,       projection: KENYA_PROJECTION,       meta: KENYA_META },
   senegal:     { cities: SENEGAL_CITIES,     projection: SENEGAL_PROJECTION,     meta: SENEGAL_META },
   israel:      { cities: ISRAEL_CITIES,      projection: ISRAEL_PROJECTION,      meta: ISRAEL_META },
+  paraguay:    { cities: PARAGUAY_CITIES,    projection: PARAGUAY_PROJECTION,    meta: PARAGUAY_META },
+  namibia:     { cities: NAMIBIA_CITIES,     projection: NAMIBIA_PROJECTION,     meta: NAMIBIA_META },
+  ghana:       { cities: GHANA_CITIES,       projection: GHANA_PROJECTION,       meta: GHANA_META },
+  jordan:      { cities: JORDAN_CITIES,      projection: JORDAN_PROJECTION,      meta: JORDAN_META },
+  eswatini:    { cities: ESWATINI_CITIES,    projection: ESWATINI_PROJECTION,    meta: ESWATINI_META },
+  lesotho:     { cities: LESOTHO_CITIES,     projection: LESOTHO_PROJECTION,     meta: LESOTHO_META },
+  rwanda:      { cities: RWANDA_CITIES,      projection: RWANDA_PROJECTION,      meta: RWANDA_META },
+  "costa-rica":         { cities: COSTA_RICA_CITIES,         projection: COSTA_RICA_PROJECTION,         meta: COSTA_RICA_META },
+  "dominican-republic": { cities: DOMINICAN_REPUBLIC_CITIES, projection: DOMINICAN_REPUBLIC_PROJECTION, meta: DOMINICAN_REPUBLIC_META },
+  "puerto-rico":        { cities: PUERTO_RICO_CITIES,        projection: PUERTO_RICO_PROJECTION,        meta: PUERTO_RICO_META },
+  curacao:     { cities: CURACAO_CITIES,     projection: CURACAO_PROJECTION,     meta: CURACAO_META },
+  oman:        { cities: OMAN_CITIES,        projection: OMAN_PROJECTION,        meta: OMAN_META },
+  qatar:       { cities: QATAR_CITIES,       projection: QATAR_PROJECTION,       meta: QATAR_META },
+  uae:         { cities: UAE_CITIES,         projection: UAE_PROJECTION,         meta: UAE_META },
 };
 
 export const CITY_QUIZ_SLUGS = Object.keys(CITY_QUIZ_REGISTRY);

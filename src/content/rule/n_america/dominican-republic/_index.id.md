@@ -29,6 +29,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
   - text: 'Industri utamanya adalah <span class="quiz">pariwisata</span> serta pertanian seperti gula dan tembakau'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/cities/n_america/dominican-republic/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

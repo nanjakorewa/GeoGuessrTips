@@ -1,0 +1,10 @@
+municipalities:
+  svg: "/maps/countries/eswatini.svg"
+  title:
+    ja: "エスワティニの州"
+    en: "Regions of Eswatini"
+  list:
+    - { code: "SZ-LU", name: "Lubombo", type: "region" }
+    - { code: "SZ-HH", name: "Hhohho", type: "region" }
+    - { code: "SZ-MA", name: "Manzini", type: "region" }
+    - { code: "SZ-SH", name: "Shiselweni", type: "region" }

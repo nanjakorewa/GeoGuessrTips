@@ -28,6 +28,10 @@ mapPins:
   - { lat: -29.620, lng: 28.222, label: "タバ・ボシウ", type: "historical", note: "建国王モショエショエ1世の山上要塞" }
   - { lat: -29.470, lng: 28.768, label: "サニ・パス", type: "landmark", note: "ドラケンスバーグ山脈の峠・標高2,876m" }
   - { lat: -29.466, lng: 29.272, label: "タバナ・ントレニャナ", type: "nature", note: "南部アフリカ最高峰（3,482m）" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/africa/lesotho/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

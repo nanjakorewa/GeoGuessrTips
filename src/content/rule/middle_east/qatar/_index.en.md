@@ -31,6 +31,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%AB"
   - text: 'Hosted the first Middle Eastern <span class="quiz">FIFA World Cup</span> in 2022'
     ref: "https://ja.wikipedia.org/wiki/2022_FIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97"
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/cities/middle_east/qatar/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

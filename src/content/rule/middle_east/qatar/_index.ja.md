@@ -31,6 +31,10 @@ mapPins:
   - { lat: 25.412, lng: 50.842, label: "ドゥハーン", type: "city", note: "西海岸の石油生産地" }
   - { lat: 25.476, lng: 51.491, label: "アル・ラヤン", type: "city", note: "ドーハ西部の主要都市" }
   - { lat: 24.880, lng: 51.550, label: "メサイード", type: "port", note: "南部の工業港湾都市" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/middle_east/qatar/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

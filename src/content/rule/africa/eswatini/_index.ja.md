@@ -29,6 +29,10 @@ mapPins:
   - { lat: -26.530, lng: 31.198, label: "エズルウィニ渓谷", type: "nature", note: "観光と王宮の中心地域" }
   - { lat: -26.823, lng: 31.135, label: "ニャニャ", type: "city", note: "南部の主要都市・砂糖産業の拠点" }
   - { lat: -27.103, lng: 31.946, label: "ビッグ・ベンド", type: "city", note: "南東部ローベルトの町・サトウキビ栽培で有名" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/africa/eswatini/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

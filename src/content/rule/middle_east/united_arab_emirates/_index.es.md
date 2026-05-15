@@ -33,6 +33,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4"
   - text: 'El rascacielos más alto del mundo, <span class="quiz">Burj Khalifa</span>, se encuentra en Dubái'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%95%E3%82%A1"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/cities/middle_east/uae/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

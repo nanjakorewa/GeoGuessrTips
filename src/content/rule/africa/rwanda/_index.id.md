@@ -17,6 +17,10 @@ sc: [
     ["../uganda/", "Uganda"],
     ["../kenya/", "Kenya"],
     ]
+related_quizzes_title: "Kuis terkait"
+related_quizzes: [
+    ["/id/quiz/cities/africa/rwanda/", "Kuis tebak kota"],
+    ]
 ---
 
 <div class="main-desciption country-description">

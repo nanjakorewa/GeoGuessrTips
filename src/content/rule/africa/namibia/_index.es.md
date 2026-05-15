@@ -19,6 +19,10 @@ sc: [
     ["../botswana/", "Botsuana"],
     ["../../middle_east/oman/", "Omán"],
 ]
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/cities/africa/namibia/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

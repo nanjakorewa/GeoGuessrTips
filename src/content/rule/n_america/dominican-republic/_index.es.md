@@ -29,6 +29,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
   - text: 'Sus principales sectores son el <span class="quiz">turismo</span> y la agricultura, sobre todo la caña de azúcar y el tabaco'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/cities/n_america/dominican-republic/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

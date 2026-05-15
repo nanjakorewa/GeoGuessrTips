@@ -32,6 +32,10 @@ mapPins:
   - { lat: 9.976, lng: -83.034, label: "リモン", type: "port", note: "カリブ海岸の主要港湾都市" }
   - { lat: 10.463, lng: -84.703, label: "アレナル火山", type: "nature", note: "標高1,670mの活火山と国立公園" }
   - { lat: 8.481, lng: -83.581, label: "コルコバード国立公園", type: "nature", note: "オサ半島の生物多様性が豊かな熱帯雨林" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/n_america/costa-rica/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

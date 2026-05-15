@@ -15,6 +15,10 @@ sc_title: "Commonly Confused Regions"
 sc: [
     ["../reunion/", "Rﾃｩunion"],
 ]
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/cities/africa/ghana/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

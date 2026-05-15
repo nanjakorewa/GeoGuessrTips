@@ -29,6 +29,10 @@ mapPins:
   - { lat: 5.105, lng: -1.244, label: "ケープ・コースト", type: "historical", note: "世界遺産のケープ・コースト城・奴隷貿易遺産" }
   - { lat: 7.500, lng: 0.000, label: "ボルタ湖", type: "nature", note: "世界最大級の人造湖" }
   - { lat: 6.222, lng: -0.405, label: "アコソンボ・ダム", type: "landmark", note: "ボルタ川の水力発電ダム" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/africa/ghana/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -19,6 +19,10 @@ sc: [
     ["../../middle_east/oman/", "Oman"],
     ["../senegal/", "Senegal"],
     ]
+related_quizzes_title: "Related quizzes"
+related_quizzes: [
+    ["/en/quiz/cities/africa/namibia/", "City quiz"],
+    ]
 ---
 
 <div class="main-desciption country-description">

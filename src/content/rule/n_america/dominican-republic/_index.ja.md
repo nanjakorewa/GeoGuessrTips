@@ -29,6 +29,10 @@ mapPins:
   - { lat: 18.667, lng: -68.450, label: "プンタカナ", type: "city", note: "東岸の主要リゾート地" }
   - { lat: 19.778, lng: -70.692, label: "プエルト・プラタ", type: "port", note: "北岸の観光港湾都市" }
   - { lat: 19.020, lng: -71.000, label: "ピコ・ドゥアルテ", type: "nature", note: "カリブ海最高峰・標高3,098m" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/n_america/dominican-republic/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

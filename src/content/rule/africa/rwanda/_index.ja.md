@@ -31,6 +31,10 @@ mapPins:
   - { lat: -2.038, lng: 30.776, label: "ルワマガナ", type: "city", note: "東部の主要都市" }
   - { lat: -1.483, lng: 29.500, label: "ヴォルカン国立公園", type: "nature", note: "マウンテンゴリラ生息地" }
   - { lat: -2.000, lng: 29.000, label: "キブ湖", type: "nature", note: "アフリカ大湖群の一つ・西部国境湖" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/africa/rwanda/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

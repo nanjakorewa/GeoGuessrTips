@@ -1,0 +1,7 @@
+municipalities:
+  svg: "/maps/countries/curacao.svg"
+  title:
+    ja: "キュラソー"
+    en: "Curaçao"
+  list:
+    - { code: "CW-X01~", name: "Curaçao", type: "territory" }

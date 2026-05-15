@@ -28,6 +28,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B0%E3%82%A2%E3%82%A4"
   - text: 'A <span class="quiz">Itaipu</span>, na fronteira com o Brasil, é uma das maiores usinas hidrelétricas do mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%97%E3%83%80%E3%83%A0"
+related_quizzes_title: "Quizzes relacionados"
+related_quizzes: [
+    ["/pt/quiz/cities/cs_america/paraguay/", "Quiz de cidades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

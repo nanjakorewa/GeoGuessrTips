@@ -28,6 +28,10 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B0%E3%82%A2%E3%82%A4"
   - text: 'La <span class="quiz">represa de Itaipú</span>, en la frontera con Brasil, es una de las mayores centrales hidroeléctricas del mundo'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%97%E3%83%80%E3%83%A0"
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/cities/cs_america/paraguay/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

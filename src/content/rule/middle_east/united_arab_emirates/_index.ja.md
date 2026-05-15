@@ -33,6 +33,10 @@ mapPins:
   - { lat: 25.789, lng: 55.943, label: "ラアス・アル＝ハイマ", type: "city", note: "北部の首長国・観光地" }
   - { lat: 25.115, lng: 56.343, label: "フジャイラ", type: "port", note: "オマーン湾に面する東岸の港湾都市" }
   - { lat: 24.230, lng: 55.760, label: "アル・アイン", type: "historical", note: "オアシス都市・世界遺産の遺跡群" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/middle_east/uae/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

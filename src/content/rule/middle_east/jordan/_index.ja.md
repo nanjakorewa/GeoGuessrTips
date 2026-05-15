@@ -32,6 +32,10 @@ mapPins:
   - { lat: 29.532, lng: 35.006, label: "アカバ", type: "port", note: "紅海に面した唯一の港湾都市" }
   - { lat: 29.575, lng: 35.420, label: "ワディ・ラム", type: "nature", note: "赤い砂漠の景観・世界遺産" }
   - { lat: 31.500, lng: 35.500, label: "死海", type: "nature", note: "イスラエルとの国境にある塩湖" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/middle_east/jordan/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

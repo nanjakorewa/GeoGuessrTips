@@ -34,6 +34,10 @@ mapPins:
   - { lat: 24.339, lng: 56.730, label: "ソハール", type: "port", note: "北部の港湾・工業都市" }
   - { lat: 23.323, lng: 57.531, label: "バフラ要塞", type: "historical", note: "世界遺産の古代要塞" }
   - { lat: 22.700, lng: 59.000, label: "ワヒバ砂漠", type: "nature", note: "オマーン中部の広大な砂漠" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/middle_east/oman/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

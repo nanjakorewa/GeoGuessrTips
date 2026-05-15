@@ -15,6 +15,10 @@ sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../reunion/", "Reuniﾃｳn"],
 ]
+related_quizzes_title: "Cuestionarios relacionados"
+related_quizzes: [
+    ["/es/quiz/cities/africa/ghana/", "Quiz de ciudades"],
+    ]
 ---
 
 <div class="main-desciption country-description">

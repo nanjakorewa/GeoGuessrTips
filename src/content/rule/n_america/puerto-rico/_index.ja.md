@@ -31,6 +31,10 @@ mapPins:
   - { lat: 18.202, lng: -65.717, label: "ファハルド", type: "port", note: "東岸のヨットハーバー・離島フェリー拠点" }
   - { lat: 18.471, lng: -66.123, label: "エル・モロ要塞", type: "historical", note: "サン・フアン旧市街の世界遺産城塞" }
   - { lat: 18.314, lng: -65.792, label: "エル・ユンケ国立森林", type: "nature", note: "米国唯一の熱帯雨林国有林" }
+related_quizzes_title: "関連クイズ"
+related_quizzes: [
+    ["/quiz/cities/n_america/puerto-rico/", "都市当てクイズ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
