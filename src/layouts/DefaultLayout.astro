@@ -22,7 +22,10 @@ interface Props {
 }
 
 const { entry, lang, collection, hasContent = true } = Astro.props;
-const data = entry.data;
+// 言語ごとに frontmatter が異なるが、OSM ヒーロー（mapProvider/mapPins 等）の
+// 構造的データは JA 版にのみ書かれていることが多い。そのため非 JA ページでも
+// JA からフォールバックして同じデザインで表示できるよう、後段でマージする。
+let data: any = { ...entry.data };
 const site = "https://geopinning.space";
 const siteTitle = "GeoGuessrの攻略めも";
 const isHome = false;
@@ -119,6 +122,31 @@ for (const tLang of LANGUAGES) {
 
 // --- Sidebar tree ---
 const sectionEntries = await getCollection(collection as any);
+
+// --- 構造データを JA フロントマターからフォールバック ---
+// 言語非依存（または nameI18n を持つ）構造データは JA 版のみに書かれているケースが多い。
+// テキスト系（features/sc/maps/related_quizzes 等）は各言語ファイルの値を尊重し、
+// マップやムニシパリティなど「デザインに必須の構造データ」だけをここで補完する。
+if (lang !== "ja") {
+  const jaEntry = sectionEntries.find((e: any) => {
+    const eSlug = extractSlugFromId(e.id);
+    return eSlug === currentSlug && extractLangFromId(e.id) === "ja";
+  });
+  if (jaEntry) {
+    const jaData = (jaEntry as any).data;
+    data = {
+      ...data,
+      mapProvider: data.mapProvider ?? jaData.mapProvider,
+      mapPins: data.mapPins ?? jaData.mapPins,
+      mapCenter: data.mapCenter ?? jaData.mapCenter,
+      mapZoom: data.mapZoom ?? jaData.mapZoom,
+      mapRegions: data.mapRegions ?? jaData.mapRegions,
+      municipalities: data.municipalities ?? jaData.municipalities,
+      heroGallery: data.heroGallery ?? jaData.heroGallery,
+    };
+  }
+}
+
 const tree = buildContentTree(
   sectionEntries.map((e: any) => ({ id: e.id, data: e.data })),
   collection,
