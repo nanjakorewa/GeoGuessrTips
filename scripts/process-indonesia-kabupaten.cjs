@@ -141,6 +141,11 @@ function officialName(rawName, type) {
   const ov = NAME_OVERRIDES[rawName];
   if (ov && ov.kind === "kota-admin") return `Kota Administrasi ${name}`;
   if (name === "Kepulauan Seribu") return "Kabupaten Administrasi Kepulauan Seribu";
+  // GADM's NAME_2 sometimes already includes the "Kota " / "Kabupaten "
+  // prefix (e.g., "Kota Semarang", "Kota Bandung"). Guard against producing
+  // "Kota Kota Semarang" by skipping the prefix when it's already there.
+  const alreadyPrefixed = /^(Kota|Kabupaten)\s/i.test(name);
+  if (alreadyPrefixed) return name;
   if (type === "Kabupaten") return `Kabupaten ${name}`;
   if (type === "Kotamadya") return `Kota ${name}`;
   if (name === "Sabang") return "Kota Sabang";

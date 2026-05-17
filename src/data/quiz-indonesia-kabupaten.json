@@ -873,15 +873,6 @@
         "lat": -1.6222
       },
       {
-        "name": "Kota Kota Solok",
-        "shortName": "Kota Solok",
-        "province": "西スマトラ州",
-        "provinceId": "Sumatera Barat",
-        "provinceSlug": "sumatera-barat",
-        "lng": 100.5988,
-        "lat": -0.7589
-      },
-      {
         "name": "Kota Langsa",
         "shortName": "Langsa",
         "province": "アチェ州",
@@ -1042,6 +1033,15 @@
         "provinceSlug": "sumatera-utara",
         "lng": 98.7986,
         "lat": 1.7274
+      },
+      {
+        "name": "Kota Solok",
+        "shortName": "Kota Solok",
+        "province": "西スマトラ州",
+        "provinceId": "Sumatera Barat",
+        "provinceSlug": "sumatera-barat",
+        "lng": 100.5988,
+        "lat": -0.7589
       },
       {
         "name": "Kota Tanjung Balai",
@@ -1899,6 +1899,15 @@
         "lat": -6.1358
       },
       {
+        "name": "Kota Bandung",
+        "shortName": "Kota Bandung",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 107.6469,
+        "lat": -6.9104
+      },
+      {
         "name": "Kota Banjar",
         "shortName": "Banjar",
         "province": "西ジャワ州",
@@ -1917,6 +1926,15 @@
         "lat": -7.8371
       },
       {
+        "name": "Kota Bekasi",
+        "shortName": "Kota Bekasi",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 106.9732,
+        "lat": -6.2851
+      },
+      {
         "name": "Kota Blitar",
         "shortName": "Blitar",
         "province": "東ジャワ州",
@@ -1924,6 +1942,15 @@
         "provinceSlug": "jawa-timur",
         "lng": 112.215,
         "lat": -8.1393
+      },
+      {
+        "name": "Kota Bogor",
+        "shortName": "Kota Bogor",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 106.7937,
+        "lat": -6.5962
       },
       {
         "name": "Kota Cilegon",
@@ -1944,6 +1971,15 @@
         "lat": -6.8812
       },
       {
+        "name": "Kota Cirebon",
+        "shortName": "Kota Cirebon",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 108.5548,
+        "lat": -6.7493
+      },
+      {
         "name": "Kota Depok",
         "shortName": "Depok",
         "province": "西ジャワ州",
@@ -1953,43 +1989,7 @@
         "lat": -6.3886
       },
       {
-        "name": "Kota Kota Bandung",
-        "shortName": "Kota Bandung",
-        "province": "西ジャワ州",
-        "provinceId": "Jawa Barat",
-        "provinceSlug": "jawa-barat",
-        "lng": 107.6469,
-        "lat": -6.9104
-      },
-      {
-        "name": "Kota Kota Bekasi",
-        "shortName": "Kota Bekasi",
-        "province": "西ジャワ州",
-        "provinceId": "Jawa Barat",
-        "provinceSlug": "jawa-barat",
-        "lng": 106.9732,
-        "lat": -6.2851
-      },
-      {
-        "name": "Kota Kota Bogor",
-        "shortName": "Kota Bogor",
-        "province": "西ジャワ州",
-        "provinceId": "Jawa Barat",
-        "provinceSlug": "jawa-barat",
-        "lng": 106.7937,
-        "lat": -6.5962
-      },
-      {
-        "name": "Kota Kota Cirebon",
-        "shortName": "Kota Cirebon",
-        "province": "西ジャワ州",
-        "provinceId": "Jawa Barat",
-        "provinceSlug": "jawa-barat",
-        "lng": 108.5548,
-        "lat": -6.7493
-      },
-      {
-        "name": "Kota Kota Kediri",
+        "name": "Kota Kediri",
         "shortName": "Kota Kediri",
         "province": "東ジャワ州",
         "provinceId": "Jawa Timur",
@@ -1998,7 +1998,7 @@
         "lat": -7.8242
       },
       {
-        "name": "Kota Kota Madiun",
+        "name": "Kota Madiun",
         "shortName": "Kota Madiun",
         "province": "東ジャワ州",
         "provinceId": "Jawa Timur",
@@ -2007,7 +2007,7 @@
         "lat": -7.6305
       },
       {
-        "name": "Kota Kota Magelang",
+        "name": "Kota Magelang",
         "shortName": "Kota Magelang",
         "province": "中部ジャワ州",
         "provinceId": "Jawa Tengah",
@@ -2016,7 +2016,7 @@
         "lat": -7.492
       },
       {
-        "name": "Kota Kota Malang",
+        "name": "Kota Malang",
         "shortName": "Kota Malang",
         "province": "東ジャワ州",
         "provinceId": "Jawa Timur",
@@ -2025,7 +2025,7 @@
         "lat": -7.9764
       },
       {
-        "name": "Kota Kota Mojokerto",
+        "name": "Kota Mojokerto",
         "shortName": "Kota Mojokerto",
         "province": "東ジャワ州",
         "provinceId": "Jawa Timur",
@@ -2034,7 +2034,7 @@
         "lat": -7.4689
       },
       {
-        "name": "Kota Kota Pasuruan",
+        "name": "Kota Pasuruan",
         "shortName": "Kota Pasuruan",
         "province": "東ジャワ州",
         "provinceId": "Jawa Timur",
@@ -2043,7 +2043,7 @@
         "lat": -7.6553
       },
       {
-        "name": "Kota Kota Pekalongan",
+        "name": "Kota Pekalongan",
         "shortName": "Kota Pekalongan",
         "province": "中部ジャワ州",
         "provinceId": "Jawa Tengah",
@@ -2052,67 +2052,13 @@
         "lat": -6.9005
       },
       {
-        "name": "Kota Kota Probolinggo",
+        "name": "Kota Probolinggo",
         "shortName": "Kota Probolinggo",
         "province": "東ジャワ州",
         "provinceId": "Jawa Timur",
         "provinceSlug": "jawa-timur",
         "lng": 113.2089,
         "lat": -7.7797
-      },
-      {
-        "name": "Kota Kota Semarang",
-        "shortName": "Kota Semarang",
-        "province": "中部ジャワ州",
-        "provinceId": "Jawa Tengah",
-        "provinceSlug": "jawa-tengah",
-        "lng": 110.3889,
-        "lat": -7.0318
-      },
-      {
-        "name": "Kota Kota Sukabumi",
-        "shortName": "Kota Sukabumi",
-        "province": "西ジャワ州",
-        "provinceId": "Jawa Barat",
-        "provinceSlug": "jawa-barat",
-        "lng": 106.9057,
-        "lat": -6.9412
-      },
-      {
-        "name": "Kota Kota Surabaya",
-        "shortName": "Kota Surabaya",
-        "province": "東ジャワ州",
-        "provinceId": "Jawa Timur",
-        "provinceSlug": "jawa-timur",
-        "lng": 112.7157,
-        "lat": -7.2788
-      },
-      {
-        "name": "Kota Kota Tangerang",
-        "shortName": "Kota Tangerang",
-        "province": "バンテン州",
-        "provinceId": "Banten",
-        "provinceSlug": "banten",
-        "lng": 106.6523,
-        "lat": -6.1754
-      },
-      {
-        "name": "Kota Kota Tasikmalaya",
-        "shortName": "Kota Tasikmalaya",
-        "province": "西ジャワ州",
-        "provinceId": "Jawa Barat",
-        "provinceSlug": "jawa-barat",
-        "lng": 108.2176,
-        "lat": -7.3603
-      },
-      {
-        "name": "Kota Kota Tegal",
-        "shortName": "Kota Tegal",
-        "province": "中部ジャワ州",
-        "provinceId": "Jawa Tengah",
-        "provinceSlug": "jawa-tengah",
-        "lng": 109.1084,
-        "lat": -6.872
       },
       {
         "name": "Kota Salatiga",
@@ -2124,6 +2070,33 @@
         "lat": -7.343
       },
       {
+        "name": "Kota Semarang",
+        "shortName": "Kota Semarang",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 110.3889,
+        "lat": -7.0318
+      },
+      {
+        "name": "Kota Sukabumi",
+        "shortName": "Kota Sukabumi",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 106.9057,
+        "lat": -6.9412
+      },
+      {
+        "name": "Kota Surabaya",
+        "shortName": "Kota Surabaya",
+        "province": "東ジャワ州",
+        "provinceId": "Jawa Timur",
+        "provinceSlug": "jawa-timur",
+        "lng": 112.7157,
+        "lat": -7.2788
+      },
+      {
         "name": "Kota Surakarta",
         "shortName": "Surakarta",
         "province": "中部ジャワ州",
@@ -2131,6 +2104,33 @@
         "provinceSlug": "jawa-tengah",
         "lng": 110.8236,
         "lat": -7.5591
+      },
+      {
+        "name": "Kota Tangerang",
+        "shortName": "Kota Tangerang",
+        "province": "バンテン州",
+        "provinceId": "Banten",
+        "provinceSlug": "banten",
+        "lng": 106.6523,
+        "lat": -6.1754
+      },
+      {
+        "name": "Kota Tasikmalaya",
+        "shortName": "Kota Tasikmalaya",
+        "province": "西ジャワ州",
+        "provinceId": "Jawa Barat",
+        "provinceSlug": "jawa-barat",
+        "lng": 108.2176,
+        "lat": -7.3603
+      },
+      {
+        "name": "Kota Tegal",
+        "shortName": "Kota Tegal",
+        "province": "中部ジャワ州",
+        "provinceId": "Jawa Tengah",
+        "provinceSlug": "jawa-tengah",
+        "lng": 109.1084,
+        "lat": -6.872
       },
       {
         "name": "Kota Yogyakarta",
@@ -2424,6 +2424,15 @@
         "lat": -9.3543
       },
       {
+        "name": "Kota Bima",
+        "shortName": "Kota Bima",
+        "province": "西ヌサ・トゥンガラ州",
+        "provinceId": "Nusa Tenggara Barat",
+        "provinceSlug": "nusa-tenggara-barat",
+        "lng": 118.8047,
+        "lat": -8.4535
+      },
+      {
         "name": "Kota Denpasar",
         "shortName": "Denpasar",
         "province": "バリ州",
@@ -2433,16 +2442,7 @@
         "lat": -8.6663
       },
       {
-        "name": "Kota Kota Bima",
-        "shortName": "Kota Bima",
-        "province": "西ヌサ・トゥンガラ州",
-        "provinceId": "Nusa Tenggara Barat",
-        "provinceSlug": "nusa-tenggara-barat",
-        "lng": 118.8047,
-        "lat": -8.4535
-      },
-      {
-        "name": "Kota Kota Kupang",
+        "name": "Kota Kupang",
         "shortName": "Kota Kupang",
         "province": "東ヌサ・トゥンガラ州",
         "provinceId": "Nusa Tenggara Timur",
@@ -2633,15 +2633,6 @@
         "provinceSlug": "kalimantan-barat",
         "lng": 110.5415,
         "lat": -1.6831
-      },
-      {
-        "name": "Kabupaten Kota Baru",
-        "shortName": "Kota Baru",
-        "province": "南カリマンタン州",
-        "provinceId": "Kalimantan Selatan",
-        "provinceSlug": "kalimantan-selatan",
-        "lng": 115.9092,
-        "lat": -3.0762
       },
       {
         "name": "Kabupaten Kotawaringin Barat",
@@ -2876,6 +2867,15 @@
         "provinceSlug": "kalimantan-selatan",
         "lng": 114.5732,
         "lat": -3.3291
+      },
+      {
+        "name": "Kota Baru",
+        "shortName": "Kota Baru",
+        "province": "南カリマンタン州",
+        "provinceId": "Kalimantan Selatan",
+        "provinceSlug": "kalimantan-selatan",
+        "lng": 115.9092,
+        "lat": -3.0762
       },
       {
         "name": "Kota Bontang",
