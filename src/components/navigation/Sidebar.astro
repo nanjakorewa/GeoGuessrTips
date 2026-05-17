@@ -131,4 +131,19 @@ const treeHtml = tree.map((node) => renderTreeNode(node, currentUrl)).join("");
     </a>
     <p class="sidebar-ads__notice">画像をクリックすると Amazon 商品ページへ移動します</p>
   </aside>
+
+  {/* Sidebar bottom — Google AdSense responsive ad. The adsbygoogle.js
+      loader is already injected globally in <Head>, so we only need the
+      <ins> placeholder + the inline push() call. Hidden together with the
+      sidebar on mobile via the existing .sidebar breakpoint. */}
+  <aside class="sidebar-adsense" aria-label="広告">
+    <div class="sidebar-ads__label">広告</div>
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-3422749596492644"
+         data-ad-slot="8089186694"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script is:inline>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </aside>
 </div>

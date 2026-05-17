@@ -691,6 +691,18 @@ h2[id] {
   padding-top: 1rem;
   border-top: 1px solid var(--border-soft);
 }
+/* Sidebar bottom — Google AdSense responsive ad. Sits below the Amazon
+   block. Auto-sized by AdSense; we just provide a reasonable minimum height
+   so the rendered layout does not jump while the ad loads. */
+.sidebar-adsense {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-soft);
+}
+.sidebar-adsense ins.adsbygoogle {
+  display: block;
+  min-height: 250px;
+}
 .sidebar-ads__label {
   font-size: 0.7rem;
   color: #6c757d;
