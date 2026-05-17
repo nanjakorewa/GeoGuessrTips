@@ -1,86 +1,23 @@
 ---
 /**
- * Per-island kabupaten / kota quiz.
+ * Per-island kabupaten / kota quiz (default JA).
  *
  * Generates one page per major Indonesian island group (7 total). Loads the
- * kabupaten list (with their province) from
- * src/data/quiz-indonesia-kabupaten.json and renders a Leaflet pin-quiz via
- * <PinQuizPage>. The label under each pin includes the province so that
- * users learn the kabupaten ↔ province association as well.
+ * kabupaten list from src/data/quiz-indonesia-kabupaten.* and renders a
+ * Leaflet pin-quiz via <PinQuizPage>. The label under each pin includes the
+ * province so users learn the kabupaten ↔ province association as well.
  */
 import PinQuizPage from "@components/PinQuizPage.astro";
-import type { Language } from "@lib/i18n-utils";
-import islands from "../../../../../data/quiz-indonesia-kabupaten.json";
-
-interface ProvinceRef { slug: string; nameJa: string; nameId: string; }
-interface IslandData {
-  slug: string;
-  nameId: string;
-  nameJa: string;
-  bbox: [number, number, number, number] | null;
-  provinces: ProvinceRef[];
-  kabs: Array<{
-    name: string;
-    shortName: string;
-    province: string;
-    provinceId: string;
-    provinceSlug: string;
-    lat: number;
-    lng: number;
-  }>;
-}
+import { ISLANDS, buildKabupatenIslandProps, type IslandData } from "../../../../../data/quiz-indonesia-kabupaten";
 
 export async function getStaticPaths() {
-  const list = islands as IslandData[];
-  return list
+  return ISLANDS
     .filter((p) => p.kabs.length > 0 && p.bbox)
     .map((p) => ({ params: { island: p.slug }, props: { isle: p } }));
 }
 
 const { isle } = Astro.props as { isle: IslandData };
-const lang: Language = "ja";
-const site = "https://geopinning.space";
-const canonical = `${site}/quiz/states/asia/indonesia-kabupaten/${isle.slug}/`;
-
-const pageH1 = `${isle.nameJa}の kabupaten 当てクイズ`;
-const pageTitle = `${isle.nameJa}の kabupaten 当てクイズ｜地図でピンをクリック`;
-const pageDescription = `${isle.nameJa}（${isle.nameId}）に属する ${isle.provinces.length} 州・${isle.kabs.length} kabupaten / kota の位置を、地図上のピンから当てるクイズです。`;
-
-// Pins: code is "Province|ShortName" to keep them unique even when two
-// kabupaten share a short name across provinces.
-const pins = isle.kabs.map((k) => ({
-  code: `${k.provinceSlug}|${k.shortName}`,
-  name: k.name,
-  shortName: `${k.shortName}（${k.province}）`,
-  lat: k.lat,
-  lng: k.lng,
-}));
-
-const breadcrumbs = [
-  { name: "トップ", url: "/" },
-  { name: "クイズ", url: "/quiz/" },
-  { name: "州当てクイズ", url: "/quiz/states/" },
-  { name: "アジア", url: "/quiz/states/asia/" },
-  { name: "インドネシア（kabupaten 版）", url: "/quiz/states/asia/indonesia-kabupaten/" },
-  { name: isle.nameJa, url: canonical },
-];
-
-const provinceListHtml = isle.provinces
-  .map((p) => `<b>${p.nameJa}</b>（${p.nameId}）`)
-  .join("、");
-const lead = `${isle.nameJa}（インドネシア語: <b>${isle.nameId}</b>）に含まれる州：${provinceListHtml}。`;
+const props = buildKabupatenIslandProps("ja", isle);
 ---
 
-<PinQuizPage
-  lang={lang}
-  pageTitle={pageTitle}
-  pageDescription={pageDescription}
-  canonical={canonical}
-  pageH1={pageH1}
-  prompt="この kabupaten / kota はどこ？"
-  storageKey={`pq-best:indonesia-kabupaten-${isle.slug}`}
-  breadcrumbs={breadcrumbs}
-  pins={pins}
-  bbox={isle.bbox!}
-  lead={lead}
-/>
+<PinQuizPage {...props} />

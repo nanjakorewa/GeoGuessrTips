@@ -1,0 +1,29 @@
+---
+/**
+ * Per-island kabupaten / kota quiz (non-default lang).
+ * Mirrors the JA version at /quiz/states/asia/indonesia-kabupaten/{island}/.
+ */
+import PinQuizPage from "@components/PinQuizPage.astro";
+import { ISLANDS, buildKabupatenIslandProps, type IslandData } from "../../../../../../data/quiz-indonesia-kabupaten";
+import { NON_DEFAULT_LANGUAGES } from "../../../../../../data/quiz-states-page-data";
+import type { Language } from "@lib/i18n-utils";
+
+export async function getStaticPaths() {
+  const paths: any[] = [];
+  for (const lang of NON_DEFAULT_LANGUAGES) {
+    for (const isle of ISLANDS) {
+      if (!isle.kabs.length || !isle.bbox) continue;
+      paths.push({
+        params: { lang, island: isle.slug },
+        props: { lang, isle },
+      });
+    }
+  }
+  return paths;
+}
+
+const { lang, isle } = Astro.props as { lang: Language; isle: IslandData };
+const props = buildKabupatenIslandProps(lang, isle);
+---
+
+<PinQuizPage {...props} />

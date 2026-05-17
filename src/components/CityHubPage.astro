@@ -1,0 +1,225 @@
+---
+/**
+ * Shared city-quiz hub renderer.
+ *
+ * Lists every country with a city quiz, grouped by continent. Used by both
+ * /quiz/cities/ (default JA) and /[lang]/quiz/cities/.
+ */
+import { getCollection } from "astro:content";
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+import { CITY_QUIZ_REGISTRY } from "../data/quiz-cities-registry";
+import { getQuizI18n, quizPath, langPath } from "../data/quiz-states-i18n";
+import type { Language } from "@lib/i18n-utils";
+
+interface Props {
+  lang: Language;
+}
+
+const { lang } = Astro.props as Props;
+const t = getQuizI18n(lang);
+const site = "https://geopinning.space";
+const pageTitle = t.cityHub.pageTitle;
+const pageDescription = t.cityHub.pageDescription;
+const canonical = `${site}${quizPath(lang, "/quiz/cities/")}`;
+
+// Resolve country flags from the rule collection.
+const allRules = await getCollection("rule");
+const flagBy: Record<string, string> = {};
+for (const e of allRules) {
+  const m = e.id.match(/^([^/]+(?:\/[^/]+)+)\/_index\.ja$/);
+  if (!m) continue;
+  const dir = m[1];
+  if ((e.data as any).flag) flagBy[dir] = (e.data as any).flag as string;
+}
+
+interface CardEntry {
+  slug: string;
+  continent: string;
+  countryDisplay: string;
+  countryEn: string;
+  count: number;
+  flag: string;
+  href: string;
+}
+
+const entries: CardEntry[] = Object.entries(CITY_QUIZ_REGISTRY).map(([slug, data]) => {
+  const meta = data.meta;
+  const guessKeys = [
+    `${meta.continent}/${slug}`,
+    `${meta.continent}/${slug.replace("-", "_")}`,
+  ];
+  let flag = "";
+  for (const k of guessKeys) {
+    if (flagBy[k]) { flag = flagBy[k]; break; }
+  }
+  // JA uses the Japanese transliteration; other languages use the English name.
+  const countryDisplay = lang === "ja" ? meta.countryJa : meta.countryEn;
+  return {
+    slug,
+    continent: meta.continent,
+    countryDisplay,
+    countryEn: meta.countryEn,
+    count: data.cities.length,
+    flag,
+    href: quizPath(lang, `/quiz/cities/${meta.continent}/${slug}/`),
+  };
+});
+
+const CONTINENT_ORDER = ["n_america", "cs_america", "europe", "asia", "oceania", "middle_east", "africa"];
+const collator = new Intl.Collator(lang === "ja" ? "ja" : lang);
+const grouped = CONTINENT_ORDER
+  .map((slug) => ({
+    slug,
+    name: t.continents[slug as keyof typeof t.continents] ?? slug,
+    countries: entries
+      .filter((e) => e.continent === slug)
+      .sort((a, b) => collator.compare(a.countryDisplay, b.countryDisplay)),
+  }))
+  .filter((g) => g.countries.length > 0);
+
+const crumbs = [
+  { name: t.breadcrumbs.top, url: langPath(lang, "/") },
+  { name: t.breadcrumbs.quiz, url: langPath(lang, "/quiz/") },
+  { name: t.breadcrumbs.cities, url: canonical.replace(site, "") },
+];
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <Head
+    title={pageTitle}
+    description={pageDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={`${site}/images/icon-512x512.png`}
+    ogType="website"
+    breadcrumbs={crumbs}
+    collection="quiz"
+  />
+  <style is:global>
+    html, body { min-height: 100vh; }
+    body { display: flex; flex-direction: column; }
+    body > header { flex: 0 0 auto; }
+    body > main { flex: 1 0 auto; }
+    body > .site-footer, body > footer { flex: 0 0 auto; margin-top: 0; }
+
+    .cqh-page { max-width: 1100px; margin: 0 auto; padding: 1rem 1rem 2rem; }
+    .cqh-breadcrumb {
+      list-style: none; padding: 0; margin: 0 0 0.6rem;
+      display: flex; flex-wrap: wrap;
+      font-size: 0.78rem; color: rgba(60,60,60,0.7);
+    }
+    .cqh-breadcrumb li::after { content: "›"; margin: 0 0.4em; color: rgba(120,120,120,0.6); }
+    .cqh-breadcrumb li:last-child::after { content: ""; }
+    .cqh-breadcrumb a { color: inherit; text-decoration: none; }
+    .cqh-breadcrumb a:hover { text-decoration: underline; }
+
+    .cqh-title { font-size: 1.55rem; font-weight: 800; color: #1f3a5c; margin: 0 0 0.4rem; }
+    .cqh-lead { color: #4a5568; margin: 0 0 1.4rem; line-height: 1.65; font-size: 0.95rem; white-space: pre-line; }
+
+    .cqh-region { margin-bottom: 1.6rem; }
+    .cqh-region__label {
+      font-size: 0.85rem; font-weight: 700; color: #1f4d80;
+      letter-spacing: 0.05em; margin: 0 0 0.5rem;
+      padding-bottom: 0.3rem; border-bottom: 1px dashed #d6deea;
+    }
+    .cqh-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 0.7rem;
+    }
+    .cqh-card {
+      display: flex; align-items: center; gap: 0.7rem;
+      padding: 0.7rem 0.85rem;
+      background: #fff; border: 1px solid #d6deea;
+      text-decoration: none; color: inherit;
+      transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+    }
+    .cqh-card:hover {
+      transform: translateY(-2px);
+      border-color: #1f4d80;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+    .cqh-flag {
+      width: 56px; height: 38px; object-fit: contain;
+      background: #f6f9fd; border: 1px solid #e1e6ec;
+      flex-shrink: 0;
+    }
+    .cqh-flag--placeholder {
+      background: linear-gradient(135deg, rgba(68,110,114,0.08), rgba(68,110,114,0.03));
+    }
+    .cqh-body { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; }
+    .cqh-name { font-weight: 700; color: #1f3a5c; font-size: 1rem; }
+    .cqh-meta { font-size: 0.74rem; color: #6b7a8d; }
+
+    .cqh-content {
+      margin-top: 1.8rem; padding-top: 1rem;
+      border-top: 1px dashed #e1e6ec;
+      font-size: 0.78rem; color: #6b7a8d; line-height: 1.75;
+    }
+    .cqh-content__desc { margin: 0; }
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+
+  <main>
+    <div class="cqh-page">
+      <ol class="cqh-breadcrumb">
+        {crumbs.map((c, i) => (
+          <li>{i === crumbs.length - 1 ? c.name : <a href={c.url}>{c.name}</a>}</li>
+        ))}
+      </ol>
+
+      <h1 class="cqh-title">{t.cityHub.title}</h1>
+      <p class="cqh-lead">{t.cityHub.lead}</p>
+
+      <section class="cqh-region">
+        <div class="cqh-region__label">{t.breadcrumbs.japan}</div>
+        <div class="cqh-grid">
+          <a href={quizPath(lang, "/quiz/cities/japan/")} class="cqh-card">
+            <img src="/flags/JP.png" alt={t.flagAltFmt("Japan")} class="cqh-flag" loading="lazy" />
+            <div class="cqh-body">
+              <span class="cqh-name">{lang === "ja" ? "日本" : "Japan"}</span>
+              <span class="cqh-meta">{t.cityHub.japanCardSub}</span>
+            </div>
+          </a>
+        </div>
+      </section>
+
+      {grouped.map((g) => (
+        <section class="cqh-region">
+          <div class="cqh-region__label">{g.name}</div>
+          <div class="cqh-grid">
+            {g.countries.map((c) => (
+              <a href={c.href} class="cqh-card">
+                {c.flag
+                  ? <img src={`/flags/${c.flag}`} alt={t.flagAltFmt(c.countryDisplay)} class="cqh-flag" loading="lazy" />
+                  : <div class="cqh-flag cqh-flag--placeholder" aria-hidden="true"></div>
+                }
+                <div class="cqh-body">
+                  <span class="cqh-name">{c.countryDisplay}</span>
+                  <span class="cqh-meta">{t.cityHub.countLabelFmt(c.count)}</span>
+                </div>
+              </a>
+            ))}
+          </div>
+        </section>
+      ))}
+
+      <div class="cqh-content">
+        <p class="cqh-content__desc">{t.cityHub.contentDesc}</p>
+      </div>
+    </div>
+  </main>
+
+  <Footer lang={lang} title={t.cityHub.title} permalink={canonical} />
+  <SearchModal lang={lang} />
+</body>
+</html>

@@ -1,0 +1,16 @@
+---
+/**
+ * Indonesia kabupaten/kota quiz hub (non-default lang).
+ */
+import KabupatenHubPage from "@components/KabupatenHubPage.astro";
+import { NON_DEFAULT_LANGUAGES } from "../../../../../../data/quiz-states-page-data";
+import type { Language } from "@lib/i18n-utils";
+
+export async function getStaticPaths() {
+  return NON_DEFAULT_LANGUAGES.map((lang) => ({ params: { lang }, props: { lang } }));
+}
+
+const { lang } = Astro.props as { lang: Language };
+---
+
+<KabupatenHubPage lang={lang} />

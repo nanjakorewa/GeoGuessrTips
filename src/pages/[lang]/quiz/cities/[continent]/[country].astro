@@ -1,0 +1,50 @@
+---
+/**
+ * City quiz (non-default lang): /[lang]/quiz/cities/{continent}/{country}/
+ *
+ * Mirrors the JA version at /quiz/cities/{continent}/{country}/. Uses the
+ * shared <CityQuizPage> component with the language passed in.
+ */
+import fs from "node:fs";
+import path from "node:path";
+import CityQuizPage from "@components/CityQuizPage.astro";
+import { CITY_QUIZ_REGISTRY } from "../../../../../data/quiz-cities-registry";
+import { NON_DEFAULT_LANGUAGES } from "../../../../../data/quiz-states-page-data";
+import type { Language } from "@lib/i18n-utils";
+
+export async function getStaticPaths() {
+  const paths: any[] = [];
+  for (const lang of NON_DEFAULT_LANGUAGES) {
+    for (const [slug, data] of Object.entries(CITY_QUIZ_REGISTRY)) {
+      paths.push({
+        params: { lang, continent: data.meta.continent, country: slug },
+        props: {
+          lang,
+          slug,
+          cityList: data.cities,
+          projection: data.projection,
+          meta: data.meta,
+        },
+      });
+    }
+  }
+  return paths;
+}
+
+const { lang, slug, cityList, projection, meta } = Astro.props as {
+  lang: Language;
+  slug: string;
+  cityList: any[];
+  projection: any;
+  meta: any;
+};
+
+const svgFsPath = path.join(
+  process.cwd(),
+  "public",
+  meta.svgPath.replace(/^\/+/, ""),
+);
+const svgRaw = fs.readFileSync(svgFsPath, "utf8");
+---
+
+<CityQuizPage lang={lang} slug={slug} cityList={cityList} projection={projection} meta={meta} svgRaw={svgRaw} />
