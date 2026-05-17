@@ -568,6 +568,71 @@ export const translations: Record<string, Record<Language, string>> = {
     es: "Difícil",
     pt: "Difícil",
   },
+
+  // ── Quiz hub cards (cross-language) ──────────────────────────────────
+  quiz_hub_states_title: {
+    ja: "州当てクイズ",
+    en: "State Map Quiz",
+    id: "Kuis Peta Negara Bagian",
+    es: "Quiz de mapas de estados",
+    pt: "Quiz de mapas de estados",
+  },
+  quiz_hub_states_desc: {
+    ja: "出題された州・地域・市町村を地図上の正しい場所をクリックして当てよう。日本47県＋世界主要国に対応。",
+    en: "Click the highlighted state, region or municipality on the map. Covers all 47 Japanese prefectures plus major countries worldwide.",
+    id: "Klik provinsi/wilayah yang benar di peta. Mencakup 47 prefektur Jepang dan negara-negara utama di dunia.",
+    es: "Haz clic en el estado, región o municipio correcto en el mapa. Cubre las 47 prefecturas de Japón y los principales países del mundo.",
+    pt: "Clique no estado, região ou município correto no mapa. Cobre as 47 prefeituras do Japão e os principais países do mundo.",
+  },
+  quiz_hub_states_unit: {
+    ja: "ページ",
+    en: " pages",
+    id: " halaman",
+    es: " páginas",
+    pt: " páginas",
+  },
+  quiz_hub_cities_title: {
+    ja: "都市当てクイズ",
+    en: "City Map Quiz",
+    id: "Kuis Kota",
+    es: "Quiz de ciudades",
+    pt: "Quiz de cidades",
+  },
+  quiz_hub_cities_desc: {
+    ja: "地図上のオレンジ色のピンに対応する都市名カードを選ぶクイズ。世界各国の主要都市の位置を覚えよう。",
+    en: "Match the orange pin on the map to the right city-name card. Learn the locations of major cities around the world.",
+    id: "Cocokkan pin oranye di peta dengan kartu nama kota yang tepat. Pelajari lokasi kota-kota utama dunia.",
+    es: "Asocia el pin naranja del mapa con la tarjeta de la ciudad correcta. Aprende dónde están las principales ciudades del mundo.",
+    pt: "Associe o pin laranja do mapa ao cartão da cidade correto. Aprenda as localizações das principais cidades do mundo.",
+  },
+  quiz_hub_cities_unit: {
+    ja: "か国",
+    en: " countries",
+    id: " negara",
+    es: " países",
+    pt: " países",
+  },
+  quiz_hub_kabupaten_title: {
+    ja: "kabupaten 当てクイズ",
+    en: "Indonesia Kabupaten Quiz",
+    id: "Kuis Kabupaten Indonesia",
+    es: "Quiz de kabupaten de Indonesia",
+    pt: "Quiz de kabupaten da Indonésia",
+  },
+  quiz_hub_kabupaten_desc: {
+    ja: "インドネシアの7つの島・諸島ごとに、kabupaten / kota（県・市）の位置を地図上のピンから当てるクイズ。",
+    en: "Match each kabupaten / kota (regency / city) of Indonesia to its location on the map, grouped by the seven major islands.",
+    id: "Cocokkan tiap kabupaten / kota Indonesia dengan lokasinya di peta, dikelompokkan menurut tujuh pulau utama.",
+    es: "Asocia cada kabupaten / kota (regencia / ciudad) de Indonesia con su ubicación, agrupado por las siete islas mayores.",
+    pt: "Associe cada kabupaten / kota (regência / cidade) da Indonésia à sua localização, agrupados pelas sete ilhas principais.",
+  },
+  quiz_hub_kabupaten_unit: {
+    ja: "島",
+    en: " islands",
+    id: " pulau",
+    es: " islas",
+    pt: " ilhas",
+  },
 };
 
 /**

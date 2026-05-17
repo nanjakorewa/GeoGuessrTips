@@ -88,43 +88,61 @@ const groups = groupEntries.map((g: any) => {
   };
 });
 
-// Interactive (client-side) quizzes that are not part of the content collection.
-// Only surfaced on the Japanese hub for now since the dataset is JP-only.
+// Interactive (client-side) quizzes that are not part of the content
+// collection. State quiz and city quiz are available in every language;
+// the Japan-specific ones (japan features, municipality, area-code, highway)
+// stay JA-only since their dataset is Japan-only.
+
+// 州当てクイズ: count countries+prefectures with municipality data.
+const ruleEntries = await getCollection("rule");
+const stateQuizPages = ruleEntries.filter(
+  (e: any) =>
+    extractLangFromId(e.id) === "ja" && (e.data as any).municipalities,
+);
+groups.push({
+  title: t("quiz_hub_states_title", lang),
+  description: t("quiz_hub_states_desc", lang),
+  icon: "",
+  image: "/images/quiz-cover/03.jpg",
+  url: lang === DEFAULT_LANG ? "/quiz/states/" : `/${lang}/quiz/states/`,
+  count: stateQuizPages.length,
+  unit: t("quiz_hub_states_unit", lang),
+  diffs: [0, 0, 0, 0],
+});
+
+// 都市当てクイズ: count countries that have a city-quiz registry entry.
+const { CITY_QUIZ_REGISTRY } = await import("../data/quiz-cities-registry");
+const cityCountryCount = Object.keys(CITY_QUIZ_REGISTRY).length;
+groups.push({
+  title: t("quiz_hub_cities_title", lang),
+  description: t("quiz_hub_cities_desc", lang),
+  icon: "",
+  image: "/images/quiz-cover/01.jpg",
+  url: lang === DEFAULT_LANG ? "/quiz/cities/" : `/${lang}/quiz/cities/`,
+  count: cityCountryCount,
+  unit: t("quiz_hub_cities_unit", lang),
+  diffs: [0, 0, 0, 0],
+});
+
+// kabupaten 当てクイズ: 7 island groups.
+const { default: kabIslands } = await import("../data/quiz-indonesia-kabupaten.json");
+const kabIslandCount = (kabIslands as any[]).length;
+groups.push({
+  title: t("quiz_hub_kabupaten_title", lang),
+  description: t("quiz_hub_kabupaten_desc", lang),
+  icon: "",
+  image: "/images/quiz-cover/state/asia.jpg",
+  url: lang === DEFAULT_LANG
+    ? "/quiz/states/asia/indonesia-kabupaten/"
+    : `/${lang}/quiz/states/asia/indonesia-kabupaten/`,
+  count: kabIslandCount,
+  unit: t("quiz_hub_kabupaten_unit", lang),
+  diffs: [0, 0, 0, 0],
+});
+
+// Japan-only quizzes — only surfaced on the JA hub since the datasets are
+// Japan-only (no localized dataset exists).
 if (lang === "ja") {
-  // 州当てクイズ: count countries+prefectures with municipality data.
-  // Each card on /quiz/states/ links to one of these pages.
-  const ruleEntries = await getCollection("rule");
-  const stateQuizPages = ruleEntries.filter(
-    (e: any) =>
-      extractLangFromId(e.id) === "ja" && (e.data as any).municipalities,
-  );
-  groups.push({
-    title: "州当てクイズ",
-    description:
-      "出題された州・地域・市町村を地図上の正しい場所をクリックして当てよう。日本47県＋世界主要国に対応。",
-    icon: "",
-    image: "/images/quiz-cover/03.jpg",
-    url: "/quiz/states/",
-    count: stateQuizPages.length,
-    unit: "ページ",
-    diffs: [0, 0, 0, 0],
-  });
-
-  // 都市当てクイズ: count countries that have a city-quiz registry entry.
-  const { CITY_QUIZ_REGISTRY } = await import("../data/quiz-cities-registry");
-  const cityCountryCount = Object.keys(CITY_QUIZ_REGISTRY).length;
-  groups.push({
-    title: "都市当てクイズ",
-    description:
-      "地図上のオレンジ色のピンに対応する都市名カードを選ぶクイズ。世界各国の主要都市の位置を覚えよう。",
-    icon: "",
-    image: "/images/quiz-cover/01.jpg",
-    url: "/quiz/cities/",
-    count: cityCountryCount,
-    unit: "か国",
-    diffs: [0, 0, 0, 0],
-  });
-
   // 日本地理クイズ: ダム・山脈・平野・半島・河川 5カテゴリへの入口。
   const { JAPAN_FEATURES_REGISTRY } = await import("../data/quiz-japan-features-registry");
   const japanFeatureCount = Object.values(JAPAN_FEATURES_REGISTRY)
