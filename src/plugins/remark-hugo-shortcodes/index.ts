@@ -51,17 +51,22 @@ import { COUNTRIES } from "../../data/quiz-states-countries.ts";
  * page exists for it. Returns null when there's no matching quiz page
  * (the renderer then omits the CTA).
  */
-function deriveQuizUrl(ruleSlug: string | null): string | null {
+function deriveQuizUrl(ruleSlug: string | null, lang: Language = "ja"): string | null {
   if (!ruleSlug) return null;
+
+  // Non-JA pages get the /{lang}/ prefix. The quiz pages at /quiz/states/...
+  // and /quiz/cities/japan/... all have parallel routes under /[lang]/, so
+  // pointing the CTA at the same-language quiz page is safe.
+  const prefix = lang === "ja" ? "" : `/${lang}`;
 
   // Japan prefecture: asia/japan/{region}/{pref} → /quiz/cities/japan/{pref}/
   const prefMatch = ruleSlug.match(/^asia\/japan\/[^/]+\/([^/]+)$/);
-  if (prefMatch) return `/quiz/cities/japan/${prefMatch[1]}/`;
+  if (prefMatch) return `${prefix}/quiz/cities/japan/${prefMatch[1]}/`;
 
   // Country page: look up by pageDir to honor slug remappings (e.g. the
   // Vietnam rule page lives at asia/vietnum but the quiz at asia/vietnam).
   const country = COUNTRIES.find((c) => c.pageDir === ruleSlug);
-  if (country) return `/quiz/states/${country.continent}/${country.slug}/`;
+  if (country) return `${prefix}/quiz/states/${country.continent}/${country.slug}/`;
 
   return null;
 }
@@ -145,6 +150,29 @@ function getFrontmatterFromVFile(vfile: VFile): Record<string, any> {
 }
 
 /**
+ * For non-JA rule pages, load the JA sibling's frontmatter so the markdown
+ * processor can reuse structural fields (currently just `municipalities`,
+ * but ready for future merges). Returns null if the current file is JA, or
+ * if the sibling can't be read.
+ */
+function getJaFrontmatterFallback(vfile: VFile): Record<string, any> | null {
+  const filePath =
+    (vfile as any).path || (vfile as any).history?.[0] || "";
+  if (!filePath) return null;
+  if (/\.ja\.md$/.test(filePath)) return null;
+  const jaPath = filePath.replace(/\.(en|id|es|pt)\.md$/, ".ja.md");
+  if (jaPath === filePath) return null;
+  try {
+    const content = fs.readFileSync(jaPath, "utf-8");
+    const m = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+    if (!m) return null;
+    return (yaml.load(m[1]) as Record<string, any>) || null;
+  } catch {
+    return null;
+  }
+}
+
+/**
  * Process all shortcodes in a text string.
  * Order matters: inner shortcodes must be processed before outer ones.
  */
@@ -211,7 +239,7 @@ function processAllShortcodes(
   //     just before those layout-injected reference blocks (i.e. as the
   //     last user-content section).
   if (municipalities) {
-    const quizUrl = deriveQuizUrl(ruleSlug);
+    const quizUrl = deriveQuizUrl(ruleSlug, lang);
     const muniHtml = renderMunicipalitiesHtml(
       municipalities,
       pageTitle,
@@ -373,10 +401,21 @@ const remarkHugoShortcodes: Plugin<[], Root> = function () {
         : [];
       const prefInfo: PrefInfoData | null =
         fm.prefInfo && typeof fm.prefInfo === "object" ? fm.prefInfo : null;
-      const municipalities: MunicipalitiesData | null =
+      // Most non-JA rule frontmatters omit `municipalities` since the field
+      // is structurally identical across languages (codes + nameI18n carry
+      // localised names). Fall back to the JA sibling file so non-JA pages
+      // (e.g. /en/rule/europe/spain/) still get the municipality section +
+      // "Try the quiz" CTA at the end of the page.
+      let municipalities: MunicipalitiesData | null =
         fm.municipalities && typeof fm.municipalities === "object"
           ? fm.municipalities
           : null;
+      if (!municipalities) {
+        const fmJa = getJaFrontmatterFallback(file);
+        if (fmJa && typeof fmJa.municipalities === "object" && fmJa.municipalities) {
+          municipalities = fmJa.municipalities as MunicipalitiesData;
+        }
+      }
       const processed = processAllShortcodes(
         doc,
         lang,

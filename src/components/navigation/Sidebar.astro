@@ -8,9 +8,19 @@ interface Props {
   tree: TreeNode[];
   currentUrl: string;
   bgf?: boolean;
+  /**
+   * Number of AdSense responsive ad units to render at the bottom of the
+   * sidebar (1–3). Long content pages can fit 2–3 units in the empty space
+   * below the navigation tree; short section pages should stay at 1.
+   */
+  adCount?: number;
 }
 
-const { lang, tree, currentUrl, bgf = false } = Astro.props;
+const { lang, tree, currentUrl, bgf = false, adCount = 1 } = Astro.props;
+// Clamp to a sane range; AdSense policy permits multiple units per page
+// but stacking too many in a single visible region is bad UX + may degrade
+// fill rate.
+const adSlots = Math.max(1, Math.min(3, adCount));
 const baseUrl = lang === "ja" ? "/" : `/${lang}/`;
 
 function isExpanded(node: TreeNode, currentUrl: string): boolean {
@@ -132,18 +142,26 @@ const treeHtml = tree.map((node) => renderTreeNode(node, currentUrl)).join("");
     <p class="sidebar-ads__notice">画像をクリックすると Amazon 商品ページへ移動します</p>
   </aside>
 
-  {/* Sidebar bottom — Google AdSense responsive ad. The adsbygoogle.js
+  {/* Sidebar bottom — Google AdSense responsive ad units. The adsbygoogle.js
       loader is already injected globally in <Head>, so we only need the
-      <ins> placeholder + the inline push() call. Hidden together with the
-      sidebar on mobile via the existing .sidebar breakpoint. */}
+      <ins> placeholder + the inline push() call per slot. The number of
+      units is controlled by adCount (1–3) and decided server-side from the
+      page's body length in DefaultLayout, so very long pages can fill the
+      empty space below the navigation tree without stacking ads on short
+      pages. Hidden together with the sidebar on mobile via .sidebar's
+      breakpoint. */}
   <aside class="sidebar-adsense" aria-label="広告">
     <div class="sidebar-ads__label">広告</div>
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-3422749596492644"
-         data-ad-slot="8089186694"
-         data-ad-format="auto"
-         data-full-width-responsive="true"></ins>
-    <script is:inline>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    {Array.from({ length: adSlots }).map(() => (
+      <div class="sidebar-adsense__slot">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3422749596492644"
+             data-ad-slot="8089186694"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script is:inline>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      </div>
+    ))}
   </aside>
 </div>

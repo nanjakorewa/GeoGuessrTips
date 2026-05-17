@@ -36,7 +36,15 @@ export interface MunicipalitiesData {
   list: MunicipalityItem[];
 }
 
-/** Pick a string from a possibly-i18n value. */
+/** Pick a string from a possibly-i18n value.
+ *
+ * Fallback order:
+ *   1. value[lang] — explicit translation for the current language
+ *   2. value.en — for non-JA pages, prefer English over Japanese so users
+ *      don't suddenly see Japanese characters when a translation is missing
+ *   3. value.ja — universal fallback
+ *   4. fallback — caller-supplied default (typically an auto-template)
+ */
 function localized(
   value: string | Record<string, string> | undefined,
   lang: Language,
@@ -44,7 +52,9 @@ function localized(
 ): string {
   if (!value) return fallback;
   if (typeof value === "string") return value;
-  return value[lang] ?? value.ja ?? value.en ?? fallback;
+  if (value[lang]) return value[lang];
+  if (lang !== "ja" && value.en) return value.en;
+  return value.ja ?? value.en ?? fallback;
 }
 
 const TITLE: Record<Language, (name: string) => string> = {

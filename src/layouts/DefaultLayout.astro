@@ -346,6 +346,26 @@ const needsJQuery36 = !!data.import_jquery_36;
 const useOSMHero = data.mapProvider === "osm";
 const needsJSMaps = !useOSMHero && (!!data.mapName || !!data.map_index);
 const isQuizPage = data.pagetype === "quiz";
+
+// --- Sidebar ad density ---
+// Long content pages leave a lot of empty space below the navigation tree
+// in the sidebar. Render extra AdSense units there so the gap is not empty,
+// scaling with the page's markdown body length.
+//
+// Thresholds derived from sampling: a short section index is ~200 chars,
+// a typical country page ~5k, and the longest prefecture pages are ~25k+.
+// We add a tier for hero-heavy pages too (mapPins + heroGallery roughly
+// each contribute ~1 sidebar-ad's worth of visible height).
+const bodyChars = (entry.body || "").length;
+const heroBonus =
+  (Array.isArray(data.mapPins) ? data.mapPins.length : 0) * 80 +
+  (Array.isArray(data.heroGallery) ? data.heroGallery.length : 0) * 200;
+// Thresholds calibrated from real entry.body.length values: a section index
+// is ~50 chars, a typical mid-size country page ~1500–3000, and the longest
+// prefecture pages ~7000+ (JS string length is UTF-16 code units; one
+// Japanese character is one unit).
+const contentScore = bodyChars + heroBonus;
+const sidebarAdCount = contentScore >= 4000 ? 3 : contentScore >= 1200 ? 2 : 1;
 // /rule/ ルートのワールドマップは OSM ではないが、OSM ヒーローと同等の見た目
 // (タイトル左 / マップ右 / 紺色フルブリード / パンくずを下部に) にしたい。
 // 影響範囲を最小化するため、コレクションのルート (currentSlug が空) で
@@ -790,7 +810,7 @@ const lastmodDisplay = modifiedTime
         {/* Sidebar (hidden for quiz pages) */}
         {!isQuizPage && (
           <div class="col-lg-3">
-            <Sidebar lang={lang} tree={tree} currentUrl={currentUrl} bgf={!!data.bgf} />
+            <Sidebar lang={lang} tree={tree} currentUrl={currentUrl} bgf={!!data.bgf} adCount={sidebarAdCount} />
           </div>
         )}
 

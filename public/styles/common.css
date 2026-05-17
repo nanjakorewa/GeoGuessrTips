@@ -703,6 +703,11 @@ h2[id] {
   display: block;
   min-height: 250px;
 }
+.sidebar-adsense__slot + .sidebar-adsense__slot {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px dashed var(--border-soft);
+}
 .sidebar-ads__label {
   font-size: 0.7rem;
   color: #6c757d;
