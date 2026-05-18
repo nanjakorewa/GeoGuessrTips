@@ -40,7 +40,6 @@ features:
 related_quizzes_title: "Kuis terkait"
 related_quizzes: [
     ["/id/quiz/states/asia/russia/", "Kuis tebak provinsi"],
-    ["/id/quiz/cities/asia/russia/", "Kuis tebak kota"],
     ]
 ---
 

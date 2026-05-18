@@ -24,7 +24,7 @@ mapPins:
   <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">炭素繊維（カーボンファイバー）の織物。航空機・自動車・風力発電翼など幅広い用途で需要が拡大しており、日本の東レ・帝人・三菱ケミカルが世界の高性能PAN系炭素繊維市場でトップシェアを握っています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Carbon_fiber_material.jpg" target="_blank" rel="noopener noreferrer">texdata.com / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
 </figure>
 
-[日本](/rule/asia/japan/)の繊維産業は、戦後の織機・紡糸技術革新により世界最大級の地位を確立しました。現在、[日本](/rule/asia/japan/)は<span style="font-weight:700">高性能繊維と炭素繊維複合材で世界をリード</span>し、とりわけ<span style="font-weight:700">炭素繊維（PAN系）の世界市場シェアの約50～60%を占める</span>{{% cite "toray_ir" %}}{{% cite "teijin_cf_capacity" %}}主要メーカーを擁しています。一方、ポリエステル・ナイロン・アクリルなどの一般合成繊維は1980年代以来、製造基盤が減少し、[中国](/rule/asia/china/)・[ベトナム](/rule/asia/vietnam/)・[インドネシア](/rule/asia/indonesia/)などへの生産シフトが進んでいます。
+[日本](/rule/asia/japan/)の繊維産業は、戦後の織機・紡糸技術革新により世界最大級の地位を確立しました。現在、[日本](/rule/asia/japan/)は<span style="font-weight:700">高性能繊維と炭素繊維複合材で世界をリード</span>し、とりわけ<span style="font-weight:700">炭素繊維（PAN系）の世界市場シェアの約50～60%を占める</span>{{% cite "toray_ir" %}}{{% cite "teijin_cf_capacity" %}}主要メーカーを擁しています。一方、ポリエステル・ナイロン・アクリルなどの一般合成繊維は1980年代以来、製造基盤が減少し、[中国](/rule/asia/china/)・[ベトナム](/rule/asia/vietnum/)・[インドネシア](/rule/asia/indonesia/)などへの生産シフトが進んでいます。
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">3社</div><div class="stat-label">世界炭素繊維市場の50～60%を支配（東レ・帝人・三菱ケミカル）</div></div>
@@ -63,7 +63,7 @@ mapPins:
 
 ### ポリエステル・ナイロン・アクリルの衰退
 
-[日本](/rule/asia/japan/)は1960～1980年代、ポリエステル・ナイロン・アクリルなどの汎用合成繊維で世界最大級の生産国でした。しかし<span style="font-weight:700">1980年代以降、低賃金国（[中国](/rule/asia/china/)・[ベトナム](/rule/asia/vietnam/)・[インドネシア](/rule/asia/indonesia/)）への生産シフト</span>が加速し、[日本](/rule/asia/japan/)国内の一般合成繊維生産能力は大幅に縮小されています。現在、[日本](/rule/asia/japan/)の主要メーカーは以下のような<span style="font-weight:700">高機能・高差別化繊維</span>へシフトしました：
+[日本](/rule/asia/japan/)は1960～1980年代、ポリエステル・ナイロン・アクリルなどの汎用合成繊維で世界最大級の生産国でした。しかし<span style="font-weight:700">1980年代以降、低賃金国（[中国](/rule/asia/china/)・[ベトナム](/rule/asia/vietnum/)・[インドネシア](/rule/asia/indonesia/)）への生産シフト</span>が加速し、[日本](/rule/asia/japan/)国内の一般合成繊維生産能力は大幅に縮小されています。現在、[日本](/rule/asia/japan/)の主要メーカーは以下のような<span style="font-weight:700">高機能・高差別化繊維</span>へシフトしました：
 
 - <span style="font-weight:700">炭素繊維（Carbon Fiber）</span> — 東レ・帝人・三菱ケミカル（航空・風力・スポーツ）
 - <span style="font-weight:700">アラミド繊維（Aramid）</span> — 帝人Twaron（防弾・保護服、DuPont Kevlar と競合）

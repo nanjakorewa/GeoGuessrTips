@@ -473,7 +473,6 @@ municipalities:
 related_quizzes_title: "関連クイズ"
 related_quizzes: [
     ["/quiz/states/asia/russia/", "州当てクイズ"],
-    ["/quiz/cities/asia/russia/", "都市当てクイズ"],
     ]
 ---
 

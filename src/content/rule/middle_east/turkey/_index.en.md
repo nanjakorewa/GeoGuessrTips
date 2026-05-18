@@ -36,7 +36,6 @@ features:
 related_quizzes_title: "Related quizzes"
 related_quizzes: [
     ["/en/quiz/states/middle_east/turkey/", "State quiz"],
-    ["/en/quiz/cities/middle_east/turkey/", "City quiz"],
     ]
 ---
 

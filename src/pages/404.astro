@@ -15,38 +15,55 @@ const langMatch = pathname.match(/^\/(en|id|es|pt)(\/|$)/);
 const lang: Language = langMatch ? (langMatch[1] as Language) : DEFAULT_LANG;
 const homeUrl = lang === DEFAULT_LANG ? "/" : `/${lang}/`;
 
-const messages: Record<Language, { heading: string; code: string; body: string; link: string }> = {
+const messages: Record<Language, { heading: string; code: string; body: string; link: string; devNoteBefore: string; devNoteLink: string; devNoteAfter: string }> = {
   ja: {
     heading: "ページが見つかりません",
     code: "404",
     body: "お探しのページは移動または削除された可能性があります。",
     link: "トップページへ戻る",
+    devNoteBefore: "もしあなたが開発者ならば、",
+    devNoteLink: "GitHub の issue",
+    devNoteAfter: "にどこをクリックしたら 404 になったかを記載していただけると大変助かります。",
   },
   en: {
     heading: "Page not found",
     code: "404",
     body: "The page you are looking for may have been moved or deleted.",
     link: "Back to homepage",
+    devNoteBefore: "If you are a developer, it would be a great help if you could report on ",
+    devNoteLink: "GitHub issues",
+    devNoteAfter: " which link led you to this 404 page.",
   },
   id: {
     heading: "Halaman tidak ditemukan",
     code: "404",
     body: "Halaman yang Anda cari mungkin telah dipindahkan atau dihapus.",
     link: "Kembali ke beranda",
+    devNoteBefore: "Jika Anda seorang pengembang, akan sangat membantu jika Anda melaporkan di ",
+    devNoteLink: "GitHub issue",
+    devNoteAfter: " tautan mana yang menuju halaman 404 ini.",
   },
   es: {
     heading: "Pagina no encontrada",
     code: "404",
     body: "La pagina que buscas pudo haber sido movida o eliminada.",
     link: "Volver al inicio",
+    devNoteBefore: "Si eres desarrollador, seria de gran ayuda que reportaras en los ",
+    devNoteLink: "issues de GitHub",
+    devNoteAfter: " que enlace te llevo a esta pagina 404.",
   },
   pt: {
     heading: "Pagina nao encontrada",
     code: "404",
     body: "A pagina que voce procura pode ter sido movida ou excluida.",
     link: "Voltar ao inicio",
+    devNoteBefore: "Se voce e desenvolvedor, seria uma grande ajuda se relatasse nas ",
+    devNoteLink: "issues do GitHub",
+    devNoteAfter: " qual link levou a esta pagina 404.",
   },
 };
+
+const ISSUES_URL = "https://github.com/nanjakorewa/GeoGuessrTips/issues";
 
 const msg = messages[lang] || messages.ja;
 const title = `${msg.code} - ${msg.heading} | ${siteTitle}`;
@@ -114,6 +131,18 @@ const title = `${msg.code} - ${msg.heading} | ${siteTitle}`;
       width: 100%;
       max-width: 520px;
     }
+    .notfound-devnote {
+      margin-top: 2rem;
+      max-width: 520px;
+      font-size: 0.75rem;
+      line-height: 1.5;
+      color: var(--text-color, #2B2721);
+      opacity: 0.65;
+    }
+    .notfound-devnote a {
+      color: inherit;
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -127,6 +156,9 @@ const title = `${msg.code} - ${msg.heading} | ${siteTitle}`;
     <p class="notfound-body">{msg.body}</p>
     <a href={homeUrl} class="notfound-home-link">{msg.link}</a>
     <div class="notfound-search" id="notfound-search"></div>
+    <p class="notfound-devnote">
+      {msg.devNoteBefore}<a href={ISSUES_URL} target="_blank" rel="noopener noreferrer">{msg.devNoteLink}</a>{msg.devNoteAfter}
+    </p>
   </main>
 
   <Footer lang={lang} title={siteTitle} permalink={`${site}${homeUrl}`} />

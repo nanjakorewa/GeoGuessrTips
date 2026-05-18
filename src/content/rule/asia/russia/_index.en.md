@@ -29,7 +29,6 @@ features:
 related_quizzes_title: "Related quizzes"
 related_quizzes: [
     ["/en/quiz/states/asia/russia/", "State quiz"],
-    ["/en/quiz/cities/asia/russia/", "City quiz"],
     ]
 ---
 

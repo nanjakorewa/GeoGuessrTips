@@ -93,7 +93,7 @@ METI資料によれば、レアメタル備蓄の対象は以下の34鉱種（55
 - <span style="font-weight:700">上流権益確保</span>：[鉱物サプライチェーン多角化・安定化事業](/industry/world-mining/)（令和6年度補正予算922億円、政府保証付借入含め総枠1,597億円）によりJOGMECを通じて銅・レアメタルの新規権益取得を支援。成果目標として2030年までに新たな銅権益2.5万t/年を確保{{% cite "meti_raremetal_stockpile" %}}。
 - <span style="font-weight:700">代替供給源の形成</span>：レアアースについてJOGMEC出資で豪州・[フランス](/rule/europe/france/)の2件（仏Caremagプロジェクトは岩谷産業と共同で2025年3月着工、日本政府約1億ユーロ拠出）、ガリウムで豪州1件のプロジェクトを形成。詳細は[日本の非鉄金属製錬](/industry/japan-nonferrous/)を参照。
 - <span style="font-weight:700">経済安保推進法 認定案件</span>：三菱マテリアル（Ni/Co/Li、ブラックマス）、住友金属鉱山・三菱商事（豪Ardea Resources、Ni/Co）、日向製錬所（ニッケルマット転炉新設、2027年完工）等、5件の供給確保計画を認定。
-- <span style="font-weight:700">国際連携</span>：2025年10月の[日米](/rule/asia/japan/)重要鉱物枠組み、2026年2月の日米欧共同声明による多国間貿易イニシアティブ、日本・[スペイン](/rule/europe/spain/)・[韓国](/rule/asia/south_korea/)の銅TC/RC共同声明。
+- <span style="font-weight:700">国際連携</span>：2025年10月の[日米](/rule/asia/japan/)重要鉱物枠組み、2026年2月の日米欧共同声明による多国間貿易イニシアティブ、日本・[スペイン](/rule/europe/spain/)・[韓国](/rule/asia/korea/)の銅TC/RC共同声明。
 - <span style="font-weight:700">第7次エネルギー基本計画（令和7年2月閣議決定）</span>：ベースメタル自給率37.7%→2030年80%以上、レアメタルは2030年時点で国内供給必要量の確保を目指す。国産海洋鉱物資源（海底熱水鉱床・コバルトリッチクラスト・マンガン団塊・レアアース泥）の採鉱・揚鉱・選鉱技術確立も盛り込まれた。
 
 

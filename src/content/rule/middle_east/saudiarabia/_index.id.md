@@ -31,7 +31,6 @@ features:
 related_quizzes_title: "Kuis terkait"
 related_quizzes: [
     ["/id/quiz/states/middle_east/saudiarabia/", "Kuis tebak provinsi"],
-    ["/id/quiz/cities/middle_east/saudiarabia/", "Kuis tebak kota"],
     ]
 ---
 

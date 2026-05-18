@@ -447,7 +447,6 @@ municipalities:
 related_quizzes_title: "関連クイズ"
 related_quizzes: [
     ["/quiz/states/middle_east/turkey/", "州当てクイズ"],
-    ["/quiz/cities/middle_east/turkey/", "都市当てクイズ"],
     ]
 ---
 

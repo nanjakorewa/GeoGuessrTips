@@ -40,7 +40,6 @@ features:
 related_quizzes_title: "Cuestionarios relacionados"
 related_quizzes: [
     ["/es/quiz/states/asia/russia/", "Quiz de estados"],
-    ["/es/quiz/cities/asia/russia/", "Quiz de ciudades"],
     ]
 ---
 

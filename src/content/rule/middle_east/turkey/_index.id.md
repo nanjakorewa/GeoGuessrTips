@@ -36,7 +36,6 @@ features:
 related_quizzes_title: "Kuis terkait"
 related_quizzes: [
     ["/id/quiz/states/middle_east/turkey/", "Kuis tebak provinsi"],
-    ["/id/quiz/cities/middle_east/turkey/", "Kuis tebak kota"],
     ]
 ---
 

@@ -299,8 +299,19 @@ for (let i = 0; i < pathSegments.length; i++) {
     const eSlug = extractSlugFromId(e.id);
     return eSlug === segSlug && extractLangFromId(e.id) === lang;
   });
-  const segName = segEntry ? (segEntry as any).data.title : pathSegments[i];
-  crumbs.push({ name: segName, url: buildUrl(collection, segSlug, lang) });
+  // Fall back to default-lang entry when the current language version does not exist,
+  // so the breadcrumb does not link to a 404.
+  const segEntryFallback = segEntry ?? sectionEntries.find((e: any) => {
+    const eSlug = extractSlugFromId(e.id);
+    return eSlug === segSlug && extractLangFromId(e.id) === DEFAULT_LANG;
+  });
+  const segLang = segEntry ? lang : segEntryFallback ? DEFAULT_LANG : lang;
+  const segName = segEntry
+    ? (segEntry as any).data.title
+    : segEntryFallback
+      ? (segEntryFallback as any).data.title
+      : pathSegments[i];
+  crumbs.push({ name: segName, url: buildUrl(collection, segSlug, segLang) });
 }
 
 // --- Auto-extract YouTube video IDs from raw markdown ---
