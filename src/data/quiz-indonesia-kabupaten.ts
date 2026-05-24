@@ -55,6 +55,7 @@ export function buildKabupatenIslandProps(lang: Language, isle: IslandData) {
       : `${k.shortName} (${k.provinceId})`,
     lat: k.lat,
     lng: k.lng,
+    type: k.name.startsWith("Kota ") ? ("kota" as const) : ("kabupaten" as const),
   }));
 
   const continentAsia = t.continents.asia;

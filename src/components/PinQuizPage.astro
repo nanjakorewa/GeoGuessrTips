@@ -23,6 +23,9 @@ interface Pin {
   shortName: string;
   lat: number;
   lng: number;
+  /** Visual category. Kota renders as a square so it is distinguishable from
+   * kabupaten (circle) when their coordinates almost overlap. */
+  type?: "kota" | "kabupaten";
 }
 interface Crumb { name: string; url: string; }
 
@@ -62,6 +65,11 @@ const seoNames = pins.map((p) => p.name).join(lang === "ja" ? "、" : ", ");
 const seoDescription = t.pinQuiz.contentDescFmt(pageH1, pins.length);
 const memorizeHint = t.pinQuiz.promptMemorizeHint;
 const contentTitle = t.pinQuiz.contentTitleFmt(pins.length);
+// Show the kota/kabupaten shape legend only when this quiz actually mixes both types.
+const hasKota = pins.some((p) => p.type === "kota");
+const hasKabupaten = pins.some((p) => p.type === "kabupaten");
+const showLegend = hasKota && hasKabupaten;
+const legendLabels = t.pinQuiz.legend;
 // Localized inline JS labels — used inside the page-bound script via define:vars.
 const jsLabels = {
   finished: t.question.finished,
@@ -124,7 +132,7 @@ const jsLabels = {
     .pq-stat--streak  { background: linear-gradient(135deg, rgba(249,115,22,0.22), rgba(234,88,12,0.15)); color: #c2410c; }
     .pq-stat--best    { background: rgba(124,58,237,0.13); color: #6b21a8; }
 
-    .pq-progress { position: relative; display: flex; width: 100%; height: 8px; background: #eaf2fb; border: 1px solid #d6deea; margin: 0 0 0.7rem; overflow: hidden; }
+    .pq-progress { position: relative; display: flex; width: 100%; height: 14px; background: #eaf2fb; border: 1px solid #d6deea; margin: 0 0 0.7rem; overflow: hidden; }
     .pq-progress__fill { height: 100%; width: 0; transition: width 0.35s ease; }
     .pq-progress__fill--correct { background: #4a9e5c; }
     .pq-progress__fill--wrong { background: #d35a4d; }
@@ -210,6 +218,41 @@ const jsLabels = {
     .pq-pin__dot { width: 12px; height: 12px; }
     .pq-page.is-finished .pq-pin__dot { cursor: default; }
 
+    /* Kota = orange square (default state). The is-correct / is-wrong /
+       is-reveal classes still override background, but border-radius stays
+       square so the shape remains a visual cue throughout the answer flow. */
+    .pq-pin--kota .pq-pin__dot {
+      border-radius: 0;
+      background: #c2410c;
+      box-shadow: 0 0 0 2px rgba(194, 65, 12, 0.30), 0 1px 3px rgba(0, 0, 0, 0.4);
+    }
+    .pq-pin--kota .pq-pin__dot:hover {
+      box-shadow: 0 0 0 3px rgba(194, 65, 12, 0.45), 0 1px 4px rgba(0, 0, 0, 0.45);
+    }
+
+    /* Inline legend shown above the map, explaining the shape convention. */
+    .pq-legend {
+      display: flex;
+      align-items: center;
+      gap: 0.7rem;
+      flex-wrap: wrap;
+      font-size: 0.72rem;
+      color: #4a5568;
+      margin: 0 0 0.4rem;
+      letter-spacing: 0.02em;
+    }
+    .pq-legend__title { font-weight: 700; color: #1f3a5c; }
+    .pq-legend__item { display: inline-flex; align-items: center; gap: 0.35rem; }
+    .pq-legend__swatch {
+      width: 12px;
+      height: 12px;
+      border: 2px solid #fff;
+      box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15);
+      flex: 0 0 auto;
+    }
+    .pq-legend__swatch--kabupaten { border-radius: 50%; background: #1f4d80; }
+    .pq-legend__swatch--kota { border-radius: 0; background: #c2410c; }
+
     .pq-actions { display: flex; gap: 0.5rem; margin-top: 0.7rem; justify-content: center; flex-wrap: wrap; }
     .pq-btn { background: #fff; color: #1f3a5c; border: 1px solid #d6deea; font-size: 0.85rem; font-weight: 700; padding: 0.45em 1.1em; cursor: pointer; transition: background 0.12s, border-color 0.12s; }
     .pq-btn:hover { background: #eef3f9; border-color: #1f4d80; }
@@ -294,6 +337,20 @@ const jsLabels = {
             <div class="pq-feedback" id="pq-feedback" hidden></div>
             <div class="pq-memorize-hint">{memorizeHint}</div>
           </div>
+
+          {showLegend && (
+            <div class="pq-legend" aria-label={legendLabels.title}>
+              <span class="pq-legend__title">{legendLabels.title}</span>
+              <span class="pq-legend__item">
+                <span class="pq-legend__swatch pq-legend__swatch--kabupaten" aria-hidden="true"></span>
+                {legendLabels.kabupaten}
+              </span>
+              <span class="pq-legend__item">
+                <span class="pq-legend__swatch pq-legend__swatch--kota" aria-hidden="true"></span>
+                {legendLabels.kota}
+              </span>
+            </div>
+          )}
 
           <div class="pq-map-wrap">
             <div id="pq-map"
@@ -388,8 +445,11 @@ const jsLabels = {
           const html =
             '<div class="pq-pin__dot" data-code="' + p.code.replace(/"/g, '&quot;') + '"></div>' +
             '<div class="pq-pin__label">' + (p.shortName || p.name) + '</div>';
+          const typeClass = p.type === 'kota' ? ' pq-pin--kota'
+            : p.type === 'kabupaten' ? ' pq-pin--kabupaten'
+            : '';
           const icon = L.divIcon({
-            className: 'pq-pin',
+            className: 'pq-pin' + typeClass,
             html: html,
             iconSize: [0, 0],
             iconAnchor: [0, 0],

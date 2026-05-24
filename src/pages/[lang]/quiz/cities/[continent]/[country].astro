@@ -7,9 +7,13 @@
  */
 import fs from "node:fs";
 import path from "node:path";
+import { getCollection } from "astro:content";
 import CityQuizPage from "@components/CityQuizPage.astro";
 import { CITY_QUIZ_REGISTRY } from "../../../../../data/quiz-cities-registry";
-import { NON_DEFAULT_LANGUAGES } from "../../../../../data/quiz-states-page-data";
+import {
+  NON_DEFAULT_LANGUAGES,
+  buildCityQuizRelatedLinks,
+} from "../../../../../data/quiz-states-page-data";
 import type { Language } from "@lib/i18n-utils";
 
 export async function getStaticPaths() {
@@ -45,6 +49,13 @@ const svgFsPath = path.join(
   meta.svgPath.replace(/^\/+/, ""),
 );
 const svgRaw = fs.readFileSync(svgFsPath, "utf8");
+
+const allRules = await getCollection("rule");
+const relatedLinks = buildCityQuizRelatedLinks(
+  lang,
+  { continent: meta.continent, slug: meta.slug },
+  allRules.map((e: any) => ({ id: e.id, data: e.data })),
+);
 ---
 
-<CityQuizPage lang={lang} slug={slug} cityList={cityList} projection={projection} meta={meta} svgRaw={svgRaw} />
+<CityQuizPage lang={lang} slug={slug} cityList={cityList} projection={projection} meta={meta} svgRaw={svgRaw} relatedLinks={relatedLinks} />

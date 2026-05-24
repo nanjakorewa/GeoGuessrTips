@@ -106,7 +106,7 @@ const jsLabels = {
   promptMemorize: "暗記モード",
   promptMemorizeSub: "ピン・ラインまたはカードにカーソルを合わせると（スマホはタップ）対応するものがハイライトされます",
   promptHint: "ヒント有モード",
-  promptHintSub: "上の候補から選んでください（5つの候補）",
+  promptHintSub: "",
   choicesLabel: "候補から選んでください（ヒント有モード）",
   correctPrefix: "正解: ",
   summaryTitleFmt: "🎉 全 {n} 問終了",
@@ -225,7 +225,7 @@ const coverImage = `/images/japan-features/${meta.slug}.jpg`;
 
     .cq-progress {
       position: relative; display: flex;
-      width: 100%; height: 8px;
+      width: 100%; height: 14px;
       background: #eaf2fb; border: 1px solid #d6deea;
       margin: 0 0 0.7rem; overflow: hidden;
     }
@@ -261,6 +261,7 @@ const coverImage = `/images/japan-features/${meta.slug}.jpg`;
       margin: 0 0 0.15rem; letter-spacing: 0.05em;
     }
     .cq-prompt-sub { font-size: 1rem; color: #1f3a5c; font-weight: 700; }
+    .cq-prompt-sub:empty { display: none; }
 
     .cq-map-wrap {
       position: relative;
@@ -633,7 +634,7 @@ const coverImage = `/images/japan-features/${meta.slug}.jpg`;
 
       <div class="cq-prompt-row is-hint" id="cq-prompt-row">
         <div class="cq-prompt" id="cq-prompt">ヒント有モード</div>
-        <div class="cq-prompt-sub" id="cq-prompt-sub">上の候補から選んでください（5つの候補）</div>
+        <div class="cq-prompt-sub" id="cq-prompt-sub"></div>
       </div>
 
       <div class="cq-map-wrap" id="cq-map-wrap">

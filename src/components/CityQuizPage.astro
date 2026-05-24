@@ -26,6 +26,11 @@ import { getQuizI18n, quizPath, langPath } from "../data/quiz-states-i18n";
 import { tierForRank, MAX_CITIES_PER_COUNTRY } from "../data/quiz-cities/_types";
 import { projectCity } from "../data/quiz-cities-registry";
 
+interface RelatedLink {
+  url: string;
+  label: string;
+}
+
 interface Props {
   lang: Language;
   slug: string;
@@ -40,9 +45,12 @@ interface Props {
   };
   /** Pre-loaded SVG markup from public/maps/countries/{slug}.svg */
   svgRaw: string;
+  /** Optional cross-links shown above the SEO content area (e.g. rule page,
+   * state quiz). Rendered only when at least one link is provided. */
+  relatedLinks?: RelatedLink[];
 }
 
-const { lang, slug, cityList, projection, meta, svgRaw } = Astro.props as Props;
+const { lang, slug, cityList, projection, meta, svgRaw, relatedLinks = [] } = Astro.props as Props;
 const t = getQuizI18n(lang);
 const site = "https://geopinning.space";
 
@@ -226,7 +234,7 @@ const tierLabels: Record<number, string> = {
 
     .cq-progress {
       position: relative; display: flex;
-      width: 100%; height: 8px;
+      width: 100%; height: 14px;
       background: #eaf2fb; border: 1px solid #d6deea;
       margin: 0 0 0.7rem; overflow: hidden;
     }
@@ -442,6 +450,18 @@ const tierLabels: Record<number, string> = {
       border-top: 1px dashed #e1e6ec;
       font-size: 0.82rem; color: #4a5568; line-height: 1.55;
     }
+    .cq-related {
+      margin-top: 1.4rem; padding: 0.75rem 1rem;
+      background: #f6f9fd; border: 1px solid #d6deea;
+      display: flex; align-items: center;
+      gap: 0.5rem 1rem; flex-wrap: wrap;
+      font-size: 0.85rem; color: #4a5568;
+    }
+    .cq-related__title { font-weight: 700; color: #1f3a5c; }
+    .cq-related__list { display: inline-flex; gap: 0.4rem 1rem; flex-wrap: wrap; align-items: center; }
+    .cq-related__link { color: #1f4d80; text-decoration: none; font-weight: 600; }
+    .cq-related__link:hover { text-decoration: underline; }
+    .cq-related__link::before { content: "▸"; margin-right: 0.35em; color: #6b7a8d; font-weight: 400; }
     .cq-content__title { font-size: 0.95rem; font-weight: 700; color: #1f3a5c; margin: 0 0 0.5rem; }
     .cq-content__desc { color: #6b7a8d; margin: 0 0 1rem; font-size: 0.78rem; line-height: 1.7; }
     .cq-tier-group { margin-bottom: 1rem; }
@@ -571,6 +591,17 @@ const tierLabels: Record<number, string> = {
             <p class="cq-summary__line">{t.summary.bestThisRound}: <strong id="cq-summary-best-this">0</strong> {t.summary.questionsSuffix}</p>
             <p class="cq-summary__line">{t.summary.bestAll}: <strong id="cq-summary-best-all">0</strong> {t.summary.questionsSuffix}</p>
           </div>
+
+          {relatedLinks.length > 0 && (
+            <nav class="cq-related" aria-label={t.relatedLinks.title}>
+              <span class="cq-related__title">{t.relatedLinks.title}</span>
+              <span class="cq-related__list">
+                {relatedLinks.map((r) => (
+                  <a class="cq-related__link" href={r.url}>{r.label}</a>
+                ))}
+              </span>
+            </nav>
+          )}
 
           <div class="cq-content">
             <h2 class="cq-content__title">{t.city.tableTitleFmt(countryDisplayName, cities.length)}</h2>

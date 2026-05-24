@@ -98,8 +98,11 @@ function provincesLabel(p: IslandSummary): string {
     .pqh-lead { color: #4a5568; margin: 0 0 1.4rem; line-height: 1.65; font-size: 0.95rem; white-space: pre-line; }
     .pqh-lead a { color: #1f4d80; }
     .pqh-note {
-      color: #8a7e62; background: #fff8e6; border-left: 3px solid #d6b878;
-      padding: 0.7em 0.9em; margin: 0 0 1.2rem; font-size: 0.8rem; line-height: 1.6;
+      color: #6b7a8d;
+      margin: 2rem 0 0;
+      padding-top: 0.9rem;
+      border-top: 1px dashed #e1e6ec;
+      font-size: 0.72rem; line-height: 1.6;
     }
     .pqh-grid {
       display: grid;
@@ -142,9 +145,6 @@ function provincesLabel(p: IslandSummary): string {
       </ol>
       <h1 class="pqh-title">{t.pinQuiz.hub.title}</h1>
       <p class="pqh-lead" set:html={t.pinQuiz.hub.lead}></p>
-      <div class="pqh-note">
-        {t.pinQuiz.hub.note}
-      </div>
 
       <div class="pqh-grid">
         {islandList.map((p) => (
@@ -156,6 +156,10 @@ function provincesLabel(p: IslandSummary): string {
           </a>
         ))}
       </div>
+
+      <p class="pqh-note">
+        {t.pinQuiz.hub.note}
+      </p>
     </div>
   </main>
 

@@ -23,6 +23,11 @@ interface Crumb {
   url: string;
 }
 
+interface RelatedLink {
+  url: string;
+  label: string;
+}
+
 interface Props {
   lang: Language;
   pageTitle: string;
@@ -39,6 +44,9 @@ interface Props {
   quizStates: QuizItem[];
   /** Inlined SVG markup (with id="sq-map" already injected) */
   inlinedSvg: string;
+  /** Optional cross-links shown above the SEO content area (e.g. rule page,
+   * city quiz). Rendered only when at least one link is provided. */
+  relatedLinks?: RelatedLink[];
 }
 
 const {
@@ -52,6 +60,7 @@ const {
   breadcrumbs,
   quizStates,
   inlinedSvg,
+  relatedLinks = [],
 } = Astro.props as Props;
 
 const t = getQuizI18n(lang);
@@ -198,7 +207,7 @@ const seoNames = quizStates
       position: relative;
       display: flex;
       width: 100%;
-      height: 8px;
+      height: 14px;
       background: #eaf2fb;
       border: 1px solid #d6deea;
       margin: 0 0 0.7rem;
@@ -415,6 +424,23 @@ const seoNames = quizStates
       color: #4a5568;
       line-height: 1.75;
     }
+    .sq-related {
+      margin-top: 1.4rem;
+      padding: 0.75rem 1rem;
+      background: #f6f9fd;
+      border: 1px solid #d6deea;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem 1rem;
+      flex-wrap: wrap;
+      font-size: 0.85rem;
+      color: #4a5568;
+    }
+    .sq-related__title { font-weight: 700; color: #1f3a5c; }
+    .sq-related__list { display: inline-flex; gap: 0.4rem 1rem; flex-wrap: wrap; align-items: center; }
+    .sq-related__link { color: #1f4d80; text-decoration: none; font-weight: 600; }
+    .sq-related__link:hover { text-decoration: underline; }
+    .sq-related__link::before { content: "▸"; margin-right: 0.35em; color: #6b7a8d; font-weight: 400; }
     .sq-content__section + .sq-content__section { margin-top: 0.9rem; }
     .sq-content__title {
       font-size: 0.78rem;
@@ -528,6 +554,17 @@ const seoNames = quizStates
             <p class="sq-summary__line">{t.summary.bestThisRound}: <strong id="sq-summary-best-this">0</strong> {t.summary.questionsSuffix}</p>
             <p class="sq-summary__line">{t.summary.bestAll}: <strong id="sq-summary-best-all">0</strong> {t.summary.questionsSuffix}</p>
           </div>
+
+          {relatedLinks.length > 0 && (
+            <nav class="sq-related" aria-label={t.relatedLinks.title}>
+              <span class="sq-related__title">{t.relatedLinks.title}</span>
+              <span class="sq-related__list">
+                {relatedLinks.map((r) => (
+                  <a class="sq-related__link" href={r.url}>{r.label}</a>
+                ))}
+              </span>
+            </nav>
+          )}
 
           <div class="sq-content" aria-label={t.list.title}>
             <section class="sq-content__section">

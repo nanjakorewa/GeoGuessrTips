@@ -171,10 +171,25 @@ export interface QuizStatesI18n {
     note: string;
     /** Crumb label "Indonesia (kabupaten version)". */
     crumbLabel: string;
+    /** Inline legend explaining the kota (square) vs kabupaten (circle) pin shapes. */
+    legend: {
+      title: string;
+      kabupaten: string;
+      kota: string;
+    };
   };
   /** Crumb label for "kabupaten 当てクイズ" section in /[lang]/quiz/cities/japan/ etc — kept here for shared use. */
   pageCrumbs: {
     kabupaten: string;
+  };
+  /** Compact "Related pages" navigation row above the SEO content area on
+   * quiz pages, linking to the country rule page, the alternate quiz mode
+   * (state ↔ city), etc. */
+  relatedLinks: {
+    title: string;
+    rule: string;
+    cityQuiz: string;
+    stateQuiz: string;
   };
 }
 
@@ -320,8 +335,19 @@ const T: Record<Language, QuizStatesI18n> = {
       contentDescFmt: (h1, n) => `「${h1}」のページです。地図上に表示される${n}件の kabupaten/kota がランダムに出題され、正しいピンをクリックして答えます。`,
       note: "kabupaten/kota のデータは GADM 2.8（2010 年頃）の行政区分に基づいており、現在のインドネシアの 514 kabupaten/kota のうち約 388 件をカバーします。2010 年以降の分割（例：北カリマンタン州・パプア州の再編）については、可能な範囲で現代の州構成に再分類しています。",
       crumbLabel: "インドネシア（kabupaten 版）",
+      legend: {
+        title: "凡例",
+        kabupaten: "Kabupaten（県）",
+        kota: "Kota（市）",
+      },
     },
     pageCrumbs: { kabupaten: "kabupaten" },
+    relatedLinks: {
+      title: "関連ページ",
+      rule: "この国・地域の特徴を見る",
+      cityQuiz: "都市当てクイズへ",
+      stateQuiz: "州当てクイズへ",
+    },
   },
   en: {
     hub: {
@@ -457,8 +483,19 @@ const T: Record<Language, QuizStatesI18n> = {
       contentDescFmt: (h1, n) => `${h1} — click the correct pin on the map for each of the ${n} prompts in random order.`,
       note: "Kabupaten / kota data is based on GADM 2.8 (~2010), covering ~388 of Indonesia's 514 modern kabupaten / kota. Where possible we have re-classified them under the modern 38-province structure (post-2012 / 2022 splits).",
       crumbLabel: "Indonesia (kabupaten)",
+      legend: {
+        title: "Legend",
+        kabupaten: "Kabupaten (regency)",
+        kota: "Kota (city)",
+      },
     },
     pageCrumbs: { kabupaten: "kabupaten" },
+    relatedLinks: {
+      title: "Related pages",
+      rule: "Country / region guide",
+      cityQuiz: "City quiz",
+      stateQuiz: "State quiz",
+    },
   },
   id: {
     hub: {
@@ -594,8 +631,19 @@ const T: Record<Language, QuizStatesI18n> = {
       contentDescFmt: (h1, n) => `${h1} — klik pin yang benar pada peta untuk masing-masing ${n} pertanyaan acak.`,
       note: "Data kabupaten / kota berasal dari GADM 2.8 (~2010), mencakup ~388 dari 514 kabupaten / kota Indonesia saat ini. Sebisa mungkin diklasifikasikan ulang ke struktur 38 provinsi modern.",
       crumbLabel: "Indonesia (kabupaten)",
+      legend: {
+        title: "Keterangan",
+        kabupaten: "Kabupaten",
+        kota: "Kota",
+      },
     },
     pageCrumbs: { kabupaten: "kabupaten" },
+    relatedLinks: {
+      title: "Halaman terkait",
+      rule: "Panduan negara / wilayah",
+      cityQuiz: "Kuis tebak kota",
+      stateQuiz: "Kuis tebak provinsi",
+    },
   },
   es: {
     hub: {
@@ -731,8 +779,19 @@ const T: Record<Language, QuizStatesI18n> = {
       contentDescFmt: (h1, n) => `${h1} — haz clic en el pin correcto del mapa para cada una de las ${n} preguntas aleatorias.`,
       note: "Los datos de kabupaten / kota se basan en GADM 2.8 (~2010) y cubren ~388 de los 514 kabupaten / kota actuales. Sebisa mungkin se han re-clasificado bajo la estructura moderna de 38 provincias.",
       crumbLabel: "Indonesia (kabupaten)",
+      legend: {
+        title: "Leyenda",
+        kabupaten: "Kabupaten (regencia)",
+        kota: "Kota (ciudad)",
+      },
     },
     pageCrumbs: { kabupaten: "kabupaten" },
+    relatedLinks: {
+      title: "Páginas relacionadas",
+      rule: "Guía del país / región",
+      cityQuiz: "Quiz de ciudades",
+      stateQuiz: "Quiz de estados",
+    },
   },
   pt: {
     hub: {
@@ -868,8 +927,19 @@ const T: Record<Language, QuizStatesI18n> = {
       contentDescFmt: (h1, n) => `${h1} — clique no pin correto do mapa para cada uma das ${n} perguntas aleatórias.`,
       note: "Os dados de kabupaten / kota são baseados no GADM 2.8 (~2010) e cobrem ~388 dos 514 kabupaten / kota atuais. Sempre que possível são reclassificados na estrutura moderna de 38 províncias.",
       crumbLabel: "Indonésia (kabupaten)",
+      legend: {
+        title: "Legenda",
+        kabupaten: "Kabupaten (regência)",
+        kota: "Kota (cidade)",
+      },
     },
     pageCrumbs: { kabupaten: "kabupaten" },
+    relatedLinks: {
+      title: "Páginas relacionadas",
+      rule: "Guia do país / região",
+      cityQuiz: "Quiz de cidades",
+      stateQuiz: "Quiz de estados",
+    },
   },
 };
 

@@ -8,7 +8,27 @@ import path from "node:path";
 import type { Language } from "@lib/i18n-utils";
 import { LANGUAGES, DEFAULT_LANG } from "@lib/i18n-utils";
 import { COUNTRIES } from "./quiz-states-countries";
+import { CITY_QUIZ_REGISTRY } from "./quiz-cities-registry";
 import { getQuizI18n, quizPath, langPath } from "./quiz-states-i18n";
+
+/**
+ * Build the rule-page URL for a given pageDir in the user's language. If the
+ * rule entry is not translated into `lang`, fall back to the default-language
+ * URL so the link does not 404. If no rule entry exists in any language for
+ * this pageDir, returns null so the caller can drop the link.
+ */
+function ruleUrl(
+  pageDir: string,
+  lang: Language,
+  allRules: Array<{ id: string; data: any }>,
+): string | null {
+  const hasThisLang = allRules.some((e) => e.id === `${pageDir}/_index.${lang}`);
+  const hasDefaultLang = allRules.some((e) => e.id === `${pageDir}/_index.${DEFAULT_LANG}`);
+  if (!hasThisLang && !hasDefaultLang) return null;
+  const useLang = hasThisLang ? lang : DEFAULT_LANG;
+  const path = `/rule/${pageDir}/`;
+  return useLang === DEFAULT_LANG ? path : `/${useLang}${path}`;
+}
 
 export const NON_DEFAULT_LANGUAGES = LANGUAGES.filter((l) => l !== DEFAULT_LANG);
 
@@ -77,6 +97,20 @@ export function buildCountryQuizProps(
     },
   ];
 
+  const relatedLinks: Array<{ url: string; label: string }> = [];
+  const ruleHref = ruleUrl(country.pageDir, lang, allRules);
+  if (ruleHref) relatedLinks.push({ url: ruleHref, label: t.relatedLinks.rule });
+  // The city-quiz registry is the source of truth for the city-quiz URL —
+  // its meta.continent can differ from the state-quiz continent (e.g. russia
+  // is "asia" in COUNTRIES but "europe" in the city-quiz registry).
+  const cityEntry = CITY_QUIZ_REGISTRY[country.slug];
+  if (cityEntry) {
+    relatedLinks.push({
+      url: quizPath(lang, `/quiz/cities/${cityEntry.meta.continent}/${cityEntry.meta.slug}/`),
+      label: t.relatedLinks.cityQuiz,
+    });
+  }
+
   return {
     lang,
     pageTitle: t.country.pageTitleFmt(countryName),
@@ -88,6 +122,7 @@ export function buildCountryQuizProps(
     breadcrumbs,
     quizStates,
     inlinedSvg,
+    relatedLinks,
   };
 }
 
@@ -145,6 +180,10 @@ export function buildPrefectureQuizProps(
     { name: prefDisplay, url: quizPath(lang, `/quiz/cities/japan/${prefDir}/`) },
   ];
 
+  const relatedLinks: Array<{ url: string; label: string }> = [];
+  const ruleHref = ruleUrl(ruleIdBase, lang, allRules);
+  if (ruleHref) relatedLinks.push({ url: ruleHref, label: t.relatedLinks.rule });
+
   return {
     lang,
     pageTitle: t.prefecture.pageTitleFmt(prefDisplay),
@@ -156,7 +195,46 @@ export function buildPrefectureQuizProps(
     breadcrumbs,
     quizStates,
     inlinedSvg,
+    relatedLinks,
   };
+}
+
+/**
+ * Build the relatedLinks list for a city-quiz page (e.g.
+ * /quiz/cities/europe/germany/). Adds a link to the country's rule guide and,
+ * when a state quiz exists for this country, a link to that too.
+ */
+/** City-quiz slugs whose rule page directory does not match
+ * `{continent}/{slug}` and is not in COUNTRIES. Without this override
+ * the rule link is dropped because the assumed path 404s. */
+const CITY_SLUG_TO_RULE_DIR: Record<string, string> = {
+  uae: "middle_east/united_arab_emirates",
+  "costa-rica": "n_america/costa_rica",
+};
+
+export function buildCityQuizRelatedLinks(
+  lang: Language,
+  meta: { continent: string; slug: string },
+  allRules: Array<{ id: string; data: any }>,
+): Array<{ url: string; label: string }> {
+  const t = getQuizI18n(lang);
+  // Cross-reference COUNTRIES so that countries with a different rule pageDir
+  // (e.g. bosnia → europe/bosnah) link to the correct rule page.
+  const country = COUNTRIES.find((c) => c.slug === meta.slug);
+  const pageDir =
+    country?.pageDir
+    ?? CITY_SLUG_TO_RULE_DIR[meta.slug]
+    ?? `${meta.continent}/${meta.slug}`;
+  const links: Array<{ url: string; label: string }> = [];
+  const ruleHref = ruleUrl(pageDir, lang, allRules);
+  if (ruleHref) links.push({ url: ruleHref, label: t.relatedLinks.rule });
+  if (country) {
+    links.push({
+      url: quizPath(lang, `/quiz/states/${country.continent}/${country.slug}/`),
+      label: t.relatedLinks.stateQuiz,
+    });
+  }
+  return links;
 }
 
 /**
