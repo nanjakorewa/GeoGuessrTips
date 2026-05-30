@@ -80,9 +80,55 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>斜面が多い</li>
+      <li>自転車を保有している家庭が少ない</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/nagasaki" %}}
 </div>
+
+{{% tabs %}}
+{{% tab "斜面が多い" %}}
+{{% notice tip %}}
+斜面が多く、小学校などは高台にあることが多い。斜面移送システムがある場所も{{% ex "https://maps.app.goo.gl/axCRBccWHoJcRhFF9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="1280px-Site_of_Sasebo_City_Iounoura_Elementary_School.jpg" alt="長崎の小学校">
+</div>
+
+{{% /tab %}}
+{{% tab "自転車" %}}
+{{% notice tip %}}
+斜面が多い長崎では自転車を日常的に使うシーンは少ない{{% ex "https://maps.app.goo.gl/KQ4mQtWTyXBRD75aA" %}}。家に自転車が無かったり{{% ex "https://maps.app.goo.gl/JtqEv1RMNJQKDFCj8" %}}、店前の駐輪場も無いことが多い。バイクの方がむしろ多いかもしれない。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="route34_nagasaki_city_office.jpg" alt="長崎の景色">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+      <li>原付（二輪等）の駐輪場が多い</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "原付" %}}
+{{% notice tip %}}
+自転車の保有台数は日本一少ない一方、ひとりあたりの原付の保有数は非常に多い。駐輪場ではなく『二輪等』駐輪場がメインであり、原付やバイクの方が多く止められていることも少なくない{{% ex "https://maps.app.goo.gl/k2r4y7E7jXo4xAUt8" "https://maps.app.goo.gl/FfTydrWJeoHuRsfa7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="route34_nagasaki_city_office.jpg" alt="長崎の景色">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
