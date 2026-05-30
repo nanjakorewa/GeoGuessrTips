@@ -661,7 +661,7 @@ graph TB
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>琉球銀行（<a href="/rule/asia/japan/kyusyu/okinawa/">沖縄</a>）</strong><br/><span style="font-size:.85em;color:#555;">那覇本店、沖縄地盤。<span style="font-weight:700">米国信託統治下の1948年に米軍政府指示で設立</span>、特殊な歴史を持つ。</span>
+<strong>琉球銀行（<a href="/rule/asia/japan/kyusyu/okinawa/">沖縄</a>）</strong><br/><span style="font-size:.85em;color:#555;">那覇本店、沖縄地盤。<span style="font-weight:700">1948年5月に米軍政府布令により設立</span>（米国軍政期、信託統治は1952年以降）、特殊な歴史を持つ。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -905,7 +905,7 @@ graph TB
 <tr>
 <td>琉球銀行</td>
 <td>{{% minkabu 8399 %}}</td>
-<td>那覇本店、沖縄地盤。<span style="font-weight:700">米国信託統治下の1948年に米軍政府指示で設立</span>された特殊な歴史を持つ地銀。</td>
+<td>那覇本店、沖縄地盤。<span style="font-weight:700">1948年5月に米軍政府布令により設立</span>（米国軍政期、信託統治は1952年以降）された特殊な歴史を持つ地銀。</td>
 <td>{{% corplink "https://www.ryugin.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8399" %}}</td>
 </tr>

@@ -97,7 +97,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>とんでん（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、トンデン創業1969年。札幌本社の和食ファミレス、北海道・首都圏で展開。手打ちそば・寿司・天ぷらの和定食が看板。</span>
+<strong>とんでん（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1969年札幌市東区で「（株）とんでん」設立（前身は1968年和菓子製造販売業）。札幌本社の和食ファミレス、北海道・首都圏で展開。手打ちそば・寿司・天ぷらの和定食が看板。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -367,7 +367,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>千房（<a href="/rule/asia/japan/kinki/osaka/">大阪</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1973年道頓堀発祥。<span style="font-weight:700">お好み焼き専門</span>、関西・関東中心。「ぷれじでんと千房」「千房エレガンス」など複数業態。</span>
+<strong>千房（<a href="/rule/asia/japan/kinki/osaka/">大阪</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1973年大阪・千日前で創業（道頓堀本店は後年開店）。<span style="font-weight:700">お好み焼き専門</span>、創業者中井政嗣、関西・関東中心。「ぷれじでんと千房」「千房エレガンス」など複数業態。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -376,7 +376,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>鶴橋風月（<a href="/rule/asia/japan/kinki/osaka/">大阪</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、戦後鶴橋発祥の老舗お好み焼き。関西中心に展開、米国・台湾にも一部進出。</span>
+<strong>鶴橋風月（<a href="/rule/asia/japan/kinki/osaka/">大阪</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1950年大阪天満の「風月」を源流とし、暖簾分けで鶴橋に開店、現在は株式会社イデアが運営。関西中心に展開、米国・台湾にも一部進出。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
