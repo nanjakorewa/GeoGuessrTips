@@ -47,3 +47,9 @@ support@geopinning\.space
 # --- Wikimedia attribution image URLs (no PII risk) ----------------------
 upload\.wikimedia\.org
 commons\.wikimedia\.org
+
+# --- SVG vector graphics (path data coordinates trip credit-card / phone regexes) ---
+# Long sequences of <path d="M ..."> coordinates in SVG logos coincidentally
+# match credit-card (Luhn) and JP phone-number patterns. SVG files under
+# public/images/ are vector graphics with no PII content.
+^public/images/.*\.svg$
