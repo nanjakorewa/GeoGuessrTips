@@ -85,9 +85,24 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>MAIYAというスーパーマーケットチェーンは岩手にしかない</li>
     </ul>
     {{% corp "asia/japan" "tohoku/iwate" %}}
 </div>
+
+
+{{% tabs %}}
+{{% tab "MAIYA" %}}
+{{% notice tip %}}
+MAIYAは岩手にしかない{{% ref "https://www.maiya.co.jp/" "MAIYA" %}}。2011年には東日本大震災により被害を受けたものの、現在も営業を続けている{{% ref "https://www.asahi.com/special/10005/TKY201104050275.html" "スーパーの屋上、いのち支えた　漂流者救助、食料も送る" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Market_Place_Maiya_Ofunato_2023.jpg#/media/File:Market_Place_Maiya_Ofunato_2023.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Market_Place_Maiya_Ofunato_2023.jpg" alt="Market Place Maiya Ofunato 2023.jpg" height="854" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Morio" title="User:Morio">Morio</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=145950838">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>

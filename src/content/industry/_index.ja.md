@@ -266,6 +266,16 @@ card_image: "pipeline.jpg"
 </div>
 </a>
 
+<a class="ind-card" href="/industry/japan-supermarket/">
+<img class="ind-card-thumb" src="/images/industry/japan-supermarket/yaoko_store.jpg" alt="ご当地スーパー" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">日本のご当地スーパーマーケット</div>
+<div class="ind-card-desc">アークス・ヨークベニマル・ヤオコー・ロピア・ツルヤ・サンエー等、地域別の地場チェーンを一覧</div>
+<span class="ind-card-stat">食品スーパー業界 約25兆円</span>
+</div>
+</a>
+
 <a class="ind-card" href="/industry/japan-power/">
 <img class="ind-card-thumb" src="/images/industry/japan-power/tepco_higasiohgishima.jpg" alt="電力会社" loading="lazy" />
 <div class="ind-card-body">

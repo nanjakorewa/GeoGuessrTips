@@ -83,9 +83,25 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>伊徳（ITOKU）というご当地スーパーがある
     </ul>
     {{% corp "asia/japan" "tohoku/akita" %}}
 </div>
+
+
+{{% tabs %}}
+{{% tab "伊徳" %}}
+{{% notice tip %}}
+秋田を中心に、岩手・青森などにITOKUというご当地スーパーがある。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Itoku_Akita-Higashi.jpg#/media/File:Itoku_Akita-Higashi.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Itoku_Akita-Higashi.jpg" alt="Itoku Akita-Higashi.jpg" height="960" width="1280"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:%E6%8E%AC%E8%8C%B6" title="User:掬茶">掬茶</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=19042143">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>

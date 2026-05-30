@@ -103,6 +103,7 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
         <li>りんごを模ったオブジェや看板が多い</li>
+        <li>ユニバースというスーパーがある</li>
     </ul>
     {{% corp "asia/japan" "tohoku/aomori" %}}
 </div>
@@ -117,6 +118,17 @@ references:
 
 <div class="googlemap-if unclickable">
 <img src="aomori-apple.jpg" width="80%">
+</div>
+
+{{% /tab %}}
+{{% tab "ユニバース" %}}
+{{% notice tip %}}
+青森・岩手・秋田にはユニバースというスーパーマーケットが展開している{{% ref "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9_(%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88)" "ユニバース" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Universe_(supermarket)_Kuroishi_Ekimae_Store.jpg#/media/File:Universe_(supermarket)_Kuroishi_Ekimae_Store.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Universe_%28supermarket%29_Kuroishi_Ekimae_Store.jpg" alt="Universe (supermarket) Kuroishi Ekimae Store.jpg" height="720" width="1280"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:%E6%8E%AC%E8%8C%B6" title="User:掬茶">掬茶</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=122261812">Link</a></p>
 </div>
 
 {{% /tab %}}
