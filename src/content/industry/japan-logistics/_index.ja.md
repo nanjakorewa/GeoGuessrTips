@@ -109,7 +109,7 @@ galleryDir: "japan-logistics"
 | 従業員 | 約76,000人（うち海外約26,000人） |
 | 注目点 | 12月決算（他社は3月決算）。IFRS適用。国際フォワーディング世界5位（cargo-partner買収後{{% cite "nxhd_cargo" %}}）。欧州の売上が前年比2.6倍に拡大 |
 
-## セグメント別利益構成の比較（円グラフ）
+## セグメント別利益構成の比較
 
 運送6社のセグメント利益構成を比較します。**個人向け宅配**（宅急便・ゆうパック）、**法人向けEC物流**（飛脚宅配便）、**特別積合せ貨物運送**（カンガルー便・フクツー便）、**貸切輸送**（チャーター便）など事業形態の違いが収益構造に明確に反映されています。
 
@@ -141,7 +141,7 @@ galleryDir: "japan-logistics"
 </div>
 
 <div style="margin:16px 0 28px;padding:12px 16px;background:#f0f4f8;border-radius:8px;font-size:.88rem;line-height:1.7;">
-<strong>凡例（全グラフ共通カラー）</strong><br/>
+<strong>凡例</strong><br/>
 <span style="display:inline-block;width:12px;height:12px;border-radius:3px;background:#1565c0;vertical-align:middle;margin-right:4px;"></span> 宅配・輸送・エクスプレス
 <span style="display:inline-block;width:12px;height:12px;border-radius:3px;background:#0d47a1;vertical-align:middle;margin:0 4px 0 12px;"></span> 貸切（チャーター）
 <span style="display:inline-block;width:12px;height:12px;border-radius:3px;background:#6a1b9a;vertical-align:middle;margin:0 4px 0 12px;"></span> ロジスティクス
@@ -158,7 +158,7 @@ galleryDir: "japan-logistics"
 
 ※ ヤマトHDは2025年3月期にエクスプレス事業（宅配）が▲128.99億円の営業赤字を計上{{% cite "yamato_ir" %}}。グラフは黒字セグメントの構成のみ表示。日本郵政は郵便・物流セグメントが赤字（▲383億円）であり、金融事業が連結利益を支えていることに注意{{% cite "japanpost_ir" %}}。
 
-## 6社の営業収益比較（棒グラフ）
+## 6社の営業収益比較
 
 <div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:24px;margin:24px 0;">
 <canvas id="bar-compare" style="max-height:400px;"></canvas>

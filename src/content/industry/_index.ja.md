@@ -267,12 +267,42 @@ card_image: "pipeline.jpg"
 </a>
 
 <a class="ind-card" href="/industry/japan-supermarket/">
-<img class="ind-card-thumb" src="/images/industry/japan-supermarket/yaoko_store.jpg" alt="ご当地スーパー" loading="lazy" />
+<img class="ind-card-thumb" src="/images/industry/japan-supermarket/Valor_Ena_Gifu1206.jpg" alt="ご当地スーパー" loading="lazy" />
 <div class="ind-card-body">
 <span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
 <div class="ind-card-title">日本のご当地スーパーマーケット</div>
 <div class="ind-card-desc">アークス・ヨークベニマル・ヤオコー・ロピア・ツルヤ・サンエー等、地域別の地場チェーンを一覧</div>
 <span class="ind-card-stat">食品スーパー業界 約25兆円</span>
+</div>
+</a>
+
+<a class="ind-card" href="/industry/japan-regional-bank/">
+<img class="ind-card-thumb" src="/images/industry/japan-regional-bank/juroku_bank_head_store.jpg" alt="地方銀行" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">日本の地方銀行</div>
+<div class="ind-card-desc">47都道府県の地銀・第二地銀、ふくおかFG・コンコルディアFG・めぶきFG等のFG再編</div>
+<span class="ind-card-stat">地銀協加盟 62行・預金約290兆円</span>
+</div>
+</a>
+
+<a class="ind-card" href="/industry/japan-restaurant-chains/">
+<img class="ind-card-thumb" src="/images/industry/japan-restaurant-chains/sawayaka.jpg" alt="ファミレス" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">日本のご当地ファミレス・レストランチェーン</div>
+<div class="ind-card-desc">すかいらーく・ゼンショー・サイゼリヤ・コメダ・さわやか・ジョイフル・餃子の王将を地域別に</div>
+<span class="ind-card-stat">外食産業 約27兆円</span>
+</div>
+</a>
+
+<a class="ind-card" href="/industry/japan-ramen-chains/">
+<img class="ind-card-thumb" src="/images/industry/japan-ramen-chains/agodashi_ramen.jpg" alt="ラーメン" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">日本のご当地ラーメンチェーン</div>
+<div class="ind-card-desc">札幌・博多・横浜家系・京都背脂等のご当地系譜と全国チェーン、一風堂・一蘭・日高屋・幸楽苑等</div>
+<span class="ind-card-stat">ラーメン市場 約6,700億円</span>
 </div>
 </a>
 
