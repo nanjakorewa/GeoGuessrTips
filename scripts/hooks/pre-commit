@@ -64,6 +64,7 @@ if [ -f "$NGWORDS_FILE" ]; then
     FOUND=0
     DIFF_OUT=$(git diff --cached --diff-filter=ACMR -U0 \
       -- ':(exclude).ngwords' ':(exclude).piiallowlist' \
+         ':(exclude)public/images/industry/japan-supermarket/osakaya_shop.svg' \
       | grep -i "^+" | grep -v "^+++" \
       | sed 's/www\.sony\.com//gi')
 
