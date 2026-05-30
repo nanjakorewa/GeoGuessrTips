@@ -100,11 +100,11 @@ graph TB
 <div style="position:relative;padding-left:28px;margin:24px 0;border-left:3px solid #1565c0;">
 <div style="margin-bottom:18px;">
 <div style="position:absolute;left:-9px;width:15px;height:15px;border-radius:50%;background:#90caf9;border:3px solid #fff;box-shadow:0 0 0 2px #90caf9;"></div>
-<span style="font-weight:700;color:#0d47a1;">2003年</span> — ほくほくFG発足（北陸銀行＋北海道銀行）
+<span style="font-weight:700;color:#0d47a1;">2003年</span> — ほくぎんFG発足（北陸銀行単独）、<span style="font-weight:700">2004年9月に北海道銀行が加わり「ほくほくFG」に改称</span>
 </div>
 <div style="margin-bottom:18px;">
 <div style="position:absolute;left:-9px;width:15px;height:15px;border-radius:50%;background:#90caf9;border:3px solid #fff;box-shadow:0 0 0 2px #90caf9;"></div>
-<span style="font-weight:700;color:#0d47a1;">2006年</span> — ふくおかFG発足（福岡銀行＋熊本銀行＋親和銀行）
+<span style="font-weight:700;color:#0d47a1;">2007年</span> — ふくおかFG発足（福岡銀行＋熊本ファミリー銀行で4月2日発足、同年10月に親和銀行が加入）
 </div>
 <div style="margin-bottom:18px;">
 <div style="position:absolute;left:-9px;width:15px;height:15px;border-radius:50%;background:#90caf9;border:3px solid #fff;box-shadow:0 0 0 2px #90caf9;"></div>
@@ -112,7 +112,7 @@ graph TB
 </div>
 <div style="margin-bottom:18px;">
 <div style="position:absolute;left:-9px;width:15px;height:15px;border-radius:50%;background:#90caf9;border:3px solid #fff;box-shadow:0 0 0 2px #90caf9;"></div>
-<span style="font-weight:700;color:#0d47a1;">2016年</span> — めぶきFG発足（足利銀行＋常陽銀行）／コンコルディアFG発足（横浜銀行＋東日本銀行）
+<span style="font-weight:700;color:#0d47a1;">2016年10月</span> — めぶきFG発足（足利HDが常陽銀行を経営統合し改称）／コンコルディアFG発足（横浜銀行＋東日本銀行）
 </div>
 <div style="margin-bottom:18px;">
 <div style="position:absolute;left:-9px;width:15px;height:15px;border-radius:50%;background:#90caf9;border:3px solid #fff;box-shadow:0 0 0 2px #90caf9;"></div>
@@ -161,7 +161,7 @@ graph TB
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:14px;">
 <strong style="color:#0d47a1;">ほくほくフィナンシャルグループ（8377）</strong><br/>
-<span style="font-size:.88em;line-height:1.6;">北陸銀行（富山）と北海道銀行（札幌）の異例の<span style="font-weight:700">飛び地連合</span>。2003年発足、初の県境跨ぎ地銀FG{{% cite "hokuhoku_ir" %}}。</span>
+<span style="font-size:.88em;line-height:1.6;">北陸銀行（富山）と北海道銀行（札幌）の異例の<span style="font-weight:700">飛び地連合</span>。2003年9月に北陸銀行単独で「ほくぎんFG」発足、2004年9月に北海道銀行が加わり「ほくほくFG」に改称{{% cite "hokuhoku_ir" %}}。</span>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:14px;">
 <strong style="color:#0d47a1;">西日本フィナンシャルホールディングス（7189）</strong><br/>

@@ -14,7 +14,7 @@ mapPins:
   - { lat: 35.860, lng: 139.648, label: "日高屋（埼玉）", type: "ramen", note: "ハイデイ日高、首都圏中心の中華食堂" }
   - { lat: 35.453, lng: 139.638, label: "家系総本山吉村家（横浜）", type: "ramen", note: "横浜家系ラーメンの祖、1974年創業" }
   - { lat: 35.531, lng: 139.703, label: "町田商店（東京）", type: "ramen", note: "ギフトHD運営、横浜家系の全国展開大手" }
-  - { lat: 35.391, lng: 136.690, label: "岐阜タンメン（瑞穂）", type: "ramen", note: "2014年瑞穂市発祥、野菜たっぷり塩タンメン専門" }
+  - { lat: 35.391, lng: 136.690, label: "岐阜タンメン（瑞穂）", type: "ramen", note: "2009年愛知県稲沢市発祥（屋台「板谷」）、2010年岐阜市出店で岐阜タンメンに進化" }
   - { lat: 35.181, lng: 136.906, label: "スガキヤ（名古屋）", type: "ramen", note: "名古屋発の和風ラーメン、SC立地が中心" }
   - { lat: 35.011, lng: 135.768, label: "天下一品（京都）", type: "ramen", note: "京都発、こってり・あっさりの背脂ラーメン" }
   - { lat: 35.231, lng: 135.917, label: "来来亭（滋賀）", type: "ramen", note: "滋賀発、京都風ラーメンの全国チェーン" }
@@ -30,7 +30,7 @@ mapPins:
 <figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gifu_Tanmen_%28%EF%BC%8BAjitama%29_20210317.jpg?width=420" alt="岐阜タンメン" loading="lazy" style="width:100%;height:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
   <div style="display:none;background:#f3f4f6;padding:40px 20px;text-align:center;color:#9ca3af;border-radius:0;">📷 画像未設定</div>
-  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">岐阜県瑞穂市発祥の「岐阜タンメン」。岐阜県内のチェーンとして急成長し、東海・関東等にも展開。ご当地ラーメンが新たに生まれ全国に広がる代表例。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Gifu_Tanmen_(%EF%BC%8BAjitama)_20210317.jpg" target="_blank" rel="noopener noreferrer">先従隗始 / Wikimedia Commons (CC0)</a></figcaption>
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">愛知県稲沢市の屋台「タンメン専門店 板谷」（2009年）を起源とし、2010年に岐阜市に店舗型を出店した「岐阜タンメン」。東海地方のチェーンとして急成長し、東海・関東等にも展開。ご当地ラーメンが新たに生まれ全国に広がる代表例。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Gifu_Tanmen_(%EF%BC%8BAjitama)_20210317.jpg" target="_blank" rel="noopener noreferrer">先従隗始 / Wikimedia Commons (CC0)</a></figcaption>
 </figure>
 
 [日本](/rule/asia/japan/)のラーメン業界は<span style="font-weight:700">店舗数約3万店、市場規模約6,700億円</span>{{% cite "yano_ramen" %}}と推計される巨大市場ですが、特徴的なのは「<span style="font-weight:700">地域ごとに全く異なるご当地ラーメン文化</span>」がベースにある点です。札幌の味噌、博多の豚骨、横浜の家系、京都の背脂、和歌山の中華そば、徳島ラーメン、喜多方ラーメン、熊本ラーメン等々、47都道府県それぞれに固有の麺文化が存在し、それぞれの地域に根付いた老舗・地域チェーンが多数あります。
@@ -520,23 +520,3 @@ mapPins:
 <td>{{% minkabu 3197 %}}</td>
 <td><span style="font-weight:700">バーミヤン</span>等中華業態を保有。<span style="font-weight:700">2024年10月に北九州発のうどんチェーン資さんうどんを買収</span>{{% cite "skylark_ir" %}}。</td>
 <td>{{% corplink "https://corp.skylark.co.jp/ir/" %}}</td>
-<td>{{% dividend "tokyo" "3197" %}}</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-
-{{% references %}}
-yano_ramen: 矢野経済研究所「ラーメン店経営に関する調査」<https://www.yano.co.jp/>
-wina_demand: 世界ラーメン協会（WINA）需要統計<https://instantnoodles.org/jp/>
-chikara_ir: 力の源ホールディングス IR<https://www.chikaranomoto.com/ir/>
-hiday_ir: ハイデイ日高 IR<https://hiday.co.jp/ir/>
-gift_ir: ギフトホールディングス IR<https://gift-hd.com/ir/>
-kourakuen_ir: 幸楽苑ホールディングス IR<https://www.kourakuen.co.jp/ir/>
-yamaokaya_ir: 丸千代山岡家 IR<https://www.yamaokaya.com/ir/>
-monogatari_ir: 物語コーポレーション IR<https://www.monogatari.co.jp/ir/>
-skylark_ir: すかいらーくホールディングス IR<https://corp.skylark.co.jp/ir/>
-ichiran: 一蘭公式サイト<https://ichiran.com/>
-rairaitei: 来来亭公式サイト<https://www.rairaitei.co.jp/>
-{{% /references %}}
