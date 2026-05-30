@@ -28,9 +28,9 @@ mapPins:
 ## [日本](/rule/asia/japan/)のご当地ファミレス・レストランチェーンとは
 
 <figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sawayaka_Hamamatsu_Inter_genkotsu_hamburg.jpg?width=420" alt="さわやかげんこつハンバーグ" loading="lazy" style="width:100%;height:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Genkotsu_Humburg_Steak%2C_Sawayaka_01_-_Aug_16%2C_2019.jpg?width=420" alt="さわやかげんこつハンバーグ" loading="lazy" style="width:100%;height:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
   <div style="display:none;background:#f3f4f6;padding:40px 20px;text-align:center;color:#9ca3af;border-radius:0;">📷 画像未設定</div>
-  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">静岡県内のみで34店舗を展開する「炭焼きレストラン さわやか」のげんこつハンバーグ。県外進出をしない徹底ぶりが「ご当地レストラン」の象徴。<br/>画像: Wikimedia Commons</figcaption>
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">静岡県内のみで34店舗を展開する「炭焼きレストラン さわやか」のげんこつハンバーグ。県外進出をしない徹底ぶりが「ご当地レストラン」の象徴。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Genkotsu_Humburg_Steak,_Sawayaka_01_-_Aug_16,_2019.jpg" target="_blank" rel="noopener noreferrer">lazy fri13th / Wikimedia Commons (CC BY 2.0)</a></figcaption>
 </figure>
 
 [日本](/rule/asia/japan/)の外食産業は<span style="font-weight:700">市場規模約27兆円</span>{{% cite "jfsa_stats" %}}という巨大市場で、その中で「ファミレス・レストランチェーン」業態は約2兆円規模を占めます。すかいらーくHD・ゼンショーHD・ロイヤルHD・コロワイドといった全国大手が支配するように見えますが、実際には<span style="font-weight:700">県境を越えずに地元で固定客を掴むご当地チェーン</span>が数多く存在します。静岡の「さわやか」、名古屋の「コメダ珈琲」、京都の「餃子の王将」、大分の「ジョイフル」など、地域性そのものをブランドにする独自路線で全国チェーンとは異なる成長軌道を描いています{{% cite "tabihow_familyresto" %}}。
@@ -38,7 +38,7 @@ mapPins:
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">約27兆円</div><div class="stat-label">外食産業の年間市場規模{{% cite "jfsa_stats" %}}</div></div>
 <div class="stat-card"><div class="stat-num">約2兆円</div><div class="stat-label">うちファミレス・レストランチェーン市場（推定）</div></div>
-<div class="stat-card"><div class="stat-num">約3,000店</div><div class="stat-label">すかいらーくHD国内店舗数（業態合計）</div></div>
+<div class="stat-card"><div class="stat-num">3,049店</div><div class="stat-label">すかいらーくHD国内店舗数（2024年10月末・業態合計）{{% cite "skylark_ir" %}}</div></div>
 <div class="stat-card"><div class="stat-num">34店舗</div><div class="stat-label">さわやか（静岡）の全店舗数（県外進出なし）{{% cite "sawayaka" %}}</div></div>
 </div>
 
@@ -80,7 +80,7 @@ mapPins:
 
 ### コロワイド
 
-コロワイド（7616）は<span style="font-weight:700">「甘太郎」「牛角」「温野菜」「かっぱ寿司」「大戸屋」「ステーキ宮」</span>等を傘下に持ち、攻撃的なM&A戦略で外食グループを形成。2020年に大戸屋HDを完全子会社化し上場廃止にした事例は記憶に新しい{{% cite "colowide_ir" %}}。
+コロワイド（7616）は<span style="font-weight:700">「甘太郎」「牛角」「温野菜」「かっぱ寿司」「大戸屋」「ステーキ宮」</span>等を傘下に持ち、攻撃的なM&A戦略で外食グループを形成。2020年9月に大戸屋HDをTOBで子会社化（議決権46.77%）した事例は記憶に新しい（大戸屋HDは現在も東証スタンダード上場）{{% cite "colowide_ir" %}}。
 
 ### ロイヤルホールディングス
 
@@ -115,7 +115,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>びっくりドンキー（<a href="/rule/asia/japan/tohoku/iwate/">岩手</a>発）</strong><br/><span style="font-size:.85em;color:#555;">運営はアレフ（札幌、非上場）。1968年に盛岡で「べる」として創業、ハンバーグディッシュ専門で全国350店超。</span>
+<strong>びっくりドンキー（<a href="/rule/asia/japan/tohoku/iwate/">岩手</a>発）</strong><br/><span style="font-size:.85em;color:#555;">運営はアレフ（札幌、非上場）。1968年12月に盛岡で「べる」として創業、ハンバーグディッシュ専門で<span style="font-weight:700">2026年現在363店超</span>。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -156,7 +156,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>サイゼリヤ（<a href="/rule/asia/japan/kanto/saitama/">埼玉</a>）</strong><br/><span style="font-size:.85em;color:#555;">上場（7581）。1973年市川で創業、イタリアン低価格ファミレス。<span style="font-weight:700">垂直統合の食材調達</span>で単品100円台メニューを実現{{% cite "saizeriya_ir" %}}。</span>
+<strong>サイゼリヤ（<a href="/rule/asia/japan/kanto/saitama/">埼玉</a>）</strong><br/><span style="font-size:.85em;color:#555;">上場（7581）。<span style="font-weight:700">1967年に正垣泰彦が千葉県市川市本八幡で個人店として創業、1973年に株式会社マリアーヌ商会（現サイゼリヤ）として法人化</span>。イタリアン低価格ファミレス、<span style="font-weight:700">垂直統合の食材調達</span>で単品100円台メニューを実現{{% cite "saizeriya_ir" %}}。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -174,7 +174,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>大戸屋（<a href="/rule/asia/japan/kanto/tokyo/">東京</a>）</strong><br/><span style="font-size:.85em;color:#555;">2020年にコロワイド完全子会社化で上場廃止。和定食専門、首都圏中心に全国・海外展開。</span>
+<strong>大戸屋（<a href="/rule/asia/japan/kanto/tokyo/">東京</a>）</strong><br/><span style="font-size:.85em;color:#555;">2020年9月にコロワイドのTOBで子会社化（議決権46.77%）、和定食専門。<span style="font-weight:700">現在も東証スタンダード上場（2705）を維持</span>、首都圏中心に全国・海外展開。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -192,7 +192,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>ハングリータイガー（<a href="/rule/asia/japan/kanto/kanagawa/">神奈川</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1969年横浜創業のハンバーグレストラン。神奈川県内のみ展開する名門ご当地チェーン。</span>
+<strong>ハングリータイガー（<a href="/rule/asia/japan/kanto/kanagawa/">神奈川</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1969年横浜・保土ヶ谷創業のハンバーグレストラン。最盛期は30店舗超だが現在は神奈川県内中心に約11店舗で運営、名門ご当地チェーン。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -248,7 +248,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>コメダ珈琲店（<a href="/rule/asia/japan/chubu/aichi/">愛知</a>）</strong><br/><span style="font-size:.85em;color:#555;">コメダHD（3543）運営、1968年名古屋発祥。<span style="font-weight:700">「シロノワール」</span>と名古屋モーニング文化を全国に広め、現在900店超。</span>
+<strong>コメダ珈琲店（<a href="/rule/asia/japan/chubu/aichi/">愛知</a>）</strong><br/><span style="font-size:.85em;color:#555;">コメダHD（3543）運営、1968年名古屋発祥。<span style="font-weight:700">「シロノワール」</span>と名古屋モーニング文化を全国に広め、<span style="font-weight:700">2025年時点でグループ約1,130店</span>。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -323,7 +323,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>大阪王将（<a href="/rule/asia/japan/kinki/osaka/">大阪</a>）</strong><br/><span style="font-size:.85em;color:#555;">運営はイートアンドホールディングス（2882）。<span style="font-weight:700">餃子の王将とは別法人</span>、京都王将を独立した創業者の弟が大阪で開業した経緯。冷凍餃子事業も大きい。</span>
+<strong>大阪王将（<a href="/rule/asia/japan/kinki/osaka/">大阪</a>）</strong><br/><span style="font-size:.85em;color:#555;">運営はイートアンドホールディングス（2882）。<span style="font-weight:700">餃子の王将とは別法人</span>。1969年に「餃子の王将」創業者・加藤朝雄の親族である文野新造がのれん分けの形で大阪で開業した経緯（後に商標訴訟を経て「大阪王将」に屋号変更）。冷凍餃子事業も大きい。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -340,7 +340,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>トリドール（丸亀製麺）（<a href="/rule/asia/japan/kinki/hyogo/">兵庫</a>）</strong><br/><span style="font-size:.85em;color:#555;">トリドールHD（3397）運営。神戸発、セルフうどん業態国内最大。海外展開も積極的。</span>
+<strong>トリドール（丸亀製麺）（<a href="/rule/asia/japan/kinki/hyogo/">兵庫</a>）</strong><br/><span style="font-size:.85em;color:#555;">トリドールHD（3397）運営。1985年兵庫県加古川市創業（2007年神戸市中央区に本社移転）、丸亀製麺は2000年加古川市で1号店オープン、セルフうどん業態国内最大。海外展開も積極的。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -398,7 +398,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>リンガーハット（<a href="/rule/asia/japan/kyusyu/nagasaki/">長崎</a>）</strong><br/><span style="font-size:.85em;color:#555;">上場（8200）、長崎発祥。<span style="font-weight:700">長崎ちゃんぽん専門</span>の全国チェーン、国産野菜100%の品質訴求が特徴{{% cite "ringerhut_ir" %}}。</span>
+<strong>リンガーハット（<a href="/rule/asia/japan/kyusyu/nagasaki/">長崎</a>）</strong><br/><span style="font-size:.85em;color:#555;">上場（8200）。前身は1962年長崎発祥の「とんかつ浜勝」、1974年「長崎ちゃんめん」開店、1977年に「リンガーハット」へ改名。<span style="font-weight:700">長崎ちゃんぽん専門</span>の全国チェーン、2009年から国産野菜100%の品質訴求が特徴{{% cite "ringerhut_ir" %}}。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -425,7 +425,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>ジョイフル（<a href="/rule/asia/japan/kyusyu/oita/">大分</a>）</strong><br/><span style="font-size:.85em;color:#555;">上場（9942）、1979年大分発。ロードサイド型低価格ファミレス、九州中心に全国展開{{% cite "joyful_ir" %}}。</span>
+<strong>ジョイフル（<a href="/rule/asia/japan/kyusyu/oita/">大分</a>）</strong><br/><span style="font-size:.85em;color:#555;">上場（9942）、1979年大分市萩原で創業のロードサイド型低価格ファミレス。<span style="font-weight:700">2025年現在608店</span>、九州中心に全国展開{{% cite "joyful_ir" %}}。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -494,7 +494,7 @@ mapPins:
 
 外食・ファミレス業界の主要上場企業を可視化しています。非上場のさわやか・とんでん・ハングリータイガー・牧のうどん・ジョリーパスタ等は含まれませんが、業界の[日本](/rule/asia/japan/)上場企業を俯瞰できます。
 
-{{% corp-treemap "7550,3197,7581,7616,8179,3097,9942,8200,9936,7412,3563,2695,3397,3561,7611,9279,7554" %}}
+{{% corp-treemap "7550,3197,7581,7616,8179,3097,9942,8200,9936,7412,3563,2695,3397,3561,7611,9279,7554,3543,2882,3547" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -526,7 +526,7 @@ mapPins:
 <tr>
 <td>サイゼリヤ</td>
 <td>{{% minkabu 7581 %}}</td>
-<td>イタリアン低価格ファミレス。<span style="font-weight:700">垂直統合の食材調達</span>で単品100円台メニューを実現。1973年市川で創業{{% cite "saizeriya_ir" %}}。</td>
+<td>イタリアン低価格ファミレス。<span style="font-weight:700">垂直統合の食材調達</span>で単品100円台メニューを実現。1967年市川市本八幡で創業（1973年法人化）{{% cite "saizeriya_ir" %}}。</td>
 <td>{{% corplink "https://www.saizeriya.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7581" %}}</td>
 </tr>
@@ -555,14 +555,14 @@ mapPins:
 <tr>
 <td>ジョイフル</td>
 <td>{{% minkabu 9942 %}}</td>
-<td>大分本社、ロードサイド型低価格ファミレス。<span style="font-weight:700">九州地盤+全国展開</span>{{% cite "joyful_ir" %}}。</td>
+<td>大分本社、1979年大分市萩原創業のロードサイド型低価格ファミレス、<span style="font-weight:700">2025年現在608店、九州地盤+全国展開</span>{{% cite "joyful_ir" %}}。</td>
 <td>{{% corplink "https://www.joyfull.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9942" %}}</td>
 </tr>
 <tr>
 <td>リンガーハット</td>
 <td>{{% minkabu 8200 %}}</td>
-<td>長崎発祥、長崎ちゃんぽん専門の全国チェーン。<span style="font-weight:700">国産野菜100%</span>の品質訴求{{% cite "ringerhut_ir" %}}。</td>
+<td>長崎発祥（前身は1962年「とんかつ浜勝」、1977年「リンガーハット」改名）、長崎ちゃんぽん専門の全国チェーン。<span style="font-weight:700">2009年から国産野菜100%</span>の品質訴求{{% cite "ringerhut_ir" %}}。</td>
 <td>{{% corplink "https://www.ringerhut.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8200" %}}</td>
 </tr>
@@ -574,6 +574,7 @@ mapPins:
 <td>{{% dividend "tokyo" "9936" %}}</td>
 </tr>
 <tr>
+<tr>
 <td>アトム</td>
 <td>{{% minkabu 7412 %}}</td>
 <td>コロワイド子会社、北日本でのステーキ宮・にぎりの徳兵衛・甘太郎の運営。株主優待でも有名。</td>
@@ -584,14 +585,14 @@ mapPins:
 <tr>
 <td>FOOD & LIFE COMPANIES</td>
 <td>{{% minkabu 3563 %}}</td>
-<td>スシロー運営、回転寿司国内最大。海外展開も加速。</td>
+<td>スシロー運営、回転寿司国内最大。2025年9月期売上収益4,295億円、海外スシロー店舗257店超(2026年1月末)。</td>
 <td>{{% corplink "https://www.food-and-life.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3563" %}}</td>
 </tr>
 <tr>
 <td>くら寿司</td>
 <td>{{% minkabu 2695 %}}</td>
-<td>堺市本社、回転寿司大手。<span style="font-weight:700">ビッくらポン</span>の当たり付き寿司皿で家族層を捕まえる。</td>
+<td>堺市本社、回転寿司大手。<span style="font-weight:700">ビッくらポン</span>の当たり付き寿司皿で家族層を捕まえる。2026年時点約694店舗。</td>
 <td>{{% corplink "https://www.kurasushi.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "2695" %}}</td>
 </tr>
@@ -599,37 +600,59 @@ mapPins:
 <tr>
 <td>トリドールHD</td>
 <td>{{% minkabu 3397 %}}</td>
-<td>神戸発、<span style="font-weight:700">丸亀製麺</span>のセルフうどん業態国内最大。海外展開も積極的。</td>
+<td>1985年加古川発・現本社神戸。<span style="font-weight:700">丸亀製麺</span>のセルフうどん業態国内最大。海外展開も積極的。</td>
 <td>{{% corplink "https://www.toridoll.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3397" %}}</td>
 </tr>
 <tr>
 <td>力の源HD</td>
 <td>{{% minkabu 3561 %}}</td>
-<td>福岡発の<span style="font-weight:700">一風堂</span>運営、国内/海外でラーメンチェーン展開。詳しくは[ラーメンチェーン業界](/industry/japan-ramen-chains/)を参照。</td>
+<td>福岡発の<span style="font-weight:700">一風堂</span>運営、国内156店・海外140店でラーメンチェーン展開。詳しくは[ラーメンチェーン業界](/industry/japan-ramen-chains/)を参照。</td>
 <td>{{% corplink "https://www.chikaranomoto.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3561" %}}</td>
 </tr>
 <tr>
 <td>ハイデイ日高</td>
 <td>{{% minkabu 7611 %}}</td>
-<td>埼玉発、<span style="font-weight:700">中華食堂日高屋</span>運営、首都圏中心。</td>
+<td>埼玉発、<span style="font-weight:700">中華食堂日高屋</span>運営、首都圏中心471店超。</td>
 <td>{{% corplink "https://hiday.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7611" %}}</td>
 </tr>
 <tr>
 <td>ギフトHD</td>
 <td>{{% minkabu 9279 %}}</td>
-<td><span style="font-weight:700">横浜家系ラーメン町田商店</span>等を全国展開。</td>
+<td><span style="font-weight:700">横浜家系ラーメン町田商店</span>等を全国展開（直営＋プロデュース約900店）。</td>
 <td>{{% corplink "https://gift-hd.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9279" %}}</td>
 </tr>
 <tr>
 <td>幸楽苑HD</td>
 <td>{{% minkabu 7554 %}}</td>
-<td>福島発、<span style="font-weight:700">幸楽苑</span>運営。中華麺類の全国展開。</td>
+<td>福島県会津若松発（現本社郡山）、<span style="font-weight:700">幸楽苑</span>運営。中華麺類の全国展開。</td>
 <td>{{% corplink "https://www.kourakuen.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7554" %}}</td>
+</tr>
+<tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 喫茶・専門業態</td></tr>
+<tr>
+<td>コメダHD</td>
+<td>{{% minkabu 3543 %}}</td>
+<td>1968年名古屋発祥のコメダ珈琲店を運営。<span style="font-weight:700">「シロノワール」とフルサービス喫茶</span>業態で2025年時点グループ約1,130店。海外展開も加速{{% cite "komeda_ir" %}}。</td>
+<td>{{% corplink "https://www.komeda-holdings.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3543" %}}</td>
+</tr>
+<tr>
+<td>イートアンドHD</td>
+<td>{{% minkabu 2882 %}}</td>
+<td>1969年大阪市都島区創業。<span style="font-weight:700">大阪王将</span>と冷凍餃子事業の二本柱。「餃子の王将」とは別法人で、1969年に「餃子の王将」創業者・加藤朝雄の親族である文野新造がのれん分けで開業した経緯。</td>
+<td>{{% corplink "https://www.eat-and.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "2882" %}}</td>
+</tr>
+<tr>
+<td>串カツ田中HD</td>
+<td>{{% minkabu 3547 %}}</td>
+<td>大阪の新世界・通天閣風串カツ専門居酒屋を全国展開。<span style="font-weight:700">「ソース二度漬け禁止」</span>等大阪文化の演出が看板。</td>
+<td>{{% corplink "https://kushi-tanaka.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3547" %}}</td>
 </tr>
 </tbody>
 </table>
@@ -650,4 +673,5 @@ joyful_ir: ジョイフル IR<https://www.joyfull.co.jp/ir/>
 ringerhut_ir: リンガーハット IR<https://www.ringerhut.co.jp/ir/>
 ohsho_ir: 王将フードサービス IR<https://www.ohsho.co.jp/ir/>
 sawayaka: 炭焼きレストランさわやか公式サイト<https://www.genkotsu-hb.com/>
+komeda_ir: コメダホールディングス IR<https://www.komeda-holdings.co.jp/ir/>
 {{% /references %}}

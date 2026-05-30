@@ -34,9 +34,9 @@ mapPins:
 ## [日本](/rule/asia/japan/)の地方銀行とは
 
 <figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_Kyoto_head_office.jpg?width=420" alt="京都銀行本店" loading="lazy" style="width:100%;height:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Ogaki_Kyoritsu_Bank_headquarters_ac.jpg?width=420" alt="大垣共立銀行本店" loading="lazy" style="width:100%;height:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
   <div style="display:none;background:#f3f4f6;padding:40px 20px;text-align:center;color:#9ca3af;border-radius:0;">📷 画像未設定</div>
-  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">地方銀行は各都道府県の経済を支える金融インフラ。47都道府県のほぼ全てに地元発祥の地銀が存在し、地域企業・自治体・個人と密接な関係を保つ。<br/>画像: Wikimedia Commons</figcaption>
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">大垣共立銀行本店（岐阜県大垣市）。地方銀行は各都道府県の経済を支える金融インフラとして、47都道府県のほぼ全てに地元発祥の地銀が存在し、地域企業・自治体・個人と密接な関係を保つ。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:The_Ogaki_Kyoritsu_Bank_headquarters_ac.jpg" target="_blank" rel="noopener noreferrer">Asturio Cantabrio / Wikimedia Commons (CC BY-SA 4.0)</a></figcaption>
 </figure>
 
 [日本](/rule/asia/japan/)の銀行業界は<span style="font-weight:700">メガバンク（都市銀行）・地方銀行・第二地方銀行・信用金庫・信用組合</span>という重層構造で、このうち<span style="font-weight:700">地方銀行（地銀協加盟62行）と第二地方銀行（第二地銀協加盟37行）</span>が、47都道府県それぞれの地域経済を金融面で支えています。地元中小企業の融資、自治体の公金管理、住宅ローン、相続・事業承継など、メガバンクが手を出しにくい「地域密着型」業務の中心的な担い手です{{% cite "zenchikyo" %}}{{% cite "fsa_overview" %}}。
@@ -144,7 +144,7 @@ graph TB
 <span style="font-size:.88em;line-height:1.6;">福岡銀行・熊本銀行・十八親和銀行・福岡中央銀行・<span style="font-weight:700">みんなの銀行（デジタル銀行）</span>を傘下。九州最大、地銀FG業界2位の規模{{% cite "ffg_ir" %}}。</span>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:14px;">
-<strong style="color:#0d47a1;">コンコルディア・フィナンシャルグループ（7186）</strong><br/>
+<strong style="color:#0d47a1;">コンコルディア・FG（7186、2025年10月1日に<span style="font-weight:700">横浜フィナンシャルグループ</span>へ商号変更）</strong><br/>
 <span style="font-size:.88em;line-height:1.6;">横浜銀行・東日本銀行を傘下。<span style="font-weight:700">地銀FG業界1位</span>、横浜銀行は単独でも国内最大の地銀{{% cite "concordia_ir" %}}。</span>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:14px;">
@@ -713,7 +713,7 @@ graph TB
 <tbody class="corp-desc">
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ 広域フィナンシャルグループ</td></tr>
 <tr>
-<td>コンコルディア・FG</td>
+<td>横浜FG（旧コンコルディア・FG）</td>
 <td>{{% minkabu 7186 %}}</td>
 <td><span style="font-weight:700">横浜銀行</span>・東日本銀行を傘下に持つ国内最大の地銀FG。横浜銀行は単独でも国内最大の地銀{{% cite "concordia_ir" %}}。</td>
 <td>{{% corplink "https://www.concordia-fg.jp/ir/" %}}</td>
@@ -985,8 +985,4 @@ concordia_ir: コンコルディア・フィナンシャルグループ IR<https
 mebuki_ir: めぶきフィナンシャルグループ IR<https://www.mebuki-fg.co.jp/ir/>
 ncbfh_ir: 西日本フィナンシャルホールディングス IR<https://www.ncbank.co.jp/ir/>
 hokuhoku_ir: ほくほくフィナンシャルグループ IR<https://www.hokuhoku-fg.co.jp/ir/>
-kfg_ir: 九州フィナンシャルグループ IR<https://www.kyushu-fg.co.jp/ir/>
-ymfg_ir: 山口フィナンシャルグループ IR<https://www.ymfg.co.jp/ir/>
-dhfg_ir: 第四北越フィナンシャルグループ IR<https://www.dhfg.co.jp/ir/>
-kyoto_bank_ir: 京都銀行 IR<https://www.kyotobank.co.jp/ir/>
-{{% /references %}}
+kfg_ir: 九州フィナンシャルグループ IR<https://www.kyushu-fg.co.jp/

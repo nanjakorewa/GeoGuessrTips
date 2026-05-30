@@ -14,6 +14,7 @@ mapPins:
   - { lat: 35.860, lng: 139.648, label: "日高屋（埼玉）", type: "ramen", note: "ハイデイ日高、首都圏中心の中華食堂" }
   - { lat: 35.453, lng: 139.638, label: "家系総本山吉村家（横浜）", type: "ramen", note: "横浜家系ラーメンの祖、1974年創業" }
   - { lat: 35.531, lng: 139.703, label: "町田商店（東京）", type: "ramen", note: "ギフトHD運営、横浜家系の全国展開大手" }
+  - { lat: 35.391, lng: 136.690, label: "岐阜タンメン（瑞穂）", type: "ramen", note: "2014年瑞穂市発祥、野菜たっぷり塩タンメン専門" }
   - { lat: 35.181, lng: 136.906, label: "スガキヤ（名古屋）", type: "ramen", note: "名古屋発の和風ラーメン、SC立地が中心" }
   - { lat: 35.011, lng: 135.768, label: "天下一品（京都）", type: "ramen", note: "京都発、こってり・あっさりの背脂ラーメン" }
   - { lat: 35.231, lng: 135.917, label: "来来亭（滋賀）", type: "ramen", note: "滋賀発、京都風ラーメンの全国チェーン" }
@@ -27,9 +28,9 @@ mapPins:
 ## [日本](/rule/asia/japan/)のご当地ラーメンチェーンとは
 
 <figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ramen_Ichiran_Shinjuku.jpg?width=420" alt="一蘭新宿店" loading="lazy" style="width:100%;height:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gifu_Tanmen_%28%EF%BC%8BAjitama%29_20210317.jpg?width=420" alt="岐阜タンメン" loading="lazy" style="width:100%;height:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
   <div style="display:none;background:#f3f4f6;padding:40px 20px;text-align:center;color:#9ca3af;border-radius:0;">📷 画像未設定</div>
-  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">福岡発祥の博多豚骨ラーメン「一蘭」。「味集中カウンター」と呼ばれる個室型客席で、ご当地ラーメンが全国・世界に広がった代表例。<br/>画像: Wikimedia Commons</figcaption>
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">岐阜県瑞穂市発祥の「岐阜タンメン」。岐阜県内のチェーンとして急成長し、東海・関東等にも展開。ご当地ラーメンが新たに生まれ全国に広がる代表例。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Gifu_Tanmen_(%EF%BC%8BAjitama)_20210317.jpg" target="_blank" rel="noopener noreferrer">先従隗始 / Wikimedia Commons (CC0)</a></figcaption>
 </figure>
 
 [日本](/rule/asia/japan/)のラーメン業界は<span style="font-weight:700">店舗数約3万店、市場規模約6,700億円</span>{{% cite "yano_ramen" %}}と推計される巨大市場ですが、特徴的なのは「<span style="font-weight:700">地域ごとに全く異なるご当地ラーメン文化</span>」がベースにある点です。札幌の味噌、博多の豚骨、横浜の家系、京都の背脂、和歌山の中華そば、徳島ラーメン、喜多方ラーメン、熊本ラーメン等々、47都道府県それぞれに固有の麺文化が存在し、それぞれの地域に根付いた老舗・地域チェーンが多数あります。
@@ -82,7 +83,7 @@ mapPins:
 
 ### 一風堂（福岡発）
 
-力の源HD（3561）が運営する<span style="font-weight:700">一風堂</span>は、1985年に福岡市大名で創業。<span style="font-weight:700">「白丸元味」「赤丸新味」</span>を看板にスタイリッシュな店舗デザインと組み合わせ、ラーメン店の高級感・国際化を主導しました。現在は<span style="font-weight:700">国内156店超・海外140店超</span>{{% cite "chikara_ir" %}}と海外比率が極めて高いラーメンチェーンです。
+力の源HD（3561）が運営する<span style="font-weight:700">一風堂</span>は、1985年に福岡市大名で創業。<span style="font-weight:700">「白丸元味」「赤丸新味」</span>を看板にスタイリッシュな店舗デザインと組み合わせ、ラーメン店の高級感・国際化を主導しました。<span style="font-weight:700">2025年3月期末で国内156店・海外140店（16カ国・地域）</span>と海外比率が高いラーメンチェーンです{{% cite "chikara_ir" %}}。
 
 ### 一蘭（福岡発）
 
@@ -102,7 +103,7 @@ mapPins:
 
 ### 天下一品（京都発）
 
-非上場、京都市左京区本社。<span style="font-weight:700">「こってり」「あっさり」</span>の二択メニューで知られる京都発祥のラーメンチェーン、全国250店超。
+非上場、京都市左京区本社。<span style="font-weight:700">「こってり」「あっさり」</span>の二択メニューで知られる京都発祥のラーメンチェーン、全国約198店。
 
 ### 山岡家（茨城発）
 
@@ -127,7 +128,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>すみれ・純連（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、札幌味噌ラーメンの代表ブランド。「すみれ」は1964年創業、「純連」も同系列。札幌・首都圏中心に展開。</span>
+<strong>すみれ・純連（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1964年に村中明子が札幌市豊平区中の島で「純連」（当時の読みは「すみれ」）として創業。1989年に三男・伸宜が独立し「すみれ」を分離開店、現在は札幌・首都圏中心に展開する札幌味噌ラーメンの代表ブランド。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -136,7 +137,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>えびそば一幻（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、札幌発祥の「えびそば」専門。甘エビの濃厚スープで全国・海外（台湾等）にも展開。</span>
+<strong>えびそば一幻（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">2008年札幌発祥の「えびそば」専門。甘エビの濃厚スープで国内・海外（香港・台湾等）に展開、<span style="font-weight:700">2024年クリエイト・レストランツHD（3387）が完全子会社化</span>。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -145,7 +146,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>末廣ラーメン本舗（<a href="/rule/asia/japan/tohoku/akita/">秋田</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、秋田・横手系ラーメンチェーン。あっさり煮干し系スープで秋田の定番。</span>
+<strong>末廣ラーメン本舗（<a href="/rule/asia/japan/tohoku/akita/">秋田</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、秋田市本店。創業者が京都『新福菜館』で修行した経歴で、<span style="font-weight:700">京都ラーメン系統（豚肉・鶏・野菜のあっさり醤油スープ＋京都の溜まり醤油の返し）</span>を秋田で展開する「秋田で食べられる京都ラーメン」。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -163,7 +164,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>喜多方ラーメン坂内（<a href="/rule/asia/japan/tohoku/fukushima/">福島</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、福島県喜多方発の老舗ラーメン。あっさり醤油の喜多方ラーメンを全国チェーン化。</span>
+<strong>喜多方ラーメン坂内（<a href="/rule/asia/japan/tohoku/fukushima/">福島</a>）</strong><br/><span style="font-size:.85em;color:#555;">運営は株式会社麺食（東京・品川、1988年設立）。福島県喜多方の老舗「坂内食堂」を本家とし、あっさり醤油の喜多方ラーメンを首都圏中心に全国チェーン化。</span>
 </div>
 </div>
 </div>
@@ -222,7 +223,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>魂心家・町田商店系（<a href="/rule/asia/japan/kanto/tokyo/">東京</a>）</strong><br/><span style="font-size:.85em;color:#555;">ギフトHD系の家系ラーメンブランド、首都圏での多ブランド戦略の一翼。</span>
+<strong>魂心家（<a href="/rule/asia/japan/kanto/kanagawa/">神奈川</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、運営は<span style="font-weight:700">株式会社トイダック（神奈川県大和市）</span>。横浜家系ラーメン「魂心家」として首都圏中心に約59店舗を展開、姉妹ブランド「壱七家」も運営。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -254,7 +255,15 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>8番らーめん（<a href="/rule/asia/japan/chubu/ishikawa/">石川</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1967年加賀発祥の野菜たっぷりラーメン。北陸三県中心+東南アジア（タイ）に多店舗展開。</span>
+<strong>8番らーめん（<a href="/rule/asia/japan/chubu/ishikawa/">石川</a>）</strong><br/><span style="font-size:.85em;color:#555;">運営は<span style="font-weight:700">株式会社ハチバン（9950・東証スタンダード上場）</span>。1967年加賀発祥の野菜たっぷりラーメン、北陸三県中心+東南アジア（タイ）に多店舗展開。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>岐阜タンメン（<a href="/rule/asia/japan/chubu/gifu/">岐阜</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、運営は株式会社ジェイズ・キッチン。2014年瑞穂市発祥の<span style="font-weight:700">野菜たっぷり塩タンメン</span>専門、岐阜・東海中心に近畿・関東等にも展開。卓上の追い辛味噌が看板。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -281,7 +290,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>天下一品（<a href="/rule/asia/japan/kinki/kyoto/">京都</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、京都市左京区本社。<span style="font-weight:700">「こってり」「あっさり」</span>の二択メニュー、全国250店超。</span>
+<strong>天下一品（<a href="/rule/asia/japan/kinki/kyoto/">京都</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、京都市左京区本社。<span style="font-weight:700">「鶏と11種類の野菜」</span>のみで作るポタージュ状の独自スープで知られる京都発祥チェーン、「こってり」「あっさり」の二択メニューで全国約198店。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -425,9 +434,9 @@ mapPins:
 
 ## 関連企業の時価総額マップ
 
-ラーメンチェーン業界の主要上場企業を可視化しています。非上場の一蘭・天下一品・来来亭・神座・スガキヤ・8番らーめん等は含まれませんが、業界の[日本](/rule/asia/japan/)上場企業を俯瞰できます。
+ラーメンチェーン業界の主要上場企業を可視化しています。非上場の一蘭・天下一品・来来亭・神座・スガキヤ等は含まれませんが、業界の[日本](/rule/asia/japan/)上場企業を俯瞰できます。
 
-{{% corp-treemap "3561,7611,9279,7554,3397,3097,7616,3197" %}}
+{{% corp-treemap "3561,7611,9279,7554,3399,9950,3097,7616,3197,3397" %}}
 
 <div class="container-corp mt-5" id="corp-desc">
 <table class="table table-striped table-bordered">
@@ -445,36 +454,50 @@ mapPins:
 <tr>
 <td>力の源HD</td>
 <td>{{% minkabu 3561 %}}</td>
-<td>福岡発の<span style="font-weight:700">一風堂</span>運営。国内156店超・海外140店超で<span style="font-weight:700">海外比率が極めて高い</span>ラーメンチェーン{{% cite "chikara_ir" %}}。</td>
+<td>福岡発の<span style="font-weight:700">一風堂</span>運営。国内156店・海外140店（2025年3月期末）で<span style="font-weight:700">海外比率が高い</span>ラーメンチェーン{{% cite "chikara_ir" %}}。</td>
 <td>{{% corplink "https://www.chikaranomoto.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3561" %}}</td>
 </tr>
 <tr>
 <td>ハイデイ日高</td>
 <td>{{% minkabu 7611 %}}</td>
-<td>埼玉発、<span style="font-weight:700">中華食堂日高屋</span>運営。首都圏JR沿線駅前を中心に展開{{% cite "hiday_ir" %}}。</td>
+<td>埼玉発、<span style="font-weight:700">中華食堂日高屋</span>運営。首都圏JR沿線駅前を中心に471店超展開{{% cite "hiday_ir" %}}。</td>
 <td>{{% corplink "https://hiday.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7611" %}}</td>
 </tr>
 <tr>
 <td>ギフトHD</td>
 <td>{{% minkabu 9279 %}}</td>
-<td>横浜家系ラーメン<span style="font-weight:700">町田商店</span>等の全国展開。横浜家系の全国チェーン化の代表例{{% cite "gift_ir" %}}。</td>
+<td>横浜家系ラーメン<span style="font-weight:700">町田商店</span>等の全国展開。直営＋プロデュースで国内約900店規模{{% cite "gift_ir" %}}。</td>
 <td>{{% corplink "https://gift-hd.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9279" %}}</td>
 </tr>
 <tr>
 <td>幸楽苑HD</td>
 <td>{{% minkabu 7554 %}}</td>
-<td>1954年福島県会津若松発祥（現本社は郡山）、<span style="font-weight:700">低価格中華そば</span>の全国チェーン{{% cite "kourakuen_ir" %}}。</td>
+<td>1954年福島県会津若松発祥（現本社・郡山）、<span style="font-weight:700">低価格中華そば</span>の全国チェーン{{% cite "kourakuen_ir" %}}。</td>
 <td>{{% corplink "https://www.kourakuen.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "7554" %}}</td>
+</tr>
+<tr>
+<td>丸千代山岡家</td>
+<td>{{% minkabu 3399 %}}</td>
+<td>1988年茨城県牛久発祥、<span style="font-weight:700">24時間営業ロードサイド型豚骨ラーメン山岡家</span>を全国190店超展開{{% cite "yamaokaya_ir" %}}。</td>
+<td>{{% corplink "https://www.yamaokaya.com/ir/" %}}</td>
+<td>{{% dividend "tokyo" "3399" %}}</td>
+</tr>
+<tr>
+<td>ハチバン</td>
+<td>{{% minkabu 9950 %}}</td>
+<td>1967年加賀発祥の<span style="font-weight:700">8番らーめん</span>運営。野菜たっぷりラーメンを北陸三県中心+東南アジア（特にタイ）に多店舗展開。2013年東証スタンダード上場。</td>
+<td>{{% corplink "https://www.hachiban.co.jp/ir/" %}}</td>
+<td>{{% dividend "tokyo" "9950" %}}</td>
 </tr>
 <tr><td colspan="5" style="background:#f1f5f9;font-weight:700;">■ ラーメンを含む麺類専門・多業態（参考）</td></tr>
 <tr>
 <td>トリドールHD</td>
 <td>{{% minkabu 3397 %}}</td>
-<td>神戸発、<span style="font-weight:700">丸亀製麺</span>のセルフうどん業態国内最大。海外展開も積極的。麺類業界全体の主要プレイヤー。</td>
+<td>1985年加古川発（現本社・神戸）、<span style="font-weight:700">丸亀製麺</span>のセルフうどん業態国内最大。海外展開も積極的。麺類業界全体の主要プレイヤー。</td>
 <td>{{% corplink "https://www.toridoll.com/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3397" %}}</td>
 </tr>
@@ -495,7 +518,7 @@ mapPins:
 <tr>
 <td>すかいらーくHD</td>
 <td>{{% minkabu 3197 %}}</td>
-<td><span style="font-weight:700">バーミヤン</span>等中華業態を保有。<span style="font-weight:700">2024年に北九州発のうどんチェーン資さんうどんを買収</span>{{% cite "skylark_ir" %}}。</td>
+<td><span style="font-weight:700">バーミヤン</span>等中華業態を保有。<span style="font-weight:700">2024年10月に北九州発のうどんチェーン資さんうどんを買収</span>{{% cite "skylark_ir" %}}。</td>
 <td>{{% corplink "https://corp.skylark.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "3197" %}}</td>
 </tr>
