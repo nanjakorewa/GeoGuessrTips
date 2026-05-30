@@ -30,7 +30,7 @@ mapPins:
 <figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Genkotsu_Humburg_Steak%2C_Sawayaka_01_-_Aug_16%2C_2019.jpg?width=420" alt="さわやかげんこつハンバーグ" loading="lazy" style="width:100%;height:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
   <div style="display:none;background:#f3f4f6;padding:40px 20px;text-align:center;color:#9ca3af;border-radius:0;">📷 画像未設定</div>
-  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">静岡県内のみで34店舗を展開する「炭焼きレストラン さわやか」のげんこつハンバーグ。県外進出をしない徹底ぶりが「ご当地レストラン」の象徴。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Genkotsu_Humburg_Steak,_Sawayaka_01_-_Aug_16,_2019.jpg" target="_blank" rel="noopener noreferrer">lazy fri13th / Wikimedia Commons (CC BY 2.0)</a></figcaption>
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">静岡県内のみで35店舗（2026年時点）を展開する「炭焼きレストラン さわやか」のげんこつハンバーグ。県外進出をしない徹底ぶりが「ご当地レストラン」の象徴。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Genkotsu_Humburg_Steak,_Sawayaka_01_-_Aug_16,_2019.jpg" target="_blank" rel="noopener noreferrer">lazy fri13th / Wikimedia Commons (CC BY 2.0)</a></figcaption>
 </figure>
 
 [日本](/rule/asia/japan/)の外食産業は<span style="font-weight:700">市場規模約27兆円</span>{{% cite "jfsa_stats" %}}という巨大市場で、その中で「ファミレス・レストランチェーン」業態は約2兆円規模を占めます。すかいらーくHD・ゼンショーHD・ロイヤルHD・コロワイドといった全国大手が支配するように見えますが、実際には<span style="font-weight:700">県境を越えずに地元で固定客を掴むご当地チェーン</span>が数多く存在します。静岡の「さわやか」、名古屋の「コメダ珈琲」、京都の「餃子の王将」、大分の「ジョイフル」など、地域性そのものをブランドにする独自路線で全国チェーンとは異なる成長軌道を描いています{{% cite "tabihow_familyresto" %}}。
@@ -39,7 +39,7 @@ mapPins:
 <div class="stat-card"><div class="stat-num">約27兆円</div><div class="stat-label">外食産業の年間市場規模{{% cite "jfsa_stats" %}}</div></div>
 <div class="stat-card"><div class="stat-num">約2兆円</div><div class="stat-label">うちファミレス・レストランチェーン市場（推定）</div></div>
 <div class="stat-card"><div class="stat-num">3,049店</div><div class="stat-label">すかいらーくHD国内店舗数（2024年10月末・業態合計）{{% cite "skylark_ir" %}}</div></div>
-<div class="stat-card"><div class="stat-num">34店舗</div><div class="stat-label">さわやか（静岡）の全店舗数（県外進出なし）{{% cite "sawayaka" %}}</div></div>
+<div class="stat-card"><div class="stat-num">35店舗</div><div class="stat-label">さわやか（静岡）の全店舗数・2026年時点（県外進出なし）{{% cite "sawayaka" %}}</div></div>
 </div>
 
 ## なぜ「県内限定」のレストランが生き残るのか
@@ -50,7 +50,7 @@ mapPins:
 
 ### 集中出店による物流・人材効率
 
-地域チェーンの強みは<span style="font-weight:700">高密度出店</span>です。同じ商圏に集中することで、(1) 食材物流のコスト削減、(2) スタッフ採用と異動の効率、(3) 地元での認知広告効率、という3つを同時に獲得できます。さわやかが「34店舗すべて静岡県内」を貫くのは、この経済効率と本部の管理可能距離を超えないため、という戦略選択の可能性が高いです。
+地域チェーンの強みは<span style="font-weight:700">高密度出店</span>です。同じ商圏に集中することで、(1) 食材物流のコスト削減、(2) スタッフ採用と異動の効率、(3) 地元での認知広告効率、という3つを同時に獲得できます。さわやかが「35店舗（2026年時点）すべて静岡県内」を貫くのは、この経済効率と本部の管理可能距離を超えないため、という戦略選択の可能性が高いです。
 
 ### 全国チェーンが模倣しにくい「地域文脈」
 
@@ -192,7 +192,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>ハングリータイガー（<a href="/rule/asia/japan/kanto/kanagawa/">神奈川</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1969年横浜・保土ヶ谷創業のハンバーグレストラン。最盛期は30店舗超だが現在は神奈川県内中心に約11店舗で運営、名門ご当地チェーン。</span>
+<strong>ハングリータイガー（<a href="/rule/asia/japan/kanto/kanagawa/">神奈川</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1969年2月14日に横浜・保土ヶ谷で創業のハンバーグレストラン。最盛期は30店舗超だが現在は神奈川県内中心に約12店舗で運営、名門ご当地チェーン。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -239,7 +239,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>さわやか（<a href="/rule/asia/japan/chubu/shizuoka/">静岡</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、静岡県内34店舗のみ。<span style="font-weight:700">「げんこつハンバーグ」</span>が全国区の名物で、休日は2〜3時間待ち。県外進出を一切しない方針{{% cite "sawayaka" %}}。</span>
+<strong>さわやか（<a href="/rule/asia/japan/chubu/shizuoka/">静岡</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、静岡県内35店舗のみ（2026年時点）。<span style="font-weight:700">「げんこつハンバーグ」</span>が全国区の名物で、休日は2〜3時間待ち。県外進出を一切しない方針{{% cite "sawayaka" %}}。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -248,7 +248,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>コメダ珈琲店（<a href="/rule/asia/japan/chubu/aichi/">愛知</a>）</strong><br/><span style="font-size:.85em;color:#555;">コメダHD（3543）運営、1968年名古屋発祥。<span style="font-weight:700">「シロノワール」</span>と名古屋モーニング文化を全国に広め、<span style="font-weight:700">2025年時点でグループ約1,130店</span>。</span>
+<strong>コメダ珈琲店（<a href="/rule/asia/japan/chubu/aichi/">愛知</a>）</strong><br/><span style="font-size:.85em;color:#555;">コメダHD（3543）運営、1968年名古屋発祥。<span style="font-weight:700">「シロノワール」</span>と名古屋モーニング文化を全国に広め、<span style="font-weight:700">グループ約1,050〜1,100店規模</span>。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -425,7 +425,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>ジョイフル（<a href="/rule/asia/japan/kyusyu/oita/">大分</a>）</strong><br/><span style="font-size:.85em;color:#555;">上場（9942）、1979年大分市萩原で創業のロードサイド型低価格ファミレス。<span style="font-weight:700">2025年現在608店</span>、九州中心に全国展開{{% cite "joyful_ir" %}}。</span>
+<strong>ジョイフル（<a href="/rule/asia/japan/kyusyu/oita/">大分</a>）</strong><br/><span style="font-size:.85em;color:#555;">上場（9942）、1979年2月に大分市萩原で創業のロードサイド型低価格ファミレス。<span style="font-weight:700">2023年6月時点で656店、その後の店舗整理で約600店規模</span>、九州中心に全国展開{{% cite "joyful_ir" %}}。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
