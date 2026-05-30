@@ -504,7 +504,7 @@ graph TB
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>中国銀行（<a href="/rule/asia/japan/chugoku/okayama/">岡山</a>）</strong><br/><span style="font-size:.85em;color:#555;">岡山本店、岡山県地盤。中華人民共和国の銀行とは無関係。トマト銀行（第二地銀）も並立。</span>
+<strong>中国銀行（<a href="/rule/asia/japan/chugoku/okayama/">岡山</a>）</strong><br/><span style="font-size:.85em;color:#555;">岡山本店、岡山県地盤。<span style="font-weight:700">1930年に第一合同銀行と山陽銀行が合併して設立</span>、最古の前身は1878年設立の第八十六国立銀行（現高梁市）。中華人民共和国の銀行とは無関係。トマト銀行（第二地銀）も並立。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -522,7 +522,7 @@ graph TB
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>山陰合同銀行（<a href="/rule/asia/japan/chugoku/shimane/">島根</a>・<a href="/rule/asia/japan/chugoku/tottori/">鳥取</a>）</strong><br/><span style="font-size:.85em;color:#555;">「ごうぎん」。1941年に松江銀行・鳥取銀行（旧）等が合併して発足、山陰二県を一行が担う。</span>
+<strong>山陰合同銀行（<a href="/rule/asia/japan/chugoku/shimane/">島根</a>・<a href="/rule/asia/japan/chugoku/tottori/">鳥取</a>）</strong><br/><span style="font-size:.85em;color:#555;">「ごうぎん」。1941年に松江銀行と米子銀行が合併して発足、同年10月に石州銀行・矢上銀行を合併し島根全県へ拡大、山陰二県を一行が担う。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -856,7 +856,7 @@ graph TB
 <tr>
 <td>中国銀行</td>
 <td>{{% minkabu 8382 %}}</td>
-<td>岡山本店、岡山県地盤、中国地方広域。<span style="font-weight:700">中華人民共和国の銀行とは無関係</span>、明治期に「第二十二国立銀行」から発展。</td>
+<td>岡山本店、岡山県地盤、中国地方広域。<span style="font-weight:700">中華人民共和国の銀行とは無関係</span>。1930年に第一合同銀行と山陽銀行が合併して設立、最古の前身は1878年設立の第八十六国立銀行（現高梁市）。</td>
 <td>{{% corplink "https://www.chugin.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "8382" %}}</td>
 </tr>

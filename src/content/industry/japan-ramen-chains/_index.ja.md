@@ -12,7 +12,7 @@ mapPins:
   - { lat: 36.341, lng: 140.447, label: "ラーメン山岡家（茨城）", type: "ramen", note: "茨城発、24時間営業のロードサイド型豚骨" }
   - { lat: 37.401, lng: 140.388, label: "幸楽苑（福島）", type: "ramen", note: "福島発、低価格中華そばの全国チェーン" }
   - { lat: 35.860, lng: 139.648, label: "日高屋（埼玉）", type: "ramen", note: "ハイデイ日高、首都圏中心の中華食堂" }
-  - { lat: 35.453, lng: 139.638, label: "家系総本山吉村家（横浜）", type: "ramen", note: "横浜家系ラーメンの祖、1974年創業" }
+  - { lat: 35.402, lng: 139.617, label: "家系総本山吉村家（横浜・磯子）", type: "ramen", note: "横浜家系ラーメンの祖、1974年磯子区新杉田で創業（現本店は西区岡野）" }
   - { lat: 35.531, lng: 139.703, label: "町田商店（東京）", type: "ramen", note: "ギフトHD運営、横浜家系の全国展開大手" }
   - { lat: 35.391, lng: 136.690, label: "岐阜タンメン（瑞穂）", type: "ramen", note: "2009年愛知県稲沢市発祥（屋台「板谷」）、2010年岐阜市出店で岐阜タンメンに進化" }
   - { lat: 35.181, lng: 136.906, label: "スガキヤ（名古屋）", type: "ramen", note: "名古屋発の和風ラーメン、SC立地が中心" }
@@ -91,7 +91,7 @@ mapPins:
 
 ### 町田商店（神奈川発）
 
-ギフトHD（9279）が運営する<span style="font-weight:700">町田商店</span>は、横浜家系ラーメンの全国チェーン化に成功した代表例。家系総本山「吉村家」（横浜市西区、非上場・1974年創業）のリスペクト下に独自路線で全国展開{{% cite "gift_ir" %}}。
+ギフトHD（9279）が運営する<span style="font-weight:700">町田商店</span>は、横浜家系ラーメンの全国チェーン化に成功した代表例。家系総本山「吉村家」（横浜市磯子区創業、現本店は西区岡野、非上場・1974年創業）のリスペクト下に独自路線で全国展開{{% cite "gift_ir" %}}。
 
 ### スガキヤ（名古屋発）
 
@@ -196,7 +196,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>家系総本山吉村家（<a href="/rule/asia/japan/kanto/kanagawa/">神奈川</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1974年横浜西区創業。<span style="font-weight:700">横浜家系ラーメンの祖</span>、現在も直系数店舗のみで「総本山」の地位を維持。</span>
+<strong>家系総本山吉村家（<a href="/rule/asia/japan/kanto/kanagawa/">神奈川</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1974年9月に<span style="font-weight:700">横浜市磯子区（新杉田）</span>で創業（1999年に西区南幸町、2023年に西区岡野へ移転）。<span style="font-weight:700">横浜家系ラーメンの祖</span>、現在も直系数店舗のみで「総本山」の地位を維持。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -255,7 +255,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>8番らーめん（<a href="/rule/asia/japan/chubu/ishikawa/">石川</a>）</strong><br/><span style="font-size:.85em;color:#555;">運営は<span style="font-weight:700">株式会社ハチバン（9950・東証スタンダード上場）</span>。1967年加賀発祥の野菜たっぷりラーメン、北陸三県中心+東南アジア（タイ）に多店舗展開。</span>
+<strong>8番らーめん（<a href="/rule/asia/japan/chubu/ishikawa/">石川</a>）</strong><br/><span style="font-size:.85em;color:#555;">運営は<span style="font-weight:700">株式会社ハチバン（9950・東証スタンダード）</span>。1967年加賀市の国道8号線沿いで発祥した野菜たっぷりラーメン、北陸三県中心+東南アジア（タイ）に多店舗展開。1993年株式公開（2022年の市場再編で現スタンダード市場に）。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -345,7 +345,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>井出商店系（<a href="/rule/asia/japan/kinki/wakayama/">和歌山</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、和歌山中華そばの老舗代表。「車庫前系」豚骨醤油の元祖、全国系列店も。</span>
+<strong>井出商店系（<a href="/rule/asia/japan/kinki/wakayama/">和歌山</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1953年和歌山創業の中華そば老舗代表。<span style="font-weight:700">「井出系」豚骨醤油（濃厚白濁系）の元祖</span>として知られる。なお和歌山ラーメンは「井出系（豚骨醤油・白濁）」と「車庫前系（醤油・あっさり）」に分類される。</span>
 </div>
 </div>
 </div>
@@ -489,7 +489,7 @@ mapPins:
 <tr>
 <td>ハチバン</td>
 <td>{{% minkabu 9950 %}}</td>
-<td>1967年加賀発祥の<span style="font-weight:700">8番らーめん</span>運営。野菜たっぷりラーメンを北陸三県中心+東南アジア（特にタイ）に多店舗展開。2013年東証スタンダード上場。</td>
+<td>1967年加賀市の国道8号線沿いで発祥した<span style="font-weight:700">8番らーめん</span>運営。野菜たっぷりラーメンを北陸三県中心+東南アジア（特にタイ）に多店舗展開。1993年株式公開、2022年の市場再編で現スタンダード市場へ移行。</td>
 <td>{{% corplink "https://www.hachiban.co.jp/ir/" %}}</td>
 <td>{{% dividend "tokyo" "9950" %}}</td>
 </tr>

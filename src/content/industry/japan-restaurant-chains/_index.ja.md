@@ -124,7 +124,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>半田屋（<a href="/rule/asia/japan/tohoku/miyagi/">宮城</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、仙台発のセルフ食堂チェーン。「うまいよ、やすいよ、はんだやだよ」のキャッチコピーで東北・首都圏に展開。</span>
+<strong>半田屋（<a href="/rule/asia/japan/tohoku/miyagi/">宮城</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1954年仙台駅前で「めしのはんだや」として創業のセルフ食堂チェーン。<span style="font-weight:700">「生れた時からどんぶりめし」</span>のキャッチコピーで東北・首都圏に展開。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
