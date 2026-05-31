@@ -140,11 +140,12 @@ references:
 {{% tabs %}}
 {{% tab "ツルヤ" %}}
 {{% notice tip %}}
-長野のローカルスーパーであるツルヤがある。なぜか数店だけ{{% goto "../../kanto/gunma/" "群馬" %}}にもあるので注意。牛乳パンのバタークリームがおいしいと思う。
+長野のローカルスーパーであるツルヤがある。なぜか数店だけ{{% goto "../../kanto/gunma/" "群馬" %}}にもあるので注意。牛乳パンのバタークリームがおいしいと思う。デリシアも長野にしかない。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <img src="Tsuruya_logo.svg" width="300px" alt="ツルヤのロゴ">
+<img src="Delicia_logo.svg" width="300px" alt="デリシアのロゴ">
 </div>
 
 {{% /tab %}}
