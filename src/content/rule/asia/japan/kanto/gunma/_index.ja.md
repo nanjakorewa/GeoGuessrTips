@@ -39,6 +39,12 @@ prefInfo:
     - url: '/industry/japan-tire/'
       title: '日本のタイヤ産業'
       note: 'ブリヂストン東洋タイヤ／関連工場'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '群馬銀行・東和銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'ベイシア（ワークマン・カインズ系）・とりせん'
 municipalities:
   svg: "/maps/prefectures/gunma.svg"
   list:

@@ -46,6 +46,15 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '中国電力本店所在地'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: 'ひろぎんHD（広島銀行）・もみじ銀行（山口FG）'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'イズミ（ゆめタウン）・ハローズ（24時間営業）・マックスバリュ西日本・エブリイ'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '尾道ラーメン系チェーン（壱番館・東珍康等）'
 municipalities:
   svg: "/maps/prefectures/hiroshima.svg"
   list:

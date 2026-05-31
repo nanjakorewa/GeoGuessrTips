@@ -41,6 +41,12 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '中部電力エリア・水力発電'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '八十二銀行（2023年に長野銀行を経営統合）'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'ツルヤ（県内のみ展開・PB品質伝説）・デリシア（アルピコHD系）'
 municipalities:
   svg: "/maps/prefectures/nagano.svg"
   list:

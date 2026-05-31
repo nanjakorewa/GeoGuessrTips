@@ -43,6 +43,12 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '中国電力エリア・上関原発計画地'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '山口FG（山口銀行・もみじ銀行・北九州銀行）・西京銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'レッドキャベツ'
 municipalities:
   svg: "/maps/prefectures/yamaguchi.svg"
   list:

@@ -43,6 +43,18 @@ prefInfo:
     - url: '/industry/japan-logistics/'
       title: '日本のロジスティクス'
       note: '京浜港湾物流'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: 'コンコルディアFG（横浜銀行・国内最大の地銀）・神奈川銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'ロピア・オーケー（首都圏EDLPの代表格）'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: 'ハングリータイガー（1969年横浜・保土ヶ谷創業）'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '家系総本山吉村家（1974年磯子区創業）・町田商店・魂心家'
 municipalities:
   svg: "/maps/prefectures/kanagawa.svg"
   list:

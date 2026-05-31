@@ -42,6 +42,12 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '東北電力エリア'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '山形銀行・荘内銀行（フィデアHD）・きらやか銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'ヤマザワ（山形・宮城地盤）'
 municipalities:
   svg: "/maps/prefectures/yamagata.svg"
   list:

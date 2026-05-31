@@ -42,6 +42,9 @@ prefInfo:
     - url: '/industry/japan-shipping/'
       title: '日本の海運業'
       note: '新潟港（日本海側最大級）'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '第四北越FG（第四銀行・北越銀行統合）・大光銀行'
 municipalities:
   svg: "/maps/prefectures/niigata.svg"
   list:

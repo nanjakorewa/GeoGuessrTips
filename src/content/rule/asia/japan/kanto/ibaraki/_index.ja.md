@@ -49,6 +49,18 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '東京電力エリア・東海第二原発'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: 'めぶきFG（常陽銀行）・筑波銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'カスミ（U.S.M.H傘下）'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: 'ばんどう太郎（北関東ドミナント）'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: 'ラーメン山岡家1988年牛久発祥'
 municipalities:
   svg: "/maps/prefectures/ibaraki.svg"
   list:

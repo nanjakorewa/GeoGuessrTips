@@ -47,6 +47,12 @@ prefInfo:
     - url: '/industry/japan-fiber/'
       title: '日本の合成繊維・炭素繊維産業'
       note: '今治タオル（国内シェア約 6 割）'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '伊予銀行（四国最大級の地銀）・愛媛銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'フジ（2024年マックスバリュ西日本を吸収合併）'
 municipalities:
   svg: "/maps/prefectures/ehime.svg"
   list:

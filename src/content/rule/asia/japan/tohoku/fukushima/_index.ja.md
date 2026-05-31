@@ -42,6 +42,15 @@ prefInfo:
     - url: '/industry/japan-semiconductor/'
       title: '日本の半導体産業集積地'
       note: '郡山・白河の電子部品工場'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '東邦銀行・福島銀行・大東銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'ヨークベニマル（東北最大の食品スーパー）・マルト'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '幸楽苑（会津若松発祥）・喜多方ラーメン坂内'
 municipalities:
   svg: "/maps/prefectures/fukushima.svg"
   list:

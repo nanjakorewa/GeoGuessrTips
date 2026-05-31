@@ -42,6 +42,15 @@ prefInfo:
     - url: '/industry/japan-jr/'
       title: '日本のJR各社'
       note: 'JR東日本仙台支社'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '七十七銀行（東北最大の地銀）・仙台銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'ヤマザワ・ウジエスーパー'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: '半田屋（仙台発のセルフ食堂）・利久（牛タン）'
 municipalities:
   svg: "/maps/prefectures/miyagi.svg"
   list:

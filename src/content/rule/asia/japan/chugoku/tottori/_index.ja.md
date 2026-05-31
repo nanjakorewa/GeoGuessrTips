@@ -39,6 +39,9 @@ prefInfo:
     - url: '/industry/world-agriculture/'
       title: '世界の農産物・穀物トレード'
       note: '二十世紀梨など果樹輸出'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '山陰合同銀行・鳥取銀行'
 municipalities:
   svg: "/maps/prefectures/tottori.svg"
   list:

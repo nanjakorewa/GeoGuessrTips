@@ -39,6 +39,12 @@ prefInfo:
     - url: '/industry/world-agriculture/'
       title: '世界の農産物・穀物トレード'
       note: '梅・柑橘の輸出'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '紀陽HD（紀陽銀行）'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '井出商店系（和歌山中華そばの老舗代表）'
 municipalities:
   svg: "/maps/prefectures/wakayama.svg"
   list:

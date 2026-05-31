@@ -40,6 +40,12 @@ prefInfo:
     - url: '/industry/world-agriculture/'
       title: '世界の農産物・穀物トレード'
       note: '茶・さつまいも輸出'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '九州FG（鹿児島銀行）・南日本銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'タイヨー（鹿児島県地盤）・鮮ど市場（マキオ運営）'
 municipalities:
   svg: "/maps/prefectures/kagoshima.svg"
   list:

@@ -42,6 +42,18 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '東京電力エリア'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '武蔵野銀行・埼玉りそな銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'ヤオコー（36期連続増収増益）・ベルク'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: 'サイゼリヤ（1973年市川発・本社新座）・山田うどん食堂・餃子の満洲'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '日高屋（ハイデイ日高）'
 municipalities:
   svg: "/maps/prefectures/saitama.svg"
   list:

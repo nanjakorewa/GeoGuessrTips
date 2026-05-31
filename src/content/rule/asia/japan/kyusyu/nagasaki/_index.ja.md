@@ -46,6 +46,12 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '九州電力エリア'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '十八親和銀行（ふくおかFG・2020年統合）'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: 'リンガーハット（長崎ちゃんぽん専門の全国チェーン）'
 municipalities:
   svg: "/maps/prefectures/nagasaki.svg"
   list:

@@ -44,6 +44,18 @@ prefInfo:
     - url: '/industry/japan-jr/'
       title: '日本のJR各社'
       note: 'JR 東日本・JR 東海・JR 貨物の本社'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: 'きらぼし銀行（東京きらぼしFG）'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'マルエツ・いなげや・サミット・エコス・京王/東急/小田急OX'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: 'すかいらーくHD（ガスト・バーミヤン）・デニーズ・大戸屋・ロイヤルホスト'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '東京豚骨ばんから・蒙古タンメン中本（板橋発祥）'
 municipalities:
   svg: "/maps/prefectures/tokyo.svg"
   list:

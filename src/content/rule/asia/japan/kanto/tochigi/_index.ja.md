@@ -39,6 +39,9 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '東京電力エリア'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: 'めぶきFG（足利銀行）・栃木銀行'
 municipalities:
   svg: "/maps/prefectures/tochigi.svg"
   list:

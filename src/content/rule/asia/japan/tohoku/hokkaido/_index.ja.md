@@ -51,6 +51,18 @@ prefInfo:
     - url: '/industry/japan-jr/'
       title: '日本のJR各社'
       note: 'JR北海道'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: 'ほくほくFG（北海道銀行）・北洋銀行・イオン北海道系'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'アークス・コープさっぽろ・北雄ラッキー・イオン北海道'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: 'とんでん・ヴィクトリアステーション・びっくりドンキー発祥地'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: 'すみれ・純連・えびそば一幻（札幌味噌系）'
 municipalities:
   svg: "/maps/prefectures/hokkaido.svg"
   list:

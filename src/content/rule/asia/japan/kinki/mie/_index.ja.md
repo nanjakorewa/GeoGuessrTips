@@ -45,6 +45,9 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '中部電力エリア'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '三十三FG（旧三重銀行・第三銀行統合）・百五銀行'
 municipalities:
   svg: "/maps/prefectures/mie.svg"
   list:

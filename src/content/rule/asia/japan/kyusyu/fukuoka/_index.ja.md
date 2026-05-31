@@ -46,6 +46,18 @@ prefInfo:
     - url: '/industry/japan-shipping/'
       title: '日本の海運業'
       note: '博多港・北九州港'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: 'ふくおかFG（福岡銀行・みんなの銀行）・西日本FH・北九州銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'ハローデイ（アミューズメント型）・マルキョウ・トライアル・サンリブ/マルショク・イオン九州'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: '牧のうどん（博多柔らかうどん）・資さんうどん・ウエスト'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '一風堂・一蘭・博多一双・大砲ラーメン・ラーメン龍の家・元祖長浜屋'
 municipalities:
   svg: "/maps/prefectures/fukuoka.svg"
   list:

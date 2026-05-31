@@ -50,6 +50,15 @@ prefInfo:
     - url: '/industry/japan-tire/'
       title: '日本のタイヤ産業'
       note: '住友ゴム神戸本社・ブリヂストン関連'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: 'みなと銀行（りそな系）・但馬銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: '関西スーパー（H2O系）・業務スーパー（神戸物産）'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: 'トリドール（丸亀製麺・神戸発）'
 municipalities:
   svg: "/maps/prefectures/hyogo.svg"
   list:

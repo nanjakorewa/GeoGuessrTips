@@ -42,6 +42,12 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '東北電力エリア'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '秋田銀行・北都銀行（フィデアHD）'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '末廣ラーメン本舗（京都『新福菜館』系統を秋田で展開）'
 municipalities:
   svg: "/maps/prefectures/akita.svg"
   asOf: "2024-01-01"

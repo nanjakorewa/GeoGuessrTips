@@ -39,6 +39,12 @@ prefInfo:
     - url: '/industry/japan-paper/'
       title: '日本の製紙・パルプ産業'
       note: '土佐和紙（伝統紙）'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '四国銀行・高知銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'サニーマート（独立系食品スーパー・サニーアクシス）'
 municipalities:
   svg: "/maps/prefectures/kochi.svg"
   list:

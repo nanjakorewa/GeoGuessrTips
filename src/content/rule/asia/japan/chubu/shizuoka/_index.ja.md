@@ -43,6 +43,15 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '中部電力エリア・浜岡原発'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '静岡フィナンシャルグループ（静岡銀行）・スルガ銀行・清水銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'マックスバリュ東海・ヤマト/遠鉄ストア'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: 'さわやか（県内のみ35店・げんこつハンバーグ）・五味八珍'
 municipalities:
   svg: "/maps/prefectures/shizuoka.svg"
   list:

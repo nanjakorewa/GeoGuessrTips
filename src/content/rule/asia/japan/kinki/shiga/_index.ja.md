@@ -42,6 +42,15 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '関西電力エリア'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '滋賀銀行（しがぎん・ESG経営先駆者）'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: '平和堂（滋賀県シェア圧倒的）'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '来来亭（野洲市本社・京都風背脂醤油）'
 municipalities:
   svg: "/maps/prefectures/shiga.svg"
   list:

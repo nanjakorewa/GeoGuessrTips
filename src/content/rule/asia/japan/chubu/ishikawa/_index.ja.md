@@ -42,6 +42,12 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '北陸電力エリア・志賀原発'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '北國FH（北國銀行・DX先進地銀）'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '8番らーめん（1967年加賀発祥・株式会社ハチバン）'
 municipalities:
   svg: "/maps/prefectures/ishikawa.svg"
   list:

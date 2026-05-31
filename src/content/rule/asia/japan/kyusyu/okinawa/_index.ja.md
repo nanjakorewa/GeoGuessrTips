@@ -41,6 +41,15 @@ prefInfo:
     - url: '/industry/japan-shipping/'
       title: '日本の海運業'
       note: '那覇港・本部港'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '琉球銀行（1948年米軍政府指示で設立）・沖縄銀行・沖縄海邦銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'サンエー（県内シェア圧倒的）・かねひで・ユニオン・リウボウストア'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: 'A&W沖縄（米国A&Wブランドの独自ライセンス運営）'
 municipalities:
   svg: "/maps/prefectures/okinawa.svg"
   list:

@@ -46,6 +46,18 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '九州電力エリア'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '九州FG（肥後銀行）・熊本銀行（ふくおかFG）'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: '鮮ど市場（鹿児島マキオ運営・熊本も主軸）'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: 'ヒライ（熊本の惣菜・弁当チェーン）'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '黒亭・桂花（熊本ラーメン・マー油が特徴）'
 municipalities:
   svg: "/maps/prefectures/kumamoto.svg"
   list:

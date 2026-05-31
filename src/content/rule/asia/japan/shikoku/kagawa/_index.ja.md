@@ -43,6 +43,15 @@ prefInfo:
     - url: '/industry/japan-industrial-zones/setouchi/'
       title: '瀬戸内工業地域'
       note: '坂出・宇多津の臨海工業地'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '百十四銀行・香川銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'マルヨシセンター・マックスバリュ西日本（旧マルナカ）'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: '一鶴（丸亀本社・骨付鳥専門）'
 municipalities:
   svg: "/maps/prefectures/kagawa.svg"
   list:

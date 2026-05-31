@@ -42,6 +42,12 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '北陸電力本店・黒部川水系の水力発電'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: 'ほくほくFG（北陸銀行）・富山銀行・富山第一銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: '大阪屋ショップ・アルビス（北陸三県）'
 municipalities:
   svg: "/maps/prefectures/toyama.svg"
   list:

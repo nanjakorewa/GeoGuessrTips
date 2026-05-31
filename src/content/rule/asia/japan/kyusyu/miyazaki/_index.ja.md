@@ -39,6 +39,9 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '九州電力エリア'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '宮崎銀行・宮崎太陽銀行'
 municipalities:
   svg: "/maps/prefectures/miyazaki.svg"
   list:

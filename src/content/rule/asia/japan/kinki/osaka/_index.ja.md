@@ -47,6 +47,18 @@ prefInfo:
     - url: '/industry/japan-shipping/'
       title: '日本の海運業'
       note: '大阪港・阪神港'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '池田泉州HD・関西みらい銀行（りそな系）'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'ライフ・イズミヤ/阪急オアシス（H2O系）・万代・サンディ'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: '大阪王将・串カツ田中・くら寿司・スシロー'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '神座（1986年道頓堀発・白菜スープ）・金久右衛門'
 municipalities:
   svg: "/maps/prefectures/osaka.svg"
   list:

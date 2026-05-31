@@ -49,6 +49,18 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '中部電力本社'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '名古屋銀行・愛知銀行（あいち）・中京銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'ヤマナカ（フランテ高級業態併営）'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: 'コメダ珈琲・スガキヤ・物語コーポレーション・矢場とん・世界の山ちゃん・まるは食堂'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: 'スガキヤ（1946年名古屋発・和風魚介スープ）'
 municipalities:
   svg: "/maps/prefectures/aichi.svg"
   list:

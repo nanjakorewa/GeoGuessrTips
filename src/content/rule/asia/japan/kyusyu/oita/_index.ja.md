@@ -45,6 +45,15 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '九州電力エリア'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '大分銀行・豊和銀行'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'マルミヤストア（大分・宮崎地盤）'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: 'ジョイフル（1979年大分市萩原で創業）・ジョリーパスタ発祥地'
 municipalities:
   svg: "/maps/prefectures/oita.svg"
   list:

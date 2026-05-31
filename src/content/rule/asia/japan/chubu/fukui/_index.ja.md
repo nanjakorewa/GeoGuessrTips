@@ -42,6 +42,9 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '若狭湾沿岸の原発群（関西電力）'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '福井銀行（福邦銀行と資本業務提携）'
 municipalities:
   svg: "/maps/prefectures/fukui.svg"
   list:

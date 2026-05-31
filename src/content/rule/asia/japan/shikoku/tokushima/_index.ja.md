@@ -39,6 +39,12 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '四国電力エリア'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '阿波銀行・徳島大正銀行（旧徳島銀行・大正銀行統合）'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '徳島ラーメン系（いのたに・東大等）'
 municipalities:
   svg: "/maps/prefectures/tokushima.svg"
   list:

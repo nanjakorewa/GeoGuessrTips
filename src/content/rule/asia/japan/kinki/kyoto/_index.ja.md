@@ -42,6 +42,18 @@ prefInfo:
     - url: '/industry/japan-trading-company/'
       title: '日本の商社'
       note: '京都の独自企業群（任天堂・京セラ・村田製作所等）'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '京都銀行（京セラ・任天堂等の大株主）'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'フレスコ（駅前小型店・深夜営業）'
+    - url: '/industry/japan-restaurant-chains/'
+      title: '日本のご当地ファミレス・レストランチェーン'
+      note: '餃子の王将（1967年京都発・本社山科区）'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '天下一品（鶏と11種類の野菜）・第一旭・新福菜館'
 municipalities:
   svg: "/maps/prefectures/kyoto.svg"
   list:

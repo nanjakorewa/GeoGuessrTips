@@ -49,6 +49,9 @@ prefInfo:
     - url: '/industry/japan-shipping/'
       title: '日本の海運業'
       note: '水島港（取扱貨物量全国上位）'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '中国銀行（岡山地盤）・トマト銀行'
 municipalities:
   svg: "/maps/prefectures/okayama.svg"
   list:

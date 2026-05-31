@@ -138,6 +138,15 @@ prefInfo:
     - url: "/industry/japan-cement/"
       title: "日本のセメント工業"
       note: "住友大阪セメント岐阜工場（春日）"
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '十六FG（十六銀行）・大垣共立銀行（OKB）'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'バロー（食品・ドラッグ・ホームセンターの三本柱）'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '岐阜タンメン（2009年稲沢市の屋台発祥）'
 ---
 
 <div class="main-desciption country-description">

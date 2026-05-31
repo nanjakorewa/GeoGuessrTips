@@ -45,6 +45,9 @@ prefInfo:
     - url: '/industry/japan-power/'
       title: '日本の電力会社'
       note: '九州電力・玄海原発'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '佐賀銀行・佐賀共栄銀行'
 municipalities:
   svg: "/maps/prefectures/saga.svg"
   list:

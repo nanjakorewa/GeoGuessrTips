@@ -50,6 +50,12 @@ prefInfo:
     - url: '/industry/japan-shipping/'
       title: '日本の海運業'
       note: '千葉港（取扱貨物量全国上位）'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '千葉銀行（地銀大手）・京葉銀行・千葉興業銀行'
+    - url: '/industry/japan-ramen-chains/'
+      title: '日本のご当地ラーメンチェーン'
+      note: '麺場田所商店（2005年市川行徳発祥・味噌ラーメン専門）'
 municipalities:
   svg: "/maps/prefectures/chiba.svg"
   list:

@@ -49,6 +49,12 @@ prefInfo:
     - url: '/industry/world-agriculture/'
       title: '世界の農産物・穀物トレード'
       note: 'りんご輸出（台湾・香港向け）'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: 'プロクレアHD（青森銀行・みちのく銀行）'
+    - url: '/industry/japan-supermarket/'
+      title: '日本のご当地スーパーマーケット'
+      note: 'ユニバース（アークスHD系）・紅屋商事「ベニーマート」'
 municipalities:
   svg: "/maps/prefectures/aomori.svg"
   list:

@@ -39,6 +39,9 @@ prefInfo:
     - url: '/industry/japan-nonferrous/'
       title: '日本の非鉄金属製錬'
       note: '石見銀山（歴史的銀産地）'
+    - url: '/industry/japan-regional-bank/'
+      title: '日本の地方銀行'
+      note: '山陰合同銀行（島根・鳥取両県地盤）・島根銀行'
 municipalities:
   svg: "/maps/prefectures/shimane.svg"
   list:
