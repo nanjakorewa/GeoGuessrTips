@@ -17,7 +17,9 @@ mapPins:
   - { lat: 36.250, lng: 137.756, label: "上高地", type: "nature", note: "北アルプスの景勝地" }
   - { lat: 36.043, lng: 138.087, label: "諏訪湖", type: "nature", note: "諏訪大社・花火大会" }
 features:
-  - text: '諏訪湖周辺は「<span class="quiz">東洋のスイス</span>」と呼ばれ、精密機器・時計産業が集積'
+  - text: かなりでかい
+    ref: ""
+  - text: '諏訪湖周辺は精密機器・時計産業が集積'
     ref: "https://ja.wikipedia.org/wiki/諏訪地域#精密機器産業"
   - text: '<span class="quiz">味噌</span>の生産量は全国1位で、信州味噌は全国シェア約5割'
     ref: "https://ja.wikipedia.org/wiki/信州味噌"
@@ -129,12 +131,23 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+        <li>ツルヤがある</li>
         <li>横断歩道前のダイヤマーク標示が他県と異なる形状をしている</li>
     </ul>
     {{% corp "asia/japan" "chubu/nagano" %}}
 </div>
 
 {{% tabs %}}
+{{% tab "ツルヤ" %}}
+{{% notice tip %}}
+長野のローカルスーパーであるツルヤがある。なぜか数店だけ{{% goto "../../kanto/gunma/" "群馬" %}}にもあるので注意。牛乳パンのバタークリームがおいしいと思う。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="Tsuruya_logo.svg" width="300px" alt="ツルヤのロゴ">
+</div>
+
+{{% /tab %}}
 {{% tab "ダイヤマーク標示" %}}
 {{% notice tip %}}
 この横断歩道前ダイヤマーク標示を使用するのは長野県の他に<a href="../aichi/">愛知県</a>・<a href="../../chugoku/yamaguchi/">山口県</a>・<a href="../../kyusyu/kagoshima/">鹿児島県</a>である。
