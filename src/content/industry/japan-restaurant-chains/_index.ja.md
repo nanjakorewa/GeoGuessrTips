@@ -136,6 +136,22 @@ mapPins:
 <strong>利久（<a href="/rule/asia/japan/tohoku/miyagi/">宮城</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、仙台発の牛タン専門店。東北・首都圏中心、仙台牛タンの代表ブランド。</span>
 </div>
 </div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>ラッキーピエロ（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。函館市を中心に<span style="font-weight:700">道南地区のみ</span>で展開するご当地ハンバーガー・レストランチェーン、約17店舗。「チャイニーズチキンバーガー」が看板。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>みよしの（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。札幌を中心に約25店舗。<span style="font-weight:700">ぎょうざとカレー</span>を主力とするご当地チェーン、「ぎょうざカレー」が名物。</span>
+</div>
+</div>
 </div>
 
 ### 関東
@@ -228,6 +244,54 @@ mapPins:
 <strong>富士そば（<a href="/rule/asia/japan/kanto/tokyo/">東京</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、ダイタンHD運営。首都圏中心の<span style="font-weight:700">立ち食いそば</span>大手、深夜営業のオリジナルメニューでも知られる。</span>
 </div>
 </div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>フライングガーデン（<a href="/rule/asia/japan/kanto/tochigi/">栃木</a>）</strong><br/><span style="font-size:.85em;color:#555;">上場（3317）。<span style="font-weight:700">「爆弾ハンバーグ」</span>が看板の郊外型ステーキレストラン。栃木・群馬・埼玉など北関東中心に約57店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>いっちょう（<a href="/rule/asia/japan/kanto/gunma/">群馬</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。北関東（群馬・埼玉・栃木等）中心。大規模な<span style="font-weight:700">個室空間</span>で和食を提供する郊外型レストラン、約47店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>登利平（<a href="/rule/asia/japan/kanto/gunma/">群馬</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。群馬県を中心に<span style="font-weight:700">「鳥めし」</span>や焼き鳥などの和食を提供、約32店舗。群馬のソウルフード。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>かつ波奈（<a href="/rule/asia/japan/kanto/chiba/">千葉</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。千葉県内を中心に展開する、<span style="font-weight:700">地産地消</span>にこだわるとんかつ専門店、約13店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>すしめん処 大京（<a href="/rule/asia/japan/kanto/chiba/">千葉</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。千葉・茨城を中心に、新鮮な海鮮や寿司、そば・うどんを提供する和風ファミリーレストラン、10店舗以上。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>Groovy（グルービー）（<a href="/rule/asia/japan/kanto/ibaraki/">茨城</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。茨城県を中心に展開し、豊富な<span style="font-weight:700">スパゲッティメニュー</span>を揃えるイタリアンレストラン、約10店舗。</span>
+</div>
+</div>
 </div>
 
 ### 中部
@@ -301,6 +365,55 @@ mapPins:
 </div>
 <div style="flex:1;min-width:0;">
 <strong>世界の山ちゃん（<a href="/rule/asia/japan/chubu/aichi/">愛知</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、エスワイフード運営。1981年名古屋発祥。<span style="font-weight:700">「幻の手羽先」</span>を看板に名古屋・首都圏・関西に展開する居酒屋チェーン。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bronco_Billy_Logo.png?width=120" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>ブロンコビリー（<a href="/rule/asia/japan/chubu/aichi/">愛知</a>）</strong><br/><span style="font-size:.85em;color:#555;">上場（3091）。東海地方（愛知）発祥で全国展開。<span style="font-weight:700">炭焼きステーキ・ハンバーグ</span>と充実したサラダバーが強み、約146店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>8番らーめん（<a href="/rule/asia/japan/chubu/ishikawa/">石川</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、ハチバン運営。石川など北陸を中心に国内約114店舗。<span style="font-weight:700">「野菜らーめん」</span>が看板で、タイなど海外にも展開。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>みんなのテンホウ（<a href="/rule/asia/japan/chubu/nagano/">長野</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、テンホウ・フーズ運営。長野県全域に根差す<span style="font-weight:700">餃子とラーメン</span>のチェーン、約34店舗。県民のソウルフード。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>みかづき（<a href="/rule/asia/japan/chubu/niigata/">新潟</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。新潟市内・近郊に約22店舗。ソース焼きそばにトマト系ソースをかけるソウルフード<span style="font-weight:700">「イタリアン」</span>を提供。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>レストラン三宝（<a href="/rule/asia/japan/chubu/niigata/">新潟</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。新潟を中心に系列含め約50店舗。本格的な和洋中のメニューを職人が調理するファミリーレストラン。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>氷見きときと寿し（<a href="/rule/asia/japan/chubu/toyama/">富山</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。富山・長野を中心に約12店舗。<span style="font-weight:700">富山湾の鮮魚</span>などを提供するグルメ回転寿司チェーン。</span>
 </div>
 </div>
 </div>
@@ -387,6 +500,22 @@ mapPins:
 <strong>道とん堀（<a href="/rule/asia/japan/kanto/tokyo/">東京</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1990年福生市本社。お好み焼き専門、2016年から野菜100%国産化を業界先駆けで実施。</span>
 </div>
 </div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>あじへい（<a href="/rule/asia/japan/kinki/mie/">三重</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。三重県を中心にドミナント展開する地域密着型の<span style="font-weight:700">中華ファミリーレストラン</span>、東海エリアで約50店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>ベビーフェイスプラネッツ（<a href="/rule/asia/japan/kinki/nara/">奈良</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。奈良発祥。<span style="font-weight:700">バリ島</span>をイメージした個室空間と、ボリュームのあるオムライス・パスタが人気のカフェレストラン。国内FC含め約77店舗。</span>
+</div>
+</div>
 </div>
 
 ### 中国・四国・九州・沖縄
@@ -434,7 +563,7 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>うどんウエスト（<a href="/rule/asia/japan/kyusyu/fukuoka/">福岡</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、福岡発のうどん・丼ファミレス。「ウエスト」ブランドで九州中心に展開、24時間店も多数。</span>
+<strong>ウエスト（うどんウエスト）（<a href="/rule/asia/japan/kyusyu/fukuoka/">福岡</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、福岡発。<span style="font-weight:700">やわモチ食感の博多うどん</span>を看板に、焼肉・和食なども多角展開する飲食チェーン、約178〜250店舗。24時間店も多数。</span>
 </div>
 </div>
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
@@ -475,7 +604,39 @@ mapPins:
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
 </div>
 <div style="flex:1;min-width:0;">
-<strong>ヒライ（<a href="/rule/asia/japan/kyusyu/kumamoto/">熊本</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、熊本本社の惣菜・弁当チェーン。<span style="font-weight:700">「ちくわサラダ」</span>等が看板、熊本県民の生活インフラ。</span>
+<strong>お弁当のヒライ（<a href="/rule/asia/japan/kyusyu/kumamoto/">熊本</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、熊本本社の惣菜・弁当チェーン。<span style="font-weight:700">「ちくわサラダ」</span>が看板。テイクアウト惣菜店に、うどん・カツ丼などを出すフードコートを融合させたハイブリッド店舗で熊本県民の生活インフラ。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>庄屋（<a href="/rule/asia/japan/kyusyu/nagasaki/">長崎</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。長崎を拠点に九州全域へ展開する<span style="font-weight:700">和食ファミリーレストラン</span>チェーン、約59店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>長崎ちゃんめん（<a href="/rule/asia/japan/chugoku/yamaguchi/">山口</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。山口県を中心に西日本へ展開し、<span style="font-weight:700">ちゃんぽんとラーメンを融合</span>したメニューを低価格で提供、約26〜32店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>ちから（<a href="/rule/asia/japan/chugoku/hiroshima/">広島</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。広島市内・近郊に<span style="font-weight:700">全店直営</span>で約28店舗。出汁にこだわったうどんとおはぎを販売する地域インフラ的チェーン。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>倉式珈琲店（<a href="/rule/asia/japan/chugoku/okayama/">岡山</a>）</strong><br/><span style="font-size:.85em;color:#555;">サンマルクHD（上場・岡山）系。岡山発で全国展開。<span style="font-weight:700">サイフォン珈琲</span>と充実した軽食を提供するフルサービス型の喫茶チェーン、約27店舗。</span>
 </div>
 </div>
 </div>

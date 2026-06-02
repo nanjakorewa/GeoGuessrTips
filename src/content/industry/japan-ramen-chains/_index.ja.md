@@ -167,6 +167,38 @@ mapPins:
 <strong>喜多方ラーメン坂内（<a href="/rule/asia/japan/tohoku/fukushima/">福島</a>）</strong><br/><span style="font-size:.85em;color:#555;">運営は株式会社麺食（東京・品川、1988年設立）。福島県喜多方の老舗「坂内食堂」を本家とし、あっさり醤油の喜多方ラーメンを首都圏中心に全国チェーン化。</span>
 </div>
 </div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>さんぱち（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、株式会社さんぱち（札幌）。<span style="font-weight:700">自社製麺工場</span>を持つ味噌中心のラーメンチェーン、約47店舗。札幌市内に1,000戸規模の自社物件を持つ不動産賃貸業で財務を補強。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>らーめん山頭火（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、株式会社アブ・アウト（札幌）。<span style="font-weight:700">塩とんこつ</span>が看板、約24店舗。米国子会社の買収など複数ブランドでグローバル展開。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>吾作ラーメン（<a href="/rule/asia/japan/tohoku/akita/">秋田</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、有限会社吾作（能代）。能代の<span style="font-weight:700">自社製麺工場</span>による一貫管理で、伝統的な「秋田・札幌ラーメン」を維持、約7店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>仙台っ子（<a href="/rule/asia/japan/tohoku/miyagi/">宮城</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、有限会社フィダール（仙台）。店舗でスープを炊き出す仙台のラーメンチェーン、約12店舗。直営6店と独立（のれん分け）6店の緩やかな独立採算アライアンス。</span>
+</div>
+</div>
 </div>
 
 ### 関東
@@ -244,6 +276,22 @@ mapPins:
 <strong>蒙古タンメン中本（<a href="/rule/asia/japan/kanto/tokyo/">東京</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、板橋発祥の<span style="font-weight:700">激辛味噌タンメン</span>専門。蒙古タンメンが看板、首都圏中心にロードサイドも展開。</span>
 </div>
 </div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>おおぎやラーメン（<a href="/rule/asia/japan/kanto/gunma/">群馬</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、株式会社おおぎやフーズ（安中）。めん・みそ・ギョーザの自社工場を持つ味噌中心のチェーン、約54〜60店舗。<span style="font-weight:700">FCロイヤリティ完全不徴収</span>の加盟店との運命共同体モデル。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>元祖ニュータンタンメン本舗（<a href="/rule/asia/japan/kanto/kanagawa/">神奈川</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、株式会社みなもと（横浜）。<span style="font-weight:700">川崎発祥の「ニュータンタンメン」</span>専門。セントラルキッチン配送と「イソゲン」ブランドの商標管理で神奈川中心に約46〜47店舗。</span>
+</div>
+</div>
 </div>
 
 ### 中部・関西
@@ -318,6 +366,47 @@ mapPins:
 <strong>金久右衛門（<a href="/rule/asia/japan/kinki/osaka/">大阪</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、大阪発祥の醤油ラーメンチェーン。「大阪ブラック」で関西を中心に展開。</span>
 </div>
 </div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>みんなのテンホウ（<a href="/rule/asia/japan/chubu/nagano/">長野</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、株式会社テンホウ・フーズ（諏訪）。長野県全域に根差す<span style="font-weight:700">餃子とラーメン</span>のチェーン、約33〜34店舗。諏訪地域の高密度ドミナントと自社工場による機械化が特徴。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>さんぽう亭／三宝亭（<a href="/rule/asia/japan/chubu/niigata/">新潟</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、株式会社三宝（新潟）。新潟中心のラーメンチェーン、約33店舗（グループ総数41）。チャーハン調理の社内ライセンス制やファミレス製造ノウハウを活用。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>ラーメン福（<a href="/rule/asia/japan/chubu/aichi/">愛知</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、株式会社アライ（名古屋）。名古屋市内に自社製麺工場。幹線道路沿いの<span style="font-weight:700">大型店・駐車場完備</span>で、名古屋郊外に限定した高回転営業、約11店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ramen_Yokozuna_Logo.gif?width=120" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" style="display:none"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>ラーメン横綱（<a href="/rule/asia/japan/kinki/kyoto/">京都</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、株式会社横綱（京都）。自社「横綱食品」を持つ豚骨醤油チェーン。<span style="font-weight:700">「直営・大型店舗・24時間主義」</span>で販売効率を追求、約41〜43店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>もっこす（<a href="/rule/asia/japan/kinki/hyogo/">兵庫</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、もっこすフーズ株式会社（神戸）。<span style="font-weight:700">神戸ラーメンの代表格</span>、約14店舗。「もっこす食品」での集中加工と「もっこすフーズ」の機能分業が特徴。</span>
+</div>
+</div>
 </div>
 
 ### 中国・四国
@@ -346,6 +435,22 @@ mapPins:
 </div>
 <div style="flex:1;min-width:0;">
 <strong>井出商店系（<a href="/rule/asia/japan/kinki/wakayama/">和歌山</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、1953年和歌山創業の中華そば老舗代表。<span style="font-weight:700">「井出系」豚骨醤油（濃厚白濁系）の元祖</span>として知られる。なお和歌山ラーメンは「井出系（豚骨醤油・白濁）」と「車庫前系（醤油・あっさり）」に分類される。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>我馬（<a href="/rule/asia/japan/chugoku/hiroshima/">広島</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、株式会社アースフード（広島）。広島の<span style="font-weight:700">豚骨ラーメン</span>チェーン、約12〜13店舗。上場を目標に天ぷら等の多業態を並行開発。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>豚太郎（<a href="/rule/asia/japan/shikoku/kochi/">高知</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、有限会社豚太郎（高知）。高知中心の味噌ラーメン等で知られる、約17〜28店舗。加盟店の価格・メニュー自律設計を認める<span style="font-weight:700">分散型アライアンス</span>。</span>
 </div>
 </div>
 </div>
@@ -410,6 +515,22 @@ mapPins:
 </div>
 <div style="flex:1;min-width:0;">
 <strong>元祖長浜屋（<a href="/rule/asia/japan/kyusyu/fukuoka/">福岡</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、博多区長浜の老舗。<span style="font-weight:700">長浜ラーメン発祥</span>とされる屋台型店舗、24時間営業の元祖系列が複数派生。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>味千ラーメン（<a href="/rule/asia/japan/kyusyu/kumamoto/">熊本</a>）</strong><br/><span style="font-size:.85em;color:#555;">重光産業株式会社（菊池郡）。熊本とんこつの代表格で、本社工場でマー油・スープを製造。<span style="font-weight:700">中国を中心に巨大FC展開</span>する熊本発のグローバルチェーン、国内約63〜67店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>九州筑豊ラーメン山小屋（<a href="/rule/asia/japan/kyusyu/fukuoka/">福岡</a>）</strong><br/><span style="font-size:.85em;color:#555;">ワイエスフード株式会社（東証3358、田川郡）。麺・ソースの自社工場を持つ<span style="font-weight:700">筑豊豚骨</span>チェーン、約83店舗。上場資本を活かした他産業連携やESG・デジタル投資が特徴。</span>
 </div>
 </div>
 </div>

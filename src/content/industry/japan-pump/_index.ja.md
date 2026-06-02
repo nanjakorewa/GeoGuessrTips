@@ -163,22 +163,6 @@ mapPins:
 | 酉島製作所 | 新中計（〜FY2029）{{% cite "torishima_ir2024" %}} | 約1,000億円 | 営業利益率10%以上、ROE 10%以上。水素・アンモニア分野への展開 |
 | 鶴見製作所 | — | 710億円（FY2026/3予想）{{% cite "tsurumi_ir2025" %}} | ASEAN・北米での海外展開強化、水処理関連機器の拡充 |
 
-## ポンプ産業のバリューチェーン
-
-{{% mermaid %}}
-graph LR
-  A["素材メーカー\n鋳鉄・ステンレス・樹脂"]-->B["ポンプメーカー\n設計・製造・組立"]
-  B-->C["商社・代理店\n販売・据付"]
-  C-->D["エンドユーザー\nプラント・上下水道・建設"]
-  D-->E["保守・メンテナンス\n部品交換・オーバーホール"]
-  E-->|"リピート需要"|B
-  F["エンジニアリング会社\nプラント設計・EPC"]-->|"仕様決定"|B
-  style A fill:#fef3c7,color:#78350f,stroke:#f59e0b,stroke-width:2px
-  style B fill:#dbeafe,color:#1e3a5f,stroke:#3b82f6,stroke-width:2px
-  style D fill:#d1fae5,color:#065f46,stroke:#10b981,stroke-width:2px
-  style E fill:#fce7f3,color:#831843,stroke:#ec4899,stroke-width:2px
-{{% /mermaid %}}
-
 ## 各社のニッチトップ戦略
 
 [日本](/rule/asia/japan/)のポンプ産業の最大の特徴は、<span style="font-weight:700">特定用途で世界シェア首位を握る「ニッチトップ」企業が複数存在する</span>ことです。
