@@ -76,6 +76,7 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>市外局番は076</li>
         <li>豊富な水力発電を背景に<span class="quiz">アルミ産業</span>が集積している</li>
         <li>300年以上の歴史を持つ<span class="quiz">「薬都」</span>として知られ、製薬工場が多い</li>
     </ul>

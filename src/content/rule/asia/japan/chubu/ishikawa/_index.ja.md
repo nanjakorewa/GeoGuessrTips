@@ -79,7 +79,9 @@ references:
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
-    <ul class="rule-list"></ul>
+    <ul class="rule-list">
+      <li>市外局番は076</li>
+    </ul>
     {{% corp "asia/japan" "chubu/ishikawa" %}}
 </div>
 

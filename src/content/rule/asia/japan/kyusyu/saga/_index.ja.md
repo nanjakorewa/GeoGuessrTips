@@ -81,6 +81,7 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>市外局番は0952</li>
         <li>佐賀と{{% goto "../miyazaki/" "宮崎" %}}では六角形の擁壁が見られる</li>
         <li>佐賀～{{% goto "../fukuoka/" "福岡" %}}の平野部では日本で最大規模のクリークが広がっている</li>
     </ul>

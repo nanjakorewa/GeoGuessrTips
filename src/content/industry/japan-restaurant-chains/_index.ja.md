@@ -11,6 +11,7 @@ mapPins:
   - { lat: 43.064, lng: 141.347, label: "とんでん（札幌）", type: "restaurant", note: "北海道発の和食ファミレス" }
   - { lat: 39.704, lng: 141.155, label: "びっくりドンキー（盛岡）", type: "restaurant", note: "1968年盛岡発、ハンバーグディッシュ専門" }
   - { lat: 38.260, lng: 140.882, label: "半田屋（仙台）", type: "restaurant", note: "セルフ食堂、宮城・東北発" }
+  - { lat: 39.453, lng: 140.475, label: "スパゲッティTREnTA（大仙）", type: "restaurant", note: "秋田発、名物スープスパゲッティ。東北5県のみで約20店舗" }
   - { lat: 35.681, lng: 139.767, label: "すかいらーくHD（武蔵野）", type: "restaurant", note: "国内最大のファミレスグループ（ガスト・バーミヤン・ジョナサン等）" }
   - { lat: 35.605, lng: 140.123, label: "ゼンショーHD（東京）", type: "restaurant", note: "日本最大の外食グループ（すき家・ココス・なか卯・はま寿司・ロッテリア）" }
   - { lat: 35.434, lng: 139.638, label: "ハングリータイガー（横浜）", type: "restaurant", note: "横浜発の名門ハンバーグレストラン" }
@@ -23,6 +24,11 @@ mapPins:
   - { lat: 33.590, lng: 130.402, label: "牧のうどん（福岡）", type: "restaurant", note: "福岡の柔らかうどん、博多文化の代表" }
   - { lat: 33.834, lng: 130.875, label: "資さんうどん（北九州）", type: "restaurant", note: "北九州発、24時間営業のうどん・丼チェーン" }
   - { lat: 33.236, lng: 131.609, label: "ジョイフル（大分）", type: "restaurant", note: "九州最大のロードサイド型ファミレス" }
+  - { lat: 42.924, lng: 143.196, label: "インデアン（帯広）", type: "restaurant", note: "十勝のご当地カレー、北海道外には一切なし" }
+  - { lat: 36.064, lng: 136.220, label: "ヨーロッパ軒（福井）", type: "restaurant", note: "ソースカツ丼の元祖、福井県内のみ" }
+  - { lat: 34.672, lng: 135.501, label: "北極星（大阪）", type: "restaurant", note: "元祖オムライス、大阪・関西中心" }
+  - { lat: 34.655, lng: 133.919, label: "えびめしや（岡山）", type: "restaurant", note: "真っ黒な「えびめし」、岡山県内のみ" }
+  - { lat: 31.911, lng: 131.424, label: "味のおぐら（宮崎）", type: "restaurant", note: "チキン南蛮発祥、宮崎市周辺のみ" }
 ---
 
 ## [日本](/rule/asia/japan/)のご当地ファミレス・レストランチェーンとは
@@ -150,6 +156,38 @@ mapPins:
 </div>
 <div style="flex:1;min-width:0;">
 <strong>みよしの（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。札幌を中心に約25店舗。<span style="font-weight:700">ぎょうざとカレー</span>を主力とするご当地チェーン、「ぎょうざカレー」が名物。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>スパゲッティTREnTA（トレンタ）（<a href="/rule/asia/japan/tohoku/akita/">秋田</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、株式会社TREnTA Food Service運営。<span style="font-weight:700">1998年に秋田・横手で創業</span>（本社・大仙市）。名物の<span style="font-weight:700">スープスパゲッティ</span>を看板に、秋田・岩手・宮城・山形・福島の<span style="font-weight:700">東北5県のみで約20店舗</span>を展開する郊外型スパゲッティレストラン。35坪のコンパクト店舗とFC展開が特徴。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>インデアン（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、藤森商会運営。1968年帯広で始めたご当地カレー専門店。<span style="font-weight:700">十勝（帯広）・釧路エリアのみで約13店</span>、鍋ごと持ち帰れる甘辛ルーが名物で北海道外には一切なし。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>ハセガワストア（<a href="/rule/asia/japan/tohoku/hokkaido/">北海道</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、セイコーマートグループ。1978年発売の<span style="font-weight:700">「やきとり弁当」</span>（豚精肉の串焼き弁当）で知られる函館のコンビニ併設チェーン。函館・北斗など<span style="font-weight:700">渡島地方のみ約14店</span>。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>味の札幌（<a href="/rule/asia/japan/tohoku/aomori/">青森</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。青森市発祥の<span style="font-weight:700">「味噌カレー牛乳ラーメン」</span>（味噌+カレー+牛乳+バター）を看板にする「大西」「大公」等。青森市内中心で、県外ではほぼ食べられないご当地ラーメン。</span>
 </div>
 </div>
 </div>
@@ -292,6 +330,22 @@ mapPins:
 <strong>Groovy（グルービー）（<a href="/rule/asia/japan/kanto/ibaraki/">茨城</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。茨城県を中心に展開し、豊富な<span style="font-weight:700">スパゲッティメニュー</span>を揃えるイタリアンレストラン、約10店舗。</span>
 </div>
 </div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>蒙古タンメン中本（<a href="/rule/asia/japan/kanto/tokyo/">東京</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、株式会社中本。1968年創業（現体制は1998年再興）。激辛の<span style="font-weight:700">「蒙古タンメン」「北極ラーメン」</span>で行列ができる人気店、東京・埼玉・神奈川・千葉の<span style="font-weight:700">関東のみ約29店</span>。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>安楽亭（<a href="/rule/asia/japan/kanto/saitama/">埼玉</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場（MBOで非上場化）。1963年に埼玉・蕨で創業した<span style="font-weight:700">低価格焼肉ファミリーレストラン</span>。首都圏中心に展開し、関東ローカル色が強い。</span>
+</div>
+</div>
 </div>
 
 ### 中部
@@ -416,6 +470,46 @@ mapPins:
 <strong>氷見きときと寿し（<a href="/rule/asia/japan/chubu/toyama/">富山</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。富山・長野を中心に約12店舗。<span style="font-weight:700">富山湾の鮮魚</span>などを提供するグルメ回転寿司チェーン。</span>
 </div>
 </div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>ヨーロッパ軒（<a href="/rule/asia/japan/chubu/fukui/">福井</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1913年創業、関東大震災後の1924年に福井で再開。福井名物<span style="font-weight:700">「ソースカツ丼」の元祖</span>とされ、薄いカツをウスターソースに浸す。のれん分け含め<span style="font-weight:700">福井県内のみ約19店</span>。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>スパゲッティハウス ヨコイ（<a href="/rule/asia/japan/chubu/aichi/">愛知</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1963年名古屋創業の<span style="font-weight:700">「あんかけスパゲティ」発祥店</span>。太麺とスパイシーな餡が名古屋めしの定番、名古屋中心の少数店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>フレンド（<a href="/rule/asia/japan/chubu/niigata/">新潟</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1958年長岡創業。焼きそばにミートソースをかける中越版<span style="font-weight:700">「イタリアン」</span>と餃子が看板、<span style="font-weight:700">新潟県中越（長岡中心）に約9店</span>。下越の「みかづき」と棲み分ける。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>チャンピオンカレー（<a href="/rule/asia/japan/chubu/ishikawa/">石川</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1961年野々市で「洋食タナカ」として創業、<span style="font-weight:700">「金沢カレー」の源流</span>。濃厚ルー+千切りキャベツ+ステンレス皿が特徴で、北陸3県（石川中心）に展開。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>コンパル（<a href="/rule/asia/japan/chubu/aichi/">愛知</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1947年創業の名古屋の老舗喫茶。1988年考案の<span style="font-weight:700">「エビフライサンド」</span>と自分で作るアイスコーヒーが名物、<span style="font-weight:700">名古屋市内のみ約7店</span>。</span>
+</div>
+</div>
 </div>
 
 ### 関西
@@ -514,6 +608,38 @@ mapPins:
 </div>
 <div style="flex:1;min-width:0;">
 <strong>ベビーフェイスプラネッツ（<a href="/rule/asia/japan/kinki/nara/">奈良</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。奈良発祥。<span style="font-weight:700">バリ島</span>をイメージした個室空間と、ボリュームのあるオムライス・パスタが人気のカフェレストラン。国内FC含め約77店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>北極星（<a href="/rule/asia/japan/kinki/osaka/">大阪</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1922年創業、1925年に<span style="font-weight:700">オムライスを考案した「元祖オムライス」</span>の店。心斎橋の本店を中心に大阪・関西で約17店。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>インデアンカレー（<a href="/rule/asia/japan/kinki/osaka/">大阪</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1947年大阪創業。甘くて後から強烈に辛い独特のルーカレーが看板、大阪（梅田中心）・芦屋など<span style="font-weight:700">関西中心に約10店</span>。北海道帯広の「インデアン」とは無関係。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>自由軒（<a href="/rule/asia/japan/kinki/osaka/">大阪</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1910年難波創業。ルーとご飯を混ぜ生卵をのせた<span style="font-weight:700">「名物カレー」</span>で知られ、織田作之助ゆかりの大阪ミナミの老舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>玉林園 グリーンコーナー（<a href="/rule/asia/japan/kinki/wakayama/">和歌山</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1854年創業の老舗茶店が母体。抹茶ソフト<span style="font-weight:700">「グリーンソフト」</span>と「てんかけラーメン」が和歌山のソウルフード、<span style="font-weight:700">和歌山市内中心</span>に展開。</span>
 </div>
 </div>
 </div>
@@ -637,6 +763,78 @@ mapPins:
 </div>
 <div style="flex:1;min-width:0;">
 <strong>倉式珈琲店（<a href="/rule/asia/japan/chugoku/okayama/">岡山</a>）</strong><br/><span style="font-size:.85em;color:#555;">サンマルクHD（上場・岡山）系。岡山発で全国展開。<span style="font-weight:700">サイフォン珈琲</span>と充実した軽食を提供するフルサービス型の喫茶チェーン、約27店舗。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>えびめしや（<a href="/rule/asia/japan/chugoku/okayama/">岡山</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、いんでいら運営。1966年創業。ソースで炒めた真っ黒な<span style="font-weight:700">「えびめし」</span>が岡山のB級グルメ、<span style="font-weight:700">岡山県内のみ</span>で数店。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>すなば珈琲（<a href="/rule/asia/japan/chugoku/tottori/">鳥取</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。2014年、「スタバはないがスナバはある」を機に開業した鳥取のご当地カフェ。<span style="font-weight:700">鳥取県内に約11店</span>。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>ばくだん屋（<a href="/rule/asia/japan/chugoku/hiroshima/">広島</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。2000年創業。冷たい麺に辛味だれの<span style="font-weight:700">「広島つけ麺」</span>の代表格、広島県内中心に約8店。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>うどんのどんどん（<a href="/rule/asia/japan/chugoku/yamaguchi/">山口</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、スナダフーヅ運営。1972年萩市創業。山口のファストフード的<span style="font-weight:700">うどんチェーン</span>で、<span style="font-weight:700">山口県内中心に約35店</span>。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>いのたに（<a href="/rule/asia/japan/shikoku/tokushima/">徳島</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1966年徳島市創業。茶系・豚骨醤油の<span style="font-weight:700">「徳島ラーメン」</span>（豚バラ+生卵）の代表格。新横浜ラーメン博物館出店で全国的に有名になったが店舗は徳島県内中心。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>味のおぐらチェーン（<a href="/rule/asia/japan/kyusyu/miyazaki/">宮崎</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1956年創業、1959年に<span style="font-weight:700">「チキン南蛮」を考案した発祥店</span>。宮崎市周辺のみで展開する宮崎のソウルフード。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>びっくり亭（<a href="/rule/asia/japan/kyusyu/fukuoka/">福岡</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1963年南福岡で創業。鉄板の豚肉+キャベツ+辛味噌の<span style="font-weight:700">「焼肉（鉄板焼）」</span>一品が福岡のソウルフード、福岡中心に約7店。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>ジェフ沖縄（Jef）（<a href="/rule/asia/japan/kyusyu/okinawa/">沖縄</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場。1987年設立。<span style="font-weight:700">「ぬーやるバーガー」「ゴーヤーバーガー」</span>など沖縄独自のドライブインバーガー、<span style="font-weight:700">沖縄県のみ4店</span>。</span>
+</div>
+</div>
+<div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
+<div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
+</div>
+<div style="flex:1;min-width:0;">
+<strong>ステーキハウス88（<a href="/rule/asia/japan/kyusyu/okinawa/">沖縄</a>）</strong><br/><span style="font-size:.85em;color:#555;">非上場、テクノクリエイト運営。1978年那覇創業。<span style="font-weight:700">沖縄のステーキ文化</span>を代表するステーキハウス、沖縄県中心に約22〜24店。</span>
 </div>
 </div>
 </div>

@@ -93,6 +93,7 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>市外局番は075</li>
     </ul>
     {{% corp "asia/japan" "kinki/kyoto" %}}
 </div>

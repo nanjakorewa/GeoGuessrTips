@@ -86,6 +86,7 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>市外局番は095</li>
       <li>斜面が多い</li>
       <li>自転車を保有している家庭が少ない</li>
     </ul>

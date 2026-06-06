@@ -102,6 +102,7 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>市外局番は099</li>
         <li>茶の生産は2023年時点で日本一であり、茶畑が多い</li>
         <li>克灰袋（こくはいぶくろ）の捨て場所が街中にある</li>
         <li>横断歩道前のダイヤマーク標示が他県と異なる形状をしている</li>

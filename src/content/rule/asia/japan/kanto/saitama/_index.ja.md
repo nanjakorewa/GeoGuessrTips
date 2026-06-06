@@ -130,6 +130,7 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>市外局番は048</li>
         <li>消防水利施設のマーキングがオレンジ色の線で示されている</li>
     </ul>
     {{% corp "asia/japan" "kanto/saitama" %}}

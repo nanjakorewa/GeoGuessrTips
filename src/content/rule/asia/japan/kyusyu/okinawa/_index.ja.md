@@ -104,6 +104,7 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>市外局番は098</li>
         <li>平屋の建物が多く屋根上に<span class="quiz">給水タンク</span>がある</li>
         <li>建物に<span class="quiz">白い平らな建物</span>が多い</li>
         <li>壁などに<span class="quiz">「石敢當」</span>と書いてある</li>

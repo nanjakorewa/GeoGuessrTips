@@ -96,6 +96,7 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>市外局番は023</li>
         <li>ヤマザワがある</li>
     </ul>
     {{% corp "asia/japan" "tohoku/yamagata" %}}

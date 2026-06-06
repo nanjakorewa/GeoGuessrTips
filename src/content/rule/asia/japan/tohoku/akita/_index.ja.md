@@ -89,7 +89,8 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-      <li>伊徳（ITOKU）というご当地スーパーがある
+      <li>市外局番は018</li>
+      <li>伊徳（ITOKU）・グランマートというご当地スーパーがある</li>
     </ul>
     {{% corp "asia/japan" "tohoku/akita" %}}
 </div>
@@ -98,7 +99,7 @@ references:
 {{% tabs %}}
 {{% tab "伊徳" %}}
 {{% notice tip %}}
-秋田を中心に、岩手・青森などにITOKUというご当地スーパーがある。
+秋田を中心に、岩手・青森などにITOKUというご当地スーパーがある。グランマート{{% ex "https://maps.app.goo.gl/621WDZDe8cRefzWU8" %}}も秋田にのみ展開している。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">

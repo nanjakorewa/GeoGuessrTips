@@ -128,6 +128,7 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>市外局番は052</li>
         <li>東海で横断歩道の道路標示に切れ目が無いのは愛知県</li>
     </ul>
     {{% corp "asia/japan" "chubu/aichi" %}}

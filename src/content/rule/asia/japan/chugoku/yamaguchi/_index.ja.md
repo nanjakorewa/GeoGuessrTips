@@ -81,6 +81,7 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+      <li>市外局番は083</li>
         <li>ガードレールが<span class="quiz">夏みかん</span>の色なら山口県</li>
         <li>横断歩道前のダイヤマーク標示が他県と異なる形状をしている</li>
     </ul>
