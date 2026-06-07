@@ -45,7 +45,7 @@ mapPins:
 <div class="stat-card"><div class="stat-num">広島電鉄</div><div class="stat-label">日本最大の路面電車網（軌道線＋宮島線）{{% cite "hiroden_ir" %}}</div></div>
 </div>
 
-## なぜ「ご当地の足」は地域が分かるのか
+## ご当地の足の地域性
 
 ### 中古車両（譲受車）のパッチワーク
 
@@ -53,11 +53,7 @@ mapPins:
 
 ### 塗装・カラーリングの地域性
 
-事業者ごとに塗装は固有です。遠州鉄道の<span style="font-weight:700">「赤電」</span>、阪急・能勢電・阪神間の<span style="font-weight:700">マルーン</span>、伊予鉄・広電バスの<span style="font-weight:700">オレンジ</span>、近江鉄道の西武カラーなど、ボディの色だけで事業者＝エリアを絞り込めます。
-
-### 路面電車は「街の断面」そのもの
-
-路面電車は道路上を走るため、<span style="font-weight:700">沿線の街並み・看板・地形</span>がそのまま写ります。長崎・函館・尾道のような坂、鹿児島の芝生軌道と桜島、広島の被爆電車など、路面電車のある風景は都市の個性が濃く出ます。
+事業者ごとに塗装は固有。遠州鉄道の<span style="font-weight:700">「赤電」</span>、阪急・能勢電・阪神間の<span style="font-weight:700">マルーン</span>、伊予鉄バスの<span style="font-weight:700">オレンジ</span>、近江鉄道の西武カラーなど、ボディの色だけで事業者＝エリアを絞り込めます。
 
 ## 種別で見る日本の地域交通
 
