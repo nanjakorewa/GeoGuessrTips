@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img" aria-label="醤油・ソースのイラスト">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdf6ec"/><stop offset="1" stop-color="#f4e7d3"/>
+    </linearGradient>
+    <linearGradient id="soy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5a2d0c"/><stop offset="1" stop-color="#3a1c06"/>
+    </linearGradient>
+    <linearGradient id="sauce" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7a3b16"/><stop offset="1" stop-color="#4a2208"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="200" fill="url(#bg)"/>
+  <rect y="160" width="320" height="40" fill="#e7d2b0"/>
+  <!-- soy dispenser bottle (Kikkoman-style) -->
+  <g>
+    <path d="M96 70 q24 -10 48 0 l0 78 q0 12 -12 12 l-24 0 q-12 0 -12 -12 z" fill="url(#soy)"/>
+    <rect x="104" y="50" width="32" height="22" rx="3" fill="#c62828"/>
+    <path d="M118 50 l0 -8 M122 50 l0 -8" stroke="#c62828" stroke-width="3"/>
+    <!-- glass highlight -->
+    <rect x="104" y="80" width="9" height="64" rx="4" fill="#ffffff" opacity="0.12"/>
+    <!-- label -->
+    <rect x="100" y="96" width="40" height="34" rx="3" fill="#f7f1e6"/>
+    <rect x="106" y="104" width="28" height="4" fill="#7a3b16"/>
+    <rect x="106" y="113" width="28" height="3" fill="#a86a3a"/>
+    <rect x="106" y="120" width="20" height="3" fill="#a86a3a"/>
+  </g>
+  <!-- sauce bottle -->
+  <g>
+    <path d="M186 96 q22 -6 40 0 l0 52 q0 12 -12 12 l-16 0 q-12 0 -12 -12 z" fill="url(#sauce)"/>
+    <rect x="196" y="70 " width="20" height="28" rx="2" fill="#3a1c06"/>
+    <rect x="198" y="60" width="16" height="12" rx="2" fill="#e0a020"/>
+    <rect x="190" y="112" width="32" height="30" rx="3" fill="#f7f1e6"/>
+    <rect x="195" y="119" width="22" height="4" fill="#7a3b16"/>
+    <rect x="195" y="127" width="22" height="3" fill="#a86a3a"/>
+  </g>
+  <!-- small dish with soy -->
+  <ellipse cx="150" cy="176" rx="40" ry="8" fill="#ffffff" opacity="0.6"/>
+  <ellipse cx="150" cy="174" rx="26" ry="5" fill="#3a1c06"/>
+</svg>

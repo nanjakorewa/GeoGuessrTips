@@ -96,7 +96,7 @@ mapPins:
 
 ### 北海道・東北
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="/images/industry/japan-restaurant-chains/tonden.png" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -194,7 +194,7 @@ mapPins:
 
 ### 関東
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="/images/industry/japan-restaurant-chains/skylark.svg" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -350,7 +350,7 @@ mapPins:
 
 ### 中部
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="/images/industry/japan-restaurant-chains/sawayaka.jpg" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -514,7 +514,7 @@ mapPins:
 
 ### 関西
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/餃子の王将.svg?width=120" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -646,7 +646,7 @@ mapPins:
 
 ### 中国・四国・九州・沖縄
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="/images/industry/japan-restaurant-chains/ringerhut.jpg" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />

@@ -256,6 +256,16 @@ card_image: "pipeline.jpg"
 </div>
 </a>
 
+<a class="ind-card" href="/industry/japan-rail-tram-bus/">
+<img class="ind-card-thumb" src="/images/industry/japan-rail-tram-bus/rail_covered_with_lawn.jpg" alt="路面電車・地方私鉄・ローカルバス" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">日本の路面電車・地方私鉄・ローカルバス</div>
+<div class="ind-card-desc">広島電鉄・嵐電・伊予鉄・宇都宮LRT等の路面電車、三陸鉄道・江ノ電・ことでん等の地方私鉄・三セク、西鉄バス・神奈中等のローカルバスを地域別に</div>
+<span class="ind-card-stat">現存する路面電車 約20事業者</span>
+</div>
+</a>
+
 <a class="ind-card" href="/industry/japan-drugstore/">
 <img class="ind-card-thumb" src="/images/industry/japan-drugstore/960px-Welcia_DACS_Kyōtanabe-Miyamaki_shop.jpg" alt="ドラッグストア" loading="lazy" />
 <div class="ind-card-body">
@@ -303,6 +313,26 @@ card_image: "pipeline.jpg"
 <div class="ind-card-title">日本のご当地ラーメンチェーン</div>
 <div class="ind-card-desc">札幌・博多・横浜家系・京都背脂等のご当地系譜と全国チェーン、一風堂・一蘭・日高屋・幸楽苑等</div>
 <span class="ind-card-stat">ラーメン市場 約6,700億円</span>
+</div>
+</a>
+
+<a class="ind-card" href="/industry/japan-soy-sauce/">
+<img class="ind-card-thumb" src="/images/industry/japan-soy-sauce/soy_sauce_in_supermarket.jpg" alt="日本の醤油・ソースメーカー" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">日本の醤油・ソースメーカー</div>
+<div class="ind-card-desc">濃口・淡口・甘口・たまりの地域性と、キッコーマン・ヤマサ・フンドーキン・ブルドック・オタフク・カゴメ等を地域別に</div>
+<span class="ind-card-stat">醤油・ソースの大半は地場の同族企業</span>
+</div>
+</a>
+
+<a class="ind-card" href="/industry/japan-local-bread/">
+<img class="ind-card-thumb" src="/images/industry/japan-local-bread/cream_pan_001.jpg" alt="日本のご当地パンメーカー" loading="lazy" />
+<div class="ind-card-body">
+<span class="ind-card-flag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="16" height="11"><rect fill="#fff" width="900" height="600"/><circle fill="#bc002d" cx="450" cy="300" r="180"/></svg> Japan</span>
+<div class="ind-card-title">日本のご当地パンメーカー</div>
+<div class="ind-card-desc">工藤パン・たけや・たいようパン・Pasco・神戸屋・つるやパン・リョーユーパン・オキコ等の地場製パンとご当地パン</div>
+<span class="ind-card-stat">地場製パンは大半が非上場</span>
 </div>
 </a>
 

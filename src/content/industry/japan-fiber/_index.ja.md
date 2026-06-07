@@ -125,7 +125,7 @@ mapPins:
 
 ## 世界炭素繊維市場の可視化
 
-<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;margin:28px 0;">
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:24px;margin:28px 0;">
 <div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
 <strong>世界PAN系炭素繊維 メーカー別シェア（売上ベース・2023年）</strong>
 <canvas id="pie-cf-maker" style="max-height:280px;margin-top:8px;"></canvas>

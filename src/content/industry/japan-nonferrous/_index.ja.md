@@ -159,7 +159,7 @@ JX金属の営業利益率は2025年3月期で約16%と、三井金属（約10.5
 
 ## 銅製錬能力と都市鉱山リサイクルの可視化
 
-<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;margin:28px 0;">
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:24px;margin:28px 0;">
 <div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
 <strong>国内5大銅製錬所の電気銅生産能力（合計約187万t/年）</strong>
 <canvas id="pie-cu-smelter" style="max-height:280px;margin-top:8px;"></canvas>

@@ -79,7 +79,7 @@ graph LR
 
 ## 半導体集積地の生産能力と素材シェア
 
-<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:24px;margin:28px 0;">
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:24px;margin:28px 0;">
 <div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
 <strong>日本の主要半導体工場 — 製品タイプ別の月産能力（300mm換算・千枚/月）</strong>
 <canvas id="bar-semi-cap" style="max-height:340px;margin-top:8px;"></canvas>

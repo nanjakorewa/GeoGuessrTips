@@ -138,7 +138,7 @@ graph TB
 
 ### 主要フィナンシャルグループ一覧
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:14px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:14px;">
 <strong style="color:#0d47a1;">ふくおかフィナンシャルグループ（8354）</strong><br/>
 <span style="font-size:.88em;line-height:1.6;">福岡銀行・熊本銀行・十八親和銀行・福岡中央銀行・<span style="font-weight:700">みんなの銀行（デジタル銀行）</span>を傘下。九州最大、地銀FG業界2位の規模{{% cite "ffg_ir" %}}。</span>
@@ -179,7 +179,7 @@ graph TB
 
 ### 北海道・東北
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/The Hokkaido Bank Logo.svg?width=120" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -256,7 +256,7 @@ graph TB
 
 ### 関東・甲信越
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/The Joyo Bank Logo.svg?width=120" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -351,7 +351,7 @@ graph TB
 
 ### 北陸・東海
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/THE HOKURIKU BANK Logo.svg?width=120" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -436,7 +436,7 @@ graph TB
 
 ### 関西・中国・四国
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
@@ -573,7 +573,7 @@ graph TB
 
 ### 九州・沖縄
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/The bank of fukuoka logo.svg?width=120" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />

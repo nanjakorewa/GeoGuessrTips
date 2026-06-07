@@ -120,7 +120,7 @@ SQMはアタカマ操業から<span style="font-weight:700">2024年に201,000ト
 
 ## チリ鉱業の構造を可視化
 
-<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;margin:28px 0;">
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:24px;margin:28px 0;">
 <div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
 <strong>Escondida鉱山 出資構成</strong>
 <canvas id="pie-escondida" style="max-height:280px;margin-top:8px;"></canvas>

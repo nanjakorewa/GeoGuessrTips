@@ -113,7 +113,7 @@ galleryDir: "japan-logistics"
 
 運送6社のセグメント利益構成を比較します。**個人向け宅配**（宅急便・ゆうパック）、**法人向けEC物流**（飛脚宅配便）、**特別積合せ貨物運送**（カンガルー便・フクツー便）、**貸切輸送**（チャーター便）など事業形態の違いが収益構造に明確に反映されています。
 
-<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;margin:28px 0;">
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:24px;margin:28px 0;">
 <div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
 <strong>日本郵政グループ（経常利益ベース）</strong>
 <canvas id="pie-japanpost" style="max-height:280px;margin-top:8px;"></canvas>

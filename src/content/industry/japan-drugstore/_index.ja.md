@@ -65,7 +65,7 @@ graph LR
 
 ドラッグストア業界のM&Aが活発な最大の理由は、<span style="font-weight:700">ドミナント戦略</span>との親和性が極めて高いことです。特定エリアに店舗を集中出店することで、(1) 物流コストの低減、(2) 広告宣伝効率の向上、(3) ブランド認知の浸透、(4) 人材配置の柔軟性、という4つの効果が同時に得られます。地方チェーンを丸ごと買収するM&Aは、ドミナントを一気に完成させる最速の手段なのです。
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin:24px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px;margin:24px 0;">
 <div style="background:#e3f2fd;border-left:4px solid #1565c0;padding:16px;border-radius:6px;">
 <strong style="color:#0d47a1;">ウエルシアHD</strong><br/>関東（東京・埼玉・千葉・茨城）に高密度。調剤併設率が業界最高水準
 </div>
@@ -141,7 +141,7 @@ new Chart(document.getElementById('bar-drugstore'), {
 
 ドラッグストア各社は同じ業態名でありながら、売上構成が大きく異なります。この違いが各社の競争戦略と利益率に直結しています。
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px;margin:28px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:24px;margin:28px 0;">
 <div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
 <strong>コスモス薬品</strong><br/><span style="font-size:.85rem;color:#666;">食品特化型</span>
 <canvas id="pie-cosmos" style="max-height:240px;margin-top:8px;"></canvas>

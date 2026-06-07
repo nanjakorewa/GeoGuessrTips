@@ -150,7 +150,7 @@ galleryDir: "japan-trading-company"
 
 各社がどの事業で稼いでいるかを円グラフで比較すると、商社ごとの「個性」が鮮明に見えてきます。三菱商事・三井物産は資源系セグメントが大きな比重を占め、伊藤忠商事は非資源セグメントが際立って多いことが一目でわかります。
 
-<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;margin:28px 0;">
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:24px;margin:28px 0;">
 <div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
 <strong>三菱商事</strong>
 <canvas id="pie-mc" style="max-height:280px;margin-top:8px;"></canvas>

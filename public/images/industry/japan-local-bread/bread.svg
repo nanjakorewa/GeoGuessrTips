@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img" aria-label="ご当地パンのイラスト">
+  <defs>
+    <linearGradient id="bbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff7e6"/><stop offset="1" stop-color="#ffe9c2"/>
+    </linearGradient>
+    <linearGradient id="crust" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8a64e"/><stop offset="1" stop-color="#c97c2c"/>
+    </linearGradient>
+    <linearGradient id="crumb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff4dc"/><stop offset="1" stop-color="#f6e3b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="200" fill="url(#bbg)"/>
+  <rect y="162" width="320" height="38" fill="#f0d9a8"/>
+  <!-- loaf (pullman bread) -->
+  <g>
+    <path d="M70 150 L70 96 q0 -34 40 -34 l100 0 q40 0 40 34 l0 54 z" fill="url(#crust)" stroke="#a8631f" stroke-width="2"/>
+    <path d="M70 100 q0 -38 40 -38 l100 0 q40 0 40 38 q-90 -16 -180 0 z" fill="#d98e3c"/>
+    <rect x="78" y="104" width="60" height="44" rx="6" fill="url(#crumb)"/>
+    <circle cx="96" cy="120" r="3" fill="#eccf9b"/>
+    <circle cx="112" cy="132" r="2.5" fill="#eccf9b"/>
+    <circle cx="124" cy="118" r="2" fill="#eccf9b"/>
+  </g>
+  <!-- a small roll in front -->
+  <ellipse cx="225" cy="150" rx="40" ry="22" fill="#e2a149" stroke="#b97824" stroke-width="2"/>
+  <path d="M205 142 q20 -8 40 0" stroke="#c98a3a" stroke-width="2" fill="none"/>
+  <path d="M205 150 q20 -8 40 0" stroke="#c98a3a" stroke-width="2" fill="none"/>
+  <ellipse cx="225" cy="150" rx="6" ry="4" fill="#fff1cf" opacity="0.7"/>
+</svg>

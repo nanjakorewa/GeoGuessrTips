@@ -82,7 +82,7 @@ galleryDir: "japan-bearing"
 
 ## 世界ベアリング市場シェアの可視化
 
-<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;margin:28px 0;">
+<div class="shosha-chart-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:24px;margin:28px 0;">
 <div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
 <strong>世界ベアリング市場 メーカー別シェア（売上高ベース・推定）</strong>
 <canvas id="pie-bearing" style="max-height:320px;margin-top:8px;"></canvas>

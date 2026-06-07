@@ -121,7 +121,7 @@ JR東海は営業収益でJR東日本の約6割ながら、<span style="font-wei
 
 各社のセグメント別利益構成をドーナツチャートで比較します。JR東日本は非鉄道事業への多角化が進む一方、JR東海は新幹線に集中した構造が明確です。比較しやすいよう、類似セグメントは同じ色で示しています（<span style="color:#1565c0;font-weight:700">■運輸・鉄道</span> / <span style="color:#ef6c00;font-weight:700">■不動産・ホテル</span> / <span style="color:#2e7d32;font-weight:700">■流通・サービス</span> / <span style="color:#6a1b9a;font-weight:700">■建設</span> / <span style="color:#00838f;font-weight:700">■旅行・地域ソリューション</span> / <span style="color:#9e9e9e;font-weight:700">■その他</span>）。
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px;margin:28px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:24px;margin:28px 0;">
 <div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:20px;text-align:center;">
 <strong>JR東日本 セグメント別営業収益</strong>
 <canvas id="pie-jr-east" style="max-height:260px;margin-top:8px;"></canvas>

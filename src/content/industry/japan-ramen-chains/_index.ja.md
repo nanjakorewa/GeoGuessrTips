@@ -121,7 +121,7 @@ mapPins:
 
 ### 北海道・東北
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="/images/industry/japan-ramen-chains/sumire_junren.png" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -203,7 +203,7 @@ mapPins:
 
 ### 関東
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Maruchiyo Yamaokaya Logo.png?width=120" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -296,7 +296,7 @@ mapPins:
 
 ### 中部・関西
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="/images/industry/japan-ramen-chains/hachiban.jpg" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -411,7 +411,7 @@ mapPins:
 
 ### 中国・四国
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>
@@ -457,7 +457,7 @@ mapPins:
 
 ### 九州
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ippudo Logo.png?width=120" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />

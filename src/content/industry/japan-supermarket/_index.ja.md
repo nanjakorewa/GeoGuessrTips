@@ -94,7 +94,7 @@ CGC以外にも、<span style="font-weight:700">AJS（オール日本スーパ�
 
 ### 北海道
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Arcs_Group_logo.svg?width=80" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -135,7 +135,7 @@ CGC以外にも、<span style="font-weight:700">AJS（オール日本スーパ�
 
 ### 東北
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/York_benimaru_logo.svg?width=80" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -228,7 +228,7 @@ CGC以外にも、<span style="font-weight:700">AJS（オール日本スーパ�
 
 ### 関東
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Beisia_logo.svg?width=80" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -366,7 +366,7 @@ CGC以外にも、<span style="font-weight:700">AJS（オール日本スーパ�
 
 ### 中部
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Valor_logo.svg?width=80" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -474,7 +474,7 @@ CGC以外にも、<span style="font-weight:700">AJS（オール日本スーパ�
 
 ### 関西
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Heiwado_Co.%2C_Ltd._Logo.png?width=80" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -568,7 +568,7 @@ CGC以外にも、<span style="font-weight:700">AJS（オール日本スーパ�
 
 ### 中国・四国
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Izumi_group_logo_youme_2015.svg?width=80" alt="" loading="lazy" style="max-width:52px;max-height:52px;object-fit:contain;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
@@ -634,7 +634,7 @@ CGC以外にも、<span style="font-weight:700">AJS（オール日本スーパ�
 
 ### 九州・沖縄
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin:18px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:18px 0;">
 <div style="background:#fff;border:1px solid #d1d5db;padding:12px;display:flex;gap:12px;align-items:center;">
 <div style="flex:0 0 56px;height:56px;display:flex;align-items:center;justify-content:center;background:#f9fafb;">
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="none" stroke="#9ca3af" stroke-width="2"/><text x="16" y="22" text-anchor="middle" font-size="18" fill="#9ca3af" font-weight="700">?</text></svg>

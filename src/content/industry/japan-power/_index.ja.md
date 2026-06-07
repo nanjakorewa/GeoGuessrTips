@@ -263,7 +263,7 @@ new Chart(document.getElementById('bar-mix'), {
 
 各社の電力需要の内訳（電灯＝家庭、業務用＝小口、産業用＝大口）は、管轄エリアの経済構造を映します。製造業が多い<span style="font-weight:700">中部は産業用比率が高く</span>、商業・サービス業が中心の<span style="font-weight:700">東京は業務用と電灯の比率が高い</span>のが特徴です{{% cite "enecho_sales" %}}。
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:22px;margin:28px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:22px;margin:28px 0;">
 <div style="background:#fff;border-radius:10px;box-shadow:0 1px 8px rgba(0,0,0,.07);padding:18px;text-align:center;">
 <strong>東京電力</strong>
 <canvas id="pie-demand-tepco" style="max-height:220px;margin-top:8px;"></canvas>
@@ -475,7 +475,7 @@ new Chart(document.getElementById('pie-demand-okiden'),{type:'doughnut',
 
 ## GeoGuessr視点のワンポイント
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;margin:24px 0;">
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;margin:24px 0;">
 <div style="background:#fff;border-left:4px solid #1565c0;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.06);">
 <strong style="color:#1565c0">原発の立地ヒント</strong><br/>
 <span style="font-size:.88rem;line-height:1.7;">若狭湾（関電7基）・東松浦半島（玄海）・東シナ海岸（川内）・佐田岬半島（伊方）・牡鹿半島（女川）・下北半島（東通・大間）と、岬・半島先端の孤立立地が定石。ドーム型格納容器＋排気筒＋送電鉄塔のセットが特徴。</span>
