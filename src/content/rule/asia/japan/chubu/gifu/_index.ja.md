@@ -184,7 +184,7 @@ prefInfo:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="shirakawa_xiang_gassho_village.jpg" width="360" alt="Gifu GeoGuessr guide image showing gassho-zukuri houses in Shirakawa-go">
+<img src="shirakawa_xiang_gassho_village.jpg" width="480" alt="Gifu GeoGuessr guide image showing gassho-zukuri houses in Shirakawa-go">
 </div>
 {{% /tab %}}
 {{% tab "高山" %}}
@@ -193,7 +193,7 @@ prefInfo:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="1280px-Looking_down_Kamisannomachi,_Takayama,_2016.jpg" width="540" alt="Gifu GeoGuessr guide image showing the old townscape of Kamisannomachi in Takayama">
+<img src="1280px-Looking_down_Kamisannomachi,_Takayama,_2016.jpg" width="720" alt="Gifu GeoGuessr guide image showing the old townscape of Kamisannomachi in Takayama">
 </div>
 {{% /tab %}}
 {{% tab "美濃" %}}
@@ -202,7 +202,7 @@ prefInfo:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="1280px-Ōishi_Family's_House_20211016.jpg" width="480" alt="Gifu GeoGuessr guide image showing an udatsu merchant house in Mino">
+<img src="1280px-Ōishi_Family's_House_20211016.jpg" width="680" alt="Gifu GeoGuessr guide image showing an udatsu merchant house in Mino">
 </div>
 {{% /tab %}}
 {{% tab "郡上" %}}
@@ -211,7 +211,7 @@ prefInfo:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="gujo_hachiman_day_1_16.jpg" width="540" alt="Gifu GeoGuessr guide image showing a waterway in Gujo-Hachiman">
+<img src="gujo_hachiman_day_1_16.jpg" width="720" alt="Gifu GeoGuessr guide image showing a waterway in Gujo-Hachiman">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

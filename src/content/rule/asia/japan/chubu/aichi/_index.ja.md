@@ -172,6 +172,76 @@ references:
 {{% /tabs %}}
 
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li><span class="quiz">名古屋市</span>は金鯱の名古屋城と、市街を貫く幅100mの久屋大通・若宮大通が目印</li>
+        <li><span class="quiz">豊田市</span>はトヨタ自動車の企業城下町で、大規模な自動車工場群が広がる</li>
+        <li><span class="quiz">一宮市</span>はのこぎり屋根（鋸屋根）の毛織物工場が点在する繊維の街</li>
+        <li><span class="quiz">瀬戸市</span>は瀬戸焼の産地で、窯元の煙突や街なかのやきものが見られる</li>
+        <li><span class="quiz">常滑市</span>は招き猫と土管坂・やきもの散歩道が特徴のやきものの街</li>
+        <li><span class="quiz">豊橋市</span>は市内を路面電車（豊橋鉄道市内線）が走る</li>
+        <li><span class="quiz">半田市</span>はミツカン本社の黒板塀の醸造蔵が半田運河沿いに並ぶ</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "名古屋" %}}
+{{% notice tip %}}
+<span class="quiz">名古屋市</span>は中京圏の中心都市で、金鯱で知られる名古屋城が目印。戦災復興でつくられた幅100mの久屋大通・若宮大通など、広い街路と高層ビル群が大都市の手がかりになる。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="nagoya_castle_japan_panorama.jpg" width="720" alt="Aichi GeoGuessr guide image showing the Nagoya cityscape seen from Nagoya Castle">
+</div>
+{{% /tab %}}
+{{% tab "一宮" %}}
+{{% notice tip %}}
+<span class="quiz">一宮市</span>は毛織物（ウール）の一大産地「尾州」で、採光のための「のこぎり屋根（鋸屋根）」の機屋（はたや）が市内に多数残る。最盛期は全国8000棟超、現在も約2000棟が現存{{% ref "https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%B7%9E" "尾州" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Tamanoi_saw-tooth_roof_factories_ac_(4).jpg#/media/File:Tamanoi_saw-tooth_roof_factories_ac_(4).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Tamanoi_saw-tooth_roof_factories_ac_%284%29.jpg" alt="Tamanoi saw-tooth roof factories ac (4).jpg" height="851" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Asturio_Cantabrio" title="User:Asturio Cantabrio">Asturio Cantabrio</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=98061891">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% tab "瀬戸" %}}
+{{% notice tip %}}
+<span class="quiz">瀬戸市</span>は日本六古窯のひとつ瀬戸焼の産地で、陶磁器を指す「せともの」の語源。窯元の煙突や登り窯、街なかのやきものが手がかり{{% ref "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E7%84%BC" "瀬戸焼" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="aichi_pref_r_061.jpg" width="720" alt="Aichi GeoGuessr guide image showing Seto, a pottery town">
+</div>
+{{% /tab %}}
+{{% tab "常滑" %}}
+{{% notice tip %}}
+<span class="quiz">常滑市</span>は六古窯のひとつ常滑焼の産地で、招き猫の生産量が日本一。土管や焼酎瓶を擁壁に埋め込んだ「土管坂」、窯元が連なる「やきもの散歩道」が特徴{{% ref "https://ja.wikipedia.org/wiki/%E5%B8%B8%E6%BB%91%E7%84%BC" "常滑焼" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="japan_1079004.jpg" width="720" alt="Aichi GeoGuessr guide image showing maneki-neko lucky cats in Tokoname">
+</div>
+{{% /tab %}}
+{{% tab "豊橋" %}}
+{{% notice tip %}}
+<span class="quiz">豊橋市</span>の市内には路面電車（豊橋鉄道東田本線・市内線）が走る。名鉄岐阜市内線の廃止後、東海地方で唯一の路面電車{{% ref "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%A9%8B%E9%89%84%E9%81%93%E6%9D%B1%E7%94%B0%E6%9C%AC%E7%B7%9A" "豊橋鉄道東田本線" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="toyohashi_kouen_mae_station2.jpg" width="640" alt="Aichi GeoGuessr guide image showing a tram station in Toyohashi">
+</div>
+{{% /tab %}}
+{{% tab "半田" %}}
+{{% notice tip %}}
+<span class="quiz">半田市</span>は酢で知られるミツカン（Mizkan）の創業地・本社所在地。半田運河沿いに黒板塀の醸造蔵が並ぶ景観が特徴{{% ex "https://maps.app.goo.gl/n89bLH9iLVcEjdhV9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E5%8D%8A%E7%94%B0%E5%B8%82" "半田市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "半田運河・黒板塀の醸造蔵" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

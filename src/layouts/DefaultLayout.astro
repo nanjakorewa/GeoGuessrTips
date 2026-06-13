@@ -314,6 +314,13 @@ for (let i = 0; i < pathSegments.length; i++) {
   crumbs.push({ name: segName, url: buildUrl(collection, segSlug, segLang) });
 }
 
+// --- Parent crumb for the hero "back to parent" chip ---
+// The last crumb is the current page; the one before it is its parent
+// (e.g. 中部 for 岐阜). Used to give hero-layout pages a prominent
+// "← parent" link at the top, since the full breadcrumb only renders at
+// the bottom of these (long) pages.
+const parentCrumb = crumbs.length >= 2 ? crumbs[crumbs.length - 2] : null;
+
 // --- Auto-extract YouTube video IDs from raw markdown ---
 const rawBody = entry.body ?? "";
 const autoVideoIds: string[] = [];
@@ -448,6 +455,39 @@ const lastmodDisplay = modifiedTime
       display: flex;
       flex-direction: column;
       gap: 1rem;
+    }
+    /* 親（例: 中部）へ戻るチップ。長い県/国ページでも上部から1クリックで
+       上位カテゴリへ戻れるようにする（パンくずはページ下部にしか出ないため）。 */
+    .rule-hero-back {
+      align-self: flex-start;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5em;
+      margin-bottom: -0.25rem;
+      padding: 5px 14px 5px 11px;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 999px;
+      color: rgba(255, 255, 255, 0.9);
+      font-size: 0.82rem;
+      font-weight: 600;
+      line-height: 1.4;
+      text-decoration: none;
+      transition: background 0.15s ease, border-color 0.15s ease,
+        color 0.15s ease;
+    }
+    .rule-hero-back i {
+      font-size: 0.85em;
+      transition: transform 0.15s ease;
+    }
+    .rule-hero-back:hover {
+      background: rgba(224, 123, 32, 0.18);
+      border-color: rgba(224, 123, 32, 0.6);
+      color: #ffd082;
+      text-decoration: none;
+    }
+    .rule-hero-back:hover i {
+      transform: translateX(-3px);
     }
     .rule-hero-title__h1 {
       font-size: clamp(1.6rem, 2.6vw, 2.3rem);
@@ -688,6 +728,12 @@ const lastmodDisplay = modifiedTime
     <section class="rule-hero-section">
       <div class="rule-hero-section__inner">
         <div class="rule-hero-title">
+          {parentCrumb && (
+            <a href={parentCrumb.url} class="rule-hero-back" aria-label={`${parentCrumb.name}${lang === "ja" ? "に戻る" : ""}`}>
+              <i class="fas fa-arrow-left"></i>
+              <span>{parentCrumb.name}</span>
+            </a>
+          )}
           <h1 class="rule-hero-title__h1">
             {data.title_prefix && <span class="rule-hero-title__prefix">{data.title_prefix}</span>}
             <span class="rule-hero-title__main">{data.title}</span>
