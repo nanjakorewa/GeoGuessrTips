@@ -752,6 +752,15 @@ h2[id] {
   text-align: center;
 }
 
+/* Dark mode: sidebar ad caption is dark-on-dark on the themed surface */
+[data-theme="dark"] .sidebar-ad__caption {
+  color: var(--text-color);
+}
+[data-theme="dark"] .sidebar-ad:hover {
+  background: var(--accent-soft);
+  border-color: var(--primary-color);
+}
+
 /* Sidebar navigation tree */
 .sidebar ul.list-styled {
   padding-left: 0;
@@ -2595,6 +2604,124 @@ sup.cite-num a:hover {
   .pref-muni-list__items {
     grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
   }
+}
+
+/* ============================================
+   Dark mode: prefecture page sections
+   The references / pref-info / pref-muni blocks use hardcoded light
+   backgrounds and dark text (#1a2535 / #2d3038 / #1f3a5c …). On the dark
+   surface that text turns dark-on-dark and becomes unreadable, so restore
+   contrast with the theme variables. Orange accents (#c97320 / #e07b20)
+   read fine on dark and are kept.
+   ============================================ */
+
+/* References / bibliography */
+[data-theme="dark"] .references-title {
+  color: var(--text-color-dark);
+}
+[data-theme="dark"] .references-list .ref-item {
+  color: var(--text-color);
+}
+[data-theme="dark"] .references-list .ref-text a {
+  color: var(--primary-color);
+}
+[data-theme="dark"] .references-list .ref-text a:hover {
+  color: #e0a96b;
+}
+
+/* Prefecture basic info */
+[data-theme="dark"] .pref-info-section__title {
+  color: var(--text-color-dark);
+  border-bottom-color: var(--border-soft);
+}
+[data-theme="dark"] .pref-info-card {
+  background: var(--surface-color);
+  border-color: var(--border-soft);
+}
+[data-theme="dark"] .pref-info-card--highlight {
+  background: rgba(240, 201, 122, 0.08);
+  border-color: rgba(240, 201, 122, 0.35);
+}
+[data-theme="dark"] .pref-info-card__label {
+  color: #9aa3ad;
+}
+[data-theme="dark"] .pref-info-card__value {
+  color: var(--text-color-dark);
+}
+[data-theme="dark"] .pref-info-subtitle {
+  color: var(--text-color-dark);
+}
+[data-theme="dark"] .pref-info-text {
+  color: var(--text-color);
+}
+[data-theme="dark"] .pref-info-related {
+  border-top-color: var(--border-soft);
+}
+[data-theme="dark"] .pref-info-related__label {
+  color: var(--text-color-dark);
+}
+[data-theme="dark"] .pref-info-related__list a {
+  background: var(--surface-color);
+  border-color: var(--border-soft);
+  border-left-color: var(--primary-color);
+  color: var(--text-color);
+}
+[data-theme="dark"] .pref-info-related__list a:hover {
+  background: var(--accent-soft);
+  border-color: rgba(240, 201, 122, 0.35);
+  border-left-color: #e07b20;
+  color: var(--text-color-dark);
+}
+[data-theme="dark"] .pref-info-related__note {
+  color: #9aa3ad;
+}
+
+/* Prefecture municipalities */
+[data-theme="dark"] .pref-muni-section {
+  background: var(--surface-alt);
+  border-color: var(--border-soft);
+}
+[data-theme="dark"] .pref-muni-section__header {
+  border-bottom-color: var(--border-soft);
+}
+[data-theme="dark"] .pref-muni-section__title {
+  color: var(--text-color-dark);
+}
+[data-theme="dark"] .pref-muni-section__total,
+[data-theme="dark"] .pref-muni-list__note {
+  color: #9aa3ad;
+}
+[data-theme="dark"] .pref-muni-list__group-label {
+  color: #9aa3ad;
+  border-bottom-color: var(--border-soft);
+}
+[data-theme="dark"] .pref-muni-cta {
+  background: var(--surface-color);
+  color: var(--text-color-dark) !important;
+  border-color: var(--border-soft);
+}
+[data-theme="dark"] .pref-muni-cta:hover {
+  background: var(--accent-soft);
+  border-color: var(--primary-color);
+  color: var(--text-color-dark) !important;
+}
+[data-theme="dark"] .pref-muni-map {
+  background: var(--surface-color);
+  border-color: var(--border-soft);
+}
+[data-theme="dark"] .pref-muni-list__type {
+  color: #7fb3d5;
+}
+[data-theme="dark"] .pref-muni-list__name {
+  color: var(--text-color);
+}
+[data-theme="dark"] .pref-muni-list__items li.is-active,
+[data-theme="dark"] .pref-muni-list__items li:hover {
+  background: var(--accent-soft);
+}
+[data-theme="dark"] .pref-muni-list__items li.is-active .pref-muni-list__name,
+[data-theme="dark"] .pref-muni-list__items li:hover .pref-muni-list__name {
+  color: #e0a96b;
 }
 
 ul.rule-list li::before {

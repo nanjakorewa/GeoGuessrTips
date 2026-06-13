@@ -161,8 +161,10 @@ prefInfo:
     <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
         <li>関市は<span class="quiz">刃物</span>の街で家庭用刃物の出荷額は国内シェア約55%{{% ref "https://www.city.seki.lg.jp/cmsfiles/contents/0000004/4761/kogyo_R4.pdf" "関市の工業（令和4年）" %}}</li>
-        <li>東濃地域（土岐市・多治見市・瑞浪市）は<span class="quiz">美濃焼</span>の産地で、日本の陶磁器食器の50%以上を生産{{% ref "https://ja.wikipedia.org/wiki/%E7%BE%8E%E6%BF%83%E7%84%BC" "美濃焼" %}}</li>
         <li>白川郷の<span class="quiz">合掌造り</span>は1995年にユネスコ世界遺産に登録された急勾配の茅葺き屋根の集落</li>
+        <li>飛騨地方の<span class="quiz">高山市</span>は出格子の町家が連なる「さんまち」の古い町並み</li>
+        <li><span class="quiz">美濃市</span>は屋根の両端に「うだつ」を上げた商家が並ぶ町並み</li>
+        <li><span class="quiz">郡上市</span>の郡上八幡は用水路や水舟など街なかの水路網が特徴</li>
     </ul>
 </div>
 
@@ -174,6 +176,42 @@ prefInfo:
 
 <div class="googlemap-if unclickable no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Seki_Sword_Tradition_Museum_1.JPG#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Seki_Sword_Tradition_Museum_1.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Seki_Sword_Tradition_Museum_1.JPG" alt="Seki Sword Tradition Museum 1.JPG" height="720" width="960"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Hide-sp" title="User:Hide-sp">Hide-sp</a> - <span class="int-own-work" lang="ja">投稿者自身による著作物</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC 表示-継承 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3141374">リンク</a>による</p>
+</div>
+{{% /tab %}}
+{{% tab "白川郷" %}}
+{{% notice tip %}}
+<span class="quiz">白川郷</span>（白川村）の合掌造りは急勾配の茅葺き屋根が特徴で、1995年にユネスコ世界遺産に登録{{% ex "https://maps.app.goo.gl/qg7m3Q1xY9p8s4kS9" %}}。豪雪地帯のため屋根勾配が非常に急で、周囲は山に囲まれた集落。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="shirakawa_xiang_gassho_village.jpg" width="360" alt="Gifu GeoGuessr guide image showing gassho-zukuri houses in Shirakawa-go">
+</div>
+{{% /tab %}}
+{{% tab "高山" %}}
+{{% notice tip %}}
+<span class="quiz">高山市</span>は面積日本一の市（約2,177km²、東京都とほぼ同じ）{{% ex "https://maps.app.goo.gl/8m6oxhJ8gqJ3wRvE7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B1%B1%E5%B8%82" "高山市" %}}。中心部の「さんまち」は出格子の町家が連なる古い町並みで、飛騨牛・酒蔵の杉玉も目印になる。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="1280px-Looking_down_Kamisannomachi,_Takayama,_2016.jpg" width="540" alt="Gifu GeoGuessr guide image showing the old townscape of Kamisannomachi in Takayama">
+</div>
+{{% /tab %}}
+{{% tab "美濃" %}}
+{{% notice tip %}}
+<span class="quiz">美濃市</span>は防火のため屋根の両端に「うだつ」を上げた商家が並ぶ町並みと美濃和紙の産地{{% ref "https://ja.wikipedia.org/wiki/%E7%BE%8E%E6%BF%83%E5%92%8C%E7%B4%99" "美濃和紙" %}}。手すき和紙「本美濃紙」はユネスコ無形文化遺産（2014年）。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="1280px-Ōishi_Family's_House_20211016.jpg" width="480" alt="Gifu GeoGuessr guide image showing an udatsu merchant house in Mino">
+</div>
+{{% /tab %}}
+{{% tab "郡上" %}}
+{{% notice tip %}}
+<span class="quiz">郡上市</span>の郡上八幡は城下町で、用水路や水舟（みずぶね）{{% ex "https://maps.app.goo.gl/yFwVuJ2JT5t4y8ah7" %}}など街なかの水路網が特徴{{% ex "https://maps.app.goo.gl/xtPtFgvkEU41wrvV8" %}}。日本三大盆踊りの一つ「郡上おどり」や、食品サンプル発祥の地で全国生産シェアが高いことでも知られる{{% ref "https://ja.wikipedia.org/wiki/%E9%83%A1%E4%B8%8A%E5%B8%82" "郡上市" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="gujo_hachiman_day_1_16.jpg" width="540" alt="Gifu GeoGuessr guide image showing a waterway in Gujo-Hachiman">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

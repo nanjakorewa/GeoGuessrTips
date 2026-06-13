@@ -35,6 +35,7 @@ import { gotoHandler } from "./shortcodes/goto.ts";
 import { exHandler } from "./shortcodes/ex.ts";
 import { byHandler } from "./shortcodes/by.ts";
 import { refHandler } from "./shortcodes/ref.ts";
+import { photoPlaceholderHandler } from "./shortcodes/photo-placeholder.ts";
 import { lbHandler } from "./shortcodes/lb.ts";
 import { rdHandler } from "./shortcodes/rd.ts";
 import { resetQuizState, quizHandler } from "./shortcodes/quiz.ts";
@@ -264,6 +265,7 @@ function processAllShortcodes(
     i18nHandler(args, lang)
   );
   result = processInlineShortcode(result, "ex", exHandler);
+  result = processInlineShortcode(result, "photo-placeholder", photoPlaceholderHandler);
   result = processInlineShortcode(result, "ref", (args) =>
     refHandler(args, lang)
   );
