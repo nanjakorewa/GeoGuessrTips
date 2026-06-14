@@ -85,6 +85,49 @@ references:
     {{% corp "asia/japan" "chubu/ishikawa" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li><span class="quiz">金沢市</span>は兼六園や紅殻格子のひがし茶屋街など加賀百万石の城下町</li>
+        <li>輪島市は<span class="quiz">輪島塗</span>と朝市で知られる能登の街</li>
+        <li>加賀市は<span class="quiz">九谷焼</span>の産地で、山代・山中・片山津の温泉が点在</li>
+        <li>小松市は建設機械大手<span class="quiz">コマツ</span>（小松製作所）発祥の地</li>
+        <li>能登地方は黒く光る<span class="quiz">能登瓦</span>の屋根の集落が続く</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "金沢" %}}
+{{% notice tip %}}
+<span class="quiz">金沢市</span>は加賀百万石・前田家の城下町。日本三名園の兼六園、紅殻格子の町家が並ぶひがし茶屋街、金沢城が目印{{% ref "https://ja.wikipedia.org/wiki/%E5%85%BC%E5%85%AD%E5%9C%92" "兼六園" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "金沢・兼六園とひがし茶屋街" %}}
+{{% /tab %}}
+{{% tab "輪島" %}}
+{{% notice tip %}}
+<span class="quiz">輪島市</span>は漆器「輪島塗」と「朝市」で知られる能登の中心都市{{% ref "https://ja.wikipedia.org/wiki/%E8%BC%AA%E5%B3%B6%E5%A1%97" "輪島塗" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "輪島・朝市の通り" %}}
+{{% /tab %}}
+{{% tab "加賀" %}}
+{{% notice tip %}}
+<span class="quiz">加賀市</span>・能美市周辺は色絵磁器「九谷焼」の産地で、山代・山中・片山津の加賀温泉郷がある{{% ref "https://ja.wikipedia.org/wiki/%E4%B9%9D%E8%B0%B7%E7%84%BC" "九谷焼" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "加賀・九谷焼の窯元" %}}
+{{% /tab %}}
+{{% tab "小松" %}}
+{{% notice tip %}}
+<span class="quiz">小松市</span>は建設機械大手コマツ（小松製作所）の創業地。小松空港やコマツの工場・教習所があり、黄色い建設機械が目印になることもある。
+{{% /notice %}}
+
+{{% photo-placeholder "小松・コマツの工場" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

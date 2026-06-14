@@ -98,6 +98,41 @@ references:
     {{% corp "asia/japan" "kinki/kyoto" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>京都市は碁盤の目状の街路と社寺・町家が広がる古都</li>
+        <li>宇治市は<span class="quiz">茶</span>の産地で、平等院や宇治川が知られる</li>
+        <li>宮津市の<span class="quiz">天橋立</span>は松並木の砂州が湾を分ける日本三景のひとつ</li>
+        <li>京都市西陣は<span class="quiz">西陣織</span>の織屋が集まる町</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "京都市" %}}
+{{% notice tip %}}
+<span class="quiz">京都市</span>は平安京以来の古都で、碁盤の目状の街路、社寺、格子の町家、高さを抑えた街並みが特徴{{% ref "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B8%82" "京都市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "京都・町家の街並み" %}}
+{{% /tab %}}
+{{% tab "宇治" %}}
+{{% notice tip %}}
+<span class="quiz">宇治市</span>は高級茶「宇治茶」の産地で、宇治川沿いに平等院鳳凰堂や茶畑・茶店が広がる{{% ref "https://ja.wikipedia.org/wiki/%E5%AE%87%E6%B2%BB%E5%B8%82" "宇治市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "宇治・茶畑と平等院" %}}
+{{% /tab %}}
+{{% tab "天橋立" %}}
+{{% notice tip %}}
+宮津市の<span class="quiz">天橋立</span>は、宮津湾を南北に分ける松並木の砂州で、日本三景のひとつ{{% ref "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%A9%8B%E7%AB%8B" "天橋立" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "天橋立・松並木の砂州" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

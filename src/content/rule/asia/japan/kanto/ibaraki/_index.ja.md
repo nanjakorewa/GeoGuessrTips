@@ -143,6 +143,41 @@ references:
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>日立市は<span class="quiz">日立製作所</span>発祥の企業城下町で、大規模な工場・事業所が並ぶ</li>
+        <li>つくば市は研究機関が集まる<span class="quiz">筑波研究学園都市</span>で、計画的な広い街路が特徴</li>
+        <li>神栖市・鹿嶋市は<span class="quiz">鹿島臨海工業地帯</span>でコンビナートが広がる</li>
+        <li>筑波山は関東平野に独立してそびえる山で、平野部の目印になる</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "日立" %}}
+{{% notice tip %}}
+<span class="quiz">日立市</span>は総合電機メーカー・日立製作所が創業した企業城下町で、海沿いに大規模な工場・事業所が並ぶ{{% ref "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%B8%82" "日立市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "日立・工場群" %}}
+{{% /tab %}}
+{{% tab "つくば" %}}
+{{% notice tip %}}
+<span class="quiz">つくば市</span>は大学・国の研究機関が集積する筑波研究学園都市で、計画的に整備された広い街路と研究施設が特徴{{% ref "https://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E7%A0%94%E7%A9%B6%E5%AD%A6%E5%9C%92%E9%83%BD%E5%B8%82" "筑波研究学園都市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "つくば・研究学園都市" %}}
+{{% /tab %}}
+{{% tab "鹿島臨海" %}}
+{{% notice tip %}}
+神栖市・鹿嶋市の<span class="quiz">鹿島臨海工業地帯</span>は、掘込式の鹿島港を中心に製鉄・石油化学のコンビナートが広がる{{% ref "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B3%B6%E8%87%A8%E6%B5%B7%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%B8%AF" "鹿島臨海工業地帯" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "鹿島・臨海コンビナート" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

@@ -106,6 +106,41 @@ references:
 
 
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>甲州市勝沼・笛吹市は<span class="quiz">ブドウ・ワイン</span>の産地で、斜面に果樹園とワイナリーが広がる</li>
+        <li>富士吉田市は富士山の北麓にあり、本町通りの正面に<span class="quiz">富士山</span>がそびえる</li>
+        <li>甲府市は武田氏ゆかりの城下町で、<span class="quiz">宝飾</span>（ジュエリー）の街</li>
+        <li>富士河口湖町・山中湖村など<span class="quiz">富士五湖</span>は富士山を望む観光リゾート</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "勝沼・ワイン" %}}
+{{% notice tip %}}
+<span class="quiz">甲州市</span>勝沼や笛吹市は日本ワイン発祥地のひとつで、甲府盆地の扇状地にブドウ畑とワイナリーが密集する{{% ref "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%B7%9E%E5%B8%82" "甲州市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "勝沼・ブドウ畑とワイナリー" %}}
+{{% /tab %}}
+{{% tab "富士吉田" %}}
+{{% notice tip %}}
+<span class="quiz">富士吉田市</span>は富士山北麓の機織り（郡内織物）の街で、本町通りの正面に富士山が大きく見える構図が有名{{% ref "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%90%89%E7%94%B0%E5%B8%82" "富士吉田市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "富士吉田・本町通りと富士山" %}}
+{{% /tab %}}
+{{% tab "甲府" %}}
+{{% notice tip %}}
+<span class="quiz">甲府市</span>は戦国大名・武田氏の城下町で、水晶の研磨・加工に始まる宝飾（ジュエリー）産業の集積地{{% ref "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%BA%9C%E5%B8%82" "甲府市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "甲府・城下町と宝飾の街" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

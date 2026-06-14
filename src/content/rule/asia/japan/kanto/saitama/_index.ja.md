@@ -149,6 +149,41 @@ references:
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>川越市は<span class="quiz">蔵造り</span>の町並みと時の鐘が残る「小江戸」</li>
+        <li>秩父市は山に囲まれた盆地で、武甲山の<span class="quiz">石灰石</span>採掘とセメント工場が目印</li>
+        <li>川口市は<span class="quiz">鋳物</span>の街として発展した工業都市</li>
+        <li>さいたま市は大宮・浦和を中心とする県都で、関東平野の住宅・市街地が広がる</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "川越" %}}
+{{% notice tip %}}
+<span class="quiz">川越市</span>は黒い蔵造りの商家と「時の鐘」が残る城下町で、「小江戸」と呼ばれる{{% ref "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E5%B8%82" "川越市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "川越・蔵造りの町並み" %}}
+{{% /tab %}}
+{{% tab "秩父" %}}
+{{% notice tip %}}
+<span class="quiz">秩父市</span>は山に囲まれた盆地で、石灰石を産する武甲山と、それを原料とするセメント工場が街のシンボル{{% ref "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%B8%82" "秩父市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "秩父・武甲山とセメント工場" %}}
+{{% /tab %}}
+{{% tab "川口" %}}
+{{% notice tip %}}
+<span class="quiz">川口市</span>は古くから鋳物の街として発展した工業都市で、近年は再開発で住宅都市化も進む{{% ref "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%8F%A3%E5%B8%82" "川口市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "川口・鋳物工場" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

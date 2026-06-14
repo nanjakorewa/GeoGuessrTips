@@ -91,6 +91,41 @@ references:
     {{% corp "asia/japan" "shikoku/ehime" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>今治市は<span class="quiz">タオル</span>の国内一の産地で、造船も盛ん</li>
+        <li>松山市は<span class="quiz">道後温泉</span>と松山城があり、市内を路面電車が走る</li>
+        <li>新居浜市は<span class="quiz">別子銅山</span>で発展した住友グループ発祥の工業都市</li>
+        <li>宇和島など南予はリアス海岸で、真珠・養殖が盛ん</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "今治" %}}
+{{% notice tip %}}
+<span class="quiz">今治市</span>は生産量日本一のタオル産地で、国産タオルの過半を占める。造船・海運も盛んで今治城がある{{% ref "https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%B2%BB%E3%82%BF%E3%82%AA%E3%83%AB" "今治タオル" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "今治・タオル工場と造船" %}}
+{{% /tab %}}
+{{% tab "松山" %}}
+{{% notice tip %}}
+<span class="quiz">松山市</span>は道後温泉と松山城で知られる四国最大の都市で、市内には伊予鉄道の路面電車が走る{{% ref "https://ja.wikipedia.org/wiki/%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89" "道後温泉" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "松山・道後温泉と路面電車" %}}
+{{% /tab %}}
+{{% tab "新居浜" %}}
+{{% notice tip %}}
+<span class="quiz">新居浜市</span>は江戸期に開かれた別子銅山で発展した住友グループ発祥の地で、化学・金属の工場が集まる{{% ref "https://ja.wikipedia.org/wiki/%E5%88%A5%E5%AD%90%E9%8A%85%E5%B1%B1" "別子銅山" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "新居浜・住友の工場群" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

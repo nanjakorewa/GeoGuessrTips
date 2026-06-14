@@ -155,6 +155,41 @@ references:
 
 
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>鹿児島市は<span class="quiz">桜島</span>を望む県都で、火山灰が積もることがある</li>
+        <li>指宿市は<span class="quiz">砂むし温泉</span>で知られる薩摩半島南端の温泉地</li>
+        <li>屋久島は<span class="quiz">屋久杉</span>と多雨の原生林で知られる世界自然遺産の島</li>
+        <li>種子島には<span class="quiz">ロケット</span>発射場（種子島宇宙センター）がある</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "桜島" %}}
+{{% notice tip %}}
+<span class="quiz">鹿児島市</span>は錦江湾に浮かぶ活火山・桜島を望む県都で、桜島は噴煙を上げ、市街にも火山灰が降ることがある{{% ref "https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%B3%B6" "桜島" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "鹿児島・桜島" %}}
+{{% /tab %}}
+{{% tab "屋久島" %}}
+{{% notice tip %}}
+<span class="quiz">屋久島</span>は樹齢千年を超える屋久杉と多雨の原生林で知られる世界自然遺産の島で、急峻な山が海から立ち上がる{{% ref "https://ja.wikipedia.org/wiki/%E5%B1%8B%E4%B9%85%E5%B3%B6" "屋久島" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "屋久島・原生林" %}}
+{{% /tab %}}
+{{% tab "種子島" %}}
+{{% notice tip %}}
+<span class="quiz">種子島</span>には日本最大級のロケット発射場・種子島宇宙センターがあり、サトウキビ畑の広がる平坦な島{{% ref "https://ja.wikipedia.org/wiki/%E7%A8%AE%E5%AD%90%E5%B3%B6" "種子島" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "種子島・ロケット発射場" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

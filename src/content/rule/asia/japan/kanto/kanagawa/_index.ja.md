@@ -108,6 +108,48 @@ references:
 
 
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>横浜市はみなとみらいや港・中華街がある日本最大級の市</li>
+        <li>鎌倉市は<span class="quiz">大仏</span>や寺社が残る古都で、海と丘に囲まれる</li>
+        <li>川崎市は東京湾岸に<span class="quiz">京浜工業地帯</span>のコンビナート・工場が連なる</li>
+        <li>箱根町は芦ノ湖・温泉・山岳の観光地</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "横浜" %}}
+{{% notice tip %}}
+<span class="quiz">横浜市</span>はみなとみらいの高層ビル群、横浜港、中華街などを擁する人口最大の市{{% ref "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%B8%82" "横浜市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "横浜・みなとみらい" %}}
+{{% /tab %}}
+{{% tab "鎌倉" %}}
+{{% notice tip %}}
+<span class="quiz">鎌倉市</span>は鎌倉大仏や鶴岡八幡宮など寺社が残る古都で、海と丘に囲まれた地形が特徴{{% ref "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E5%B8%82" "鎌倉市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "鎌倉・大仏と古都の街並み" %}}
+{{% /tab %}}
+{{% tab "川崎・京浜工業" %}}
+{{% notice tip %}}
+<span class="quiz">川崎市</span>の臨海部は京浜工業地帯の中核で、製鉄・石油化学のコンビナートが連なり工場夜景で知られる{{% ref "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E5%B8%82" "川崎市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "川崎・臨海コンビナート" %}}
+{{% /tab %}}
+{{% tab "箱根" %}}
+{{% notice tip %}}
+<span class="quiz">箱根町</span>は芦ノ湖・大涌谷・温泉郷で知られる山岳観光地で、登山鉄道やロープウェイが通る{{% ref "https://ja.wikipedia.org/wiki/%E7%AE%B1%E6%A0%B9" "箱根" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "箱根・芦ノ湖と温泉郷" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

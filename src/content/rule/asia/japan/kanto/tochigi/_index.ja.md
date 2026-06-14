@@ -85,6 +85,41 @@ references:
     {{% corp "asia/japan" "kanto/tochigi" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>日光市は<span class="quiz">日光東照宮</span>と中禅寺湖・いろは坂で知られる山岳観光地</li>
+        <li>益子町は<span class="quiz">益子焼</span>の産地で、窯元やギャラリーが点在</li>
+        <li>宇都宮市は<span class="quiz">餃子</span>の街として知られる北関東の県都</li>
+        <li>足利市は足利学校と織物の歴史を持つ街</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "日光" %}}
+{{% notice tip %}}
+<span class="quiz">日光市</span>は徳川家康をまつる日光東照宮（世界遺産）の門前町で、いろは坂・中禅寺湖・華厳の滝など山岳観光地が広がる{{% ref "https://ja.wikipedia.org/wiki/%E6%97%A5%E5%85%89%E6%9D%B1%E7%85%A7%E5%AE%AE" "日光東照宮" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "日光・東照宮" %}}
+{{% /tab %}}
+{{% tab "益子" %}}
+{{% notice tip %}}
+<span class="quiz">益子町</span>は陶器「益子焼」の産地で、窯元・登り窯・陶器店が点在する{{% ref "https://ja.wikipedia.org/wiki/%E7%9B%8A%E5%AD%90%E7%84%BC" "益子焼" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "益子・窯元の街並み" %}}
+{{% /tab %}}
+{{% tab "宇都宮" %}}
+{{% notice tip %}}
+<span class="quiz">宇都宮市</span>は「餃子の街」として知られる北関東の県都で、2023年に次世代型路面電車（LRT）が開業した{{% ref "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82" "宇都宮市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "宇都宮・市街とLRT" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

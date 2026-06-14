@@ -93,6 +93,41 @@ references:
     {{% corp "asia/japan" "kinki/wakayama" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>高野町の<span class="quiz">高野山</span>は山上に寺院が集まる真言宗の聖地（世界遺産）</li>
+        <li>田辺・新宮など熊野地方は<span class="quiz">熊野古道</span>と熊野三山の参詣道が通る</li>
+        <li>みなべ町・田辺市は<span class="quiz">梅</span>（南高梅）の日本一の産地</li>
+        <li>有田・海南など県北部は温暖な気候を生かしたみかんの産地</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "高野山" %}}
+{{% notice tip %}}
+高野町の<span class="quiz">高野山</span>は標高約800mの山上に多数の寺院が集まる真言宗の聖地で、世界遺産「紀伊山地の霊場と参詣道」の一部{{% ref "https://ja.wikipedia.org/wiki/%E9%AB%98%E9%87%8E%E5%B1%B1" "高野山" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "高野山・寺院群" %}}
+{{% /tab %}}
+{{% tab "熊野" %}}
+{{% notice tip %}}
+田辺市・新宮市など熊野地方には<span class="quiz">熊野古道</span>と熊野三山（本宮・速玉・那智）を結ぶ参詣道が通り、深い山林と渓谷が広がる{{% ref "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E5%8F%A4%E9%81%93" "熊野古道" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "熊野・古道と山林" %}}
+{{% /tab %}}
+{{% tab "南高梅" %}}
+{{% notice tip %}}
+<span class="quiz">みなべ町</span>・田辺市は梅の名産地で、ブランド梅「南高梅」を中心に斜面一面の梅林が広がる{{% ref "https://ja.wikipedia.org/wiki/%E5%8D%97%E9%AB%98%E6%A2%85" "南高梅" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "みなべ・梅林" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

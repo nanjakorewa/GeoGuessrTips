@@ -104,6 +104,32 @@ references:
     {{% corp "asia/japan" "tohoku/miyagi" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>仙台市は「杜の都」と呼ばれる東北最大の都市で、定禅寺通のケヤキ並木が有名</li>
+        <li>松島は多島海が広がる<span class="quiz">日本三景</span>のひとつ</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "仙台" %}}
+{{% notice tip %}}
+<span class="quiz">仙台市</span>は「杜の都」と呼ばれる東北最大の都市。伊達政宗の青葉城（仙台城）跡や、ケヤキ並木の定禅寺通が目印{{% ref "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E5%B8%82" "仙台市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "仙台・定禅寺通のケヤキ並木" %}}
+{{% /tab %}}
+{{% tab "松島" %}}
+{{% notice tip %}}
+<span class="quiz">松島</span>は松島湾に大小の島々が浮かぶ多島海で、日本三景のひとつ{{% ex "https://maps.app.goo.gl/2Ef26JVNAaQGS4h98" "https://maps.app.goo.gl/cKxF72wjeS1DhCVp6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B3%B6" "松島" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "松島・多島海の風景" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

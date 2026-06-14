@@ -168,6 +168,49 @@ references:
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>松本市は黒い下見板張りの国宝・<span class="quiz">松本城</span>が目印</li>
+        <li>長野市は門前町として栄えた<span class="quiz">善光寺</span>の街</li>
+        <li><span class="quiz">軽井沢町</span>は別荘地・避暑地として知られる高原リゾート</li>
+        <li>諏訪・岡谷は<span class="quiz">精密機械</span>工業が盛んで「東洋のスイス」と呼ばれた</li>
+        <li>木曽地域は<span class="quiz">妻籠宿・奈良井宿</span>など中山道の宿場町が残る</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "松本" %}}
+{{% notice tip %}}
+<span class="quiz">松本市</span>は現存十二天守の一つ、黒い下見板張りの国宝・松本城が目印。北アルプスを背に城下町が広がる{{% ref "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E5%9F%8E" "松本城" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "松本・国宝松本城" %}}
+{{% /tab %}}
+{{% tab "善光寺" %}}
+{{% notice tip %}}
+<span class="quiz">長野市</span>は無宗派の寺院・善光寺の門前町として発展した県都{{% ref "https://ja.wikipedia.org/wiki/%E5%96%84%E5%85%89%E5%AF%BA" "善光寺" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "長野・善光寺の門前町" %}}
+{{% /tab %}}
+{{% tab "軽井沢" %}}
+{{% notice tip %}}
+<span class="quiz">軽井沢町</span>は浅間山南麓の高原にある別荘地・避暑地で、林間に別荘やリゾート施設が点在{{% ref "https://ja.wikipedia.org/wiki/%E8%BB%BD%E4%BA%95%E6%B2%A2%E7%94%BA" "軽井沢町" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "軽井沢・高原の別荘地" %}}
+{{% /tab %}}
+{{% tab "中山道の宿場" %}}
+{{% notice tip %}}
+木曽・塩尻の<span class="quiz">妻籠宿・奈良井宿</span>は、出梁造りの町家が連なる中山道の宿場町{{% ref "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E4%BA%95%E5%AE%BF" "奈良井宿" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "木曽・中山道の宿場町" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

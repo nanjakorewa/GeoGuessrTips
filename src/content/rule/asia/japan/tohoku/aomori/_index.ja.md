@@ -141,6 +141,42 @@ references:
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>弘前市は弘前城と<span class="quiz">りんご畑</span>で知られる津軽の城下町</li>
+        <li>津軽地方は岩木山麓を中心に<span class="quiz">りんご畑</span>が広がる日本一のりんご産地</li>
+        <li>八戸市は<span class="quiz">水産</span>とセメント・製紙の工場が集まる港湾都市</li>
+        <li>六ヶ所村は核燃料サイクル施設、下北半島は<span class="quiz">原子力</span>関連施設が立地</li>
+        <li>青森市はねぶた祭で知られる本州最北の県都</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "弘前・りんご" %}}
+{{% notice tip %}}
+<span class="quiz">弘前市</span>は弘前城の城下町で、岩木山麓に広がるりんご畑が特徴。青森県はりんご生産量日本一{{% ref "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E5%B8%82" "弘前市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "弘前・岩木山とりんご畑" %}}
+{{% /tab %}}
+{{% tab "八戸" %}}
+{{% notice tip %}}
+<span class="quiz">八戸市</span>はイカなどの水産業と、セメント・製紙などの工場が集まる港湾工業都市{{% ref "https://ja.wikipedia.org/wiki/%E5%85%AB%E6%88%B8%E5%B8%82" "八戸市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "八戸・漁港と工場" %}}
+{{% /tab %}}
+{{% tab "六ヶ所・原子力" %}}
+{{% notice tip %}}
+下北半島の<span class="quiz">六ヶ所村</span>には核燃料サイクル施設（再処理工場・備蓄基地）があり、大間町には大間原発が立地する{{% ref "https://ja.wikipedia.org/wiki/%E5%85%AD%E3%83%B6%E6%89%80%E6%9D%91" "六ヶ所村" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "六ヶ所・核燃料サイクル施設" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

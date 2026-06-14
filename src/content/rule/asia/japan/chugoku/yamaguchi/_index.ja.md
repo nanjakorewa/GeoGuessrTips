@@ -111,6 +111,48 @@ references:
 {{% /tabs %}}
 
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>宇部市・山陽小野田市は<span class="quiz">セメント</span>・化学の工業地帯（宇部興産）</li>
+        <li>萩市は土塀の残る<span class="quiz">城下町</span>と萩焼の産地</li>
+        <li>下関市は<span class="quiz">ふぐ</span>と関門海峡の港町</li>
+        <li>岩国市の<span class="quiz">錦帯橋</span>は錦川に架かる木造の連続アーチ橋</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "宇部" %}}
+{{% notice tip %}}
+<span class="quiz">宇部市</span>・山陽小野田市は石灰石を背景にしたセメント・化学工業の街で、UBE（宇部興産）の大規模な工場群がある{{% ref "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%83%A8%E5%B8%82" "宇部市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "宇部・セメント工場" %}}
+{{% /tab %}}
+{{% tab "萩" %}}
+{{% notice tip %}}
+<span class="quiz">萩市</span>は土塀と夏みかんの残る武家屋敷の城下町で、萩焼の産地。明治維新の志士を生んだ街でもある{{% ref "https://ja.wikipedia.org/wiki/%E8%90%A9%E5%B8%82" "萩市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "萩・城下町の土塀" %}}
+{{% /tab %}}
+{{% tab "下関" %}}
+{{% notice tip %}}
+<span class="quiz">下関市</span>はふぐの水揚げで知られる関門海峡の港町で、対岸の北九州市とは関門橋・関門トンネルで結ばれる{{% ref "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%96%A2%E5%B8%82" "下関市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "下関・関門海峡" %}}
+{{% /tab %}}
+{{% tab "岩国" %}}
+{{% notice tip %}}
+<span class="quiz">岩国市</span>の錦帯橋は錦川に架かる5連の木造アーチ橋で、城下町のシンボル{{% ref "https://ja.wikipedia.org/wiki/%E9%8C%A6%E5%B8%AF%E6%A9%8B" "錦帯橋" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "岩国・錦帯橋" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

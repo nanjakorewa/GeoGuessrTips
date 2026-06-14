@@ -96,6 +96,49 @@ references:
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>富山市は市内を<span class="quiz">路面電車</span>（富山地方鉄道）が走り、東に立山連峰を望む</li>
+        <li>砺波平野は屋敷林に囲まれた家が点在する<span class="quiz">散居村</span>の景観</li>
+        <li>高岡市は仏具・鋳物の<span class="quiz">高岡銅器</span>で知られる金属加工の街</li>
+        <li>南砺市の<span class="quiz">五箇山</span>は白川郷と同じ合掌造りの世界遺産集落</li>
+        <li>黒部市は立山黒部アルペンルートの玄関口でYKKの企業城下町</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "富山" %}}
+{{% notice tip %}}
+<span class="quiz">富山市</span>は市内を路面電車（富山地方鉄道富山軌道線）が走り、富山港線のLRTもある。晴れた日は東に立山連峰を望む{{% ref "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E5%AF%8C%E5%B1%B1%E8%BB%8C%E9%81%93%E7%B7%9A" "富山地方鉄道富山軌道線" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "富山・市内を走る路面電車" %}}
+{{% /tab %}}
+{{% tab "散居村" %}}
+{{% notice tip %}}
+<span class="quiz">砺波平野</span>は、屋敷林（カイニョ）に囲まれた家が一軒ずつ点在する「散居村（散村）」の景観で知られる{{% ref "https://ja.wikipedia.org/wiki/%E6%95%A3%E6%9D%91" "散村" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "砺波・散居村の景観" %}}
+{{% /tab %}}
+{{% tab "高岡" %}}
+{{% notice tip %}}
+<span class="quiz">高岡市</span>は400年の歴史を持つ鋳物「高岡銅器」の産地で、仏具・銅像など金属加工が盛ん{{% ref "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E9%8A%85%E5%99%A8" "高岡銅器" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "高岡・鋳物の街並み" %}}
+{{% /tab %}}
+{{% tab "五箇山" %}}
+{{% notice tip %}}
+南砺市の<span class="quiz">五箇山</span>は、白川郷とともに世界遺産に登録された合掌造り集落（相倉・菅沼）{{% ref "https://ja.wikipedia.org/wiki/%E4%BA%94%E7%AE%87%E5%B1%B1" "五箇山" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "五箇山・合掌造り集落" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

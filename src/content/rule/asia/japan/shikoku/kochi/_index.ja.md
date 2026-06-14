@@ -97,6 +97,41 @@ references:
     {{% corp "asia/japan" "shikoku/kochi" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>高知市は<span class="quiz">路面電車</span>が走り、はりまや橋・高知城がある県都</li>
+        <li>四万十市の<span class="quiz">四万十川</span>は沈下橋で知られる清流</li>
+        <li>室戸岬・足摺岬は太平洋に突き出す<span class="quiz">岬</span>で、黒潮の荒い海岸が広がる</li>
+        <li>馬路村など山間部は柚子・林業が盛ん</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "高知市" %}}
+{{% notice tip %}}
+<span class="quiz">高知市</span>はとさでん交通の路面電車が走り、はりまや橋・現存天守の高知城がある県都{{% ref "https://ja.wikipedia.org/wiki/%E9%AB%98%E7%9F%A5%E5%B8%82" "高知市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "高知・路面電車と高知城" %}}
+{{% /tab %}}
+{{% tab "四万十川" %}}
+{{% notice tip %}}
+四万十市などを流れる<span class="quiz">四万十川</span>は「日本最後の清流」と呼ばれ、欄干のない「沈下橋」が架かる{{% ref "https://ja.wikipedia.org/wiki/%E5%9B%9B%E4%B8%87%E5%8D%81%E5%B7%9D" "四万十川" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "四万十川・沈下橋" %}}
+{{% /tab %}}
+{{% tab "室戸・足摺" %}}
+{{% notice tip %}}
+<span class="quiz">室戸岬</span>・足摺岬は太平洋に突き出す岬で、黒潮の荒波が打ち寄せる岩礁海岸と灯台が特徴{{% ref "https://ja.wikipedia.org/wiki/%E5%AE%A4%E6%88%B8%E5%B2%AC" "室戸岬" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "室戸岬・太平洋の海岸" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

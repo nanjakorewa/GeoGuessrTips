@@ -86,6 +86,34 @@ references:
     {{% corp "asia/japan" "kyusyu/miyazaki" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>宮崎市は<span class="quiz">フェニックス</span>（ヤシ）の並木が続く南国情緒の県都</li>
+        <li>高千穂町の<span class="quiz">高千穂峡</span>は柱状節理の渓谷で、神話の里として知られる</li>
+        <li>都城市・宮崎平野は<span class="quiz">畜産</span>（肉牛・豚・鶏）が全国有数</li>
+        <li>日南市は鵜戸神宮や飫肥の城下町、海岸線が観光地</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "高千穂" %}}
+{{% notice tip %}}
+<span class="quiz">高千穂町</span>の高千穂峡は五ヶ瀬川が刻んだ柱状節理の渓谷で、日本神話ゆかりの地として知られる{{% ref "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%8D%83%E7%A9%82%E5%B3%A1" "高千穂峡" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "高千穂・峡谷" %}}
+{{% /tab %}}
+{{% tab "都城・畜産" %}}
+{{% notice tip %}}
+<span class="quiz">都城市</span>を中心とする宮崎平野・南部は肉牛・豚・ブロイラーの畜産が全国有数で、牧場や畜舎が点在{{% ref "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%9F%8E%E5%B8%82" "都城市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "都城・畜産の風景" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

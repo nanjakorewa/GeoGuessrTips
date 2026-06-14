@@ -137,6 +137,41 @@ references:
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>長崎市は斜面に家が建ち並ぶ<span class="quiz">坂</span>の街で、教会やグラバー園が残る</li>
+        <li>佐世保市は<span class="quiz">造船</span>・米海軍基地の港町で、九十九島やハウステンボスがある</li>
+        <li>長崎市沖の<span class="quiz">軍艦島</span>（端島）は廃坑となった海上の炭鉱島（世界遺産）</li>
+        <li>島原半島は雲仙岳の火山と、島原の湧水・武家屋敷が特徴</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "長崎市" %}}
+{{% notice tip %}}
+<span class="quiz">長崎市</span>は山に囲まれた港町で、斜面にびっしり家が並ぶ坂の街。教会建築やグラバー園、路面電車が手がかり{{% ref "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E5%B8%82" "長崎市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "長崎・坂の街並み" %}}
+{{% /tab %}}
+{{% tab "佐世保" %}}
+{{% notice tip %}}
+<span class="quiz">佐世保市</span>は造船と米海軍・海上自衛隊の基地がある軍港都市で、九十九島やハウステンボスでも知られる{{% ref "https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82" "佐世保市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "佐世保・造船と港" %}}
+{{% /tab %}}
+{{% tab "軍艦島" %}}
+{{% notice tip %}}
+長崎市沖の<span class="quiz">端島（軍艦島）</span>は、かつて海底炭鉱で栄え高層住宅が密集した島で、無人化した今は世界遺産の廃墟群{{% ref "https://ja.wikipedia.org/wiki/%E7%AB%AF%E5%B3%B6_%28%E9%95%B7%E5%B4%8E%E7%9C%8C%29" "端島（長崎県）" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "軍艦島・端島の廃墟群" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

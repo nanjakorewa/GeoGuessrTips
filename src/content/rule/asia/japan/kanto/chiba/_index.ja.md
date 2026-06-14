@@ -158,6 +158,41 @@ references:
 
 
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>成田市は<span class="quiz">成田国際空港</span>と成田山新勝寺の門前町</li>
+        <li>銚子市・野田市は<span class="quiz">醤油</span>醸造の街（ヤマサ・ヒゲタ・キッコーマン）</li>
+        <li>市原市・君津市は<span class="quiz">京葉工業地帯</span>の製鉄・石油化学コンビナートが連なる</li>
+        <li>房総半島南部は温暖で、海沿いの観光地と花畑・酪農が広がる</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "成田" %}}
+{{% notice tip %}}
+<span class="quiz">成田市</span>は日本の玄関口・成田国際空港があり、上空の旅客機や広大な滑走路が手がかり。成田山新勝寺の門前町でもある{{% ref "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF" "成田国際空港" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "成田・空港と門前町" %}}
+{{% /tab %}}
+{{% tab "醤油" %}}
+{{% notice tip %}}
+<span class="quiz">銚子市</span>（ヤマサ・ヒゲタ）と野田市（キッコーマン）は、利根川・江戸川の水運を背景に発展した醤油醸造の街{{% ref "https://ja.wikipedia.org/wiki/%E9%8A%9A%E5%AD%90%E5%B8%82" "銚子市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "銚子・醤油工場" %}}
+{{% /tab %}}
+{{% tab "京葉工業地帯" %}}
+{{% notice tip %}}
+東京湾岸の<span class="quiz">君津市</span>（製鉄）・市原市（石油化学）には埋立地に大規模なコンビナートが連なり、工場夜景でも知られる{{% ref "https://ja.wikipedia.org/wiki/%E5%90%9B%E6%B4%A5%E5%B8%82" "君津市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "京葉・臨海コンビナート" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

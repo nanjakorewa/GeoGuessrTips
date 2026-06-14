@@ -110,6 +110,32 @@ references:
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>大潟村は八郎潟を干拓した土地で、碁盤目状の大規模<span class="quiz">水田</span>と直線道路が広がる</li>
+        <li>仙北市角館は武家屋敷が残る「みちのくの小京都」</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "大潟村" %}}
+{{% notice tip %}}
+<span class="quiz">大潟村</span>は、かつて日本第二の湖だった八郎潟を干拓して生まれた村で、碁盤目状の大規模水田と直線道路、防風林が広がる{{% ref "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%BD%9F%E6%9D%91" "大潟村" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "大潟村・干拓地の大規模水田" %}}
+{{% /tab %}}
+{{% tab "角館" %}}
+{{% notice tip %}}
+仙北市の<span class="quiz">角館</span>は黒板塀の武家屋敷としだれ桜が残る「みちのくの小京都」{{% ref "https://ja.wikipedia.org/wiki/%E8%A7%92%E9%A4%A8" "角館" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "角館・武家屋敷の通り" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

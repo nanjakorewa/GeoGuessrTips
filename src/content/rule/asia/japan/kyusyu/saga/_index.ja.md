@@ -112,6 +112,34 @@ references:
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>有田町は<span class="quiz">有田焼</span>の産地で、磁器の窯元とトンバイ塀が残る</li>
+        <li>唐津市は<span class="quiz">唐津焼</span>と唐津城、虹の松原の城下町</li>
+        <li>佐賀市は有明海の干拓地が広がり、バルーンフェスタで知られる</li>
+        <li>伊万里市は伊万里焼の積出港として栄えた焼き物の街</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "有田" %}}
+{{% notice tip %}}
+<span class="quiz">有田町</span>は日本磁器発祥の地で、有田焼の窯元が集まる。窯道具を再利用した「トンバイ塀」の路地が残る{{% ref "https://ja.wikipedia.org/wiki/%E6%9C%89%E7%94%B0%E7%84%BC" "有田焼" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "有田・窯元とトンバイ塀" %}}
+{{% /tab %}}
+{{% tab "唐津" %}}
+{{% notice tip %}}
+<span class="quiz">唐津市</span>は唐津焼と唐津城、白砂青松の虹の松原で知られる玄界灘沿いの城下町{{% ref "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E5%B8%82" "唐津市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "唐津・唐津城と虹の松原" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

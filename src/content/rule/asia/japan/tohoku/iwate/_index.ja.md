@@ -114,6 +114,40 @@ MAIYAは岩手にしかない{{% ref "https://www.maiya.co.jp/" "MAIYA" %}}。20
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>釜石市は近代<span class="quiz">製鉄</span>発祥の地（橋野鉄鉱山は世界遺産）で製鉄所がある</li>
+        <li>三陸海岸（宮古・大船渡）は入り組んだ<span class="quiz">リアス海岸</span>と漁港が連なる</li>
+        <li>平泉町は中尊寺金色堂など<span class="quiz">世界遺産</span>の仏教遺跡が残る</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "釜石" %}}
+{{% notice tip %}}
+<span class="quiz">釜石市</span>は近代製鉄発祥の地で、橋野鉄鉱山は「明治日本の産業革命遺産」の世界遺産。三陸沿岸の製鉄所とラグビーの街{{% ex "https://maps.app.goo.gl/7Mu6myA9u1Tfi2Yz6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E9%87%9C%E7%9F%B3%E5%B8%82" "釜石市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "釜石・製鉄所と港" %}}
+{{% /tab %}}
+{{% tab "三陸" %}}
+{{% notice tip %}}
+宮古・釜石・大船渡など<span class="quiz">三陸海岸</span>は、入り組んだリアス海岸と漁港・防潮堤が連なる{{% ref "https://ja.wikipedia.org/wiki/%E4%B8%89%E9%99%B8%E6%B5%B7%E5%B2%B8" "三陸海岸" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "三陸・リアス海岸の漁港" %}}
+{{% /tab %}}
+{{% tab "平泉" %}}
+{{% notice tip %}}
+<span class="quiz">平泉町</span>は中尊寺金色堂・毛越寺など奥州藤原氏ゆかりの仏教遺跡が残り、世界文化遺産に登録{{% ex "https://maps.app.goo.gl/iApGKtFhG2saV8pu8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%B3%89" "平泉" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "平泉・中尊寺" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

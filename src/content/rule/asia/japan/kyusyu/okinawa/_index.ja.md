@@ -160,6 +160,41 @@ references:
 {{% /tabs %}}
 
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>那覇市は<span class="quiz">首里城</span>や国際通りがある沖縄本島の中心都市</li>
+        <li>本島中部（嘉手納・宜野湾など）には広大な<span class="quiz">米軍基地</span>が広がる</li>
+        <li>本島北部（やんばる）は亜熱帯の森が残る世界自然遺産</li>
+        <li>石垣島・宮古島など先島諸島は<span class="quiz">サンゴ礁</span>の海とサトウキビ畑が特徴</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "那覇" %}}
+{{% notice tip %}}
+<span class="quiz">那覇市</span>は沖縄本島南部の中心都市で、琉球王国の首里城（再建中）や国際通り、モノレール（ゆいレール）が手がかり{{% ref "https://ja.wikipedia.org/wiki/%E9%A6%96%E9%87%8C%E5%9F%8E" "首里城" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "那覇・首里城と市街" %}}
+{{% /tab %}}
+{{% tab "本島中部・基地" %}}
+{{% notice tip %}}
+本島中部の嘉手納町・宜野湾市などには嘉手納基地・普天間基地など広大な<span class="quiz">米軍基地</span>があり、フェンスや滑走路が地形を占める。
+{{% /notice %}}
+
+{{% photo-placeholder "沖縄本島中部・米軍基地" %}}
+{{% /tab %}}
+{{% tab "八重山・宮古" %}}
+{{% notice tip %}}
+<span class="quiz">石垣島</span>・宮古島など先島諸島は、白い砂浜とサンゴ礁の海、赤瓦の集落、サトウキビ畑が広がる{{% ref "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%9E%A3%E5%B3%B6" "石垣島" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "石垣島・サンゴ礁の海" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

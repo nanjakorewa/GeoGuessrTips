@@ -90,6 +90,41 @@ references:
     {{% corp "asia/japan" "kyusyu/oita" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>別府市は源泉数・湧出量とも日本一の<span class="quiz">温泉</span>地で、街に湯けむりが立つ</li>
+        <li>由布市の<span class="quiz">由布院温泉</span>は由布岳を望む人気の温泉地</li>
+        <li>日田市は天領の町並みと<span class="quiz">小鹿田焼</span>・林業（日田杉）の街</li>
+        <li>津久見市・佐伯はセメント工業や石灰石採掘が盛ん</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "別府" %}}
+{{% notice tip %}}
+<span class="quiz">別府市</span>は源泉数・湧出量とも日本一の温泉地で、市街のあちこちから湯けむりが立ちのぼり、地獄めぐりが名物{{% ref "https://ja.wikipedia.org/wiki/%E5%88%A5%E5%BA%9C%E6%B8%A9%E6%B3%89" "別府温泉" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "別府・街の湯けむり" %}}
+{{% /tab %}}
+{{% tab "由布院" %}}
+{{% notice tip %}}
+由布市の<span class="quiz">由布院温泉</span>は、由布岳を望む盆地に広がる人気の温泉地{{% ref "https://ja.wikipedia.org/wiki/%E7%94%B1%E5%B8%83%E9%99%A2%E6%B8%A9%E6%B3%89" "由布院温泉" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "由布院・由布岳と温泉街" %}}
+{{% /tab %}}
+{{% tab "日田" %}}
+{{% notice tip %}}
+<span class="quiz">日田市</span>は江戸幕府の天領として栄えた豆田町の町並みと、小鹿田焼・日田杉の林業で知られる{{% ref "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%B0%E5%B8%82" "日田市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "日田・豆田町の町並み" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

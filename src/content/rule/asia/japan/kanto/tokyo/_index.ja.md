@@ -127,6 +127,41 @@ references:
     {{% corp "asia/japan" "kanto/tokyo" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>23区は<span class="quiz">高層ビル</span>と密集した市街地が広がる日本最大の都市圏</li>
+        <li>多摩地域は郊外の住宅地と丘陵が広がるベッドタウン</li>
+        <li>奥多摩町・檜原村は<span class="quiz">山地</span>で、山あいの集落と山林が続く</li>
+        <li>伊豆諸島・小笠原諸島は本土から離れた<span class="quiz">火山島</span>の離島</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "23区" %}}
+{{% notice tip %}}
+<span class="quiz">東京23区</span>は高層ビルと密集市街地が広がる日本最大の都市圏。鉄道路線が高密度で、都心は超高層ビル、下町は狭い路地と低層住宅が特徴。
+{{% /notice %}}
+
+{{% photo-placeholder "東京・都心の高層ビル群" %}}
+{{% /tab %}}
+{{% tab "多摩・山地" %}}
+{{% notice tip %}}
+多摩地域は郊外の住宅地と丘陵が広がり、西の<span class="quiz">奥多摩町</span>・檜原村は山あいの集落と山林が続く。
+{{% /notice %}}
+
+{{% photo-placeholder "多摩・郊外と奥多摩の山地" %}}
+{{% /tab %}}
+{{% tab "島しょ" %}}
+{{% notice tip %}}
+<span class="quiz">伊豆諸島</span>（大島・三宅島・八丈島など）・小笠原諸島は東京都に属する離島で、火山島ならではの地形と植生が手がかり。
+{{% /notice %}}
+
+{{% photo-placeholder "伊豆諸島・火山島の風景" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

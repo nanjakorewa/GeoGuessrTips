@@ -112,6 +112,41 @@ references:
 {{% /tabs %}}
 
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>高松市は<span class="quiz">讃岐うどん</span>の本場で、栗林公園がある県都</li>
+        <li>丸亀市は<span class="quiz">うちわ</span>の生産日本一で、丸亀城が目印</li>
+        <li>小豆島は<span class="quiz">オリーブ</span>と醤油・素麺の島</li>
+        <li>坂出・宇多津は塩田の歴史を持ち、瀬戸大橋の四国側起点</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "高松・うどん" %}}
+{{% notice tip %}}
+<span class="quiz">高松市</span>は讃岐うどんの本場で、市内にうどん店が非常に多い。特別名勝・栗林公園のある県都{{% ref "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E5%B8%82" "高松市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "高松・讃岐うどんの店" %}}
+{{% /tab %}}
+{{% tab "丸亀" %}}
+{{% notice tip %}}
+<span class="quiz">丸亀市</span>は丸亀うちわの生産で全国シェアの大半を占め、石垣の高い丸亀城が目印{{% ref "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%BA%80%E5%B8%82" "丸亀市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "丸亀・丸亀城" %}}
+{{% /tab %}}
+{{% tab "小豆島" %}}
+{{% notice tip %}}
+<span class="quiz">小豆島</span>は瀬戸内海の島で、日本のオリーブ栽培発祥地。醤油・佃煮・手延べ素麺の産地でもある{{% ref "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%B1%86%E5%B3%B6" "小豆島" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "小豆島・オリーブ畑" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

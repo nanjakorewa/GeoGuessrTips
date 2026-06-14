@@ -121,6 +121,34 @@ references:
     {{% corp "asia/japan" "kinki/osaka" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>大阪市は高層ビルと密集市街地が広がる西日本最大の都市</li>
+        <li>堺市は<span class="quiz">刃物</span>・自転車部品などの金属加工と、百舌鳥古墳群（世界遺産）で知られる</li>
+        <li>東大阪市は中小の<span class="quiz">町工場</span>が密集するものづくりの街</li>
+        <li>泉州（岸和田・泉佐野）は繊維（タオル・毛布）と関西国際空港の臨海部</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "堺" %}}
+{{% notice tip %}}
+<span class="quiz">堺市</span>は中世以来の鉄砲・刃物づくりに由来する金属加工（包丁・自転車部品）の街で、世界遺産・百舌鳥古墳群（仁徳天皇陵古墳）がある{{% ref "https://ja.wikipedia.org/wiki/%E5%A0%BA%E5%B8%82" "堺市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "堺・古墳群と金属加工の街" %}}
+{{% /tab %}}
+{{% tab "東大阪" %}}
+{{% notice tip %}}
+<span class="quiz">東大阪市</span>は中小の町工場が密集する全国有数のものづくりの街で、住宅と工場が混在する{{% ref "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82" "東大阪市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "東大阪・町工場の街並み" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

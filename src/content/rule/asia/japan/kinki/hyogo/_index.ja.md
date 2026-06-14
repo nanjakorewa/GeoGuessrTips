@@ -119,6 +119,41 @@ references:
     {{% corp "asia/japan" "kinki/hyogo" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>神戸市は六甲山と港に挟まれた細長い市街で、北野の異人館が有名</li>
+        <li>姫路市は白い天守の世界遺産・<span class="quiz">姫路城</span>が目印</li>
+        <li>神戸・西宮の<span class="quiz">灘五郷</span>は全国有数の日本酒の産地</li>
+        <li>淡路島は瀬戸内に浮かぶ島で、明石海峡大橋・玉ねぎ畑が特徴</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "神戸" %}}
+{{% notice tip %}}
+<span class="quiz">神戸市</span>は六甲山と神戸港に挟まれた東西に細長い市街が特徴。北野の異人館、ポートアイランドなど港町の景観が手がかり{{% ref "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E5%B8%82" "神戸市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "神戸・港と六甲山" %}}
+{{% /tab %}}
+{{% tab "姫路" %}}
+{{% notice tip %}}
+<span class="quiz">姫路市</span>は白漆喰の優美な天守で知られる世界遺産・姫路城（白鷺城）の城下町{{% ref "https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E5%9F%8E" "姫路城" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "姫路・姫路城" %}}
+{{% /tab %}}
+{{% tab "灘五郷" %}}
+{{% notice tip %}}
+神戸市灘区から西宮市にかけての<span class="quiz">灘五郷</span>は、六甲の宮水と山田錦を生かした全国有数の日本酒の産地で、酒蔵が並ぶ{{% ref "https://ja.wikipedia.org/wiki/%E7%81%98%E4%BA%94%E9%83%B7" "灘五郷" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "灘・酒蔵の街並み" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

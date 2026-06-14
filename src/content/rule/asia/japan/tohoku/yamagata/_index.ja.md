@@ -106,7 +106,7 @@ references:
 {{% tabs %}}
 {{% tab "ヤマザワ" %}}
 {{% notice tip %}}
-山形・宮城県には食品スーパーマーケットチェーン「ヤマザワ」が展開している。
+山形・宮城県には食品スーパーマーケットチェーン「ヤマザワ」が展開している{{% ex "https://maps.app.goo.gl/VeYQQtp9Lf2TCZdL6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -115,6 +115,32 @@ references:
 
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>天童市は<span class="quiz">将棋駒</span>の生産で全国シェアの大半を占める</li>
+        <li>庄内平野（鶴岡・酒田）は最上川下流の<span class="quiz">米どころ</span>で、酒田には山居倉庫が残る</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "天童" %}}
+{{% notice tip %}}
+<span class="quiz">天童市</span>は将棋駒の生産で全国シェアの約9割を占める「将棋の街」。市内には将棋にちなんだモニュメントが多い{{% ex "https://maps.app.goo.gl/9cq3BkdEDuXevAQM8" "https://maps.app.goo.gl/1we1PzU2PknjPNwaA" "https://maps.app.goo.gl/ULK35ZpmjSRTXPZx7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%AB%A5%E5%B8%82" "天童市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "天童・将棋駒" %}}
+{{% /tab %}}
+{{% tab "庄内" %}}
+{{% notice tip %}}
+<span class="quiz">庄内平野</span>（鶴岡市・酒田市）は最上川下流に開けた米どころで、酒田には米保管の「山居倉庫」が残る{{% ref "https://ja.wikipedia.org/wiki/%E5%BA%84%E5%86%85%E5%B9%B3%E9%87%8E" "庄内平野" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "庄内・水田と山居倉庫" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>

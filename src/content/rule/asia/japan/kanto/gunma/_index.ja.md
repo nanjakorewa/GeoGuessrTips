@@ -98,6 +98,48 @@ references:
     {{% corp "asia/japan" "kanto/gunma" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>富岡市は<span class="quiz">富岡製糸場</span>（世界遺産）で知られる製糸の街</li>
+        <li>草津町は<span class="quiz">草津温泉</span>の湯畑を中心とした温泉街</li>
+        <li>桐生市は<span class="quiz">桐生織</span>とのこぎり屋根の織物工場が残る</li>
+        <li>嬬恋村は高原の<span class="quiz">キャベツ</span>畑が一面に広がる</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "富岡製糸場" %}}
+{{% notice tip %}}
+<span class="quiz">富岡市</span>の富岡製糸場は明治期の官営模範製糸工場で、赤レンガの繰糸所などが世界文化遺産に登録されている{{% ref "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B2%A1%E8%A3%BD%E7%B3%B8%E5%A0%B4" "富岡製糸場" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "富岡・製糸場の赤レンガ" %}}
+{{% /tab %}}
+{{% tab "草津" %}}
+{{% notice tip %}}
+<span class="quiz">草津町</span>は標高1200mにある草津温泉の温泉街で、中心の「湯畑」から湯けむりが立ちのぼる{{% ref "https://ja.wikipedia.org/wiki/%E8%8D%89%E6%B4%A5%E6%B8%A9%E6%B3%89" "草津温泉" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "草津・湯畑" %}}
+{{% /tab %}}
+{{% tab "桐生" %}}
+{{% notice tip %}}
+<span class="quiz">桐生市</span>は「西の西陣、東の桐生」と称された織物の街で、のこぎり屋根の織物工場が残る{{% ref "https://ja.wikipedia.org/wiki/%E6%A1%90%E7%94%9F%E7%B9%94" "桐生織" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "桐生・のこぎり屋根の工場" %}}
+{{% /tab %}}
+{{% tab "嬬恋" %}}
+{{% notice tip %}}
+<span class="quiz">嬬恋村</span>は浅間山北麓の高原にあり、夏秋キャベツの一大産地として一面のキャベツ畑が広がる{{% ref "https://ja.wikipedia.org/wiki/%E5%AC%AC%E6%81%8B%E6%9D%91" "嬬恋村" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "嬬恋・高原キャベツ畑" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

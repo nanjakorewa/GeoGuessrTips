@@ -129,6 +129,49 @@ references:
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>富士市・富士宮市は<span class="quiz">製紙</span>の街で、工場の煙突越しに富士山が見える</li>
+        <li>浜松市はヤマハ・カワイなど<span class="quiz">楽器</span>とオートバイ産業の街</li>
+        <li>牧之原・島田など県中部には広大な<span class="quiz">茶畑</span>が広がる</li>
+        <li>静岡市は徳川家ゆかりの<span class="quiz">駿府城</span>がある県都</li>
+        <li>熱海市は海に面した斜面にホテルが立ち並ぶ温泉リゾート</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "富士" %}}
+{{% notice tip %}}
+<span class="quiz">富士市・富士宮市</span>は富士山の伏流水を生かした製紙・パルプの一大産地で、製紙工場の煙突と富士山が同時に見える景観が特徴{{% ref "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%B8%82" "富士市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "富士・製紙工場と富士山" %}}
+{{% /tab %}}
+{{% tab "浜松" %}}
+{{% notice tip %}}
+<span class="quiz">浜松市</span>はヤマハ・河合楽器・ローランドなど楽器メーカーが集まる「音楽の街」で、スズキ・ホンダゆかりのオートバイ産業の街でもある{{% ref "https://ja.wikipedia.org/wiki/%E6%B5%9C%E6%9D%BE%E5%B8%82" "浜松市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "浜松・楽器とオートバイの街" %}}
+{{% /tab %}}
+{{% tab "茶畑" %}}
+{{% notice tip %}}
+<span class="quiz">牧之原台地</span>を中心に、島田・菊川・掛川など県中部には日本有数の広大な茶園が広がる{{% ref "https://ja.wikipedia.org/wiki/%E7%89%A7%E4%B9%8B%E5%8E%9F%E5%8F%B0%E5%9C%B0" "牧之原台地" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "牧之原・広がる茶畑" %}}
+{{% /tab %}}
+{{% tab "駿府城" %}}
+{{% notice tip %}}
+<span class="quiz">静岡市</span>は徳川家康が晩年を過ごした駿府城の城下町として発展した県都{{% ref "https://ja.wikipedia.org/wiki/%E9%A7%BF%E5%BA%9C%E5%9F%8E" "駿府城" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "静岡・駿府城" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

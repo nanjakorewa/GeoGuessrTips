@@ -128,6 +128,48 @@ references:
     {{% corp "asia/japan" "tohoku/fukushima" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>会津若松市は鶴ヶ城（<span class="quiz">赤瓦</span>の天守）と会津漆器で知られる城下町</li>
+        <li>いわき市は小名浜港の<span class="quiz">工業</span>地帯と、旧常磐炭田由来の温泉リゾートがある</li>
+        <li>喜多方市は醸造の<span class="quiz">蔵</span>が並ぶ町並みと「喜多方ラーメン」で有名</li>
+        <li>双葉郡（大熊・双葉町）は<span class="quiz">福島第一原発</span>が立地</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "会津若松" %}}
+{{% notice tip %}}
+<span class="quiz">会津若松市</span>は赤瓦の天守をもつ鶴ヶ城の城下町で、会津塗（漆器）や白壁の蔵が残る{{% ref "https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82" "会津若松市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "会津若松・鶴ヶ城" %}}
+{{% /tab %}}
+{{% tab "いわき" %}}
+{{% notice tip %}}
+<span class="quiz">いわき市</span>は小名浜港を中心とする工業・港湾都市で、旧常磐炭田に由来する温泉リゾート（スパリゾートハワイアンズ）がある{{% ref "https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82" "いわき市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "いわき・小名浜港の工業地帯" %}}
+{{% /tab %}}
+{{% tab "喜多方" %}}
+{{% notice tip %}}
+<span class="quiz">喜多方市</span>は醸造の蔵が立ち並ぶ「蔵のまち」で、喜多方ラーメンの発祥地{{% ref "https://ja.wikipedia.org/wiki/%E5%96%9C%E5%A4%9A%E6%96%B9%E5%B8%82" "喜多方市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "喜多方・蔵の町並み" %}}
+{{% /tab %}}
+{{% tab "双葉・原発" %}}
+{{% notice tip %}}
+双葉郡の大熊町・双葉町には<span class="quiz">福島第一原子力発電所</span>が立地し、周辺は東日本大震災の影響を受けた{{% ref "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E7%AC%AC%E4%B8%80%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80" "福島第一原子力発電所" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "双葉・福島第一原発周辺" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

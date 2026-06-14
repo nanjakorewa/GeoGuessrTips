@@ -99,6 +99,41 @@ references:
     {{% corp "asia/japan" "kinki/nara" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>奈良市は東大寺の大仏や奈良公園の<span class="quiz">鹿</span>で知られる古都</li>
+        <li>斑鳩町の<span class="quiz">法隆寺</span>は現存最古の木造建築群（世界遺産）</li>
+        <li>吉野町の<span class="quiz">吉野山</span>は桜の名所で、林業（吉野杉）の山地が広がる</li>
+        <li>県南部は紀伊山地の険しい山林が大半を占める</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "奈良市" %}}
+{{% notice tip %}}
+<span class="quiz">奈良市</span>は平城京以来の古都で、東大寺の大仏、奈良公園に放たれた鹿、興福寺の五重塔が目印{{% ref "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B8%82" "奈良市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "奈良・奈良公園と鹿" %}}
+{{% /tab %}}
+{{% tab "法隆寺" %}}
+{{% notice tip %}}
+斑鳩町の<span class="quiz">法隆寺</span>は飛鳥時代創建の寺院で、現存最古の木造建築群として世界遺産に登録{{% ref "https://ja.wikipedia.org/wiki/%E6%B3%95%E9%9A%86%E5%AF%BA" "法隆寺" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "斑鳩・法隆寺" %}}
+{{% /tab %}}
+{{% tab "吉野" %}}
+{{% notice tip %}}
+<span class="quiz">吉野山</span>（吉野町）は桜の名所として知られ、周囲には吉野杉の林業地帯となる険しい山地が広がる{{% ref "https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B1%B1" "吉野山" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "吉野・桜と杉の山地" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

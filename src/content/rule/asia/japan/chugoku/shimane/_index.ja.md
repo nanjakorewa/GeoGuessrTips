@@ -79,6 +79,41 @@ references:
     {{% corp "asia/japan" "chugoku/shimane" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>出雲市の<span class="quiz">出雲大社</span>は大注連縄で知られる縁結びの古社</li>
+        <li>大田市の<span class="quiz">石見銀山</span>は世界遺産の銀鉱山遺跡と町並み</li>
+        <li>松江市は現存天守の国宝・<span class="quiz">松江城</span>と宍道湖の城下町</li>
+        <li>津和野町は赤瓦と掘割の鯉が残る「山陰の小京都」</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "出雲大社" %}}
+{{% notice tip %}}
+<span class="quiz">出雲市</span>の出雲大社は大きな注連縄で知られる縁結びの古社で、門前には神門通りの町並みが広がる{{% ref "https://ja.wikipedia.org/wiki/%E5%87%BA%E9%9B%B2%E5%A4%A7%E7%A4%BE" "出雲大社" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "出雲・出雲大社" %}}
+{{% /tab %}}
+{{% tab "石見銀山" %}}
+{{% notice tip %}}
+大田市の<span class="quiz">石見銀山</span>は16〜17世紀に栄えた銀鉱山で、坑道（間歩）や大森地区の町並みが世界文化遺産{{% ref "https://ja.wikipedia.org/wiki/%E7%9F%B3%E8%A6%8B%E9%8A%80%E5%B1%B1" "石見銀山" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "石見銀山・大森の町並み" %}}
+{{% /tab %}}
+{{% tab "松江" %}}
+{{% notice tip %}}
+<span class="quiz">松江市</span>は宍道湖畔の城下町で、現存十二天守のひとつ国宝・松江城がある{{% ref "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B1%9F%E5%9F%8E" "松江城" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "松江・松江城と宍道湖" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

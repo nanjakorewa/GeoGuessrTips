@@ -138,6 +138,41 @@ references:
 
 
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>福岡市は九州最大の都市で、博多・天神の市街が広がる</li>
+        <li>北九州市は<span class="quiz">八幡製鉄所</span>に始まる重工業の街（世界遺産）</li>
+        <li>久留米市は<span class="quiz">ゴム</span>工業（ブリヂストン発祥）と久留米絣の街</li>
+        <li>大牟田市は旧<span class="quiz">三池炭鉱</span>（世界遺産）で栄えた工業都市</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "北九州" %}}
+{{% notice tip %}}
+<span class="quiz">北九州市</span>は官営八幡製鉄所に始まる鉄鋼・化学の重工業都市で、製鉄所や工場、洞海湾の工場夜景が特徴（製鉄所旧本事務所は世界遺産）{{% ref "https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E8%A3%BD%E9%89%84%E6%89%80" "八幡製鉄所" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "北九州・製鉄所と工場群" %}}
+{{% /tab %}}
+{{% tab "久留米" %}}
+{{% notice tip %}}
+<span class="quiz">久留米市</span>はゴム工業の街で、ブリヂストン・ムーンスターなどゴム企業発祥の地。久留米絣（かすり）でも知られる{{% ref "https://ja.wikipedia.org/wiki/%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82" "久留米市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "久留米・ゴム工場" %}}
+{{% /tab %}}
+{{% tab "大牟田" %}}
+{{% notice tip %}}
+<span class="quiz">大牟田市</span>は三池炭鉱で栄えた工業都市で、宮原坑など炭鉱関連施設が世界遺産「明治日本の産業革命遺産」に含まれる{{% ref "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B1%A0%E7%82%AD%E9%89%B1" "三池炭鉱" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "大牟田・三池炭鉱跡" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

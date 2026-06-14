@@ -95,6 +95,48 @@ references:
     {{% corp "asia/japan" "kinki/mie" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>伊勢市は<span class="quiz">伊勢神宮</span>とおはらい町・おかげ横丁の門前町</li>
+        <li>四日市市は<span class="quiz">石油化学コンビナート</span>が広がる工業都市</li>
+        <li>鈴鹿市は<span class="quiz">鈴鹿サーキット</span>とホンダの工場がある</li>
+        <li>志摩・鳥羽は英虞湾のリアス海岸で<span class="quiz">真珠</span>養殖が盛ん</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "伊勢" %}}
+{{% notice tip %}}
+<span class="quiz">伊勢市</span>は伊勢神宮（内宮・外宮）の門前町で、おはらい町・おかげ横丁の切妻妻入りの町家が並ぶ{{% ref "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE" "伊勢神宮" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "伊勢・おはらい町" %}}
+{{% /tab %}}
+{{% tab "四日市" %}}
+{{% notice tip %}}
+<span class="quiz">四日市市</span>は伊勢湾岸に石油化学コンビナートが広がる工業都市で、工場夜景でも知られる{{% ref "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82" "四日市市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "四日市・コンビナート" %}}
+{{% /tab %}}
+{{% tab "鈴鹿" %}}
+{{% notice tip %}}
+<span class="quiz">鈴鹿市</span>はF1日本GPでも知られる鈴鹿サーキットと、ホンダの主力工場がある自動車・モータースポーツの街{{% ref "https://ja.wikipedia.org/wiki/%E9%88%B4%E9%B9%BF%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88" "鈴鹿サーキット" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "鈴鹿・サーキットと工場" %}}
+{{% /tab %}}
+{{% tab "志摩・真珠" %}}
+{{% notice tip %}}
+志摩市・鳥羽市の<span class="quiz">英虞湾</span>は入り組んだリアス海岸で、真珠（アコヤ真珠）養殖のいかだが浮かぶ{{% ref "https://ja.wikipedia.org/wiki/%E8%8B%B1%E8%99%9E%E6%B9%BE" "英虞湾" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "志摩・英虞湾の真珠いかだ" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">

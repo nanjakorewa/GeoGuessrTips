@@ -79,6 +79,41 @@ references:
     {{% corp "asia/japan" "chugoku/tottori" %}}
 </div>
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">都市・町の絞り込み</h2>
+    <ul class="rule-list">
+        <li>鳥取市の<span class="quiz">鳥取砂丘</span>は日本最大級の観光砂丘</li>
+        <li>境港市は<span class="quiz">水産</span>の街で、水木しげるロードの妖怪ブロンズ像が並ぶ</li>
+        <li>倉吉市は白壁土蔵と赤瓦の町並みが残る</li>
+        <li>県境にそびえる大山は中国地方最高峰で、平野部の目印になる</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "鳥取砂丘" %}}
+{{% notice tip %}}
+<span class="quiz">鳥取市</span>の鳥取砂丘は日本海に面する日本最大級の観光砂丘で、風紋や砂の起伏が広がる{{% ref "https://ja.wikipedia.org/wiki/%E9%B3%A5%E5%8F%96%E7%A0%82%E4%B8%98" "鳥取砂丘" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "鳥取・鳥取砂丘" %}}
+{{% /tab %}}
+{{% tab "境港" %}}
+{{% notice tip %}}
+<span class="quiz">境港市</span>は日本海有数の水産都市で、漫画家・水木しげるの出身地として駅前に妖怪のブロンズ像が並ぶ「水木しげるロード」がある{{% ref "https://ja.wikipedia.org/wiki/%E5%A2%83%E6%B8%AF%E5%B8%82" "境港市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "境港・水木しげるロード" %}}
+{{% /tab %}}
+{{% tab "倉吉" %}}
+{{% notice tip %}}
+<span class="quiz">倉吉市</span>は白壁土蔵と赤い石州瓦の町並みが玉川沿いに残る{{% ref "https://ja.wikipedia.org/wiki/%E5%80%89%E5%90%89%E5%B8%82" "倉吉市" %}}。
+{{% /notice %}}
+
+{{% photo-placeholder "倉吉・白壁土蔵の町並み" %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">
