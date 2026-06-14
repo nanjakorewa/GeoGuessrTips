@@ -114,7 +114,6 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は078</li>
-        <li></li>
     </ul>
     {{% corp "asia/japan" "kinki/hyogo" %}}
 </div>

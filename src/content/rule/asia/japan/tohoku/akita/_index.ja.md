@@ -121,17 +121,25 @@ references:
 {{% tabs %}}
 {{% tab "大潟村" %}}
 {{% notice tip %}}
-<span class="quiz">大潟村</span>は、かつて日本第二の湖だった八郎潟を干拓して生まれた村で、碁盤目状の大規模水田と直線道路、防風林が広がる{{% ref "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%BD%9F%E6%9D%91" "大潟村" %}}。
+<span class="quiz">大潟村</span>は、かつて日本第二の湖だった八郎潟を干拓して生まれた村で、碁盤目状の大規模水田と直線道路、防風林が広がる{{% ex "https://maps.app.goo.gl/yzwsETVEsWUWVM2W7" "https://maps.app.goo.gl/4escieEQmvXo2nkT6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%BD%9F%E6%9D%91" "大潟村" %}}。菜の花が平野に広がっているエリアもある。
 {{% /notice %}}
 
-{{% photo-placeholder "大潟村・干拓地の大規模水田" %}}
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Akita_Prefectural_Road_Route_298_in_Ogata_Village_20210508c.jpg#/media/File:Akita_Prefectural_Road_Route_298_in_Ogata_Village_20210508c.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Akita_Prefectural_Road_Route_298_in_Ogata_Village_20210508c.jpg" alt="Akita Prefectural Road Route 298 in Ogata Village 20210508c.jpg" height="853" width="1280"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:%E6%8E%AC%E8%8C%B6" title="User:掬茶">掬茶</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105211104">Link</a></p>
+</div>
+
 {{% /tab %}}
 {{% tab "角館" %}}
 {{% notice tip %}}
-仙北市の<span class="quiz">角館</span>は黒板塀の武家屋敷としだれ桜が残る「みちのくの小京都」{{% ref "https://ja.wikipedia.org/wiki/%E8%A7%92%E9%A4%A8" "角館" %}}。
+仙北市の<span class="quiz">角館</span>は黒板塀の武家屋敷としだれ桜が残る「みちのくの小京都」{{% ex "https://maps.app.goo.gl/Js3zUxdRRF2Kbp4Q9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E8%A7%92%E9%A4%A8" "角館" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "角館・武家屋敷の通り" %}}
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Cherry_blossom_along_the_Hinokinai_River_20180428d.jpg#/media/File:Cherry_blossom_along_the_Hinokinai_River_20180428d.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Cherry_blossom_along_the_Hinokinai_River_20180428d.jpg" alt="Cherry blossom along the Hinokinai River 20180428d.jpg" height="960" width="1280"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:%E6%8E%AC%E8%8C%B6" title="User:掬茶">掬茶</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68656450">Link</a></p>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 

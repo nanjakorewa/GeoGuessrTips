@@ -86,39 +86,36 @@ references:
         <li><span class="quiz">鯖江市</span>はメガネ（眼鏡フレーム）の一大産地で、眼鏡関連の工場や看板が多い</li>
         <li>坂井市の<span class="quiz">東尋坊</span>は柱状節理の断崖が約1km続く景勝地</li>
         <li>勝山市は<span class="quiz">恐竜博物館</span>で知られ、福井県は「恐竜王国」を掲げる</li>
-        <li>越前市・越前町は<span class="quiz">越前和紙</span>・越前打刃物・越前漆器の産地</li>
-        <li>敦賀市は北陸新幹線の終着駅（2024年延伸）がある港町</li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "鯖江" %}}
 {{% notice tip %}}
-<span class="quiz">鯖江市</span>はメガネフレームの国内シェア約96%を誇る産地。福井市・越前市・越前町を含む地域で生産され、眼鏡関連の工場や「めがね」の看板が手がかりになる{{% ref "https://ja.wikipedia.org/wiki/%E9%AF%96%E6%B1%9F%E5%B8%82" "鯖江市" %}}。
+<span class="quiz">鯖江市</span>はメガネフレームの国内シェア約96%を誇る産地。福井市・越前市・越前町を含む地域で生産され、眼鏡関連の工場や「めがね」の看板が手がかりになる{{% ex "https://maps.app.goo.gl/7ngnmNsW6EtYZHj79" "https://maps.app.goo.gl/KBrP1tceBFSWVwf79" %}}{{% ref "https://ja.wikipedia.org/wiki/%E9%AF%96%E6%B1%9F%E5%B8%82" "鯖江市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "鯖江・眼鏡の工場と街並み" %}}
+<div class="googlemap-if no-margin">
+<img src="sabae.jpg" width="720" alt="Fukui GeoGuessr guide image showing Sabae, the eyewear town">
+</div>
 {{% /tab %}}
 {{% tab "東尋坊" %}}
 {{% notice tip %}}
 坂井市の<span class="quiz">東尋坊</span>は、日本海の荒波が削った輝石安山岩の柱状節理の断崖が約1km続く景勝地{{% ref "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B0%8B%E5%9D%8A" "東尋坊" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "坂井・東尋坊の断崖" %}}
+<div class="googlemap-if no-margin">
+<img src="tojinbo.jpg" width="720" alt="Fukui GeoGuessr guide image showing the Tojinbo cliffs">
+</div>
 {{% /tab %}}
-{{% tab "恐竜" %}}
+{{% tab "勝山" %}}
 {{% notice tip %}}
-勝山市の<span class="quiz">福井県立恐竜博物館</span>は国内最大級の恐竜博物館で、勝山は恐竜化石の産地。県内各地に恐竜のモニュメントが置かれている{{% ref "https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%AB%8B%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8" "福井県立恐竜博物館" %}}。
+勝山市の<span class="quiz">福井県立恐竜博物館</span>は国内最大級の恐竜博物館で、勝山は恐竜化石の産地。県内各地に恐竜のモニュメントが置かれている{{% ref "https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%AB%8B%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8" "福井県立恐竜博物館" %}}。恐竜のモニュメントもたまに見つかる{{% ex "https://maps.app.goo.gl/eKSe4NaHn7cq8fwV8" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "勝山・恐竜博物館" %}}
-{{% /tab %}}
-{{% tab "越前" %}}
-{{% notice tip %}}
-越前市・越前町は、<span class="quiz">越前和紙</span>・越前打刃物・越前漆器など伝統工芸が集まる地域{{% ref "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%89%8D%E5%92%8C%E7%B4%99" "越前和紙" %}}。
-{{% /notice %}}
-
-{{% photo-placeholder "越前和紙の里" %}}
+<div class="googlemap-if no-margin">
+<img src="katsuyama.jpg" width="680" alt="Fukui GeoGuessr guide image showing Katsuyama and the dinosaur museum">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

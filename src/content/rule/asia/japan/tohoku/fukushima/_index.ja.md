@@ -144,7 +144,9 @@ references:
 <span class="quiz">会津若松市</span>は赤瓦の天守をもつ鶴ヶ城の城下町で、会津塗（漆器）や白壁の蔵が残る{{% ref "https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82" "会津若松市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "会津若松・鶴ヶ城" %}}
+<div class="googlemap-if no-margin">
+<img src="aizu_castle.jpg" width="560" alt="Fukushima GeoGuessr guide image showing Tsuruga Castle in Aizu-Wakamatsu">
+</div>
 {{% /tab %}}
 {{% tab "いわき" %}}
 {{% notice tip %}}
@@ -155,17 +157,21 @@ references:
 {{% /tab %}}
 {{% tab "喜多方" %}}
 {{% notice tip %}}
-<span class="quiz">喜多方市</span>は醸造の蔵が立ち並ぶ「蔵のまち」で、喜多方ラーメンの発祥地{{% ref "https://ja.wikipedia.org/wiki/%E5%96%9C%E5%A4%9A%E6%96%B9%E5%B8%82" "喜多方市" %}}。
+<span class="quiz">喜多方市</span>は醸造の蔵が立ち並ぶ「蔵のまち」で、喜多方ラーメンの発祥地{{% ex "https://maps.app.goo.gl/idopJj8xJq11EyDFA" %}}{{% ref "https://ja.wikipedia.org/wiki/%E5%96%9C%E5%A4%9A%E6%96%B9%E5%B8%82" "喜多方市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "喜多方・蔵の町並み" %}}
+<div class="googlemap-if no-margin">
+<img src="kitakata.jpg" width="600" alt="Fukushima GeoGuessr guide image showing Kitakata ramen">
+</div>
 {{% /tab %}}
 {{% tab "双葉・原発" %}}
 {{% notice tip %}}
-双葉郡の大熊町・双葉町には<span class="quiz">福島第一原子力発電所</span>が立地し、周辺は東日本大震災の影響を受けた{{% ref "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E7%AC%AC%E4%B8%80%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80" "福島第一原子力発電所" %}}。
+双葉郡の大熊町・双葉町には<span class="quiz">福島第一原子力発電所</span>が立地し、周辺は東日本大震災の影響を受けた{{% ex "https://maps.app.goo.gl/WQvmD1nPs15vv7aD7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E7%AC%AC%E4%B8%80%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80" "福島第一原子力発電所" %}}。『帰還困難区域』や『通行証確認中』といった看板が散見される{{% ex "https://maps.app.goo.gl/no8qAUnkgRYZRFws8" "https://maps.app.goo.gl/EdmDHNqURxFECqYb9" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "双葉・福島第一原発周辺" %}}
+<div class="googlemap-if no-margin">
+<img src="fukushima_daiichi.jpg" width="640" alt="Fukushima GeoGuessr guide image showing the Fukushima Daiichi area">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

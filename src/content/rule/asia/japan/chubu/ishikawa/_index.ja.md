@@ -102,11 +102,13 @@ references:
 <span class="quiz">金沢市</span>は加賀百万石・前田家の城下町。日本三名園の兼六園、紅殻格子の町家が並ぶひがし茶屋街、金沢城が目印{{% ref "https://ja.wikipedia.org/wiki/%E5%85%BC%E5%85%AD%E5%9C%92" "兼六園" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "金沢・兼六園とひがし茶屋街" %}}
+<div class="googlemap-if no-margin">
+<img src="kanazawa.jpg" width="720" alt="Ishikawa GeoGuessr guide image showing Kanazawa">
+</div>
 {{% /tab %}}
 {{% tab "輪島" %}}
 {{% notice tip %}}
-<span class="quiz">輪島市</span>は漆器「輪島塗」と「朝市」で知られる能登の中心都市{{% ref "https://ja.wikipedia.org/wiki/%E8%BC%AA%E5%B3%B6%E5%A1%97" "輪島塗" %}}。
+<span class="quiz">輪島市</span>は漆器「輪島塗」と「朝市」で知られる能登の中心都市{{% ref "https://ja.wikipedia.org/wiki/%E8%BC%AA%E5%B3%B6%E5%A1%97" "輪島塗" %}}。能登半島地震 (2024年)によって崩れてしまった家も見つかる{{% ex "https://maps.app.goo.gl/XsaRNhQMvSEGtSeL8" "https://maps.app.goo.gl/ZW884CHtpwz1E4KQ6" %}}が、一部の観光業は再開している。震災後にいちど自分も旅行に行ったけれど、東京から金沢までは意外とアクセスいいのでちょっとした旅行にすごくいい。<a href="https://www.hot-ishikawa.jp/notofukko/index.html">『旅して応援、能登』</a>も要参照。
 {{% /notice %}}
 
 {{% photo-placeholder "輪島・朝市の通り" %}}
@@ -123,7 +125,19 @@ references:
 <span class="quiz">小松市</span>は建設機械大手コマツ（小松製作所）の創業地。小松空港やコマツの工場・教習所があり、黄色い建設機械が目印になることもある。
 {{% /notice %}}
 
-{{% photo-placeholder "小松・コマツの工場" %}}
+<div class="googlemap-if no-margin">
+<img src="komatsu.jpg" width="720" alt="Ishikawa GeoGuessr guide image showing Komatsu">
+</div>
+{{% /tab %}}
+{{% tab "能登瓦" %}}
+{{% notice tip %}}
+黒く光沢のある能登瓦は能登半島全体でみられる。他の地域の瓦よりも深い黒色であり光沢がある。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Monzen_townscape_ac_(2).jpg#/media/File:Monzen_townscape_ac_(2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Monzen_townscape_ac_%282%29.jpg" alt="Monzen townscape ac (2).jpg" height="851" width="1280"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Asturio_Cantabrio" title="User:Asturio Cantabrio">Asturio Cantabrio</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=120809235">Link</a></p>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

@@ -159,7 +159,7 @@ references:
     <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
         <li>鹿児島市は<span class="quiz">桜島</span>を望む県都で、火山灰が積もることがある</li>
-        <li>指宿市は<span class="quiz">砂むし温泉</span>で知られる薩摩半島南端の温泉地</li>
+        <li>指宿市はイーブイ系列のマンホールが見つかる</li>
         <li>屋久島は<span class="quiz">屋久杉</span>と多雨の原生林で知られる世界自然遺産の島</li>
         <li>種子島には<span class="quiz">ロケット</span>発射場（種子島宇宙センター）がある</li>
     </ul>
@@ -171,21 +171,38 @@ references:
 <span class="quiz">鹿児島市</span>は錦江湾に浮かぶ活火山・桜島を望む県都で、桜島は噴煙を上げ、市街にも火山灰が降ることがある{{% ref "https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%B3%B6" "桜島" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "鹿児島・桜島" %}}
+<div class="googlemap-if no-margin">
+<img src="sakurajima.jpg" width="720" alt="Kagoshima GeoGuessr guide image showing Sakurajima volcano">
+</div>
+{{% /tab %}}
+{{% tab "指宿" %}}
+{{% notice tip %}}
+イーブイ好きな指宿市ではイーブイ系列のマンホールが見つかる{{% ref "https://local.pokemon.jp/manhole/kagoshima.html" "ポケモンマンホール『ポケふた』" %}}。イーブイ系列を独占するのはずるいので分けてほしい。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<p><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Ibusuki_Evey-Suki_Manhole.JPG#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Ibusuki_Evey-Suki_Manhole.JPG"><img src="https://upload.wikimedia.org/wikipedia/ja/1/1d/Ibusuki_Evey-Suki_Manhole.JPG" alt="ファイル:Ibusuki Evey-Suki Manhole.JPG"></a></p>
+<p>Totti - 投稿者自身による作品, <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC 表示-継承 3.0</a>, <a href="https://ja.wikipedia.org/w/index.php?curid=4180467">リンク</a>による</p>
+</div>
+
 {{% /tab %}}
 {{% tab "屋久島" %}}
 {{% notice tip %}}
 <span class="quiz">屋久島</span>は樹齢千年を超える屋久杉と多雨の原生林で知られる世界自然遺産の島で、急峻な山が海から立ち上がる{{% ref "https://ja.wikipedia.org/wiki/%E5%B1%8B%E4%B9%85%E5%B3%B6" "屋久島" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "屋久島・原生林" %}}
+<div class="googlemap-if no-margin">
+<img src="yakushima.jpg" width="720" alt="Kagoshima GeoGuessr guide image showing Yakushima">
+</div>
 {{% /tab %}}
 {{% tab "種子島" %}}
 {{% notice tip %}}
 <span class="quiz">種子島</span>には日本最大級のロケット発射場・種子島宇宙センターがあり、サトウキビ畑の広がる平坦な島{{% ref "https://ja.wikipedia.org/wiki/%E7%A8%AE%E5%AD%90%E5%B3%B6" "種子島" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "種子島・ロケット発射場" %}}
+<div class="googlemap-if no-margin">
+<img src="tanegashima.jpg" width="720" alt="Kagoshima GeoGuessr guide image showing Tanegashima">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

@@ -110,7 +110,7 @@ references:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="1920px-Yamazawa_Co.,_Ltd._Head_Office" width="80%" alt="ヤマザワ">
+<img src="1280px-Yamazawa_Co.,_Ltd._Head_Office.jpg" width="80%" alt="ヤマザワ">
 </div>
 
 {{% /tab %}}
@@ -130,14 +130,18 @@ references:
 <span class="quiz">天童市</span>は将棋駒の生産で全国シェアの約9割を占める「将棋の街」。市内には将棋にちなんだモニュメントが多い{{% ex "https://maps.app.goo.gl/9cq3BkdEDuXevAQM8" "https://maps.app.goo.gl/1we1PzU2PknjPNwaA" "https://maps.app.goo.gl/ULK35ZpmjSRTXPZx7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%AB%A5%E5%B8%82" "天童市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "天童・将棋駒" %}}
+<div class="googlemap-if no-margin">
+<img src="tendo.jpg" width="720" alt="Yamagata GeoGuessr guide image showing Tendo shogi pieces">
+</div>
 {{% /tab %}}
 {{% tab "庄内" %}}
 {{% notice tip %}}
 <span class="quiz">庄内平野</span>（鶴岡市・酒田市）は最上川下流に開けた米どころで、酒田には米保管の「山居倉庫」が残る{{% ref "https://ja.wikipedia.org/wiki/%E5%BA%84%E5%86%85%E5%B9%B3%E9%87%8E" "庄内平野" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "庄内・水田と山居倉庫" %}}
+<div class="googlemap-if no-margin">
+<img src="sankyo_soko.jpg" width="480" alt="Yamagata GeoGuessr guide image showing the Sankyo rice warehouses in Sakata">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

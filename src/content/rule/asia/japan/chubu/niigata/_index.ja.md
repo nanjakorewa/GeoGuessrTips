@@ -96,15 +96,25 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
+        <li>長岡市・小千谷市の丘陵には<span class="quiz">ガス田</span>と巨大なガスプラント・ガス井が点在（南長岡・片貝ガス田）</li>
         <li><span class="quiz">燕市・三条市</span>は金属洋食器・刃物・金物の一大産地</li>
-        <li>新潟市は信濃川河口に開けた本州日本海側で最大の都市</li>
         <li><span class="quiz">佐渡市</span>は金山（2024年世界遺産）とトキで知られる日本海最大の島</li>
         <li>魚沼・南魚沼は<span class="quiz">コシヒカリ</span>の産地で、棚田が広がる豪雪地帯</li>
-        <li>長岡市・小千谷市の丘陵には<span class="quiz">ガス田</span>と巨大なガスプラント・ガス井が点在（南長岡・片貝ガス田）</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "天然ガス・石油" %}}
+{{% notice tip %}}
+新潟県は国内最大の石油・天然ガス産地。<span class="quiz">長岡市</span>南西の丘陵にある南長岡ガス田は国内最大級の埋蔵量を誇り、INPEXの越路原プラント（田園にそびえる巨大プラント）や、隣接する小千谷市側の片貝ガス田（石油資源開発）がある。田園地帯のガス井やプラント、INPEX・JAPEXの設備が手がかりになる{{% ref "https://ja.wikipedia.org/wiki/%E5%8D%97%E9%95%B7%E5%B2%A1%E3%82%AC%E3%82%B9%E7%94%B0" "南長岡ガス田" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:20171110_Niigata_Prefectural_Road_Route_236.jpg#/media/File:20171110_Niigata_Prefectural_Road_Route_236.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/20171110_Niigata_Prefectural_Road_Route_236.jpg" alt="20171110 Niigata Prefectural Road Route 236.jpg" height="960" width="1280"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Tyutyanya" title="User:Tyutyanya">Tyutyanya</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=67808695">Link</a></p>
+</div>
+
+{{% /tab %}}
 {{% tab "燕三条" %}}
 {{% notice tip %}}
 <span class="quiz">燕市・三条市</span>は金属加工の集積地。燕は金属洋食器（スプーン等）の国内生産シェア9割以上、三条は刃物・作業工具で知られる{{% ref "https://ja.wikipedia.org/wiki/%E7%87%95%E5%B8%82" "燕市" %}}。
@@ -125,13 +135,6 @@ references:
 {{% /notice %}}
 
 {{% photo-placeholder "魚沼・棚田の風景" %}}
-{{% /tab %}}
-{{% tab "天然ガス・石油" %}}
-{{% notice tip %}}
-新潟県は国内最大の石油・天然ガス産地。<span class="quiz">長岡市</span>南西の丘陵にある南長岡ガス田は国内最大級の埋蔵量を誇り、INPEXの越路原プラント（田園にそびえる巨大プラント）や、隣接する小千谷市側の片貝ガス田（石油資源開発）がある。田園地帯のガス井やプラント、INPEX・JAPEXの設備が手がかりになる{{% ref "https://ja.wikipedia.org/wiki/%E5%8D%97%E9%95%B7%E5%B2%A1%E3%82%AC%E3%82%B9%E7%94%B0" "南長岡ガス田" %}}。
-{{% /notice %}}
-
-{{% photo-placeholder "長岡・越路原のガスプラント" %}}
 {{% /tab %}}
 {{% /tabs %}}
 

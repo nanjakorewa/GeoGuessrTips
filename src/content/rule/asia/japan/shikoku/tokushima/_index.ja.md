@@ -93,7 +93,6 @@ references:
         <li>鳴門市の<span class="quiz">鳴門の渦潮</span>は大鳴門橋のかかる海峡で渦が発生する</li>
         <li>美馬市脇町は<span class="quiz">うだつ</span>の上がる商家の町並みが残る</li>
         <li>三好市の祖谷渓は深いV字谷と<span class="quiz">かずら橋</span>で知られる秘境</li>
-        <li>徳島市は阿波踊りと、藍（あい）の産地として栄えた歴史を持つ</li>
     </ul>
 </div>
 
@@ -105,19 +104,23 @@ references:
 
 {{% photo-placeholder "鳴門・渦潮と大鳴門橋" %}}
 {{% /tab %}}
-{{% tab "脇町・うだつ" %}}
+{{% tab "脇町" %}}
 {{% notice tip %}}
 美馬市脇町は、藍商で栄えた商家が「<span class="quiz">うだつ</span>」を上げた屋根を競った町並みが残る{{% ref "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A0%E3%81%A4%E3%81%AE%E7%94%BA%E4%B8%A6%E3%81%BF" "うだつの町並み" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "脇町・うだつの町並み" %}}
+<div class="googlemap-if no-margin">
+<img src="mima.jpg" width="720" alt="Tokushima GeoGuessr guide image showing the udatsu townscape of Mima-Wakimachi">
+</div>
 {{% /tab %}}
-{{% tab "祖谷" %}}
+{{% tab "三好" %}}
 {{% notice tip %}}
 三好市の祖谷（いや）渓は四国山地の深いV字谷で、シラクチカズラで編んだ「かずら橋」が架かる秘境。
 {{% /notice %}}
 
-{{% photo-placeholder "祖谷・かずら橋とV字谷" %}}
+<div class="googlemap-if no-margin">
+<img src="miyoshi.jpg" width="480" alt="Tokushima GeoGuessr guide image showing the Iya valley in Miyoshi">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

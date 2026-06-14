@@ -136,14 +136,18 @@ MAIYAは岩手にしかない{{% ref "https://www.maiya.co.jp/" "MAIYA" %}}。20
 宮古・釜石・大船渡など<span class="quiz">三陸海岸</span>は、入り組んだリアス海岸と漁港・防潮堤が連なる{{% ref "https://ja.wikipedia.org/wiki/%E4%B8%89%E9%99%B8%E6%B5%B7%E5%B2%B8" "三陸海岸" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "三陸・リアス海岸の漁港" %}}
+<div class="googlemap-if no-margin">
+<img src="ofunato.jpg" width="600" alt="Iwate GeoGuessr guide image showing the Sanriku ria coast at Ofunato">
+</div>
 {{% /tab %}}
 {{% tab "平泉" %}}
 {{% notice tip %}}
 <span class="quiz">平泉町</span>は中尊寺金色堂・毛越寺など奥州藤原氏ゆかりの仏教遺跡が残り、世界文化遺産に登録{{% ex "https://maps.app.goo.gl/iApGKtFhG2saV8pu8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%B3%89" "平泉" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "平泉・中尊寺" %}}
+<div class="googlemap-if no-margin">
+<img src="hiraizumi.jpg" width="720" alt="Iwate GeoGuessr guide image showing Hiraizumi">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

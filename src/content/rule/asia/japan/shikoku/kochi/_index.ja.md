@@ -113,21 +113,36 @@ references:
 <span class="quiz">高知市</span>はとさでん交通の路面電車が走り、はりまや橋・現存天守の高知城がある県都{{% ref "https://ja.wikipedia.org/wiki/%E9%AB%98%E7%9F%A5%E5%B8%82" "高知市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "高知・路面電車と高知城" %}}
+<div class="googlemap-if no-margin">
+<img src="kochi_city.jpg" width="680" alt="Kochi GeoGuessr guide image showing Kochi city">
+</div>
 {{% /tab %}}
 {{% tab "四万十川" %}}
 {{% notice tip %}}
 四万十市などを流れる<span class="quiz">四万十川</span>は「日本最後の清流」と呼ばれ、欄干のない「沈下橋」が架かる{{% ref "https://ja.wikipedia.org/wiki/%E5%9B%9B%E4%B8%87%E5%8D%81%E5%B7%9D" "四万十川" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "四万十川・沈下橋" %}}
+<div class="googlemap-if no-margin">
+<img src="shimanto.jpg" width="720" alt="Kochi GeoGuessr guide image showing the Shimanto River">
+</div>
 {{% /tab %}}
 {{% tab "室戸・足摺" %}}
 {{% notice tip %}}
 <span class="quiz">室戸岬</span>・足摺岬は太平洋に突き出す岬で、黒潮の荒波が打ち寄せる岩礁海岸と灯台が特徴{{% ref "https://ja.wikipedia.org/wiki/%E5%AE%A4%E6%88%B8%E5%B2%AC" "室戸岬" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "室戸岬・太平洋の海岸" %}}
+<div class="googlemap-if no-margin">
+<img src="muroto.jpg" width="720" alt="Kochi GeoGuessr guide image showing Cape Muroto">
+</div>
+{{% /tab %}}
+{{% tab "馬路村" %}}
+{{% notice tip %}}
+<span class="quiz">馬路村</span>など県東部の山間部は、急峻な山に囲まれた柚子の産地・林業の村で、深い谷沿いに小さな集落が点在する。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="umaji.jpg" width="720" alt="Kochi GeoGuessr guide image showing Umaji village">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

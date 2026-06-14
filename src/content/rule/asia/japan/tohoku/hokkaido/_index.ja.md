@@ -366,33 +366,50 @@ references:
 </div>
 
 {{% tabs %}}
+{{% tab "札幌" %}}
+{{% notice tip %}}
+<span class="quiz">札幌市</span>は碁盤の目状の街路が広がる北海道最大の都市で、大通公園やテレビ塔、雪景色が手がかり。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="sapporo.jpg" width="720" alt="Hokkaido GeoGuessr guide image showing the city of Sapporo">
+</div>
+{{% /tab %}}
 {{% tab "室蘭" %}}
 {{% notice tip %}}
 <span class="quiz">室蘭市</span>は鉄鋼（日本製鉄）と石油・港湾の工業都市で、製鉄所や白鳥大橋、工場夜景が特徴{{% ref "https://ja.wikipedia.org/wiki/%E5%AE%A4%E8%98%AD%E5%B8%82" "室蘭市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "室蘭・製鉄所と白鳥大橋" %}}
+<div class="googlemap-if no-margin">
+<img src="muroran.jpg" width="720" alt="Hokkaido GeoGuessr guide image showing Muroran steelworks and the Hakucho Bridge">
+</div>
 {{% /tab %}}
 {{% tab "苫小牧" %}}
 {{% notice tip %}}
 <span class="quiz">苫小牧市</span>は王子製紙発祥の製紙の街で、大規模な製紙工場と掘込式の苫小牧港がある{{% ref "https://ja.wikipedia.org/wiki/%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82" "苫小牧市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "苫小牧・製紙工場" %}}
+<div class="googlemap-if no-margin">
+<img src="tomakomai.jpg" width="720" alt="Hokkaido GeoGuessr guide image showing a paper mill in Tomakomai">
+</div>
 {{% /tab %}}
 {{% tab "十勝" %}}
 {{% notice tip %}}
 帯広市を中心とする<span class="quiz">十勝平野</span>は、防風林（カラマツ等）に区切られた広大な畑作地帯で、まっすぐな農道が続く{{% ref "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%8B%9D%E5%B9%B3%E9%87%8E" "十勝平野" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "十勝・防風林と畑作地帯" %}}
+<div class="googlemap-if no-margin">
+<img src="tokachi.jpg" width="720" alt="Hokkaido GeoGuessr guide image showing the Tokachi plain with shelterbelts">
+</div>
 {{% /tab %}}
 {{% tab "函館" %}}
 {{% notice tip %}}
 <span class="quiz">函館市</span>は函館山からの夜景、坂と西洋館、五稜郭で知られる道南の港町{{% ref "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B8%82" "函館市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "函館・坂と港の街並み" %}}
+<div class="googlemap-if no-margin">
+<img src="hakodate.jpg" width="640" alt="Hokkaido GeoGuessr guide image showing Hakodate from Mount Hakodate">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

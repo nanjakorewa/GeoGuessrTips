@@ -107,21 +107,36 @@ references:
 <span class="quiz">今治市</span>は生産量日本一のタオル産地で、国産タオルの過半を占める。造船・海運も盛んで今治城がある{{% ref "https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%B2%BB%E3%82%BF%E3%82%AA%E3%83%AB" "今治タオル" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "今治・タオル工場と造船" %}}
+<div class="googlemap-if no-margin">
+<img src="imabari.jpg" width="680" alt="Ehime GeoGuessr guide image showing Imabari">
+</div>
 {{% /tab %}}
 {{% tab "松山" %}}
 {{% notice tip %}}
 <span class="quiz">松山市</span>は道後温泉と松山城で知られる四国最大の都市で、市内には伊予鉄道の路面電車が走る{{% ref "https://ja.wikipedia.org/wiki/%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89" "道後温泉" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "松山・道後温泉と路面電車" %}}
+<div class="googlemap-if no-margin">
+<img src="matsuyama.jpg" width="720" alt="Ehime GeoGuessr guide image showing Matsuyama">
+</div>
 {{% /tab %}}
 {{% tab "新居浜" %}}
 {{% notice tip %}}
 <span class="quiz">新居浜市</span>は江戸期に開かれた別子銅山で発展した住友グループ発祥の地で、化学・金属の工場が集まる{{% ref "https://ja.wikipedia.org/wiki/%E5%88%A5%E5%AD%90%E9%8A%85%E5%B1%B1" "別子銅山" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "新居浜・住友の工場群" %}}
+<div class="googlemap-if no-margin">
+<img src="niihama.jpg" width="720" alt="Ehime GeoGuessr guide image showing Niihama">
+</div>
+{{% /tab %}}
+{{% tab "宇和島" %}}
+{{% notice tip %}}
+<span class="quiz">宇和島市</span>など南予はリアス海岸で、宇和海では真珠やマダイの養殖が盛ん。宇和島城の城下町でもある。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="uwajima.jpg" width="720" alt="Ehime GeoGuessr guide image showing Uwajima">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

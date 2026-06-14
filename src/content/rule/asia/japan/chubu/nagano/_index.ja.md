@@ -185,7 +185,18 @@ references:
 <span class="quiz">松本市</span>は現存十二天守の一つ、黒い下見板張りの国宝・松本城が目印。北アルプスを背に城下町が広がる{{% ref "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E5%9F%8E" "松本城" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "松本・国宝松本城" %}}
+<div class="googlemap-if no-margin">
+<img src="matsumoto_castle.jpg" width="720" alt="Nagano GeoGuessr guide image showing Matsumoto Castle">
+</div>
+{{% /tab %}}
+{{% tab "諏訪・岡谷" %}}
+{{% notice tip %}}
+<span class="quiz">諏訪市</span>・岡谷市は、製糸業から発展した精密機械・電子部品工業が盛んで「東洋のスイス」と呼ばれた。諏訪湖周辺に工場が集まる。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="okaya.jpg" width="680" alt="Nagano GeoGuessr guide image showing Okaya by Lake Suwa">
+</div>
 {{% /tab %}}
 {{% tab "善光寺" %}}
 {{% notice tip %}}
@@ -199,7 +210,9 @@ references:
 <span class="quiz">軽井沢町</span>は浅間山南麓の高原にある別荘地・避暑地で、林間に別荘やリゾート施設が点在{{% ref "https://ja.wikipedia.org/wiki/%E8%BB%BD%E4%BA%95%E6%B2%A2%E7%94%BA" "軽井沢町" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "軽井沢・高原の別荘地" %}}
+<div class="googlemap-if no-margin">
+<img src="karuizawa.jpg" width="720" alt="Nagano GeoGuessr guide image showing Karuizawa">
+</div>
 {{% /tab %}}
 {{% tab "中山道の宿場" %}}
 {{% notice tip %}}

@@ -158,14 +158,18 @@ references:
 <span class="quiz">弘前市</span>は弘前城の城下町で、岩木山麓に広がるりんご畑が特徴。青森県はりんご生産量日本一{{% ref "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E5%B8%82" "弘前市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "弘前・岩木山とりんご畑" %}}
+<div class="googlemap-if no-margin">
+<img src="hirosaki_castle.jpg" width="680" alt="Aomori GeoGuessr guide image showing Hirosaki Castle">
+</div>
 {{% /tab %}}
 {{% tab "八戸" %}}
 {{% notice tip %}}
 <span class="quiz">八戸市</span>はイカなどの水産業と、セメント・製紙などの工場が集まる港湾工業都市{{% ref "https://ja.wikipedia.org/wiki/%E5%85%AB%E6%88%B8%E5%B8%82" "八戸市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "八戸・漁港と工場" %}}
+<div class="googlemap-if no-margin">
+<img src="hachinohe.jpg" width="760" alt="Aomori GeoGuessr guide image showing the port city of Hachinohe">
+</div>
 {{% /tab %}}
 {{% tab "六ヶ所・原子力" %}}
 {{% notice tip %}}

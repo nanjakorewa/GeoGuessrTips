@@ -118,14 +118,18 @@ references:
 <span class="quiz">仙台市</span>は「杜の都」と呼ばれる東北最大の都市。伊達政宗の青葉城（仙台城）跡や、ケヤキ並木の定禅寺通が目印{{% ref "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E5%B8%82" "仙台市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "仙台・定禅寺通のケヤキ並木" %}}
+<div class="googlemap-if no-margin">
+<img src="sendai.jpg" width="760" alt="Miyagi GeoGuessr guide image showing the city of Sendai">
+</div>
 {{% /tab %}}
 {{% tab "松島" %}}
 {{% notice tip %}}
 <span class="quiz">松島</span>は松島湾に大小の島々が浮かぶ多島海で、日本三景のひとつ{{% ex "https://maps.app.goo.gl/2Ef26JVNAaQGS4h98" "https://maps.app.goo.gl/cKxF72wjeS1DhCVp6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B3%B6" "松島" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "松島・多島海の風景" %}}
+<div class="googlemap-if no-margin">
+<img src="matsushima.jpg" width="720" alt="Miyagi GeoGuessr guide image showing the islands of Matsushima">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 
