@@ -94,7 +94,6 @@ references:
         <li>彦根市は現存天守の国宝・<span class="quiz">彦根城</span>が目印</li>
         <li>甲賀市信楽は<span class="quiz">信楽焼</span>の産地で、たぬきの置物が並ぶ窯元の街</li>
         <li>県の中央に<span class="quiz">琵琶湖</span>が広がり、湖岸の景観が手がかりになる</li>
-        <li>近江八幡市は水郷と白壁の商家が残る近江商人の街</li>
     </ul>
 </div>
 
@@ -104,21 +103,27 @@ references:
 <span class="quiz">彦根市</span>は琵琶湖東岸の城下町で、現存十二天守のひとつ国宝・彦根城が目印{{% ref "https://ja.wikipedia.org/wiki/%E5%BD%A6%E6%A0%B9%E5%9F%8E" "彦根城" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "彦根・彦根城" %}}
+<div class="googlemap-if no-margin">
+<img src="hikone_castle.jpg" width="700" alt="Shiga GeoGuessr guide image showing Hikone Castle">
+</div>
 {{% /tab %}}
 {{% tab "信楽" %}}
 {{% notice tip %}}
-甲賀市の<span class="quiz">信楽</span>は日本六古窯のひとつ信楽焼の産地で、店先に並ぶたぬきの置物や登り窯が特徴{{% ref "https://ja.wikipedia.org/wiki/%E4%BF%A1%E6%A5%BD%E7%84%BC" "信楽焼" %}}。
+甲賀市の<span class="quiz">信楽</span>は日本六古窯のひとつ信楽焼の産地で、店先に並ぶたぬきの置物や登り窯が特徴{{% ex "https://maps.app.goo.gl/abxUapDMuJm1Nqba6" "https://maps.app.goo.gl/XcdrXPQYZh8cFTGR6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E4%BF%A1%E6%A5%BD%E7%84%BC" "信楽焼" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "信楽・たぬきの置物と窯元" %}}
+<div class="googlemap-if no-margin">
+<img src="shigaraki.jpg" width="720" alt="Shiga GeoGuessr guide image showing Shigaraki ware">
+</div>
 {{% /tab %}}
 {{% tab "琵琶湖" %}}
 {{% notice tip %}}
 県の中央に日本最大の湖<span class="quiz">琵琶湖</span>が広がり、湖岸の道路・葦原・対岸の山並みが位置の手がかりになる{{% ref "https://ja.wikipedia.org/wiki/%E7%90%B5%E7%90%B6%E6%B9%96" "琵琶湖" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "琵琶湖・湖岸の風景" %}}
+<div class="googlemap-if no-margin">
+<img src="biwako.jpg" width="720" alt="Shiga GeoGuessr guide image showing Lake Biwa">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

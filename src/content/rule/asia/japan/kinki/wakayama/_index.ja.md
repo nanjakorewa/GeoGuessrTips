@@ -109,21 +109,36 @@ references:
 高野町の<span class="quiz">高野山</span>は標高約800mの山上に多数の寺院が集まる真言宗の聖地で、世界遺産「紀伊山地の霊場と参詣道」の一部{{% ref "https://ja.wikipedia.org/wiki/%E9%AB%98%E9%87%8E%E5%B1%B1" "高野山" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "高野山・寺院群" %}}
+<div class="googlemap-if no-margin">
+<img src="koyasan.jpg" width="720" alt="Wakayama GeoGuessr guide image showing Mount Koya">
+</div>
 {{% /tab %}}
 {{% tab "熊野" %}}
 {{% notice tip %}}
 田辺市・新宮市など熊野地方には<span class="quiz">熊野古道</span>と熊野三山（本宮・速玉・那智）を結ぶ参詣道が通り、深い山林と渓谷が広がる{{% ref "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E5%8F%A4%E9%81%93" "熊野古道" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "熊野・古道と山林" %}}
+<div class="googlemap-if no-margin">
+<img src="kumano.jpg" width="560" alt="Wakayama GeoGuessr guide image showing the Kumano Kodo">
+</div>
 {{% /tab %}}
 {{% tab "南高梅" %}}
 {{% notice tip %}}
 <span class="quiz">みなべ町</span>・田辺市は梅の名産地で、ブランド梅「南高梅」を中心に斜面一面の梅林が広がる{{% ref "https://ja.wikipedia.org/wiki/%E5%8D%97%E9%AB%98%E6%A2%85" "南高梅" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "みなべ・梅林" %}}
+<div class="googlemap-if no-margin">
+<img src="minabe.jpg" width="480" alt="Wakayama GeoGuessr guide image showing plum groves in Minabe">
+</div>
+{{% /tab %}}
+{{% tab "有田・海南" %}}
+{{% notice tip %}}
+<span class="quiz">有田市</span>・海南市など県北部は、温暖な気候を生かした有田みかんの産地で、斜面一面にみかん畑が広がる。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="arida_kainan.jpg" width="720" alt="Wakayama GeoGuessr guide image showing mandarin orange groves in Arida">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

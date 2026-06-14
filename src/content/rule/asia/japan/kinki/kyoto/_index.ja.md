@@ -104,7 +104,6 @@ references:
         <li>京都市は碁盤の目状の街路と社寺・町家が広がる古都</li>
         <li>宇治市は<span class="quiz">茶</span>の産地で、平等院や宇治川が知られる</li>
         <li>宮津市の<span class="quiz">天橋立</span>は松並木の砂州が湾を分ける日本三景のひとつ</li>
-        <li>京都市西陣は<span class="quiz">西陣織</span>の織屋が集まる町</li>
     </ul>
 </div>
 

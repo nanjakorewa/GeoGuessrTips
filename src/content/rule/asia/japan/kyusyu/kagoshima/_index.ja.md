@@ -180,7 +180,7 @@ references:
 イーブイ好きな指宿市ではイーブイ系列のマンホールが見つかる{{% ref "https://local.pokemon.jp/manhole/kagoshima.html" "ポケモンマンホール『ポケふた』" %}}。イーブイ系列を独占するのはずるいので分けてほしい。
 {{% /notice %}}
 
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Ibusuki_Evey-Suki_Manhole.JPG#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Ibusuki_Evey-Suki_Manhole.JPG"><img src="https://upload.wikimedia.org/wikipedia/ja/1/1d/Ibusuki_Evey-Suki_Manhole.JPG" alt="ファイル:Ibusuki Evey-Suki Manhole.JPG"></a></p>
 <p>Totti - 投稿者自身による作品, <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC 表示-継承 3.0</a>, <a href="https://ja.wikipedia.org/w/index.php?curid=4180467">リンク</a>による</p>
 </div>

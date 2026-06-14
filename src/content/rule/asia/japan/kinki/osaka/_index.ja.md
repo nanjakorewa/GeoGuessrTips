@@ -116,7 +116,6 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は06</li>
-        <li></li>
     </ul>
     {{% corp "asia/japan" "kinki/osaka" %}}
 </div>
@@ -124,10 +123,8 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
-        <li>大阪市は高層ビルと密集市街地が広がる西日本最大の都市</li>
         <li>堺市は<span class="quiz">刃物</span>・自転車部品などの金属加工と、百舌鳥古墳群（世界遺産）で知られる</li>
         <li>東大阪市は中小の<span class="quiz">町工場</span>が密集するものづくりの街</li>
-        <li>泉州（岸和田・泉佐野）は繊維（タオル・毛布）と関西国際空港の臨海部</li>
     </ul>
 </div>
 

@@ -111,14 +111,18 @@ references:
 <span class="quiz">伊勢市</span>は伊勢神宮（内宮・外宮）の門前町で、おはらい町・おかげ横丁の切妻妻入りの町家が並ぶ{{% ref "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE" "伊勢神宮" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "伊勢・おはらい町" %}}
+<div class="googlemap-if no-margin">
+<img src="ise.jpg" width="720" alt="Mie GeoGuessr guide image showing Ise">
+</div>
 {{% /tab %}}
 {{% tab "四日市" %}}
 {{% notice tip %}}
 <span class="quiz">四日市市</span>は伊勢湾岸に石油化学コンビナートが広がる工業都市で、工場夜景でも知られる{{% ref "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82" "四日市市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "四日市・コンビナート" %}}
+<div class="googlemap-if no-margin">
+<img src="yokkaichi.jpg" width="720" alt="Mie GeoGuessr guide image showing the Yokkaichi industrial complex">
+</div>
 {{% /tab %}}
 {{% tab "鈴鹿" %}}
 {{% notice tip %}}
