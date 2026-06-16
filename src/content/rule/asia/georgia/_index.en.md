@@ -11,7 +11,6 @@ flag: "GE.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-is_unofficial: true
 mapProvider: "osm"
 mapPins:
   - { lat: 41.716, lng: 44.783, label: "Tbilisi", type: "capital", note: "Capital and largest city of Georgia" }

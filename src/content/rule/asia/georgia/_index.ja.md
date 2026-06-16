@@ -11,7 +11,6 @@ flag: "GE.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-is_unofficial: true
 features:
   - text: '<span class="quiz">コーカサス山脈</span>の南側に位置しヨーロッパとアジアの境界にある'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2"
@@ -32,9 +31,8 @@ mapPins:
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>現在公式のストリートビューが無くGeoguessrでは出題されない</li>
         <li>ドメインは<span class="quiz">.ge</span></li>
-        <li>ジョージア語（ქართული ენა）が公用語として使われている</li>
+        <li>ジョージア語（ქართული ენა）が公用語として使われている{{% ex "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}</li>
     </ul>
 </div>
 
@@ -42,7 +40,7 @@ mapPins:
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ジョージア語（ქართული ენა）が使用されている。
+ジョージア語（ქართული ენა）が使用されている{{% ex "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
