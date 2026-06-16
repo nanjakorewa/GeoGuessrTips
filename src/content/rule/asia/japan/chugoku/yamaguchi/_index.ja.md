@@ -141,14 +141,18 @@ references:
 <span class="quiz">下関市</span>はふぐの水揚げで知られる関門海峡の港町で、対岸の北九州市とは関門橋・関門トンネルで結ばれる{{% ref "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%96%A2%E5%B8%82" "下関市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "下関・関門海峡" %}}
+<div class="googlemap-if no-margin">
+<img src="shimonoseki.jpg" width="720" alt="Yamaguchi GeoGuessr guide image showing Shimonoseki and the Kanmon Strait">
+</div>
 {{% /tab %}}
 {{% tab "岩国" %}}
 {{% notice tip %}}
 <span class="quiz">岩国市</span>の錦帯橋は錦川に架かる5連の木造アーチ橋で、城下町のシンボル{{% ref "https://ja.wikipedia.org/wiki/%E9%8C%A6%E5%B8%AF%E6%A9%8B" "錦帯橋" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "岩国・錦帯橋" %}}
+<div class="googlemap-if no-margin">
+<img src="kintaikyo.jpg" width="720" alt="Yamaguchi GeoGuessr guide image showing the Kintaikyo Bridge in Iwakuni">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

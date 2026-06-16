@@ -112,14 +112,18 @@ references:
 <span class="quiz">広島市</span>は太田川の三角州に開けた都市で、網の目状に路面電車が走り、原爆ドーム・平和記念公園が目印{{% ref "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%B8%82" "広島市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "広島・路面電車と市街" %}}
+<div class="googlemap-if no-margin">
+<img src="hiroshima_city.jpg" width="720" alt="Hiroshima GeoGuessr guide image showing the city of Hiroshima">
+</div>
 {{% /tab %}}
 {{% tab "宮島" %}}
 {{% notice tip %}}
 廿日市市の宮島（厳島）にある<span class="quiz">厳島神社</span>は、海上に立つ朱塗りの大鳥居で知られる世界遺産{{% ref "https://ja.wikipedia.org/wiki/%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE" "厳島神社" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "宮島・厳島神社の大鳥居" %}}
+<div class="googlemap-if no-margin">
+<img src="miyajima.jpg" width="720" alt="Hiroshima GeoGuessr guide image showing Miyajima and Itsukushima Shrine">
+</div>
 {{% /tab %}}
 {{% tab "尾道" %}}
 {{% notice tip %}}
@@ -133,7 +137,9 @@ references:
 <span class="quiz">呉市</span>は旧海軍の軍港・造船の街で、現在も造船所のクレーンや艦艇、大和ミュージアムが見られる{{% ref "https://ja.wikipedia.org/wiki/%E5%91%89%E5%B8%82" "呉市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "呉・造船所と軍港" %}}
+<div class="googlemap-if no-margin">
+<img src="kure.jpg" width="720" alt="Hiroshima GeoGuessr guide image showing Kure">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

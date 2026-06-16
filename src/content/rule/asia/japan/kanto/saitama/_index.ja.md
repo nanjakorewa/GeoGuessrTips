@@ -165,14 +165,18 @@ references:
 <span class="quiz">川越市</span>は黒い蔵造りの商家と「時の鐘」が残る城下町で、「小江戸」と呼ばれる{{% ref "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E5%B8%82" "川越市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "川越・蔵造りの町並み" %}}
+<div class="googlemap-if no-margin">
+<img src="kawagoe.jpg" width="560" alt="Saitama GeoGuessr guide image showing Kawagoe">
+</div>
 {{% /tab %}}
 {{% tab "秩父" %}}
 {{% notice tip %}}
 <span class="quiz">秩父市</span>は山に囲まれた盆地で、石灰石を産する武甲山と、それを原料とするセメント工場が街のシンボル{{% ref "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%B8%82" "秩父市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "秩父・武甲山とセメント工場" %}}
+<div class="googlemap-if no-margin">
+<img src="chichibu.jpg" width="560" alt="Saitama GeoGuessr guide image showing Chichibu">
+</div>
 {{% /tab %}}
 {{% tab "川口" %}}
 {{% notice tip %}}
@@ -180,6 +184,15 @@ references:
 {{% /notice %}}
 
 {{% photo-placeholder "川口・鋳物工場" %}}
+{{% /tab %}}
+{{% tab "さいたま" %}}
+{{% notice tip %}}
+<span class="quiz">さいたま市</span>は大宮・浦和を中心とする県都で、関東平野に住宅地と市街地が広がる。大宮は鉄道の要衝（鉄道博物館がある）。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="saitama_city.jpg" width="720" alt="Saitama GeoGuessr guide image showing Saitama city">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

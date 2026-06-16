@@ -95,14 +95,18 @@ references:
 <span class="quiz">鳥取市</span>の鳥取砂丘は日本海に面する日本最大級の観光砂丘で、風紋や砂の起伏が広がる{{% ref "https://ja.wikipedia.org/wiki/%E9%B3%A5%E5%8F%96%E7%A0%82%E4%B8%98" "鳥取砂丘" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "鳥取・鳥取砂丘" %}}
+<div class="googlemap-if no-margin">
+<img src="tottori_sakyu.jpg" width="720" alt="Tottori GeoGuessr guide image showing the Tottori Sand Dunes">
+</div>
 {{% /tab %}}
 {{% tab "境港" %}}
 {{% notice tip %}}
 <span class="quiz">境港市</span>は日本海有数の水産都市で、漫画家・水木しげるの出身地として駅前に妖怪のブロンズ像が並ぶ「水木しげるロード」がある{{% ref "https://ja.wikipedia.org/wiki/%E5%A2%83%E6%B8%AF%E5%B8%82" "境港市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "境港・水木しげるロード" %}}
+<div class="googlemap-if no-margin">
+<img src="sakaiminato.jpg" width="720" alt="Tottori GeoGuessr guide image showing Sakaiminato">
+</div>
 {{% /tab %}}
 {{% tab "倉吉" %}}
 {{% notice tip %}}

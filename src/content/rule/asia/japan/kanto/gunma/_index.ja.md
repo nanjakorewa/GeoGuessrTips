@@ -114,7 +114,9 @@ references:
 <span class="quiz">富岡市</span>の富岡製糸場は明治期の官営模範製糸工場で、赤レンガの繰糸所などが世界文化遺産に登録されている{{% ref "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B2%A1%E8%A3%BD%E7%B3%B8%E5%A0%B4" "富岡製糸場" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "富岡・製糸場の赤レンガ" %}}
+<div class="googlemap-if no-margin">
+<img src="tomioka.jpg" width="680" alt="Gunma GeoGuessr guide image showing the Tomioka Silk Mill">
+</div>
 {{% /tab %}}
 {{% tab "草津" %}}
 {{% notice tip %}}
@@ -135,7 +137,9 @@ references:
 <span class="quiz">嬬恋村</span>は浅間山北麓の高原にあり、夏秋キャベツの一大産地として一面のキャベツ畑が広がる{{% ref "https://ja.wikipedia.org/wiki/%E5%AC%AC%E6%81%8B%E6%9D%91" "嬬恋村" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "嬬恋・高原キャベツ畑" %}}
+<div class="googlemap-if no-margin">
+<img src="tsumagoi.jpg" width="720" alt="Gunma GeoGuessr guide image showing cabbage fields in Tsumagoi">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

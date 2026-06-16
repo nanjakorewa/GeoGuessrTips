@@ -102,32 +102,36 @@ references:
     <ul class="rule-list">
         <li>倉敷市は白壁の<span class="quiz">美観地区</span>と、児島の<span class="quiz">ジーンズ</span>・水島のコンビナートで知られる</li>
         <li>岡山市は後楽園と岡山城がある県都</li>
-        <li>備前市は<span class="quiz">備前焼</span>の産地で、登り窯や煙突が見られる</li>
-        <li>瀬戸内沿岸は温暖で、ブドウ・桃などの果樹栽培が盛ん</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "岡山" %}}
+{{% notice tip %}}
+<span class="quiz">岡山市</span>は日本三名園のひとつ後楽園と、黒い天守の岡山城（烏城）がある県都。桃太郎伝説の地としても知られる。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="okayama_castle.jpg" width="720" alt="Okayama GeoGuessr guide image showing Okayama Castle">
+</div>
+{{% /tab %}}
 {{% tab "倉敷" %}}
 {{% notice tip %}}
 <span class="quiz">倉敷市</span>は白壁と蔵が並ぶ美観地区で知られ、児島は国産ジーンズ発祥の地、水島には製鉄・石油化学のコンビナートがある{{% ref "https://ja.wikipedia.org/wiki/%E5%80%89%E6%95%B7%E5%B8%82" "倉敷市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "倉敷・美観地区" %}}
+<div class="googlemap-if no-margin">
+<img src="kurashiki.jpg" width="720" alt="Okayama GeoGuessr guide image showing the Kurashiki Bikan district">
+</div>
 {{% /tab %}}
 {{% tab "水島コンビナート" %}}
 {{% notice tip %}}
 倉敷市南部の<span class="quiz">水島コンビナート</span>は、埋立地に製鉄・石油精製・石油化学が集積する西日本有数の工業地帯{{% ref "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%B3%B6%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8A%E3%83%BC%E3%83%88" "水島コンビナート" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "水島・臨海コンビナート" %}}
-{{% /tab %}}
-{{% tab "備前焼" %}}
-{{% notice tip %}}
-<span class="quiz">備前市</span>伊部は日本六古窯のひとつ備前焼の産地で、釉薬を使わない焼き締めの陶器と窯元の煙突が特徴{{% ref "https://ja.wikipedia.org/wiki/%E5%82%99%E5%89%8D%E7%84%BC" "備前焼" %}}。
-{{% /notice %}}
-
-{{% photo-placeholder "備前・窯元と煙突" %}}
+<div class="googlemap-if no-margin">
+<img src="mizushima.jpg" width="680" alt="Okayama GeoGuessr guide image showing the Mizushima industrial complex">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 
