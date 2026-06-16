@@ -172,20 +172,29 @@ municipalities:
     <ul class="rule-list">
         <li>国境に近づくほど急な山が増えるが、南部もゆるやかな起伏は多い
             <ul>
-                <li>北{{% ex "https://maps.app.goo.gl/9ovmtmfmeCZdx5w38" "https://maps.app.goo.gl/Tj5aT48RrP6TGevv9" %}}</li>
+                <li>北{{% ex "https://maps.app.goo.gl/ic7iA326NZrESsV59" "https://maps.app.goo.gl/9ovmtmfmeCZdx5w38" "https://maps.app.goo.gl/Tj5aT48RrP6TGevv9" %}}</li>
                 <li>南{{% ex "https://maps.app.goo.gl/kiVJzPzyHAF5odbu5" "https://maps.app.goo.gl/seE4rNyTEWKqbv197" "https://maps.app.goo.gl/qZrw9iJ4fjVxBe7b9" %}}</li>
             </ul>
         </li>
+        <li>積乱雲がたまった山が見えるのは北部の兆候</li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "標高" %}}
 {{% notice tip %}}
-ロシアとの国境に近づくほど山は急峻になっていく
+ロシアとの国境にはコーカサス山脈が広がっており、近づくほど山は急峻になっていく。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="1280px-Caucasus_breakaway_regions_2008.svg.png" width="500px" >
+</div>
+{{% /tab %}}
+{{% tab "コーカサス山脈" %}}
+{{% notice tip %}}
+頂上は雲がかかるくらい高い{{% ex "https://maps.app.goo.gl/5ewZDW1YMiNfaPQg8" "https://maps.app.goo.gl/xsJXNm7BUgYn7P1W8" "https://maps.app.goo.gl/ibCUCpb3yoa3bVqT7" %}}。大コーカサス山脈で上空に大気が押し上げられ積乱雲の列が発生し雨が降る。そのため、山脈に近づくほど降水量が多く緑が多い景色になる{{% ex "https://maps.app.goo.gl/kDYfwqFveEeCbFyv6" "https://maps.app.goo.gl/AcFhCDvK8rK3hL4K7" %}}と予想される。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="Svaneti,_georgia.jpg" width="90%" >
 </div>
 {{% /tab %}}
 {{% /tabs %}}
