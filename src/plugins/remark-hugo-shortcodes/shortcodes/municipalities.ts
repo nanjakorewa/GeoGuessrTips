@@ -289,7 +289,7 @@ ${lis}
       )}<span class="pref-muni-cta__arrow" aria-hidden="true">→</span></a>`
     : "";
 
-  return `<section class="pref-muni-section" id="pref-muni">
+  const html = `<section class="pref-muni-section" id="pref-muni">
     <div class="pref-muni-section__header">
       <h4 class="pref-muni-section__title">${esc(sectionTitle)} <span class="pref-muni-section__total">(${total})</span></h4>
       ${ctaHtml}
@@ -304,4 +304,13 @@ ${groupHtml.join("\n")}
     </div>
 ${hoverScript}
 </section>`;
+
+  // This HTML is appended into the Markdown body and re-parsed. Per
+  // CommonMark, a blank (or whitespace-only) line terminates the
+  // surrounding raw-HTML block, and the indented lines that follow then
+  // become an indented code block. Pages without a quiz CTA leave
+  // `${ctaHtml}` empty — yielding exactly such a whitespace-only line and
+  // leaking `<div class="pref-muni-layout">…` as a visible code block.
+  // Strip all blank lines so the section stays a single HTML block.
+  return html.replace(/^[ \t]*\r?\n/gm, "");
 }

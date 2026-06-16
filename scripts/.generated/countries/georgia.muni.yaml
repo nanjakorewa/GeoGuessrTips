@@ -1,0 +1,93 @@
+municipalities:
+  svg: "/maps/countries/georgia.svg"
+  title:
+    ja: "ジョージアの行政区分"
+    en: "Regions of Georgia"
+  list:
+    - code: "GE-TB"
+      name: "トビリシ"
+      type: "region"
+      note: "首都・最大都市"
+      nameI18n:
+        en: "Tbilisi"
+        es: "Tiflis"
+      noteI18n:
+        en: "Capital and largest city"
+        es: "Capital y ciudad más grande"
+        id: "Ibu kota dan kota terbesar"
+    - code: "GE-AB"
+      name: "アブハジア"
+      type: "region"
+      note: "自治共和国"
+      nameI18n:
+        en: "Abkhazia"
+        es: "Abjasia"
+      noteI18n:
+        en: "Autonomous republic"
+        es: "República autónoma"
+        id: "Republik otonom"
+    - code: "GE-AJ"
+      name: "アジャリア"
+      type: "region"
+      note: "自治共和国・黒海沿岸"
+      nameI18n:
+        en: "Adjara"
+        es: "Ayaria"
+      noteI18n:
+        en: "Autonomous republic on the Black Sea"
+        es: "República autónoma en el mar Negro"
+        id: "Republik otonom di Laut Hitam"
+    - code: "GE-GU"
+      name: "グリア"
+      type: "region"
+      nameI18n:
+        en: "Guria"
+        es: "Guria"
+    - code: "GE-IM"
+      name: "イメレティ"
+      type: "region"
+      nameI18n:
+        en: "Imereti"
+        es: "Imereti"
+    - code: "GE-KA"
+      name: "カヘティ"
+      type: "region"
+      nameI18n:
+        en: "Kakheti"
+        es: "Kajetia"
+    - code: "GE-KK"
+      name: "クヴェモ・カルトリ"
+      type: "region"
+      nameI18n:
+        en: "Kvemo Kartli"
+        es: "Kvemo Kartli"
+    - code: "GE-MM"
+      name: "ムツヘタ＝ムティアネティ"
+      type: "region"
+      nameI18n:
+        en: "Mtskheta-Mtianeti"
+        es: "Mtsjeta-Mtianeti"
+    - code: "GE-RL"
+      name: "ラチャ＝レチフミおよびクヴェモ・スヴァネティ"
+      type: "region"
+      nameI18n:
+        en: "Racha-Lechkhumi and Kvemo Svaneti"
+        es: "Racha-Lechjumi y Kvemo Svaneti"
+    - code: "GE-SJ"
+      name: "サムツヘ＝ジャヴァヘティ"
+      type: "region"
+      nameI18n:
+        en: "Samtskhe-Javakheti"
+        es: "Samtsje-Yavajeti"
+    - code: "GE-SK"
+      name: "シダ・カルトリ"
+      type: "region"
+      nameI18n:
+        en: "Shida Kartli"
+        es: "Shida Kartli"
+    - code: "GE-SZ"
+      name: "サメグレロ＝ゼモ・スヴァネティ"
+      type: "region"
+      nameI18n:
+        en: "Samegrelo-Zemo Svaneti"
+        es: "Samegrelo-Zemo Svaneti"

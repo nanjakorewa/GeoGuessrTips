@@ -2,7 +2,7 @@
 title: "ジョージア"
 date: 2023-02-26
 lastmod: 2023-07-01
-weight: 2000
+weight: 1
 draft: false
 keywords: [""]
 sections: [""]
@@ -26,6 +26,99 @@ mapPins:
   - { lat: 41.840, lng: 44.717, label: "ムツヘタ", type: "historical", note: "世界遺産・ジョージア最古の都" }
   - { lat: 42.708, lng: 44.660, label: "カズベキ山", type: "nature", note: "コーカサスの名峰（標高5,047m）" }
   - { lat: 42.500, lng: 43.000, label: "コーカサス山脈", type: "nature", note: "国土北部を走る大山脈" }
+municipalities:
+  svg: "/maps/countries/georgia.svg"
+  title:
+    ja: "ジョージアの行政区分"
+    en: "Regions of Georgia"
+  list:
+    - code: "GE-TB"
+      name: "トビリシ"
+      type: "region"
+      note: "首都・最大都市"
+      nameI18n:
+        en: "Tbilisi"
+        es: "Tiflis"
+      noteI18n:
+        en: "Capital and largest city"
+        es: "Capital y ciudad más grande"
+        id: "Ibu kota dan kota terbesar"
+    - code: "GE-AB"
+      name: "アブハジア"
+      type: "region"
+      note: "自治共和国"
+      nameI18n:
+        en: "Abkhazia"
+        es: "Abjasia"
+      noteI18n:
+        en: "Autonomous republic"
+        es: "República autónoma"
+        id: "Republik otonom"
+    - code: "GE-AJ"
+      name: "アジャリア"
+      type: "region"
+      note: "自治共和国・黒海沿岸"
+      nameI18n:
+        en: "Adjara"
+        es: "Ayaria"
+      noteI18n:
+        en: "Autonomous republic on the Black Sea"
+        es: "República autónoma en el mar Negro"
+        id: "Republik otonom di Laut Hitam"
+    - code: "GE-GU"
+      name: "グリア"
+      type: "region"
+      nameI18n:
+        en: "Guria"
+        es: "Guria"
+    - code: "GE-IM"
+      name: "イメレティ"
+      type: "region"
+      nameI18n:
+        en: "Imereti"
+        es: "Imereti"
+    - code: "GE-KA"
+      name: "カヘティ"
+      type: "region"
+      nameI18n:
+        en: "Kakheti"
+        es: "Kajetia"
+    - code: "GE-KK"
+      name: "クヴェモ・カルトリ"
+      type: "region"
+      nameI18n:
+        en: "Kvemo Kartli"
+        es: "Kvemo Kartli"
+    - code: "GE-MM"
+      name: "ムツヘタ＝ムティアネティ"
+      type: "region"
+      nameI18n:
+        en: "Mtskheta-Mtianeti"
+        es: "Mtsjeta-Mtianeti"
+    - code: "GE-RL"
+      name: "ラチャ＝レチフミおよびクヴェモ・スヴァネティ"
+      type: "region"
+      nameI18n:
+        en: "Racha-Lechkhumi and Kvemo Svaneti"
+        es: "Racha-Lechjumi y Kvemo Svaneti"
+    - code: "GE-SJ"
+      name: "サムツヘ＝ジャヴァヘティ"
+      type: "region"
+      nameI18n:
+        en: "Samtskhe-Javakheti"
+        es: "Samtsje-Yavajeti"
+    - code: "GE-SK"
+      name: "シダ・カルトリ"
+      type: "region"
+      nameI18n:
+        en: "Shida Kartli"
+        es: "Shida Kartli"
+    - code: "GE-SZ"
+      name: "サメグレロ＝ゼモ・スヴァネティ"
+      type: "region"
+      nameI18n:
+        en: "Samegrelo-Zemo Svaneti"
+        es: "Samegrelo-Zemo Svaneti"
 ---
 
 <div class="main-desciption country-description">
@@ -40,7 +133,7 @@ mapPins:
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ジョージア語（ქართული ენა）が使用されている{{% ex "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}。
+ジョージア語（ქართული ენა）が使用されている{{% ex "https://maps.app.goo.gl/vuUXnNCGNytX3bp69" "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -53,13 +146,21 @@ mapPins:
 </div>
 
 {{% notice tip %}}
-白に赤い反射板のボラード{{% ex "https://maps.app.goo.gl/ZE6HFowAg4mo3Q1y5" "https://maps.app.goo.gl/RwAKEi3nGH5vVQGP9" %}}。
+白に赤い反射板のボラード{{% ex "https://maps.app.goo.gl/YRfsSn2gY8M2mMeb6" "https://maps.app.goo.gl/7s7ySXEWDCPMHRfd8" "https://maps.app.goo.gl/TvFCdejgvqeqrcBw5" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:2024-05-04_Descent_from_Sveri_into_Sadzalikhevi_valley.jpg#/media/File:2024-05-04_Descent_from_Sveri_into_Sadzalikhevi_valley.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/2024-05-04_Descent_from_Sveri_into_Sadzalikhevi_valley.jpg" alt="Wikimedia Commons photo showing 2024 05 04 Descent From Sveri Into Sadzalikhevi Valley" height="720" width="986"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Yuri_Samoylov&amp;action=edit&amp;redlink=1" class="new" title="User:Yuri Samoylov (page does not exist)">Yuri Samoylov</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=148358453">Link</a></p>
 </div>
 
+
+{{% notice tip %}}
+ワイン発祥の地でもあるジョージアでは、家の前にパーゴラ（ブドウを這わせるための鉄骨や木製の棚）があることが多い{{% ex "https://maps.app.goo.gl/knVcqiBpebN43zEc7" "https://maps.app.goo.gl/jv3meqsTxy8eTzNH7" "https://maps.app.goo.gl/qsUQGK5ayhxU1ZkD8" "https://maps.app.goo.gl/ZoPGqQkFWdGzaT9Z9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./pergola_rustic_pergola_garden.jpg" width="60%" alt="パーゴラの画像">
+</div>
 
 
 {{% /tab %}}
