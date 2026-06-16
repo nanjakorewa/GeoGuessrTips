@@ -165,3 +165,27 @@ municipalities:
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>国境に近づくほど急な山が増えるが、南部もゆるやかな起伏は多い
+            <ul>
+                <li>北{{% ex "https://maps.app.goo.gl/9ovmtmfmeCZdx5w38" "https://maps.app.goo.gl/Tj5aT48RrP6TGevv9" %}}</li>
+                <li>南{{% ex "https://maps.app.goo.gl/kiVJzPzyHAF5odbu5" "https://maps.app.goo.gl/seE4rNyTEWKqbv197" "https://maps.app.goo.gl/qZrw9iJ4fjVxBe7b9" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "標高" %}}
+{{% notice tip %}}
+ロシアとの国境に近づくほど山は急峻になっていく
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="1280px-Caucasus_breakaway_regions_2008.svg.png" width="500px" >
+</div>
+{{% /tab %}}
+{{% /tabs %}}
