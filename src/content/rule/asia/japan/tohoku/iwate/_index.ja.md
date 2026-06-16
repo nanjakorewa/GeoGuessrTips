@@ -126,14 +126,19 @@ MAIYAは岩手にしかない{{% ref "https://www.maiya.co.jp/" "MAIYA" %}}。20
 {{% tabs %}}
 {{% tab "釜石" %}}
 {{% notice tip %}}
-<span class="quiz">釜石市</span>は近代製鉄発祥の地で、橋野鉄鉱山は「明治日本の産業革命遺産」の世界遺産。三陸沿岸の製鉄所とラグビーの街{{% ex "https://maps.app.goo.gl/7Mu6myA9u1Tfi2Yz6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E9%87%9C%E7%9F%B3%E5%B8%82" "釜石市" %}}。
+<span class="quiz">釜石市</span>は近代製鉄発祥の地で、橋野鉄鉱山は「明治日本の産業革命遺産」の世界遺産{{% ref "https://ja.wikipedia.org/wiki/%E9%87%9C%E7%9F%B3%E5%B8%82" "釜石市" %}}。製鉄について現在は鉄鉱石から鉄を取り出す「高炉」や、炭素量を調整して鋼にする「転炉」といった上流工程は釜石で行っておらず、特殊鋼線材の圧延・製造を中心に取り扱っている{{% ex "https://maps.app.goo.gl/7vNSLc7c7K24mybq7" "https://maps.app.goo.gl/YnkVGHMyK5wEyqTk7" "https://maps.app.goo.gl/19V6SC6X3HsxDeB88" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "釜石・製鉄所と港" %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Kamaishi_seitetsu_20130601.JPG#/media/File:Kamaishi_seitetsu_20130601.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Kamaishi_seitetsu_20130601.JPG" alt="Kamaishi seitetsu 20130601.JPG" height="960" width="1280"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Opqr" title="User:Opqr">Opqr</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=35808954">Link</a></p>
+</div>
+
 {{% /tab %}}
 {{% tab "三陸" %}}
 {{% notice tip %}}
-宮古・釜石・大船渡など<span class="quiz">三陸海岸</span>は、入り組んだリアス海岸と漁港・防潮堤が連なる{{% ref "https://ja.wikipedia.org/wiki/%E4%B8%89%E9%99%B8%E6%B5%B7%E5%B2%B8" "三陸海岸" %}}。
+宮古・釜石・大船渡など<span class="quiz">三陸海岸</span>は、入り組んだリアス海岸と漁港が連なる{{% ref "https://ja.wikipedia.org/wiki/%E4%B8%89%E9%99%B8%E6%B5%B7%E5%B2%B8" "三陸海岸" %}}。津波を防ぐための大規模な堤防が見つかる{{% ex "https://maps.app.goo.gl/EXQJmrsevUxEsQ7K6" "https://maps.app.goo.gl/URuJYDXboHvW2r9i7" "https://maps.app.goo.gl/G8yaxzeVNhiE2cCk6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
