@@ -127,6 +127,7 @@ El oeste parece ser sobre todo de junio a agosto, y del centro (Gori (გორ�
         <li>El pueblo de Ushguli conserva un casco histórico salpicado de edificios parecidos a torres de defensa</li>
         <li>Batumi destaca por sus edificios de gran escala</li>
         <li>Chiatura es una ciudad rodeada de acantilados, surcada por una red de teleféricos (funiculares) similar a una telaraña</li>
+        <li>Stepantsminda está cerca del final de la Carretera Militar Georgiana, por lo que abundan los camiones grandes</li>
     </ul>
 </div>
 

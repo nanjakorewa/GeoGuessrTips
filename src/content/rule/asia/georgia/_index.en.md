@@ -127,6 +127,7 @@ The west feels like it's mostly June–August, while the center (Gori (გორ
         <li>The village of Ushguli has a historic townscape dotted with defensive-tower-like buildings</li>
         <li>Batumi stands out for its large-scale buildings</li>
         <li>Chiatura is a town surrounded by cliffs, criss-crossed by a web-like network of ropeways (cable cars)</li>
+        <li>Stepantsminda is near the end of the Georgian Military Road, so large trucks are common</li>
     </ul>
 </div>
 
@@ -154,6 +155,15 @@ A town hemmed in by steep cliffs. To get around the rugged terrain, a spider-web
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg#/media/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Town_of_Chiatura._seen_from_upper_cable_car_station.jpg" alt="Town of Chiatura. seen from upper cable car station.jpg" height="1707" width="1280"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Lorenz King, Giessen university.de</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=116458506">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Stepantsminda" %}}
+{{% notice tip %}}
+On the Georgian Military Road you can see trailers traveling between Armenia and Russia{{% ex "https://maps.app.goo.gl/XN2qw4fSibVLu26h8" "https://maps.app.goo.gl/Q3VVy2A4z4Y8ywi87" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="/rule/asia/georgia/landslide_in_dariali_gorge_0.jpg" width="100%" >
 </div>
 {{% /tab %}}
 {{% /tabs %}}
