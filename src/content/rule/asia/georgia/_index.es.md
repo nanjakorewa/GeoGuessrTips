@@ -31,9 +31,9 @@ features:
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>No hay Street View oficial, por lo que aún no aparece en GeoGuessr.</li>
         <li>El dominio del país es <span class="quiz">.ge</span>.</li>
         <li>El idioma oficial es el georgiano (ქართული ენა){{% ex "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}.</li>
+        <li>Es habitual ver pérgolas en los jardines y patios.</li>
     </ul>
 </div>
 
@@ -54,7 +54,7 @@ Los letreros y comercios utilizan el alfabeto georgiano (ქართული �
 </div>
 
 {{% notice tip %}}
-También son habituales los bolardos con chevrones blancos y rojos{{% ex "https://maps.app.goo.gl/ZE6HFowAg4mo3Q1y5" "https://maps.app.goo.gl/RwAKEi3nGH5vVQGP9" %}}.
+Bolardos blancos con un reflector rojo{{% ex "https://maps.app.goo.gl/YRfsSn2gY8M2mMeb6" "https://maps.app.goo.gl/7s7ySXEWDCPMHRfd8" "https://maps.app.goo.gl/TvFCdejgvqeqrcBw5" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -63,5 +63,49 @@ También son habituales los bolardos con chevrones blancos y rojos{{% ex "https:
 
 
 
+{{% notice tip %}}
+Como una de las cunas del vino, en Georgia es habitual ver una pérgola (una estructura de metal o madera para guiar las vides) delante de las casas{{% ex "https://maps.app.goo.gl/knVcqiBpebN43zEc7" "https://maps.app.goo.gl/jv3meqsTxy8eTzNH7" "https://maps.app.goo.gl/qsUQGK5ayhxU1ZkD8" "https://maps.app.goo.gl/ZoPGqQkFWdGzaT9Z9" %}}.
+<br />
+<span style="font-size:0.6em;color:#bbb">* Por respeto a la libertad de panorama en Georgia, esta foto usa una pérgola de un país distinto de Georgia. Consulta Street View para ver el ejemplo real.</span>
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="/rule/asia/georgia/pergola_rustic_pergola_garden.jpg" width="60%" alt="Imagen de una pérgola">
+</div>
+
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>Cuanto más cerca de la frontera, más montañas escarpadas hay, aunque el sur también tiene muchas ondulaciones suaves
+            <ul>
+                <li>Norte{{% ex "https://maps.app.goo.gl/ic7iA326NZrESsV59" "https://maps.app.goo.gl/9ovmtmfmeCZdx5w38" "https://maps.app.goo.gl/Tj5aT48RrP6TGevv9" %}}</li>
+                <li>Sur{{% ex "https://maps.app.goo.gl/kiVJzPzyHAF5odbu5" "https://maps.app.goo.gl/seE4rNyTEWKqbv197" "https://maps.app.goo.gl/qZrw9iJ4fjVxBe7b9" %}}</li>
+            </ul>
+        </li>
+        <li>Las montañas coronadas por cumulonimbos y las carreteras de hormigón son señales del norte</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Altitud" %}}
+{{% notice tip %}}
+La cordillera del Cáucaso se extiende a lo largo de la frontera con Rusia, y cuanto más te acercas, más escarpadas se vuelven las montañas.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="/rule/asia/georgia/1280px-Caucasus_breakaway_regions_2008.svg.png" width="500px" >
+</div>
+{{% /tab %}}
+{{% tab "Cordillera del Cáucaso" %}}
+{{% notice tip %}}
+Las cumbres son tan altas que suelen estar cubiertas de nubes{{% ex "https://maps.app.goo.gl/6vbbWGXiLPzBDMvaA" "https://maps.app.goo.gl/5ewZDW1YMiNfaPQg8" "https://maps.app.goo.gl/xsJXNm7BUgYn7P1W8" "https://maps.app.goo.gl/ibCUCpb3yoa3bVqT7" %}}. En el Gran Cáucaso el aire es empujado hacia arriba y forma hileras de cumulonimbos que provocan lluvia. Por eso, cuanto más te acercas a la cordillera, mayor es la precipitación y más verde es el paisaje{{% ex "https://maps.app.goo.gl/kDYfwqFveEeCbFyv6" "https://maps.app.goo.gl/AcFhCDvK8rK3hL4K7" %}}. Además, en las zonas de gran altitud es difícil pavimentar con asfalto (el agua que se cuela en las grietas del asfalto se congela, se expande y lo agrieta), por lo que abundan las carreteras de hormigón{{% ex "https://maps.app.goo.gl/WHHTTvKKYTwLFRQ19" "https://maps.app.goo.gl/Wbzo8TvwjiEEhccY8" "https://maps.app.goo.gl/MKC2q7wvpZnp6Y8y6" %}}.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="/rule/asia/georgia/Svaneti,_georgia.jpg" width="100%" >
+</div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -31,9 +31,9 @@ features:
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>No official Street View coverage, so it does not appear in GeoGuessr.</li>
         <li>The country domain is <span class="quiz">.ge</span>.</li>
         <li>Georgian (ქართული ენა) is the official language{{% ex "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}.</li>
+        <li>Pergolas can be seen in gardens and yards.</li>
     </ul>
 </div>
 
@@ -54,7 +54,7 @@ Signage and storefronts use the Georgian script (ქართული ენა
 </div>
 
 {{% notice tip %}}
-Look for white-and-red chevron bollards{{% ex "https://maps.app.goo.gl/ZE6HFowAg4mo3Q1y5" "https://maps.app.goo.gl/RwAKEi3nGH5vVQGP9" %}}.
+White bollards with a red reflector{{% ex "https://maps.app.goo.gl/YRfsSn2gY8M2mMeb6" "https://maps.app.goo.gl/7s7ySXEWDCPMHRfd8" "https://maps.app.goo.gl/TvFCdejgvqeqrcBw5" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -63,5 +63,49 @@ Look for white-and-red chevron bollards{{% ex "https://maps.app.goo.gl/ZE6HFowAg
 
 
 
+{{% notice tip %}}
+As one of the birthplaces of wine, Georgian homes often have a pergola (a metal or wooden trellis for training grapevines) in front of the house{{% ex "https://maps.app.goo.gl/knVcqiBpebN43zEc7" "https://maps.app.goo.gl/jv3meqsTxy8eTzNH7" "https://maps.app.goo.gl/qsUQGK5ayhxU1ZkD8" "https://maps.app.goo.gl/ZoPGqQkFWdGzaT9Z9" %}}.
+<br />
+<span style="font-size:0.6em;color:#bbb">* Out of consideration for freedom of panorama in Georgia, this photo uses a pergola from a country other than Georgia. Please check Street View for the real thing.</span>
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="/rule/asia/georgia/pergola_rustic_pergola_garden.jpg" width="60%" alt="Pergola image">
+</div>
+
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>The closer to the border, the more steep mountains there are, but the south also has plenty of gentle undulations
+            <ul>
+                <li>North{{% ex "https://maps.app.goo.gl/ic7iA326NZrESsV59" "https://maps.app.goo.gl/9ovmtmfmeCZdx5w38" "https://maps.app.goo.gl/Tj5aT48RrP6TGevv9" %}}</li>
+                <li>South{{% ex "https://maps.app.goo.gl/kiVJzPzyHAF5odbu5" "https://maps.app.goo.gl/seE4rNyTEWKqbv197" "https://maps.app.goo.gl/qZrw9iJ4fjVxBe7b9" %}}</li>
+            </ul>
+        </li>
+        <li>Mountains capped with cumulonimbus clouds and concrete roads are signs of the north</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Elevation" %}}
+{{% notice tip %}}
+The Caucasus Mountains stretch along the border with Russia, and the closer you get, the steeper the mountains become.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="/rule/asia/georgia/1280px-Caucasus_breakaway_regions_2008.svg.png" width="500px" >
+</div>
+{{% /tab %}}
+{{% tab "Caucasus Mountains" %}}
+{{% notice tip %}}
+The peaks are so high that they are often shrouded in clouds{{% ex "https://maps.app.goo.gl/6vbbWGXiLPzBDMvaA" "https://maps.app.goo.gl/5ewZDW1YMiNfaPQg8" "https://maps.app.goo.gl/xsJXNm7BUgYn7P1W8" "https://maps.app.goo.gl/ibCUCpb3yoa3bVqT7" %}}. Along the Greater Caucasus, air is pushed upward and forms lines of cumulonimbus clouds that bring rain. As a result, the closer you get to the range, the more rainfall and greenery you can expect to see{{% ex "https://maps.app.goo.gl/kDYfwqFveEeCbFyv6" "https://maps.app.goo.gl/AcFhCDvK8rK3hL4K7" %}}. In addition, at high elevations asphalt paving is difficult (water that seeps into gaps in the asphalt freezes, expands, and cracks it), so concrete-paved roads become more common{{% ex "https://maps.app.goo.gl/WHHTTvKKYTwLFRQ19" "https://maps.app.goo.gl/Wbzo8TvwjiEEhccY8" "https://maps.app.goo.gl/MKC2q7wvpZnp6Y8y6" %}}.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="/rule/asia/georgia/Svaneti,_georgia.jpg" width="100%" >
+</div>
 {{% /tab %}}
 {{% /tabs %}}

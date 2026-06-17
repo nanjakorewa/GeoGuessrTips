@@ -157,6 +157,8 @@ municipalities:
 
 {{% notice tip %}}
 ワイン発祥の地でもあるジョージアでは、家の前にパーゴラ（ブドウを這わせるための鉄骨や木製の棚）があることが多い{{% ex "https://maps.app.goo.gl/knVcqiBpebN43zEc7" "https://maps.app.goo.gl/jv3meqsTxy8eTzNH7" "https://maps.app.goo.gl/qsUQGK5ayhxU1ZkD8" "https://maps.app.goo.gl/ZoPGqQkFWdGzaT9Z9" %}}。
+<br />
+<span style="font-size:0.6em;color:#bbb">※ジョージアでの風景の自由の扱いを考慮しこの写真はジョージア出ない国のパーゴラを使用しています。実物はストリートビューを確認してください。</span>
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">

@@ -31,9 +31,9 @@ features:
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Tidak memiliki Street View resmi sehingga belum muncul di GeoGuessr.</li>
         <li>Domain negara adalah <span class="quiz">.ge</span>.</li>
         <li>Bahasa resmi yang digunakan ialah Georgia (ქართული ენა){{% ex "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}.</li>
+        <li>Pergola sering terlihat di taman atau halaman rumah.</li>
     </ul>
 </div>
 
@@ -54,7 +54,7 @@ Papan nama dan toko memakai aksara Georgia (ქართული ენა){{% 
 </div>
 
 {{% notice tip %}}
-Bolard chevron putih-merah merupakan penanda yang sering terlihat{{% ex "https://maps.app.goo.gl/ZE6HFowAg4mo3Q1y5" "https://maps.app.goo.gl/RwAKEi3nGH5vVQGP9" %}}.
+Bolard putih dengan reflektor merah{{% ex "https://maps.app.goo.gl/YRfsSn2gY8M2mMeb6" "https://maps.app.goo.gl/7s7ySXEWDCPMHRfd8" "https://maps.app.goo.gl/TvFCdejgvqeqrcBw5" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -63,5 +63,49 @@ Bolard chevron putih-merah merupakan penanda yang sering terlihat{{% ex "https:/
 
 
 
+{{% notice tip %}}
+Sebagai salah satu tempat asal anggur, di Georgia sering terlihat pergola (rangka besi atau kayu untuk merambatkan tanaman anggur) di depan rumah{{% ex "https://maps.app.goo.gl/knVcqiBpebN43zEc7" "https://maps.app.goo.gl/jv3meqsTxy8eTzNH7" "https://maps.app.goo.gl/qsUQGK5ayhxU1ZkD8" "https://maps.app.goo.gl/ZoPGqQkFWdGzaT9Z9" %}}.
+<br />
+<span style="font-size:0.6em;color:#bbb">* Dengan mempertimbangkan kebebasan panorama di Georgia, foto ini menggunakan pergola dari negara selain Georgia. Silakan periksa Street View untuk melihat contoh aslinya.</span>
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="/rule/asia/georgia/pergola_rustic_pergola_garden.jpg" width="60%" alt="Gambar pergola">
+</div>
+
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>Semakin dekat ke perbatasan, semakin banyak gunung curam, tetapi bagian selatan juga memiliki banyak perbukitan landai
+            <ul>
+                <li>Utara{{% ex "https://maps.app.goo.gl/ic7iA326NZrESsV59" "https://maps.app.goo.gl/9ovmtmfmeCZdx5w38" "https://maps.app.goo.gl/Tj5aT48RrP6TGevv9" %}}</li>
+                <li>Selatan{{% ex "https://maps.app.goo.gl/kiVJzPzyHAF5odbu5" "https://maps.app.goo.gl/seE4rNyTEWKqbv197" "https://maps.app.goo.gl/qZrw9iJ4fjVxBe7b9" %}}</li>
+            </ul>
+        </li>
+        <li>Gunung yang tertutup awan kumulonimbus dan jalan beton adalah tanda wilayah utara</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Ketinggian" %}}
+{{% notice tip %}}
+Pegunungan Kaukasus membentang di sepanjang perbatasan dengan Rusia, dan semakin dekat, semakin curam pegunungannya.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="/rule/asia/georgia/1280px-Caucasus_breakaway_regions_2008.svg.png" width="500px" >
+</div>
+{{% /tab %}}
+{{% tab "Pegunungan Kaukasus" %}}
+{{% notice tip %}}
+Puncak-puncaknya begitu tinggi hingga sering tertutup awan{{% ex "https://maps.app.goo.gl/6vbbWGXiLPzBDMvaA" "https://maps.app.goo.gl/5ewZDW1YMiNfaPQg8" "https://maps.app.goo.gl/xsJXNm7BUgYn7P1W8" "https://maps.app.goo.gl/ibCUCpb3yoa3bVqT7" %}}. Di Pegunungan Kaukasus Besar, udara terdorong ke atas dan membentuk barisan awan kumulonimbus yang menurunkan hujan. Karena itu, semakin dekat ke pegunungan, semakin banyak curah hujan dan pemandangan menjadi lebih hijau{{% ex "https://maps.app.goo.gl/kDYfwqFveEeCbFyv6" "https://maps.app.goo.gl/AcFhCDvK8rK3hL4K7" %}}. Selain itu, di daerah berketinggian tinggi sulit mengaspal jalan (air yang masuk ke celah aspal membeku, memuai, lalu menyebabkan retak), sehingga jalan berbeton lebih umum dijumpai{{% ex "https://maps.app.goo.gl/WHHTTvKKYTwLFRQ19" "https://maps.app.goo.gl/Wbzo8TvwjiEEhccY8" "https://maps.app.goo.gl/MKC2q7wvpZnp6Y8y6" %}}.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="/rule/asia/georgia/Svaneti,_georgia.jpg" width="100%" >
+</div>
 {{% /tab %}}
 {{% /tabs %}}
