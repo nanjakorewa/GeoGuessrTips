@@ -134,7 +134,7 @@ municipalities:
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ジョージア語（ქართული ენა）が使用されている{{% ex "https://maps.app.goo.gl/vuUXnNCGNytX3bp69" "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}。道端に白黒のブロックもよく見かける{{% ex "https://maps.app.goo.gl/5evPNTPgoDdVDGSm9" %}}。
+ジョージア語（ქართული ენა）が使用されている{{% ex "https://maps.app.goo.gl/vuUXnNCGNytX3bp69" "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}。道端に白黒のブロックもよく見かける{{% ex "https://maps.app.goo.gl/SKku3HTxVVeW9qf58" "https://maps.app.goo.gl/5evPNTPgoDdVDGSm9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
