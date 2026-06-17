@@ -33,7 +33,7 @@ features:
     <ul class="rule-list">
         <li>No hay Street View oficial, por lo que aún no aparece en GeoGuessr.</li>
         <li>El dominio del país es <span class="quiz">.ge</span>.</li>
-        <li>El idioma oficial es el georgiano (ქართული ენა).</li>
+        <li>El idioma oficial es el georgiano (ქართული ენა){{% ex "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}.</li>
     </ul>
 </div>
 
@@ -41,7 +41,7 @@ features:
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Los letreros y comercios utilizan el alfabeto georgiano (ქართული ენა).
+Los letreros y comercios utilizan el alfabeto georgiano (ქართული ენა){{% ex "https://maps.app.goo.gl/vuUXnNCGNytX3bp69" "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">

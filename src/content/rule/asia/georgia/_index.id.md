@@ -33,7 +33,7 @@ features:
     <ul class="rule-list">
         <li>Tidak memiliki Street View resmi sehingga belum muncul di GeoGuessr.</li>
         <li>Domain negara adalah <span class="quiz">.ge</span>.</li>
-        <li>Bahasa resmi yang digunakan ialah Georgia (ქართული ენა).</li>
+        <li>Bahasa resmi yang digunakan ialah Georgia (ქართული ენა){{% ex "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}.</li>
     </ul>
 </div>
 
@@ -41,7 +41,7 @@ features:
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Papan nama dan toko memakai aksara Georgia (ქართული ენა).
+Papan nama dan toko memakai aksara Georgia (ქართული ენა){{% ex "https://maps.app.goo.gl/vuUXnNCGNytX3bp69" "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
