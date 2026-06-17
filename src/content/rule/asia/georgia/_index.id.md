@@ -127,6 +127,7 @@ Bagian barat terasa kebanyakan Juni–Agustus, dan dari tengah (Gori (გორ�
         <li>Desa Ushguli memiliki kawasan bersejarah dengan bangunan menyerupai menara pertahanan</li>
         <li>Batumi menonjol dengan bangunan-bangunan berskala besar</li>
         <li>Chiatura adalah kota yang dikelilingi tebing, dengan jaringan kereta gantung (cable car) yang membentang seperti jaring laba-laba</li>
+        <li>Stepantsminda terletak dekat ujung Jalan Militer Georgia, sehingga banyak truk besar</li>
     </ul>
 </div>
 
@@ -154,6 +155,15 @@ Kota yang terapit tebing-tebing curam. Untuk bergerak di medan yang terjal, pada
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg#/media/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Town_of_Chiatura._seen_from_upper_cable_car_station.jpg" alt="Town of Chiatura. seen from upper cable car station.jpg" height="1707" width="1280"></a><br>Oleh <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Lorenz King, Giessen university.de</a> - karya sendiri, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=116458506">tautan</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Stepantsminda" %}}
+{{% notice tip %}}
+Di Jalan Militer Georgia terlihat trailer yang lalu-lalang antara Armenia dan Rusia{{% ex "https://maps.app.goo.gl/XN2qw4fSibVLu26h8" "https://maps.app.goo.gl/Q3VVy2A4z4Y8ywi87" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="/rule/asia/georgia/landslide_in_dariali_gorge_0.jpg" width="100%" >
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -157,4 +157,13 @@ Una ciudad encajonada entre acantilados escarpados. Para desplazarse por el abru
 <p><a href="https://commons.wikimedia.org/wiki/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg#/media/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Town_of_Chiatura._seen_from_upper_cable_car_station.jpg" alt="Town of Chiatura. seen from upper cable car station.jpg" height="1707" width="1280"></a><br>Por <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Lorenz King, Giessen university.de</a> - obra propia, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=116458506">enlace</a></p>
 </div>
 {{% /tab %}}
+{{% tab "Stepantsminda" %}}
+{{% notice tip %}}
+En la Carretera Militar Georgiana se ven tráileres que circulan entre Armenia y Rusia{{% ex "https://maps.app.goo.gl/XN2qw4fSibVLu26h8" "https://maps.app.goo.gl/Q3VVy2A4z4Y8ywi87" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="/rule/asia/georgia/landslide_in_dariali_gorge_0.jpg" width="100%" >
+</div>
+{{% /tab %}}
 {{% /tabs %}}
