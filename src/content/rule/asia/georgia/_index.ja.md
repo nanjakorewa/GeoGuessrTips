@@ -217,6 +217,7 @@ municipalities:
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>Ushguli村は歴史ある街並みで側防塔のような建物が立っている</li>
+        <li>Batumiは大規模な建築物が目立つ</li>
     </ul>
 </div>
 
@@ -227,6 +228,15 @@ municipalities:
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="chazhashi_01.jpg" width="90%" >
+</div>
+{{% /tab %}}
+{{% tab "Batumi" %}}
+{{% notice tip %}}
+あたらしいカジノ・レジャー施設・ホテルがある{{% ex "https://maps.app.goo.gl/PLJnXRU5K6nDDbyN6" "https://maps.app.goo.gl/JWHcPYJEHrqRM4fTA" %}}。観光と貿易中継地点の拠点として大規模な投資が行われており、他の都市とは雰囲気が異なる。カジノが合法化されており、高級ホテルにはカジノが併設されていることが多い{{% ex "https://maps.app.goo.gl/SPkoKtUNQHuyGMRN9" "https://maps.app.goo.gl/ebvf2vJJeUjGHkadA" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:20241123_Batumi_1.jpg#/media/File:20241123_Batumi_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/20241123_Batumi_1.jpg" alt="20241123 Batumi 1.jpg" height="960" width="1280"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Matti&amp;Keti</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=156601828">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

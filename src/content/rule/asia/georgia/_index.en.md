@@ -41,7 +41,7 @@ features:
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Signage and storefronts use the Georgian script (ქართული ენა){{% ex "https://maps.app.goo.gl/vuUXnNCGNytX3bp69" "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}.
+Signage and storefronts use the Georgian script (ქართული ენა){{% ex "https://maps.app.goo.gl/vuUXnNCGNytX3bp69" "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}. Black-and-white blocks are also often seen along the roadside{{% ex "https://maps.app.goo.gl/SKku3HTxVVeW9qf58" "https://maps.app.goo.gl/5evPNTPgoDdVDGSm9" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -88,13 +88,14 @@ As one of the birthplaces of wine, Georgian homes often have a pergola (a metal 
             </ul>
         </li>
         <li>Mountains capped with cumulonimbus clouds and concrete roads are signs of the north</li>
+        <li>The west is mostly June–August, while the center (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) to the east is mostly August–November?</li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "Elevation" %}}
 {{% notice tip %}}
-The Caucasus Mountains stretch along the border with Russia, and the closer you get, the steeper the mountains become.
+The Caucasus Mountains stretch along the border with Russia, and the closer you get, the steeper the mountains become. Whether or not there is a steep mountain range when you look north helps narrow down the region considerably.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="/rule/asia/georgia/1280px-Caucasus_breakaway_regions_2008.svg.png" width="500px" >
@@ -108,6 +109,15 @@ The peaks are so high that they are often shrouded in clouds{{% ex "https://maps
 <img src="/rule/asia/georgia/Svaneti,_georgia.jpg" width="100%" >
 </div>
 {{% /tab %}}
+{{% tab "Seasonal differences" %}}
+{{% notice tip %}}
+The west feels like it's mostly June–August, while the center (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) to the east is mostly August–November. Combined with the terrain, this may be a country where the location is fairly easy to narrow down. Below are an eastern example and a western example.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1781690333464!6m8!1m7!1sSyc5ZONeKU_-CLIe9kbtxw!2m2!1d42.25996740480202!2d41.95958121521363!3f13.704897743570044!4f-0.7242559091518217!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1781690302757!6m8!1m7!1smDep_sritH3OI0y2_NSf3Q!2m2!1d41.27524538854521!2d45.86317083590061!3f147.3393581156621!4f-2.195364961667295!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 
@@ -115,16 +125,26 @@ The peaks are so high that they are often shrouded in clouds{{% ex "https://maps
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>The village of Ushguli has a historic townscape dotted with defensive-tower-like buildings</li>
+        <li>Batumi stands out for its large-scale buildings</li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "Ushguli" %}}
 {{% notice tip %}}
-It is one of the highest continuously inhabited settlements in Europe. It has buildings that look like defensive towers (? — no clear confirmation that all of them are){{% ex "https://maps.app.goo.gl/Sh66SUayWFnnc1Tt5" "https://maps.app.goo.gl/vqKk4A5RcXFQ1NEg9" "https://maps.app.goo.gl/RvomGMYSW3LbCsPt6" %}}.
+It is one of the highest continuously inhabited settlements in Europe. It has buildings that look like defensive towers (? — no clear confirmation that all of them are){{% ex "https://maps.app.goo.gl/Sh66SUayWFnnc1Tt5" "https://maps.app.goo.gl/vqKk4A5RcXFQ1NEg9" "https://maps.app.goo.gl/RvomGMYSW3LbCsPt6" %}}. Nearby villages also have similar buildings{{% ex "https://maps.app.goo.gl/6W8JBhQTcB6yvDH27" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="/rule/asia/georgia/chazhashi_01.jpg" width="90%" >
+</div>
+{{% /tab %}}
+{{% tab "Batumi" %}}
+{{% notice tip %}}
+There are new casinos, leisure facilities, and hotels{{% ex "https://maps.app.goo.gl/PLJnXRU5K6nDDbyN6" "https://maps.app.goo.gl/JWHcPYJEHrqRM4fTA" %}}. As a hub for tourism and a trade transit point, it has received large-scale investment, giving it a different atmosphere from other cities.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:20241123_Batumi_1.jpg#/media/File:20241123_Batumi_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/20241123_Batumi_1.jpg" alt="20241123 Batumi 1.jpg" height="960" width="1280"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Matti&amp;Keti</a> - Own work, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=156601828">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -41,7 +41,7 @@ features:
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Los letreros y comercios utilizan el alfabeto georgiano (ქართული ენა){{% ex "https://maps.app.goo.gl/vuUXnNCGNytX3bp69" "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}.
+Los letreros y comercios utilizan el alfabeto georgiano (ქართული ენა){{% ex "https://maps.app.goo.gl/vuUXnNCGNytX3bp69" "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}. También es habitual ver bloques en blanco y negro al borde de la carretera{{% ex "https://maps.app.goo.gl/SKku3HTxVVeW9qf58" "https://maps.app.goo.gl/5evPNTPgoDdVDGSm9" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -88,13 +88,14 @@ Como una de las cunas del vino, en Georgia es habitual ver una pérgola (una est
             </ul>
         </li>
         <li>Las montañas coronadas por cumulonimbos y las carreteras de hormigón son señales del norte</li>
+        <li>El oeste suele ser de junio a agosto, mientras que del centro (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) al este predomina de agosto a noviembre?</li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "Altitud" %}}
 {{% notice tip %}}
-La cordillera del Cáucaso se extiende a lo largo de la frontera con Rusia, y cuanto más te acercas, más escarpadas se vuelven las montañas.
+La cordillera del Cáucaso se extiende a lo largo de la frontera con Rusia, y cuanto más te acercas, más escarpadas se vuelven las montañas. Que haya o no una cordillera escarpada al mirar hacia el norte ayuda a acotar bastante la región.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="/rule/asia/georgia/1280px-Caucasus_breakaway_regions_2008.svg.png" width="500px" >
@@ -108,6 +109,15 @@ Las cumbres son tan altas que suelen estar cubiertas de nubes{{% ex "https://map
 <img src="/rule/asia/georgia/Svaneti,_georgia.jpg" width="100%" >
 </div>
 {{% /tab %}}
+{{% tab "Diferencias estacionales" %}}
+{{% notice tip %}}
+El oeste parece ser sobre todo de junio a agosto, y del centro (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) al este sobre todo de agosto a noviembre. Combinado con el relieve, quizá sea un país en el que resulta bastante fácil acotar la ubicación. A continuación, un ejemplo del este y uno del oeste.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1781690333464!6m8!1m7!1sSyc5ZONeKU_-CLIe9kbtxw!2m2!1d42.25996740480202!2d41.95958121521363!3f13.704897743570044!4f-0.7242559091518217!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1781690302757!6m8!1m7!1smDep_sritH3OI0y2_NSf3Q!2m2!1d41.27524538854521!2d45.86317083590061!3f147.3393581156621!4f-2.195364961667295!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 
@@ -115,16 +125,26 @@ Las cumbres son tan altas que suelen estar cubiertas de nubes{{% ex "https://map
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>El pueblo de Ushguli conserva un casco histórico salpicado de edificios parecidos a torres de defensa</li>
+        <li>Batumi destaca por sus edificios de gran escala</li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "Ushguli" %}}
 {{% notice tip %}}
-Es uno de los asentamientos habitados de forma permanente de mayor altitud de Europa. Tiene edificios que parecen torres de defensa (?, sin confirmación clara de que todos lo sean){{% ex "https://maps.app.goo.gl/Sh66SUayWFnnc1Tt5" "https://maps.app.goo.gl/vqKk4A5RcXFQ1NEg9" "https://maps.app.goo.gl/RvomGMYSW3LbCsPt6" %}}.
+Es uno de los asentamientos habitados de forma permanente de mayor altitud de Europa. Tiene edificios que parecen torres de defensa (?, sin confirmación clara de que todos lo sean){{% ex "https://maps.app.goo.gl/Sh66SUayWFnnc1Tt5" "https://maps.app.goo.gl/vqKk4A5RcXFQ1NEg9" "https://maps.app.goo.gl/RvomGMYSW3LbCsPt6" %}}. Los pueblos cercanos también tienen edificios similares{{% ex "https://maps.app.goo.gl/6W8JBhQTcB6yvDH27" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="/rule/asia/georgia/chazhashi_01.jpg" width="90%" >
+</div>
+{{% /tab %}}
+{{% tab "Batumi" %}}
+{{% notice tip %}}
+Hay nuevos casinos, instalaciones de ocio y hoteles{{% ex "https://maps.app.goo.gl/PLJnXRU5K6nDDbyN6" "https://maps.app.goo.gl/JWHcPYJEHrqRM4fTA" %}}. Como centro turístico y punto de tránsito comercial, ha recibido grandes inversiones, lo que le da un ambiente distinto al de otras ciudades.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:20241123_Batumi_1.jpg#/media/File:20241123_Batumi_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/20241123_Batumi_1.jpg" alt="20241123 Batumi 1.jpg" height="960" width="1280"></a></p>
+<p>Por <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Matti&amp;Keti</a> - obra propia, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=156601828">enlace</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
