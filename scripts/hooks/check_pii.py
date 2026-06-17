@@ -267,6 +267,10 @@ def main() -> int:
                     continue
                 if fn.endswith("topojson"):
                     continue
+                # Google Maps embed URLs pack camera/coordinate values into the
+                # `pb=` parameter; these long digit runs coincidentally pass Luhn.
+                if "/maps/embed" in line:
+                    continue
                 masked = num[:6] + "..." + num[-4:]
                 findings_block.append(
                     f"  [credit-card (Luhn-valid)]  {fn}:{lineno}  {masked}"

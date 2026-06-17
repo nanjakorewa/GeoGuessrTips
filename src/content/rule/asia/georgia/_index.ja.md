@@ -180,6 +180,7 @@ municipalities:
             </ul>
         </li>
         <li>積乱雲がたまった山・コンクリ道路が見えるのは北部の兆候</li>
+        <li>西側は6～8月、中央（გორი{{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}）～東側は8～11月が多い？</li>
     </ul>
 </div>
 
@@ -198,6 +199,15 @@ municipalities:
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="Svaneti,_georgia.jpg" width="100%" >
+</div>
+{{% /tab %}}
+{{% tab "季節の違い" %}}
+{{% notice tip %}}
+西側は6～8月、中央（გორი{{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}）～東側は8～11月が多い気がする。地形も合わせるとある程度場所が絞りやすい国かもしれない。以下は東側の例と西側の例。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1781690333464!6m8!1m7!1sSyc5ZONeKU_-CLIe9kbtxw!2m2!1d42.25996740480202!2d41.95958121521363!3f13.704897743570044!4f-0.7242559091518217!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1781690302757!6m8!1m7!1smDep_sritH3OI0y2_NSf3Q!2m2!1d41.27524538854521!2d45.86317083590061!3f147.3393581156621!4f-2.195364961667295!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
