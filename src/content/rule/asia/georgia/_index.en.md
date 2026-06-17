@@ -109,3 +109,22 @@ The peaks are so high that they are often shrouded in clouds{{% ex "https://maps
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>The village of Ushguli has a historic townscape dotted with defensive-tower-like buildings</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Ushguli" %}}
+{{% notice tip %}}
+It is one of the highest continuously inhabited settlements in Europe. It has buildings that look like defensive towers (? — no clear confirmation that all of them are){{% ex "https://maps.app.goo.gl/Sh66SUayWFnnc1Tt5" "https://maps.app.goo.gl/vqKk4A5RcXFQ1NEg9" "https://maps.app.goo.gl/RvomGMYSW3LbCsPt6" %}}.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="/rule/asia/georgia/chazhashi_01.jpg" width="90%" >
+</div>
+{{% /tab %}}
+{{% /tabs %}}

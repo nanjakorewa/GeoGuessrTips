@@ -109,3 +109,22 @@ Puncak-puncaknya begitu tinggi hingga sering tertutup awan{{% ex "https://maps.a
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>Desa Ushguli memiliki kawasan bersejarah dengan bangunan menyerupai menara pertahanan</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Ushguli" %}}
+{{% notice tip %}}
+Merupakan salah satu permukiman berpenghuni tetap tertinggi di Eropa. Terdapat bangunan yang menyerupai menara pertahanan (?, tanpa kepastian bahwa semuanya demikian){{% ex "https://maps.app.goo.gl/Sh66SUayWFnnc1Tt5" "https://maps.app.goo.gl/vqKk4A5RcXFQ1NEg9" "https://maps.app.goo.gl/RvomGMYSW3LbCsPt6" %}}.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="/rule/asia/georgia/chazhashi_01.jpg" width="90%" >
+</div>
+{{% /tab %}}
+{{% /tabs %}}

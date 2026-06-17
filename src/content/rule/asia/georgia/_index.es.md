@@ -109,3 +109,22 @@ Las cumbres son tan altas que suelen estar cubiertas de nubes{{% ex "https://map
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>El pueblo de Ushguli conserva un casco histórico salpicado de edificios parecidos a torres de defensa</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Ushguli" %}}
+{{% notice tip %}}
+Es uno de los asentamientos habitados de forma permanente de mayor altitud de Europa. Tiene edificios que parecen torres de defensa (?, sin confirmación clara de que todos lo sean){{% ex "https://maps.app.goo.gl/Sh66SUayWFnnc1Tt5" "https://maps.app.goo.gl/vqKk4A5RcXFQ1NEg9" "https://maps.app.goo.gl/RvomGMYSW3LbCsPt6" %}}.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="/rule/asia/georgia/chazhashi_01.jpg" width="90%" >
+</div>
+{{% /tab %}}
+{{% /tabs %}}

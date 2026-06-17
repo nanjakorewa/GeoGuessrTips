@@ -134,7 +134,7 @@ municipalities:
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ジョージア語（ქართული ენა）が使用されている{{% ex "https://maps.app.goo.gl/vuUXnNCGNytX3bp69" "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}。
+ジョージア語（ქართული ენა）が使用されている{{% ex "https://maps.app.goo.gl/vuUXnNCGNytX3bp69" "https://maps.app.goo.gl/Xzcv8Z2RSZVV3SYW9" "https://maps.app.goo.gl/7ox9vpt9TiBPRXw19" %}}。道端に白黒のブロックもよく見かける{{% ex "https://maps.app.goo.gl/5evPNTPgoDdVDGSm9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -198,6 +198,25 @@ municipalities:
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="Svaneti,_georgia.jpg" width="100%" >
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>Ushguli村は歴史ある街並みで側防塔のような建物が立っている</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Ushguli" %}}
+{{% notice tip %}}
+人が定住している集落のうち、ヨーロッパでもっとも標高が高いもののひとつ。側防塔のような建物（？、すべてそうである明確な確証なし）がある{{% ex "https://maps.app.goo.gl/Sh66SUayWFnnc1Tt5" "https://maps.app.goo.gl/vqKk4A5RcXFQ1NEg9" "https://maps.app.goo.gl/RvomGMYSW3LbCsPt6" %}}。付近の村にも似た建物が建っている{{% ex "https://maps.app.goo.gl/6W8JBhQTcB6yvDH27" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="chazhashi_01.jpg" width="90%" >
 </div>
 {{% /tab %}}
 {{% /tabs %}}
