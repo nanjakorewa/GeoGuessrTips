@@ -126,6 +126,7 @@ The west feels like it's mostly June–August, while the center (Gori (გორ
     <ul class="rule-list">
         <li>The village of Ushguli has a historic townscape dotted with defensive-tower-like buildings</li>
         <li>Batumi stands out for its large-scale buildings</li>
+        <li>Chiatura is a town surrounded by cliffs, criss-crossed by a web-like network of ropeways (cable cars)</li>
     </ul>
 </div>
 
@@ -145,6 +146,14 @@ There are new casinos, leisure facilities, and hotels{{% ex "https://maps.app.go
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:20241123_Batumi_1.jpg#/media/File:20241123_Batumi_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/20241123_Batumi_1.jpg" alt="20241123 Batumi 1.jpg" height="960" width="1280"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Matti&amp;Keti</a> - Own work, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=156601828">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Chiatura" %}}
+{{% notice tip %}}
+A town hemmed in by steep cliffs. To get around the rugged terrain, a spider-web-like network of ropeways (cable cars) was strung across the town in the 1950s during the Soviet era (under Stalin).
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg#/media/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Town_of_Chiatura._seen_from_upper_cable_car_station.jpg" alt="Town of Chiatura. seen from upper cable car station.jpg" height="1707" width="1280"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Lorenz King, Giessen university.de</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=116458506">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

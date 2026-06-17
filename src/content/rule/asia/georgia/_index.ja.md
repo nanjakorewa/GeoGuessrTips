@@ -218,6 +218,7 @@ municipalities:
     <ul class="rule-list">
         <li>Ushguli村は歴史ある街並みで側防塔のような建物が立っている</li>
         <li>Batumiは大規模な建築物が目立つ</li>
+        <li>Chiaturaはロープウェイ（ケーブルカー）が張り巡らされている</li>
     </ul>
 </div>
 
@@ -237,6 +238,15 @@ municipalities:
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:20241123_Batumi_1.jpg#/media/File:20241123_Batumi_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/20241123_Batumi_1.jpg" alt="20241123 Batumi 1.jpg" height="960" width="1280"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Matti&amp;Keti</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=156601828">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Chiatura" %}}
+{{% notice tip %}}
+険しい崖に囲まれた街で、急峻な崖を行き来するため、ソ連時代（スターリン政権下）の1950年代に街中へ蜘蛛の巣のようにロープウェイ（ケーブルカー）が張り巡らされた{{% ex "https://maps.app.goo.gl/hQSbtMEB2VpUM8Nw5" "https://maps.app.goo.gl/3hQ9e5dGFynddesx7" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg#/media/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Town_of_Chiatura._seen_from_upper_cable_car_station.jpg" alt="Town of Chiatura. seen from upper cable car station.jpg" width="90%"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Lorenz King, Giessen university.de</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=116458506">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

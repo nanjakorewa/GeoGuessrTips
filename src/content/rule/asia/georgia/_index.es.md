@@ -126,6 +126,7 @@ El oeste parece ser sobre todo de junio a agosto, y del centro (Gori (გორ�
     <ul class="rule-list">
         <li>El pueblo de Ushguli conserva un casco histórico salpicado de edificios parecidos a torres de defensa</li>
         <li>Batumi destaca por sus edificios de gran escala</li>
+        <li>Chiatura es una ciudad rodeada de acantilados, surcada por una red de teleféricos (funiculares) similar a una telaraña</li>
     </ul>
 </div>
 
@@ -145,6 +146,14 @@ Hay nuevos casinos, instalaciones de ocio y hoteles{{% ex "https://maps.app.goo.
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:20241123_Batumi_1.jpg#/media/File:20241123_Batumi_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/20241123_Batumi_1.jpg" alt="20241123 Batumi 1.jpg" height="960" width="1280"></a></p>
 <p>Por <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Matti&amp;Keti</a> - obra propia, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=156601828">enlace</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Chiatura" %}}
+{{% notice tip %}}
+Una ciudad encajonada entre acantilados escarpados. Para desplazarse por el abrupto terreno, en la década de 1950, durante la era soviética (bajo Stalin), se tendió por toda la ciudad una red de teleféricos (funiculares) parecida a una telaraña.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg#/media/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Town_of_Chiatura._seen_from_upper_cable_car_station.jpg" alt="Town of Chiatura. seen from upper cable car station.jpg" height="1707" width="1280"></a><br>Por <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Lorenz King, Giessen university.de</a> - obra propia, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=116458506">enlace</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

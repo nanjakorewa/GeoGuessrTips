@@ -126,6 +126,7 @@ Bagian barat terasa kebanyakan Juni–Agustus, dan dari tengah (Gori (გორ�
     <ul class="rule-list">
         <li>Desa Ushguli memiliki kawasan bersejarah dengan bangunan menyerupai menara pertahanan</li>
         <li>Batumi menonjol dengan bangunan-bangunan berskala besar</li>
+        <li>Chiatura adalah kota yang dikelilingi tebing, dengan jaringan kereta gantung (cable car) yang membentang seperti jaring laba-laba</li>
     </ul>
 </div>
 
@@ -145,6 +146,14 @@ Terdapat kasino, fasilitas hiburan, dan hotel baru{{% ex "https://maps.app.goo.g
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:20241123_Batumi_1.jpg#/media/File:20241123_Batumi_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/20241123_Batumi_1.jpg" alt="20241123 Batumi 1.jpg" height="960" width="1280"></a></p>
 <p>Oleh <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Matti&amp;Keti</a> - karya sendiri, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=156601828">tautan</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Chiatura" %}}
+{{% notice tip %}}
+Kota yang terapit tebing-tebing curam. Untuk bergerak di medan yang terjal, pada tahun 1950-an di era Soviet (di bawah Stalin) dibangun jaringan kereta gantung (cable car) yang membentang seperti jaring laba-laba di seluruh kota.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg#/media/File:Town_of_Chiatura._seen_from_upper_cable_car_station.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Town_of_Chiatura._seen_from_upper_cable_car_station.jpg" alt="Town of Chiatura. seen from upper cable car station.jpg" height="1707" width="1280"></a><br>Oleh <a href="//commons.wikimedia.org/wiki/User:Matti%26Keti" title="User:Matti&amp;Keti">Lorenz King, Giessen university.de</a> - karya sendiri, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=116458506">tautan</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
