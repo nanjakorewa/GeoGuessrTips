@@ -176,7 +176,7 @@ municipalities:
                 <li>南{{% ex "https://maps.app.goo.gl/kiVJzPzyHAF5odbu5" "https://maps.app.goo.gl/seE4rNyTEWKqbv197" "https://maps.app.goo.gl/qZrw9iJ4fjVxBe7b9" %}}</li>
             </ul>
         </li>
-        <li>積乱雲がたまった山が見えるのは北部の兆候</li>
+        <li>積乱雲がたまった山・コンクリ道路が見えるのは北部の兆候</li>
     </ul>
 </div>
 
@@ -191,7 +191,7 @@ municipalities:
 {{% /tab %}}
 {{% tab "コーカサス山脈" %}}
 {{% notice tip %}}
-頂上は雲がかかるくらい高い{{% ex "https://maps.app.goo.gl/5ewZDW1YMiNfaPQg8" "https://maps.app.goo.gl/xsJXNm7BUgYn7P1W8" "https://maps.app.goo.gl/ibCUCpb3yoa3bVqT7" %}}。大コーカサス山脈で上空に大気が押し上げられ積乱雲の列が発生し雨が降る。そのため、山脈に近づくほど降水量が多く緑が多い景色になる{{% ex "https://maps.app.goo.gl/kDYfwqFveEeCbFyv6" "https://maps.app.goo.gl/AcFhCDvK8rK3hL4K7" %}}と予想される。
+頂上は雲がかかるくらい高い{{% ex "https://maps.app.goo.gl/6vbbWGXiLPzBDMvaA" "https://maps.app.goo.gl/5ewZDW1YMiNfaPQg8" "https://maps.app.goo.gl/xsJXNm7BUgYn7P1W8" "https://maps.app.goo.gl/ibCUCpb3yoa3bVqT7" %}}。大コーカサス山脈で上空に大気が押し上げられ積乱雲の列が発生し雨が降る。そのため、山脈に近づくほど降水量が多く緑が多い景色になる{{% ex "https://maps.app.goo.gl/kDYfwqFveEeCbFyv6" "https://maps.app.goo.gl/AcFhCDvK8rK3hL4K7" %}}と予想される。また、標高が高い地域ではアスファルトでの舗装が難しく（アスファルトの隙間の水が凍ると膨張しひび割れになる）コンクリ舗装の道が多くなる{{% ex "https://maps.app.goo.gl/WHHTTvKKYTwLFRQ19" "https://maps.app.goo.gl/Wbzo8TvwjiEEhccY8" "https://maps.app.goo.gl/MKC2q7wvpZnp6Y8y6" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="Svaneti,_georgia.jpg" width="90%" >
