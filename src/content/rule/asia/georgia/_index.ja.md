@@ -232,7 +232,7 @@ municipalities:
 {{% /tab %}}
 {{% tab "Batumi" %}}
 {{% notice tip %}}
-あたらしいカジノ・レジャー施設・ホテルがある{{% ex "https://maps.app.goo.gl/PLJnXRU5K6nDDbyN6" "https://maps.app.goo.gl/JWHcPYJEHrqRM4fTA" %}}。観光と貿易中継地点の拠点として大規模な投資が行われており、他の都市とは雰囲気が異なる。カジノが合法化されており、高級ホテルにはカジノが併設されていることが多い{{% ex "https://maps.app.goo.gl/SPkoKtUNQHuyGMRN9" "https://maps.app.goo.gl/ebvf2vJJeUjGHkadA" %}}。
+あたらしいカジノ・レジャー施設・ホテルがある{{% ex "https://maps.app.goo.gl/PLJnXRU5K6nDDbyN6" "https://maps.app.goo.gl/JWHcPYJEHrqRM4fTA" %}}。観光と貿易中継地点の拠点として大規模な投資が行われており、他の都市とは雰囲気が異なる。カジノが合法化されており、高級ホテルにはカジノが併設されていることが多い{{% ex "https://maps.app.goo.gl/SPkoKtUNQHuyGMR" "https://maps.app.goo.gl/ebvf2vJJeUjGHkadA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:20241123_Batumi_1.jpg#/media/File:20241123_Batumi_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/20241123_Batumi_1.jpg" alt="20241123 Batumi 1.jpg" height="960" width="1280"></a></p>
