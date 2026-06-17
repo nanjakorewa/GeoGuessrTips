@@ -88,7 +88,7 @@ As one of the birthplaces of wine, Georgian homes often have a pergola (a metal 
             </ul>
         </li>
         <li>Mountains capped with cumulonimbus clouds and concrete roads are signs of the north</li>
-        <li>The west is mostly June–August, while the center (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) to the east is mostly August–November?</li>
+        <li>The west is mostly June–September, while the center (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) to the east is mostly August–November?</li>
     </ul>
 </div>
 
@@ -111,7 +111,7 @@ The peaks are so high that they are often shrouded in clouds{{% ex "https://maps
 {{% /tab %}}
 {{% tab "Seasonal differences" %}}
 {{% notice tip %}}
-The west feels like it's mostly June–August, while the center (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) to the east is mostly August–November. Combined with the terrain, this may be a country where the location is fairly easy to narrow down. Below are an eastern example and a western example.
+The west feels like it's mostly June–September, while the center (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) to the east is mostly August–November. Combined with the terrain, this may be a country where the location is fairly easy to narrow down. Below are an eastern example and a western example.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781690333464!6m8!1m7!1sSyc5ZONeKU_-CLIe9kbtxw!2m2!1d42.25996740480202!2d41.95958121521363!3f13.704897743570044!4f-0.7242559091518217!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -88,7 +88,7 @@ Sebagai salah satu tempat asal anggur, di Georgia sering terlihat pergola (rangk
             </ul>
         </li>
         <li>Gunung yang tertutup awan kumulonimbus dan jalan beton adalah tanda wilayah utara</li>
-        <li>Bagian barat umumnya Juni–Agustus, sedangkan dari tengah (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) hingga timur kebanyakan Agustus–November?</li>
+        <li>Bagian barat umumnya Juni–September, sedangkan dari tengah (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) hingga timur kebanyakan Agustus–November?</li>
     </ul>
 </div>
 
@@ -111,7 +111,7 @@ Puncak-puncaknya begitu tinggi hingga sering tertutup awan{{% ex "https://maps.a
 {{% /tab %}}
 {{% tab "Perbedaan musim" %}}
 {{% notice tip %}}
-Bagian barat terasa kebanyakan Juni–Agustus, dan dari tengah (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) hingga timur kebanyakan Agustus–November. Dipadukan dengan bentang alam, mungkin ini negara yang lokasinya cukup mudah dipersempit. Berikut contoh wilayah timur dan barat.
+Bagian barat terasa kebanyakan Juni–September, dan dari tengah (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) hingga timur kebanyakan Agustus–November. Dipadukan dengan bentang alam, mungkin ini negara yang lokasinya cukup mudah dipersempit. Berikut contoh wilayah timur dan barat.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781690333464!6m8!1m7!1sSyc5ZONeKU_-CLIe9kbtxw!2m2!1d42.25996740480202!2d41.95958121521363!3f13.704897743570044!4f-0.7242559091518217!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

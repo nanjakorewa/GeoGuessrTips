@@ -20,6 +20,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../../europe/ukraine/", "ウクライナ"],
     ["../kyrgyzstan/", "キルギスタン"],
+    ["../georgia/", "ジョージア"],
     ]
 features:
   - text: '世界最大の<span class="quiz">国土面積</span>を持ち11の<span class="quiz">標準時</span>にまたがっている'

@@ -17,6 +17,7 @@ sc: [
     ["../serbia/", "セルビア"],
     ["../montenegro/", "モンテネグロ"],
     ["../bulgaria/", "ブルガリア"],
+    ["../../asia/georgia/", "ジョージア"],
     ]
 features:
   - text: '<span class="quiz">ボスニア・ヘルツェゴビナ連邦</span>と<span class="quiz">スルプスカ共和国</span>の2つの構成体からなり、1995年の<span class="quiz">デイトン合意</span>で現在の国家体制が成立した'

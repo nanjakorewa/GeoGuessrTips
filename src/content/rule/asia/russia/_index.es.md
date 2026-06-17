@@ -21,6 +21,7 @@ sc_title: "Regiones que se confunden con facilidad"
 sc: [
     ["../../europe/ukraine/", "Ucrania"],
     ["../kyrgyzstan/", "Kirguistán"],
+    ["../georgia/", "Georgia"],
     ]
 mapProvider: "osm"
 mapPins:

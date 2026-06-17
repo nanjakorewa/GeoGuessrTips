@@ -21,6 +21,7 @@ sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../../europe/ukraine/", "ukraina"],
     ["../kyrgyzstan/", "Kirgistan"],
+    ["../georgia/", "Georgia"],
     ]
 mapProvider: "osm"
 mapPins:

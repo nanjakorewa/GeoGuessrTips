@@ -88,7 +88,7 @@ Como una de las cunas del vino, en Georgia es habitual ver una pérgola (una est
             </ul>
         </li>
         <li>Las montañas coronadas por cumulonimbos y las carreteras de hormigón son señales del norte</li>
-        <li>El oeste suele ser de junio a agosto, mientras que del centro (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) al este predomina de agosto a noviembre?</li>
+        <li>El oeste suele ser de junio a septiembre, mientras que del centro (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) al este predomina de agosto a noviembre?</li>
     </ul>
 </div>
 
@@ -111,7 +111,7 @@ Las cumbres son tan altas que suelen estar cubiertas de nubes{{% ex "https://map
 {{% /tab %}}
 {{% tab "Diferencias estacionales" %}}
 {{% notice tip %}}
-El oeste parece ser sobre todo de junio a agosto, y del centro (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) al este sobre todo de agosto a noviembre. Combinado con el relieve, quizá sea un país en el que resulta bastante fácil acotar la ubicación. A continuación, un ejemplo del este y uno del oeste.
+El oeste parece ser sobre todo de junio a septiembre, y del centro (Gori (გორი){{% ex "https://maps.app.goo.gl/jv5qLNusLurVjXaQ8" %}}) al este sobre todo de agosto a noviembre. Combinado con el relieve, quizá sea un país en el que resulta bastante fácil acotar la ubicación. A continuación, un ejemplo del este y uno del oeste.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781690333464!6m8!1m7!1sSyc5ZONeKU_-CLIe9kbtxw!2m2!1d42.25996740480202!2d41.95958121521363!3f13.704897743570044!4f-0.7242559091518217!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

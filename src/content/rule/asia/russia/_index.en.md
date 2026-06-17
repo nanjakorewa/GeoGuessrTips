@@ -11,6 +11,12 @@ flag: "RU.svg"
 jetro_detail: true
 plonkit: true
 jogmec_detail: true
+sc_title: "Commonly Confused Regions"
+sc: [
+    ["../../europe/ukraine/", "Ukraine"],
+    ["../kyrgyzstan/", "Kyrgyzstan"],
+    ["../georgia/", "Georgia"],
+    ]
 mapProvider: "osm"
 mapPins:
   - { lat: 55.755, lng: 37.617, label: "Moscow", type: "capital", note: "Capital and largest city of Russia" }

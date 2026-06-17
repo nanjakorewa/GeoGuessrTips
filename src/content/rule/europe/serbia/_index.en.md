@@ -19,6 +19,7 @@ sc: [
     ["../macedonia/", "North Macedonia"],
     ["../ukraine/", "Ukraine"],
     ["../bosnah/", "Bosnia and Herzegovina"],
+    ["../../asia/georgia/", "Georgia"],
     ]
 mapProvider: "osm"
 mapPins:
