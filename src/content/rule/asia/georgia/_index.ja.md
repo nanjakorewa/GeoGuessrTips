@@ -186,7 +186,7 @@ municipalities:
 {{% tabs %}}
 {{% tab "標高" %}}
 {{% notice tip %}}
-ロシアとの国境にはコーカサス山脈が広がっており、近づくほど山は急峻になっていく。
+ロシアとの国境にはコーカサス山脈が広がっており、近づくほど山は急峻になっていく。北を見たときに急峻な山脈があるかどうかで地域がだいぶ絞れる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="1280px-Caucasus_breakaway_regions_2008.svg.png" width="500px" >
