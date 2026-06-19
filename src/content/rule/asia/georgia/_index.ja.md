@@ -216,7 +216,7 @@ municipalities:
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>Ushguli村は歴史ある街並みで側防塔のような建物が立っている</li>
+        <li>Ushguli村などの標高が高い村には側防塔のような建物が立っている</li>
         <li>Batumiは大規模な建築物が目立つ</li>
         <li>Chiaturaはロープウェイ（ケーブルカー）が張り巡らされている</li>
         <li>Stepantsmindaはジョージア軍用道路の終点に近く大型トラックが多い</li>
@@ -226,7 +226,7 @@ municipalities:
 {{% tabs %}}
 {{% tab "Ushguli" %}}
 {{% notice tip %}}
-人が定住している集落のうち、ヨーロッパでもっとも標高が高いもののひとつ。側防塔のような建物（？、すべてそうである明確な確証なし）がある{{% ex "https://maps.app.goo.gl/Sh66SUayWFnnc1Tt5" "https://maps.app.goo.gl/vqKk4A5RcXFQ1NEg9" "https://maps.app.goo.gl/RvomGMYSW3LbCsPt6" %}}。付近の村にも似た建物が建っている{{% ex "https://maps.app.goo.gl/6W8JBhQTcB6yvDH27" %}}。
+Ushguli村は人が定住している集落のうち、ヨーロッパでもっとも標高が高いもののひとつ。側防塔のような建物（？、すべてそうである明確な確証なし）がある{{% ex "https://maps.app.goo.gl/Sh66SUayWFnnc1Tt5" "https://maps.app.goo.gl/vqKk4A5RcXFQ1NEg9" "https://maps.app.goo.gl/RvomGMYSW3LbCsPt6" %}}。付近の村にも似た建物が建っており、最も人口が多いのはメスティアの街並み{{% ex "https://maps.app.goo.gl/QGxx2RYY9y3cuYvB9" "https://maps.app.goo.gl/yAqfBbZWwrxumaKB9" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="chazhashi_01.jpg" width="90%" >
