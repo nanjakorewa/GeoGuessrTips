@@ -357,15 +357,24 @@ references:
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
+        <li>苫小牧市は<span class="quiz">製紙</span>の街で、大規模な製紙工場と港がある</li>
         <li>札幌市は碁盤の目状の街路が広がる北海道最大の都市</li>
         <li>室蘭市は<span class="quiz">製鉄</span>と港湾の街で、白鳥大橋が架かる工業都市</li>
-        <li>苫小牧市は<span class="quiz">製紙</span>の街で、大規模な製紙工場と港がある</li>
         <li>帯広・十勝平野は防風林に区切られた広大な<span class="quiz">畑作</span>地帯で直線道路が続く</li>
         <li>函館市は函館山と坂・五稜郭で知られる港町</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "苫小牧" %}}
+{{% notice tip %}}
+<span class="quiz">苫小牧市</span>は王子製紙発祥の製紙の街で、大規模な製紙工場と掘込式の苫小牧港がある{{% ref "https://ja.wikipedia.org/wiki/%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82" "苫小牧市" %}}。紙の原料となる巨大な木材置き場やチップヤード{{% ex "https://maps.app.goo.gl/niCQGyPbFK5wAL876" "https://maps.app.goo.gl/RzwJ5oBhoiJwDrNM9" %}}があれば確定だろう。飼料メーカー倉庫{{% ex "https://maps.app.goo.gl/ouyQhimQvq5drGDo9" "https://maps.app.goo.gl/gcBTpK3JtLpRFd9U8" %}}や物流センター{{% ex "https://maps.app.goo.gl/SMaTZokGQZUGuWeK7" %}}、重化学系の工場{{% ex "https://maps.app.goo.gl/mA8mn3BWuXvFhuMz8" "https://maps.app.goo.gl/J3tQnErX7g4JhYKu5" %}}も集積している。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="tomakomai.jpg" width="720" alt="Hokkaido GeoGuessr guide image showing a paper mill in Tomakomai">
+</div>
+{{% /tab %}}
 {{% tab "札幌" %}}
 {{% notice tip %}}
 <span class="quiz">札幌市</span>は碁盤の目状の街路が広がる北海道最大の都市で、大通公園やテレビ塔、雪景色が手がかり。
@@ -377,25 +386,16 @@ references:
 {{% /tab %}}
 {{% tab "室蘭" %}}
 {{% notice tip %}}
-<span class="quiz">室蘭市</span>は鉄鋼（日本製鉄）と石油・港湾の工業都市で、製鉄所や白鳥大橋、工場夜景が特徴{{% ref "https://ja.wikipedia.org/wiki/%E5%AE%A4%E8%98%AD%E5%B8%82" "室蘭市" %}}。
+<span class="quiz">室蘭市</span>は鉄鋼（日本製鉄）と石油・港湾の工業都市で、製鉄所がある{{% ex "https://maps.app.goo.gl/EiwFFnnno1tEJTAB9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E5%AE%A4%E8%98%AD%E5%B8%82" "室蘭市" %}}。白鳥大橋も有名{{% ex "https://maps.app.goo.gl/9nnF8Ws97EKRzc5G9" %}}。平野が狭く農業よりも工業が集積しているので特徴的。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <img src="muroran.jpg" width="720" alt="Hokkaido GeoGuessr guide image showing Muroran steelworks and the Hakucho Bridge">
 </div>
 {{% /tab %}}
-{{% tab "苫小牧" %}}
-{{% notice tip %}}
-<span class="quiz">苫小牧市</span>は王子製紙発祥の製紙の街で、大規模な製紙工場と掘込式の苫小牧港がある{{% ref "https://ja.wikipedia.org/wiki/%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82" "苫小牧市" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if no-margin">
-<img src="tomakomai.jpg" width="720" alt="Hokkaido GeoGuessr guide image showing a paper mill in Tomakomai">
-</div>
-{{% /tab %}}
 {{% tab "十勝" %}}
 {{% notice tip %}}
-帯広市を中心とする<span class="quiz">十勝平野</span>は、防風林（カラマツ等）に区切られた広大な畑作地帯で、まっすぐな農道が続く{{% ref "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%8B%9D%E5%B9%B3%E9%87%8E" "十勝平野" %}}。
+帯広市を中心とする<span class="quiz">十勝平野</span>は、防風林（カラマツ等）に区切られた広大な畑作地帯{{% ex "https://maps.app.goo.gl/oGApyrQXHqbC9wRZA" "https://maps.app.goo.gl/eNyaFGK8H6CJeggv7" %}}で、まっすぐな農道が続く{{% ref "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%8B%9D%E5%B9%B3%E9%87%8E" "十勝平野" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -404,7 +404,7 @@ references:
 {{% /tab %}}
 {{% tab "函館" %}}
 {{% notice tip %}}
-<span class="quiz">函館市</span>は函館山からの夜景、坂と西洋館、五稜郭で知られる道南の港町{{% ref "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B8%82" "函館市" %}}。
+<span class="quiz">函館市</span>は函館山からの夜景、坂と西洋館、五稜郭{{% ex "https://maps.app.goo.gl/ebHPrkXWkAcmYa9u6" "https://maps.app.goo.gl/zo5QZ6Le8m96huhv9" %}}で知られる道南の港町{{% ref "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B8%82" "函館市" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
