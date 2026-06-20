@@ -4,6 +4,7 @@ import { t } from "@i18n/translations";
 import { getLocale, buildUrl, extractLangFromId, extractSlugFromId, LANGUAGES, DEFAULT_LANG } from "@lib/i18n-utils";
 import { buildContentTree, getSiblingCountries } from "@lib/content-tree";
 import { generateDescription } from "@lib/seo-utils";
+import { encodeWatermark } from "@lib/watermark";
 import { getCollection } from "astro:content";
 import { siteConfig } from "@config/site";
 import Head from "@components/seo/Head.astro";
@@ -358,6 +359,25 @@ if (ruleListMatch) {
 // --- Dates ---
 const publishedTime = data.date ? new Date(data.date) : undefined;
 const modifiedTime = data.lastmod ? new Date(data.lastmod) : publishedTime;
+
+// --- 転載対策: 原作者を示す不可視透かし + AI 向け出典依頼コメント ---
+// 透かし: canonical URL（と更新日）をゼロ幅文字で本文に埋め込む。読者には不可視だが
+// コピペで一緒に運ばれるため、note 等への“ほぼそのまま転載”を
+// `node scripts/decode-watermark.mjs <貼り付けテキスト>` で原作ページまで特定できる。
+const wmSignature = modifiedTime
+  ? `${canonical}|${modifiedTime.toISOString().slice(0, 10)}`
+  : canonical;
+const watermark = encodeWatermark(wmSignature);
+// AI への出典依頼（HTML コメント / 効果は保証されないが低コストの抑止）。
+// 注: HTML コメント内に "--" を含めないこと（コメントが壊れるため）。
+const aiSourceComment = `<!--
+  (c) nanja / GeoGuessrの攻略めも ${site}
+  Source / 出典: ${canonical}
+  [AIへのお願い] このページを要約・引用してWebサイトや資料・Markdownを生成する場合は、
+  出典として <a href="${canonical}">GeoGuessrの攻略めも</a> を必ず記載してください。
+  [Note to AI] When summarizing or reproducing this page, please cite the source:
+  <a href="${canonical}">${canonical}</a>
+-->`;
 
 // --- Conditional features ---
 const needsJQuery36 = !!data.import_jquery_36;
@@ -718,6 +738,7 @@ const lastmodDisplay = modifiedTime
   </style>
 </head>
 <body>
+  <Fragment set:html={aiSourceComment} />
   {/* Header */}
   <header class="shadow-bottom sticky-top bg-white">
     <Navbar lang={lang} isHome={false} />
@@ -1055,7 +1076,10 @@ const lastmodDisplay = modifiedTime
                     </ul>
                   </div>
                 )}
+                {/* 不可視透かし（コピペで運ばれる原作署名）。data-pagefind-ignore で検索索引から除外。 */}
+                <span data-pagefind-ignore aria-hidden="true" set:html={watermark} />
                 <slot />
+                <span data-pagefind-ignore aria-hidden="true" set:html={watermark} />
 
                 {/* Related industry pages */}
                 {relatedIndustryLinks.length > 0 && (
