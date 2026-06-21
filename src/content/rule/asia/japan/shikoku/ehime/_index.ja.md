@@ -26,6 +26,13 @@ prefSymbols:
     imgs:
       - src: "/rule/poles/kochi_ehime.png"
         alt: "標識ポール"
+  - label: "擁壁"
+    name: "ブロック模様"
+    bare: true
+    group: "wall-d"
+    imgs:
+      - src: "/rule/walls/kagawa_ehime.png"
+        alt: "擁壁"
 flag: "Ehime.svg"
 relatedIndustry:
   - "/industry/japan-shipbuilding/"

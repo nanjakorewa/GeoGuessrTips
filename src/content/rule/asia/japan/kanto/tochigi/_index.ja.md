@@ -26,6 +26,13 @@ prefSymbols:
     imgs:
       - src: "/rule/poles/tochigi.png"
         alt: "標識ポール"
+  - label: "擁壁"
+    name: "ブロック模様"
+    bare: true
+    group: "wall-a"
+    imgs:
+      - src: "/rule/walls/saga_nagasaki_tochigi.png"
+        alt: "擁壁"
 flag: "Tochigi.svg"
 mapProvider: "osm"
 mapPins:

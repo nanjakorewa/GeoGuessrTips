@@ -20,6 +20,13 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-f.svg"
         alt: "ダイヤマーク"
+  - label: "擁壁"
+    name: "ブロック模様"
+    bare: true
+    group: "wall-b"
+    imgs:
+      - src: "/rule/walls/shiga_kyoto.png"
+        alt: "擁壁"
 flag: "Shiga.svg"
 mapProvider: "osm"
 mapPins:

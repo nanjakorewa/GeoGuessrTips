@@ -27,6 +27,13 @@ prefSymbols:
     imgs:
       - src: "/rule/poles/kochi_ehime.png"
         alt: "標識ポール"
+  - label: "擁壁"
+    name: "ブロック模様"
+    bare: true
+    group: "wall-d"
+    imgs:
+      - src: "/rule/walls/kagawa_ehime.png"
+        alt: "擁壁"
 flag: "Kagawa.svg"
 mapProvider: "osm"
 mapPins:
@@ -176,9 +183,4 @@ references:
                 <td>四国化成</td>
                 <td>{{% minkabu 4099 %}}</td>
                 <td>プリント配線板表面処理薬剤の世界シェア一位。不溶性硫黄など他の材料でも国内トップ。</td>
-                <td>{{% corplink "https://www.okiden.co.jp/ir/library/" %}}</td>
-                <td>{{% dividend "tokyo" "4099" %}}</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+                <td>{{% corplink "ht

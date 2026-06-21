@@ -22,6 +22,13 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond.svg"
         alt: "ダイヤマーク"
+  - label: "擁壁"
+    name: "ブロック模様"
+    bare: true
+    group: "wall-c"
+    imgs:
+      - src: "/rule/walls/ishikawa_fukui.png"
+        alt: "擁壁"
 flag: "Fukui.svg"
 mapProvider: "osm"
 mapPins:

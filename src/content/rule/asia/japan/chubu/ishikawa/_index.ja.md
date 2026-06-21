@@ -20,6 +20,13 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-k.svg"
         alt: "ダイヤマーク"
+  - label: "擁壁"
+    name: "ブロック模様"
+    bare: true
+    group: "wall-c"
+    imgs:
+      - src: "/rule/walls/ishikawa_fukui.png"
+        alt: "擁壁"
 flag: "Ishikawa.svg"
 mapProvider: "osm"
 mapPins:
@@ -193,6 +200,4 @@ references:
                 <td>{{% corplink "https://www.hokkokufhd.co.jp/ir/" %}}</td>
                 <td>{{% dividend "tokyo" "7381" %}}</td>
             </tr>
-        </tbody>
-    </table>
-</div>
+        </
