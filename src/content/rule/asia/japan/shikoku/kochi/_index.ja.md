@@ -20,6 +20,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-c.svg"
         alt: "ダイヤマーク"
+  - label: "標識ポール"
+    name: "点検シール"
+    bare: true
+    imgs:
+      - src: "/rule/poles/kochi_ehime.png"
+        alt: "標識ポール"
 flag: "Kochi.svg"
 mapProvider: "osm"
 mapPins:

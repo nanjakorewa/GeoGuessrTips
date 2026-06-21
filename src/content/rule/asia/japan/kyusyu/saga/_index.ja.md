@@ -27,6 +27,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-o.svg"
         alt: "ダイヤマーク"
+  - label: "標識ポール"
+    name: "点検シール"
+    bare: true
+    imgs:
+      - src: "/rule/poles/nagasaki_saga.png"
+        alt: "標識ポール"
 flag: "Saga.svg"
 relatedIndustry:
   - "/industry/japan-pottery/"

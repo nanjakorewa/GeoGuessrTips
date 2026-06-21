@@ -20,6 +20,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-h.svg"
         alt: "ダイヤマーク"
+  - label: "標識ポール"
+    name: "点検シール"
+    bare: true
+    imgs:
+      - src: "/rule/poles/tottori.png"
+        alt: "標識ポール"
 flag: "Tottori.svg"
 mapProvider: "osm"
 mapPins:
