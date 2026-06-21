@@ -13,6 +13,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/kansai.jpg"
         alt: "関西電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告（路面標示）"
+    bare: true
+    group: "diamond-f"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-f.svg"
+        alt: "ダイヤマーク"
 flag: "Shiga.svg"
 mapProvider: "osm"
 mapPins:

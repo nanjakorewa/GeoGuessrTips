@@ -13,6 +13,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/chugoku.svg"
         alt: "中国電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告（路面標示）"
+    bare: true
+    group: "diamond-h"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-h.svg"
+        alt: "ダイヤマーク"
 flag: "Shimane.svg"
 mapProvider: "osm"
 mapPins:

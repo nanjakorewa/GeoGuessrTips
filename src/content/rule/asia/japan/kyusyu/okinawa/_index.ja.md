@@ -14,6 +14,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/okinawa.jpg"
         alt: "沖縄電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告（路面標示）"
+    bare: true
+    group: "diamond-f"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-f.svg"
+        alt: "ダイヤマーク"
 flag: "OKINAWA.svg"
 mapProvider: "osm"
 mapPins:

@@ -13,6 +13,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/shikoku.svg"
         alt: "四国電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告（路面標示）"
+    bare: true
+    group: "diamond-j"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-j.svg"
+        alt: "ダイヤマーク"
 flag: "Tokushima.svg"
 mapProvider: "osm"
 mapPins:
