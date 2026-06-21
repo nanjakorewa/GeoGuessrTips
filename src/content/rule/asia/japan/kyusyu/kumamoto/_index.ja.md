@@ -8,6 +8,12 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 is_pref: true
+prefSymbols:
+  - label: "電力会社"
+    name: "九州電力"
+    imgs:
+      - src: "/rule/power/kyushu.svg"
+        alt: "九州電力"
 flag: "Kumamoto.svg"
 relatedIndustry:
   - "/industry/japan-semiconductor/kyushu/"

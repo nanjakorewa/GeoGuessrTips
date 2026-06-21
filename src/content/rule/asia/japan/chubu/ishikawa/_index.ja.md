@@ -7,6 +7,12 @@ draft: false
 keywords: [""]
 sections: [""]
 is_pref: true
+prefSymbols:
+  - label: "電力会社"
+    name: "北陸電力"
+    imgs:
+      - src: "/rule/power/hokuriku.svg"
+        alt: "北陸電力"
 flag: "Ishikawa.svg"
 mapProvider: "osm"
 mapPins:

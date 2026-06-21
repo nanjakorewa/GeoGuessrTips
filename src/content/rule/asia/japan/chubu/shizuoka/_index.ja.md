@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 is_pref: true
+prefSymbols:
+  - label: "電力会社"
+    name: "中部電力／東京電力"
+    imgs:
+      - src: "/rule/power/chubu.svg"
+        alt: "中部電力"
+      - src: "/rule/power/tepco.svg"
+        alt: "東京電力"
 flag: "Shizuoka.svg"
 mapProvider: "osm"
 mapPins:

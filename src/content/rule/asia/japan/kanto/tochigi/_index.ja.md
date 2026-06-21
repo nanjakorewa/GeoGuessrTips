@@ -7,6 +7,12 @@ draft: false
 keywords: [""]
 sections: [""]
 is_pref: true
+prefSymbols:
+  - label: "電力会社"
+    name: "東京電力"
+    imgs:
+      - src: "/rule/power/tepco.svg"
+        alt: "東京電力"
 flag: "Tochigi.svg"
 mapProvider: "osm"
 mapPins:

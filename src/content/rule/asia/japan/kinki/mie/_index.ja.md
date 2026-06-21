@@ -7,6 +7,14 @@ draft: false
 keywords: [""]
 sections: [""]
 is_pref: true
+prefSymbols:
+  - label: "電力会社"
+    name: "中部電力／関西電力"
+    imgs:
+      - src: "/rule/power/chubu.svg"
+        alt: "中部電力"
+      - src: "/rule/power/kansai.jpg"
+        alt: "関西電力"
 flag: "Mie.svg"
 mapProvider: "osm"
 mapPins:

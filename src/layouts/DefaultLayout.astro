@@ -144,6 +144,7 @@ if (lang !== "ja") {
       mapRegions: data.mapRegions ?? jaData.mapRegions,
       municipalities: data.municipalities ?? jaData.municipalities,
       heroGallery: data.heroGallery ?? jaData.heroGallery,
+      prefSymbols: data.prefSymbols ?? jaData.prefSymbols,
     };
   }
 }
@@ -471,6 +472,151 @@ const lastmodDisplay = modifiedTime
       margin: 0 auto;
       padding: 0 1.5rem;
     }
+
+    /* 県を象徴するシンボル帯（ヒーロー直下／案C）。紺色ヒーローと同色で
+       連続させ、カードを使わずアイコンチップ＋ラベルを横並びにする。
+       ※角丸は一切使わない（直角デザイン）。 */
+    .rule-hero-symbols {
+      background: #1a2535;
+      padding: 0.75rem 0;
+    }
+    .rule-hero-symbols__inner {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.6rem;
+      align-items: center;
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      list-style: none;
+    }
+    .rule-hero-symbol {
+      display: flex;
+      align-items: center;
+      gap: 0.7rem;
+      min-width: 0;
+      cursor: pointer;
+      outline: none;
+    }
+    /* 白タイルのアイコン（直角）。表示サイズは従来の約2倍。高さ固定・幅可変で、
+       正方形シンボルも横長の企業ロゴも縦横比を保って収める。 */
+    .rule-hero-symbol__icon {
+      flex: 0 0 auto;
+      height: 88px;
+      min-width: 88px;
+      padding: 8px;
+      box-sizing: border-box;
+      background: #fff;
+      border-radius: 0;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      transition: box-shadow 0.15s ease, transform 0.15s ease;
+    }
+    /* 二社またぎ（同サイズ横並び）の間に細い仕切り線 */
+    .rule-hero-symbol__icon--multi { gap: 0; }
+    .rule-hero-symbol__icon--multi .rule-hero-symbol__logo + .rule-hero-symbol__logo {
+      border-left: 1px solid #e3e8ef;
+      padding-left: 10px;
+      margin-left: 10px;
+    }
+    .rule-hero-symbol:hover .rule-hero-symbol__icon,
+    .rule-hero-symbol:focus-visible .rule-hero-symbol__icon {
+      box-shadow: 0 0 0 2px rgba(245, 166, 35, 0.9);
+    }
+    .rule-hero-symbol__icon svg {
+      height: 100%;
+      width: auto;
+      display: block;
+    }
+    .rule-hero-symbol__logo {
+      height: 100%;
+      width: auto;
+      max-width: 132px;
+      object-fit: contain;
+      display: block;
+    }
+    .rule-hero-symbol__text {
+      display: flex;
+      flex-direction: column;
+      line-height: 1.3;
+      min-width: 0;
+    }
+    .rule-hero-symbol__label {
+      font-size: 0.92rem;
+      font-weight: 700;
+      color: #fff;
+    }
+    .rule-hero-symbol__name {
+      font-size: 0.74rem;
+      color: rgba(255, 255, 255, 0.55);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* 地図領域に重ねる拡大オーバーレイ。シンボルへのオンマウスで
+       フェードイン／アウトする（直角・角丸なし）。 */
+    .rule-hero-map { position: relative; }
+    .rule-hero-symbol-overlay {
+      position: absolute;
+      inset: 0;
+      z-index: 5;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(15, 22, 34, 0.92);
+      border-radius: 0;
+      opacity: 0;
+      visibility: hidden;
+      pointer-events: none;
+      transition: opacity 0.18s ease, visibility 0s linear 0.18s;
+    }
+    .rule-hero-symbol-overlay.is-visible {
+      opacity: 1;
+      visibility: visible;
+      transition: opacity 0.18s ease;
+    }
+    .rule-hero-symbol-overlay__inner {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.9rem;
+      padding: 1rem;
+    }
+    .rule-hero-symbol-overlay__art {
+      background: #fff;
+      padding: 22px;
+      box-sizing: border-box;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 28px;
+      max-width: 86%;
+    }
+    .rule-hero-symbol-overlay__art svg,
+    .rule-hero-symbol-overlay__art img {
+      height: clamp(120px, 26vh, 220px);
+      width: auto;
+      max-width: 38vw;
+      object-fit: contain;
+      display: block;
+    }
+    .rule-hero-symbol-overlay__cap {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: #fff;
+      letter-spacing: 0.02em;
+    }
+
+    @media (max-width: 600px) {
+      .rule-hero-symbols__inner { padding: 0 1rem; gap: 1rem 1.2rem; }
+      .rule-hero-symbol__icon { height: 64px; min-width: 64px; padding: 6px; }
+      .rule-hero-symbol__logo { max-width: 104px; }
+      .rule-hero-symbol__label { font-size: 0.85rem; }
+    }
+
     .rule-hero-title {
       display: flex;
       flex-direction: column;
@@ -838,9 +984,75 @@ const lastmodDisplay = modifiedTime
             zoom={data.mapZoom}
             regions={data.mapRegions}
           />
+          {/* シンボルにオンマウスした際、地図領域へ拡大表示するオーバーレイ。
+              中身は JS で hover 中のシンボル SVG を複製して差し込む。 */}
+          {data.prefSymbols && data.prefSymbols.length > 0 && (
+            <div class="rule-hero-symbol-overlay" id="pref-symbol-overlay" aria-hidden="true">
+              <div class="rule-hero-symbol-overlay__inner"></div>
+            </div>
+          )}
         </div>
       </div>
     </section>
+  )}
+
+  {/* 県を象徴するシンボル帯（ヒーロー直下）。電力会社・横断歩道標識・
+      標識ポール模様などを SVG で横並び表示。frontmatter の prefSymbols 駆動。
+      各シンボルにオンマウスすると上の地図領域へ拡大表示（短いフェード）。 */}
+  {useOSMHero && data.prefSymbols && data.prefSymbols.length > 0 && (
+    <Fragment>
+    <div class="rule-hero-symbols">
+      <ul class="rule-hero-symbols__inner">
+        {data.prefSymbols.map((sym: { label: string; name?: string; svg?: string; imgs?: { src: string; alt?: string }[] }) => (
+          <li class="rule-hero-symbol" tabindex="0">
+            <span class={`rule-hero-symbol__icon${sym.imgs && sym.imgs.length > 1 ? " rule-hero-symbol__icon--multi" : ""}`} aria-hidden="true">
+              {sym.svg && <Fragment set:html={sym.svg} />}
+              {sym.imgs && sym.imgs.map((im: { src: string; alt?: string }) => (
+                <img class="rule-hero-symbol__logo" src={im.src} alt={im.alt || sym.label} loading="lazy" decoding="async" />
+              ))}
+            </span>
+            <span class="rule-hero-symbol__text">
+              <span class="rule-hero-symbol__label">{sym.label}</span>
+              {sym.name && <span class="rule-hero-symbol__name">{sym.name}</span>}
+            </span>
+          </li>
+        ))}
+      </ul>
+    </div>
+    <script is:inline>
+      (function () {
+        var overlay = document.getElementById("pref-symbol-overlay");
+        if (!overlay) return;
+        var inner = overlay.querySelector(".rule-hero-symbol-overlay__inner");
+        var items = document.querySelectorAll(".rule-hero-symbols .rule-hero-symbol");
+        var hideTimer = null;
+        function show(item) {
+          if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
+          var icon = item.querySelector(".rule-hero-symbol__icon");
+          var label = item.querySelector(".rule-hero-symbol__label");
+          if (!icon) return;
+          inner.innerHTML =
+            '<div class="rule-hero-symbol-overlay__art">' + icon.innerHTML + "</div>" +
+            (label ? '<div class="rule-hero-symbol-overlay__cap">' + label.textContent + "</div>" : "");
+          overlay.classList.add("is-visible");
+          overlay.setAttribute("aria-hidden", "false");
+        }
+        function hide() {
+          overlay.classList.remove("is-visible");
+          overlay.setAttribute("aria-hidden", "true");
+          // 中身はフェードアウト後に消去
+          if (hideTimer) clearTimeout(hideTimer);
+          hideTimer = setTimeout(function () { inner.innerHTML = ""; }, 220);
+        }
+        items.forEach(function (item) {
+          item.addEventListener("mouseenter", function () { show(item); });
+          item.addEventListener("mouseleave", hide);
+          item.addEventListener("focus", function () { show(item); });
+          item.addEventListener("blur", hide);
+        });
+      })();
+    </script>
+    </Fragment>
   )}
 
   {/* JSMap ヒーロー（map_index のセクションインデックス: /rule/ ワールドマップ等） */}

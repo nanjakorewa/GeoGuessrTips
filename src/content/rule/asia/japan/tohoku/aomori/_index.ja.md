@@ -8,6 +8,12 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 is_pref: true
+prefSymbols:
+  - label: "電力会社"
+    name: "東北電力"
+    imgs:
+      - src: "/rule/power/tohoku.png"
+        alt: "東北電力"
 flag: "Aomori.svg"
 mapProvider: "osm"
 mapPins:

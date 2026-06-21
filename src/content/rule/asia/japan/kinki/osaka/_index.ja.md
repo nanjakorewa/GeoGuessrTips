@@ -8,6 +8,12 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 is_pref: true
+prefSymbols:
+  - label: "電力会社"
+    name: "関西電力"
+    imgs:
+      - src: "/rule/power/kansai.jpg"
+        alt: "関西電力"
 flag: "Osaka.svg"
 mapProvider: "osm"
 mapPins:

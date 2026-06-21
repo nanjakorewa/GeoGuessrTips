@@ -142,6 +142,32 @@ const ruleCollection = defineCollection({
       )
       .optional(),
 
+    // Prefecture identifying symbols. A horizontal strip of SVG marks shown
+    // directly below the navy hero block on prefecture pages: power company,
+    // crosswalk sign design, signpost-pole pattern, retaining-wall pattern,
+    // etc. Each entry carries inline SVG markup so prefectures can be filled
+    // in incrementally without adding asset files.
+    prefSymbols: z
+      .array(
+        z.object({
+          label: z.string(),
+          name: z.string().optional(),
+          // Inline SVG markup (hand-drawn symbols), OR one/two raster/vector
+          // logo files via `imgs` (e.g. power-company logos). Split-area
+          // prefectures (Nagano, Shizuoka, Mie, Fukui) carry two logos.
+          svg: z.string().optional(),
+          imgs: z
+            .array(
+              z.object({
+                src: z.string(),
+                alt: z.string().optional(),
+              })
+            )
+            .optional(),
+        })
+      )
+      .optional(),
+
     // Structured data: FAQ
     faq: z
       .array(

@@ -7,6 +7,12 @@ draft: false
 keywords: [""]
 sections: [""]
 is_pref: true
+prefSymbols:
+  - label: "電力会社"
+    name: "四国電力"
+    imgs:
+      - src: "/rule/power/shikoku.svg"
+        alt: "四国電力"
 flag: "Kochi.svg"
 mapProvider: "osm"
 mapPins:

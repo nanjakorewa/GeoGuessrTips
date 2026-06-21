@@ -7,6 +7,12 @@ draft: false
 keywords: [""]
 sections: [""]
 is_pref: true
+prefSymbols:
+  - label: "電力会社"
+    name: "九州電力"
+    imgs:
+      - src: "/rule/power/kyushu.svg"
+        alt: "九州電力"
 flag: "Saga.svg"
 relatedIndustry:
   - "/industry/japan-pottery/"

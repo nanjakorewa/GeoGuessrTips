@@ -8,6 +8,12 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 is_pref: true
+prefSymbols:
+  - label: "電力会社"
+    name: "沖縄電力"
+    imgs:
+      - src: "/rule/power/okinawa.jpg"
+        alt: "沖縄電力"
 flag: "OKINAWA.svg"
 mapProvider: "osm"
 mapPins:

@@ -24,6 +24,14 @@ features:
     ref: "https://ja.wikipedia.org/wiki/北海道#農業"
   - text: '冬季は豪雪地帯となり、道路には<span class="quiz">矢羽根付きポール</span>（固定式視線誘導柱）が多く設置されている'
     ref: "https://ja.wikipedia.org/wiki/固定式視線誘導柱"
+# 県を象徴するアイコン（ヒーロー直下の横並び帯）。電力会社・横断歩道標識・
+# 標識ポール模様など、その県を一目で見分けられる要素を並べる。
+prefSymbols:
+  - label: "電力会社"
+    name: "北海道電力"
+    imgs:
+      - src: "/rule/power/hokkaido.jpg"
+        alt: "北海道電力"
 prefInfo:
   population: "約 510 万人"
   populationRank: "全国 8 位 / 47 都道府県"

@@ -8,6 +8,12 @@ keywords: [""]
 sections: [""]
 no_jetro: true
 is_pref: true
+prefSymbols:
+  - label: "電力会社"
+    name: "中国電力"
+    imgs:
+      - src: "/rule/power/chugoku.svg"
+        alt: "中国電力"
 flag: "Yamaguchi.svg"
 mapProvider: "osm"
 mapPins:
