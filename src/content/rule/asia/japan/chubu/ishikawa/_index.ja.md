@@ -13,6 +13,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/hokuriku.svg"
         alt: "北陸電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告"
+    bare: true
+    group: "diamond-k"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-k.svg"
+        alt: "ダイヤマーク"
 flag: "Ishikawa.svg"
 mapProvider: "osm"
 mapPins:

@@ -15,11 +15,18 @@ prefSymbols:
       - src: "/rule/power/kyushu.svg"
         alt: "九州電力"
   - label: "ダイヤマーク"
-    name: "横断歩道予告（路面標示）"
+    name: "横断歩道予告"
     bare: true
     group: "diamond"
     imgs:
       - src: "/rule/symbols/crosswalk-diamond.svg"
+        alt: "ダイヤマーク"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告"
+    bare: true
+    group: "diamond-q"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-q.svg"
         alt: "ダイヤマーク"
 flag: "Kagoshima.svg"
 mapProvider: "osm"

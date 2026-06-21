@@ -14,11 +14,18 @@ prefSymbols:
       - src: "/rule/power/tepco.svg"
         alt: "東京電力"
   - label: "ダイヤマーク"
-    name: "横断歩道予告（路面標示）"
+    name: "横断歩道予告"
     bare: true
     group: "diamond-f"
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-f.svg"
+        alt: "ダイヤマーク"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告"
+    bare: true
+    group: "diamond-n"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-n.svg"
         alt: "ダイヤマーク"
 flag: "Ibaraki.svg"
 relatedIndustry:

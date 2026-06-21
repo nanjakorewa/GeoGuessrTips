@@ -14,6 +14,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/chugoku.svg"
         alt: "中国電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告"
+    bare: true
+    group: "diamond-q"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-q.svg"
+        alt: "ダイヤマーク"
 flag: "Yamaguchi.svg"
 mapProvider: "osm"
 mapPins:

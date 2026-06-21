@@ -14,6 +14,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/tepco.svg"
         alt: "東京電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告"
+    bare: true
+    group: "diamond-l"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-l.svg"
+        alt: "ダイヤマーク"
 flag: "Yamanashi.svg"
 mapProvider: "osm"
 mapPins:

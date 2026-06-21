@@ -15,6 +15,20 @@ prefSymbols:
         alt: "中部電力"
       - src: "/rule/power/tepco.svg"
         alt: "東京電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告"
+    bare: true
+    group: "diamond-l"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-l.svg"
+        alt: "ダイヤマーク"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告"
+    bare: true
+    group: "diamond-q"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-q.svg"
+        alt: "ダイヤマーク"
 flag: "Nagano.svg"
 mapProvider: "osm"
 mapPins:
