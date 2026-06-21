@@ -39,6 +39,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond.svg"
         alt: "ダイヤマーク"
+  - label: "標識ポール"
+    name: "点検シール"
+    bare: true
+    imgs:
+      - src: "/rule/poles/hokkaido.png"
+        alt: "標識ポール"
 prefInfo:
   population: "約 510 万人"
   populationRank: "全国 8 位 / 47 都道府県"

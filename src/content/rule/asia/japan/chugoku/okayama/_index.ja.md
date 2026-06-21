@@ -20,6 +20,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-b.svg"
         alt: "ダイヤマーク"
+  - label: "標識ポール"
+    name: "点検シール"
+    bare: true
+    imgs:
+      - src: "/rule/poles/okayama.png"
+        alt: "標識ポール"
 flag: "Okayama.svg"
 relatedIndustry:
   - "/industry/japan-combinat/mizushima/"
