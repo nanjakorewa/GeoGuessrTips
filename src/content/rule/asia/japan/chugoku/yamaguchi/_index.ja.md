@@ -21,6 +21,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-q.svg"
         alt: "ダイヤマーク"
+  - label: "標識ポール"
+    name: "点検シール"
+    bare: true
+    imgs:
+      - src: "/rule/poles/yamaguchi.png"
+        alt: "標識ポール"
 flag: "Yamaguchi.svg"
 mapProvider: "osm"
 mapPins:

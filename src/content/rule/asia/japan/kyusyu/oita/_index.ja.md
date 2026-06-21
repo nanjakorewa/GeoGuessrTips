@@ -20,6 +20,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-g.svg"
         alt: "ダイヤマーク"
+  - label: "標識ポール"
+    name: "点検シール"
+    bare: true
+    imgs:
+      - src: "/rule/poles/oita.png"
+        alt: "標識ポール"
 flag: "Oita.svg"
 relatedIndustry:
   - "/industry/japan-semiconductor/kyushu/"
