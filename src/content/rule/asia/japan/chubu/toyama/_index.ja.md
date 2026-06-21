@@ -14,7 +14,7 @@ prefSymbols:
       - src: "/rule/power/hokuriku.svg"
         alt: "北陸電力"
   - label: "ダイヤマーク"
-    name: "横断歩道予告（路面標示）"
+    name: "横断歩道予告"
     bare: true
     group: "diamond-g"
     imgs:

@@ -15,7 +15,7 @@ prefSymbols:
       - src: "/rule/power/okinawa.jpg"
         alt: "沖縄電力"
   - label: "ダイヤマーク"
-    name: "横断歩道予告（路面標示）"
+    name: "横断歩道予告"
     bare: true
     group: "diamond-f"
     imgs:

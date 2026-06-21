@@ -15,7 +15,7 @@ prefSymbols:
       - src: "/rule/power/kyushu.svg"
         alt: "九州電力"
   - label: "ダイヤマーク"
-    name: "横断歩道予告（路面標示）"
+    name: "横断歩道予告"
     bare: true
     group: "diamond"
     imgs:

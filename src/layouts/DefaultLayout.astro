@@ -1144,7 +1144,7 @@ const lastmodDisplay = modifiedTime
           // group シンボル（ダイヤマーク等）：同じシンボルを使う県一覧
           var group = item.getAttribute("data-group");
           if (group && groups[group]) {
-            secs += section((label ? label.textContent : "") + "を使う県", groups[group]);
+            secs += section("この" + (label ? label.textContent : "") + "を使う県", groups[group]);
           }
           var capHtml = secs || (label ? esc(label.textContent) : "");
           inner.innerHTML =

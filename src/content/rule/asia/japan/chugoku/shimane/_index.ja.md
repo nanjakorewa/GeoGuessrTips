@@ -14,7 +14,7 @@ prefSymbols:
       - src: "/rule/power/chugoku.svg"
         alt: "中国電力"
   - label: "ダイヤマーク"
-    name: "横断歩道予告（路面標示）"
+    name: "横断歩道予告"
     bare: true
     group: "diamond-h"
     imgs:
