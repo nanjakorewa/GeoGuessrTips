@@ -20,13 +20,6 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-e.svg"
         alt: "ダイヤマーク"
-  - label: "ダイヤマーク"
-    name: "横断歩道予告"
-    bare: true
-    group: "diamond-m"
-    imgs:
-      - src: "/rule/symbols/crosswalk-diamond-m.svg"
-        alt: "ダイヤマーク"
   - label: "標識ポール"
     name: "点検シール"
     bare: true
