@@ -164,6 +164,13 @@ const ruleCollection = defineCollection({
               })
             )
             .optional(),
+          // Render without the white tile/frame (transparent on the navy
+          // band) — for white-figure marks like the crosswalk diamond.
+          bare: z.boolean().optional(),
+          // Grouping key. Symbols sharing a group (e.g. "diamond") are
+          // cross-referenced: hovering one lists every prefecture that uses
+          // the same symbol in the enlarged overlay caption.
+          group: z.string().optional(),
         })
       )
       .optional(),

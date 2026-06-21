@@ -149,6 +149,39 @@ if (lang !== "ja") {
   }
 }
 
+// prefSymbols のグループ集計：同じ group（例: "diamond"）を持つシンボルを
+// 使う都道府県名を集める。ヒーロー直下のシンボルにオンマウスして拡大表示した
+// とき、同じシンボルを使う県の一覧をキャプションに出すために使う。
+// （prefSymbols は ja 版にのみ定義されるため ja エントリのみ走査）
+const symbolGroupMembers: Record<string, string[]> = {};
+// 電力会社ごとの県一覧。prefSymbols の imgs のうち src が "/rule/power/" で
+// 始まるものを電力会社ロゴとみなし、その alt（会社名）をキーに県名を集める。
+// 二社またぎ県（長野・静岡・三重・福井）は両社の一覧に含まれる。
+const powerCompanyMembers: Record<string, string[]> = {};
+{
+  const jaSorted = sectionEntries
+    .filter((e: any) => extractLangFromId(e.id) === "ja")
+    .sort((a: any, b: any) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
+  for (const e of jaSorted) {
+    const syms = (e as any).data?.prefSymbols;
+    if (!Array.isArray(syms)) continue;
+    const title = (e as any).data?.title;
+    if (!title) continue;
+    for (const s of syms) {
+      if (s && s.group) {
+        (symbolGroupMembers[s.group] ||= []).push(title);
+      }
+      if (s && Array.isArray(s.imgs)) {
+        for (const im of s.imgs) {
+          if (im && typeof im.src === "string" && im.src.startsWith("/rule/power/") && im.alt) {
+            (powerCompanyMembers[im.alt] ||= []).push(title);
+          }
+        }
+      }
+    }
+  }
+}
+
 const tree = buildContentTree(
   sectionEntries.map((e: any) => ({ id: e.id, data: e.data })),
   collection,
@@ -587,32 +620,87 @@ const lastmodDisplay = modifiedTime
     }
     .rule-hero-symbol-overlay__art {
       background: #fff;
-      padding: 22px;
+      padding: 20px 24px;
       box-sizing: border-box;
       display: flex;
+      flex-wrap: nowrap;
       align-items: center;
       justify-content: center;
-      gap: 28px;
-      max-width: 86%;
+      gap: 22px;
+      max-width: 92%;
     }
+    /* 画像は明示的な高さで描画（viewBox のみの SVG も確実に表示される）。
+       幅は上限を設けてはみ出しを防ぐ。 */
     .rule-hero-symbol-overlay__art svg,
     .rule-hero-symbol-overlay__art img {
-      height: clamp(120px, 26vh, 220px);
+      height: clamp(120px, 26vh, 210px);
       width: auto;
-      max-width: 38vw;
+      max-width: 100%;
+      min-width: 0;
       object-fit: contain;
       display: block;
+    }
+    /* 電力二社（横並びのまま白枠内に収まるよう一回り小さく） */
+    .rule-hero-symbol-overlay__art.is-multi { gap: 18px; }
+    .rule-hero-symbol-overlay__art.is-multi svg,
+    .rule-hero-symbol-overlay__art.is-multi img {
+      height: clamp(90px, 19vh, 160px);
+      max-width: 44%;
     }
     .rule-hero-symbol-overlay__cap {
       font-size: 1.05rem;
       font-weight: 700;
       color: #fff;
       letter-spacing: 0.02em;
+      text-align: center;
+    }
+    /* 同じシンボルを使う県の一覧（拡大表示時のキャプション） */
+    .rule-hero-symbol-overlay__capsec + .rule-hero-symbol-overlay__capsec {
+      margin-top: 0.8rem;
+      padding-top: 0.7rem;
+      border-top: 1px solid rgba(255, 255, 255, 0.15);
+    }
+    .rule-hero-symbol-overlay__caphead {
+      display: block;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: rgba(255, 255, 255, 0.6);
+      margin-bottom: 0.4rem;
+    }
+    .rule-hero-symbol-overlay__list {
+      display: block;
+      max-width: min(80%, 640px);
+      margin: 0 auto;
+      font-size: 1.0rem;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.6;
+    }
+
+    /* 白タイルを使わないシンボル（白図形向け）。帯の紺色に直接描画し、
+       枠・余白を持たず、表示サイズを一回り大きくする。 */
+    .rule-hero-symbol__icon--bare {
+      background: transparent;
+      padding: 0;
+      height: 116px;
+      min-width: 0;
+      box-shadow: none !important;
+    }
+    /* 拡大オーバーレイでも白タイルを外し、紺の暗幕に直接白図形を出す */
+    .rule-hero-symbol-overlay__art.is-bare {
+      background: transparent;
+      padding: 0;
+    }
+    .rule-hero-symbol-overlay__art.is-bare img,
+    .rule-hero-symbol-overlay__art.is-bare svg {
+      height: clamp(180px, 40vh, 320px);
+      max-width: 90%;
     }
 
     @media (max-width: 600px) {
       .rule-hero-symbols__inner { padding: 0 1rem; gap: 1rem 1.2rem; }
       .rule-hero-symbol__icon { height: 64px; min-width: 64px; padding: 6px; }
+      .rule-hero-symbol__icon--bare { height: 88px; min-width: 0; padding: 0; }
       .rule-hero-symbol__logo { max-width: 104px; }
       .rule-hero-symbol__label { font-size: 0.85rem; }
     }
@@ -1003,9 +1091,9 @@ const lastmodDisplay = modifiedTime
     <Fragment>
     <div class="rule-hero-symbols">
       <ul class="rule-hero-symbols__inner">
-        {data.prefSymbols.map((sym: { label: string; name?: string; svg?: string; imgs?: { src: string; alt?: string }[] }) => (
-          <li class="rule-hero-symbol" tabindex="0">
-            <span class={`rule-hero-symbol__icon${sym.imgs && sym.imgs.length > 1 ? " rule-hero-symbol__icon--multi" : ""}`} aria-hidden="true">
+        {data.prefSymbols.map((sym: { label: string; name?: string; svg?: string; imgs?: { src: string; alt?: string }[]; bare?: boolean; group?: string }) => (
+          <li class={`rule-hero-symbol${sym.bare ? " rule-hero-symbol--bare" : ""}`} tabindex="0" data-bare={sym.bare ? "1" : "0"} data-group={sym.group || ""} data-companies={(sym.imgs || []).filter((im) => typeof im.src === "string" && im.src.startsWith("/rule/power/")).map((im) => im.alt || "").filter(Boolean).join("|")}>
+            <span class={`rule-hero-symbol__icon${sym.imgs && sym.imgs.length > 1 ? " rule-hero-symbol__icon--multi" : ""}${sym.bare ? " rule-hero-symbol__icon--bare" : ""}`} aria-hidden="true">
               {sym.svg && <Fragment set:html={sym.svg} />}
               {sym.imgs && sym.imgs.map((im: { src: string; alt?: string }) => (
                 <img class="rule-hero-symbol__logo" src={im.src} alt={im.alt || sym.label} loading="lazy" decoding="async" />
@@ -1019,21 +1107,49 @@ const lastmodDisplay = modifiedTime
         ))}
       </ul>
     </div>
-    <script is:inline>
+    <script is:inline define:vars={{ symbolGroupMembers, powerCompanyMembers }}>
       (function () {
         var overlay = document.getElementById("pref-symbol-overlay");
         if (!overlay) return;
         var inner = overlay.querySelector(".rule-hero-symbol-overlay__inner");
         var items = document.querySelectorAll(".rule-hero-symbols .rule-hero-symbol");
+        var groups = symbolGroupMembers || {};
+        var companies = powerCompanyMembers || {};
         var hideTimer = null;
+        function esc(s) {
+          return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+        }
+        function section(head, list) {
+          if (!list || !list.length) return "";
+          return (
+            '<div class="rule-hero-symbol-overlay__capsec">' +
+            '<span class="rule-hero-symbol-overlay__caphead">' + esc(head) + "</span>" +
+            '<span class="rule-hero-symbol-overlay__list">' + list.map(esc).join("・") + "</span>" +
+            "</div>"
+          );
+        }
         function show(item) {
           if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
           var icon = item.querySelector(".rule-hero-symbol__icon");
           var label = item.querySelector(".rule-hero-symbol__label");
           if (!icon) return;
+          var bare = item.getAttribute("data-bare") === "1";
+          var multi = icon.querySelectorAll("img").length > 1;
+          var secs = "";
+          // 電力会社：会社名ごとに「○○電力エリアの県」一覧（二社またぎは両方）
+          var comps = (item.getAttribute("data-companies") || "").split("|").filter(Boolean);
+          comps.forEach(function (c) {
+            secs += section(c + "エリアの県", companies[c]);
+          });
+          // group シンボル（ダイヤマーク等）：同じシンボルを使う県一覧
+          var group = item.getAttribute("data-group");
+          if (group && groups[group]) {
+            secs += section((label ? label.textContent : "") + "を使う県", groups[group]);
+          }
+          var capHtml = secs || (label ? esc(label.textContent) : "");
           inner.innerHTML =
-            '<div class="rule-hero-symbol-overlay__art">' + icon.innerHTML + "</div>" +
-            (label ? '<div class="rule-hero-symbol-overlay__cap">' + label.textContent + "</div>" : "");
+            '<div class="rule-hero-symbol-overlay__art' + (bare ? " is-bare" : "") + (multi ? " is-multi" : "") + '">' + icon.innerHTML + "</div>" +
+            (capHtml ? '<div class="rule-hero-symbol-overlay__cap">' + capHtml + "</div>" : "");
           overlay.classList.add("is-visible");
           overlay.setAttribute("aria-hidden", "false");
         }

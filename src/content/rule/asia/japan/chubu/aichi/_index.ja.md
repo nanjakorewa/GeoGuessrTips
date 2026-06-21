@@ -14,6 +14,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/chubu.svg"
         alt: "中部電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告（路面標示）"
+    bare: true
+    group: "diamond"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond.svg"
+        alt: "ダイヤマーク"
 flag: "Aichi.svg"
 relatedIndustry:
   - "/industry/japan-pottery/"
@@ -265,9 +272,4 @@ references:
                 <td>トヨタ自動車</td>
                 <td>{{% minkabu 7203 %}}</td>
                 <td>世界最大規模の自動車メーカー。日本で一番売上と従業員数が大きい会社。</td>
-                <td>{{% corplink "https://global.toyota/jp/ir/financial-results/" %}}</td>
-                <td>{{% dividend "tokyo" "7203" %}}</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+                <td>{{% co

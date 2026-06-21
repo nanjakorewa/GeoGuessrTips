@@ -14,6 +14,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/chubu.svg"
         alt: "中部電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告（路面標示）"
+    bare: true
+    group: "diamond-d"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-d.svg"
+        alt: "ダイヤマーク"
 flag: "Gifu.svg"
 mapProvider: "osm"
 mapPins:

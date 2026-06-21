@@ -13,6 +13,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/kyushu.svg"
         alt: "九州電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告（路面標示）"
+    bare: true
+    group: "diamond"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond.svg"
+        alt: "ダイヤマーク"
 flag: "Nagasaki.svg"
 relatedIndustry:
   - "/industry/japan-shipbuilding/"

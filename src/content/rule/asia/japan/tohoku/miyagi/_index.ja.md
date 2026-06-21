@@ -13,6 +13,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/tohoku.png"
         alt: "東北電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告（路面標示）"
+    bare: true
+    group: "diamond-b"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-b.svg"
+        alt: "ダイヤマーク"
 flag: "Miyagi.svg"
 mapProvider: "osm"
 mapPins:

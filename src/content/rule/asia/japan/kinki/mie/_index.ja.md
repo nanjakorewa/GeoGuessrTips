@@ -15,6 +15,13 @@ prefSymbols:
         alt: "中部電力"
       - src: "/rule/power/kansai.jpg"
         alt: "関西電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告（路面標示）"
+    bare: true
+    group: "diamond-c"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-c.svg"
+        alt: "ダイヤマーク"
 flag: "Mie.svg"
 mapProvider: "osm"
 mapPins:

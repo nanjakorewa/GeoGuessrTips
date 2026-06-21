@@ -13,6 +13,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/tepco.svg"
         alt: "東京電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告（路面標示）"
+    bare: true
+    group: "diamond-d"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-d.svg"
+        alt: "ダイヤマーク"
 flag: "Gunma.svg"
 mapProvider: "osm"
 mapPins:

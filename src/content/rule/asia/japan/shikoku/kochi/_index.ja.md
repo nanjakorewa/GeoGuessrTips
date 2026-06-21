@@ -13,6 +13,13 @@ prefSymbols:
     imgs:
       - src: "/rule/power/shikoku.svg"
         alt: "四国電力"
+  - label: "ダイヤマーク"
+    name: "横断歩道予告（路面標示）"
+    bare: true
+    group: "diamond-c"
+    imgs:
+      - src: "/rule/symbols/crosswalk-diamond-c.svg"
+        alt: "ダイヤマーク"
 flag: "Kochi.svg"
 mapProvider: "osm"
 mapPins:
