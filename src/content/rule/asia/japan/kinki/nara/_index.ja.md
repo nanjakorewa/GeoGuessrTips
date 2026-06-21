@@ -27,6 +27,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-m.svg"
         alt: "ダイヤマーク"
+  - label: "標識ポール"
+    name: "点検シール"
+    bare: true
+    imgs:
+      - src: "/rule/poles/nara.png"
+        alt: "標識ポール"
 flag: "Nara.svg"
 mapProvider: "osm"
 mapPins:

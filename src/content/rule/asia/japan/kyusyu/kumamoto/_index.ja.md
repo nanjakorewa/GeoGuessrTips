@@ -21,6 +21,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-k.svg"
         alt: "ダイヤマーク"
+  - label: "標識ポール"
+    name: "点検シール"
+    bare: true
+    imgs:
+      - src: "/rule/poles/kumamoto.png"
+        alt: "標識ポール"
 flag: "Kumamoto.svg"
 relatedIndustry:
   - "/industry/japan-semiconductor/kyushu/"

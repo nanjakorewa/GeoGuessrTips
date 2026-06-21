@@ -21,6 +21,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond.svg"
         alt: "ダイヤマーク"
+  - label: "標識ポール"
+    name: "点検シール"
+    bare: true
+    imgs:
+      - src: "/rule/poles/osaka.png"
+        alt: "標識ポール"
 flag: "Osaka.svg"
 mapProvider: "osm"
 mapPins:

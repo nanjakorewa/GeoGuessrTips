@@ -601,6 +601,7 @@ const lastmodDisplay = modifiedTime
       justify-content: center;
       background: rgba(15, 22, 34, 0.92);
       border-radius: 0;
+      overflow: hidden;
       opacity: 0;
       visibility: hidden;
       pointer-events: none;
@@ -696,8 +697,17 @@ const lastmodDisplay = modifiedTime
       height: clamp(180px, 40vh, 320px);
       max-width: 90%;
     }
+    /* 標識ポール（写真）はディテールが見えるよう、帯・拡大表示ともさらに大きく。
+       拡大表示は地図領域（高さ 480px）＋キャプション内に収まるよう上限を設ける。 */
+    .rule-hero-symbol__icon--pole { height: 150px; }
+    .rule-hero-symbol-overlay__art.is-pole img {
+      height: auto;
+      max-height: min(62vh, 392px);
+      max-width: 92%;
+    }
 
     @media (max-width: 600px) {
+      .rule-hero-symbol__icon--pole { height: 116px; }
       .rule-hero-symbols__inner { padding: 0 1rem; gap: 1rem 1.2rem; }
       .rule-hero-symbol__icon { height: 64px; min-width: 64px; padding: 6px; }
       .rule-hero-symbol__icon--bare { height: 88px; min-width: 0; padding: 0; }
@@ -1092,8 +1102,8 @@ const lastmodDisplay = modifiedTime
     <div class="rule-hero-symbols">
       <ul class="rule-hero-symbols__inner">
         {data.prefSymbols.map((sym: { label: string; name?: string; svg?: string; imgs?: { src: string; alt?: string }[]; bare?: boolean; group?: string }) => (
-          <li class={`rule-hero-symbol${sym.bare ? " rule-hero-symbol--bare" : ""}`} tabindex="0" data-bare={sym.bare ? "1" : "0"} data-group={sym.group || ""} data-companies={(sym.imgs || []).filter((im) => typeof im.src === "string" && im.src.startsWith("/rule/power/")).map((im) => im.alt || "").filter(Boolean).join("|")}>
-            <span class={`rule-hero-symbol__icon${sym.imgs && sym.imgs.length > 1 ? " rule-hero-symbol__icon--multi" : ""}${sym.bare ? " rule-hero-symbol__icon--bare" : ""}`} aria-hidden="true">
+          <li class={`rule-hero-symbol${sym.bare ? " rule-hero-symbol--bare" : ""}`} tabindex="0" data-bare={sym.bare ? "1" : "0"} data-pole={(sym.imgs || []).some((im) => typeof im.src === "string" && im.src.startsWith("/rule/poles/")) ? "1" : "0"} data-group={sym.group || ""} data-companies={(sym.imgs || []).filter((im) => typeof im.src === "string" && im.src.startsWith("/rule/power/")).map((im) => im.alt || "").filter(Boolean).join("|")}>
+            <span class={`rule-hero-symbol__icon${sym.imgs && sym.imgs.length > 1 ? " rule-hero-symbol__icon--multi" : ""}${sym.bare ? " rule-hero-symbol__icon--bare" : ""}${(sym.imgs || []).some((im) => typeof im.src === "string" && im.src.startsWith("/rule/poles/")) ? " rule-hero-symbol__icon--pole" : ""}`} aria-hidden="true">
               {sym.svg && <Fragment set:html={sym.svg} />}
               {sym.imgs && sym.imgs.map((im: { src: string; alt?: string }) => (
                 <img class="rule-hero-symbol__logo" src={im.src} alt={im.alt || sym.label} loading="lazy" decoding="async" />
@@ -1134,6 +1144,7 @@ const lastmodDisplay = modifiedTime
           var label = item.querySelector(".rule-hero-symbol__label");
           if (!icon) return;
           var bare = item.getAttribute("data-bare") === "1";
+          var pole = item.getAttribute("data-pole") === "1";
           var multi = icon.querySelectorAll("img").length > 1;
           var secs = "";
           // 電力会社：会社名ごとに「○○電力エリアの県」一覧（二社またぎは両方）
@@ -1148,7 +1159,7 @@ const lastmodDisplay = modifiedTime
           }
           var capHtml = secs || (label ? esc(label.textContent) : "");
           inner.innerHTML =
-            '<div class="rule-hero-symbol-overlay__art' + (bare ? " is-bare" : "") + (multi ? " is-multi" : "") + '">' + icon.innerHTML + "</div>" +
+            '<div class="rule-hero-symbol-overlay__art' + (bare ? " is-bare" : "") + (multi ? " is-multi" : "") + (pole ? " is-pole" : "") + '">' + icon.innerHTML + "</div>" +
             (capHtml ? '<div class="rule-hero-symbol-overlay__cap">' + capHtml + "</div>" : "");
           overlay.classList.add("is-visible");
           overlay.setAttribute("aria-hidden", "false");

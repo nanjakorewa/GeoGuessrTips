@@ -23,6 +23,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-p.svg"
         alt: "ダイヤマーク"
+  - label: "標識ポール"
+    name: "点検シール"
+    bare: true
+    imgs:
+      - src: "/rule/poles/shizuoka.png"
+        alt: "標識ポール"
 flag: "Shizuoka.svg"
 mapProvider: "osm"
 mapPins:
