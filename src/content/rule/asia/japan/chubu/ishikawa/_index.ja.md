@@ -94,9 +94,24 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は076</li>
+      <li>能登地方は黒く光る<span class="quiz">能登瓦</span>の屋根の集落が続く</li>
     </ul>
     {{% corp "asia/japan" "chubu/ishikawa" %}}
 </div>
+
+
+{{% tabs %}}
+{{% tab "能登瓦" %}}
+{{% notice tip %}}
+黒く光沢のある能登瓦は能登半島全体でみられる。他の地域の瓦よりも深い黒色であり光沢がある。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Monzen_townscape_ac_(2).jpg#/media/File:Monzen_townscape_ac_(2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Monzen_townscape_ac_%282%29.jpg" alt="Monzen townscape ac (2).jpg" height="851" width="1280"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Asturio_Cantabrio" title="User:Asturio Cantabrio">Asturio Cantabrio</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=120809235">Link</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>
@@ -105,7 +120,6 @@ references:
         <li>輪島市は<span class="quiz">輪島塗</span>と朝市で知られる能登の街</li>
         <li>加賀市は<span class="quiz">九谷焼</span>の産地で、山代・山中・片山津の温泉が点在</li>
         <li>小松市は建設機械大手<span class="quiz">コマツ</span>（小松製作所）発祥の地</li>
-        <li>能登地方は黒く光る<span class="quiz">能登瓦</span>の屋根の集落が続く</li>
     </ul>
 </div>
 
@@ -140,16 +154,6 @@ references:
 
 <div class="googlemap-if no-margin">
 <img src="komatsu.jpg" width="720" alt="Ishikawa GeoGuessr guide image showing Komatsu">
-</div>
-{{% /tab %}}
-{{% tab "能登瓦" %}}
-{{% notice tip %}}
-黒く光沢のある能登瓦は能登半島全体でみられる。他の地域の瓦よりも深い黒色であり光沢がある。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Monzen_townscape_ac_(2).jpg#/media/File:Monzen_townscape_ac_(2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Monzen_townscape_ac_%282%29.jpg" alt="Monzen townscape ac (2).jpg" height="851" width="1280"></a></p>
-<p>By <a href="//commons.wikimedia.org/wiki/User:Asturio_Cantabrio" title="User:Asturio Cantabrio">Asturio Cantabrio</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=120809235">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
