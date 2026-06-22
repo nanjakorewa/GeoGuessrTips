@@ -27,6 +27,12 @@ prefSymbols:
     imgs:
       - src: "/rule/poles/gifu.png"
         alt: "標識ポール"
+  - label: "止まれ"
+    name: "独自デザイン"
+    bare: true
+    imgs:
+      - src: "/rule/stop/gifu.jpg"
+        alt: "止まれ道路標示"
 flag: "Gifu.svg"
 mapProvider: "osm"
 mapPins:
@@ -172,9 +178,24 @@ prefInfo:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は058</li>
+            <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
     </ul>
+
     {{% corp "asia/japan" "chubu/gifu" %}}
 </div>
+
+{{% tabs %}}
+{{% tab "止まれ" %}}
+{{% notice tip %}}
+独自の止まれデザイン。刃物のような切れ味の「れ」は、刃物シェア日本一の岐阜県の「れ」だ。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/stop/gifu.jpg" width="240px" alt="岐阜県の止まれ道路標示">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>

@@ -26,6 +26,12 @@ prefSymbols:
     imgs:
       - src: "/rule/poles/oita.png"
         alt: "標識ポール"
+  - label: "止まれ"
+    name: "独自デザイン"
+    bare: true
+    imgs:
+      - src: "/rule/stop/oita.jpg"
+        alt: "止まれ道路標示"
 flag: "Oita.svg"
 relatedIndustry:
   - "/industry/japan-semiconductor/kyushu/"
@@ -105,9 +111,24 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は097</li>
+            <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/oita" %}}
 </div>
+
+
+{{% tabs %}}
+{{% tab "止まれ" %}}
+{{% notice tip %}}
+独自の止まれデザイン。「ま」の切れ目に注目。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/stop/oita.jpg" width="240px" alt="大分県の止まれ道路標示">
+</div>
+  
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>

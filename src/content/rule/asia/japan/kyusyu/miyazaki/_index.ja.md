@@ -20,6 +20,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond.svg"
         alt: "ダイヤマーク"
+  - label: "止まれ"
+    name: "独自デザイン"
+    bare: true
+    imgs:
+      - src: "/rule/stop/miyazaki.jpg"
+        alt: "止まれ道路標示"
 flag: "Miyazaki.svg"
 mapProvider: "osm"
 mapPins:
@@ -95,9 +101,24 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は0985</li>
+            <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/miyazaki" %}}
 </div>
+
+
+{{% tabs %}}
+{{% tab "止まれ" %}}
+{{% notice tip %}}
+独自の止まれデザイン。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/stop/miyazaki.jpg" width="240px" alt="宮崎県の止まれ道路標示">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>

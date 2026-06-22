@@ -28,6 +28,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-q.svg"
         alt: "ダイヤマーク"
+  - label: "止まれ"
+    name: "独自デザイン"
+    bare: true
+    imgs:
+      - src: "/rule/stop/kagoshima.jpg"
+        alt: "止まれ道路標示"
 flag: "Kagoshima.svg"
 mapProvider: "osm"
 mapPins:
@@ -126,6 +132,7 @@ references:
         <li>茶の生産は2023年時点で日本一であり、茶畑が多い</li>
         <li>克灰袋（こくはいぶくろ）の捨て場所が街中にある</li>
         <li>横断歩道前のダイヤマーク標示が他県と異なる形状をしている</li>
+            <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/kagoshima" %}}
 </div>
@@ -171,9 +178,13 @@ references:
 </div>
 
 {{% /tab %}}
+{{% tab "止まれ" %}}
+
+<div class="googlemap-if">
+<img src="/rule/stop/kagoshima.jpg" width="240px" alt="鹿児島県の止まれ道路標示">
+</div>
+{{% /tab %}}
 {{% /tabs %}}
-
-
 
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>

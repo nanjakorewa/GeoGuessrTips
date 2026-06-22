@@ -40,6 +40,12 @@ prefSymbols:
     imgs:
       - src: "/rule/walls/fukuoka_nagasaki.png"
         alt: "擁壁"
+  - label: "止まれ"
+    name: "独自デザイン"
+    bare: true
+    imgs:
+      - src: "/rule/stop/nagasaki.jpg"
+        alt: "止まれ道路標示"
 flag: "Nagasaki.svg"
 relatedIndustry:
   - "/industry/japan-shipbuilding/"
@@ -122,6 +128,7 @@ references:
       <li>市外局番は095</li>
       <li>斜面が多い</li>
       <li>自転車を保有している家庭が少ない</li>
+            <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/nagasaki" %}}
 </div>
@@ -146,6 +153,16 @@ references:
 <img src="route34_nagasaki_city_office.jpg" alt="長崎の景色">
 </div>
 
+{{% /tab %}}
+{{% tab "止まれ" %}}
+{{% notice tip %}}
+独自の止まれデザイン。「れ」の最後のはねに注目。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/stop/nagasaki.jpg" width="240px" alt="長崎県の止まれ道路標示">
+</div>
+  
 {{% /tab %}}
 {{% /tabs %}}
 

@@ -28,6 +28,12 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond-q.svg"
         alt: "ダイヤマーク"
+  - label: "止まれ"
+    name: "独自デザイン"
+    bare: true
+    imgs:
+      - src: "/rule/stop/aichi.jpg"
+        alt: "止まれ道路標示"
 flag: "Aichi.svg"
 relatedIndustry:
   - "/industry/japan-pottery/"
@@ -150,6 +156,7 @@ references:
     <ul class="rule-list">
       <li>市外局番は052</li>
         <li>東海で横断歩道の道路標示に切れ目が無いのは愛知県</li>
+            <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
     </ul>
     {{% corp "asia/japan" "chubu/aichi" %}}
 </div>
@@ -162,10 +169,6 @@ references:
 
 <div class="googlemap-if">
 <img src="aichi_pref_r_281.jpg" alt="Aichi GeoGuessr guide image showing Aichi Pref R 281">
-</div>
-
-<div class="googlemap-if">
-<img src="diamond-marking.svg" width="120px" alt="Aichi GeoGuessr guide image showing Diamond crosswalk marking">
 </div>
 
 {{% /tab %}}
@@ -188,6 +191,16 @@ references:
 <img src="../../pole/pole-chubu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Chubu">
 </div>
 
+{{% /tab %}}
+{{% tab "止まれ" %}}
+{{% notice tip %}}
+独自の止まれデザイン。れの右側に出っ張りがあり、似たようなデザインは{{% goto "../../kanto/fukushima/" "福島" %}}にもある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/stop/aichi.jpg" width="240px" alt="愛知県の止まれ道路標示">
+</div>
+  
 {{% /tab %}}
 {{% /tabs %}}
 

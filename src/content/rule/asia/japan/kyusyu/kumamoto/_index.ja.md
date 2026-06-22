@@ -27,6 +27,12 @@ prefSymbols:
     imgs:
       - src: "/rule/poles/kumamoto.png"
         alt: "標識ポール"
+  - label: "止まれ"
+    name: "独自デザイン"
+    bare: true
+    imgs:
+      - src: "/rule/stop/kumamoto.jpg"
+        alt: "止まれ道路標示"
 flag: "Kumamoto.svg"
 relatedIndustry:
   - "/industry/japan-semiconductor/kyushu/"
@@ -138,6 +144,7 @@ references:
       <li>市外局番は096</li>
         <li>熊本の標識には赤いテープが巻いてある</li>
         <li>菊陽町を中心に半導体企業が多く進出している</li>
+            <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/Kumamoto" %}}
 </div>
@@ -160,6 +167,17 @@ references:
 
 <div class="googlemap-if">
 <img src="../../pole/pole-kyusyu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Kyusyu">
+</div>
+
+{{% /tab %}}
+{{% tab "止まれ" %}}
+{{% notice tip %}}
+独自デザインの止まれ。「ま」の穴に注目。
+{{% /notice %}}
+
+
+<div class="googlemap-if">
+<img src="/rule/stop/kumamoto.jpg" width="240px" alt="熊本県の止まれ道路標示">
 </div>
 
 {{% /tab %}}

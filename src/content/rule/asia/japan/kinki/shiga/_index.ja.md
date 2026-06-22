@@ -28,6 +28,12 @@ prefSymbols:
     imgs:
       - src: "/rule/walls/shiga_kyoto.png"
         alt: "擁壁"
+  - label: "止まれ"
+    name: "独自デザイン"
+    bare: true
+    imgs:
+      - src: "/rule/stop/shiga.jpg"
+        alt: "止まれ道路標示"
 flag: "Shiga.svg"
 mapProvider: "osm"
 mapPins:
@@ -105,9 +111,23 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は077</li>
+            <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
     </ul>
     {{% corp "asia/japan" "kinki/shiga" %}}
 </div>
+
+{{% tabs %}}
+{{% tab "止まれ" %}}
+{{% notice tip %}}
+独自の止まれデザイン。「ま」も「れ」も特徴的。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/stop/shiga.jpg" width="240px" alt="滋賀県の止まれ道路標示">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>

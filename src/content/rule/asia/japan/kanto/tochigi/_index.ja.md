@@ -23,6 +23,7 @@ prefSymbols:
   - label: "標識ポール"
     name: "点検シール"
     bare: true
+    note: "規制標識のポールに小さく丸いシールがひとつついている。２０１４年に規制標識の調査を行った際に貼られたものであり、それ以前に撮影されたものには映っていないので注意。"
     imgs:
       - src: "/rule/poles/tochigi.png"
         alt: "標識ポール"
