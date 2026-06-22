@@ -179,6 +179,7 @@ prefInfo:
     <ul class="rule-list">
       <li>市外局番は058</li>
             <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
+            <li>標識のポールに黄色いテープと花が描かれたシールが貼ってある</li>
     </ul>
 
     {{% corp "asia/japan" "chubu/gifu" %}}
@@ -192,6 +193,16 @@ prefInfo:
 
 <div class="googlemap-if">
 <img src="/rule/stop/gifu.jpg" width="240px" alt="岐阜県の止まれ道路標示">
+</div>
+
+{{% /tab %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識のポールに黄色いテープと花が描かれたシールが貼ってある。ちなみにシールの仕様も公開されている{{% ref "https://www.pref.gifu.lg.jp/uploaded/attachment/331960.pdf" "道路標識製作仕様書" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/gifu.png" width="200px" alt="岐阜県の標識ポール">
 </div>
 
 {{% /tab %}}
