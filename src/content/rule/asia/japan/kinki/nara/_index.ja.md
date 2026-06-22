@@ -26,6 +26,13 @@ prefSymbols:
     imgs:
       - src: "/rule/poles/nara.png"
         alt: "標識ポール"
+  - label: "擁壁"
+    name: "ブロック模様"
+    bare: true
+    group: "wall-e"
+    imgs:
+      - src: "/rule/walls/kyoto_osaka_nara.png"
+        alt: "擁壁"
 flag: "Nara.svg"
 mapProvider: "osm"
 mapPins:

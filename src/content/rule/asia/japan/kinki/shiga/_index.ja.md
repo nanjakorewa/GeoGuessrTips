@@ -24,6 +24,7 @@ prefSymbols:
     name: "ブロック模様"
     bare: true
     group: "wall-b"
+    note: "関西地方かつひし形なら京都か滋賀の可能性大。類似した形の擁壁は他の地域にもあり。"
     imgs:
       - src: "/rule/walls/shiga_kyoto.png"
         alt: "擁壁"

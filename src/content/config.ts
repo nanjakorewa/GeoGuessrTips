@@ -171,6 +171,9 @@ const ruleCollection = defineCollection({
           // cross-referenced: hovering one lists every prefecture that uses
           // the same symbol in the enlarged overlay caption.
           group: z.string().optional(),
+          // Optional note shown under the caption in the enlarged overlay
+          // (e.g. tips on how to distinguish a retaining-wall pattern).
+          note: z.string().optional(),
         })
       )
       .optional(),

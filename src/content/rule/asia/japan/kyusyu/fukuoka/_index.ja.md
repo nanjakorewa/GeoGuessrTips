@@ -21,6 +21,13 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond.svg"
         alt: "ダイヤマーク"
+  - label: "擁壁"
+    name: "ブロック模様"
+    bare: true
+    group: "wall-f"
+    imgs:
+      - src: "/rule/walls/fukuoka_nagasaki.png"
+        alt: "擁壁"
 flag: "Fukuoka.svg"
 mapProvider: "osm"
 mapPins:

@@ -33,6 +33,13 @@ prefSymbols:
     imgs:
       - src: "/rule/walls/saga_nagasaki_tochigi.png"
         alt: "擁壁"
+  - label: "擁壁"
+    name: "ブロック模様"
+    bare: true
+    group: "wall-f"
+    imgs:
+      - src: "/rule/walls/fukuoka_nagasaki.png"
+        alt: "擁壁"
 flag: "Nagasaki.svg"
 relatedIndustry:
   - "/industry/japan-shipbuilding/"

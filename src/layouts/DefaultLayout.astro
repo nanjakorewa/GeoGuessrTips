@@ -677,6 +677,17 @@ const lastmodDisplay = modifiedTime
       color: #fff;
       line-height: 1.6;
     }
+    /* 注意書き（擁壁の見分け方など） */
+    .rule-hero-symbol-overlay__note {
+      max-width: min(90%, 600px);
+      margin: 0.7rem auto 0;
+      padding-top: 0.6rem;
+      border-top: 1px solid rgba(255, 255, 255, 0.15);
+      font-size: 0.82rem;
+      font-weight: 400;
+      line-height: 1.6;
+      color: rgba(255, 255, 255, 0.82);
+    }
 
     /* 白タイルを使わないシンボル（白図形向け）。帯の紺色に直接描画し、
        枠・余白を持たず、表示サイズを一回り大きくする。 */
@@ -1102,7 +1113,7 @@ const lastmodDisplay = modifiedTime
     <div class="rule-hero-symbols">
       <ul class="rule-hero-symbols__inner">
         {data.prefSymbols.map((sym: { label: string; name?: string; svg?: string; imgs?: { src: string; alt?: string }[]; bare?: boolean; group?: string }) => (
-          <li class={`rule-hero-symbol${sym.bare ? " rule-hero-symbol--bare" : ""}`} tabindex="0" data-bare={sym.bare ? "1" : "0"} data-pole={(sym.imgs || []).some((im) => typeof im.src === "string" && im.src.startsWith("/rule/poles/")) ? "1" : "0"} data-group={sym.group || ""} data-companies={(sym.imgs || []).filter((im) => typeof im.src === "string" && im.src.startsWith("/rule/power/")).map((im) => im.alt || "").filter(Boolean).join("|")}>
+          <li class={`rule-hero-symbol${sym.bare ? " rule-hero-symbol--bare" : ""}`} tabindex="0" data-bare={sym.bare ? "1" : "0"} data-pole={(sym.imgs || []).some((im) => typeof im.src === "string" && im.src.startsWith("/rule/poles/")) ? "1" : "0"} data-group={sym.group || ""} data-note={sym.note || ""} data-companies={(sym.imgs || []).filter((im) => typeof im.src === "string" && im.src.startsWith("/rule/power/")).map((im) => im.alt || "").filter(Boolean).join("|")}>
             <span class={`rule-hero-symbol__icon${sym.imgs && sym.imgs.length > 1 ? " rule-hero-symbol__icon--multi" : ""}${sym.bare ? " rule-hero-symbol__icon--bare" : ""}${(sym.imgs || []).some((im) => typeof im.src === "string" && im.src.startsWith("/rule/poles/")) ? " rule-hero-symbol__icon--pole" : ""}`} aria-hidden="true">
               {sym.svg && <Fragment set:html={sym.svg} />}
               {sym.imgs && sym.imgs.map((im: { src: string; alt?: string }) => (
@@ -1158,6 +1169,10 @@ const lastmodDisplay = modifiedTime
             secs += section("この" + (label ? label.textContent : "") + "を使う県", groups[group]);
           }
           var capHtml = secs || (label ? esc(label.textContent) : "");
+          var note = item.getAttribute("data-note");
+          if (note) {
+            capHtml += '<div class="rule-hero-symbol-overlay__note">' + esc(note) + "</div>";
+          }
           inner.innerHTML =
             '<div class="rule-hero-symbol-overlay__art' + (bare ? " is-bare" : "") + (multi ? " is-multi" : "") + (pole ? " is-pole" : "") + '">' + icon.innerHTML + "</div>" +
             (capHtml ? '<div class="rule-hero-symbol-overlay__cap">' + capHtml + "</div>" : "");

@@ -30,6 +30,7 @@ prefSymbols:
     name: "ブロック模様"
     bare: true
     group: "wall-d"
+    note: "端の三角の擁壁のスペースが大きいのが特徴"
     imgs:
       - src: "/rule/walls/kagawa_ehime.png"
         alt: "擁壁"
