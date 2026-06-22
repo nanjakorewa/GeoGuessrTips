@@ -21,6 +21,14 @@ prefSymbols:
     imgs:
       - src: "/rule/symbols/crosswalk-diamond.svg"
         alt: "ダイヤマーク"
+  - label: "擁壁"
+    name: "ブロック模様"
+    bare: true
+    group: "wall-h"
+    note: "東京は奥多摩エリアで見られる"
+    imgs:
+      - src: "/rule/walls/kanagawa_shizuoka_okutama.png"
+        alt: "擁壁"
 flag: "Kanagawa.svg"
 mapProvider: "osm"
 mapPins:

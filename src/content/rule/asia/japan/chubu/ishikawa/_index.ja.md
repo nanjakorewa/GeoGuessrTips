@@ -27,6 +27,13 @@ prefSymbols:
     imgs:
       - src: "/rule/walls/ishikawa_fukui.png"
         alt: "擁壁"
+  - label: "擁壁"
+    name: "ブロック模様"
+    bare: true
+    group: "wall-g"
+    imgs:
+      - src: "/rule/walls/ishikawa_b.png"
+        alt: "擁壁"
 flag: "Ishikawa.svg"
 mapProvider: "osm"
 mapPins:
