@@ -90,6 +90,43 @@ for (const col of allCollections) {
 
 const ruleCards = topicCards.filter((c) => c.isRule).sort((a, b) => a.weight - b.weight);
 const otherCards = topicCards.filter((c) => !c.isRule).sort((a, b) => a.weight - b.weight);
+
+// 「日本」カードを「国と地域の判定」(weight === 1) の直後に差し込む。
+// japan の frontmatter weight (2000) は asia 内の国一覧の並び順に使われているため、
+// frontmatter は変更せず、ここでカードを生成して挿入する。
+const ruleEntries = await getCollection("rule");
+const japanEntry: any = ruleEntries.find(
+  (e: any) => extractSlugFromId(e.id) === "asia/japan" && extractLangFromId(e.id) === lang
+);
+if (japanEntry) {
+  const japanDescs: Record<Language, string> = {
+    ja: "日本の攻略のヒント",
+    en: "Tips for guessing Japan",
+    id: "Tips menebak Jepang",
+    es: "Consejos para adivinar Japón",
+    pt: "Dicas para adivinhar o Japão",
+  };
+  const rawBg = japanEntry.data.card_image || japanEntry.data.bg || "";
+  let japanCardImage = "";
+  if (rawBg) {
+    if (rawBg.startsWith("http")) {
+      japanCardImage = rawBg;
+    } else {
+      const normalized = rawBg.replace(/^\//, "");
+      japanCardImage = normalized.startsWith("bg/") ? `/${normalized}` : `/bg/${normalized}`;
+    }
+  }
+  const japanCard: TopicCard = {
+    title: japanEntry.data.title,
+    description: japanEntry.data.description || japanDescs[lang] || "",
+    url: buildUrl("rule", "asia/japan", lang),
+    cardImage: japanCardImage,
+    weight: 2,
+    isRule: true,
+  };
+  const insertAt = ruleCards.findIndex((c) => c.weight === 1) + 1;
+  ruleCards.splice(insertAt, 0, japanCard);
+}
 ---
 
 <!DOCTYPE html>

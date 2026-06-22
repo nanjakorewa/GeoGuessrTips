@@ -5,7 +5,6 @@ description: "Antártida"
 card_image: "emperor_penguins_antarctic_life.jpg"
 weight: 200
 map_index: ""
-type: "docs"
 mapProvider: "osm"
 mapPins:
   - { lat: -69.006, lng: 39.589, label: "Estação Showa", type: "landmark", note: "Estação Showa (Japão)", link: "/rule/antarctica/antarctica/" }
