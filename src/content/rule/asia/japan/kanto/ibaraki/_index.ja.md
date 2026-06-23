@@ -145,7 +145,7 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は029</li>
-      <li>標識のポールに<span class="quiz">点検シール</span>がある</li>
+      <li>標識のポールに黄色いテープが３本巻かれている</li>
     </ul>
     {{% corp "asia/japan" "kanto/ibaraki" %}}
 </div>
@@ -153,11 +153,11 @@ references:
 {{% tabs %}}
 {{% tab "標識ポール" %}}
 {{% notice tip %}}
-標識のポールに点検シールが貼られている。シールの様式に地域差が出ることがある。
+黄色いテープが３本巻かれている。覚えやすく、視認性も◎{{% ex "https://maps.app.goo.gl/UAdtzDFJJkziV3ys7" "https://maps.app.goo.gl/DATD6htX9k7m1f2A8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/poles/ibaraki.png" width="200px" alt="茨城の標識ポール">
+<img src="/rule/poles/ibaraki.png" width="300px" alt="茨城の標識ポール">
 </div>
 
 {{% /tab %}}

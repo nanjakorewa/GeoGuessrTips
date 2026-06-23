@@ -112,7 +112,7 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は086</li>
-      <li>標識のポールに<span class="quiz">点検シール</span>がある</li>
+      <li>標識のポールに黄色いシールが見つかる</li>
     </ul>
     {{% corp "asia/japan" "chugoku/okayama" %}}
 </div>
@@ -120,7 +120,7 @@ references:
 {{% tabs %}}
 {{% tab "標識ポール" %}}
 {{% notice tip %}}
-標識のポールに点検シールが貼られている{{% ex "https://maps.app.goo.gl/UgXsASEsXKDMJCoD7" "https://maps.app.goo.gl/6Eamv9wX9bCUPxWY8" %}}。シールの様式に地域差が出ることがある。
+標識のポールに標識管理番号が記載された黄色いシールが貼られている{{% ex "https://maps.app.goo.gl/UgXsASEsXKDMJCoD7" "https://maps.app.goo.gl/6Eamv9wX9bCUPxWY8" %}}。一枚387円らしい{{% ref "https://www.pref.okayama.jp/uploaded/life/1035858_10023985_misc.pdf" "標識資材単価 - 岡山県" %}}？
 {{% /notice %}}
 
 <div class="googlemap-if">

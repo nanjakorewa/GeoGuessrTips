@@ -143,9 +143,7 @@ references:
     <ul class="rule-list">
       <li>市外局番は096</li>
         <li>熊本の標識には赤いテープが巻いてある</li>
-        <li>菊陽町を中心に半導体企業が多く進出している</li>
         <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
-        <li>標識のポールに<span class="quiz">点検シール</span>がある</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/Kumamoto" %}}
 </div>
@@ -153,7 +151,7 @@ references:
 {{% tabs %}}
 {{% tab "赤いテープ" %}}
 {{% notice tip %}}
-標識や看板の支柱に赤いテープが巻いてある。
+標識や看板の支柱に赤いテープが巻いてある{{% ex "https://maps.app.goo.gl/ypmxr8QtNuzdHkHy8" "https://maps.app.goo.gl/4aER16X4dcivzGjV6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -169,16 +167,6 @@ references:
 
 <div class="googlemap-if">
 <img src="/rule/stop/kumamoto.jpg" width="240px" alt="熊本県の止まれ道路標示">
-</div>
-
-{{% /tab %}}
-{{% tab "標識ポール" %}}
-{{% notice tip %}}
-標識のポールに点検シールが貼られている。シールの様式に地域差が出ることがある。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<img src="/rule/poles/kumamoto.png" width="200px" alt="熊本の標識ポール">
 </div>
 
 {{% /tab %}}

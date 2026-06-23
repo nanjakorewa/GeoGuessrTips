@@ -117,7 +117,7 @@ references:
       <li>市外局番は0952</li>
         <li>佐賀と{{% goto "../miyazaki/" "宮崎" %}}では六角形の擁壁が見られる</li>
         <li>佐賀～{{% goto "../fukuoka/" "福岡" %}}の平野部では日本で最大規模のクリークが広がっている</li>
-        <li>標識のポールに<span class="quiz">点検シール</span>がある</li>
+        <li>標識のポールに貼られたシールから県が特定できる</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/saga" %}}
 </div>
@@ -146,7 +146,7 @@ references:
 {{% /tab %}}
 {{% tab "標識ポール" %}}
 {{% notice tip %}}
-標識のポールに点検シールが貼られている。シールの様式に地域差が出ることがある。
+標識のポールに貼られているシールから県がわかる。
 {{% /notice %}}
 
 <div class="googlemap-if">

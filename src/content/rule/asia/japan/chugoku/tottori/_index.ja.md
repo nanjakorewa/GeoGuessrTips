@@ -94,7 +94,7 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は0857</li>
-      <li>標識のポールに<span class="quiz">点検シール</span>がある</li>
+      <li>標識のポールに黄色いシールが貼られている</li>
     </ul>
     {{% corp "asia/japan" "chugoku/tottori" %}}
 </div>
@@ -102,7 +102,7 @@ references:
 {{% tabs %}}
 {{% tab "標識ポール" %}}
 {{% notice tip %}}
-標識のポールに点検シールが貼られている。シールの様式に地域差が出ることがある。
+標識のポールに黄色いシールが張られている{{% ex "https://maps.app.goo.gl/6Giptf4HUQZDwKLt7" "https://maps.app.goo.gl/wL5EWPGUxipRDcD48" %}}。鳥取県というシールが貼られているときも。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -119,7 +119,6 @@ references:
         <li>鳥取市の<span class="quiz">鳥取砂丘</span>は日本最大級の観光砂丘</li>
         <li>境港市は<span class="quiz">水産</span>の街で、水木しげるロードの妖怪ブロンズ像が並ぶ</li>
         <li>倉吉市は白壁土蔵と赤瓦の町並みが残る</li>
-        <li>県境にそびえる大山は中国地方最高峰で、平野部の目印になる</li>
     </ul>
 </div>
 

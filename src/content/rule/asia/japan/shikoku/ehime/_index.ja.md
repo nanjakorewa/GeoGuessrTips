@@ -114,7 +114,7 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は089</li>
-      <li>標識のポールに<span class="quiz">点検シール</span>がある</li>
+      <li>標識のポールに貼られたシールから県が特定できる</li>
     </ul>
     {{% corp "asia/japan" "shikoku/ehime" %}}
 </div>
@@ -122,7 +122,7 @@ references:
 {{% tabs %}}
 {{% tab "標識ポール" %}}
 {{% notice tip %}}
-標識のポールに点検シールが貼られている。シールの様式に地域差が出ることがある。
+標識のポールに貼られているシールから県がわかる。
 {{% /notice %}}
 
 <div class="googlemap-if">
