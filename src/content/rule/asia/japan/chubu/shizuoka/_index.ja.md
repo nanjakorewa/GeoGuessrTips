@@ -130,7 +130,8 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は054</li>
-        <li>お茶の生産が多い</li>
+      <li>お茶の生産が多い</li>
+      <li>標識のポールに<span class="quiz">黄色いシール</span>がたくさん張られている</li>
     </ul>
     {{% corp "asia/japan" "chubu/shizuoka" %}}
 </div>
@@ -146,13 +147,13 @@ references:
 </div>
 
 {{% /tab %}}
-{{% tab "中部電力" %}}
+{{% tab "標識ポール" %}}
 {{% notice tip %}}
-愛知県、岐阜県、三重県、富士川以西の静岡県、長野県では中部電力の電柱やロゴが見つかる。
+標識のポールに黄色い点検シールが貼られている{{% ex "https://maps.app.goo.gl/P5N5aZD26s6tdpFc6" "https://maps.app.goo.gl/Shn5A9PFVGJBsCQk9"  %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-chubu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Chubu">
+<img src="/rule/poles/shizuoka.png" width="200px" alt="静岡の標識ポール">
 </div>
 
 {{% /tab %}}

@@ -108,9 +108,24 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は028</li>
+      <li>標識のポールに点検シールがある</li>
     </ul>
     {{% corp "asia/japan" "kanto/tochigi" %}}
 </div>
+
+{{% tabs %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識のポールに非常に小さな点検シールが貼られている{{% ex "https://maps.app.goo.gl/b8QTXziuorBKiKNt8" "https://maps.app.goo.gl/FHizCvnf2a8n6qwU8" %}}{{% ref "https://www.shimotsuke.co.jp/articles/-/921790" "道路標識になぜ丸いシールが？　本社周辺のポールを確認　10年前の調査で貼られた事実も - 下野新聞社" %}}。2014年に規制標識にのみ貼られたものらしい。正直、役立つ機会はすくない。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/tochigi.png" width="300px" alt="栃木の標識ポール">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
 
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>

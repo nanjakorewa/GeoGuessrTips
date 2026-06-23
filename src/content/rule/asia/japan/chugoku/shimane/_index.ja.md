@@ -94,9 +94,24 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は0852</li>
+      <li>標識のポールに細いシールが巻かれている</li>
     </ul>
     {{% corp "asia/japan" "chugoku/shimane" %}}
 </div>
+
+{{% tabs %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識のポールに細いシールが巻かれている。色はいろいろある{{% ex "https://maps.app.goo.gl/AMsRafC73yKgpbjk6" "https://maps.app.goo.gl/XFMKhr9HU6gN7KoX9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/shimane.png" width="300px" alt="島根の標識ポール">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
 
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>

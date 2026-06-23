@@ -145,9 +145,24 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は029</li>
+      <li>標識のポールに<span class="quiz">点検シール</span>がある</li>
     </ul>
     {{% corp "asia/japan" "kanto/ibaraki" %}}
 </div>
+
+{{% tabs %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識のポールに点検シールが貼られている。シールの様式に地域差が出ることがある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/ibaraki.png" width="200px" alt="茨城の標識ポール">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>

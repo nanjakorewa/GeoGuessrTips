@@ -111,7 +111,8 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は097</li>
-            <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
+      <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
+      <li>標識のポールに<span class="quiz">点検シール</span>がある</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/oita" %}}
 </div>
@@ -127,6 +128,16 @@ references:
 <img src="/rule/stop/oita.jpg" width="240px" alt="大分県の止まれ道路標示">
 </div>
   
+{{% /tab %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識のポールに点検シールが貼られている。シールの様式に地域差が出ることがある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/oita.png" width="200px" alt="大分の標識ポール">
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 

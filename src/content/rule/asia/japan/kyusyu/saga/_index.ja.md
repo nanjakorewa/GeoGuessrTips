@@ -117,6 +117,7 @@ references:
       <li>市外局番は0952</li>
         <li>佐賀と{{% goto "../miyazaki/" "宮崎" %}}では六角形の擁壁が見られる</li>
         <li>佐賀～{{% goto "../fukuoka/" "福岡" %}}の平野部では日本で最大規模のクリークが広がっている</li>
+        <li>標識のポールに<span class="quiz">点検シール</span>がある</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/saga" %}}
 </div>
@@ -140,6 +141,16 @@ references:
 <div class="googlemap-if no-margin">
 <a href="https://commons.wikimedia.org/wiki/File:Creek_in_wheat_fields_in_Honjo,_Saga.jpg#/media/File:Creek_in_wheat_fields_in_Honjo,_Saga.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Creek_in_wheat_fields_in_Honjo%2C_Saga.jpg" alt="Creek in wheat fields in Honjo, Saga.jpg" width="90%"></a>
 <br><small>By <a href="https://commons.wikimedia.org/wiki/User:Peka">Peka</a> - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></small>
+</div>
+
+{{% /tab %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識のポールに点検シールが貼られている。シールの様式に地域差が出ることがある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/nagasaki_saga.png" width="200px" alt="佐賀の標識ポール">
 </div>
 
 {{% /tab %}}

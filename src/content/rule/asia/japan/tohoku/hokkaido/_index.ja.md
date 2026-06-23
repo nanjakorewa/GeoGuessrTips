@@ -284,15 +284,18 @@ references:
     <ul class="rule-list">
       <li>市外局番は011</li>
         <li>道路に<span class="quiz">視線誘導標</span>がある</li>
+        <li>巨大なフキが道端に生えている</li>
         <li>コンビニに<span class="quiz">セイコーマート</span>がある</li>
-        <li>道路に<span class="quiz">スノーポール</span>がある</li>
-        <li>寒い地域特有の家が多い
+        <li>寒い地域特有の建築が多い
             <ul>
                 <li>屋根が<span class="quiz">平ら</span></li>
                 <li>カスケード型のガレージがある</li>
                 <li>ホームタンクと呼ばれる<span class="quiz">灯油タンク</span>のある家が目立つ{{% ref "http://www.sundia.co.jp/product/home_equipment/home-tank-main/" "サンダイヤオイルタンク" %}}</li>
+                <li>交差点に砂箱がある</li>
+                <li>雪があるときに停止線の位置を示す「停止線」の標識がある</li>
             </ul>
         </li>
+        <li>標識のポールに白っぽいシールが張られている</li>
     </ul>
     {{% corp "asia/japan" "tohoku/hokkaido" %}}
 </div>
@@ -337,8 +340,6 @@ references:
 <img src="Akan_bus_Akan01.jpg" width="80%" alt="Hokkaido GeoGuessr guide image showing Akan Bus Akan01">
 </div>
 
-
-
 {{% /tab %}}
 {{% tab "家の造り" %}}
 
@@ -371,6 +372,16 @@ references:
 <div class="googlemap-if">
 <img src="Japanese_road_sign_406-2.svg" width="250px" alt="Hokkaido GeoGuessr guide image showing Japanese Road Sign 406 2">
 </div>
+{{% /tab %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識のポールに白っぽいシールが張られている{{% ex "https://maps.app.goo.gl/jSLYTEsHcnbTHX1AA" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/hokkaido.png" width="200px" alt="北海道の標識ポール">
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 

@@ -150,9 +150,24 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は03</li>
+      <li>標識のポールに管理番号が張られたシールが張られている</li>
     </ul>
     {{% corp "asia/japan" "kanto/tokyo" %}}
 </div>
+
+{{% tabs %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識のポールにシールが貼られている。また、いくつか色のついた丸いシールが張られていることが多い{{% ex "https://maps.app.goo.gl/A87dpj1D62sgEhcL9" "https://maps.app.goo.gl/aTtrVUAjzJN1DYPg9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/tokyo.png" width="200px" alt="東京の標識ポール">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
 
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>

@@ -94,9 +94,24 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は0857</li>
+      <li>標識のポールに<span class="quiz">点検シール</span>がある</li>
     </ul>
     {{% corp "asia/japan" "chugoku/tottori" %}}
 </div>
+
+{{% tabs %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識のポールに点検シールが貼られている。シールの様式に地域差が出ることがある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/tottori.png" width="200px" alt="鳥取の標識ポール">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
 
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>

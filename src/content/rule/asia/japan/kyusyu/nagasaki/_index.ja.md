@@ -128,12 +128,23 @@ references:
       <li>市外局番は095</li>
       <li>斜面が多い</li>
       <li>自転車を保有している家庭が少ない</li>
-            <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
+      <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
+      <li>標識のポールに<span class="quiz">点検シール</span>がある</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/nagasaki" %}}
 </div>
 
 {{% tabs %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識のポールに点検シールが貼られている。シールの様式に地域差が出ることがある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/nagasaki_saga.png" width="200px" alt="長崎の標識ポール">
+</div>
+
+{{% /tab %}}
 {{% tab "斜面が多い" %}}
 {{% notice tip %}}
 斜面が多く、小学校などは高台にあることが多い。斜面移送システムがある場所も{{% ex "https://maps.app.goo.gl/axCRBccWHoJcRhFF9" %}}。
@@ -252,10 +263,3 @@ references:
             <tr>
                 <td>福砂屋</td>
                 <td>非上場</td>
-                <td>長崎市に本社を置くカステラの老舗。1624年創業で400年の歴史を持つ。手作りカステラの代表的ブランド。<a href="https://ja.wikipedia.org/wiki/福砂屋" target="_blank"><sup>[参]</sup></a></td>
-                <td></td>
-                <td></td>
-            </tr>
-        </tbody>
-    </table>
-</div>

@@ -117,12 +117,23 @@ references:
     <ul class="rule-list">
       <li>市外局番は023</li>
         <li>ヤマザワがある</li>
+        <li>標識のポールに細いシールがいくつか巻かれている</li>
     </ul>
     {{% corp "asia/japan" "tohoku/yamagata" %}}
 </div>
 
 
 {{% tabs %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識のポールに青・黒・黄色といった細いシールが巻かれている{{% ex "https://maps.app.goo.gl/yNaUNHYRMmvAr1VD7" "https://maps.app.goo.gl/hPwTRWzzDxHVo3Ax9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/yamagata.png" width="300px" alt="山形の標識ポール">
+</div>
+
+{{% /tab %}}
 {{% tab "ヤマザワ" %}}
 {{% notice tip %}}
 山形・宮城県には食品スーパーマーケットチェーン「ヤマザワ」が展開している{{% ex "https://maps.app.goo.gl/VeYQQtp9Lf2TCZdL6" %}}。

@@ -111,11 +111,22 @@ references:
     <ul class="rule-list">
       <li>市外局番は087</li>
         <li>オレンジの●がふたつ描かれた看板がある</li>
+        <li>標識のポールに<span class="quiz">点検シール</span>がある</li>
     </ul>
     {{% corp "asia/japan" "shikoku/kagawa" %}}
 </div>
 
 {{% tabs %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識のポールに点検シールが貼られている。シールの様式に地域差が出ることがある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/kochi_ehime.png" width="200px" alt="香川の標識ポール">
+</div>
+
+{{% /tab %}}
 {{% tab "２つの●" %}}
 {{% notice tip %}}
 オレンジの●がふたつ描かれた看板がある。
@@ -182,6 +193,4 @@ references:
         <tbody class="corp-desc">
             <tr>
                 <td>四国化成</td>
-                <td>{{% minkabu 4099 %}}</td>
-                <td>プリント配線板表面処理薬剤の世界シェア一位。不溶性硫黄など他の材料でも国内トップ。</td>
-                <td>{{% corplink "ht
+       
