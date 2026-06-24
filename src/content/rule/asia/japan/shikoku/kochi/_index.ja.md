@@ -120,7 +120,7 @@ references:
 {{% tabs %}}
 {{% tab "標識ポール" %}}
 {{% notice tip %}}
-標識のポールに貼られているシールから県がわかる。
+標識のポールに貼られているシールから県がわかる。{{% goto "../ehime/" "愛媛" %}}・{{% goto "../kagawa/" "香川" %}}で同じシールが見つかる。
 {{% /notice %}}
 
 <div class="googlemap-if">

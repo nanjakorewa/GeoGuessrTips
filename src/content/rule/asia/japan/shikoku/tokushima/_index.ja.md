@@ -102,7 +102,7 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は088</li>
-      <li>標識のポールに貼られたシールから県が特定できる</li>
+      <li>標識のポールに幅が広い黄色のシールが貼られている</li>
     </ul>
     {{% corp "asia/japan" "shikoku/tokushima" %}}
 </div>
@@ -110,11 +110,11 @@ references:
 {{% tabs %}}
 {{% tab "標識ポール" %}}
 {{% notice tip %}}
-標識のポールに貼られているシールから県がわかる。
+標識のポールに長い黄色のシールが貼られている{{% ex "https://maps.app.goo.gl/XRs5GC2o1vhYKkZK9" "https://maps.app.goo.gl/iaTaKEo1omfkU8Mn7" %}}。色がはがれて白っぽくなっている場合もある。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/poles/tokushima.png" width="200px" alt="徳島の標識ポール">
+<img src="/rule/poles/tokushima.png" width="300px" alt="徳島の標識ポール">
 </div>
 
 {{% /tab %}}

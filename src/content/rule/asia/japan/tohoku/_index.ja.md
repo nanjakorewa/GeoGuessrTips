@@ -31,6 +31,7 @@ mapPins:
                 <li>カスケード型のガレージがある</li>
             </ul>
         </li>
+        <li>道端に吹き払い（防雪柵）が設置されている</li>
         <li>東北電力や北海道電力のロゴが見つかる</li>
     </ul>
 </div>
@@ -43,6 +44,17 @@ mapPins:
 
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Rebun_20110818_175029.jpg#/media/File:Rebun_20110818_175029.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Rebun_20110818_175029.jpg" alt="Wikimedia Commons photo showing Rebun 20110818 175029" height="717" width="1280"></a></p><p>By Ka23 13 - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=142923992">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% tab "吹き払い" %}}
+{{% notice tip %}}
+風雪が強い雪国や海岸部に近づくほど、このような柵の設置が多くなる。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Blow-off_snow_fence-01(Refrain-fixed_snow_plate_type,winter).jpg#/media/File:Blow-off_snow_fence-01(Refrain-fixed_snow_plate_type,winter).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Blow-off_snow_fence-01%28Refrain-fixed_snow_plate_type%2Cwinter%29.jpg" alt="Blow-off snow fence-01(Refrain-fixed snow plate type,winter).jpg" height="960" width="1280"></a></p>
+<p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Kostenlose_Flussufer&amp;action=edit&amp;redlink=1" class="new" title="User:Kostenlose Flussufer (page does not exist)">Kostenlose Flussufer</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=107075279">Link</a></p>
 </div>
 
 {{% /tab %}}

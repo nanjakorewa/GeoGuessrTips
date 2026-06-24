@@ -110,26 +110,16 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は087</li>
-        <li>オレンジの●がふたつ描かれた看板がある</li>
-        <li>標識のポールに貼られたシールから県が特定できる</li>
+      <li>オレンジの●がふたつ描かれた看板がある</li>
+      <li>標識のポールに貼られたシールから県が特定できる</li>
     </ul>
     {{% corp "asia/japan" "shikoku/kagawa" %}}
 </div>
 
 {{% tabs %}}
-{{% tab "標識ポール" %}}
-{{% notice tip %}}
-標識のポールに貼られているシールから県がわかる。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<img src="/rule/poles/kochi_ehime.png" width="200px" alt="香川の標識ポール">
-</div>
-
-{{% /tab %}}
 {{% tab "２つの●" %}}
 {{% notice tip %}}
-オレンジの●がふたつ描かれた看板がある。
+オレンジの●がふたつ描かれた看板がある{{% ex "https://maps.app.goo.gl/ozXGnrPsEeiuzSvG9" "https://maps.app.goo.gl/aD4tJVNiCmjWcgXc6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -137,13 +127,13 @@ references:
 </div>
 
 {{% /tab %}}
-{{% tab "四国電力" %}}
+{{% tab "標識ポール" %}}
 {{% notice tip %}}
-四国電力の電柱プレートが見つかる。太陽光発電などの自家発電システムを連結している場合は『自家発逆潮流有』のラベルが見つかるが、オレンジテープのラベルは四国電力だと思われる。
+標識のポールに貼られているシールから県がわかる{{% ex "https://maps.app.goo.gl/MNuQJMWBZG99n8RR7" %}}。{{% goto "../kochi/" "高知" %}}・{{% goto "../ehime/" "愛媛" %}}で同じシールが見つかる。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-shikoku.png" width="420px" alt="Pole GeoGuessr guide image showing Pole Shikoku">
+<img src="/rule/poles/kochi_ehime.png" width="200px" alt="香川の標識ポール">
 </div>
 
 {{% /tab %}}

@@ -22,6 +22,7 @@ mapPins:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
         <li>四国電力のロゴや『自家発逆潮流有』のラベルが見つかる</li>
+        <li>標識ポールに特徴的なシールが貼られている</li>
     </ul>
 </div>
 
@@ -33,6 +34,16 @@ mapPins:
 
 <div class="googlemap-if">
 <img src="../pole/pole-shikoku.png" width="420px" alt="Pole GeoGuessr guide image showing Pole Shikoku">
+</div>
+
+{{% /tab %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+{{% goto "../kochi/" "高知" %}}・{{% goto "../ehime/" "愛媛" %}}・{{% goto "../kagawa/" "香川" %}}ではこのシールが標識に貼られている。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/kochi_ehime.png" width="200px" alt="香川の標識ポール">
 </div>
 
 {{% /tab %}}
