@@ -223,19 +223,19 @@ GoogleCarは<span class="quiz">赤</span>色がぼんやりと見えるかも{{%
 </div>
 
 {{% /tab %}}
-{{% tab "w-bollard" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688113054597!6m8!1m7!1sJqJdB7KcCkKDQDn6rIBBaA!2m2!1d48.28687499702905!2d22.62744194286989!3f160.66667917390123!4f-14.849354604980533!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688106486244!6m8!1m7!1s24mPC6W61kNlMkGQjq_OxA!2m2!1d50.97721009879685!2d38.99316028610959!3f148.69257015202035!4f-13.829817729885633!5f3.1364456078609173" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{% tab "チルノ" %}}
+{{% notice tip %}}
+例の店の前には残念ながらチルノは映っていない{{% ex "https://maps.app.goo.gl/ZRZso4mojN3uqNYN8" %}}。ウクライナのストリートビューの更新は2015年で止まっている。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hv_wBcct-uo?si=_7dBIWs_3Sn6vXLS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-{{% /tab %}}
-{{% tab "電柱" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688106345287!6m8!1m7!1sKEhS4c6UF2XWjMvJK2EnmQ!2m2!1d50.19268989677923!2d27.03176581922643!3f181.33510528125612!4f-11.953835176874563!5f3.2604282418864625" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688106811478!6m8!1m7!1siJbbYkNrjRjROKTWAOso4Q!2m2!1d49.6611766037447!2d32.0757726662418!3f247.62779069340655!4f21.85575893064015!5f2.8138097047695227" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+
 {{% /tab %}}
 {{% /tabs %}}
+
+
 
 
 <div class="main-desciption country-description">
