@@ -112,6 +112,7 @@ references:
       <li>市外局番は087</li>
       <li>オレンジの●がふたつ描かれた看板がある</li>
       <li>標識のポールに貼られたシールから県が特定できる</li>
+      <li>うどん店の密度が高い</li>
     </ul>
     {{% corp "asia/japan" "shikoku/kagawa" %}}
 </div>
@@ -134,6 +135,16 @@ references:
 
 <div class="googlemap-if">
 <img src="/rule/poles/kochi_ehime.png" width="200px" alt="香川の標識ポール">
+</div>
+
+{{% /tab %}}
+{{% tab "うどん" %}}
+{{% notice tip %}}
+うどん店の密度が日本一
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2kYUG5FalBc?si=1tyx3VGb6k5cq1RG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 {{% /tab %}}
