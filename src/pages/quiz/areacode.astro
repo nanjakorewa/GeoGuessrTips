@@ -1,28 +1,33 @@
 ---
+import fs from "node:fs";
+import path from "node:path";
 import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
-import areacodeData from "../../data/areacodes.json";
+import quizData from "../../data/areacode-quiz.json";
 
 const lang = "ja" as const;
 const site = "https://geopinning.space";
-const pageTitle = "市外局番クイズ｜番号区画名から市外局番を当てよう";
+const pageTitle = "市外局番クイズ｜地図で対応する市区町村を当てよう";
 const pageDescription =
-  "ランダムに出題される番号区画名（札幌、岩見沢など）の市外局番を入力するクイズ。同じ番号区画名に複数の市外局番がある場合はどれかが当たれば正解。";
+  "ランダムに出題される市外局番（052、0586 など）に対応する地域を、日本地図から探して当てるクイズ。全国地図で都道府県を選び、さらにその県の地図で市区町村をクリックして解答します。";
 const canonical = `${site}/quiz/areacode/`;
 
-const totalEntries = Object.values(areacodeData).reduce(
-  (acc, codes: string[]) => acc + codes.length,
-  0,
-);
-const totalKu = Object.keys(areacodeData).length;
+const totalCodes = quizData.questions.length;
 
 const crumbs = [
   { name: "トップ", url: "/" },
   { name: "クイズ", url: "/quiz/" },
   { name: "市外局番クイズ", url: "/quiz/areacode/" },
 ];
+
+// Inline the nationwide prefecture SVG (47 prefectures, data-code="JP-xx").
+const japanSvgPath = path.join(process.cwd(), "public", "maps", "countries", "japan.svg");
+const japanSvgRaw = fs
+  .readFileSync(japanSvgPath, "utf8")
+  .replace(/^\uFEFF/, "")
+  .replace(/<\?xml[^>]*\?>\s*/i, "");
 ---
 
 <!DOCTYPE html>
@@ -39,53 +44,25 @@ const crumbs = [
     collection="quiz"
   />
   <style is:global>
-    /* `is:global` because history items are document.createElement-injected
-       at runtime — Astro's default scoping would skip them. All class
-       names are prefixed `aq-` to avoid colliding with the rest of the site. */
-
     html, body { min-height: 100vh; }
-    body {
-      overflow-x: hidden;
-      display: flex;
-      flex-direction: column;
-    }
+    body { overflow-x: hidden; display: flex; flex-direction: column; }
     body > header { flex: 0 0 auto; }
     body > main { flex: 1 0 auto; }
-    body > .site-footer,
-    body > footer { flex: 0 0 auto; margin-top: 0; }
+    body > .site-footer, body > footer { flex: 0 0 auto; margin-top: 0; }
 
-    .aq-page {
-      max-width: 720px;
-      margin: 0 auto;
-      padding: 0.6rem 0.9rem 0.8rem;
-    }
+    .aq-page { max-width: 920px; margin: 0 auto; padding: 0.6rem 0.9rem 1.2rem; }
 
     /* Title row */
     .aq-bar {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 0.8rem;
-      flex-wrap: wrap;
-      margin-bottom: 0.6rem;
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 0.8rem; flex-wrap: wrap; margin-bottom: 0.6rem;
     }
     .aq-title { font-size: 1.15rem; font-weight: 800; margin: 0; letter-spacing: 0.02em; }
-    .aq-title-sub {
-      font-size: 0.78rem;
-      color: rgba(100,100,100,0.7);
-      margin-left: 0.5rem;
-      font-weight: 500;
-    }
-    .aq-stats {
-      display: flex;
-      gap: 0.4rem;
-      font-size: 0.82rem;
-      flex-wrap: wrap;
-    }
+    .aq-title-sub { font-size: 0.78rem; color: rgba(100,100,100,0.7); margin-left: 0.5rem; font-weight: 500; }
+    .aq-stats { display: flex; gap: 0.4rem; font-size: 0.82rem; flex-wrap: wrap; }
     .aq-stats span {
-      padding: 0.18em 0.65em;
-      background: rgba(0,0,0,0.05);
-      font-weight: 600;
+      padding: 0.18em 0.65em; background: rgba(0,0,0,0.05); font-weight: 600;
+      border-radius: 4px;
     }
     .aq-stats .aq-correct { background: rgba(74,158,92,0.15); color: #2c6f3c; }
     .aq-stats .aq-wrong   { background: rgba(192,57,43,0.13); color: #9a2d24; }
@@ -94,961 +71,454 @@ const crumbs = [
       color: #c2410c;
     }
     .aq-stats .aq-streak[hidden] { display: none; }
-    .aq-share {
-      background: var(--primary-color, #446e72);
-      color: #fff;
-      border: none;
-      font-size: 0.78rem;
-      font-weight: 700;
-      padding: 0.18em 0.7em;
-      cursor: pointer;
-      display: inline-flex;
-      align-items: center;
-      gap: 0.3em;
-      transition: filter 0.12s;
-    }
-    .aq-share:hover:not(:disabled) { filter: brightness(1.12); }
-    .aq-share:disabled { background: #b9c9ca; cursor: not-allowed; }
-
-    .aq-toast {
-      position: fixed;
-      top: 70px;
-      left: 50%;
-      transform: translateX(-50%) translateY(-200%);
-      background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
-      color: #fff;
-      padding: 0.75rem 1.4rem;
-      font-weight: 800;
-      font-size: 1.05rem;
-      letter-spacing: 0.04em;
-      box-shadow: 0 8px 28px rgba(0,0,0,0.22);
-      z-index: 9999;
-      display: flex;
-      align-items: center;
-      gap: 0.5em;
-      pointer-events: none;
-      transition: transform 0.45s cubic-bezier(0.34, 1.56, 0.64, 1);
-      max-width: 90vw;
-      text-align: center;
-    }
-    .aq-toast.shown { transform: translateX(-50%) translateY(0); }
-    .aq-toast-icon { font-size: 1.4rem; line-height: 1; }
 
     /* Question card */
     .aq-question {
-      position: relative;
-      text-align: center;
-      padding: 1rem 1.1rem 1.1rem;
+      position: relative; text-align: center; padding: 0.9rem 1.1rem 1rem;
       background: linear-gradient(135deg, rgba(68,110,114,0.10) 0%, rgba(68,110,114,0.04) 100%);
-      border: 1px solid var(--border-soft, #e0e0e0);
-      margin-bottom: 0.7rem;
-      transition: border-color 0.2s, background 0.2s;
+      border: 1px solid var(--border-soft, #e0e0e0); border-radius: 8px;
+      margin-bottom: 0.7rem; transition: border-color 0.2s, background 0.2s;
     }
-    .aq-prompt {
-      font-size: 0.78rem;
-      color: rgba(100,100,100,0.8);
-      margin: 0 0 0.2rem;
+    .aq-prompt { font-size: 0.82rem; color: rgba(90,90,90,0.9); margin: 0 0 0.35rem; }
+    .aq-code {
+      font-size: 2.6rem; font-weight: 800; letter-spacing: 0.12em; line-height: 1.05;
+      margin: 0; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+      color: var(--primary-color, #2b5f63);
     }
-    .aq-name {
-      font-size: 1.85rem;
-      font-weight: 800;
-      letter-spacing: 0.04em;
-      margin: 0 0 0.7rem;
-      line-height: 1.15;
-    }
-    .aq-input {
-      font-size: 2rem;
-      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
-      text-align: center;
-      letter-spacing: 0.18em;
-      width: 8em;
-      max-width: 80vw;
-      padding: 0.3em 0.4em;
-      border: 2px solid var(--border-soft, #d8d4ca);
-      background: #fff;
-      color: #333;
-      caret-color: var(--primary-color, #446e72);
-    }
-    .aq-input:focus {
-      border-color: var(--primary-color, #446e72);
-      outline: none;
-    }
-    .aq-input::placeholder { color: rgba(150,150,150,0.6); letter-spacing: 0.18em; }
-    .aq-input.is-correct {
-      border-color: #4a9e5c;
-      background: rgba(74,158,92,0.10);
-      color: #2c6f3c;
-    }
-    .aq-input.is-wrong {
-      border-color: #c0392b;
-      background: rgba(192,57,43,0.10);
-      color: #9a2d24;
-    }
-    .aq-input.is-revealed {
-      border-color: #6c7a89;
-      background: rgba(108,122,137,0.08);
-      color: #4d5a68;
-    }
-    .aq-result-inline {
-      margin-top: 0.6rem;
-      min-height: 2.6rem;
-      font-size: 0.9rem;
-      font-weight: 600;
-      line-height: 1.45;
-      visibility: hidden;
-    }
-    .aq-result-inline.shown { visibility: visible; }
-    .aq-result-mark {
-      display: inline-block;
-      font-size: 1.3rem;
-      vertical-align: middle;
-      margin-right: 0.3em;
-    }
-    .aq-question[data-r="correct"] {
-      border-color: rgba(74,158,92,0.5);
-      background: linear-gradient(135deg, rgba(74,158,92,0.16) 0%, rgba(74,158,92,0.05) 100%);
-    }
-    .aq-question[data-r="wrong"] {
-      border-color: rgba(192,57,43,0.45);
-      background: linear-gradient(135deg, rgba(192,57,43,0.14) 0%, rgba(192,57,43,0.04) 100%);
-    }
-    .aq-question[data-r="revealed"] {
-      border-color: rgba(108,122,137,0.5);
-      background: linear-gradient(135deg, rgba(108,122,137,0.14) 0%, rgba(108,122,137,0.04) 100%);
-    }
-    .aq-question[data-r="correct"] .aq-result-inline { color: #2c6f3c; }
-    .aq-question[data-r="wrong"]   .aq-result-inline { color: #9a2d24; }
-    .aq-question[data-r="revealed"] .aq-result-inline { color: #4d5a68; }
+    .aq-code-note { font-size: 0.74rem; color: rgba(120,120,120,0.85); margin: 0.35rem 0 0; }
 
-    /* Action bar */
-    .aq-actions {
-      display: flex;
-      gap: 0.5rem;
-      justify-content: center;
-      align-items: center;
-      margin-top: 0.7rem;
-      flex-wrap: wrap;
+    .aq-result {
+      margin-top: 0.55rem; min-height: 1.5rem; font-size: 0.95rem; font-weight: 700;
+      line-height: 1.5; visibility: hidden;
     }
-    .aq-btn {
-      padding: 0.5rem 1.2rem;
-      border: none;
-      font-weight: 700;
-      font-size: 0.92rem;
-      cursor: pointer;
-      transition: all 0.12s;
+    .aq-result.shown { visibility: visible; }
+    .aq-result small { display: block; font-weight: 500; font-size: 0.82rem; color: rgba(80,80,80,0.9); margin-top: 0.15rem; }
+    .aq-question[data-r="correct"] { border-color: rgba(74,158,92,0.5); background: linear-gradient(135deg, rgba(74,158,92,0.16) 0%, rgba(74,158,92,0.05) 100%); }
+    .aq-question[data-r="wrong"]   { border-color: rgba(192,57,43,0.45); background: linear-gradient(135deg, rgba(192,57,43,0.14) 0%, rgba(192,57,43,0.04) 100%); }
+    .aq-question[data-r="correct"] .aq-result { color: #2c6f3c; }
+    .aq-question[data-r="wrong"]   .aq-result { color: #9a2d24; }
+
+    /* Map */
+    .aq-mapbar {
+      display: flex; align-items: center; justify-content: space-between; gap: 0.6rem;
+      flex-wrap: wrap; margin-bottom: 0.4rem;
     }
+    .aq-crumbs { font-size: 0.9rem; font-weight: 700; color: #234; display: flex; align-items: center; gap: 0.3em; flex-wrap: wrap; }
+    .aq-crumbs .sep { color: rgba(120,120,120,0.6); }
+    .aq-crumbs .cur { color: var(--primary-color, #2b5f63); }
+    .aq-mapbar-right { display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap; }
+    .aq-zoom { display: inline-flex; gap: 0.25rem; }
+    .aq-zoom button {
+      width: 2rem; height: 2rem; border: 1px solid var(--border-soft, #d8d4ca); background: #fff;
+      color: #234; font-size: 1.05rem; font-weight: 800; line-height: 1; border-radius: 6px; cursor: pointer;
+      display: inline-flex; align-items: center; justify-content: center; padding: 0;
+    }
+    .aq-zoom button:hover { background: #f3f6f6; }
+    .aq-zoom button:disabled { opacity: 0.4; cursor: not-allowed; }
+    .aq-back {
+      border: 1px solid var(--border-soft, #d8d4ca); background: #fff; color: #335;
+      font-size: 0.82rem; font-weight: 700; padding: 0.3em 0.85em; border-radius: 6px; cursor: pointer;
+    }
+    .aq-back:hover { background: #f3f6f6; }
+    .aq-back[hidden] { display: none; }
+
+    .aq-map {
+      position: relative; border: 1px solid var(--border-soft, #e0e0e0); border-radius: 8px;
+      background: #f6fafe; overflow: auto; height: 80vh; touch-action: pan-x pan-y;
+      -webkit-overflow-scrolling: touch; cursor: grab;
+    }
+    .aq-map.grabbing { cursor: grabbing; }
+    .aq-map-inner {
+      width: 100%; height: 100%; min-width: 100%; min-height: 100%;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .aq-map-inner svg { display: block; width: 100%; height: 100%; }
+    .aq-map svg path { transition: fill 0.12s, stroke 0.12s; }
+    /* interactive regions */
+    .aq-map[data-phase] svg .pref-muni-svg__paths path { cursor: pointer; }
+    .aq-map svg path:hover { fill: #cfe4fb; }
+    .aq-map.locked svg .pref-muni-svg__paths path { cursor: default; }
+    .aq-map.locked svg path:hover { fill: #eaf2fb; }
+    /* result highlights (added via JS) */
+    .aq-map svg path.aq-pick-wrong { fill: #e9897e !important; stroke: #c0392b; stroke-width: 1; }
+    .aq-map svg path.aq-answer { fill: #4a9e5c !important; stroke: #1f5b30; stroke-width: 1; }
+
+    .aq-hint-pref { font-size: 0.82rem; color: #6b21a8; font-weight: 700; }
+    .aq-hint-pref[hidden] { display: none; }
+
+    /* Actions */
+    .aq-actions { display: flex; gap: 0.5rem; justify-content: center; align-items: center; margin-top: 0.8rem; flex-wrap: wrap; }
+    .aq-btn { padding: 0.5rem 1.2rem; border: none; font-weight: 700; font-size: 0.92rem; cursor: pointer; border-radius: 6px; transition: filter 0.12s; }
     .aq-btn-primary { background: var(--primary-color, #446e72); color: #fff; }
-    .aq-btn-primary:hover:not(:disabled) { filter: brightness(1.08); }
-    .aq-btn-primary:disabled { background: #b9c9ca; cursor: not-allowed; }
-    .aq-btn-secondary { background: #efeae1; color: #333; }
-    .aq-btn-secondary:hover:not(:disabled) { background: #e3dccd; }
-    .aq-btn-secondary:disabled {
-      background: #efeae1;
-      color: #b5b0a7;
-      cursor: not-allowed;
-      opacity: 0.6;
-    }
-    .aq-skip {
-      font-size: 0.78rem;
-      color: rgba(100,100,100,0.7);
-      text-decoration: none;
-      cursor: pointer;
-      padding: 0.4rem 0.6rem;
-    }
-    .aq-skip:hover { color: var(--primary-color); text-decoration: underline; }
-    .aq-shortcuts {
-      text-align: center;
-      font-size: 0.72rem;
-      color: rgba(100,100,100,0.55);
-      margin: 0.4rem 0 0;
-      line-height: 1.6;
-    }
-    .aq-shortcuts kbd {
-      display: inline-block;
-      padding: 0.05em 0.45em;
-      margin: 0 0.15em;
-      font-size: 0.72rem;
-      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-      background: rgba(0,0,0,0.06);
-      border: 1px solid rgba(0,0,0,0.1);
-      color: rgba(80,80,80,0.85);
-    }
+    .aq-btn-primary:hover { filter: brightness(1.1); }
+    .aq-btn-secondary { background: rgba(0,0,0,0.06); color: #334; }
+    .aq-btn-secondary:hover { background: rgba(0,0,0,0.1); }
+    .aq-btn:disabled { opacity: 0.5; cursor: not-allowed; }
 
-    /* Side rails. Ad rail is desktop-only; history rail is shown on every
-       screen but collapses to a floating tab on mobile. */
-    .aq-ad-rail { display: none; }
-    .aq-history-rail { display: block; }
-    .aq-history-toggle, .aq-history-close { display: none; }
+    .aq-shortcuts { text-align: center; font-size: 0.74rem; color: rgba(120,120,120,0.8); margin: 0.6rem 0 0; }
+    .aq-help { margin: 1rem 0 0; font-size: 0.82rem; color: rgba(90,90,90,0.95); line-height: 1.6; }
 
-    .aq-ad-inner {
-      position: sticky;
-      top: 80px;
-      width: 100%;
-      max-width: 200px;
-      margin: 0 auto;
-      min-height: 600px;
+    /* Toast */
+    .aq-toast {
+      position: fixed; bottom: 28px; top: auto; left: 50%; transform: translateX(-50%) translateY(220%);
+      color: #fff; padding: 0.7rem 1.3rem; border-radius: 999px; font-weight: 800; font-size: 1rem;
+      box-shadow: 0 8px 28px rgba(0,0,0,0.28); z-index: 100000; display: flex; align-items: center; gap: 0.5em;
+      pointer-events: none; transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1); max-width: 92vw; text-align: center;
+      background: linear-gradient(135deg, #4a9e5c 0%, #2c6f3c 100%);
     }
-    .aq-ad-inner .adsbygoogle { display: block; min-height: 600px; }
+    .aq-toast.wrong { background: linear-gradient(135deg, #d35a4d 0%, #9a2d24 100%); }
+    .aq-toast.shown { transform: translateX(-50%) translateY(0); }
 
-    /* History panel */
-    .aq-history-inner {
-      position: sticky;
-      top: 80px;
-      max-height: calc(100vh - 100px);
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      background: var(--surface-color, #fff);
-      border: 1px solid var(--border-soft, #d8d4ca);
+    @media (max-width: 520px) {
+      .aq-code { font-size: 2.1rem; }
+      .aq-page { padding: 0.5rem 0.6rem 1.2rem; }
     }
-    .aq-history-header {
-      flex-shrink: 0;
-      padding: 0.6rem 0.85rem;
-      background: rgba(0,0,0,0.025);
-      border-bottom: 1px solid var(--border-soft, #d8d4ca);
-    }
-    .aq-history-title {
-      display: flex;
-      align-items: baseline;
-      gap: 0.4rem;
-      margin: 0;
-      font-size: 0.8rem;
-      font-weight: 800;
-      letter-spacing: 0.08em;
-      color: var(--primary-color, #446e72);
-      text-transform: uppercase;
-    }
-    .aq-history-count {
-      font-size: 0.72rem;
-      font-weight: 600;
-      color: rgba(100,100,100,0.75);
-      letter-spacing: 0;
-      text-transform: none;
-    }
-    .aq-history-hint {
-      font-size: 0.66rem;
-      color: rgba(100,100,100,0.65);
-      margin: 0.2rem 0 0;
-      line-height: 1.4;
-    }
-    .aq-history-list {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-      overflow-y: auto;
-      flex: 1 1 auto;
-      min-height: 0;
-    }
-    .aq-history-empty {
-      color: rgba(100,100,100,0.6);
-      font-size: 0.78rem;
-      padding: 1.2rem 0.8rem;
-      text-align: center;
-    }
-    .aq-history-item {
-      display: grid;
-      grid-template-columns: 30px 1fr;
-      align-items: stretch;
-      cursor: pointer;
-      border-bottom: 1px solid var(--border-soft, #efece6);
-      position: relative;
-      transition: background 0.12s;
-    }
-    .aq-history-item:last-child { border-bottom: none; }
-    .aq-history-grade {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-weight: 800;
-      font-size: 1rem;
-      color: #fff;
-      line-height: 1;
-    }
-    .aq-history-grade-correct  { background: #4a9e5c; }
-    .aq-history-grade-wrong    { background: #c0392b; }
-    .aq-history-grade-revealed { background: #6c7a89; }
-    .aq-history-grade-fresh    { background: #d8d4ca; color: #888; }
-    .aq-history-item-correct   { background: rgba(74,158,92,0.06); }
-    .aq-history-item-wrong     { background: rgba(192,57,43,0.05); }
-    .aq-history-item-revealed  { background: rgba(108,122,137,0.06); }
-    .aq-history-item-fresh     { background: transparent; }
-    .aq-history-item:hover                  { background: rgba(0,0,0,0.05); }
-    .aq-history-item-correct:hover          { background: rgba(74,158,92,0.16); }
-    .aq-history-item-wrong:hover            { background: rgba(192,57,43,0.13); }
-    .aq-history-item-revealed:hover         { background: rgba(108,122,137,0.14); }
-    .aq-history-item.is-current {
-      outline: 2px solid var(--primary-color, #446e72);
-      outline-offset: -2px;
-      z-index: 1;
-    }
-    .aq-history-item.is-current::after {
-      content: "";
-      position: absolute;
-      right: 0;
-      top: 50%;
-      transform: translateY(-50%);
-      border-style: solid;
-      border-width: 5px 0 5px 6px;
-      border-color: transparent transparent transparent var(--primary-color, #446e72);
-    }
-    .aq-history-body {
-      padding: 0.5rem 0.7rem;
-      min-width: 0;
-      display: flex;
-      flex-direction: column;
-      gap: 0.1rem;
-    }
-    .aq-history-name {
-      font-weight: 700;
-      font-size: 0.82rem;
-      color: var(--text-color);
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-    .aq-history-codes {
-      font-size: 0.72rem;
-      color: rgba(100,100,100,0.78);
-      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-      letter-spacing: 0.04em;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-
-    [data-theme="dark"] .aq-input { background: #1f2326; color: #ddd; border-color: #444; }
-    [data-theme="dark"] .aq-question { background: linear-gradient(135deg, rgba(110,160,165,0.18) 0%, rgba(110,160,165,0.06) 100%); border-color: #3a4045; }
-    [data-theme="dark"] .aq-stats span { background: rgba(255,255,255,0.06); }
-    [data-theme="dark"] .aq-history-inner { background: #2a2f33; border-color: #3a4045; }
-    [data-theme="dark"] .aq-history-header { background: rgba(255,255,255,0.04); border-color: #3a4045; }
-    [data-theme="dark"] .aq-history-name { color: #e3e3e3; }
-    [data-theme="dark"] .aq-history-item { border-color: #3a4045; }
-
-    /* Mobile / shrink */
-    @media (max-width: 760px) {
-      .aq-page { padding: 0.5rem 0.6rem; }
-      .aq-name { font-size: 1.55rem; }
-      .aq-input { font-size: 1.6rem; }
-      .aq-title-sub { display: none; }
-    }
-
-    /* Larger viewports — scale up */
-    @media (min-height: 800px) {
-      .aq-page { padding: 1rem 1.2rem 1.2rem; }
-      .aq-bar { margin-bottom: 1rem; }
-      .aq-title { font-size: 1.3rem; }
-      .aq-stats { font-size: 0.92rem; }
-      .aq-question { padding: 1.4rem 1.4rem 1.5rem; margin-bottom: 1rem; }
-      .aq-name { font-size: 2.5rem; margin-bottom: 1rem; }
-      .aq-input { font-size: 2.4rem; }
-      .aq-result-inline { font-size: 1rem; min-height: 3rem; }
-      .aq-actions { margin-top: 1.2rem; gap: 0.7rem; }
-      .aq-btn { font-size: 1rem; padding: 0.7rem 1.5rem; }
-      .aq-skip { font-size: 0.85rem; }
-    }
-    @media (min-height: 1000px) {
-      .aq-name { font-size: 2.9rem; }
-      .aq-input { font-size: 2.8rem; }
-      .aq-question { padding: 1.6rem 1.6rem 1.8rem; }
-    }
-
-    /* 3-col grid with rails */
-    @media (min-width: 1280px) {
-      main.aq-shell {
-        display: grid;
-        grid-template-columns: minmax(170px, 1fr) minmax(0, 720px) minmax(220px, 1fr);
-        gap: 1.2rem;
-        max-width: 1640px;
-        margin: 0 auto;
-        align-items: start;
-        width: 100%;
-      }
-      .aq-shell > .aq-page { max-width: none; margin: 0; }
-      .aq-ad-rail { display: block; min-width: 0; }
-    }
-    @media (min-width: 1500px) {
-      main.aq-shell {
-        grid-template-columns: minmax(220px, 1fr) minmax(0, 800px) minmax(260px, 1fr);
-        gap: 1.5rem;
-      }
-      .aq-ad-inner { max-width: 220px; }
-    }
-
-    /* Mobile / narrow desktops: history rail floats to the right edge. */
-    @media (max-width: 1279px) {
-      .aq-history-rail .aq-history-inner { display: none; }
-      .aq-history-toggle {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 0.25rem;
-        position: fixed;
-        right: 0;
-        top: 35%;
-        z-index: 200;
-        background: var(--primary-color, #446e72);
-        color: #fff;
-        border: none;
-        padding: 0.7rem 0.45rem;
-        font-weight: 700;
-        font-size: 0.78rem;
-        cursor: pointer;
-        letter-spacing: 0.06em;
-        box-shadow: -2px 2px 8px rgba(0,0,0,0.18);
-      }
-      .aq-history-toggle:hover { filter: brightness(1.1); }
-      .aq-history-toggle-icon { font-size: 1.1rem; line-height: 1; }
-      .aq-history-toggle-letters {
-        display: flex;
-        flex-direction: column;
-        line-height: 1.05;
-      }
-      .aq-history-toggle-count {
-        font-size: 0.72rem;
-        background: rgba(255,255,255,0.18);
-        padding: 0.05em 0.35em;
-        font-weight: 800;
-      }
-      .aq-history-rail.is-expanded .aq-history-inner {
-        display: flex;
-        position: fixed;
-        top: 60px;
-        right: 0;
-        bottom: 16px;
-        width: 320px;
-        max-width: 92vw;
-        max-height: none;
-        z-index: 201;
-        box-shadow: -10px 0 28px rgba(0,0,0,0.25);
-      }
-      .aq-history-rail.is-expanded .aq-history-toggle { display: none; }
-      .aq-history-rail.is-expanded .aq-history-close {
-        display: block;
-        position: absolute;
-        top: 6px;
-        right: 6px;
-        background: none;
-        border: none;
-        color: rgba(80,80,80,0.85);
-        font-size: 1.5rem;
-        line-height: 1;
-        cursor: pointer;
-        padding: 0.2rem 0.5rem;
-        z-index: 1;
-        font-weight: 700;
-      }
-      .aq-history-rail.is-expanded .aq-history-close:hover { color: #c0392b; }
-      .aq-history-rail.is-expanded::before {
-        content: "";
-        position: fixed;
-        inset: 0;
-        background: rgba(0,0,0,0.32);
-        z-index: 200;
-      }
-    }
-
   </style>
 </head>
 <body>
-  <header class="shadow-bottom sticky-top bg-white">
-    <Navbar lang={lang} isHome={false} />
-  </header>
+  <Navbar lang={lang} isHome={false} />
 
-  <main class="aq-shell">
-    <aside class="aq-ad-rail" aria-hidden="true">
-      <div class="aq-ad-inner">
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-3422749596492644"
-             data-ad-slot="1305270005"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-      </div>
-    </aside>
-
+  <main>
     <div class="aq-page">
       <div class="aq-bar">
         <h1 class="aq-title">
           市外局番クイズ
-          <span class="aq-title-sub">{totalKu} 区画／{totalEntries} 番号からランダム出題</span>
+          <span class="aq-title-sub">{totalCodes} コードからランダム出題</span>
         </h1>
         <div class="aq-stats" aria-live="polite">
           <span class="aq-correct">◯ <span id="aq-cnt-correct">0</span></span>
           <span class="aq-wrong">× <span id="aq-cnt-wrong">0</span></span>
           <span class="aq-streak" id="aq-streak" hidden>🔥 <span id="aq-streak-num">0</span> 連続</span>
-          <button class="aq-share" id="aq-share" type="button" title="結果をXでシェア">📣 シェア</button>
         </div>
       </div>
 
       <section class="aq-question" id="aq-question" aria-live="polite">
-        <p class="aq-prompt">この番号区画の市外局番は？（半角数字、先頭の 0 から入力）</p>
-        <p class="aq-name" id="aq-name">―</p>
-        <input
-          type="text"
-          class="aq-input"
-          id="aq-input"
-          inputmode="numeric"
-          pattern="[0-9]*"
-          maxlength="5"
-          autocomplete="off"
-          autocapitalize="off"
-          spellcheck="false"
-          placeholder="0123"
-        />
-        <div class="aq-result-inline" id="aq-result">
-          <span class="aq-result-mark" id="aq-result-mark">◯</span>
-          <span id="aq-result-text">正解！</span>
-          <span id="aq-result-detail"></span>
-        </div>
+        <p class="aq-prompt">この市外局番に対応する地域を地図で選ぼう</p>
+        <p class="aq-code" id="aq-code">―</p>
+        <p class="aq-code-note">全国地図で都道府県をクリック → その県の地図で市区町村をクリック</p>
+        <div class="aq-result" id="aq-result"></div>
       </section>
 
-      <div class="aq-actions">
-        <button class="aq-btn aq-btn-secondary" id="aq-prev" type="button" title="←キーで戻る">前の問題</button>
-        <button class="aq-btn aq-btn-primary" id="aq-submit" type="button" disabled>回答する</button>
-        <button class="aq-btn aq-btn-secondary" id="aq-next" type="button" title="→キーで進む">次の問題</button>
-        <a class="aq-skip" id="aq-skip">スキップ</a>
+      <div class="aq-mapbar">
+        <div class="aq-crumbs" id="aq-crumbs"><span class="cur">日本全国</span></div>
+        <div class="aq-mapbar-right">
+          <span class="aq-hint-pref" id="aq-hint-pref" hidden></span>
+          <span class="aq-zoom" role="group" aria-label="地図の拡大・縮小">
+            <button id="aq-zoom-out" type="button" title="縮小" aria-label="縮小">−</button>
+            <button id="aq-zoom-in" type="button" title="拡大" aria-label="拡大">＋</button>
+            <button id="aq-zoom-reset" type="button" title="拡大リセット" aria-label="拡大リセット">⟲</button>
+          </span>
+          <button class="aq-back" id="aq-back" type="button" hidden>← 全国へ戻る</button>
+        </div>
       </div>
-      <p class="aq-shortcuts">
-        <kbd>Enter</kbd> 回答 / <kbd>Space</kbd> 答えを表示 / <kbd>←</kbd><kbd>→</kbd> 前後の問題
+
+      <div class="aq-map" id="aq-map" data-phase="nation">
+        <div class="aq-map-inner" id="aq-map-inner" set:html={japanSvgRaw}></div>
+      </div>
+
+      <div class="aq-actions">
+        <button class="aq-btn aq-btn-secondary" id="aq-hint" type="button">ヒント（都道府県）</button>
+        <button class="aq-btn aq-btn-secondary" id="aq-skip" type="button">スキップ</button>
+        <button class="aq-btn aq-btn-primary" id="aq-next" type="button" title="Enter / → キー">次の問題 ›</button>
+      </div>
+
+      <p class="aq-shortcuts">ショートカット: <b>Enter</b> / <b>→</b> 次の問題　<b>Esc</b> 全国地図へ戻る</p>
+
+      <p class="aq-help">
+        出題された市外局番（番号区画）に対応する地域を当てるクイズです。まず全国地図で都道府県をクリックすると、その都道府県の市区町村地図に切り替わります。
+        正解と思う市区町村をクリックして解答してください。同じ市外局番が複数の地域にまたがる場合は、いずれかの正解地域を選べば正解になります。
       </p>
     </div>
 
     <div class="aq-toast" id="aq-toast" role="status" aria-live="polite">
-      <span class="aq-toast-icon" id="aq-toast-icon">🎉</span>
-      <span class="aq-toast-text" id="aq-toast-text">―</span>
+      <span id="aq-toast-text">―</span>
     </div>
-
-    <aside class="aq-history-rail" id="aq-history-rail" aria-label="解答履歴">
-      <button class="aq-history-toggle" id="aq-history-toggle" type="button"
-              aria-controls="aq-history-panel" aria-expanded="false" aria-label="解答履歴を開く">
-        <span class="aq-history-toggle-icon" aria-hidden="true">📋</span>
-        <span class="aq-history-toggle-letters" aria-hidden="true"><span>履</span><span>歴</span></span>
-        <span class="aq-history-toggle-count" id="aq-history-toggle-count">0</span>
-      </button>
-      <div class="aq-history-inner" id="aq-history-panel">
-        <button class="aq-history-close" id="aq-history-close" type="button" aria-label="閉じる">×</button>
-        <div class="aq-history-header">
-          <h2 class="aq-history-title">
-            <span>解答履歴</span>
-            <span class="aq-history-count" id="aq-history-count"></span>
-          </h2>
-          <p class="aq-history-hint">クリックでその問題に戻れます</p>
-        </div>
-        <ol class="aq-history-list" id="aq-history-list"></ol>
-        <div class="aq-history-empty" id="aq-history-empty">まだ履歴はありません</div>
-      </div>
-    </aside>
   </main>
 
-  <script is:inline>
-    if (window.matchMedia && window.matchMedia("(min-width: 1280px)").matches) {
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
-    }
-  </script>
+  <Footer lang={lang} title={pageTitle} permalink={canonical} />
+  <SearchModal lang={lang} />
 
-  <script id="aq-data" type="application/json" set:html={JSON.stringify(areacodeData)}></script>
+  <script id="aq-data" type="application/json" set:html={JSON.stringify(quizData)}></script>
 
   <script is:inline>
   (function () {
     const dataEl = document.getElementById("aq-data");
-    /** @type {Record<string, string[]>} */
-    const data = JSON.parse(dataEl.textContent || "{}");
-    if (Object.keys(data).length === 0) return;
+    const DATA = JSON.parse(dataEl.textContent || "{}");
+    const QUESTIONS = (DATA && DATA.questions) || [];
+    const PREFS = (DATA && DATA.prefectures) || {}; // "JP-13" -> {slug, ja}
+    if (!QUESTIONS.length) return;
 
-    const HISTORY_KEY = "aq-history-v1";
-    const CURSOR_KEY  = "aq-cursor-v1";
-    const SCORE_KEY   = "aq-score-v1";
-    const MAX_HISTORY = 100;
-
-    // Weighted random pick: name appears once per (name, code) pair so names
-    // with several codes are slightly more likely.
-    const flat = [];
-    for (const [n, codes] of Object.entries(data)) {
-      for (let i = 0; i < codes.length; i++) flat.push(n);
+    // slug -> {ja, jp}
+    const SLUG = {};
+    for (const jp of Object.keys(PREFS)) {
+      SLUG[PREFS[jp].slug] = { ja: PREFS[jp].ja, jp };
     }
 
-    function loadJSON(key, fallback) {
-      try {
-        const v = localStorage.getItem(key);
-        if (v == null) return fallback;
-        return JSON.parse(v);
-      } catch { return fallback; }
+    const el = (id) => document.getElementById(id);
+    const mapEl     = el("aq-map");
+    const mapInner  = el("aq-map-inner");
+    const crumbsEl  = el("aq-crumbs");
+    const backBtn   = el("aq-back");
+    const codeEl    = el("aq-code");
+    const resultEl  = el("aq-result");
+    const questionEl= el("aq-question");
+    const hintPrefEl= el("aq-hint-pref");
+    const toastEl   = el("aq-toast");
+    const toastText = el("aq-toast-text");
+
+    const state = {
+      q: null,          // current question
+      phase: "nation",  // "nation" | "pref"
+      slug: null,       // current prefecture slug (pref phase)
+      answered: false,  // already judged this question
+      prevIndex: -1,
+    };
+
+    const prefSvgCache = {};
+
+    let correct = 0, wrong = 0, streak = 0;
+
+    function updateStats() {
+      el("aq-cnt-correct").textContent = String(correct);
+      el("aq-cnt-wrong").textContent = String(wrong);
+      const s = el("aq-streak");
+      if (streak >= 2) { s.hidden = false; el("aq-streak-num").textContent = String(streak); }
+      else { s.hidden = true; }
     }
-    function saveJSON(key, val) {
-      try { localStorage.setItem(key, JSON.stringify(val)); } catch {}
-    }
 
-    /** @typedef {{ name: string, codes: string[], state: "fresh"|"answered"|"revealed", input: string, grade: ("correct"|"wrong"|null), ts: number }} HE */
-    let history = loadJSON(HISTORY_KEY, []);
-    if (!Array.isArray(history)) history = [];
-    history = history.filter((h) => h && typeof h.name === "string" && data[h.name]);
-    let cursor = parseInt(localStorage.getItem(CURSOR_KEY) || "0", 10);
-    if (!Number.isFinite(cursor) || cursor < 0) cursor = 0;
-    if (cursor > history.length) cursor = history.length;
-
-    function pickName() {
-      const recent = new Set(history.slice(-30).map((e) => e.name));
-      let pick;
-      let safety = 200;
-      do {
-        pick = flat[Math.floor(Math.random() * flat.length)];
-        safety--;
-      } while (recent.has(pick) && safety > 0);
-      return pick;
-    }
-
-    if (cursor >= history.length) {
-      const name = pickName();
-      history.push({
-        name,
-        codes: data[name].slice(),
-        state: "fresh",
-        input: "",
-        grade: null,
-        ts: Date.now(),
-      });
-      cursor = history.length - 1;
-    }
-    if (history.length > MAX_HISTORY) {
-      const drop = history.length - MAX_HISTORY;
-      history = history.slice(drop);
-      cursor = Math.max(0, cursor - drop);
-    }
-    saveJSON(HISTORY_KEY, history);
-    localStorage.setItem(CURSOR_KEY, String(cursor));
-
-    /** @type {HE} */
-    const current = history[cursor];
-    const correctCodes = new Set(current.codes);
-
-    // DOM
-    const questionEl   = document.getElementById("aq-question");
-    const nameEl       = document.getElementById("aq-name");
-    const inputEl      = document.getElementById("aq-input");
-    const resultEl     = document.getElementById("aq-result");
-    const resultMark   = document.getElementById("aq-result-mark");
-    const resultText   = document.getElementById("aq-result-text");
-    const resultDetail = document.getElementById("aq-result-detail");
-    const submitBtn    = document.getElementById("aq-submit");
-    const nextBtn      = document.getElementById("aq-next");
-    const prevBtn      = document.getElementById("aq-prev");
-    const skipBtn      = document.getElementById("aq-skip");
-    const cntCorrect   = document.getElementById("aq-cnt-correct");
-    const cntWrong     = document.getElementById("aq-cnt-wrong");
-    const streakEl     = document.getElementById("aq-streak");
-    const streakNumEl  = document.getElementById("aq-streak-num");
-    const shareBtn     = document.getElementById("aq-share");
-    const toastEl      = document.getElementById("aq-toast");
-    const toastIconEl  = document.getElementById("aq-toast-icon");
-    const toastTextEl  = document.getElementById("aq-toast-text");
-    const historyListEl  = document.getElementById("aq-history-list");
-    const historyEmptyEl = document.getElementById("aq-history-empty");
-    const historyCountEl = document.getElementById("aq-history-count");
-    const historyToggleCountEl = document.getElementById("aq-history-toggle-count");
-    const historyRail   = document.getElementById("aq-history-rail");
-    const historyToggle = document.getElementById("aq-history-toggle");
-    const historyClose  = document.getElementById("aq-history-close");
-
-    const STREAK_MILESTONES = [3, 5, 10, 15, 20, 30, 50, 100];
-    const TOTAL_MILESTONES  = [10, 25, 50, 100, 200, 500, 1000];
     let toastTimer = null;
-    function showAchievement(text, icon) {
-      if (!toastEl || !toastTextEl) return;
-      toastTextEl.textContent = text;
-      if (toastIconEl && icon) toastIconEl.textContent = icon;
+    function toast(msg, isWrong) {
+      toastText.textContent = msg;
+      toastEl.classList.toggle("wrong", !!isWrong);
       toastEl.classList.add("shown");
-      if (toastTimer) clearTimeout(toastTimer);
-      toastTimer = setTimeout(() => toastEl.classList.remove("shown"), 2800);
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => toastEl.classList.remove("shown"), 1600);
     }
 
-    function persistCurrent() {
-      history[cursor] = current;
-      saveJSON(HISTORY_KEY, history);
+    // ---- zoom / pan ----
+    const ZMIN = 1, ZMAX = 4, ZSTEP = 0.5;
+    let zoom = 1;
+    function applyZoom(recenter) {
+      mapInner.style.width = (zoom * 100) + "%";
+      mapInner.style.height = (zoom * 100) + "%";
+      el("aq-zoom-out").disabled = zoom <= ZMIN;
+      el("aq-zoom-in").disabled = zoom >= ZMAX;
+      if (recenter) {
+        mapEl.scrollLeft = (mapEl.scrollWidth - mapEl.clientWidth) / 2;
+        mapEl.scrollTop = (mapEl.scrollHeight - mapEl.clientHeight) / 2;
+      }
     }
-    function bumpScore(grade) {
-      const s = loadJSON(SCORE_KEY, {});
-      s.correct = (s.correct || 0) + (grade === "correct" ? 1 : 0);
-      s.wrong   = (s.wrong   || 0) + (grade === "wrong"   ? 1 : 0);
-      s.total   = (s.total   || 0) + 1;
-      if (grade === "correct") {
-        s.streak = (s.streak || 0) + 1;
-        s.bestStreak = Math.max(s.bestStreak || 0, s.streak);
+    function setZoom(z, recenter) {
+      zoom = Math.min(ZMAX, Math.max(ZMIN, Math.round(z * 100) / 100));
+      applyZoom(recenter);
+    }
+
+    // ---- map rendering ----
+    function showNation() {
+      state.phase = "nation";
+      state.slug = null;
+      mapEl.setAttribute("data-phase", "nation");
+      mapEl.classList.remove("locked");
+      mapInner.innerHTML = NATION_SVG;
+      setZoom(1);
+      backBtn.hidden = true;
+      renderCrumbs();
+    }
+
+    async function loadPrefSvg(slug) {
+      if (prefSvgCache[slug]) return prefSvgCache[slug];
+      const res = await fetch(`/maps/prefectures/${slug}.svg`);
+      let txt = await res.text();
+      txt = txt.replace(/^\uFEFF/, "").replace(/<\?xml[^>]*\?>\s*/i, "");
+      prefSvgCache[slug] = txt;
+      return txt;
+    }
+
+    async function showPrefecture(slug) {
+      const svg = await loadPrefSvg(slug);
+      // ignore if the question changed while fetching
+      state.phase = "pref";
+      state.slug = slug;
+      mapEl.setAttribute("data-phase", "pref");
+      mapInner.innerHTML = svg;
+      setZoom(1);
+      mapEl.classList.toggle("locked", state.answered);
+      backBtn.hidden = false;
+      renderCrumbs();
+      if (state.answered) markAnswerOnPref();
+    }
+
+    function renderCrumbs() {
+      if (state.phase === "nation") {
+        crumbsEl.innerHTML = '<span class="cur">日本全国</span>';
       } else {
-        s.streak = 0;
-      }
-      saveJSON(SCORE_KEY, s);
-      renderScore(s);
-      if (grade === "correct" && STREAK_MILESTONES.includes(s.streak)) {
-        showAchievement(s.streak + " 問連続正解！", "🔥");
-      } else if (TOTAL_MILESTONES.includes(s.total)) {
-        showAchievement(s.total + " 問挑戦達成！", "🎯");
+        const ja = (SLUG[state.slug] && SLUG[state.slug].ja) || state.slug;
+        crumbsEl.innerHTML =
+          '<span>日本全国</span><span class="sep">›</span><span class="cur">' + ja + "</span>";
       }
     }
-    function renderScore(s) {
-      cntCorrect.textContent = String(s.correct || 0);
-      cntWrong.textContent   = String(s.wrong   || 0);
-      const streak = s.streak || 0;
-      if (streakEl && streakNumEl) {
-        if (streak >= 2) {
-          streakEl.hidden = false;
-          streakNumEl.textContent = String(streak);
-        } else {
-          streakEl.hidden = true;
-        }
-      }
-      if (shareBtn) shareBtn.disabled = !((s.bestStreak || 0) >= 1);
-    }
 
-    const SHARE_TITLE = "市外局番クイズ";
-    function share() {
-      const s = loadJSON(SCORE_KEY, {});
-      const best = s.bestStreak || 0;
-      if (best < 1) return;
-      const url = location.origin + location.pathname;
-      const text = best + " 問連続正解しました！\n" + SHARE_TITLE;
-      const tw = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(text)
-               + "&url=" + encodeURIComponent(url);
-      window.open(tw, "_blank", "noopener,noreferrer");
-    }
-    if (shareBtn) shareBtn.addEventListener("click", share);
-
-    function setHistoryExpanded(expanded) {
-      if (!historyRail) return;
-      historyRail.classList.toggle("is-expanded", expanded);
-      if (historyToggle) historyToggle.setAttribute("aria-expanded", String(expanded));
-    }
-    if (historyToggle) historyToggle.addEventListener("click", (e) => {
-      e.stopPropagation();
-      setHistoryExpanded(!historyRail.classList.contains("is-expanded"));
-    });
-    if (historyClose) historyClose.addEventListener("click", (e) => {
-      e.stopPropagation();
-      setHistoryExpanded(false);
-    });
-    document.addEventListener("click", (e) => {
-      if (!historyRail || !historyRail.classList.contains("is-expanded")) return;
-      if (historyRail.contains(e.target)) return;
-      setHistoryExpanded(false);
-    });
-
-    function renderQuestion() {
-      nameEl.textContent = current.name;
-      const codeList = current.codes.join(" / ");
-
-      inputEl.classList.remove("is-correct", "is-wrong", "is-revealed");
-      resultEl.classList.remove("shown");
+    // ---- question flow ----
+    function pickQuestion() {
+      let i = Math.floor(Math.random() * QUESTIONS.length);
+      if (QUESTIONS.length > 1 && i === state.prevIndex) i = (i + 1) % QUESTIONS.length;
+      state.prevIndex = i;
+      state.q = QUESTIONS[i];
+      state.answered = false;
+      codeEl.textContent = state.q.code;
       questionEl.removeAttribute("data-r");
-      submitBtn.disabled = true;
-      submitBtn.textContent = "回答する";
+      resultEl.classList.remove("shown");
+      resultEl.innerHTML = "";
+      hintPrefEl.hidden = true;
+      hintPrefEl.textContent = "";
+      showNation();
+    }
 
-      if (current.state === "fresh") {
-        inputEl.value = current.input || "";
-        inputEl.disabled = false;
-        submitBtn.disabled = !(inputEl.value && inputEl.value.length > 0);
-        // autofocus
-        setTimeout(() => { try { inputEl.focus(); } catch {} }, 0);
-        return;
+    function answerSlugs() {
+      const set = {};
+      for (const a of state.q.answers) (set[a.slug] = set[a.slug] || []).push(a.muni);
+      return set;
+    }
+
+    function prefJaList() {
+      const seen = [];
+      for (const a of state.q.answers) {
+        const ja = (SLUG[a.slug] && SLUG[a.slug].ja) || a.slug;
+        if (!seen.includes(ja)) seen.push(ja);
       }
+      return seen;
+    }
 
-      inputEl.value = current.input || "";
-      inputEl.disabled = true;
+    function markAnswerOnPref() {
+      // highlight correct municipalities in the currently shown prefecture
+      const munis = (answerSlugs()[state.slug]) || [];
+      for (const m of munis) {
+        mapInner.querySelectorAll('path[data-name="' + cssEsc(m) + '"]').forEach((p) => p.classList.add("aq-answer"));
+      }
+    }
 
-      if (current.state === "answered") {
-        if (current.grade === "correct") {
-          inputEl.classList.add("is-correct");
-          questionEl.dataset.r = "correct";
-          resultEl.classList.add("shown");
-          resultMark.textContent = "◯";
-          resultText.textContent = "正解！";
-          resultDetail.textContent = current.codes.length > 1
-            ? "（市外局番は " + codeList + "）"
-            : "";
-          submitBtn.textContent = "判定済み";
-        } else {
-          inputEl.classList.add("is-wrong");
-          questionEl.dataset.r = "wrong";
-          resultEl.classList.add("shown");
-          resultMark.textContent = "×";
-          resultText.textContent = "不正解";
-          resultDetail.textContent = "（正解は " + codeList + "）";
-          submitBtn.textContent = "判定済み";
-        }
-      } else if (current.state === "revealed") {
-        inputEl.classList.add("is-revealed");
-        questionEl.dataset.r = "revealed";
+    function cssEsc(s) {
+      // value goes inside a quoted attribute selector, so only " and \ need escaping
+      return String(s).replace(/["\\]/g, "\\$&");
+    }
+
+    function describeAnswer() {
+      const parts = state.q.answers.map((a) => {
+        const ja = (SLUG[a.slug] && SLUG[a.slug].ja) || a.slug;
+        return a.muni + "（" + ja + "）";
+      });
+      // de-dup & cap
+      const uniq = [];
+      for (const p of parts) if (!uniq.includes(p)) uniq.push(p);
+      const shown = uniq.slice(0, 6).join("・");
+      const more = uniq.length > 6 ? " ほか" : "";
+      const ma = (state.q.ma || []).join("・");
+      return { shown, more, ma };
+    }
+
+    async function judge(clickedMuni) {
+      if (state.answered) return;
+      const munisHere = (answerSlugs()[state.slug]) || [];
+      const isCorrect = munisHere.indexOf(clickedMuni) !== -1;
+      state.answered = true;
+      mapEl.classList.add("locked");
+      backBtn.hidden = false;
+
+      const info = describeAnswer();
+      if (isCorrect) {
+        correct++; streak++;
+        questionEl.setAttribute("data-r", "correct");
+        resultEl.innerHTML = "◯ 正解！ <small>" + info.shown + info.more +
+          "／番号区画: " + info.ma + "</small>";
         resultEl.classList.add("shown");
-        resultMark.textContent = "答";
-        resultText.textContent = "答えを表示";
-        resultDetail.textContent = "（正解は " + codeList + "）";
-        submitBtn.textContent = "答え表示済み";
+        // highlight the chosen correct muni
+        mapInner.querySelectorAll('path[data-name="' + cssEsc(clickedMuni) + '"]').forEach((p) => p.classList.add("aq-answer"));
+        toast("正解！ " + clickedMuni, false);
+      } else {
+        wrong++; streak = 0;
+        questionEl.setAttribute("data-r", "wrong");
+        resultEl.innerHTML = "× 不正解 <small>正解: " + info.shown + info.more +
+          "／番号区画: " + info.ma + "</small>";
+        resultEl.classList.add("shown");
+        // mark the wrong pick
+        mapInner.querySelectorAll('path[data-name="' + cssEsc(clickedMuni) + '"]').forEach((p) => p.classList.add("aq-pick-wrong"));
+        toast("不正解… " + (info.shown.split("（")[0]), true);
+        // navigate to a correct prefecture and reveal, if not already there
+        const targetSlug = state.q.answers[0].slug;
+        if (state.slug !== targetSlug) {
+          await showPrefecture(targetSlug);
+        } else {
+          markAnswerOnPref();
+        }
       }
+      updateStats();
     }
 
-    function autoCheck() {
-      if (current.state !== "fresh") return;
-      const v = inputEl.value;
-      submitBtn.disabled = !(v && v.length > 0);
-      if (correctCodes.has(v)) {
-        // Auto-correct on exact match.
-        current.state = "answered";
-        current.input = v;
-        current.grade = "correct";
-        persistCurrent();
-        bumpScore("correct");
-        inputEl.disabled = true;
-        renderQuestion();
-        renderHistoryList();
+    // ---- mouse drag to pan ----
+    let panning = false, panMoved = false, psx = 0, psy = 0, psl = 0, pst = 0;
+    mapEl.addEventListener("pointerdown", (e) => {
+      if (e.pointerType !== "mouse" || e.button !== 0) return; // touch uses native scroll
+      panning = true; panMoved = false;
+      psx = e.clientX; psy = e.clientY; psl = mapEl.scrollLeft; pst = mapEl.scrollTop;
+    });
+    mapEl.addEventListener("pointermove", (e) => {
+      if (!panning) return;
+      const dx = e.clientX - psx, dy = e.clientY - psy;
+      if (!panMoved && (Math.abs(dx) > 5 || Math.abs(dy) > 5)) { panMoved = true; mapEl.classList.add("grabbing"); }
+      if (panMoved) { mapEl.scrollLeft = psl - dx; mapEl.scrollTop = pst - dy; e.preventDefault(); }
+    });
+    function endPan() { panning = false; mapEl.classList.remove("grabbing"); }
+    mapEl.addEventListener("pointerup", endPan);
+    mapEl.addEventListener("pointercancel", endPan);
+    mapEl.addEventListener("pointerleave", endPan);
+
+    // ---- interactions ----
+    mapEl.addEventListener("click", async (e) => {
+      if (panMoved) { panMoved = false; return; } // ignore the click that ends a drag
+      const p = e.target.closest && e.target.closest("path");
+      if (!p) return;
+      if (state.phase === "nation") {
+        if (state.answered) return;
+        const jp = p.getAttribute("data-code");      // "JP-xx"
+        const pref = PREFS[jp];
+        if (!pref) return;
+        await showPrefecture(pref.slug);
+      } else {
+        if (state.answered) return;
+        const name = p.getAttribute("data-name");    // municipality
+        if (!name) return;
+        judge(name);
       }
-    }
-
-    function submit() {
-      if (current.state !== "fresh") return;
-      const v = inputEl.value.trim();
-      if (v.length === 0) return;
-      current.state = "answered";
-      current.input = v;
-      current.grade = correctCodes.has(v) ? "correct" : "wrong";
-      persistCurrent();
-      bumpScore(current.grade);
-      renderQuestion();
-      renderHistoryList();
-    }
-
-    function revealAnswer() {
-      if (current.state !== "fresh") return;
-      current.state = "revealed";
-      current.input = inputEl.value.trim();
-      persistCurrent();
-      renderQuestion();
-      renderHistoryList();
-    }
-
-    function go(newCursor) {
-      if (newCursor < 0) return;
-      if (newCursor === cursor) return;
-      localStorage.setItem(CURSOR_KEY, String(newCursor));
-      location.reload();
-    }
-    function next() { go(cursor + 1); }
-    function prev() { if (cursor > 0) go(cursor - 1); }
-
-    // Wire up
-    inputEl.addEventListener("input", () => {
-      // Filter to digits only
-      const filtered = inputEl.value.replace(/\D/g, "");
-      if (filtered !== inputEl.value) inputEl.value = filtered;
-      // Persist input draft so it survives going prev/next without judging
-      if (current.state === "fresh") {
-        current.input = inputEl.value;
-        persistCurrent();
-      }
-      autoCheck();
     });
 
-    submitBtn.addEventListener("click", submit);
-    nextBtn.addEventListener("click", next);
-    if (skipBtn) skipBtn.addEventListener("click", next);
-    if (prevBtn) {
-      prevBtn.disabled = (cursor === 0);
-      prevBtn.addEventListener("click", prev);
-    }
+    backBtn.addEventListener("click", () => { showNation(); });
+
+    el("aq-next").addEventListener("click", pickQuestion);
+    el("aq-skip").addEventListener("click", pickQuestion);
+
+    el("aq-zoom-in").addEventListener("click", () => setZoom(zoom + ZSTEP, true));
+    el("aq-zoom-out").addEventListener("click", () => setZoom(zoom - ZSTEP, true));
+    el("aq-zoom-reset").addEventListener("click", () => setZoom(1));
+
+    el("aq-hint").addEventListener("click", () => {
+      if (!state.q) return;
+      hintPrefEl.textContent = "ヒント: " + prefJaList().join("・");
+      hintPrefEl.hidden = false;
+    });
 
     document.addEventListener("keydown", (e) => {
-      const tag = (e.target && e.target.tagName) || "";
-      const inInput = (tag === "INPUT" || tag === "TEXTAREA");
-
-      if (e.key === " " || e.code === "Space") {
-        // Reveal answer regardless of focus. The input only accepts digits,
-        // so swallowing space in the input is fine — there's no legitimate
-        // reason to type a literal space here.
-        e.preventDefault();
-        revealAnswer();
-        return;
-      }
-
-      if (e.key === "Enter") {
-        e.preventDefault();
-        if (current.state === "fresh" && inputEl.value.length > 0) submit();
-        else next();
-        return;
-      }
-
-      if (e.key === "ArrowRight") {
-        e.preventDefault();
-        next();
-        return;
-      }
-
-      if (e.key === "ArrowLeft") {
-        // When typing, don't hijack the text-cursor movement — only
-        // navigate to previous question if the caret is at the very start.
-        if (inInput && !(inputEl.selectionStart === 0 && inputEl.selectionEnd === 0)) {
-          return;
-        }
-        e.preventDefault();
-        prev();
-      }
+      if (e.key === "Enter" || e.key === "ArrowRight") { e.preventDefault(); pickQuestion(); }
+      else if (e.key === "Escape") { if (state.phase === "pref") showNation(); }
     });
 
-    function stateKey(h) {
-      if (h.state === "answered") return h.grade;
-      return h.state;
-    }
-    function gradeMark(h) {
-      if (h.state === "answered") return h.grade === "correct" ? "◯" : "×";
-      if (h.state === "revealed") return "答";
-      return "—";
-    }
+    // Keep the original nationwide SVG markup to restore when returning.
+    const NATION_SVG = mapInner.innerHTML;
 
-    function renderHistoryList() {
-      if (!historyListEl) return;
-      historyListEl.textContent = "";
-      if (historyCountEl) {
-        historyCountEl.textContent = history.length > 0 ? "(" + history.length + " 問)" : "";
-      }
-      if (historyToggleCountEl) historyToggleCountEl.textContent = String(history.length);
-      if (history.length === 0) {
-        if (historyEmptyEl) historyEmptyEl.style.display = "block";
-        return;
-      }
-      if (historyEmptyEl) historyEmptyEl.style.display = "none";
-
-      for (let i = history.length - 1; i >= 0; i--) {
-        const h = history[i];
-        const key = stateKey(h);
-
-        const li = document.createElement("li");
-        li.className = "aq-history-item aq-history-item-" + key + (i === cursor ? " is-current" : "");
-
-        const gradeSpan = document.createElement("span");
-        gradeSpan.className = "aq-history-grade aq-history-grade-" + key;
-        gradeSpan.textContent = gradeMark(h);
-
-        const body = document.createElement("div");
-        body.className = "aq-history-body";
-        const name = document.createElement("span");
-        name.className = "aq-history-name";
-        name.textContent = h.name;
-        const codes = document.createElement("span");
-        codes.className = "aq-history-codes";
-        codes.textContent = (h.codes || []).join(" / ");
-        body.appendChild(name);
-        body.appendChild(codes);
-
-        li.appendChild(gradeSpan);
-        li.appendChild(body);
-        li.addEventListener("click", () => go(i));
-        historyListEl.appendChild(li);
-      }
-    }
-
-    renderScore(loadJSON(SCORE_KEY, {}));
-    renderQuestion();
-    renderHistoryList();
+    // boot
+    updateStats();
+    pickQuestion();
   })();
   </script>
-
-  <Footer lang={lang} title={pageTitle} permalink={canonical} />
-  <SearchModal lang={lang} />
 </body>
 </html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

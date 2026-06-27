@@ -1,0 +1,6610 @@
+{
+ "prefectures": {
+  "JP-01": {
+   "slug": "hokkaido",
+   "ja": "北海道"
+  },
+  "JP-02": {
+   "slug": "aomori",
+   "ja": "青森県"
+  },
+  "JP-03": {
+   "slug": "iwate",
+   "ja": "岩手県"
+  },
+  "JP-04": {
+   "slug": "miyagi",
+   "ja": "宮城県"
+  },
+  "JP-05": {
+   "slug": "akita",
+   "ja": "秋田県"
+  },
+  "JP-06": {
+   "slug": "yamagata",
+   "ja": "山形県"
+  },
+  "JP-07": {
+   "slug": "fukushima",
+   "ja": "福島県"
+  },
+  "JP-08": {
+   "slug": "ibaraki",
+   "ja": "茨城県"
+  },
+  "JP-09": {
+   "slug": "tochigi",
+   "ja": "栃木県"
+  },
+  "JP-10": {
+   "slug": "gunma",
+   "ja": "群馬県"
+  },
+  "JP-11": {
+   "slug": "saitama",
+   "ja": "埼玉県"
+  },
+  "JP-12": {
+   "slug": "chiba",
+   "ja": "千葉県"
+  },
+  "JP-13": {
+   "slug": "tokyo",
+   "ja": "東京都"
+  },
+  "JP-14": {
+   "slug": "kanagawa",
+   "ja": "神奈川県"
+  },
+  "JP-15": {
+   "slug": "niigata",
+   "ja": "新潟県"
+  },
+  "JP-16": {
+   "slug": "toyama",
+   "ja": "富山県"
+  },
+  "JP-17": {
+   "slug": "ishikawa",
+   "ja": "石川県"
+  },
+  "JP-18": {
+   "slug": "fukui",
+   "ja": "福井県"
+  },
+  "JP-19": {
+   "slug": "yamanashi",
+   "ja": "山梨県"
+  },
+  "JP-20": {
+   "slug": "nagano",
+   "ja": "長野県"
+  },
+  "JP-21": {
+   "slug": "gifu",
+   "ja": "岐阜県"
+  },
+  "JP-22": {
+   "slug": "shizuoka",
+   "ja": "静岡県"
+  },
+  "JP-23": {
+   "slug": "aichi",
+   "ja": "愛知県"
+  },
+  "JP-24": {
+   "slug": "mie",
+   "ja": "三重県"
+  },
+  "JP-25": {
+   "slug": "shiga",
+   "ja": "滋賀県"
+  },
+  "JP-26": {
+   "slug": "kyoto",
+   "ja": "京都府"
+  },
+  "JP-27": {
+   "slug": "osaka",
+   "ja": "大阪府"
+  },
+  "JP-28": {
+   "slug": "hyogo",
+   "ja": "兵庫県"
+  },
+  "JP-29": {
+   "slug": "nara",
+   "ja": "奈良県"
+  },
+  "JP-30": {
+   "slug": "wakayama",
+   "ja": "和歌山県"
+  },
+  "JP-31": {
+   "slug": "tottori",
+   "ja": "鳥取県"
+  },
+  "JP-32": {
+   "slug": "shimane",
+   "ja": "島根県"
+  },
+  "JP-33": {
+   "slug": "okayama",
+   "ja": "岡山県"
+  },
+  "JP-34": {
+   "slug": "hiroshima",
+   "ja": "広島県"
+  },
+  "JP-35": {
+   "slug": "yamaguchi",
+   "ja": "山口県"
+  },
+  "JP-36": {
+   "slug": "tokushima",
+   "ja": "徳島県"
+  },
+  "JP-37": {
+   "slug": "kagawa",
+   "ja": "香川県"
+  },
+  "JP-38": {
+   "slug": "ehime",
+   "ja": "愛媛県"
+  },
+  "JP-39": {
+   "slug": "kochi",
+   "ja": "高知県"
+  },
+  "JP-40": {
+   "slug": "fukuoka",
+   "ja": "福岡県"
+  },
+  "JP-41": {
+   "slug": "saga",
+   "ja": "佐賀県"
+  },
+  "JP-42": {
+   "slug": "nagasaki",
+   "ja": "長崎県"
+  },
+  "JP-43": {
+   "slug": "kumamoto",
+   "ja": "熊本県"
+  },
+  "JP-44": {
+   "slug": "oita",
+   "ja": "大分県"
+  },
+  "JP-45": {
+   "slug": "miyazaki",
+   "ja": "宮崎県"
+  },
+  "JP-46": {
+   "slug": "kagoshima",
+   "ja": "鹿児島県"
+  },
+  "JP-47": {
+   "slug": "okinawa",
+   "ja": "沖縄県"
+  }
+ },
+ "questions": [
+  {
+   "code": "011",
+   "ma": [
+    "札幌"
+   ],
+   "answers": [
+    {
+     "muni": "札幌市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0123",
+   "ma": [
+    "千歳",
+    "夕張",
+    "栗山"
+   ],
+   "answers": [
+    {
+     "muni": "千歳市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "夕張市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "栗山町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0124",
+   "ma": [
+    "芦別"
+   ],
+   "answers": [
+    {
+     "muni": "芦別市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0125",
+   "ma": [
+    "滝川"
+   ],
+   "answers": [
+    {
+     "muni": "滝川市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0126",
+   "ma": [
+    "岩見沢"
+   ],
+   "answers": [
+    {
+     "muni": "岩見沢市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01267",
+   "ma": [
+    "岩見沢"
+   ],
+   "answers": [
+    {
+     "muni": "岩見沢市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0133",
+   "ma": [
+    "当別",
+    "石狩"
+   ],
+   "answers": [
+    {
+     "muni": "当別町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "石狩市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0134",
+   "ma": [
+    "小樽"
+   ],
+   "answers": [
+    {
+     "muni": "小樽市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0135",
+   "ma": [
+    "余市",
+    "岩内"
+   ],
+   "answers": [
+    {
+     "muni": "余市町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "岩内町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0136",
+   "ma": [
+    "倶知安",
+    "寿都"
+   ],
+   "answers": [
+    {
+     "muni": "倶知安町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "寿都町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0137",
+   "ma": [
+    "今金",
+    "八雲"
+   ],
+   "answers": [
+    {
+     "muni": "今金町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "八雲町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01372",
+   "ma": [
+    "鹿部"
+   ],
+   "answers": [
+    {
+     "muni": "鹿部町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01374",
+   "ma": [
+    "森"
+   ],
+   "answers": [
+    {
+     "muni": "森町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01377",
+   "ma": [
+    "八雲"
+   ],
+   "answers": [
+    {
+     "muni": "八雲町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0138",
+   "ma": [
+    "函館"
+   ],
+   "answers": [
+    {
+     "muni": "函館市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0139",
+   "ma": [
+    "松前",
+    "江差"
+   ],
+   "answers": [
+    {
+     "muni": "松前町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "江差町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01392",
+   "ma": [
+    "木古内"
+   ],
+   "answers": [
+    {
+     "muni": "木古内町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01397",
+   "ma": [
+    "奥尻"
+   ],
+   "answers": [
+    {
+     "muni": "奥尻町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01398",
+   "ma": [
+    "熊石"
+   ],
+   "answers": [
+    {
+     "muni": "八雲町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0142",
+   "ma": [
+    "伊達"
+   ],
+   "answers": [
+    {
+     "muni": "伊達市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0143",
+   "ma": [
+    "室蘭"
+   ],
+   "answers": [
+    {
+     "muni": "室蘭市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0144",
+   "ma": [
+    "苫小牧"
+   ],
+   "answers": [
+    {
+     "muni": "苫小牧市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0145",
+   "ma": [
+    "早来",
+    "鵡川"
+   ],
+   "answers": [
+    {
+     "muni": "安平町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "むかわ町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01456",
+   "ma": [
+    "門別富川"
+   ],
+   "answers": [
+    {
+     "muni": "日高町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01457",
+   "ma": [
+    "門別富川"
+   ],
+   "answers": [
+    {
+     "muni": "日高町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0146",
+   "ma": [
+    "浦河",
+    "静内"
+   ],
+   "answers": [
+    {
+     "muni": "浦河町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01466",
+   "ma": [
+    "えりも"
+   ],
+   "answers": [
+    {
+     "muni": "えりも町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "015",
+   "ma": [
+    "十勝池田",
+    "弟子屈"
+   ],
+   "answers": [
+    {
+     "muni": "弟子屈町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0152",
+   "ma": [
+    "斜里",
+    "網走",
+    "美幌"
+   ],
+   "answers": [
+    {
+     "muni": "斜里町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "網走市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "美幌町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0153",
+   "ma": [
+    "中標津",
+    "厚岸",
+    "根室",
+    "根室標津"
+   ],
+   "answers": [
+    {
+     "muni": "中標津町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "厚岸町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "根室市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0154",
+   "ma": [
+    "釧路"
+   ],
+   "answers": [
+    {
+     "muni": "釧路市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01547",
+   "ma": [
+    "白糠"
+   ],
+   "answers": [
+    {
+     "muni": "白糠町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0155",
+   "ma": [
+    "帯広"
+   ],
+   "answers": [
+    {
+     "muni": "帯広市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01558",
+   "ma": [
+    "広尾"
+   ],
+   "answers": [
+    {
+     "muni": "広尾町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0156",
+   "ma": [
+    "十勝清水",
+    "本別"
+   ],
+   "answers": [
+    {
+     "muni": "本別町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01564",
+   "ma": [
+    "上士幌"
+   ],
+   "answers": [
+    {
+     "muni": "上士幌町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0157",
+   "ma": [
+    "北見"
+   ],
+   "answers": [
+    {
+     "muni": "北見市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0158",
+   "ma": [
+    "紋別",
+    "興部",
+    "遠軽"
+   ],
+   "answers": [
+    {
+     "muni": "紋別市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "興部町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "遠軽町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01586",
+   "ma": [
+    "中湧別"
+   ],
+   "answers": [
+    {
+     "muni": "湧別町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01587",
+   "ma": [
+    "中湧別"
+   ],
+   "answers": [
+    {
+     "muni": "湧別町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0162",
+   "ma": [
+    "稚内"
+   ],
+   "answers": [
+    {
+     "muni": "稚内市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0163",
+   "ma": [
+    "利尻礼文",
+    "北見枝幸"
+   ],
+   "answers": [
+    {
+     "muni": "礼文町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "枝幸町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01632",
+   "ma": [
+    "天塩"
+   ],
+   "answers": [
+    {
+     "muni": "天塩町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01634",
+   "ma": [
+    "浜頓別"
+   ],
+   "answers": [
+    {
+     "muni": "浜頓別町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01635",
+   "ma": [
+    "浜頓別"
+   ],
+   "answers": [
+    {
+     "muni": "浜頓別町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0164",
+   "ma": [
+    "留萌",
+    "石狩深川",
+    "羽幌"
+   ],
+   "answers": [
+    {
+     "muni": "留萌市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    },
+    {
+     "muni": "羽幌町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01648",
+   "ma": [
+    "焼尻"
+   ],
+   "answers": [
+    {
+     "muni": "羽幌町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0165",
+   "ma": [
+    "士別"
+   ],
+   "answers": [
+    {
+     "muni": "士別市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01654",
+   "ma": [
+    "名寄"
+   ],
+   "answers": [
+    {
+     "muni": "名寄市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01655",
+   "ma": [
+    "名寄"
+   ],
+   "answers": [
+    {
+     "muni": "名寄市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01656",
+   "ma": [
+    "美深"
+   ],
+   "answers": [
+    {
+     "muni": "美深町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "01658",
+   "ma": [
+    "上川"
+   ],
+   "answers": [
+    {
+     "muni": "上川町",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0166",
+   "ma": [
+    "旭川"
+   ],
+   "answers": [
+    {
+     "muni": "旭川市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "0167",
+   "ma": [
+    "富良野"
+   ],
+   "answers": [
+    {
+     "muni": "富良野市",
+     "slug": "hokkaido",
+     "prefJa": "北海道",
+     "jp": "JP-01"
+    }
+   ]
+  },
+  {
+   "code": "017",
+   "ma": [
+    "青森"
+   ],
+   "answers": [
+    {
+     "muni": "青森市",
+     "slug": "aomori",
+     "prefJa": "青森県",
+     "jp": "JP-02"
+    }
+   ]
+  },
+  {
+   "code": "0172",
+   "ma": [
+    "弘前"
+   ],
+   "answers": [
+    {
+     "muni": "弘前市",
+     "slug": "aomori",
+     "prefJa": "青森県",
+     "jp": "JP-02"
+    }
+   ]
+  },
+  {
+   "code": "0173",
+   "ma": [
+    "五所川原",
+    "鰺ヶ沢"
+   ],
+   "answers": [
+    {
+     "muni": "五所川原市",
+     "slug": "aomori",
+     "prefJa": "青森県",
+     "jp": "JP-02"
+    },
+    {
+     "muni": "鰺ヶ沢町",
+     "slug": "aomori",
+     "prefJa": "青森県",
+     "jp": "JP-02"
+    }
+   ]
+  },
+  {
+   "code": "0174",
+   "ma": [
+    "蟹田"
+   ],
+   "answers": [
+    {
+     "muni": "外ヶ浜町",
+     "slug": "aomori",
+     "prefJa": "青森県",
+     "jp": "JP-02"
+    }
+   ]
+  },
+  {
+   "code": "0175",
+   "ma": [
+    "むつ",
+    "野辺地"
+   ],
+   "answers": [
+    {
+     "muni": "むつ市",
+     "slug": "aomori",
+     "prefJa": "青森県",
+     "jp": "JP-02"
+    },
+    {
+     "muni": "野辺地町",
+     "slug": "aomori",
+     "prefJa": "青森県",
+     "jp": "JP-02"
+    }
+   ]
+  },
+  {
+   "code": "0176",
+   "ma": [
+    "十和田"
+   ],
+   "answers": [
+    {
+     "muni": "十和田市",
+     "slug": "aomori",
+     "prefJa": "青森県",
+     "jp": "JP-02"
+    }
+   ]
+  },
+  {
+   "code": "0178",
+   "ma": [
+    "八戸"
+   ],
+   "answers": [
+    {
+     "muni": "八戸市",
+     "slug": "aomori",
+     "prefJa": "青森県",
+     "jp": "JP-02"
+    }
+   ]
+  },
+  {
+   "code": "0179",
+   "ma": [
+    "三戸"
+   ],
+   "answers": [
+    {
+     "muni": "三戸町",
+     "slug": "aomori",
+     "prefJa": "青森県",
+     "jp": "JP-02"
+    }
+   ]
+  },
+  {
+   "code": "018",
+   "ma": [
+    "秋田"
+   ],
+   "answers": [
+    {
+     "muni": "秋田市",
+     "slug": "akita",
+     "prefJa": "秋田県",
+     "jp": "JP-05"
+    }
+   ]
+  },
+  {
+   "code": "0182",
+   "ma": [
+    "横手"
+   ],
+   "answers": [
+    {
+     "muni": "横手市",
+     "slug": "akita",
+     "prefJa": "秋田県",
+     "jp": "JP-05"
+    }
+   ]
+  },
+  {
+   "code": "0183",
+   "ma": [
+    "湯沢"
+   ],
+   "answers": [
+    {
+     "muni": "湯沢市",
+     "slug": "akita",
+     "prefJa": "秋田県",
+     "jp": "JP-05"
+    }
+   ]
+  },
+  {
+   "code": "0184",
+   "ma": [
+    "本荘"
+   ],
+   "answers": [
+    {
+     "muni": "由利本荘市",
+     "slug": "akita",
+     "prefJa": "秋田県",
+     "jp": "JP-05"
+    }
+   ]
+  },
+  {
+   "code": "0185",
+   "ma": [
+    "男鹿",
+    "能代"
+   ],
+   "answers": [
+    {
+     "muni": "男鹿市",
+     "slug": "akita",
+     "prefJa": "秋田県",
+     "jp": "JP-05"
+    },
+    {
+     "muni": "能代市",
+     "slug": "akita",
+     "prefJa": "秋田県",
+     "jp": "JP-05"
+    }
+   ]
+  },
+  {
+   "code": "0186",
+   "ma": [
+    "大館",
+    "鷹巣",
+    "鹿角"
+   ],
+   "answers": [
+    {
+     "muni": "大館市",
+     "slug": "akita",
+     "prefJa": "秋田県",
+     "jp": "JP-05"
+    },
+    {
+     "muni": "鹿角市",
+     "slug": "akita",
+     "prefJa": "秋田県",
+     "jp": "JP-05"
+    }
+   ]
+  },
+  {
+   "code": "0187",
+   "ma": [
+    "大曲",
+    "角館"
+   ],
+   "answers": [
+    {
+     "muni": "大仙市",
+     "slug": "akita",
+     "prefJa": "秋田県",
+     "jp": "JP-05"
+    },
+    {
+     "muni": "仙北市",
+     "slug": "akita",
+     "prefJa": "秋田県",
+     "jp": "JP-05"
+    }
+   ]
+  },
+  {
+   "code": "019",
+   "ma": [
+    "盛岡"
+   ],
+   "answers": [
+    {
+     "muni": "盛岡市",
+     "slug": "iwate",
+     "prefJa": "岩手県",
+     "jp": "JP-03"
+    }
+   ]
+  },
+  {
+   "code": "0191",
+   "ma": [
+    "一関"
+   ],
+   "answers": [
+    {
+     "muni": "一関市",
+     "slug": "iwate",
+     "prefJa": "岩手県",
+     "jp": "JP-03"
+    }
+   ]
+  },
+  {
+   "code": "0192",
+   "ma": [
+    "大船渡"
+   ],
+   "answers": [
+    {
+     "muni": "大船渡市",
+     "slug": "iwate",
+     "prefJa": "岩手県",
+     "jp": "JP-03"
+    }
+   ]
+  },
+  {
+   "code": "0193",
+   "ma": [
+    "宮古",
+    "釜石"
+   ],
+   "answers": [
+    {
+     "muni": "宮古市",
+     "slug": "iwate",
+     "prefJa": "岩手県",
+     "jp": "JP-03"
+    },
+    {
+     "muni": "釜石市",
+     "slug": "iwate",
+     "prefJa": "岩手県",
+     "jp": "JP-03"
+    }
+   ]
+  },
+  {
+   "code": "0194",
+   "ma": [
+    "久慈",
+    "岩泉"
+   ],
+   "answers": [
+    {
+     "muni": "久慈市",
+     "slug": "iwate",
+     "prefJa": "岩手県",
+     "jp": "JP-03"
+    },
+    {
+     "muni": "岩泉町",
+     "slug": "iwate",
+     "prefJa": "岩手県",
+     "jp": "JP-03"
+    }
+   ]
+  },
+  {
+   "code": "0195",
+   "ma": [
+    "二戸",
+    "岩手"
+   ],
+   "answers": [
+    {
+     "muni": "二戸市",
+     "slug": "iwate",
+     "prefJa": "岩手県",
+     "jp": "JP-03"
+    },
+    {
+     "muni": "岩手町",
+     "slug": "iwate",
+     "prefJa": "岩手県",
+     "jp": "JP-03"
+    }
+   ]
+  },
+  {
+   "code": "0197",
+   "ma": [
+    "北上",
+    "水沢"
+   ],
+   "answers": [
+    {
+     "muni": "北上市",
+     "slug": "iwate",
+     "prefJa": "岩手県",
+     "jp": "JP-03"
+    }
+   ]
+  },
+  {
+   "code": "0198",
+   "ma": [
+    "花巻",
+    "遠野"
+   ],
+   "answers": [
+    {
+     "muni": "花巻市",
+     "slug": "iwate",
+     "prefJa": "岩手県",
+     "jp": "JP-03"
+    },
+    {
+     "muni": "遠野市",
+     "slug": "iwate",
+     "prefJa": "岩手県",
+     "jp": "JP-03"
+    }
+   ]
+  },
+  {
+   "code": "022",
+   "ma": [
+    "仙台"
+   ],
+   "answers": [
+    {
+     "muni": "仙台市",
+     "slug": "miyagi",
+     "prefJa": "宮城県",
+     "jp": "JP-04"
+    }
+   ]
+  },
+  {
+   "code": "0220",
+   "ma": [
+    "迫"
+   ],
+   "answers": [
+    {
+     "muni": "登米市",
+     "slug": "miyagi",
+     "prefJa": "宮城県",
+     "jp": "JP-04"
+    }
+   ]
+  },
+  {
+   "code": "0223",
+   "ma": [
+    "岩沼"
+   ],
+   "answers": [
+    {
+     "muni": "岩沼市",
+     "slug": "miyagi",
+     "prefJa": "宮城県",
+     "jp": "JP-04"
+    }
+   ]
+  },
+  {
+   "code": "0224",
+   "ma": [
+    "大河原",
+    "白石"
+   ],
+   "answers": [
+    {
+     "muni": "大河原町",
+     "slug": "miyagi",
+     "prefJa": "宮城県",
+     "jp": "JP-04"
+    },
+    {
+     "muni": "白石市",
+     "slug": "miyagi",
+     "prefJa": "宮城県",
+     "jp": "JP-04"
+    }
+   ]
+  },
+  {
+   "code": "0225",
+   "ma": [
+    "石巻"
+   ],
+   "answers": [
+    {
+     "muni": "石巻市",
+     "slug": "miyagi",
+     "prefJa": "宮城県",
+     "jp": "JP-04"
+    }
+   ]
+  },
+  {
+   "code": "0226",
+   "ma": [
+    "気仙沼"
+   ],
+   "answers": [
+    {
+     "muni": "気仙沼市",
+     "slug": "miyagi",
+     "prefJa": "宮城県",
+     "jp": "JP-04"
+    }
+   ]
+  },
+  {
+   "code": "0228",
+   "ma": [
+    "築館"
+   ],
+   "answers": [
+    {
+     "muni": "栗原市",
+     "slug": "miyagi",
+     "prefJa": "宮城県",
+     "jp": "JP-04"
+    }
+   ]
+  },
+  {
+   "code": "0229",
+   "ma": [
+    "古川"
+   ],
+   "answers": [
+    {
+     "muni": "大崎市",
+     "slug": "miyagi",
+     "prefJa": "宮城県",
+     "jp": "JP-04"
+    }
+   ]
+  },
+  {
+   "code": "023",
+   "ma": [
+    "山形"
+   ],
+   "answers": [
+    {
+     "muni": "山形市",
+     "slug": "yamagata",
+     "prefJa": "山形県",
+     "jp": "JP-06"
+    }
+   ]
+  },
+  {
+   "code": "0233",
+   "ma": [
+    "新庄"
+   ],
+   "answers": [
+    {
+     "muni": "新庄市",
+     "slug": "yamagata",
+     "prefJa": "山形県",
+     "jp": "JP-06"
+    }
+   ]
+  },
+  {
+   "code": "0234",
+   "ma": [
+    "酒田"
+   ],
+   "answers": [
+    {
+     "muni": "酒田市",
+     "slug": "yamagata",
+     "prefJa": "山形県",
+     "jp": "JP-06"
+    }
+   ]
+  },
+  {
+   "code": "0235",
+   "ma": [
+    "鶴岡"
+   ],
+   "answers": [
+    {
+     "muni": "鶴岡市",
+     "slug": "yamagata",
+     "prefJa": "山形県",
+     "jp": "JP-06"
+    }
+   ]
+  },
+  {
+   "code": "0237",
+   "ma": [
+    "寒河江",
+    "村山"
+   ],
+   "answers": [
+    {
+     "muni": "寒河江市",
+     "slug": "yamagata",
+     "prefJa": "山形県",
+     "jp": "JP-06"
+    },
+    {
+     "muni": "村山市",
+     "slug": "yamagata",
+     "prefJa": "山形県",
+     "jp": "JP-06"
+    }
+   ]
+  },
+  {
+   "code": "0238",
+   "ma": [
+    "米沢",
+    "長井"
+   ],
+   "answers": [
+    {
+     "muni": "米沢市",
+     "slug": "yamagata",
+     "prefJa": "山形県",
+     "jp": "JP-06"
+    },
+    {
+     "muni": "長井市",
+     "slug": "yamagata",
+     "prefJa": "山形県",
+     "jp": "JP-06"
+    }
+   ]
+  },
+  {
+   "code": "024",
+   "ma": [
+    "福島",
+    "郡山"
+   ],
+   "answers": [
+    {
+     "muni": "福島市",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    },
+    {
+     "muni": "郡山市",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    }
+   ]
+  },
+  {
+   "code": "0240",
+   "ma": [
+    "磐城富岡"
+   ],
+   "answers": [
+    {
+     "muni": "富岡町",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    }
+   ]
+  },
+  {
+   "code": "0241",
+   "ma": [
+    "会津山口",
+    "喜多方",
+    "柳津",
+    "田島"
+   ],
+   "answers": [
+    {
+     "muni": "喜多方市",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    },
+    {
+     "muni": "柳津町",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    }
+   ]
+  },
+  {
+   "code": "0242",
+   "ma": [
+    "会津若松"
+   ],
+   "answers": [
+    {
+     "muni": "会津若松市",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    }
+   ]
+  },
+  {
+   "code": "0243",
+   "ma": [
+    "二本松"
+   ],
+   "answers": [
+    {
+     "muni": "二本松市",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    }
+   ]
+  },
+  {
+   "code": "0244",
+   "ma": [
+    "原町"
+   ],
+   "answers": [
+    {
+     "muni": "南相馬市",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    }
+   ]
+  },
+  {
+   "code": "0246",
+   "ma": [
+    "いわき"
+   ],
+   "answers": [
+    {
+     "muni": "いわき市",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    }
+   ]
+  },
+  {
+   "code": "0247",
+   "ma": [
+    "三春",
+    "石川"
+   ],
+   "answers": [
+    {
+     "muni": "三春町",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    },
+    {
+     "muni": "石川町",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    }
+   ]
+  },
+  {
+   "code": "0248",
+   "ma": [
+    "白河",
+    "須賀川"
+   ],
+   "answers": [
+    {
+     "muni": "白河市",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    },
+    {
+     "muni": "須賀川市",
+     "slug": "fukushima",
+     "prefJa": "福島県",
+     "jp": "JP-07"
+    }
+   ]
+  },
+  {
+   "code": "025",
+   "ma": [
+    "上越",
+    "六日町",
+    "十日町",
+    "安塚",
+    "小出",
+    "新潟",
+    "糸魚川"
+   ],
+   "answers": [
+    {
+     "muni": "上越市",
+     "slug": "niigata",
+     "prefJa": "新潟県",
+     "jp": "JP-15"
+    },
+    {
+     "muni": "十日町市",
+     "slug": "niigata",
+     "prefJa": "新潟県",
+     "jp": "JP-15"
+    },
+    {
+     "muni": "新潟市",
+     "slug": "niigata",
+     "prefJa": "新潟県",
+     "jp": "JP-15"
+    },
+    {
+     "muni": "糸魚川市",
+     "slug": "niigata",
+     "prefJa": "新潟県",
+     "jp": "JP-15"
+    }
+   ]
+  },
+  {
+   "code": "0250",
+   "ma": [
+    "新津"
+   ],
+   "answers": [
+    {
+     "muni": "新潟市",
+     "slug": "niigata",
+     "prefJa": "新潟県",
+     "jp": "JP-15"
+    }
+   ]
+  },
+  {
+   "code": "0254",
+   "ma": [
+    "新発田",
+    "村上",
+    "津川"
+   ],
+   "answers": [
+    {
+     "muni": "新発田市",
+     "slug": "niigata",
+     "prefJa": "新潟県",
+     "jp": "JP-15"
+    },
+    {
+     "muni": "村上市",
+     "slug": "niigata",
+     "prefJa": "新潟県",
+     "jp": "JP-15"
+    }
+   ]
+  },
+  {
+   "code": "0255",
+   "ma": [
+    "新井"
+   ],
+   "answers": [
+    {
+     "muni": "妙高市",
+     "slug": "niigata",
+     "prefJa": "新潟県",
+     "jp": "JP-15"
+    }
+   ]
+  },
+  {
+   "code": "0256",
+   "ma": [
+    "三条",
+    "巻"
+   ],
+   "answers": [
+    {
+     "muni": "三条市",
+     "slug": "niigata",
+     "prefJa": "新潟県",
+     "jp": "JP-15"
+    }
+   ]
+  },
+  {
+   "code": "0257",
+   "ma": [
+    "柏崎"
+   ],
+   "answers": [
+    {
+     "muni": "柏崎市",
+     "slug": "niigata",
+     "prefJa": "新潟県",
+     "jp": "JP-15"
+    }
+   ]
+  },
+  {
+   "code": "0258",
+   "ma": [
+    "長岡"
+   ],
+   "answers": [
+    {
+     "muni": "長岡市",
+     "slug": "niigata",
+     "prefJa": "新潟県",
+     "jp": "JP-15"
+    }
+   ]
+  },
+  {
+   "code": "0259",
+   "ma": [
+    "佐渡"
+   ],
+   "answers": [
+    {
+     "muni": "佐渡市",
+     "slug": "niigata",
+     "prefJa": "新潟県",
+     "jp": "JP-15"
+    }
+   ]
+  },
+  {
+   "code": "026",
+   "ma": [
+    "長野"
+   ],
+   "answers": [
+    {
+     "muni": "長野市",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    }
+   ]
+  },
+  {
+   "code": "0260",
+   "ma": [
+    "阿南町"
+   ],
+   "answers": [
+    {
+     "muni": "阿南町",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    }
+   ]
+  },
+  {
+   "code": "0261",
+   "ma": [
+    "大町"
+   ],
+   "answers": [
+    {
+     "muni": "大町市",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    }
+   ]
+  },
+  {
+   "code": "0263",
+   "ma": [
+    "松本"
+   ],
+   "answers": [
+    {
+     "muni": "松本市",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    }
+   ]
+  },
+  {
+   "code": "0264",
+   "ma": [
+    "木曾福島"
+   ],
+   "answers": [
+    {
+     "muni": "木曽町",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    }
+   ]
+  },
+  {
+   "code": "0265",
+   "ma": [
+    "伊那",
+    "飯田"
+   ],
+   "answers": [
+    {
+     "muni": "伊那市",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    },
+    {
+     "muni": "飯田市",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    }
+   ]
+  },
+  {
+   "code": "0266",
+   "ma": [
+    "諏訪"
+   ],
+   "answers": [
+    {
+     "muni": "諏訪市",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    }
+   ]
+  },
+  {
+   "code": "0267",
+   "ma": [
+    "佐久",
+    "小諸"
+   ],
+   "answers": [
+    {
+     "muni": "佐久市",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    },
+    {
+     "muni": "小諸市",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    }
+   ]
+  },
+  {
+   "code": "0268",
+   "ma": [
+    "上田"
+   ],
+   "answers": [
+    {
+     "muni": "上田市",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    }
+   ]
+  },
+  {
+   "code": "0269",
+   "ma": [
+    "中野",
+    "飯山"
+   ],
+   "answers": [
+    {
+     "muni": "中野市",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    },
+    {
+     "muni": "飯山市",
+     "slug": "nagano",
+     "prefJa": "長野県",
+     "jp": "JP-20"
+    }
+   ]
+  },
+  {
+   "code": "027",
+   "ma": [
+    "前橋",
+    "高崎"
+   ],
+   "answers": [
+    {
+     "muni": "前橋市",
+     "slug": "gunma",
+     "prefJa": "群馬県",
+     "jp": "JP-10"
+    },
+    {
+     "muni": "高崎市",
+     "slug": "gunma",
+     "prefJa": "群馬県",
+     "jp": "JP-10"
+    }
+   ]
+  },
+  {
+   "code": "0270",
+   "ma": [
+    "伊勢崎"
+   ],
+   "answers": [
+    {
+     "muni": "伊勢崎市",
+     "slug": "gunma",
+     "prefJa": "群馬県",
+     "jp": "JP-10"
+    }
+   ]
+  },
+  {
+   "code": "0274",
+   "ma": [
+    "富岡",
+    "藤岡"
+   ],
+   "answers": [
+    {
+     "muni": "富岡市",
+     "slug": "gunma",
+     "prefJa": "群馬県",
+     "jp": "JP-10"
+    },
+    {
+     "muni": "藤岡市",
+     "slug": "gunma",
+     "prefJa": "群馬県",
+     "jp": "JP-10"
+    }
+   ]
+  },
+  {
+   "code": "0276",
+   "ma": [
+    "太田"
+   ],
+   "answers": [
+    {
+     "muni": "太田市",
+     "slug": "gunma",
+     "prefJa": "群馬県",
+     "jp": "JP-10"
+    }
+   ]
+  },
+  {
+   "code": "0277",
+   "ma": [
+    "桐生"
+   ],
+   "answers": [
+    {
+     "muni": "桐生市",
+     "slug": "gunma",
+     "prefJa": "群馬県",
+     "jp": "JP-10"
+    }
+   ]
+  },
+  {
+   "code": "0278",
+   "ma": [
+    "沼田"
+   ],
+   "answers": [
+    {
+     "muni": "沼田市",
+     "slug": "gunma",
+     "prefJa": "群馬県",
+     "jp": "JP-10"
+    }
+   ]
+  },
+  {
+   "code": "0279",
+   "ma": [
+    "渋川",
+    "長野原"
+   ],
+   "answers": [
+    {
+     "muni": "渋川市",
+     "slug": "gunma",
+     "prefJa": "群馬県",
+     "jp": "JP-10"
+    },
+    {
+     "muni": "長野原町",
+     "slug": "gunma",
+     "prefJa": "群馬県",
+     "jp": "JP-10"
+    }
+   ]
+  },
+  {
+   "code": "028",
+   "ma": [
+    "宇都宮"
+   ],
+   "answers": [
+    {
+     "muni": "宇都宮市",
+     "slug": "tochigi",
+     "prefJa": "栃木県",
+     "jp": "JP-09"
+    }
+   ]
+  },
+  {
+   "code": "0280",
+   "ma": [
+    "古河"
+   ],
+   "answers": [
+    {
+     "muni": "古河市",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    }
+   ]
+  },
+  {
+   "code": "0282",
+   "ma": [
+    "栃木"
+   ],
+   "answers": [
+    {
+     "muni": "栃木市",
+     "slug": "tochigi",
+     "prefJa": "栃木県",
+     "jp": "JP-09"
+    }
+   ]
+  },
+  {
+   "code": "0283",
+   "ma": [
+    "佐野"
+   ],
+   "answers": [
+    {
+     "muni": "佐野市",
+     "slug": "tochigi",
+     "prefJa": "栃木県",
+     "jp": "JP-09"
+    }
+   ]
+  },
+  {
+   "code": "0284",
+   "ma": [
+    "足利"
+   ],
+   "answers": [
+    {
+     "muni": "足利市",
+     "slug": "tochigi",
+     "prefJa": "栃木県",
+     "jp": "JP-09"
+    }
+   ]
+  },
+  {
+   "code": "0285",
+   "ma": [
+    "小山",
+    "真岡"
+   ],
+   "answers": [
+    {
+     "muni": "小山市",
+     "slug": "tochigi",
+     "prefJa": "栃木県",
+     "jp": "JP-09"
+    },
+    {
+     "muni": "真岡市",
+     "slug": "tochigi",
+     "prefJa": "栃木県",
+     "jp": "JP-09"
+    }
+   ]
+  },
+  {
+   "code": "0287",
+   "ma": [
+    "大田原",
+    "烏山",
+    "黒磯"
+   ],
+   "answers": [
+    {
+     "muni": "大田原市",
+     "slug": "tochigi",
+     "prefJa": "栃木県",
+     "jp": "JP-09"
+    }
+   ]
+  },
+  {
+   "code": "0288",
+   "ma": [
+    "今市"
+   ],
+   "answers": [
+    {
+     "muni": "日光市",
+     "slug": "tochigi",
+     "prefJa": "栃木県",
+     "jp": "JP-09"
+    }
+   ]
+  },
+  {
+   "code": "0289",
+   "ma": [
+    "鹿沼"
+   ],
+   "answers": [
+    {
+     "muni": "鹿沼市",
+     "slug": "tochigi",
+     "prefJa": "栃木県",
+     "jp": "JP-09"
+    }
+   ]
+  },
+  {
+   "code": "029",
+   "ma": [
+    "土浦",
+    "水戸"
+   ],
+   "answers": [
+    {
+     "muni": "土浦市",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    },
+    {
+     "muni": "水戸市",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    }
+   ]
+  },
+  {
+   "code": "0291",
+   "ma": [
+    "鉾田"
+   ],
+   "answers": [
+    {
+     "muni": "鉾田市",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    }
+   ]
+  },
+  {
+   "code": "0293",
+   "ma": [
+    "高萩"
+   ],
+   "answers": [
+    {
+     "muni": "高萩市",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    }
+   ]
+  },
+  {
+   "code": "0294",
+   "ma": [
+    "常陸太田"
+   ],
+   "answers": [
+    {
+     "muni": "常陸太田市",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    }
+   ]
+  },
+  {
+   "code": "0295",
+   "ma": [
+    "大子",
+    "常陸大宮"
+   ],
+   "answers": [
+    {
+     "muni": "大子町",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    },
+    {
+     "muni": "常陸大宮市",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    }
+   ]
+  },
+  {
+   "code": "0296",
+   "ma": [
+    "下館",
+    "笠間"
+   ],
+   "answers": [
+    {
+     "muni": "笠間市",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    }
+   ]
+  },
+  {
+   "code": "0297",
+   "ma": [
+    "水海道",
+    "竜ケ崎"
+   ],
+   "answers": [
+    {
+     "muni": "常総市",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    },
+    {
+     "muni": "龍ケ崎市",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    }
+   ]
+  },
+  {
+   "code": "0299",
+   "ma": [
+    "潮来",
+    "石岡"
+   ],
+   "answers": [
+    {
+     "muni": "潮来市",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    },
+    {
+     "muni": "石岡市",
+     "slug": "ibaraki",
+     "prefJa": "茨城県",
+     "jp": "JP-08"
+    }
+   ]
+  },
+  {
+   "code": "03",
+   "ma": [
+    "東京"
+   ],
+   "answers": [
+    {
+     "muni": "千代田区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "中央区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "港区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "新宿区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "文京区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "台東区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "墨田区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "江東区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "品川区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "目黒区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "大田区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "世田谷区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "渋谷区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "中野区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "杉並区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "豊島区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "北区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "荒川区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "板橋区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "練馬区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "足立区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "葛飾区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "江戸川区",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    }
+   ]
+  },
+  {
+   "code": "04",
+   "ma": [
+    "所沢",
+    "柏",
+    "鴨川"
+   ],
+   "answers": [
+    {
+     "muni": "所沢市",
+     "slug": "saitama",
+     "prefJa": "埼玉県",
+     "jp": "JP-11"
+    },
+    {
+     "muni": "柏市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    },
+    {
+     "muni": "鴨川市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    }
+   ]
+  },
+  {
+   "code": "042",
+   "ma": [
+    "八王子",
+    "国分寺",
+    "武蔵野三鷹",
+    "相模原",
+    "立川",
+    "飯能"
+   ],
+   "answers": [
+    {
+     "muni": "八王子市",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "国分寺市",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "武蔵野市",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "相模原市",
+     "slug": "kanagawa",
+     "prefJa": "神奈川県",
+     "jp": "JP-14"
+    },
+    {
+     "muni": "立川市",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    },
+    {
+     "muni": "飯能市",
+     "slug": "saitama",
+     "prefJa": "埼玉県",
+     "jp": "JP-11"
+    }
+   ]
+  },
+  {
+   "code": "0422",
+   "ma": [
+    "武蔵野三鷹"
+   ],
+   "answers": [
+    {
+     "muni": "武蔵野市",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    }
+   ]
+  },
+  {
+   "code": "0428",
+   "ma": [
+    "青梅"
+   ],
+   "answers": [
+    {
+     "muni": "青梅市",
+     "slug": "tokyo",
+     "prefJa": "東京都",
+     "jp": "JP-13"
+    }
+   ]
+  },
+  {
+   "code": "043",
+   "ma": [
+    "千葉"
+   ],
+   "answers": [
+    {
+     "muni": "千葉市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    }
+   ]
+  },
+  {
+   "code": "0436",
+   "ma": [
+    "市原"
+   ],
+   "answers": [
+    {
+     "muni": "市原市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    }
+   ]
+  },
+  {
+   "code": "0438",
+   "ma": [
+    "木更津"
+   ],
+   "answers": [
+    {
+     "muni": "木更津市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    }
+   ]
+  },
+  {
+   "code": "0439",
+   "ma": [
+    "木更津"
+   ],
+   "answers": [
+    {
+     "muni": "木更津市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    }
+   ]
+  },
+  {
+   "code": "044",
+   "ma": [
+    "川崎"
+   ],
+   "answers": [
+    {
+     "muni": "川崎市",
+     "slug": "kanagawa",
+     "prefJa": "神奈川県",
+     "jp": "JP-14"
+    }
+   ]
+  },
+  {
+   "code": "045",
+   "ma": [
+    "横浜"
+   ],
+   "answers": [
+    {
+     "muni": "横浜市",
+     "slug": "kanagawa",
+     "prefJa": "神奈川県",
+     "jp": "JP-14"
+    }
+   ]
+  },
+  {
+   "code": "046",
+   "ma": [
+    "厚木",
+    "横須賀"
+   ],
+   "answers": [
+    {
+     "muni": "厚木市",
+     "slug": "kanagawa",
+     "prefJa": "神奈川県",
+     "jp": "JP-14"
+    },
+    {
+     "muni": "横須賀市",
+     "slug": "kanagawa",
+     "prefJa": "神奈川県",
+     "jp": "JP-14"
+    }
+   ]
+  },
+  {
+   "code": "0460",
+   "ma": [
+    "小田原"
+   ],
+   "answers": [
+    {
+     "muni": "小田原市",
+     "slug": "kanagawa",
+     "prefJa": "神奈川県",
+     "jp": "JP-14"
+    }
+   ]
+  },
+  {
+   "code": "0463",
+   "ma": [
+    "平塚"
+   ],
+   "answers": [
+    {
+     "muni": "平塚市",
+     "slug": "kanagawa",
+     "prefJa": "神奈川県",
+     "jp": "JP-14"
+    }
+   ]
+  },
+  {
+   "code": "0465",
+   "ma": [
+    "小田原"
+   ],
+   "answers": [
+    {
+     "muni": "小田原市",
+     "slug": "kanagawa",
+     "prefJa": "神奈川県",
+     "jp": "JP-14"
+    }
+   ]
+  },
+  {
+   "code": "0466",
+   "ma": [
+    "藤沢"
+   ],
+   "answers": [
+    {
+     "muni": "藤沢市",
+     "slug": "kanagawa",
+     "prefJa": "神奈川県",
+     "jp": "JP-14"
+    }
+   ]
+  },
+  {
+   "code": "0467",
+   "ma": [
+    "藤沢"
+   ],
+   "answers": [
+    {
+     "muni": "藤沢市",
+     "slug": "kanagawa",
+     "prefJa": "神奈川県",
+     "jp": "JP-14"
+    }
+   ]
+  },
+  {
+   "code": "047",
+   "ma": [
+    "市川",
+    "船橋"
+   ],
+   "answers": [
+    {
+     "muni": "市川市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    },
+    {
+     "muni": "船橋市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    }
+   ]
+  },
+  {
+   "code": "0470",
+   "ma": [
+    "大原",
+    "館山"
+   ],
+   "answers": [
+    {
+     "muni": "館山市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    }
+   ]
+  },
+  {
+   "code": "0475",
+   "ma": [
+    "東金",
+    "茂原"
+   ],
+   "answers": [
+    {
+     "muni": "東金市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    },
+    {
+     "muni": "茂原市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    }
+   ]
+  },
+  {
+   "code": "0476",
+   "ma": [
+    "成田"
+   ],
+   "answers": [
+    {
+     "muni": "成田市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    }
+   ]
+  },
+  {
+   "code": "0478",
+   "ma": [
+    "佐原"
+   ],
+   "answers": [
+    {
+     "muni": "香取市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    }
+   ]
+  },
+  {
+   "code": "0479",
+   "ma": [
+    "八日市場",
+    "銚子"
+   ],
+   "answers": [
+    {
+     "muni": "銚子市",
+     "slug": "chiba",
+     "prefJa": "千葉県",
+     "jp": "JP-12"
+    }
+   ]
+  },
+  {
+   "code": "048",
+   "ma": [
+    "川口",
+    "浦和",
+    "熊谷",
+    "草加"
+   ],
+   "answers": [
+    {
+     "muni": "川口市",
+     "slug": "saitama",
+     "prefJa": "埼玉県",
+     "jp": "JP-11"
+    },
+    {
+     "muni": "熊谷市",
+     "slug": "saitama",
+     "prefJa": "埼玉県",
+     "jp": "JP-11"
+    },
+    {
+     "muni": "草加市",
+     "slug": "saitama",
+     "prefJa": "埼玉県",
+     "jp": "JP-11"
+    }
+   ]
+  },
+  {
+   "code": "0480",
+   "ma": [
+    "久喜"
+   ],
+   "answers": [
+    {
+     "muni": "久喜市",
+     "slug": "saitama",
+     "prefJa": "埼玉県",
+     "jp": "JP-11"
+    }
+   ]
+  },
+  {
+   "code": "049",
+   "ma": [
+    "川越"
+   ],
+   "answers": [
+    {
+     "muni": "川越市",
+     "slug": "saitama",
+     "prefJa": "埼玉県",
+     "jp": "JP-11"
+    }
+   ]
+  },
+  {
+   "code": "0493",
+   "ma": [
+    "東松山"
+   ],
+   "answers": [
+    {
+     "muni": "東松山市",
+     "slug": "saitama",
+     "prefJa": "埼玉県",
+     "jp": "JP-11"
+    }
+   ]
+  },
+  {
+   "code": "0494",
+   "ma": [
+    "秩父"
+   ],
+   "answers": [
+    {
+     "muni": "秩父市",
+     "slug": "saitama",
+     "prefJa": "埼玉県",
+     "jp": "JP-11"
+    }
+   ]
+  },
+  {
+   "code": "0495",
+   "ma": [
+    "本庄"
+   ],
+   "answers": [
+    {
+     "muni": "本庄市",
+     "slug": "saitama",
+     "prefJa": "埼玉県",
+     "jp": "JP-11"
+    }
+   ]
+  },
+  {
+   "code": "04994",
+   "ma": [
+    "三宅"
+   ],
+   "answers": [
+    {
+     "muni": "三宅町",
+     "slug": "nara",
+     "prefJa": "奈良県",
+     "jp": "JP-29"
+    }
+   ]
+  },
+  {
+   "code": "052",
+   "ma": [
+    "名古屋"
+   ],
+   "answers": [
+    {
+     "muni": "名古屋市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "053",
+   "ma": [
+    "浜松"
+   ],
+   "answers": [
+    {
+     "muni": "浜松市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    }
+   ]
+  },
+  {
+   "code": "0531",
+   "ma": [
+    "田原"
+   ],
+   "answers": [
+    {
+     "muni": "田原市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0532",
+   "ma": [
+    "豊橋"
+   ],
+   "answers": [
+    {
+     "muni": "豊橋市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0533",
+   "ma": [
+    "豊橋"
+   ],
+   "answers": [
+    {
+     "muni": "豊橋市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0536",
+   "ma": [
+    "新城",
+    "設楽"
+   ],
+   "answers": [
+    {
+     "muni": "新城市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    },
+    {
+     "muni": "設楽町",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0537",
+   "ma": [
+    "掛川"
+   ],
+   "answers": [
+    {
+     "muni": "掛川市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    }
+   ]
+  },
+  {
+   "code": "0538",
+   "ma": [
+    "磐田"
+   ],
+   "answers": [
+    {
+     "muni": "磐田市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    }
+   ]
+  },
+  {
+   "code": "0539",
+   "ma": [
+    "天竜"
+   ],
+   "answers": [
+    {
+     "muni": "浜松市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    }
+   ]
+  },
+  {
+   "code": "054",
+   "ma": [
+    "静岡"
+   ],
+   "answers": [
+    {
+     "muni": "静岡市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    }
+   ]
+  },
+  {
+   "code": "0544",
+   "ma": [
+    "富士宮"
+   ],
+   "answers": [
+    {
+     "muni": "富士宮市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    }
+   ]
+  },
+  {
+   "code": "0545",
+   "ma": [
+    "富士"
+   ],
+   "answers": [
+    {
+     "muni": "富士市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    }
+   ]
+  },
+  {
+   "code": "0547",
+   "ma": [
+    "島田"
+   ],
+   "answers": [
+    {
+     "muni": "島田市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    }
+   ]
+  },
+  {
+   "code": "0548",
+   "ma": [
+    "榛原"
+   ],
+   "answers": [
+    {
+     "muni": "牧之原市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    }
+   ]
+  },
+  {
+   "code": "055",
+   "ma": [
+    "沼津",
+    "甲府"
+   ],
+   "answers": [
+    {
+     "muni": "沼津市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    },
+    {
+     "muni": "甲府市",
+     "slug": "yamanashi",
+     "prefJa": "山梨県",
+     "jp": "JP-19"
+    }
+   ]
+  },
+  {
+   "code": "0550",
+   "ma": [
+    "御殿場"
+   ],
+   "answers": [
+    {
+     "muni": "御殿場市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    }
+   ]
+  },
+  {
+   "code": "0551",
+   "ma": [
+    "韮崎"
+   ],
+   "answers": [
+    {
+     "muni": "韮崎市",
+     "slug": "yamanashi",
+     "prefJa": "山梨県",
+     "jp": "JP-19"
+    }
+   ]
+  },
+  {
+   "code": "0553",
+   "ma": [
+    "山梨"
+   ],
+   "answers": [
+    {
+     "muni": "山梨市",
+     "slug": "yamanashi",
+     "prefJa": "山梨県",
+     "jp": "JP-19"
+    }
+   ]
+  },
+  {
+   "code": "0554",
+   "ma": [
+    "大月"
+   ],
+   "answers": [
+    {
+     "muni": "大月市",
+     "slug": "yamanashi",
+     "prefJa": "山梨県",
+     "jp": "JP-19"
+    }
+   ]
+  },
+  {
+   "code": "0555",
+   "ma": [
+    "吉田"
+   ],
+   "answers": [
+    {
+     "muni": "富士吉田市",
+     "slug": "yamanashi",
+     "prefJa": "山梨県",
+     "jp": "JP-19"
+    }
+   ]
+  },
+  {
+   "code": "0556",
+   "ma": [
+    "身延",
+    "鰍沢青柳"
+   ],
+   "answers": [
+    {
+     "muni": "身延町",
+     "slug": "yamanashi",
+     "prefJa": "山梨県",
+     "jp": "JP-19"
+    }
+   ]
+  },
+  {
+   "code": "0557",
+   "ma": [
+    "伊東"
+   ],
+   "answers": [
+    {
+     "muni": "伊東市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    }
+   ]
+  },
+  {
+   "code": "0558",
+   "ma": [
+    "下田",
+    "修善寺大仁"
+   ],
+   "answers": [
+    {
+     "muni": "下田市",
+     "slug": "shizuoka",
+     "prefJa": "静岡県",
+     "jp": "JP-22"
+    }
+   ]
+  },
+  {
+   "code": "0561",
+   "ma": [
+    "瀬戸"
+   ],
+   "answers": [
+    {
+     "muni": "瀬戸市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0562",
+   "ma": [
+    "尾張横須賀"
+   ],
+   "answers": [
+    {
+     "muni": "東海市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0563",
+   "ma": [
+    "西尾"
+   ],
+   "answers": [
+    {
+     "muni": "西尾市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0564",
+   "ma": [
+    "岡崎"
+   ],
+   "answers": [
+    {
+     "muni": "岡崎市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0565",
+   "ma": [
+    "豊田"
+   ],
+   "answers": [
+    {
+     "muni": "豊田市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0566",
+   "ma": [
+    "刈谷"
+   ],
+   "answers": [
+    {
+     "muni": "刈谷市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0567",
+   "ma": [
+    "津島"
+   ],
+   "answers": [
+    {
+     "muni": "津島市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0568",
+   "ma": [
+    "春日井"
+   ],
+   "answers": [
+    {
+     "muni": "春日井市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0569",
+   "ma": [
+    "半田"
+   ],
+   "answers": [
+    {
+     "muni": "半田市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0572",
+   "ma": [
+    "多治見"
+   ],
+   "answers": [
+    {
+     "muni": "多治見市",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    }
+   ]
+  },
+  {
+   "code": "0573",
+   "ma": [
+    "中津川",
+    "恵那"
+   ],
+   "answers": [
+    {
+     "muni": "中津川市",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    },
+    {
+     "muni": "恵那市",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    }
+   ]
+  },
+  {
+   "code": "0574",
+   "ma": [
+    "美濃加茂",
+    "美濃白川"
+   ],
+   "answers": [
+    {
+     "muni": "美濃加茂市",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    }
+   ]
+  },
+  {
+   "code": "0575",
+   "ma": [
+    "郡上八幡",
+    "関"
+   ],
+   "answers": [
+    {
+     "muni": "関市",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    }
+   ]
+  },
+  {
+   "code": "0576",
+   "ma": [
+    "下呂"
+   ],
+   "answers": [
+    {
+     "muni": "下呂市",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    }
+   ]
+  },
+  {
+   "code": "05769",
+   "ma": [
+    "荘川"
+   ],
+   "answers": [
+    {
+     "muni": "高山市",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    }
+   ]
+  },
+  {
+   "code": "0577",
+   "ma": [
+    "高山"
+   ],
+   "answers": [
+    {
+     "muni": "高山市",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    }
+   ]
+  },
+  {
+   "code": "0578",
+   "ma": [
+    "神岡"
+   ],
+   "answers": [
+    {
+     "muni": "飛騨市",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    }
+   ]
+  },
+  {
+   "code": "058",
+   "ma": [
+    "岐阜"
+   ],
+   "answers": [
+    {
+     "muni": "岐阜市",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    }
+   ]
+  },
+  {
+   "code": "0581",
+   "ma": [
+    "高富"
+   ],
+   "answers": [
+    {
+     "muni": "山県市",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    }
+   ]
+  },
+  {
+   "code": "0584",
+   "ma": [
+    "大垣"
+   ],
+   "answers": [
+    {
+     "muni": "大垣市",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    }
+   ]
+  },
+  {
+   "code": "0585",
+   "ma": [
+    "揖斐川"
+   ],
+   "answers": [
+    {
+     "muni": "揖斐川町",
+     "slug": "gifu",
+     "prefJa": "岐阜県",
+     "jp": "JP-21"
+    }
+   ]
+  },
+  {
+   "code": "0586",
+   "ma": [
+    "一宮"
+   ],
+   "answers": [
+    {
+     "muni": "一宮市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "0587",
+   "ma": [
+    "一宮"
+   ],
+   "answers": [
+    {
+     "muni": "一宮市",
+     "slug": "aichi",
+     "prefJa": "愛知県",
+     "jp": "JP-23"
+    }
+   ]
+  },
+  {
+   "code": "059",
+   "ma": [
+    "四日市",
+    "津"
+   ],
+   "answers": [
+    {
+     "muni": "四日市市",
+     "slug": "mie",
+     "prefJa": "三重県",
+     "jp": "JP-24"
+    },
+    {
+     "muni": "津市",
+     "slug": "mie",
+     "prefJa": "三重県",
+     "jp": "JP-24"
+    }
+   ]
+  },
+  {
+   "code": "0594",
+   "ma": [
+    "桑名"
+   ],
+   "answers": [
+    {
+     "muni": "桑名市",
+     "slug": "mie",
+     "prefJa": "三重県",
+     "jp": "JP-24"
+    }
+   ]
+  },
+  {
+   "code": "0595",
+   "ma": [
+    "上野",
+    "亀山"
+   ],
+   "answers": [
+    {
+     "muni": "伊賀市",
+     "slug": "mie",
+     "prefJa": "三重県",
+     "jp": "JP-24"
+    },
+    {
+     "muni": "亀山市",
+     "slug": "mie",
+     "prefJa": "三重県",
+     "jp": "JP-24"
+    }
+   ]
+  },
+  {
+   "code": "0596",
+   "ma": [
+    "伊勢"
+   ],
+   "answers": [
+    {
+     "muni": "伊勢市",
+     "slug": "mie",
+     "prefJa": "三重県",
+     "jp": "JP-24"
+    }
+   ]
+  },
+  {
+   "code": "0597",
+   "ma": [
+    "尾鷲",
+    "熊野"
+   ],
+   "answers": [
+    {
+     "muni": "尾鷲市",
+     "slug": "mie",
+     "prefJa": "三重県",
+     "jp": "JP-24"
+    },
+    {
+     "muni": "熊野市",
+     "slug": "mie",
+     "prefJa": "三重県",
+     "jp": "JP-24"
+    }
+   ]
+  },
+  {
+   "code": "05979",
+   "ma": [
+    "熊野"
+   ],
+   "answers": [
+    {
+     "muni": "熊野市",
+     "slug": "mie",
+     "prefJa": "三重県",
+     "jp": "JP-24"
+    }
+   ]
+  },
+  {
+   "code": "0598",
+   "ma": [
+    "三瀬谷",
+    "松阪"
+   ],
+   "answers": [
+    {
+     "muni": "松阪市",
+     "slug": "mie",
+     "prefJa": "三重県",
+     "jp": "JP-24"
+    }
+   ]
+  },
+  {
+   "code": "0599",
+   "ma": [
+    "阿児",
+    "鳥羽"
+   ],
+   "answers": [
+    {
+     "muni": "鳥羽市",
+     "slug": "mie",
+     "prefJa": "三重県",
+     "jp": "JP-24"
+    }
+   ]
+  },
+  {
+   "code": "06",
+   "ma": [
+    "大阪"
+   ],
+   "answers": [
+    {
+     "muni": "大阪市",
+     "slug": "osaka",
+     "prefJa": "大阪府",
+     "jp": "JP-27"
+    }
+   ]
+  },
+  {
+   "code": "072",
+   "ma": [
+    "八尾",
+    "堺",
+    "寝屋川",
+    "岸和田貝塚",
+    "池田",
+    "茨木"
+   ],
+   "answers": [
+    {
+     "muni": "八尾市",
+     "slug": "osaka",
+     "prefJa": "大阪府",
+     "jp": "JP-27"
+    },
+    {
+     "muni": "堺市",
+     "slug": "osaka",
+     "prefJa": "大阪府",
+     "jp": "JP-27"
+    },
+    {
+     "muni": "寝屋川市",
+     "slug": "osaka",
+     "prefJa": "大阪府",
+     "jp": "JP-27"
+    },
+    {
+     "muni": "池田市",
+     "slug": "osaka",
+     "prefJa": "大阪府",
+     "jp": "JP-27"
+    },
+    {
+     "muni": "茨木市",
+     "slug": "osaka",
+     "prefJa": "大阪府",
+     "jp": "JP-27"
+    }
+   ]
+  },
+  {
+   "code": "0721",
+   "ma": [
+    "富田林"
+   ],
+   "answers": [
+    {
+     "muni": "富田林市",
+     "slug": "osaka",
+     "prefJa": "大阪府",
+     "jp": "JP-27"
+    }
+   ]
+  },
+  {
+   "code": "0725",
+   "ma": [
+    "和泉"
+   ],
+   "answers": [
+    {
+     "muni": "和泉市",
+     "slug": "osaka",
+     "prefJa": "大阪府",
+     "jp": "JP-27"
+    }
+   ]
+  },
+  {
+   "code": "073",
+   "ma": [
+    "和歌山"
+   ],
+   "answers": [
+    {
+     "muni": "和歌山市",
+     "slug": "wakayama",
+     "prefJa": "和歌山県",
+     "jp": "JP-30"
+    }
+   ]
+  },
+  {
+   "code": "0735",
+   "ma": [
+    "串本",
+    "新宮"
+   ],
+   "answers": [
+    {
+     "muni": "串本町",
+     "slug": "wakayama",
+     "prefJa": "和歌山県",
+     "jp": "JP-30"
+    },
+    {
+     "muni": "新宮市",
+     "slug": "wakayama",
+     "prefJa": "和歌山県",
+     "jp": "JP-30"
+    }
+   ]
+  },
+  {
+   "code": "0736",
+   "ma": [
+    "和歌山橋本",
+    "岩出"
+   ],
+   "answers": [
+    {
+     "muni": "岩出市",
+     "slug": "wakayama",
+     "prefJa": "和歌山県",
+     "jp": "JP-30"
+    }
+   ]
+  },
+  {
+   "code": "0737",
+   "ma": [
+    "湯浅"
+   ],
+   "answers": [
+    {
+     "muni": "湯浅町",
+     "slug": "wakayama",
+     "prefJa": "和歌山県",
+     "jp": "JP-30"
+    }
+   ]
+  },
+  {
+   "code": "0738",
+   "ma": [
+    "御坊"
+   ],
+   "answers": [
+    {
+     "muni": "御坊市",
+     "slug": "wakayama",
+     "prefJa": "和歌山県",
+     "jp": "JP-30"
+    }
+   ]
+  },
+  {
+   "code": "0739",
+   "ma": [
+    "田辺"
+   ],
+   "answers": [
+    {
+     "muni": "田辺市",
+     "slug": "wakayama",
+     "prefJa": "和歌山県",
+     "jp": "JP-30"
+    }
+   ]
+  },
+  {
+   "code": "0740",
+   "ma": [
+    "今津"
+   ],
+   "answers": [
+    {
+     "muni": "高島市",
+     "slug": "shiga",
+     "prefJa": "滋賀県",
+     "jp": "JP-25"
+    }
+   ]
+  },
+  {
+   "code": "0742",
+   "ma": [
+    "奈良"
+   ],
+   "answers": [
+    {
+     "muni": "奈良市",
+     "slug": "nara",
+     "prefJa": "奈良県",
+     "jp": "JP-29"
+    }
+   ]
+  },
+  {
+   "code": "0743",
+   "ma": [
+    "奈良"
+   ],
+   "answers": [
+    {
+     "muni": "奈良市",
+     "slug": "nara",
+     "prefJa": "奈良県",
+     "jp": "JP-29"
+    }
+   ]
+  },
+  {
+   "code": "0744",
+   "ma": [
+    "大和高田"
+   ],
+   "answers": [
+    {
+     "muni": "大和高田市",
+     "slug": "nara",
+     "prefJa": "奈良県",
+     "jp": "JP-29"
+    }
+   ]
+  },
+  {
+   "code": "0745",
+   "ma": [
+    "大和榛原",
+    "大和高田"
+   ],
+   "answers": [
+    {
+     "muni": "大和高田市",
+     "slug": "nara",
+     "prefJa": "奈良県",
+     "jp": "JP-29"
+    }
+   ]
+  },
+  {
+   "code": "0746",
+   "ma": [
+    "十津川",
+    "吉野"
+   ],
+   "answers": [
+    {
+     "muni": "十津川村",
+     "slug": "nara",
+     "prefJa": "奈良県",
+     "jp": "JP-29"
+    },
+    {
+     "muni": "吉野町",
+     "slug": "nara",
+     "prefJa": "奈良県",
+     "jp": "JP-29"
+    }
+   ]
+  },
+  {
+   "code": "07468",
+   "ma": [
+    "上北山"
+   ],
+   "answers": [
+    {
+     "muni": "上北山村",
+     "slug": "nara",
+     "prefJa": "奈良県",
+     "jp": "JP-29"
+    }
+   ]
+  },
+  {
+   "code": "0747",
+   "ma": [
+    "下市",
+    "五条"
+   ],
+   "answers": [
+    {
+     "muni": "下市町",
+     "slug": "nara",
+     "prefJa": "奈良県",
+     "jp": "JP-29"
+    }
+   ]
+  },
+  {
+   "code": "0748",
+   "ma": [
+    "八日市",
+    "水口"
+   ],
+   "answers": [
+    {
+     "muni": "東近江市",
+     "slug": "shiga",
+     "prefJa": "滋賀県",
+     "jp": "JP-25"
+    },
+    {
+     "muni": "甲賀市",
+     "slug": "shiga",
+     "prefJa": "滋賀県",
+     "jp": "JP-25"
+    }
+   ]
+  },
+  {
+   "code": "0749",
+   "ma": [
+    "彦根",
+    "長浜"
+   ],
+   "answers": [
+    {
+     "muni": "彦根市",
+     "slug": "shiga",
+     "prefJa": "滋賀県",
+     "jp": "JP-25"
+    },
+    {
+     "muni": "長浜市",
+     "slug": "shiga",
+     "prefJa": "滋賀県",
+     "jp": "JP-25"
+    }
+   ]
+  },
+  {
+   "code": "075",
+   "ma": [
+    "京都"
+   ],
+   "answers": [
+    {
+     "muni": "京都市",
+     "slug": "kyoto",
+     "prefJa": "京都府",
+     "jp": "JP-26"
+    }
+   ]
+  },
+  {
+   "code": "076",
+   "ma": [
+    "富山",
+    "金沢"
+   ],
+   "answers": [
+    {
+     "muni": "富山市",
+     "slug": "toyama",
+     "prefJa": "富山県",
+     "jp": "JP-16"
+    },
+    {
+     "muni": "金沢市",
+     "slug": "ishikawa",
+     "prefJa": "石川県",
+     "jp": "JP-17"
+    }
+   ]
+  },
+  {
+   "code": "0761",
+   "ma": [
+    "加賀",
+    "小松"
+   ],
+   "answers": [
+    {
+     "muni": "加賀市",
+     "slug": "ishikawa",
+     "prefJa": "石川県",
+     "jp": "JP-17"
+    },
+    {
+     "muni": "小松市",
+     "slug": "ishikawa",
+     "prefJa": "石川県",
+     "jp": "JP-17"
+    }
+   ]
+  },
+  {
+   "code": "0763",
+   "ma": [
+    "福野"
+   ],
+   "answers": [
+    {
+     "muni": "南砺市",
+     "slug": "toyama",
+     "prefJa": "富山県",
+     "jp": "JP-16"
+    }
+   ]
+  },
+  {
+   "code": "0765",
+   "ma": [
+    "魚津"
+   ],
+   "answers": [
+    {
+     "muni": "魚津市",
+     "slug": "toyama",
+     "prefJa": "富山県",
+     "jp": "JP-16"
+    }
+   ]
+  },
+  {
+   "code": "0766",
+   "ma": [
+    "高岡"
+   ],
+   "answers": [
+    {
+     "muni": "高岡市",
+     "slug": "toyama",
+     "prefJa": "富山県",
+     "jp": "JP-16"
+    }
+   ]
+  },
+  {
+   "code": "0767",
+   "ma": [
+    "七尾",
+    "羽咋"
+   ],
+   "answers": [
+    {
+     "muni": "七尾市",
+     "slug": "ishikawa",
+     "prefJa": "石川県",
+     "jp": "JP-17"
+    },
+    {
+     "muni": "羽咋市",
+     "slug": "ishikawa",
+     "prefJa": "石川県",
+     "jp": "JP-17"
+    }
+   ]
+  },
+  {
+   "code": "0768",
+   "ma": [
+    "能都",
+    "輪島"
+   ],
+   "answers": [
+    {
+     "muni": "輪島市",
+     "slug": "ishikawa",
+     "prefJa": "石川県",
+     "jp": "JP-17"
+    }
+   ]
+  },
+  {
+   "code": "077",
+   "ma": [
+    "大津"
+   ],
+   "answers": [
+    {
+     "muni": "大津市",
+     "slug": "shiga",
+     "prefJa": "滋賀県",
+     "jp": "JP-25"
+    }
+   ]
+  },
+  {
+   "code": "0770",
+   "ma": [
+    "小浜",
+    "敦賀"
+   ],
+   "answers": [
+    {
+     "muni": "小浜市",
+     "slug": "fukui",
+     "prefJa": "福井県",
+     "jp": "JP-18"
+    },
+    {
+     "muni": "敦賀市",
+     "slug": "fukui",
+     "prefJa": "福井県",
+     "jp": "JP-18"
+    }
+   ]
+  },
+  {
+   "code": "0771",
+   "ma": [
+    "亀岡",
+    "園部"
+   ],
+   "answers": [
+    {
+     "muni": "亀岡市",
+     "slug": "kyoto",
+     "prefJa": "京都府",
+     "jp": "JP-26"
+    }
+   ]
+  },
+  {
+   "code": "0772",
+   "ma": [
+    "宮津",
+    "峰山"
+   ],
+   "answers": [
+    {
+     "muni": "宮津市",
+     "slug": "kyoto",
+     "prefJa": "京都府",
+     "jp": "JP-26"
+    }
+   ]
+  },
+  {
+   "code": "0773",
+   "ma": [
+    "福知山",
+    "舞鶴"
+   ],
+   "answers": [
+    {
+     "muni": "福知山市",
+     "slug": "kyoto",
+     "prefJa": "京都府",
+     "jp": "JP-26"
+    },
+    {
+     "muni": "舞鶴市",
+     "slug": "kyoto",
+     "prefJa": "京都府",
+     "jp": "JP-26"
+    }
+   ]
+  },
+  {
+   "code": "0774",
+   "ma": [
+    "宇治"
+   ],
+   "answers": [
+    {
+     "muni": "宇治市",
+     "slug": "kyoto",
+     "prefJa": "京都府",
+     "jp": "JP-26"
+    }
+   ]
+  },
+  {
+   "code": "0776",
+   "ma": [
+    "福井"
+   ],
+   "answers": [
+    {
+     "muni": "福井市",
+     "slug": "fukui",
+     "prefJa": "福井県",
+     "jp": "JP-18"
+    }
+   ]
+  },
+  {
+   "code": "0778",
+   "ma": [
+    "武生"
+   ],
+   "answers": [
+    {
+     "muni": "越前市",
+     "slug": "fukui",
+     "prefJa": "福井県",
+     "jp": "JP-18"
+    }
+   ]
+  },
+  {
+   "code": "0779",
+   "ma": [
+    "大野"
+   ],
+   "answers": [
+    {
+     "muni": "大野市",
+     "slug": "fukui",
+     "prefJa": "福井県",
+     "jp": "JP-18"
+    }
+   ]
+  },
+  {
+   "code": "078",
+   "ma": [
+    "神戸"
+   ],
+   "answers": [
+    {
+     "muni": "神戸市",
+     "slug": "hyogo",
+     "prefJa": "兵庫県",
+     "jp": "JP-28"
+    }
+   ]
+  },
+  {
+   "code": "079",
+   "ma": [
+    "三田",
+    "八鹿",
+    "加古川",
+    "姫路"
+   ],
+   "answers": [
+    {
+     "muni": "三田市",
+     "slug": "hyogo",
+     "prefJa": "兵庫県",
+     "jp": "JP-28"
+    },
+    {
+     "muni": "加古川市",
+     "slug": "hyogo",
+     "prefJa": "兵庫県",
+     "jp": "JP-28"
+    },
+    {
+     "muni": "姫路市",
+     "slug": "hyogo",
+     "prefJa": "兵庫県",
+     "jp": "JP-28"
+    }
+   ]
+  },
+  {
+   "code": "0790",
+   "ma": [
+    "播磨山崎",
+    "福崎"
+   ],
+   "answers": [
+    {
+     "muni": "福崎町",
+     "slug": "hyogo",
+     "prefJa": "兵庫県",
+     "jp": "JP-28"
+    }
+   ]
+  },
+  {
+   "code": "0791",
+   "ma": [
+    "相生",
+    "竜野"
+   ],
+   "answers": [
+    {
+     "muni": "相生市",
+     "slug": "hyogo",
+     "prefJa": "兵庫県",
+     "jp": "JP-28"
+    }
+   ]
+  },
+  {
+   "code": "0794",
+   "ma": [
+    "三木"
+   ],
+   "answers": [
+    {
+     "muni": "三木市",
+     "slug": "hyogo",
+     "prefJa": "兵庫県",
+     "jp": "JP-28"
+    }
+   ]
+  },
+  {
+   "code": "0795",
+   "ma": [
+    "丹波柏原",
+    "西脇"
+   ],
+   "answers": [
+    {
+     "muni": "西脇市",
+     "slug": "hyogo",
+     "prefJa": "兵庫県",
+     "jp": "JP-28"
+    }
+   ]
+  },
+  {
+   "code": "0796",
+   "ma": [
+    "浜坂",
+    "豊岡"
+   ],
+   "answers": [
+    {
+     "muni": "豊岡市",
+     "slug": "hyogo",
+     "prefJa": "兵庫県",
+     "jp": "JP-28"
+    }
+   ]
+  },
+  {
+   "code": "0797",
+   "ma": [
+    "西宮"
+   ],
+   "answers": [
+    {
+     "muni": "西宮市",
+     "slug": "hyogo",
+     "prefJa": "兵庫県",
+     "jp": "JP-28"
+    }
+   ]
+  },
+  {
+   "code": "0798",
+   "ma": [
+    "西宮"
+   ],
+   "answers": [
+    {
+     "muni": "西宮市",
+     "slug": "hyogo",
+     "prefJa": "兵庫県",
+     "jp": "JP-28"
+    }
+   ]
+  },
+  {
+   "code": "0799",
+   "ma": [
+    "津名",
+    "洲本"
+   ],
+   "answers": [
+    {
+     "muni": "洲本市",
+     "slug": "hyogo",
+     "prefJa": "兵庫県",
+     "jp": "JP-28"
+    }
+   ]
+  },
+  {
+   "code": "082",
+   "ma": [
+    "広島",
+    "東広島"
+   ],
+   "answers": [
+    {
+     "muni": "広島市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    },
+    {
+     "muni": "東広島市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    }
+   ]
+  },
+  {
+   "code": "0820",
+   "ma": [
+    "久賀",
+    "柳井"
+   ],
+   "answers": [
+    {
+     "muni": "柳井市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    }
+   ]
+  },
+  {
+   "code": "0823",
+   "ma": [
+    "呉"
+   ],
+   "answers": [
+    {
+     "muni": "呉市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    }
+   ]
+  },
+  {
+   "code": "0824",
+   "ma": [
+    "三次",
+    "庄原"
+   ],
+   "answers": [
+    {
+     "muni": "三次市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    },
+    {
+     "muni": "庄原市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    }
+   ]
+  },
+  {
+   "code": "0826",
+   "ma": [
+    "加計",
+    "千代田",
+    "安芸吉田"
+   ],
+   "answers": [
+    {
+     "muni": "北広島町",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    }
+   ]
+  },
+  {
+   "code": "0827",
+   "ma": [
+    "岩国"
+   ],
+   "answers": [
+    {
+     "muni": "岩国市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    }
+   ]
+  },
+  {
+   "code": "0829",
+   "ma": [
+    "廿日市"
+   ],
+   "answers": [
+    {
+     "muni": "廿日市市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    }
+   ]
+  },
+  {
+   "code": "083",
+   "ma": [
+    "下関",
+    "山口"
+   ],
+   "answers": [
+    {
+     "muni": "下関市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    },
+    {
+     "muni": "山口市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    }
+   ]
+  },
+  {
+   "code": "0833",
+   "ma": [
+    "下松"
+   ],
+   "answers": [
+    {
+     "muni": "下松市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    }
+   ]
+  },
+  {
+   "code": "0834",
+   "ma": [
+    "徳山"
+   ],
+   "answers": [
+    {
+     "muni": "周南市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    }
+   ]
+  },
+  {
+   "code": "0835",
+   "ma": [
+    "防府"
+   ],
+   "answers": [
+    {
+     "muni": "防府市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    }
+   ]
+  },
+  {
+   "code": "0836",
+   "ma": [
+    "宇部"
+   ],
+   "answers": [
+    {
+     "muni": "宇部市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    }
+   ]
+  },
+  {
+   "code": "0837",
+   "ma": [
+    "美祢",
+    "長門"
+   ],
+   "answers": [
+    {
+     "muni": "美祢市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    },
+    {
+     "muni": "長門市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    }
+   ]
+  },
+  {
+   "code": "0838",
+   "ma": [
+    "萩"
+   ],
+   "answers": [
+    {
+     "muni": "萩市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    }
+   ]
+  },
+  {
+   "code": "08387",
+   "ma": [
+    "田万川"
+   ],
+   "answers": [
+    {
+     "muni": "萩市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    }
+   ]
+  },
+  {
+   "code": "08388",
+   "ma": [
+    "田万川"
+   ],
+   "answers": [
+    {
+     "muni": "萩市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    }
+   ]
+  },
+  {
+   "code": "08396",
+   "ma": [
+    "山口"
+   ],
+   "answers": [
+    {
+     "muni": "山口市",
+     "slug": "yamaguchi",
+     "prefJa": "山口県",
+     "jp": "JP-35"
+    }
+   ]
+  },
+  {
+   "code": "084",
+   "ma": [
+    "尾道",
+    "福山"
+   ],
+   "answers": [
+    {
+     "muni": "尾道市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    },
+    {
+     "muni": "福山市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    }
+   ]
+  },
+  {
+   "code": "0845",
+   "ma": [
+    "因島"
+   ],
+   "answers": [
+    {
+     "muni": "尾道市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    }
+   ]
+  },
+  {
+   "code": "0846",
+   "ma": [
+    "木江",
+    "竹原"
+   ],
+   "answers": [
+    {
+     "muni": "竹原市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    }
+   ]
+  },
+  {
+   "code": "0847",
+   "ma": [
+    "府中",
+    "東城",
+    "甲山"
+   ],
+   "answers": [
+    {
+     "muni": "府中市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    },
+    {
+     "muni": "庄原市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    }
+   ]
+  },
+  {
+   "code": "08477",
+   "ma": [
+    "東城"
+   ],
+   "answers": [
+    {
+     "muni": "庄原市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    }
+   ]
+  },
+  {
+   "code": "0848",
+   "ma": [
+    "尾道"
+   ],
+   "answers": [
+    {
+     "muni": "尾道市",
+     "slug": "hiroshima",
+     "prefJa": "広島県",
+     "jp": "JP-34"
+    }
+   ]
+  },
+  {
+   "code": "08512",
+   "ma": [
+    "西郷"
+   ],
+   "answers": [
+    {
+     "muni": "隠岐の島町",
+     "slug": "shimane",
+     "prefJa": "島根県",
+     "jp": "JP-32"
+    }
+   ]
+  },
+  {
+   "code": "08514",
+   "ma": [
+    "海士"
+   ],
+   "answers": [
+    {
+     "muni": "海士町",
+     "slug": "shimane",
+     "prefJa": "島根県",
+     "jp": "JP-32"
+    }
+   ]
+  },
+  {
+   "code": "0852",
+   "ma": [
+    "松江"
+   ],
+   "answers": [
+    {
+     "muni": "松江市",
+     "slug": "shimane",
+     "prefJa": "島根県",
+     "jp": "JP-32"
+    }
+   ]
+  },
+  {
+   "code": "0853",
+   "ma": [
+    "出雲"
+   ],
+   "answers": [
+    {
+     "muni": "出雲市",
+     "slug": "shimane",
+     "prefJa": "島根県",
+     "jp": "JP-32"
+    }
+   ]
+  },
+  {
+   "code": "0854",
+   "ma": [
+    "安来",
+    "掛合",
+    "木次",
+    "石見大田"
+   ],
+   "answers": [
+    {
+     "muni": "安来市",
+     "slug": "shimane",
+     "prefJa": "島根県",
+     "jp": "JP-32"
+    }
+   ]
+  },
+  {
+   "code": "0855",
+   "ma": [
+    "川本",
+    "江津",
+    "浜田"
+   ],
+   "answers": [
+    {
+     "muni": "川本町",
+     "slug": "shimane",
+     "prefJa": "島根県",
+     "jp": "JP-32"
+    },
+    {
+     "muni": "江津市",
+     "slug": "shimane",
+     "prefJa": "島根県",
+     "jp": "JP-32"
+    },
+    {
+     "muni": "浜田市",
+     "slug": "shimane",
+     "prefJa": "島根県",
+     "jp": "JP-32"
+    }
+   ]
+  },
+  {
+   "code": "0856",
+   "ma": [
+    "津和野",
+    "益田"
+   ],
+   "answers": [
+    {
+     "muni": "津和野町",
+     "slug": "shimane",
+     "prefJa": "島根県",
+     "jp": "JP-32"
+    },
+    {
+     "muni": "益田市",
+     "slug": "shimane",
+     "prefJa": "島根県",
+     "jp": "JP-32"
+    }
+   ]
+  },
+  {
+   "code": "0857",
+   "ma": [
+    "鳥取"
+   ],
+   "answers": [
+    {
+     "muni": "鳥取市",
+     "slug": "tottori",
+     "prefJa": "鳥取県",
+     "jp": "JP-31"
+    }
+   ]
+  },
+  {
+   "code": "0858",
+   "ma": [
+    "倉吉",
+    "郡家"
+   ],
+   "answers": [
+    {
+     "muni": "倉吉市",
+     "slug": "tottori",
+     "prefJa": "鳥取県",
+     "jp": "JP-31"
+    }
+   ]
+  },
+  {
+   "code": "0859",
+   "ma": [
+    "根雨",
+    "米子"
+   ],
+   "answers": [
+    {
+     "muni": "米子市",
+     "slug": "tottori",
+     "prefJa": "鳥取県",
+     "jp": "JP-31"
+    }
+   ]
+  },
+  {
+   "code": "086",
+   "ma": [
+    "倉敷",
+    "岡山",
+    "赤磐"
+   ],
+   "answers": [
+    {
+     "muni": "倉敷市",
+     "slug": "okayama",
+     "prefJa": "岡山県",
+     "jp": "JP-33"
+    },
+    {
+     "muni": "岡山市",
+     "slug": "okayama",
+     "prefJa": "岡山県",
+     "jp": "JP-33"
+    },
+    {
+     "muni": "赤磐市",
+     "slug": "okayama",
+     "prefJa": "岡山県",
+     "jp": "JP-33"
+    }
+   ]
+  },
+  {
+   "code": "0863",
+   "ma": [
+    "玉野"
+   ],
+   "answers": [
+    {
+     "muni": "玉野市",
+     "slug": "okayama",
+     "prefJa": "岡山県",
+     "jp": "JP-33"
+    }
+   ]
+  },
+  {
+   "code": "0865",
+   "ma": [
+    "笠岡",
+    "鴨方"
+   ],
+   "answers": [
+    {
+     "muni": "笠岡市",
+     "slug": "okayama",
+     "prefJa": "岡山県",
+     "jp": "JP-33"
+    }
+   ]
+  },
+  {
+   "code": "0866",
+   "ma": [
+    "井原",
+    "総社",
+    "高梁"
+   ],
+   "answers": [
+    {
+     "muni": "井原市",
+     "slug": "okayama",
+     "prefJa": "岡山県",
+     "jp": "JP-33"
+    },
+    {
+     "muni": "総社市",
+     "slug": "okayama",
+     "prefJa": "岡山県",
+     "jp": "JP-33"
+    },
+    {
+     "muni": "高梁市",
+     "slug": "okayama",
+     "prefJa": "岡山県",
+     "jp": "JP-33"
+    }
+   ]
+  },
+  {
+   "code": "0867",
+   "ma": [
+    "久世",
+    "加茂川",
+    "新見"
+   ],
+   "answers": [
+    {
+     "muni": "新見市",
+     "slug": "okayama",
+     "prefJa": "岡山県",
+     "jp": "JP-33"
+    }
+   ]
+  },
+  {
+   "code": "0868",
+   "ma": [
+    "津山",
+    "美作"
+   ],
+   "answers": [
+    {
+     "muni": "津山市",
+     "slug": "okayama",
+     "prefJa": "岡山県",
+     "jp": "JP-33"
+    },
+    {
+     "muni": "美作市",
+     "slug": "okayama",
+     "prefJa": "岡山県",
+     "jp": "JP-33"
+    }
+   ]
+  },
+  {
+   "code": "0869",
+   "ma": [
+    "備前",
+    "邑久"
+   ],
+   "answers": [
+    {
+     "muni": "備前市",
+     "slug": "okayama",
+     "prefJa": "岡山県",
+     "jp": "JP-33"
+    }
+   ]
+  },
+  {
+   "code": "087",
+   "ma": [
+    "高松"
+   ],
+   "answers": [
+    {
+     "muni": "高松市",
+     "slug": "kagawa",
+     "prefJa": "香川県",
+     "jp": "JP-37"
+    }
+   ]
+  },
+  {
+   "code": "0875",
+   "ma": [
+    "観音寺"
+   ],
+   "answers": [
+    {
+     "muni": "観音寺市",
+     "slug": "kagawa",
+     "prefJa": "香川県",
+     "jp": "JP-37"
+    }
+   ]
+  },
+  {
+   "code": "0877",
+   "ma": [
+    "丸亀"
+   ],
+   "answers": [
+    {
+     "muni": "丸亀市",
+     "slug": "kagawa",
+     "prefJa": "香川県",
+     "jp": "JP-37"
+    }
+   ]
+  },
+  {
+   "code": "0879",
+   "ma": [
+    "三本松",
+    "土庄"
+   ],
+   "answers": [
+    {
+     "muni": "土庄町",
+     "slug": "kagawa",
+     "prefJa": "香川県",
+     "jp": "JP-37"
+    }
+   ]
+  },
+  {
+   "code": "088",
+   "ma": [
+    "徳島",
+    "高知"
+   ],
+   "answers": [
+    {
+     "muni": "徳島市",
+     "slug": "tokushima",
+     "prefJa": "徳島県",
+     "jp": "JP-36"
+    },
+    {
+     "muni": "高知市",
+     "slug": "kochi",
+     "prefJa": "高知県",
+     "jp": "JP-39"
+    }
+   ]
+  },
+  {
+   "code": "0880",
+   "ma": [
+    "土佐中村",
+    "土佐清水",
+    "宿毛",
+    "窪川"
+   ],
+   "answers": [
+    {
+     "muni": "土佐清水市",
+     "slug": "kochi",
+     "prefJa": "高知県",
+     "jp": "JP-39"
+    },
+    {
+     "muni": "宿毛市",
+     "slug": "kochi",
+     "prefJa": "高知県",
+     "jp": "JP-39"
+    }
+   ]
+  },
+  {
+   "code": "0883",
+   "ma": [
+    "脇町",
+    "阿波池田",
+    "鴨島"
+   ],
+   "answers": [
+    {
+     "muni": "美馬市",
+     "slug": "tokushima",
+     "prefJa": "徳島県",
+     "jp": "JP-36"
+    },
+    {
+     "muni": "三好市",
+     "slug": "tokushima",
+     "prefJa": "徳島県",
+     "jp": "JP-36"
+    },
+    {
+     "muni": "吉野川市",
+     "slug": "tokushima",
+     "prefJa": "徳島県",
+     "jp": "JP-36"
+    }
+   ]
+  },
+  {
+   "code": "0884",
+   "ma": [
+    "丹生谷",
+    "牟岐",
+    "阿南"
+   ],
+   "answers": [
+    {
+     "muni": "牟岐町",
+     "slug": "tokushima",
+     "prefJa": "徳島県",
+     "jp": "JP-36"
+    },
+    {
+     "muni": "阿南市",
+     "slug": "tokushima",
+     "prefJa": "徳島県",
+     "jp": "JP-36"
+    }
+   ]
+  },
+  {
+   "code": "0885",
+   "ma": [
+    "小松島"
+   ],
+   "answers": [
+    {
+     "muni": "小松島市",
+     "slug": "tokushima",
+     "prefJa": "徳島県",
+     "jp": "JP-36"
+    }
+   ]
+  },
+  {
+   "code": "0887",
+   "ma": [
+    "土佐山田",
+    "安芸",
+    "室戸",
+    "嶺北"
+   ],
+   "answers": [
+    {
+     "muni": "安芸市",
+     "slug": "kochi",
+     "prefJa": "高知県",
+     "jp": "JP-39"
+    },
+    {
+     "muni": "室戸市",
+     "slug": "kochi",
+     "prefJa": "高知県",
+     "jp": "JP-39"
+    }
+   ]
+  },
+  {
+   "code": "0889",
+   "ma": [
+    "佐川",
+    "須崎"
+   ],
+   "answers": [
+    {
+     "muni": "佐川町",
+     "slug": "kochi",
+     "prefJa": "高知県",
+     "jp": "JP-39"
+    },
+    {
+     "muni": "須崎市",
+     "slug": "kochi",
+     "prefJa": "高知県",
+     "jp": "JP-39"
+    }
+   ]
+  },
+  {
+   "code": "089",
+   "ma": [
+    "松山"
+   ],
+   "answers": [
+    {
+     "muni": "松山市",
+     "slug": "ehime",
+     "prefJa": "愛媛県",
+     "jp": "JP-38"
+    }
+   ]
+  },
+  {
+   "code": "0892",
+   "ma": [
+    "久万"
+   ],
+   "answers": [
+    {
+     "muni": "久万高原町",
+     "slug": "ehime",
+     "prefJa": "愛媛県",
+     "jp": "JP-38"
+    }
+   ]
+  },
+  {
+   "code": "0893",
+   "ma": [
+    "大洲"
+   ],
+   "answers": [
+    {
+     "muni": "大洲市",
+     "slug": "ehime",
+     "prefJa": "愛媛県",
+     "jp": "JP-38"
+    }
+   ]
+  },
+  {
+   "code": "0894",
+   "ma": [
+    "八幡浜",
+    "宇和"
+   ],
+   "answers": [
+    {
+     "muni": "八幡浜市",
+     "slug": "ehime",
+     "prefJa": "愛媛県",
+     "jp": "JP-38"
+    }
+   ]
+  },
+  {
+   "code": "0895",
+   "ma": [
+    "宇和島",
+    "御荘"
+   ],
+   "answers": [
+    {
+     "muni": "宇和島市",
+     "slug": "ehime",
+     "prefJa": "愛媛県",
+     "jp": "JP-38"
+    }
+   ]
+  },
+  {
+   "code": "0896",
+   "ma": [
+    "伊予三島"
+   ],
+   "answers": [
+    {
+     "muni": "四国中央市",
+     "slug": "ehime",
+     "prefJa": "愛媛県",
+     "jp": "JP-38"
+    }
+   ]
+  },
+  {
+   "code": "0897",
+   "ma": [
+    "伯方",
+    "新居浜"
+   ],
+   "answers": [
+    {
+     "muni": "新居浜市",
+     "slug": "ehime",
+     "prefJa": "愛媛県",
+     "jp": "JP-38"
+    }
+   ]
+  },
+  {
+   "code": "0898",
+   "ma": [
+    "今治"
+   ],
+   "answers": [
+    {
+     "muni": "今治市",
+     "slug": "ehime",
+     "prefJa": "愛媛県",
+     "jp": "JP-38"
+    }
+   ]
+  },
+  {
+   "code": "092",
+   "ma": [
+    "前原",
+    "福岡"
+   ],
+   "answers": [
+    {
+     "muni": "福岡市",
+     "slug": "fukuoka",
+     "prefJa": "福岡県",
+     "jp": "JP-40"
+    }
+   ]
+  },
+  {
+   "code": "0920",
+   "ma": [
+    "厳原",
+    "対馬佐賀",
+    "郷ノ浦"
+   ],
+   "answers": [
+    {
+     "muni": "対馬市",
+     "slug": "nagasaki",
+     "prefJa": "長崎県",
+     "jp": "JP-42"
+    },
+    {
+     "muni": "壱岐市",
+     "slug": "nagasaki",
+     "prefJa": "長崎県",
+     "jp": "JP-42"
+    }
+   ]
+  },
+  {
+   "code": "093",
+   "ma": [
+    "北九州"
+   ],
+   "answers": [
+    {
+     "muni": "北九州市",
+     "slug": "fukuoka",
+     "prefJa": "福岡県",
+     "jp": "JP-40"
+    }
+   ]
+  },
+  {
+   "code": "0930",
+   "ma": [
+    "行橋"
+   ],
+   "answers": [
+    {
+     "muni": "行橋市",
+     "slug": "fukuoka",
+     "prefJa": "福岡県",
+     "jp": "JP-40"
+    }
+   ]
+  },
+  {
+   "code": "0940",
+   "ma": [
+    "宗像"
+   ],
+   "answers": [
+    {
+     "muni": "宗像市",
+     "slug": "fukuoka",
+     "prefJa": "福岡県",
+     "jp": "JP-40"
+    }
+   ]
+  },
+  {
+   "code": "0942",
+   "ma": [
+    "久留米"
+   ],
+   "answers": [
+    {
+     "muni": "久留米市",
+     "slug": "fukuoka",
+     "prefJa": "福岡県",
+     "jp": "JP-40"
+    }
+   ]
+  },
+  {
+   "code": "0943",
+   "ma": [
+    "八女",
+    "田主丸"
+   ],
+   "answers": [
+    {
+     "muni": "八女市",
+     "slug": "fukuoka",
+     "prefJa": "福岡県",
+     "jp": "JP-40"
+    }
+   ]
+  },
+  {
+   "code": "0944",
+   "ma": [
+    "瀬高"
+   ],
+   "answers": [
+    {
+     "muni": "みやま市",
+     "slug": "fukuoka",
+     "prefJa": "福岡県",
+     "jp": "JP-40"
+    }
+   ]
+  },
+  {
+   "code": "0946",
+   "ma": [
+    "甘木"
+   ],
+   "answers": [
+    {
+     "muni": "朝倉市",
+     "slug": "fukuoka",
+     "prefJa": "福岡県",
+     "jp": "JP-40"
+    }
+   ]
+  },
+  {
+   "code": "0947",
+   "ma": [
+    "田川"
+   ],
+   "answers": [
+    {
+     "muni": "田川市",
+     "slug": "fukuoka",
+     "prefJa": "福岡県",
+     "jp": "JP-40"
+    }
+   ]
+  },
+  {
+   "code": "0948",
+   "ma": [
+    "飯塚"
+   ],
+   "answers": [
+    {
+     "muni": "飯塚市",
+     "slug": "fukuoka",
+     "prefJa": "福岡県",
+     "jp": "JP-40"
+    }
+   ]
+  },
+  {
+   "code": "0949",
+   "ma": [
+    "直方"
+   ],
+   "answers": [
+    {
+     "muni": "直方市",
+     "slug": "fukuoka",
+     "prefJa": "福岡県",
+     "jp": "JP-40"
+    }
+   ]
+  },
+  {
+   "code": "095",
+   "ma": [
+    "長崎"
+   ],
+   "answers": [
+    {
+     "muni": "長崎市",
+     "slug": "nagasaki",
+     "prefJa": "長崎県",
+     "jp": "JP-42"
+    }
+   ]
+  },
+  {
+   "code": "0950",
+   "ma": [
+    "平戸"
+   ],
+   "answers": [
+    {
+     "muni": "平戸市",
+     "slug": "nagasaki",
+     "prefJa": "長崎県",
+     "jp": "JP-42"
+    }
+   ]
+  },
+  {
+   "code": "0952",
+   "ma": [
+    "佐賀"
+   ],
+   "answers": [
+    {
+     "muni": "佐賀市",
+     "slug": "saga",
+     "prefJa": "佐賀県",
+     "jp": "JP-41"
+    }
+   ]
+  },
+  {
+   "code": "0954",
+   "ma": [
+    "武雄",
+    "鹿島"
+   ],
+   "answers": [
+    {
+     "muni": "武雄市",
+     "slug": "saga",
+     "prefJa": "佐賀県",
+     "jp": "JP-41"
+    },
+    {
+     "muni": "鹿島市",
+     "slug": "saga",
+     "prefJa": "佐賀県",
+     "jp": "JP-41"
+    }
+   ]
+  },
+  {
+   "code": "0955",
+   "ma": [
+    "伊万里",
+    "唐津"
+   ],
+   "answers": [
+    {
+     "muni": "伊万里市",
+     "slug": "saga",
+     "prefJa": "佐賀県",
+     "jp": "JP-41"
+    },
+    {
+     "muni": "唐津市",
+     "slug": "saga",
+     "prefJa": "佐賀県",
+     "jp": "JP-41"
+    }
+   ]
+  },
+  {
+   "code": "0956",
+   "ma": [
+    "佐世保"
+   ],
+   "answers": [
+    {
+     "muni": "佐世保市",
+     "slug": "nagasaki",
+     "prefJa": "長崎県",
+     "jp": "JP-42"
+    }
+   ]
+  },
+  {
+   "code": "0957",
+   "ma": [
+    "島原",
+    "諫早"
+   ],
+   "answers": [
+    {
+     "muni": "島原市",
+     "slug": "nagasaki",
+     "prefJa": "長崎県",
+     "jp": "JP-42"
+    },
+    {
+     "muni": "諫早市",
+     "slug": "nagasaki",
+     "prefJa": "長崎県",
+     "jp": "JP-42"
+    }
+   ]
+  },
+  {
+   "code": "0959",
+   "ma": [
+    "大瀬戸",
+    "有川",
+    "福江"
+   ],
+   "answers": [
+    {
+     "muni": "西海市",
+     "slug": "nagasaki",
+     "prefJa": "長崎県",
+     "jp": "JP-42"
+    },
+    {
+     "muni": "新上五島町",
+     "slug": "nagasaki",
+     "prefJa": "長崎県",
+     "jp": "JP-42"
+    },
+    {
+     "muni": "五島市",
+     "slug": "nagasaki",
+     "prefJa": "長崎県",
+     "jp": "JP-42"
+    }
+   ]
+  },
+  {
+   "code": "096",
+   "ma": [
+    "熊本"
+   ],
+   "answers": [
+    {
+     "muni": "熊本市",
+     "slug": "kumamoto",
+     "prefJa": "熊本県",
+     "jp": "JP-43"
+    }
+   ]
+  },
+  {
+   "code": "0964",
+   "ma": [
+    "松橋"
+   ],
+   "answers": [
+    {
+     "muni": "宇城市",
+     "slug": "kumamoto",
+     "prefJa": "熊本県",
+     "jp": "JP-43"
+    }
+   ]
+  },
+  {
+   "code": "0965",
+   "ma": [
+    "八代"
+   ],
+   "answers": [
+    {
+     "muni": "八代市",
+     "slug": "kumamoto",
+     "prefJa": "熊本県",
+     "jp": "JP-43"
+    }
+   ]
+  },
+  {
+   "code": "0966",
+   "ma": [
+    "人吉",
+    "水俣"
+   ],
+   "answers": [
+    {
+     "muni": "人吉市",
+     "slug": "kumamoto",
+     "prefJa": "熊本県",
+     "jp": "JP-43"
+    },
+    {
+     "muni": "水俣市",
+     "slug": "kumamoto",
+     "prefJa": "熊本県",
+     "jp": "JP-43"
+    }
+   ]
+  },
+  {
+   "code": "0967",
+   "ma": [
+    "熊本一の宮",
+    "矢部",
+    "高森"
+   ],
+   "answers": [
+    {
+     "muni": "高森町",
+     "slug": "kumamoto",
+     "prefJa": "熊本県",
+     "jp": "JP-43"
+    }
+   ]
+  },
+  {
+   "code": "0968",
+   "ma": [
+    "山鹿",
+    "玉名"
+   ],
+   "answers": [
+    {
+     "muni": "山鹿市",
+     "slug": "kumamoto",
+     "prefJa": "熊本県",
+     "jp": "JP-43"
+    },
+    {
+     "muni": "玉名市",
+     "slug": "kumamoto",
+     "prefJa": "熊本県",
+     "jp": "JP-43"
+    }
+   ]
+  },
+  {
+   "code": "0969",
+   "ma": [
+    "天草"
+   ],
+   "answers": [
+    {
+     "muni": "天草市",
+     "slug": "kumamoto",
+     "prefJa": "熊本県",
+     "jp": "JP-43"
+    }
+   ]
+  },
+  {
+   "code": "097",
+   "ma": [
+    "大分"
+   ],
+   "answers": [
+    {
+     "muni": "大分市",
+     "slug": "oita",
+     "prefJa": "大分県",
+     "jp": "JP-44"
+    }
+   ]
+  },
+  {
+   "code": "0972",
+   "ma": [
+    "佐伯",
+    "臼杵"
+   ],
+   "answers": [
+    {
+     "muni": "佐伯市",
+     "slug": "oita",
+     "prefJa": "大分県",
+     "jp": "JP-44"
+    },
+    {
+     "muni": "臼杵市",
+     "slug": "oita",
+     "prefJa": "大分県",
+     "jp": "JP-44"
+    }
+   ]
+  },
+  {
+   "code": "0973",
+   "ma": [
+    "日田",
+    "玖珠"
+   ],
+   "answers": [
+    {
+     "muni": "日田市",
+     "slug": "oita",
+     "prefJa": "大分県",
+     "jp": "JP-44"
+    },
+    {
+     "muni": "玖珠町",
+     "slug": "oita",
+     "prefJa": "大分県",
+     "jp": "JP-44"
+    }
+   ]
+  },
+  {
+   "code": "0974",
+   "ma": [
+    "三重",
+    "竹田"
+   ],
+   "answers": [
+    {
+     "muni": "竹田市",
+     "slug": "oita",
+     "prefJa": "大分県",
+     "jp": "JP-44"
+    }
+   ]
+  },
+  {
+   "code": "0977",
+   "ma": [
+    "別府"
+   ],
+   "answers": [
+    {
+     "muni": "別府市",
+     "slug": "oita",
+     "prefJa": "大分県",
+     "jp": "JP-44"
+    }
+   ]
+  },
+  {
+   "code": "0978",
+   "ma": [
+    "国東",
+    "杵築",
+    "豊後高田"
+   ],
+   "answers": [
+    {
+     "muni": "国東市",
+     "slug": "oita",
+     "prefJa": "大分県",
+     "jp": "JP-44"
+    },
+    {
+     "muni": "杵築市",
+     "slug": "oita",
+     "prefJa": "大分県",
+     "jp": "JP-44"
+    },
+    {
+     "muni": "豊後高田市",
+     "slug": "oita",
+     "prefJa": "大分県",
+     "jp": "JP-44"
+    }
+   ]
+  },
+  {
+   "code": "0979",
+   "ma": [
+    "中津"
+   ],
+   "answers": [
+    {
+     "muni": "中津市",
+     "slug": "oita",
+     "prefJa": "大分県",
+     "jp": "JP-44"
+    }
+   ]
+  },
+  {
+   "code": "098",
+   "ma": [
+    "那覇"
+   ],
+   "answers": [
+    {
+     "muni": "那覇市",
+     "slug": "okinawa",
+     "prefJa": "沖縄県",
+     "jp": "JP-47"
+    }
+   ]
+  },
+  {
+   "code": "0980",
+   "ma": [
+    "八重山",
+    "名護",
+    "沖縄宮古"
+   ],
+   "answers": [
+    {
+     "muni": "名護市",
+     "slug": "okinawa",
+     "prefJa": "沖縄県",
+     "jp": "JP-47"
+    }
+   ]
+  },
+  {
+   "code": "09802",
+   "ma": [
+    "南大東"
+   ],
+   "answers": [
+    {
+     "muni": "南大東村",
+     "slug": "okinawa",
+     "prefJa": "沖縄県",
+     "jp": "JP-47"
+    }
+   ]
+  },
+  {
+   "code": "0982",
+   "ma": [
+    "延岡",
+    "日向",
+    "高千穂"
+   ],
+   "answers": [
+    {
+     "muni": "延岡市",
+     "slug": "miyazaki",
+     "prefJa": "宮崎県",
+     "jp": "JP-45"
+    },
+    {
+     "muni": "日向市",
+     "slug": "miyazaki",
+     "prefJa": "宮崎県",
+     "jp": "JP-45"
+    },
+    {
+     "muni": "高千穂町",
+     "slug": "miyazaki",
+     "prefJa": "宮崎県",
+     "jp": "JP-45"
+    }
+   ]
+  },
+  {
+   "code": "0983",
+   "ma": [
+    "高鍋"
+   ],
+   "answers": [
+    {
+     "muni": "高鍋町",
+     "slug": "miyazaki",
+     "prefJa": "宮崎県",
+     "jp": "JP-45"
+    }
+   ]
+  },
+  {
+   "code": "0984",
+   "ma": [
+    "小林"
+   ],
+   "answers": [
+    {
+     "muni": "小林市",
+     "slug": "miyazaki",
+     "prefJa": "宮崎県",
+     "jp": "JP-45"
+    }
+   ]
+  },
+  {
+   "code": "0985",
+   "ma": [
+    "宮崎"
+   ],
+   "answers": [
+    {
+     "muni": "宮崎市",
+     "slug": "miyazaki",
+     "prefJa": "宮崎県",
+     "jp": "JP-45"
+    }
+   ]
+  },
+  {
+   "code": "0986",
+   "ma": [
+    "都城"
+   ],
+   "answers": [
+    {
+     "muni": "都城市",
+     "slug": "miyazaki",
+     "prefJa": "宮崎県",
+     "jp": "JP-45"
+    }
+   ]
+  },
+  {
+   "code": "0987",
+   "ma": [
+    "日南"
+   ],
+   "answers": [
+    {
+     "muni": "日南市",
+     "slug": "miyazaki",
+     "prefJa": "宮崎県",
+     "jp": "JP-45"
+    }
+   ]
+  },
+  {
+   "code": "099",
+   "ma": [
+    "志布志",
+    "鹿児島"
+   ],
+   "answers": [
+    {
+     "muni": "志布志市",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    },
+    {
+     "muni": "鹿児島市",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    }
+   ]
+  },
+  {
+   "code": "09912",
+   "ma": [
+    "中之島"
+   ],
+   "answers": [
+    {
+     "muni": "十島村",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    }
+   ]
+  },
+  {
+   "code": "09913",
+   "ma": [
+    "硫黄島"
+   ],
+   "answers": [
+    {
+     "muni": "三島村",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    }
+   ]
+  },
+  {
+   "code": "0993",
+   "ma": [
+    "加世田",
+    "指宿"
+   ],
+   "answers": [
+    {
+     "muni": "指宿市",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    }
+   ]
+  },
+  {
+   "code": "0994",
+   "ma": [
+    "大根占",
+    "鹿屋"
+   ],
+   "answers": [
+    {
+     "muni": "鹿屋市",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    }
+   ]
+  },
+  {
+   "code": "0995",
+   "ma": [
+    "加治木",
+    "大口"
+   ],
+   "answers": [
+    {
+     "muni": "伊佐市",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    }
+   ]
+  },
+  {
+   "code": "0996",
+   "ma": [
+    "出水",
+    "川内"
+   ],
+   "answers": [
+    {
+     "muni": "出水市",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    },
+    {
+     "muni": "薩摩川内市",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    }
+   ]
+  },
+  {
+   "code": "09969",
+   "ma": [
+    "中甑"
+   ],
+   "answers": [
+    {
+     "muni": "薩摩川内市",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    }
+   ]
+  },
+  {
+   "code": "0997",
+   "ma": [
+    "名瀬",
+    "屋久島",
+    "徳之島",
+    "瀬戸内",
+    "種子島"
+   ],
+   "answers": [
+    {
+     "muni": "屋久島町",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    },
+    {
+     "muni": "徳之島町",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    },
+    {
+     "muni": "瀬戸内町",
+     "slug": "kagoshima",
+     "prefJa": "鹿児島県",
+     "jp": "JP-46"
+    }
+   ]
+  }
+ ]
+}
