@@ -53,3 +53,9 @@ commons\.wikimedia\.org
 # match credit-card (Luhn) and JP phone-number patterns. SVG files under
 # public/images/ are vector graphics with no PII content.
 ^public/images/.*\.svg$
+
+# Flag SVGs (path-data coordinates trip credit-card / phone / postal regexes).
+# Same false-positive class as public/images/*.svg above: these are pure vector
+# graphics (national/state flags, e.g. collected from Wikimedia Commons) with no
+# PII or secrets — only <path d="..."> coordinate numbers.
+^public/flags/.*\.svg$
