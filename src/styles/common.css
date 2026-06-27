@@ -3650,3 +3650,61 @@ div.notices.info p a:hover {
 [data-theme="dark"] div.notices.info p::before {
   box-shadow: 0 2px 6px rgba(107, 165, 170, 0.45) !important;
 }
+
+/* ── State flag grid ({{% stateflags %}}) ───────────────────────── */
+div.state-flags-block {
+  margin: 1.2em 0;
+}
+
+div.state-flags-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+  gap: 0.9em 0.6em;
+  margin: 0.6em 0;
+}
+
+figure.state-flag-item {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+img.state-flag-img {
+  width: 100%;
+  max-width: 120px;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: contain;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+figcaption.state-flag-name {
+  margin-top: 0.35em;
+  font-size: 0.8rem;
+  line-height: 1.25;
+  color: var(--text-color, #333);
+  word-break: keep-all;
+}
+
+[data-theme="dark"] img.state-flag-img {
+  border-color: rgba(255, 255, 255, 0.18);
+}
+
+@media (max-width: 480px) {
+  div.state-flags-grid {
+    grid-template-columns: repeat(auto-fill, minmax(84px, 1fr));
+    gap: 0.7em 0.5em;
+  }
+  figcaption.state-flag-name {
+    font-size: 0.72rem;
+  }
+}
+n.state-flag-name {
+    font-size: 0.72rem;
+  }
+}

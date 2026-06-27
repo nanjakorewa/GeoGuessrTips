@@ -18,6 +18,9 @@ jogmec_detail: true
 Montana, Wyoming, Idaho, Colorado, Utah, Nevada, New Mexico, Arizona, Washington, Oregon, California, Alaska, Hawaii
 </div>
 
+{{% stateflags US-MT US-WY US-ID US-CO US-UT US-NV US-NM US-AZ US-WA US-OR US-CA US-AK US-HI %}}
+
+
 <div class="main-desciption country-description">
     <ul class="rule-list">
         <li>① Jika rambu batas kecepatan hanya bertuliskan <span class="quiz">SPEED</span>, kemungkinan besar itu Oregon.</li>

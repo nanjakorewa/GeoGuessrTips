@@ -32,6 +32,7 @@ import { noticeHandler } from "./shortcodes/notice.ts";
 import { i18nHandler } from "./shortcodes/i18n.ts";
 import { tabsHandler, tabHandler } from "./shortcodes/tabs.ts";
 import { gotoHandler } from "./shortcodes/goto.ts";
+import { stateflagsHandler } from "./shortcodes/stateflags.ts";
 import { exHandler } from "./shortcodes/ex.ts";
 import { byHandler } from "./shortcodes/by.ts";
 import { refHandler } from "./shortcodes/ref.ts";
@@ -273,6 +274,9 @@ function processAllShortcodes(
     imrefHandler(args, lang)
   );
   result = processInlineShortcode(result, "goto", gotoHandler);
+  result = processInlineShortcode(result, "stateflags", (args) =>
+    stateflagsHandler(args, lang)
+  );
   result = processInlineShortcode(result, "by", (args) =>
     byHandler(args, lang)
   );

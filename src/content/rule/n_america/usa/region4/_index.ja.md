@@ -18,6 +18,9 @@ jogmec_detail: true
 モンタナ州・ワイオミング州・アイダホ州・コロラド州・ユタ州・ネバダ州・ニューメキシコ州・アリゾナ州・ワシントン州・オレゴン州・カリフォルニア州・アラスカ州・ハワイ州
 </div>
 
+{{% stateflags US-MT US-WY US-ID US-CO US-UT US-NV US-NM US-AZ US-WA US-OR US-CA US-AK US-HI %}}
+
+
 <div class="main-desciption country-description">
     <ul class="rule-list">
         <li>①速度制限が<span class="quiz">SPEED</span>のみならばオレゴンかも</li>

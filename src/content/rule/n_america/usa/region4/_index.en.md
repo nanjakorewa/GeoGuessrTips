@@ -18,6 +18,9 @@ jogmec_detail: true
 Montana, Wyoming, Idaho, Colorado, Utah, Nevada, New Mexico, Arizona, Washington, Oregon, California, Alaska, and Hawaii.
 </div>
 
+{{% stateflags US-MT US-WY US-ID US-CO US-UT US-NV US-NM US-AZ US-WA US-OR US-CA US-AK US-HI %}}
+
+
 <div class="main-desciption country-description">
     <ul class="rule-list">
         <li>① Speed-limit signs that only show <span class="quiz">SPEED</span> (without “limit”) usually mean Oregon.</li>

@@ -18,6 +18,9 @@ jogmec_detail: true
 Montana, Wyoming, Idaho, Colorado, Utah, Nevada, Nuevo México, Arizona, Washington, Oregón, California, Alaska y Hawái.
 </div>
 
+{{% stateflags US-MT US-WY US-ID US-CO US-UT US-NV US-NM US-AZ US-WA US-OR US-CA US-AK US-HI %}}
+
+
 <div class="main-desciption country-description">
     <ul class="rule-list">
         <li>① Un cartel de límite que solo dice <span class="quiz">SPEED</span> suele indicar Oregón.</li>

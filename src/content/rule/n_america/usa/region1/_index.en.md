@@ -18,6 +18,9 @@ jogmec_detail: true
     Maine · New Hampshire · Vermont · Massachusetts · Rhode Island · Connecticut · New York · New Jersey · Pennsylvania · West Virginia
 </div>
 
+{{% stateflags US-ME US-NH US-VT US-MA US-RI US-CT US-NY US-NJ US-PA US-WV %}}
+
+
 <div class="main-desciption country-description">
     <ul class="rule-list">
         <li>A. Numerous abandoned or derelict buildings can indicate West Virginia.</li>

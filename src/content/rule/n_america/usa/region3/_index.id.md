@@ -18,6 +18,9 @@ jogmec_detail: true
 Delaware, Maryland, District of Columbia, Virginia Barat, Virginia, Carolina Utara, Carolina Selatan, Georgia, Florida, Kentucky, Tennessee, Alabama, Mississippi, Arkansas, Oklahoma, Louisiana, dan Texas.
 </div>
 
+{{% stateflags US-DE US-MD US-DC US-WV US-VA US-NC US-SC US-GA US-FL US-KY US-TN US-AL US-MS US-AR US-OK US-LA US-TX %}}
+
+
 
 <div class="main-desciption country-description">
     <ul class="rule-list">

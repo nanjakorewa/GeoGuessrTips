@@ -18,6 +18,9 @@ jogmec_detail: true
     メイン州・ニューハンプシャー州・バーモント州・マサチューセッツ州・ロードアイランド州・コネチカット州・ニューヨーク州・ニュージャージー州・ペンシルベニア州・ウェストバージニア州
 </div>
 
+{{% stateflags US-ME US-NH US-VT US-MA US-RI US-CT US-NY US-NJ US-PA US-WV %}}
+
+
 <div class="main-desciption country-description">
     <ul class="rule-list">
         <li>A.廃墟や放棄された建物が多いのはウェストバージニア州かも</li>

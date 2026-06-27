@@ -18,6 +18,9 @@ jogmec_detail: true
 デラウェア州・メリーランド州・ワシントン特別区・ウエストバージニア州・バージニア州・ノースカロライナ州・サウスカロライナ州・ジョージア州・フロリダ州・ケンタッキー州・テネシー州・アラバマ州・ミシシッピ州・アーカンソー州・オクラホマ州・ルイジアナ州・テキサス州
 </div>
 
+{{% stateflags US-DE US-MD US-DC US-WV US-VA US-NC US-SC US-GA US-FL US-KY US-TN US-AL US-MS US-AR US-OK US-LA US-TX %}}
+
+
 
 <div class="main-desciption country-description">
     <ul class="rule-list">

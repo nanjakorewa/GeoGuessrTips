@@ -18,6 +18,9 @@ jogmec_detail: true
     Michigan, Wisconsin, Ohio, Indiana, Illinois, Minnesota, Dakota del Norte, Dakota del Sur, Iowa, Nebraska, Misuri y Kansas.
 </div>
 
+{{% stateflags US-MI US-WI US-OH US-IN US-IL US-MN US-ND US-SD US-IA US-NE US-MO US-KS %}}
+
+
 
 <div class="main-desciption country-description">
     <ul class="rule-list">

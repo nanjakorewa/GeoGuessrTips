@@ -18,6 +18,9 @@ jogmec_detail: true
 Delaware, Maryland, el Distrito de Columbia, Virginia Occidental, Virginia, Carolina del Norte, Carolina del Sur, Georgia, Florida, Kentucky, Tennessee, Alabama, Misisipi, Arkansas, Oklahoma, Luisiana y Texas.
 </div>
 
+{{% stateflags US-DE US-MD US-DC US-WV US-VA US-NC US-SC US-GA US-FL US-KY US-TN US-AL US-MS US-AR US-OK US-LA US-TX %}}
+
+
 
 <div class="main-desciption country-description">
     <ul class="rule-list">
