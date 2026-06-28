@@ -144,12 +144,23 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は048</li>
+        <li>標識の裏面に細長い縞々のシールが貼ってある</li>
         <li>消防水利施設のマーキングがオレンジ色の線で示されている</li>
     </ul>
     {{% corp "asia/japan" "kanto/saitama" %}}
 </div>
 
 {{% tabs %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識の裏面に細長い縞々のシールが貼ってある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/saitama.png" width="300px" alt="埼玉の標識ポール（裏面に縞々のシール）">
+</div>
+
+{{% /tab %}}
 {{% tab "消防水利マーキング" %}}
 {{% notice tip %}}
 埼玉の消防水利施設のマーキング方法は他の県と異なり、オレンジ色の線が引かれている{{% ref "https://www.city.ageo.lg.jp/site/shoubou/05612016062701.html" "上尾市 - 消防水利標識の設置" %}}。

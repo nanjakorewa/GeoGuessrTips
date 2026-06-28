@@ -107,9 +107,23 @@ references:
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
       <li>市外局番は027</li>
+        <li>標識の裏面に大きめの四角いシールが貼ってある（関東でこれを見たら、ほとんどの場合は群馬県）</li>
     </ul>
     {{% corp "asia/japan" "kanto/gunma" %}}
 </div>
+
+{{% tabs %}}
+{{% tab "標識ポール" %}}
+{{% notice tip %}}
+標識の裏面に大きめの四角いシールが貼ってある。関東地方でこのシールを見かけた場合、ほとんどのケースで群馬県。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="/rule/poles/gunma.png" width="300px" alt="群馬の標識ポール（裏面に大きめの四角いシール）">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption country-description">
     <h2 class="section-title">都市・町の絞り込み</h2>
