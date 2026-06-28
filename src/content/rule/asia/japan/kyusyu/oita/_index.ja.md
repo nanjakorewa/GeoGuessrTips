@@ -156,7 +156,9 @@ references:
 <span class="quiz">別府市</span>は源泉数・湧出量とも日本一の温泉地で、市街のあちこちから湯けむりが立ちのぼり、地獄めぐりが名物{{% ref "https://ja.wikipedia.org/wiki/%E5%88%A5%E5%BA%9C%E6%B8%A9%E6%B3%89" "別府温泉" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "別府・街の湯けむり" %}}
+<div class="googlemap-if no-margin">
+<img src="beppu.jpg" width="420" alt="別府市街の湯けむり">
+</div>
 {{% /tab %}}
 {{% tab "由布院" %}}
 {{% notice tip %}}
@@ -170,7 +172,9 @@ references:
 <span class="quiz">日田市</span>は江戸幕府の天領として栄えた豆田町の町並みと、小鹿田焼・日田杉の林業で知られる{{% ref "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%B0%E5%B8%82" "日田市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "日田・豆田町の町並み" %}}
+<div class="googlemap-if no-margin">
+<img src="hita.jpg" width="420" alt="日田市・豆田町の町並み">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

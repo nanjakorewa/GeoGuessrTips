@@ -129,12 +129,23 @@ references:
 </div>
 
 {{% tabs %}}
+{{% tab "宮崎" %}}
+{{% notice tip %}}
+<span class="quiz">宮崎市</span>は宮崎県の県都で、フェニックス（カナリーヤシ）の並木が続く南国情緒のある街並みが手がかり{{% ref "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E5%B8%82" "宮崎市" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="miyazaki_city.jpg" width="720" alt="宮崎市・フェニックス並木の街並み">
+</div>
+{{% /tab %}}
 {{% tab "高千穂" %}}
 {{% notice tip %}}
 <span class="quiz">高千穂町</span>の高千穂峡は五ヶ瀬川が刻んだ柱状節理の渓谷で、日本神話ゆかりの地として知られる{{% ref "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%8D%83%E7%A9%82%E5%B3%A1" "高千穂峡" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "高千穂・峡谷" %}}
+<div class="googlemap-if no-margin">
+<img src="takachiho.jpg" width="720" alt="高千穂峡の渓谷">
+</div>
 {{% /tab %}}
 {{% tab "都城・畜産" %}}
 {{% notice tip %}}

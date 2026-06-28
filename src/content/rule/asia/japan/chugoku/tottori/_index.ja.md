@@ -146,7 +146,9 @@ references:
 <span class="quiz">倉吉市</span>は白壁土蔵と赤い石州瓦の町並みが玉川沿いに残る{{% ref "https://ja.wikipedia.org/wiki/%E5%80%89%E5%90%89%E5%B8%82" "倉吉市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "倉吉・白壁土蔵の町並み" %}}
+<div class="googlemap-if no-margin">
+<img src="kurayoshi.jpg" width="720" alt="倉吉市・白壁土蔵の町並み">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

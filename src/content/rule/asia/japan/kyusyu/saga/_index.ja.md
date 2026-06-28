@@ -161,8 +161,6 @@ references:
     <ul class="rule-list">
         <li>有田町は<span class="quiz">有田焼</span>の産地で、磁器の窯元とトンバイ塀が残る</li>
         <li>唐津市は<span class="quiz">唐津焼</span>と唐津城、虹の松原の城下町</li>
-        <li>佐賀市は有明海の干拓地が広がり、バルーンフェスタで知られる</li>
-        <li>伊万里市は伊万里焼の積出港として栄えた焼き物の街</li>
     </ul>
 </div>
 

@@ -130,6 +130,7 @@ references:
       <li>自転車を保有している家庭が少ない</li>
       <li>この県にしかない<span class="quiz">止まれ</span>道路標示のデザインがある</li>
       <li>標識のポールに貼られたシールから県が特定できる</li>
+      <li>原付（二輪等）の駐輪場が多い</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/nagasaki" %}}
 </div>
@@ -175,17 +176,6 @@ references:
 </div>
   
 {{% /tab %}}
-{{% /tabs %}}
-
-
-<div class="main-desciption country-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
-    <ul class="rule-list">
-      <li>原付（二輪等）の駐輪場が多い</li>
-    </ul>
-</div>
-
-{{% tabs %}}
 {{% tab "原付" %}}
 {{% notice tip %}}
 自転車の保有台数は日本一少ない一方、ひとりあたりの原付の保有数は非常に多い。駐輪場ではなく『二輪等』駐輪場がメインであり、原付やバイクの方が多く止められていることも少なくない{{% ex "https://maps.app.goo.gl/k2r4y7E7jXo4xAUt8" "https://maps.app.goo.gl/FfTydrWJeoHuRsfa7" %}}。
@@ -204,7 +194,6 @@ references:
         <li>長崎市は斜面に家が建ち並ぶ<span class="quiz">坂</span>の街で、教会やグラバー園が残る</li>
         <li>佐世保市は<span class="quiz">造船</span>・米海軍基地の港町で、九十九島やハウステンボスがある</li>
         <li>長崎市沖の<span class="quiz">軍艦島</span>（端島）は廃坑となった海上の炭鉱島（世界遺産）</li>
-        <li>島原半島は雲仙岳の火山と、島原の湧水・武家屋敷が特徴</li>
     </ul>
 </div>
 
@@ -214,21 +203,27 @@ references:
 <span class="quiz">長崎市</span>は山に囲まれた港町で、斜面にびっしり家が並ぶ坂の街。教会建築やグラバー園、路面電車が手がかり{{% ref "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E5%B8%82" "長崎市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "長崎・坂の街並み" %}}
+<div class="googlemap-if no-margin">
+<img src="nagasaki_slopes.jpg" width="720" alt="長崎市の坂の街並み">
+</div>
 {{% /tab %}}
 {{% tab "佐世保" %}}
 {{% notice tip %}}
 <span class="quiz">佐世保市</span>は造船と米海軍・海上自衛隊の基地がある軍港都市で、九十九島やハウステンボスでも知られる{{% ref "https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82" "佐世保市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "佐世保・造船と港" %}}
+<div class="googlemap-if no-margin">
+<img src="sasebo.jpg" width="720" alt="佐世保市の造船と港">
+</div>
 {{% /tab %}}
 {{% tab "軍艦島" %}}
 {{% notice tip %}}
 長崎市沖の<span class="quiz">端島（軍艦島）</span>は、かつて海底炭鉱で栄え高層住宅が密集した島で、無人化した今は世界遺産の廃墟群{{% ref "https://ja.wikipedia.org/wiki/%E7%AB%AF%E5%B3%B6_%28%E9%95%B7%E5%B4%8E%E7%9C%8C%29" "端島（長崎県）" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "軍艦島・端島の廃墟群" %}}
+<div class="googlemap-if no-margin">
+<img src="gunkanjima.jpg" width="720" alt="軍艦島（端島）の廃墟群">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 

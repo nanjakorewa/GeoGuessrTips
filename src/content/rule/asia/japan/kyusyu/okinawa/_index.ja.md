@@ -189,7 +189,9 @@ references:
 <span class="quiz">那覇市</span>は沖縄本島南部の中心都市で、琉球王国の首里城（再建中）や国際通り、モノレール（ゆいレール）が手がかり{{% ref "https://ja.wikipedia.org/wiki/%E9%A6%96%E9%87%8C%E5%9F%8E" "首里城" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "那覇・首里城と市街" %}}
+<div class="googlemap-if no-margin">
+<img src="naha.jpg" width="350" alt="那覇市・首里城と市街">
+</div>
 {{% /tab %}}
 {{% tab "本島中部・基地" %}}
 {{% notice tip %}}

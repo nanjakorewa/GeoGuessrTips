@@ -167,7 +167,6 @@ references:
     <ul class="rule-list">
         <li>川越市は<span class="quiz">蔵造り</span>の町並みと時の鐘が残る「小江戸」</li>
         <li>秩父市は山に囲まれた盆地で、武甲山の<span class="quiz">石灰石</span>採掘とセメント工場が目印</li>
-        <li>川口市は<span class="quiz">鋳物</span>の街として発展した工業都市</li>
         <li>さいたま市は大宮・浦和を中心とする県都で、関東平野の住宅・市街地が広がる</li>
     </ul>
 </div>
@@ -190,13 +189,6 @@ references:
 <div class="googlemap-if no-margin">
 <img src="chichibu.jpg" width="560" alt="Saitama GeoGuessr guide image showing Chichibu">
 </div>
-{{% /tab %}}
-{{% tab "川口" %}}
-{{% notice tip %}}
-<span class="quiz">川口市</span>は古くから鋳物の街として発展した工業都市で、近年は再開発で住宅都市化も進む{{% ref "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%8F%A3%E5%B8%82" "川口市" %}}。
-{{% /notice %}}
-
-{{% photo-placeholder "川口・鋳物工場" %}}
 {{% /tab %}}
 {{% tab "さいたま" %}}
 {{% notice tip %}}

@@ -174,14 +174,18 @@ references:
 <span class="quiz">北九州市</span>は官営八幡製鉄所に始まる鉄鋼・化学の重工業都市で、製鉄所や工場、洞海湾の工場夜景が特徴（製鉄所旧本事務所は世界遺産）{{% ref "https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E8%A3%BD%E9%89%84%E6%89%80" "八幡製鉄所" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "北九州・製鉄所と工場群" %}}
+<div class="googlemap-if no-margin">
+<img src="kitakyushu.jpg" width="720" alt="北九州市の製鉄所と工場群">
+</div>
 {{% /tab %}}
 {{% tab "久留米" %}}
 {{% notice tip %}}
 <span class="quiz">久留米市</span>はゴム工業の街で、ブリヂストン・ムーンスターなどゴム企業発祥の地。久留米絣（かすり）でも知られる{{% ref "https://ja.wikipedia.org/wiki/%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82" "久留米市" %}}。
 {{% /notice %}}
 
-{{% photo-placeholder "久留米・ゴム工場" %}}
+<div class="googlemap-if no-margin">
+<img src="kurume.jpg" width="720" alt="久留米市の街並み">
+</div>
 {{% /tab %}}
 {{% tab "大牟田" %}}
 {{% notice tip %}}
