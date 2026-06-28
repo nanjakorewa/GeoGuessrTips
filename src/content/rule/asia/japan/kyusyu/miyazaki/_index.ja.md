@@ -125,8 +125,6 @@ references:
     <ul class="rule-list">
         <li>宮崎市は<span class="quiz">フェニックス</span>（ヤシ）の並木が続く南国情緒の県都</li>
         <li>高千穂町の<span class="quiz">高千穂峡</span>は柱状節理の渓谷で、神話の里として知られる</li>
-        <li>都城市・宮崎平野は<span class="quiz">畜産</span>（肉牛・豚・鶏）が全国有数</li>
-        <li>日南市は鵜戸神宮や飫肥の城下町、海岸線が観光地</li>
     </ul>
 </div>
 

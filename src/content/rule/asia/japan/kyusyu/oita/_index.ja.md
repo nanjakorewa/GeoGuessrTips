@@ -147,7 +147,6 @@ references:
         <li>別府市は源泉数・湧出量とも日本一の<span class="quiz">温泉</span>地で、街に湯けむりが立つ</li>
         <li>由布市の<span class="quiz">由布院温泉</span>は由布岳を望む人気の温泉地</li>
         <li>日田市は天領の町並みと<span class="quiz">小鹿田焼</span>・林業（日田杉）の街</li>
-        <li>津久見市・佐伯はセメント工業や石灰石採掘が盛ん</li>
     </ul>
 </div>
 

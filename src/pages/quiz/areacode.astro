@@ -154,6 +154,31 @@ const japanSvgRaw = fs
     .aq-btn-secondary { background: rgba(0,0,0,0.06); color: #334; }
     .aq-btn-secondary:hover { background: rgba(0,0,0,0.1); }
     .aq-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    .aq-btn-memorize { background: #fff4dc; color: #92670f; border: 1px solid #e3c987; }
+    .aq-btn-memorize:hover { background: #ffeec2; }
+    .aq-btn-memorize.is-active { background: linear-gradient(135deg, #f6b73c 0%, #e0982a 100%); color: #3d2a06; border-color: #c98f1f; }
+
+    /* memorize / study mode */
+    .aq-memo-note {
+      font-size: 0.84rem; color: #7a5a10; background: rgba(246,183,60,0.12);
+      border-radius: 6px; padding: 0.5rem 0.7rem; margin: 0.2rem 0 0; line-height: 1.55;
+    }
+    .aq-memo-note[hidden] { display: none; }
+    .aq-question.is-memorize .aq-code,
+    .aq-question.is-memorize .aq-code-note,
+    .aq-question.is-memorize .aq-result { display: none; }
+    .aq-actions.is-memorize #aq-hint,
+    .aq-actions.is-memorize #aq-skip,
+    .aq-actions.is-memorize #aq-next { display: none; }
+    .aq-map svg path.aq-has-code { fill: #fde8c4; }
+    .aq-map svg path.aq-has-code:hover { fill: #f9d79a; }
+    .aq-tip {
+      position: fixed; z-index: 100001; pointer-events: none; display: none;
+      background: #1f2a37; color: #fff; font-size: 0.86rem; font-weight: 700;
+      padding: 0.32em 0.62em; border-radius: 6px; box-shadow: 0 4px 14px rgba(0,0,0,0.25);
+      white-space: nowrap; max-width: 80vw; overflow: hidden; text-overflow: ellipsis;
+    }
+    .aq-tip.shown { display: block; }
 
     .aq-shortcuts { text-align: center; font-size: 0.74rem; color: rgba(120,120,120,0.8); margin: 0.6rem 0 0; }
     .aq-help { margin: 1rem 0 0; font-size: 0.82rem; color: rgba(90,90,90,0.95); line-height: 1.6; }
@@ -197,6 +222,7 @@ const japanSvgRaw = fs
         <p class="aq-code" id="aq-code">―</p>
         <p class="aq-code-note">全国地図で都道府県をクリック → その県の地図で市区町村をクリック</p>
         <div class="aq-result" id="aq-result"></div>
+        <p class="aq-memo-note" id="aq-memo-note" hidden>暗記モード：地図にカーソルを合わせる（スマホはタップ）と、その市区町村の市外局番が表示されます。色のついた市区町村は市外局番データがある地域です。都道府県をクリックすると市区町村地図に切り替わります。</p>
       </section>
 
       <div class="aq-mapbar">
@@ -216,13 +242,14 @@ const japanSvgRaw = fs
         <div class="aq-map-inner" id="aq-map-inner" set:html={japanSvgRaw}></div>
       </div>
 
-      <div class="aq-actions">
+      <div class="aq-actions" id="aq-actions">
+        <button class="aq-btn aq-btn-memorize" id="aq-memorize" type="button" aria-pressed="false" title="Mキー">暗記モード</button>
         <button class="aq-btn aq-btn-secondary" id="aq-hint" type="button">ヒント（都道府県）</button>
         <button class="aq-btn aq-btn-secondary" id="aq-skip" type="button">スキップ</button>
         <button class="aq-btn aq-btn-primary" id="aq-next" type="button" title="Enter / → キー">次の問題 ›</button>
       </div>
 
-      <p class="aq-shortcuts">ショートカット: <b>Enter</b> / <b>→</b> 次の問題　<b>Esc</b> 全国地図へ戻る</p>
+      <p class="aq-shortcuts">ショートカット: <b>Enter</b> / <b>→</b> 次の問題　<b>Esc</b> 全国地図へ戻る　<b>M</b> 暗記モード</p>
 
       <p class="aq-help">
         出題された市外局番（番号区画）に対応する地域を当てるクイズです。まず全国地図で都道府県をクリックすると、その都道府県の市区町村地図に切り替わります。
@@ -233,6 +260,7 @@ const japanSvgRaw = fs
     <div class="aq-toast" id="aq-toast" role="status" aria-live="polite">
       <span id="aq-toast-text">―</span>
     </div>
+    <div class="aq-tip" id="aq-tip" role="status" aria-hidden="true"></div>
   </main>
 
   <Footer lang={lang} title={pageTitle} permalink={canonical} />
@@ -265,6 +293,21 @@ const japanSvgRaw = fs
     const hintPrefEl= el("aq-hint-pref");
     const toastEl   = el("aq-toast");
     const toastText = el("aq-toast-text");
+    const memorizeBtn = el("aq-memorize");
+    const memoNote  = el("aq-memo-note");
+    const actionsEl = el("aq-actions");
+    const tipEl     = el("aq-tip");
+
+    // Reverse lookup for memorize mode: "slug|municipality" -> [areacode, ...]
+    const MUNI_CODES = {};
+    for (const it of QUESTIONS) {
+      for (const a of it.answers) {
+        const k = a.slug + "|" + a.muni;
+        const arr = (MUNI_CODES[k] = MUNI_CODES[k] || []);
+        if (arr.indexOf(it.code) === -1) arr.push(it.code);
+      }
+    }
+    let memorize = false;
 
     const state = {
       q: null,          // current question
@@ -346,6 +389,7 @@ const japanSvgRaw = fs
       backBtn.hidden = false;
       renderCrumbs();
       if (state.answered) markAnswerOnPref();
+      if (memorize) applyMemoTints();
     }
 
     function renderCrumbs() {
@@ -454,6 +498,63 @@ const japanSvgRaw = fs
       updateStats();
     }
 
+    // ---- memorize (study) mode ----
+    function applyMemoTints() {
+      if (!memorize || state.phase !== "pref") return;
+      mapInner.querySelectorAll("path[data-name]").forEach((p) => {
+        const n = p.getAttribute("data-name");
+        if (MUNI_CODES[state.slug + "|" + n]) p.classList.add("aq-has-code");
+      });
+    }
+    function tipText(p) {
+      if (state.phase === "nation") {
+        const jp = p.getAttribute("data-code");
+        return PREFS[jp] ? PREFS[jp].ja + "（クリックで市区町村へ）" : null;
+      }
+      const n = p.getAttribute("data-name");
+      if (!n) return null;
+      const c = MUNI_CODES[state.slug + "|" + n];
+      return c && c.length ? n + "　市外局番 " + c.join(" / ") : n + "　（市外局番データなし）";
+    }
+    function showTip(e) {
+      const p = e.target.closest && e.target.closest("path");
+      if (!p) { hideTip(); return; }
+      const t = tipText(p);
+      if (!t) { hideTip(); return; }
+      tipEl.textContent = t;
+      tipEl.classList.add("shown");
+      const pad = 14;
+      let x = e.clientX + pad, y = e.clientY + pad;
+      const w = tipEl.offsetWidth, h = tipEl.offsetHeight;
+      if (x + w > window.innerWidth - 6) x = e.clientX - w - pad;
+      if (y + h > window.innerHeight - 6) y = e.clientY - h - pad;
+      tipEl.style.left = Math.max(6, x) + "px";
+      tipEl.style.top = Math.max(6, y) + "px";
+    }
+    function hideTip() { tipEl.classList.remove("shown"); }
+
+    function setMemorize(on) {
+      memorize = !!on;
+      memorizeBtn.classList.toggle("is-active", memorize);
+      memorizeBtn.setAttribute("aria-pressed", memorize ? "true" : "false");
+      memorizeBtn.textContent = memorize ? "暗記モード：ON" : "暗記モード";
+      questionEl.classList.toggle("is-memorize", memorize);
+      actionsEl.classList.toggle("is-memorize", memorize);
+      memoNote.hidden = !memorize;
+      if (memorize) {
+        // switch to free study: drop any pending result, unlock the map for exploring
+        state.answered = false;
+        mapEl.classList.remove("locked");
+        questionEl.removeAttribute("data-r");
+        resultEl.classList.remove("shown");
+        applyMemoTints();
+      } else {
+        hideTip();
+        pickQuestion(); // resume the quiz with a fresh question
+      }
+    }
+    function toggleMemorize() { setMemorize(!memorize); }
+
     // ---- mouse drag to pan ----
     let panning = false, panMoved = false, psx = 0, psy = 0, psl = 0, pst = 0;
     mapEl.addEventListener("pointerdown", (e) => {
@@ -484,12 +585,17 @@ const japanSvgRaw = fs
         if (!pref) return;
         await showPrefecture(pref.slug);
       } else {
-        if (state.answered) return;
         const name = p.getAttribute("data-name");    // municipality
         if (!name) return;
+        if (memorize) { showTip(e); return; }         // study mode: reveal, don't grade
+        if (state.answered) return;
         judge(name);
       }
     });
+
+    // hover tooltip (memorize mode only)
+    mapEl.addEventListener("mousemove", (e) => { if (memorize && !panning) showTip(e); });
+    mapEl.addEventListener("mouseleave", () => { hideTip(); });
 
     backBtn.addEventListener("click", () => { showNation(); });
 
@@ -500,6 +606,8 @@ const japanSvgRaw = fs
     el("aq-zoom-out").addEventListener("click", () => setZoom(zoom - ZSTEP, true));
     el("aq-zoom-reset").addEventListener("click", () => setZoom(1));
 
+    memorizeBtn.addEventListener("click", toggleMemorize);
+
     el("aq-hint").addEventListener("click", () => {
       if (!state.q) return;
       hintPrefEl.textContent = "ヒント: " + prefJaList().join("・");
@@ -507,6 +615,9 @@ const japanSvgRaw = fs
     });
 
     document.addEventListener("keydown", (e) => {
+      if (e.target && /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName)) return;
+      if (e.key === "m" || e.key === "M") { toggleMemorize(); return; }
+      if (memorize) { if (e.key === "Escape" && state.phase === "pref") showNation(); return; }
       if (e.key === "Enter" || e.key === "ArrowRight") { e.preventDefault(); pickQuestion(); }
       else if (e.key === "Escape") { if (state.phase === "pref") showNation(); }
     });
