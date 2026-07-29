@@ -20,6 +20,7 @@ sc: [
     ["../ukraine/", "ウクライナ"],
     ["../bosnah/", "ボスニア・ヘルツェゴビナ"],
     ["../../asia/georgia/", "ジョージア"],
+    ["../kosovo/", "コソボ"],
     ]
 features:
   - text: '<span class="quiz">ニコラ・テスラ</span>の出身地域であり、首都<span class="quiz">ベオグラード</span>はドナウ川とサヴァ川の合流点に位置する'

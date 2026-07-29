@@ -17,6 +17,7 @@ sc: [
     ["../italy/", "Italia"],
     ["../montenegro/", "Montenegro"],
     ["../greece/", "Grecia"],
+    ["../kosovo/", "Kosovo"],
     ]
 mapProvider: "osm"
 mapPins:

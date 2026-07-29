@@ -16,6 +16,7 @@ sc: [
     ["../albania/", "アルバニア"],
     ["../macedonia/", "北マケドニア"],
     ["../serbia/", "セルビア"],
+    ["../kosovo/", "コソボ"],
     ]
 features:
   - text: '<span class="quiz">コトル</span>湾はヨーロッパ最南端のフィヨルドのような地形で、旧市街と共にユネスコ<span class="quiz">世界遺産</span>に登録されている'

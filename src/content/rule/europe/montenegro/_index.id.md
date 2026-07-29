@@ -16,6 +16,7 @@ sc: [
     ["../albania/", "Albania"],
     ["../macedonia/", "Makedonia Utara"],
     ["../serbia/", "Serbia"],
+    ["../kosovo/", "Kosovo"],
     ]
 mapProvider: "osm"
 mapPins:

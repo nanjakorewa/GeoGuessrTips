@@ -17,6 +17,7 @@ sc: [
     ["../montenegro/", "Montenegro"],
     ["../../middle_east/turkey/", "Turki"],
     ["../bosnah/", "Bosnia dan Herzegovina"],
+    ["../kosovo/", "Kosovo"],
     ]
 mapProvider: "osm"
 mapPins:

@@ -20,6 +20,7 @@ sc: [
     ["../ukraine/", "Ukraine"],
     ["../bosnah/", "Bosnia and Herzegovina"],
     ["../../asia/georgia/", "Georgia"],
+    ["../kosovo/", "Kosovo"],
     ]
 mapProvider: "osm"
 mapPins:

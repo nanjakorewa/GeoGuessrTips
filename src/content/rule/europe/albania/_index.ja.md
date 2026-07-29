@@ -17,6 +17,7 @@ sc: [
     ["../italy/", "イタリア"],
     ["../montenegro/", "モンテネグロ"],
     ["../greece/", "ギリシャ"],
+    ["../kosovo/", "コソボ"],
     ]
 features:
   - text: 'ヨーロッパ最後の<span class="quiz">鎖国状態</span>だった共産主義国家で、国中に約17万もの<span class="quiz">トーチカ</span>（コンクリート製防御陣地）が残る'

@@ -17,6 +17,7 @@ sc: [
     ["../montenegro/", "モンテネグロ"],
     ["../../middle_east/turkey/", "トルコ"],
     ["../bosnah/", "ボスニア・ヘルツェゴビナ"],
+    ["../kosovo/", "コソボ"],
     ]
 features:
   - text: 'ギリシャとの国名論争を経て2019年に<span class="quiz">北マケドニア</span>共和国に改名した内陸国'
