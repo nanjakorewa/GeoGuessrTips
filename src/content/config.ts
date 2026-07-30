@@ -178,6 +178,25 @@ const ruleCollection = defineCollection({
       )
       .optional(),
 
+    // Fixed notice bar pinned to the bottom of the viewport. Intended for
+    // time-limited announcements tied to a specific page (disaster relief
+    // donation drives, temporary notices, etc.). Rendered only when present.
+    noticeBar: z.object({
+      /** Main message shown in the bar */
+      text: z.string(),
+      /** Label of the call-to-action link */
+      linkText: z.string(),
+      /** Destination URL (opened in a new tab) */
+      url: z.string(),
+      /** Optional YYYY-MM-DD date after which the bar stops rendering */
+      until: z.string().optional(),
+      /**
+       * Key used to remember dismissal in localStorage. Change it to show the
+       * bar again to visitors who already dismissed a previous notice.
+       */
+      dismissKey: z.string(),
+    }).optional(),
+
     // Structured data: FAQ
     faq: z
       .array(

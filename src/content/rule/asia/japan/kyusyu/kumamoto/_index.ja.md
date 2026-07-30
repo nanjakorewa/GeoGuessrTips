@@ -34,6 +34,12 @@ prefSymbols:
       - src: "/rule/stop/kumamoto.jpg"
         alt: "止まれ道路標示"
 flag: "Kumamoto.svg"
+noticeBar:
+  text: "令和8年熊本地震で被災された方への緊急支援募金を受け付けています（LINEヤフー基金）"
+  linkText: "募金ページを見る"
+  url: "https://donation.yahoo.co.jp/detail/1630072"
+  until: "2026-10-31"
+  dismissKey: "kumamoto-eq-2026"
 relatedIndustry:
   - "/industry/japan-semiconductor/kyushu/"
   - "/industry/japan-semiconductor/"

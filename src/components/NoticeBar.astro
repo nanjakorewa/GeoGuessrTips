@@ -1,0 +1,194 @@
+---
+/**
+ * NoticeBar — a fixed announcement bar pinned to the bottom of the viewport.
+ *
+ * Driven entirely by the page's `noticeBar` frontmatter, so it can be reused
+ * for any time-limited notice (disaster relief donations, maintenance notes…)
+ * by adding the block to that page's markdown. Nothing is rendered on pages
+ * without the field.
+ *
+ * - `until` (YYYY-MM-DD) makes the bar disappear automatically at build time
+ *   once the date has passed, so stale notices do not linger.
+ * - Dismissal is remembered per browser via localStorage only; no data leaves
+ *   the visitor's machine.
+ */
+interface Props {
+  notice: {
+    text: string;
+    linkText: string;
+    url: string;
+    until?: string;
+    dismissKey: string;
+  };
+  closeLabel?: string;
+}
+
+const { notice, closeLabel = "閉じる" } = Astro.props;
+
+// Hide once the campaign period has ended (evaluated at build time).
+const expired = notice.until
+  ? Date.now() > new Date(`${notice.until}T23:59:59+09:00`).getTime()
+  : false;
+
+const storageKey = `noticebar:${notice.dismissKey}`;
+---
+
+{!expired && (
+  <div class="notice-bar" id="notice-bar" data-storage-key={storageKey} hidden>
+    <div class="notice-bar__inner">
+      <p class="notice-bar__text">{notice.text}</p>
+      <a
+        class="notice-bar__link"
+        href={notice.url}
+        target="_blank"
+        rel="noopener noreferrer"
+      >{notice.linkText}</a>
+      <button
+        class="notice-bar__close"
+        type="button"
+        aria-label={closeLabel}
+        title={closeLabel}
+      >×</button>
+    </div>
+  </div>
+)}
+
+<script is:inline>
+    (function () {
+      var bar = document.getElementById("notice-bar");
+      if (!bar) return;
+      var key = bar.dataset.storageKey;
+
+      var dismissed = false;
+      try {
+        dismissed = window.localStorage.getItem(key) === "1";
+      } catch (e) {
+        /* localStorage unavailable (private mode etc.) — just show the bar */
+      }
+
+      if (dismissed) {
+        bar.remove();
+        return;
+      }
+
+      bar.hidden = false;
+      document.body.classList.add("has-notice-bar");
+
+      var closeBtn = bar.querySelector(".notice-bar__close");
+      if (closeBtn) {
+        closeBtn.addEventListener("click", function () {
+          try {
+            window.localStorage.setItem(key, "1");
+          } catch (e) {
+            /* ignore */
+          }
+          bar.remove();
+          document.body.classList.remove("has-notice-bar");
+        });
+      }
+    })();
+</script>
+
+<style is:global>
+  .notice-bar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1200;
+    background: #7a1f1f;
+    color: #fff;
+    border-top: 3px solid #f0c419;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.25);
+  }
+
+  .notice-bar[hidden] {
+    display: none;
+  }
+
+  .notice-bar__inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0.7rem 3rem 0.7rem 1rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    position: relative;
+  }
+
+  .notice-bar__text {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    flex: 1 1 auto;
+    /* Global styles set a dark colour on <p>, so state it explicitly here */
+    color: #fff;
+  }
+
+  .notice-bar__link {
+    flex: 0 0 auto;
+    display: inline-block;
+    padding: 0.45rem 1.1rem;
+    background: #f0c419;
+    color: #3a1010;
+    font-weight: 700;
+    font-size: 0.9rem;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .notice-bar__link:hover,
+  .notice-bar__link:focus {
+    background: #ffd84d;
+    color: #3a1010;
+    text-decoration: none;
+  }
+
+  .notice-bar__close {
+    position: absolute;
+    top: 50%;
+    right: 0.5rem;
+    transform: translateY(-50%);
+    width: 2rem;
+    height: 2rem;
+    padding: 0;
+    background: transparent;
+    border: none;
+    color: #fff;
+    font-size: 1.35rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+
+  .notice-bar__close:hover,
+  .notice-bar__close:focus {
+    background: rgba(255, 255, 255, 0.15);
+  }
+
+  /* Keep the site footer clear of the fixed bar */
+  body.has-notice-bar .site-footer {
+    padding-bottom: 5.5rem;
+  }
+
+  @media (max-width: 640px) {
+    .notice-bar__inner {
+      flex-wrap: wrap;
+      padding: 0.6rem 2.5rem 0.6rem 0.8rem;
+      gap: 0.6rem;
+    }
+
+    .notice-bar__text {
+      flex: 1 0 100%;
+      font-size: 0.82rem;
+    }
+
+    .notice-bar__link {
+      font-size: 0.85rem;
+      padding: 0.4rem 0.9rem;
+    }
+
+    body.has-notice-bar .site-footer {
+      padding-bottom: 8rem;
+    }
+  }
+</style>

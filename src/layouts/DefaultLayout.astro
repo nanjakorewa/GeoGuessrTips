@@ -14,6 +14,7 @@ import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
 import TableOfContents from "@components/TableOfContents.astro";
 import IndustryOSMMap from "@components/IndustryOSMMap.astro";
+import NoticeBar from "@components/NoticeBar.astro";
 
 interface Props {
   entry: any;
@@ -21,6 +22,15 @@ interface Props {
   collection: string;
   hasContent?: boolean;
 }
+
+// aria-label for the notice bar's dismiss button (see components/NoticeBar.astro)
+const NOTICE_BAR_CLOSE_LABEL: Record<string, string> = {
+  ja: "閉じる",
+  en: "Close",
+  es: "Cerrar",
+  id: "Tutup",
+  pt: "Fechar",
+};
 
 const { entry, lang, collection, hasContent = true } = Astro.props;
 // 言語ごとに frontmatter が異なるが、OSM ヒーロー（mapProvider/mapPins 等）の
@@ -1615,5 +1625,11 @@ const lastmodDisplay = modifiedTime
 
   <Footer lang={lang} title={data.title} permalink={canonical} flag={data.flag} translations={translationUrls} />
   <SearchModal lang={lang} />
+  {data.noticeBar && (
+    <NoticeBar
+      notice={data.noticeBar}
+      closeLabel={NOTICE_BAR_CLOSE_LABEL[lang] ?? NOTICE_BAR_CLOSE_LABEL.en}
+    />
+  )}
 </body>
 </html>

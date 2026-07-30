@@ -9,6 +9,12 @@ sections: [""]
 no_jetro: true
 is_pref: true
 flag: "Kumamoto.svg"
+noticeBar:
+  text: "Emergency relief donations for the 2026 Kumamoto earthquake are being collected by the LINE Yahoo Foundation."
+  linkText: "Open the donation page"
+  url: "https://donation.yahoo.co.jp/detail/1630072"
+  until: "2026-10-31"
+  dismissKey: "kumamoto-eq-2026"
 mapProvider: "osm"
 mapPins:
   - { lat: 32.789, lng: 130.704, label: "Kumamoto Station", type: "capital", note: "Capital of Kumamoto Prefecture" }
