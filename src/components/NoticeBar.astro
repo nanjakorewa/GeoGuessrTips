@@ -15,8 +15,7 @@
 interface Props {
   notice: {
     text: string;
-    linkText: string;
-    url: string;
+    links: { text: string; url: string }[];
     until?: string;
     dismissKey: string;
   };
@@ -37,12 +36,16 @@ const storageKey = `noticebar:${notice.dismissKey}`;
   <div class="notice-bar" id="notice-bar" data-storage-key={storageKey} hidden>
     <div class="notice-bar__inner">
       <p class="notice-bar__text">{notice.text}</p>
-      <a
-        class="notice-bar__link"
-        href={notice.url}
-        target="_blank"
-        rel="noopener noreferrer"
-      >{notice.linkText}</a>
+      <span class="notice-bar__links">
+        {notice.links.map((link) => (
+          <a
+            class="notice-bar__link"
+            href={link.url}
+            target="_blank"
+            rel="noopener noreferrer"
+          >{link.text}</a>
+        ))}
+      </span>
       <button
         class="notice-bar__close"
         type="button"
@@ -96,9 +99,10 @@ const storageKey = `noticebar:${notice.dismissKey}`;
     right: 0;
     bottom: 0;
     z-index: 1200;
-    background: #7a1f1f;
+    /* Kumamoto prefectural flag red — same value as public/flags/Kumamoto.svg */
+    background: #931d23;
     color: #fff;
-    border-top: 3px solid #f0c419;
+    border-top: 3px solid #fff;
     box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.25);
   }
 
@@ -125,12 +129,19 @@ const storageKey = `noticebar:${notice.dismissKey}`;
     color: #fff;
   }
 
-  .notice-bar__link {
+  .notice-bar__links {
     flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .notice-bar__link {
     display: inline-block;
     padding: 0.45rem 1.1rem;
-    background: #f0c419;
-    color: #3a1010;
+    background: #fff;
+    color: #931d23;
     font-weight: 700;
     font-size: 0.9rem;
     text-decoration: none;
@@ -139,8 +150,8 @@ const storageKey = `noticebar:${notice.dismissKey}`;
 
   .notice-bar__link:hover,
   .notice-bar__link:focus {
-    background: #ffd84d;
-    color: #3a1010;
+    background: #ffe9ea;
+    color: #931d23;
     text-decoration: none;
   }
 

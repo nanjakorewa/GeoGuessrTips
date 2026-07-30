@@ -10,9 +10,12 @@ no_jetro: true
 is_pref: true
 flag: "Kumamoto.svg"
 noticeBar:
-  text: "Emergency relief donations for the 2026 Kumamoto earthquake are being collected by the LINE Yahoo Foundation."
-  linkText: "Open the donation page"
-  url: "https://donation.yahoo.co.jp/detail/1630072"
+  text: "Relief donations are being collected for those affected by the 2026 Kumamoto earthquake."
+  links:
+    - text: "Kumamoto Prefecture relief fund"
+      url: "https://www.pref.kumamoto.jp/soshiki/27/274572.html"
+    - text: "LINE Yahoo Foundation"
+      url: "https://donation.yahoo.co.jp/detail/1630072"
   until: "2026-10-31"
   dismissKey: "kumamoto-eq-2026"
 mapProvider: "osm"

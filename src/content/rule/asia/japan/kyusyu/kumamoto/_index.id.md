@@ -10,9 +10,12 @@ no_jetro: true
 is_pref: true
 flag: "Kumamoto.svg"
 noticeBar:
-  text: "Donasi darurat untuk korban gempa Kumamoto 2026 sedang dikumpulkan oleh LINE Yahoo Foundation."
-  linkText: "Buka halaman donasi"
-  url: "https://donation.yahoo.co.jp/detail/1630072"
+  text: "Donasi sedang dikumpulkan untuk para korban gempa Kumamoto 2026."
+  links:
+    - text: "Dana bantuan Prefektur Kumamoto"
+      url: "https://www.pref.kumamoto.jp/soshiki/27/274572.html"
+    - text: "LINE Yahoo Foundation"
+      url: "https://donation.yahoo.co.jp/detail/1630072"
   until: "2026-10-31"
   dismissKey: "kumamoto-eq-2026"
 mapProvider: "osm"

@@ -35,9 +35,12 @@ prefSymbols:
         alt: "止まれ道路標示"
 flag: "Kumamoto.svg"
 noticeBar:
-  text: "令和8年熊本地震で被災された方への緊急支援募金を受け付けています（LINEヤフー基金）"
-  linkText: "募金ページを見る"
-  url: "https://donation.yahoo.co.jp/detail/1630072"
+  text: "令和8年熊本地震で被災された方への義援金・緊急支援募金を受け付けています"
+  links:
+    - text: "熊本県の義援金受付"
+      url: "https://www.pref.kumamoto.jp/soshiki/27/274572.html"
+    - text: "LINEヤフー基金の募金"
+      url: "https://donation.yahoo.co.jp/detail/1630072"
   until: "2026-10-31"
   dismissKey: "kumamoto-eq-2026"
 relatedIndustry:

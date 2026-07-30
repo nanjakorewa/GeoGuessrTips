@@ -184,10 +184,11 @@ const ruleCollection = defineCollection({
     noticeBar: z.object({
       /** Main message shown in the bar */
       text: z.string(),
-      /** Label of the call-to-action link */
-      linkText: z.string(),
-      /** Destination URL (opened in a new tab) */
-      url: z.string(),
+      /** Call-to-action links, rendered as buttons (opened in a new tab) */
+      links: z.array(z.object({
+        text: z.string(),
+        url: z.string(),
+      })).min(1),
       /** Optional YYYY-MM-DD date after which the bar stops rendering */
       until: z.string().optional(),
       /**
