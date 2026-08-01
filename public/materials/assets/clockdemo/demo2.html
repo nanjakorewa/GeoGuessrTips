@@ -28,7 +28,7 @@
              "EU" で星だけ、"none" で青帯そのものを消せます
    sep     : "colon"（12:34）/ "dot"（12·34）/ "dash"（12-34）
    sec     : true にすると秒まで表示（12:34:56）
-   sub     : "date"（右の小窓に月・年）/ "text"（好きな文字）/ "none"（小窓なし）
+   sub     : "date"（右の小窓に月・日）/ "text"（好きな文字）/ "none"（小窓なし）
    subtext : sub:"text" のときに出す文字。カンマで2行になります（例 "ON,AIR"）
    screws  : false にするとネジ穴が消えます
    =========================================================== */
@@ -36,7 +36,7 @@ buildPlateClock({
   theme:   "yellow",
   country: "L",
   sep:     "dot",
-  sec:     false,
+  sec:     true,
   sub:     "none",
   subtext: "",
   screws:  true

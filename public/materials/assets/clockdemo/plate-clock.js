@@ -15,6 +15,7 @@ function buildPlateClock(CFG) {
   CFG.sub     = CFG.sub     || "date";
   CFG.subtext = CFG.subtext || "";
   CFG.screws  = CFG.screws !== false;
+  CFG.subline = !!CFG.subline;      // 右の小窓の2行を横線で区切る（ポルトガル式）
   CFG.scale   = CFG.scale   || 1;
 
 
@@ -25,7 +26,10 @@ function buildPlateClock(CFG) {
     yellow: { bg:"#f5c518", ink:"#111111", border:"#111111", band:"#0b3ea8", bandInk:"#ffd200",
               sub:"#f5c518", subInk:"#111111", subLine:"#111111" },
     black:  { bg:"#15161a", ink:"#f4f4f2", border:"#f4f4f2", band:"#0b3ea8", bandInk:"#ffd200",
-              sub:"#15161a", subInk:"#f4f4f2", subLine:"#f4f4f2" }
+              sub:"#15161a", subInk:"#f4f4f2", subLine:"#f4f4f2" },
+    // ポルトガル式（白地＋右の小窓だけ黄色）
+    portugal: { bg:"#ffffff", ink:"#111111", border:"#111111", band:"#0b3ea8", bandInk:"#ffd200",
+              sub:"#ffc400", subInk:"#111111", subLine:"#111111" }
   };
   var T = THEMES[CFG.theme] || THEMES.white;
 
@@ -96,6 +100,11 @@ function buildPlateClock(CFG) {
         " V" + (PH-R-2) + " A" + R + "," + R + " 0 0 1 " + (PW-R-2) + "," + (PH-2) + " H" + sx + " Z",
         fill:T.sub}, subG);
     el("line", {x1:sx, y1:8, x2:sx, y2:PH-8, stroke:T.subLine, "stroke-width":3, opacity:.85}, subG);
+    // 2行を区切る横線（ポルトガルのプレートにある線）
+    if (CFG.subline) {
+      el("line", {x1:sx + 10, y1:PH/2, x2:PW - 14, y2:PH/2,
+        stroke:T.subInk, "stroke-width":4, "stroke-linecap":"butt"}, subG);
+    }
   }
 
   /* ------- 文字描画（自作グリフ） ------- */
@@ -168,7 +177,7 @@ function buildPlateClock(CFG) {
       if (subContent) subContent.remove();
       var lines;
       if (CFG.sub === "text" && CFG.subtext) lines = CFG.subtext.split(",").slice(0, 2);
-      else lines = [pad(d.getMonth() + 1), String(d.getFullYear()).slice(-2)];
+      else lines = [pad(d.getMonth() + 1), pad(d.getDate())];   // 上が月、下が日
       subContent = el("g", {}, subG);
       var sx2 = PW - SUB_W - 2, h2 = 42;
       lines.forEach(function (t, i) {

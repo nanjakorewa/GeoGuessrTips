@@ -8,7 +8,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>ナンバープレート風 時計 | nanja素材</title>
-<meta name="description" content="欧州のナンバープレート風デザインのOBS用時計素材（無料配布）。デザイン4種から選ぶだけ・フォント不要・透過背景。このページで実際に動いている時計をそのまま確認できます。">
+<meta name="description" content="欧州のナンバープレート風デザインのOBS用時計素材（無料配布）。ドイツ風・ルクセンブルク風・フランス風・ポルトガル風など5種から選ぶだけ・フォント不要・透過背景。このページで実際に動いている時計をそのまま確認できます。">
 <!-- 外部リクエストなし: フォントはシステムフォントのみ、解析タグなし -->
 <link rel="stylesheet" href="/materials/assets/site.css">
 <style is:global>
@@ -73,12 +73,16 @@
             <span><code>2_黄地・時刻のみ.html</code></span>
           </div>
           <div class="clock-item">
-            <div class="fr"><iframe src="/materials/assets/clockdemo/demo3.html" title="白地・秒つき" loading="lazy" scrolling="no"></iframe></div>
-            <span><code>3_白地・秒つき.html</code></span>
+            <div class="fr"><iframe src="/materials/assets/clockdemo/demo3.html" title="白地・時刻のみ" loading="lazy" scrolling="no"></iframe></div>
+            <span><code>3_白地・時刻のみ.html</code></span>
           </div>
           <div class="clock-item">
             <div class="fr"><iframe src="/materials/assets/clockdemo/demo4.html" title="黒地・ON AIR" loading="lazy" scrolling="no"></iframe></div>
             <span><code>4_黒地・ONAIR.html</code></span>
+          </div>
+          <div class="clock-item">
+            <div class="fr"><iframe src="/materials/assets/clockdemo/demo5.html" title="ポルトガル風・月日つき" loading="lazy" scrolling="no"></iframe></div>
+            <span><code>5_ポルトガル風・月日つき.html</code></span>
           </div>
         </div>
       </div>
@@ -93,9 +97,9 @@
         <li><b>選んで読み込むだけ</b><small>デザインごとにファイルが分かれています。設定を打ち込む必要はありません</small></li>
         <li><b>フォントのインストール不要</b><small>書体はすべて自作のSVGで描画。どのPCでも同じ見た目になります</small></li>
         <li><b>拡大してもぼやけない</b><small>ベクターなので、画面の端に小さく置いても大きく見せてもきれい</small></li>
-        <li><b>3つの地色</b><small>白地・黄地・黒地。青帯の国コードは自由に変更できます</small></li>
-        <li><b>区切りを選べる</b><small>12:34 / 12·34 / 12-34 の3種類。秒の表示も切替可能</small></li>
-        <li><b>右の小窓が使える</b><small>月・年の表示か、「ON AIR」など好きな2行の文字を入れられます</small></li>
+        <li><b>4つの地色</b><small>白地・黄地・黒地・ポルトガル風（白地＋黄色い小窓）。青帯の国コードは自由に変更できます</small></li>
+        <li><b>区切りを選べる</b><small>12:34:56 / 12·34·56 / 12-34-56 の3種類。秒を消すこともできます</small></li>
+        <li><b>右の小窓が使える</b><small>今日の月・日の表示か、「ON AIR」など好きな2行の文字を入れられます</small></li>
         <li><b>透過背景</b><small>ブラウザソースに入れるだけ。プレート部分だけが表示されます</small></li>
         <li><b>外部通信なし</b><small>時刻はPCのローカル時刻。ネットに何も送信しません</small></li>
         <li><b>色のカスタマイズ対応</b><small>HTML内の色コードを書き換えれば、地色や文字色を自由に変更できます</small></li>
@@ -106,13 +110,14 @@
   <section id="options">
     <div class="wrap">
       <span class="tape-title">同梱ファイル</span>
-      <p class="lead">この4つから使いたいものを選んでOBSに読み込むだけです。あとから別のデザインに変えるのも、ブラウザソースで選び直すだけ。</p>
+      <p class="lead">この5つから使いたいものを選んでOBSに読み込むだけです。あとから別のデザインに変えるのも、ブラウザソースで選び直すだけ。</p>
       <table class="opts">
         <tr><th style="width:280px">ファイル名</th><th>デザイン</th></tr>
-        <tr><td><code>1_白地・時刻と日付.html</code></td><td>白地／国コード「D」／右の小窓に月・年</td></tr>
-        <tr><td><code>2_黄地・時刻のみ.html</code></td><td>黄地／国コード「L」／中黒区切り（12·34）</td></tr>
-        <tr><td><code>3_白地・秒つき.html</code></td><td>白地／国コード「F」／秒まで表示（12:34:56）</td></tr>
+        <tr><td><code>1_白地・時刻と日付.html</code></td><td>白地／国コード「D」／右の小窓に今日の月・日</td></tr>
+        <tr><td><code>2_黄地・時刻のみ.html</code></td><td>黄地／国コード「L」／中黒区切り（12·34·56）</td></tr>
+        <tr><td><code>3_白地・時刻のみ.html</code></td><td>白地／国コード「F」／小窓なし</td></tr>
         <tr><td><code>4_黒地・ONAIR.html</code></td><td>黒地／青帯なし／右の小窓に「ON AIR」</td></tr>
+        <tr><td><code>5_ポルトガル風・月日つき.html</code></td><td>白地／国コード「P」／右の小窓だけ黄色・横線で区切り／ネジ穴なし</td></tr>
       </table>
 
       <h3 style="margin-top:40px;font-size:1.15rem">自分好みに変えることもできます（任意）</h3>

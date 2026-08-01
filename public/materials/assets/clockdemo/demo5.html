@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>白地・時刻と日付 | nanja素材</title>
+<title>ポルトガル風・月日つき | nanja素材</title>
 <style>
   * { margin:0; padding:0; box-sizing:border-box; }
   html, body { background:transparent; overflow:hidden; }
@@ -17,7 +17,7 @@
 <script src="plate-clock.js"></script>
 <script>
 /* ===========================================================
-   白地・時刻と日付
+   ポルトガル風・月日つき
    OBSのブラウザソースに「ローカルファイル」でこのHTMLを指定してください。
    推奨サイズ: 幅 780 / 高さ 165
 
@@ -33,13 +33,14 @@
    screws  : false にするとネジ穴が消えます
    =========================================================== */
 buildPlateClock({
-  theme:   "white",
-  country: "D",
-  sep:     "colon",
+  theme:   "portugal",
+  country: "P",
+  sep:     "dot",
   sec:     true,
   sub:     "date",
   subtext: "",
-  screws:  true
+  subline: true,
+  screws:  false
 });
 </script>
 
