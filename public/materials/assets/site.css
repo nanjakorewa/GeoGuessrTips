@@ -62,6 +62,15 @@ section + section { border-top: var(--stitch); }
 
 .lead { margin-top: 18px; }
 
+/* セクション内の小見出し */
+.sub-title {
+  margin-top: 54px;
+  padding-left: 14px;
+  border-left: 7px solid var(--mustard);
+  font-size: 1.1rem;
+  letter-spacing: .1em;
+}
+
 /* CTAボタン */
 .cta {
   display: inline-block; background: var(--red); color: #fff; text-decoration: none;
@@ -232,6 +241,17 @@ section + section { border-top: var(--stitch); }
 .t-item .label { padding: 10px 14px; border-top: var(--stitch); font-size: .95rem; }
 .t-item .label b { display: block; }
 .t-item .hint { font-size: .78rem; opacity: .7; }
+
+/* 配色スイッチ（道路標識風トランジション） */
+.swatches { display: flex; flex-wrap: wrap; gap: 8px; padding: 10px 14px 12px; border-top: var(--stitch); }
+.swatches button {
+  font: inherit; font-size: .8rem; letter-spacing: .04em; cursor: pointer;
+  border: 2px solid var(--ink); background: #fffdf6; color: var(--ink);
+  padding: 4px 10px 4px 6px; display: inline-flex; align-items: center; gap: 7px;
+}
+.swatches button .chip { width: 26px; height: 14px; border: 1px solid rgba(74,63,51,.5); display: block; }
+.swatches button[aria-pressed="true"] { background: var(--ink); color: #fffdf6; }
+.swatches button:focus-visible { outline: 3px solid var(--mustard); outline-offset: 2px; }
 
 /* セット内容 */
 ul.contents { list-style: none; margin-top: 26px; display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
