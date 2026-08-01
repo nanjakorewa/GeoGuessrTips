@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>白地・時刻と日付 | nanja素材</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html, body { background:transparent; overflow:hidden; }
+  body { display:flex; align-items:flex-start; justify-content:flex-start; }
+  #plate { display:block; }
+</style>
+</head>
+<body data-pagefind-ignore>
+<svg id="plate" xmlns="http://www.w3.org/2000/svg"></svg>
+
+<script src="plate-glyphs.js"></script>
+<script src="plate-clock.js"></script>
+<script>
+/* ===========================================================
+   白地・時刻と日付
+   OBSのブラウザソースに「ローカルファイル」でこのHTMLを指定してください。
+   推奨サイズ: 幅 780 / 高さ 165
+
+   ▼ 下の設定を書き換えると、見た目を変えられます
+   ----------------------------------------------------------
+   theme   : "white"（白地）/ "yellow"（黄地）/ "black"（黒地）
+   country : 左の青帯に出す文字。"D" "F" "L" "NL" "B" "E" など
+             "EU" で星だけ、"none" で青帯そのものを消せます
+   sep     : "colon"（12:34）/ "dot"（12·34）/ "dash"（12-34）
+   sec     : true にすると秒まで表示（12:34:56）
+   sub     : "date"（右の小窓に月・年）/ "text"（好きな文字）/ "none"（小窓なし）
+   subtext : sub:"text" のときに出す文字。カンマで2行になります（例 "ON,AIR"）
+   screws  : false にするとネジ穴が消えます
+   =========================================================== */
+buildPlateClock({
+  theme:   "white",
+  country: "D",
+  sep:     "colon",
+  sec:     false,
+  sub:     "date",
+  subtext: "",
+  screws:  true
+});
+</script>
+
+<div id="wm">SAMPLE</div>
+<style>
+  body { position:relative; }
+  #wm { position:absolute; left:0; top:0; width:780px; height:165px; pointer-events:none;
+    display:flex; align-items:center; justify-content:center;
+    font:700 44px/1 "Segoe UI",sans-serif; letter-spacing:.3em;
+    color:rgba(120,120,120,.34); transform:rotate(-8deg); }
+</style>
+</body>
+</html>

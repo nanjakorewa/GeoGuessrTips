@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>銘柄解説 | nanja素材</title>
+<link rel="stylesheet" href="_common.css">
+</head>
+<body data-pagefind-ignore>
+<div class="bg"></div>
+
+<div class="topbar">
+  <div style="display:flex;align-items:center;gap:26px;padding-left:28px;width:100%">
+    <span class="live">ON AIR</span>
+    <span class="tag gold"><b id="title">銘柄解説</b></span>
+    <span class="num" id="clock" style="margin-left:auto;padding-right:28px;font-size:24px;color:var(--muted)"></span>
+  </div>
+</div>
+
+<!-- 銘柄ヘッダー -->
+<div class="panel" style="left:24px;top:80px;width:1180px;height:118px;display:flex;align-items:center;gap:28px;padding:0 28px">
+  <div>
+    <div class="num" id="symbol" style="font-size:44px;font-weight:700;letter-spacing:.04em"></div>
+    <div id="name" style="font-size:20px;color:var(--muted)"></div>
+  </div>
+  <div style="margin-left:auto;text-align:right">
+    <span class="num" id="price" style="font-size:52px;font-weight:700"></span>
+    <span class="num" id="chg" style="font-size:30px;margin-left:16px"></span>
+  </div>
+</div>
+
+<!-- チャート -->
+<div class="panel" style="left:24px;top:214px;width:1180px;height:656px">
+  <div class="head">CHART — 実チャートを重ねる場合はこの枠に合わせてください</div>
+  <canvas id="chart" width="1176" height="600" style="display:block"></canvas>
+</div>
+
+<!-- 右: メモ欄 -->
+<div class="panel" style="right:24px;top:80px;width:668px;height:790px">
+  <div class="head" id="memoTitle">MEMO</div>
+  <ul id="memo" style="list-style:none;padding:22px 26px;font-size:26px;line-height:1.85"></ul>
+</div>
+
+<!-- 下: 指標 -->
+<div class="panel" style="left:24px;top:886px;width:1872px;height:104px;display:flex;align-items:center;padding:0 26px">
+  <div id="stats" style="display:flex;gap:52px;align-items:center;width:100%"></div>
+</div>
+<div class="ticker" id="ticker"></div>
+
+<script src="_common.js"></script>
+<script>
+/* ============ ここを編集して自分好みにできます ============ */
+var TITLE  = "銘柄解説";
+var SYMBOL = "0000";                     // 銘柄コード／ティッカー
+var NAME   = "サンプル・ホールディングス"; // 銘柄名
+var PRICE  = "3,412";                    // 株価
+var CHG    = +1.24;                      // 変化率(%)
+var MEMO_TITLE = "注目ポイント";
+var MEMO = [                             // 箇条書きメモ（自由に書き換え）
+  "決算は増収増益、通期見通しも上方修正",
+  "移動平均線を上抜けて出来高が増加",
+  "同業比較でPERはやや割安圏",
+  "次のイベントは来週の決算説明会"
+];
+var STATS = [                            // 下部の指標
+  {k:"始値", v:"3,380"}, {k:"高値", v:"3,455"}, {k:"安値", v:"3,352"},
+  {k:"出来高", v:"12.4M"}, {k:"PER", v:"14.2倍"}, {k:"PBR", v:"1.08倍"}, {k:"配当利回り", v:"2.86%"}
+];
+var TICKER_ITEMS = [
+  {sym:"NIKKEI", price:"38,420", chg:+0.82}, {sym:"TOPIX", price:"2,714", chg:+0.55},
+  {sym:"S&P500", price:"5,388", chg:-0.34},  {sym:"USDJPY", price:"152.38", chg:+0.21},
+  {sym:"GOLD", price:"2,338", chg:+1.12},    {sym:"BTC", price:"64,120", chg:+2.35}
+];
+/* ======================================================== */
+
+document.getElementById("title").textContent = TITLE;
+document.getElementById("symbol").textContent = SYMBOL;
+document.getElementById("name").textContent = NAME;
+document.getElementById("price").textContent = PRICE;
+var chgEl = document.getElementById("chg");
+chgEl.textContent = (CHG >= 0 ? "▲ +" : "▼ ") + CHG.toFixed(2) + "%";
+chgEl.style.color = CHG >= 0 ? "var(--up-2)" : "var(--down-2)";
+document.getElementById("memoTitle").textContent = MEMO_TITLE;
+startClock(document.getElementById("clock"));
+buildTicker(document.getElementById("ticker"), TICKER_ITEMS);
+drawCandles(document.getElementById("chart"), {count:64, seed:23, drift:CHG >= 0 ? 0.16 : -0.16});
+
+(function () {
+  var ul = document.getElementById("memo");
+  MEMO.forEach(function (m) {
+    var li = document.createElement("li");
+    li.style.cssText = "padding-left:34px;position:relative;margin-bottom:14px";
+    li.innerHTML = '<span style="position:absolute;left:0;color:var(--accent)">▶</span>' + m;
+    ul.appendChild(li);
+  });
+  var st = document.getElementById("stats");
+  STATS.forEach(function (s) {
+    var d = document.createElement("div");
+    d.innerHTML = '<div style="font-size:17px;letter-spacing:.14em;color:var(--muted)">' + s.k + '</div>' +
+                  '<div class="num" style="font-size:30px">' + s.v + '</div>';
+    st.appendChild(d);
+  });
+})();
+</script>
+
+<div id="wm">SAMPLE</div>
+<style>
+  #wm { position:absolute; inset:0; z-index:99; pointer-events:none;
+    display:flex; align-items:center; justify-content:center;
+    font:700 90px/1 "Segoe UI",sans-serif; letter-spacing:.4em;
+    color:rgba(255,255,255,.10); transform:rotate(-14deg); }
+</style>
+</body>
+</html>

@@ -1,0 +1,109 @@
+---
+// nanja素材（/materials/）へ誘導するバナー
+import { t } from "@i18n/translations";
+import type { Language } from "@lib/i18n-utils";
+
+interface Props {
+  lang: Language;
+}
+const { lang } = Astro.props;
+---
+
+<div class="col-12">
+  <a class="materials-banner" href="/materials/" aria-label="nanja素材（OBS配信用の素材配布ページ）">
+    <div class="materials-banner__body">
+      <span class="materials-banner__text">{t("materials_banner_text", lang)}</span>
+      <span class="materials-banner__cta">{t("materials_banner_cta", lang)} <i class="fas fa-arrow-right"></i></span>
+    </div>
+    <div class="materials-banner__shots" aria-hidden="true">
+      <img src="/materials/assets/img/topo_start.jpg" alt="" loading="lazy" width="320" height="180" />
+      <img src="/materials/assets/img/clock.jpg" alt="" loading="lazy" width="320" height="180" />
+      <img src="/materials/assets/img/topo_game.jpg" alt="" loading="lazy" width="320" height="180" />
+    </div>
+  </a>
+</div>
+
+<style>
+  .materials-banner {
+    display: flex;
+    align-items: stretch;
+    gap: 0;
+    overflow: hidden;
+    text-decoration: none;
+    color: #4a3f33;
+    background: #f7f0e1;
+    background-image: radial-gradient(rgba(74, 63, 51, 0.06) 1px, transparent 1px);
+    background-size: 22px 22px;
+    border: 3px solid #4a3f33;
+    box-shadow: 6px 7px 0 rgba(74, 63, 51, 0.22);
+    margin-bottom: 1rem;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+  .materials-banner:hover {
+    transform: translateY(-3px);
+    box-shadow: 6px 10px 0 rgba(74, 63, 51, 0.26);
+    color: #4a3f33;
+    text-decoration: none;
+  }
+
+  .materials-banner__body {
+    flex: 1 1 auto;
+    min-width: 0;
+    padding: 26px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 6px;
+  }
+  .materials-banner__text {
+    font-size: 1.02rem;
+    line-height: 1.75;
+    opacity: 0.92;
+  }
+  .materials-banner__cta {
+    margin-top: 8px;
+    align-self: flex-start;
+    background: #d96c47;
+    color: #fff;
+    font-weight: 700;
+    font-size: 0.95rem;
+    letter-spacing: 0.06em;
+    padding: 9px 26px;
+    box-shadow: 3px 4px 0 rgba(74, 63, 51, 0.25);
+  }
+  .materials-banner:hover .materials-banner__cta {
+    background: #c25b38;
+  }
+
+  .materials-banner__shots {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 18px 22px 18px 0;
+  }
+  .materials-banner__shots img {
+    width: 176px;
+    height: 99px;
+    object-fit: cover;
+    border: 2px solid #4a3f33;
+    box-shadow: 3px 4px 0 rgba(74, 63, 51, 0.18);
+    display: block;
+  }
+  .materials-banner__shots img:nth-child(1) { transform: rotate(-1.6deg); }
+  .materials-banner__shots img:nth-child(2) { transform: rotate(1.2deg); }
+  .materials-banner__shots img:nth-child(3) { transform: rotate(-0.8deg); }
+
+  @media (max-width: 991px) {
+    .materials-banner__shots img:nth-child(3) { display: none; }
+  }
+  @media (max-width: 767px) {
+    .materials-banner { flex-direction: column; }
+    .materials-banner__shots {
+      padding: 0 18px 18px;
+      justify-content: center;
+    }
+    .materials-banner__shots img { width: 46%; height: auto; aspect-ratio: 16 / 9; }
+    .materials-banner__shots img:nth-child(3) { display: none; }
+  }
+</style>

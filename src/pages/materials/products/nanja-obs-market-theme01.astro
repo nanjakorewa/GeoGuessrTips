@@ -1,0 +1,301 @@
+---
+// このページは obs-materials/site/ が編集元です（scripts/deploy-to-geopinning.md 参照）
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>マーケット配信セット | nanja素材</title>
+<meta name="description" content="投資・株式配信向けのOBS配信画面セット。ヒートマップやティッカー付きのダークテーマ。トランジションもこのページで動かして試せます。">
+<!-- 外部リクエストなし: フォントはシステムフォントのみ、解析タグなし -->
+<link rel="stylesheet" href="/materials/assets/site.css">
+<style is:global>
+  /* この商品ページ専用: ダークなプレビュー枠 */
+  .shots { display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:24px; margin-top:30px; }
+  .shot { border:2px solid var(--ink); background:#0d1117; box-shadow:4px 5px 0 rgba(74,63,51,.15); }
+  .shot img { width:100%; display:block; }
+  .shot p { border-top:var(--stitch); padding:10px 14px; font-size:.95rem; }
+  .shot p b { display:block; }
+  .shot p span { font-size:.82rem; opacity:.75; }
+
+  /* 配信画面シミュレーター（実物と同じHTMLの簡略版を動かしています） */
+  .stage { background:#0d1117; }
+  .stage .zoom { position:absolute; left:0; top:0; width:1920px; height:1080px;
+    transform-origin:0 0; }
+  .stage .zoom iframe { position:absolute; left:0; top:0; width:1920px; height:1080px;
+    border:0; opacity:0; }
+  .stage .zoom iframe.on { opacity:1; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="brand"><a href="/materials/">nanja<span>素材</span></a></div>
+    <nav>
+      <a href="https://geopinning.space/" class="back">← GeoGuessrの攻略めも</a>
+            <a href="/materials/#catalog">素材一覧</a>
+      <a href="/materials/#shops">ショップ</a>
+      <a href="/materials/#faq">FAQ</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <p class="crumb"><a href="/materials/">nanja素材</a> ＞ マーケット配信セット</p>
+  </div>
+
+  <section id="demo">
+    <div class="wrap">
+      <span class="tape-title">ライブデモ：配信画面シミュレーター</span>
+      <p class="lead">シーンボタンを押すと、実物のトランジションが再生されて画面が切り替わります。<strong>下の画面は実物と同じHTMLがそのまま動いています</strong>（ティッカーが流れ、時計とチャートも動きます）。</p>
+
+      <div class="sim-panel">
+        <div class="sim-controls">
+          <div class="ctrl-group">
+            <b>シーン切替</b>
+            <button data-scene="0" class="on">待機</button>
+            <button data-scene="1">マーケット監視</button>
+            <button data-scene="2">銘柄解説</button>
+            <button data-scene="3">休憩</button>
+            <button data-scene="4">終了</button>
+          </div>
+          <div class="ctrl-group">
+            <b>トランジション</b>
+            <button data-t="mkt_heatmap" class="on">ヒートマップ</button>
+            <button data-t="mkt_candle">ローソク足</button>
+            <button data-t="mkt_ticker">ティッカー</button>
+          </div>
+        </div>
+
+        <div class="stage-outer">
+          <div class="stage" id="stage">
+            <div class="zoom" id="zoom">
+              <iframe class="on" data-i="0" src="/materials/assets/marketdemo/info.html?mode=start" title="待機画面" loading="lazy" scrolling="no"></iframe>
+              <iframe data-i="1" src="/materials/assets/marketdemo/market.html" title="マーケット監視" loading="lazy" scrolling="no"></iframe>
+              <iframe data-i="2" src="/materials/assets/marketdemo/analysis.html" title="銘柄解説" loading="lazy" scrolling="no"></iframe>
+              <iframe data-i="3" src="/materials/assets/marketdemo/info.html?mode=break" title="休憩" loading="lazy" scrolling="no"></iframe>
+              <iframe data-i="4" src="/materials/assets/marketdemo/info.html?mode=end" title="終了" loading="lazy" scrolling="no"></iframe>
+            </div>
+            <video id="transitionVideo" muted playsinline preload="auto"></video>
+          </div>
+        </div>
+        <p class="note">※ デモはSAMPLE透かし入りです。販売版はフルHD・透かしなしで、表示内容もすべて自分用に書き換えられます。</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="preview">
+    <div class="wrap">
+      <span class="tape-title">各シーンの見た目</span>
+      <p class="lead">チャートを見ながら話す配信のための、ダークテーマの配信画面一式です。ヒートマップ・ウォッチリスト・流れるティッカーなど、投資配信で使うパーツを最初から組み込んであります。<strong>表示される数値はすべてダミー</strong>なので、そのまま使っても実在の銘柄を示すことはありません。</p>
+      <div class="shots">
+        <div class="shot">
+          <img src="/materials/assets/img/mkt_market.jpg" alt="マーケット監視シーン">
+          <p><b>マーケット監視</b><span>チャート枠＋ヒートマップ＋ウォッチリスト＋指数サマリー</span></p>
+        </div>
+        <div class="shot">
+          <img src="/materials/assets/img/mkt_analysis.jpg" alt="銘柄解説シーン">
+          <p><b>銘柄解説</b><span>銘柄ヘッダー＋チャート＋注目ポイントのメモ欄＋指標</span></p>
+        </div>
+        <div class="shot">
+          <img src="/materials/assets/img/mkt_start.jpg" alt="待機画面">
+          <p><b>待機画面</b><span>配信予定のタイムテーブル入り</span></p>
+        </div>
+        <div class="shot">
+          <img src="/materials/assets/img/mkt_break.jpg" alt="休憩画面">
+          <p><b>休憩</b><span>背景にローソク足が流れます</span></p>
+        </div>
+        <div class="shot">
+          <img src="/materials/assets/img/mkt_end.jpg" alt="終了画面">
+          <p><b>終了</b><span>フォロー・チャンネル登録の導線つき</span></p>
+        </div>
+      </div>
+      <p class="note">※ プレビューは透かし入りの縮小版です。販売版はフルHD・透かしなしで、ティッカーが実際に流れ、時計も動きます。</p>
+    </div>
+  </section>
+
+  <section id="transitions">
+    <div class="wrap">
+      <span class="tape-title">同梱トランジション（3種）</span>
+      <p class="lead">マウスを乗せると再生されます。市松模様の部分は透過（アルファ付きwebm）で、配信画面にそのまま重なります。</p>
+      <div class="t-grid" id="tGrid">
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/mkt_heatmap.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>ヒートマップ</b><span class="hint">タイルが中央から広がる。マウスを乗せると再生（1.5秒）</span></div>
+        </div>
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/mkt_candle.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>ローソク足</b><span class="hint">左から立ち上がって埋まる。マウスを乗せると再生（1.5秒）</span></div>
+        </div>
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/mkt_ticker.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>ティッカーテープ</b><span class="hint">帯が交互に流れ込む。マウスを乗せると再生（1.5秒）</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contents">
+    <div class="wrap">
+      <span class="tape-title">セット内容</span>
+      <ul class="contents">
+        <li><b>オーバーレイ 5シーン（HTML）</b><small>待機・マーケット監視・銘柄解説・休憩・終了</small></li>
+        <li><b>スティンガートランジション 3種</b><small>ヒートマップ・ローソク足・ティッカー（透過webm・各1.5秒）</small></li>
+        <li><b>OBSシーンコレクション</b><small>インポートするだけで全シーン・トランジション設定済み</small></li>
+        <li><b>流れるティッカーテープ</b><small>銘柄・価格・変化率をテキストで自由に書き換え可能</small></li>
+        <li><b>ヒートマップ表示</b><small>変化率を入れると自動で緑〜赤に色分けされます</small></li>
+        <li><b>ウォッチリスト／注目ポイント欄</b><small>解説したい内容をその日ごとに編集</small></li>
+        <li><b>カラーテーマ変更対応</b><small>CSSの1か所で「上昇＝赤／下降＝青」の日本式にも変更可</small></li>
+        <li><b>セットアップ手順書</b><small>インポート＋キャプチャ選択だけの簡単導入</small></li>
+      </ul>
+      <p class="note">※ 表示される株価・銘柄名はすべて架空のダミーデータです。実際の株価を映したい場合は、お使いのチャートツールの画面をキャプチャして重ねてください。本素材は投資判断を提供するものではありません。</p>
+    </div>
+  </section>
+
+  <section id="get">
+    <div class="wrap">
+      <span class="tape-title">入手方法</span>
+      <div class="shops">
+        <div class="shop">
+          <div class="ribbon">サブスク</div>
+          <h3>FANBOX</h3>
+          <p>月額プランに加入すると、このセットを含む全セットをダウンロードできます。</p>
+          <!-- TODO: FANBOXの配布投稿を作成後、URLを差し替える -->
+          <a class="cta" href="https://nanjakorewa.fanbox.cc/" target="_blank" rel="noopener">FANBOXで受け取る</a>
+        </div>
+        <div class="shop booth">
+          <div class="ribbon">単品購入</div>
+          <h3>BOOTH</h3>
+          <p>このセットを買い切りで購入できます。アップデートは無料で再ダウンロードできます。</p>
+          <!-- TODO: BOOTH商品ページを作成後、URLを差し替える -->
+          <a class="cta sub" href="https://nanjakorewa.booth.pm/" target="_blank" rel="noopener">BOOTHで購入する</a>
+        </div>
+      </div>
+      <p class="note">※ 決済はFANBOX / BOOTH上で行われます。このサイトが個人情報を収集することはありません。</p>
+    </div>
+  </section>
+
+  <section id="setup">
+    <div class="wrap">
+      <span class="tape-title">ダウンロード後のセットアップ手順</span>
+      <p class="lead">zipファイルを入手したあとの流れです。OBS Studio（無料）がインストールされていれば、5分ほどで配信画面が完成します。</p>
+
+      <ol class="howto">
+        <li>
+          <b class="t">zipを解凍して、置き場所を決める</b>
+          <p>解凍して出てきたフォルダを <span class="path">C:\OBS素材\nanja-obs-market-theme01</span> に置くと、設定済みのパスがそのまま使えます。<strong>あとで移動・リネームすると画面が表示されなくなる</strong>ので、先に置き場所を決めてください。</p>
+        </li>
+        <li>
+          <b class="t">OBSにシーンコレクションを取り込む</b>
+          <p>「シーンコレクション」→「インポート」で <span class="path">nanja-obs-market-theme01.json</span> を選び、取り込んだあと「マーケット配信セット」に切り替えます。</p>
+        </li>
+        <li>
+          <b class="t">チャート画面をつなぐ</b>
+          <p>「マーケット監視」シーンの<strong>チャート画面キャプチャ</strong>をダブルクリックして表示したい画面を選択。「銘柄解説」シーンの<strong>ブラウザ／取引ツール</strong>には、取引ツールやチャートサイトのウィンドウを指定します。</p>
+        </li>
+        <li>
+          <b class="t">表示内容を自分用に書き換える</b>
+          <p><span class="path">overlays</span> の中のHTMLをテキストエディタで開くと、冒頭に「ここを編集して自分好みにできます」というブロックがあります。ティッカーの銘柄、ウォッチリスト、注目ポイントなどを書き換えて、ブラウザソースを右クリック→「更新」で反映されます。</p>
+        </li>
+        <li>
+          <b class="t">色を変えたいとき（任意）</b>
+          <p><span class="path">overlays/_common.css</span> の先頭にある <span class="path">:root</span> の色を変えるだけで全画面に反映されます。<span class="path">--up</span> を赤・<span class="path">--down</span> を青にすれば、日本式の配色にできます。</p>
+        </li>
+      </ol>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>nanja素材 — すべて自作のOBS配信デザインを配布・販売しています。</p>
+    <p>このサイトは静的ページです。Cookie・解析タグ・外部フォントを使用していません。</p>
+  </div>
+</footer>
+
+<script is:inline>
+(function () {
+  "use strict";
+
+  /* ---- 配信画面シミュレーター ---- */
+  var stage = document.getElementById("stage");
+  var zoom = document.getElementById("zoom");
+  var tVideo = document.getElementById("transitionVideo");
+  var frames = zoom ? zoom.querySelectorAll("iframe") : [];
+  var cur = 0, playing = false, trans = "mkt_heatmap";
+
+  function fit() {
+    if (!stage) return;
+    zoom.style.transform = "scale(" + (stage.clientWidth / 1920) + ")";
+  }
+  fit();
+  window.addEventListener("resize", fit);
+
+  function show(i) {
+    frames.forEach(function (f) { f.classList.toggle("on", +f.dataset.i === i); });
+    cur = i;
+  }
+  function setActive(sel, btn) {
+    document.querySelectorAll(sel).forEach(function (b) { b.classList.remove("on"); });
+    btn.classList.add("on");
+  }
+
+  document.querySelectorAll("[data-t]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      trans = btn.dataset.t;
+      setActive("[data-t]", btn);
+    });
+  });
+
+  document.querySelectorAll("[data-scene]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var i = +btn.dataset.scene;
+      if (playing || i === cur) return;
+      setActive("[data-scene]", btn);
+      playing = true;
+      tVideo.src = "/materials/assets/demo/" + trans + ".webm";
+      tVideo.style.display = "block";
+      var swapped = false;
+      var onTime = function () {
+        if (!swapped && tVideo.currentTime >= 0.7) { swapped = true; show(i); }
+      };
+      tVideo.addEventListener("timeupdate", onTime);
+      tVideo.onended = function () {
+        tVideo.removeEventListener("timeupdate", onTime);
+        if (!swapped) show(i);
+        tVideo.style.display = "none";
+        playing = false;
+      };
+      tVideo.play().catch(function () {
+        tVideo.removeEventListener("timeupdate", onTime);
+        tVideo.style.display = "none";
+        playing = false;
+        show(i);
+      });
+    });
+  });
+
+  /* ---- トランジション単体プレビュー ---- */
+  document.querySelectorAll(".checker").forEach(function (box) {
+    var v = box.querySelector("video");
+    var play = function () {
+      if (!v.src) v.src = box.dataset.src;
+      v.currentTime = 0;
+      v.play();
+    };
+    box.addEventListener("mouseenter", play); // オンマウスで再生
+    box.addEventListener("click", play);      // タッチ端末用
+  });
+
+  ["tGrid", "preview", "demo"].forEach(function (id) {
+    var g = document.getElementById(id);
+    if (g) g.addEventListener("contextmenu", function (e) { e.preventDefault(); });
+  });
+})();
+</script>
+</body>
+</html>

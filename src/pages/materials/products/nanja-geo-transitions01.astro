@@ -1,0 +1,125 @@
+---
+// このページは obs-materials/site/ が編集元です（scripts/deploy-to-geopinning.md 参照）
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>地理系ゲーム配信向けフリートランジション | nanja素材</title>
+<meta name="description" content="地理系ゲーム配信向けの無料スティンガートランジション3種。ピンドロップ・ピンズーム・コンパススイープ。このページでそのまま再生して試せます。">
+<!-- 外部リクエストなし: フォントはシステムフォントのみ、解析タグなし -->
+<link rel="stylesheet" href="/materials/assets/site.css">
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="brand"><a href="/materials/">nanja<span>素材</span></a></div>
+    <nav>
+      <a href="https://geopinning.space/" class="back">← GeoGuessrの攻略めも</a>
+            <a href="/materials/#catalog">素材一覧</a>
+      <a href="/materials/#shops">ショップ</a>
+      <a href="/materials/#faq">FAQ</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <p class="crumb"><a href="/materials/">nanja素材</a> ＞ 地理系ゲーム配信向けフリートランジション</p>
+  </div>
+
+  <section id="transitions">
+    <div class="wrap">
+      <span class="tape-title">地理系ゲーム配信向けフリートランジション</span>
+      <p class="lead">「ピン・地図・探検」をモチーフにしたスティンガートランジション3種を<strong>無料配布</strong>しています。アルファ付きwebm（1920x1080・1.5秒）で、どの配信画面にもそのまま重なります。マウスを乗せる（タップする）と再生されます。</p>
+      <div class="t-grid" id="tGrid">
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/geo_pinzoom.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>ピンズーム（赤×白）</b><span class="hint">ピンの中へズームイン。マウスを乗せると再生（1.5秒）</span></div>
+        </div>
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/geo_pindrop.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>ピンドロップ</b><span class="hint">落下ピンの衝撃波が画面を覆う。マウスを乗せると再生（1.5秒）</span></div>
+        </div>
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/geo_compass.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>コンパススイープ</b><span class="hint">レーダー状の円形ワイプ。マウスを乗せると再生（1.5秒）</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="setup">
+    <div class="wrap">
+      <span class="tape-title">OBSでの使い方</span>
+
+      <ol class="howto">
+        <li>
+          <b class="t">スティンガートランジションを追加する</b>
+          <p>OBSの「シーントランジション」パネル（画面右下）の「＋」→「スティンガー」を選び、好きな名前を付けます。</p>
+        </li>
+        <li>
+          <b class="t">webmファイルとタイミングを設定する</b>
+          <p>「映像ファイル」にダウンロードしたwebmを指定し、「トランジションポイント」を <span class="path">750ms</span> にします。画面が完全に覆われる瞬間にシーンが切り替わります。</p>
+        </li>
+        <li>
+          <b class="t">シーン切替で自動再生</b>
+          <p>あとはシーンを切り替えるだけでトランジションが再生されます。3種を切り替えて使う場合は、スティンガーを複数登録して「シーントランジション」の一覧から選択してください。</p>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="get">
+    <div class="wrap">
+      <span class="tape-title">ダウンロード（無料）</span>
+      <div class="shops">
+        <div class="shop">
+          <div class="ribbon">無料</div>
+          <h3>FANBOX</h3>
+          <p>無料公開の投稿からダウンロードできます（フォロー不要）。新素材のお知らせも届きます。</p>
+          <!-- TODO: FANBOXの無料公開投稿を作成後、URLを差し替える -->
+          <a class="cta" href="https://nanjakorewa.fanbox.cc/" target="_blank" rel="noopener">FANBOXで受け取る</a>
+        </div>
+        <div class="shop booth">
+          <div class="ribbon">無料</div>
+          <h3>BOOTH</h3>
+          <p>0円のDL商品としても配布します。BOOTHのライブラリに入れておきたい方はこちら。</p>
+          <!-- TODO: BOOTHの0円商品ページを作成後、URLを差し替える -->
+          <a class="cta sub" href="https://nanjakorewa.booth.pm/" target="_blank" rel="noopener">BOOTHで受け取る</a>
+        </div>
+      </div>
+      <p class="note">※ 収益化配信OK・クレジット表記不要。素材ファイルそのものの再配布・再販売のみ禁止です。</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>nanja素材 — すべて自作のOBS配信デザインを配布・販売しています。</p>
+    <p>このサイトは静的ページです。Cookie・解析タグ・外部フォントを使用していません。</p>
+  </div>
+</footer>
+
+<script is:inline>
+(function () {
+  "use strict";
+  document.querySelectorAll(".checker").forEach(function (box) {
+    var v = box.querySelector("video");
+    var play = function () {
+      if (!v.src) v.src = box.dataset.src;
+      v.currentTime = 0;
+      v.play();
+    };
+    box.addEventListener("mouseenter", play); // オンマウスで再生
+    box.addEventListener("click", play);      // タッチ端末用
+  });
+  var g = document.getElementById("tGrid");
+  if (g) g.addEventListener("contextmenu", function (e) { e.preventDefault(); });
+})();
+</script>
+</body>
+</html>

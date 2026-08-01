@@ -386,6 +386,20 @@ export const translations: Record<string, Record<Language, string>> = {
     es: "Otros",
     pt: "Outros",
   },
+  materials_banner_text: {
+    ja: "OBS配信用のオーバーレイ・シーントランジション・時計を配布しています。ブラウザ上でそのまま動かして試せます。",
+    en: "Stream overlays, scene transitions and clocks for OBS. Try them right in your browser.",
+    id: "Overlay, transisi, dan jam untuk OBS. Coba langsung di browser.",
+    es: "Overlays, transiciones y relojes para OBS. Pruébalos en tu navegador.",
+    pt: "Overlays, transições e relógios para OBS. Teste direto no navegador.",
+  },
+  materials_banner_cta: {
+    ja: "素材を見る",
+    en: "Browse assets",
+    id: "Lihat aset",
+    es: "Ver recursos",
+    pt: "Ver recursos",
+  },
   homepage_booth_caption: {
     ja: "作ってみたグッズ",
     en: "Handmade merch",

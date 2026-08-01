@@ -1,0 +1,272 @@
+---
+// このページは obs-materials/site/ が編集元です（scripts/deploy-to-geopinning.md 参照）
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Simple OBS Design #01 | nanja素材</title>
+<meta name="description" content="A warm, paper-craft style OBS stream overlay kit. Try the stinger transitions and overlays live on this page before you buy.">
+<!-- No external requests: system fonts only, no analytics -->
+<!-- English sample page for the Etsy channel. Do not add BOOTH/FANBOX purchase buttons here
+     (Etsy prohibits diverting buyers to other marketplaces from linked pages). -->
+<link rel="stylesheet" href="/materials/assets/site.css">
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="brand"><a href="/materials/">nanja<span>素材</span></a></div>
+    <nav>
+      <a href="https://geopinning.space/" class="back">← GeoGuessrの攻略めも</a>
+            <a href="/materials/products/nanja-obs-simple-theme01/">日本語</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <p class="crumb"><a href="/materials/">nanja素材</a> &gt; Simple OBS Design #01</p>
+  </div>
+
+  <section id="demo">
+    <div class="wrap">
+      <span class="tape-title">Simple OBS Design #01: Live Demo</span>
+      <p class="lead">Press a scene button and the actual stinger transition plays as the screen switches — right here in your browser. You can also change the transition style and switch to the vertical (Shorts / portrait) layout.</p>
+
+      <div class="sim-panel">
+        <div class="sim-controls">
+          <div class="ctrl-group">
+            <b>SCENE</b>
+            <button data-scene="start" class="on">Starting</button>
+            <button data-scene="game">Gameplay</button>
+            <button data-scene="break">Break</button>
+            <button data-scene="end">Ending</button>
+          </div>
+          <div class="ctrl-group">
+            <b>TRANSITION</b>
+            <button data-t="wipe" class="on">Wipe</button>
+            <button data-t="diamond">Diamond</button>
+            <button data-t="zigzag">Zigzag</button>
+          </div>
+          <div class="ctrl-group">
+            <b>ORIENTATION</b>
+            <button data-o="h" class="on">16:9</button>
+            <button data-o="v">9:16</button>
+          </div>
+        </div>
+
+        <div class="stage-outer">
+          <div class="stage" id="stage">
+            <!-- Starting -->
+            <div class="scene active" data-name="start">
+              <div class="paper-bg"></div>
+              <div class="deco-strip top"></div><div class="deco-strip bottom"></div>
+              <div class="big-msg">まもなくはじまるよ</div>
+              <div class="sub-msg">STARTING SOON</div>
+            </div>
+            <!-- Gameplay -->
+            <div class="scene" data-name="game">
+              <div class="paper-bg"></div>
+              <div class="title-tag">Playing Mario Kart</div>
+              <div class="game-frame"><div class="fake-game"></div></div>
+              <div class="chat-panel">
+                <div class="chat-head">CHAT</div>
+                <div class="chat-list" id="chatList"></div>
+              </div>
+            </div>
+            <!-- Break -->
+            <div class="scene" data-name="break">
+              <div class="paper-bg"></div>
+              <div class="deco-strip top"></div><div class="deco-strip bottom"></div>
+              <div class="big-msg">きゅうけいちゅう ☕</div>
+              <div class="sub-msg">BE RIGHT BACK</div>
+            </div>
+            <!-- Ending -->
+            <div class="scene" data-name="end">
+              <div class="paper-bg"></div>
+              <div class="deco-strip top"></div><div class="deco-strip bottom"></div>
+              <div class="big-msg">おつかれさまでした！</div>
+              <div class="sub-msg">THANKS FOR WATCHING</div>
+            </div>
+
+            <div class="watermark" aria-hidden="true">SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE</div>
+            <video id="transitionVideo" muted playsinline preload="auto"></video>
+          </div>
+        </div>
+        <p class="note">* This demo is a simplified, low-resolution version with a SAMPLE watermark. The full kit is Full HD (1920x1080 / 1080x1920) with no watermark and more detailed animations. The large Japanese text on each screen is plain HTML/CSS — easy to edit into any language with a text editor (main spots are marked with comments in the files).</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="transitions">
+    <div class="wrap">
+      <span class="tape-title">Stinger Transitions</span>
+      <p class="lead">Hover to play. The checkered area is transparent (alpha webm), so the transition overlays your stream scene directly in OBS.</p>
+      <div class="t-grid" id="tGrid">
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/transition_wipe.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>Warm striped diagonal wipe</b><span class="hint">Hover to play (1.5s)</span></div>
+        </div>
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/transition_diamond.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>Patchwork diamond burst</b><span class="hint">Hover to play (1.5s)</span></div>
+        </div>
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/transition_zigzag.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>Zigzag paper curtain</b><span class="hint">Hover to play (1.5s)</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contents">
+    <div class="wrap">
+      <span class="tape-title">What's Included</span>
+      <ul class="contents">
+        <li><b>8 HTML overlays</b><small>Starting, 3 gameplay layouts, break &amp; ending screens + 2 vertical layouts. Just add as an OBS Browser Source</small></li>
+        <li><b>6 stinger transitions</b><small>3 landscape + 3 vertical (transparent webm, 1.5s each)</small></li>
+        <li><b>OBS scene collections (landscape &amp; vertical)</b><small>Import once — every scene, source and transition is pre-configured</small></li>
+        <li><b>Custom chat CSS for Twitch / YouTube</b><small>Make your chat box match the kit</small></li>
+        <li><b>Vertical streaming profile</b><small>1080x1920 preset for Shorts / portrait streams</small></li>
+        <li><b>Setup guide (English)</b><small>Two imports and a capture-device selection — that's it</small></li>
+        <li><b>Free to use in monetized streams</b><small>No credit required. Reselling or redistributing the files themselves is not allowed</small></li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="get">
+    <div class="wrap">
+      <span class="tape-title">Get This Kit</span>
+      <div class="shops">
+        <div class="shop booth">
+          <div class="ribbon">DIGITAL DOWNLOAD</div>
+          <h3>Etsy</h3>
+          <p>This kit will be available as an instant digital download on Etsy. The Etsy listing is being prepared — check back soon.</p>
+          <!-- TODO: Etsyショップ開設後、商品ページURLに差し替える -->
+          <a class="cta sub" href="#" title="Coming soon">Coming soon on Etsy</a>
+        </div>
+      </div>
+      <p class="note">* All purchases are handled on Etsy. This site does not collect any personal information.</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>nanja素材 — Original OBS stream designs, all handmade by one creator.</p>
+    <p>This is a static page. No cookies, no analytics, no external fonts.</p>
+  </div>
+</footer>
+
+<script is:inline>
+(function () {
+  "use strict";
+  var stage = document.getElementById("stage");
+  var tVideo = document.getElementById("transitionVideo");
+  var scenes = stage.querySelectorAll(".scene");
+  var state = { scene: "start", transition: "wipe", orientation: "h", playing: false };
+
+  function srcFor(t, o) {
+    return "/materials/assets/demo/" + (o === "v" ? "vertical_" : "transition_") + t + ".webm";
+  }
+
+  function setActive(groupSel, btn) {
+    document.querySelectorAll(groupSel).forEach(function (b) { b.classList.remove("on"); });
+    btn.classList.add("on");
+  }
+
+  function showScene(name) {
+    scenes.forEach(function (s) { s.classList.toggle("active", s.dataset.name === name); });
+    state.scene = name;
+  }
+
+  function playTransition(then) {
+    if (state.playing) return;
+    state.playing = true;
+    tVideo.src = srcFor(state.transition, state.orientation);
+    tVideo.style.display = "block";
+    var swapped = false;
+    var onTime = function () {
+      if (!swapped && tVideo.currentTime >= 0.7) { swapped = true; then(); }
+    };
+    tVideo.addEventListener("timeupdate", onTime);
+    tVideo.onended = function () {
+      tVideo.removeEventListener("timeupdate", onTime);
+      if (!swapped) then();
+      tVideo.style.display = "none";
+      state.playing = false;
+    };
+    tVideo.play().catch(function () {
+      // Fallback: switch instantly if autoplay is blocked
+      tVideo.removeEventListener("timeupdate", onTime);
+      tVideo.style.display = "none";
+      state.playing = false;
+      then();
+    });
+  }
+
+  document.querySelectorAll("[data-scene]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      if (state.playing || btn.dataset.scene === state.scene) return;
+      setActive("[data-scene]", btn);
+      playTransition(function () { showScene(btn.dataset.scene); });
+    });
+  });
+  document.querySelectorAll("[data-t]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      state.transition = btn.dataset.t;
+      setActive("[data-t]", btn);
+    });
+  });
+  document.querySelectorAll("[data-o]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      state.orientation = btn.dataset.o;
+      setActive("[data-o]", btn);
+      stage.classList.toggle("vertical", state.orientation === "v");
+    });
+  });
+
+  // Fake chat feed
+  var chatList = document.getElementById("chatList");
+  var fakeComments = [
+    ["mika", "hello there!"], ["woodpecker", "this layout is so cute"], ["yama", "first time here"],
+    ["puni", "that corner is tricky"], ["hato", "gg"], ["beans", "love this BGM"],
+    ["rainboots", "nice one!"], ["shio", "what course is next?"], ["walnut", "lol"]
+  ];
+  var ci = 0;
+  setInterval(function () {
+    if (!chatList) return;
+    var c = fakeComments[ci++ % fakeComments.length];
+    var div = document.createElement("div");
+    div.className = "chat-item";
+    var b = document.createElement("b");
+    b.textContent = c[0] + " ";
+    div.appendChild(b);
+    div.appendChild(document.createTextNode(c[1]));
+    chatList.appendChild(div);
+    while (chatList.children.length > 8) chatList.removeChild(chatList.firstChild);
+  }, 2200);
+
+  // Transition gallery
+  document.querySelectorAll(".checker").forEach(function (box) {
+    var v = box.querySelector("video");
+    var play = function () {
+      if (!v.src) v.src = box.dataset.src;
+      v.currentTime = 0;
+      v.play();
+    };
+    box.addEventListener("mouseenter", play); // オンマウスで再生
+    box.addEventListener("click", play);      // タッチ端末用
+  });
+
+  // Disable right-click on sample areas (gallery + simulator stage)
+  [document.getElementById("tGrid"), stage].forEach(function (el) {
+    if (el) el.addEventListener("contextmenu", function (e) { e.preventDefault(); });
+  });
+})();
+</script>
+</body>
+</html>

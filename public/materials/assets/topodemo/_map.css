@@ -1,0 +1,68 @@
+/* ===========================================================
+   nanja素材 地形図テーマ 共通スタイル
+   色を変えたいときは :root の値をいじってください
+   =========================================================== */
+:root {
+  --paper:        #fbf8f0;   /* 地図の紙色 */
+  --contour:      #a9843b;   /* 等高線（主曲線） */
+  --contour-bold: #8a6520;   /* 等高線（計曲線・太い線） */
+  --road-main:    #f3e04c;   /* 主要道（黄色） */
+  --building:     #d98a5c;   /* 建物のわく */
+  --symbol:       #7a6a4a;   /* 樹木などの記号 */
+  --water:        #7fb3e8;   /* 水域 */
+  --ink:          #1b1b1b;   /* 地名・数値の黒 */
+  --note:         #2f6b3f;   /* 注記の緑（駅名など） */
+  --panel:        rgba(255,253,246,.94);
+  --panel-line:   #3a3a3a;
+  --map-font:     "Yu Mincho","Hiragino Mincho ProN","Noto Serif CJK JP","MS Mincho",serif;
+  --ui-font:      "Yu Gothic UI","Hiragino Sans","Noto Sans CJK JP","Meiryo",sans-serif;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html, body { width:1920px; height:1080px; overflow:hidden; background:transparent;
+  font-family:var(--ui-font); color:var(--ink); }
+
+#map { position:absolute; inset:0; }
+#map svg { display:block; }
+
+/* 地図をゆっくり流す（動きが不要なら .drift を外してください） */
+.drift { animation: drift 90s linear infinite alternate; }
+@keyframes drift {
+  from { transform: translate(0, 0) scale(1.06); }
+  to   { transform: translate(-70px, -46px) scale(1.06); }
+}
+
+/* 地図の上に薄い紙のかすみ（文字を読みやすくする） */
+.haze { position:absolute; inset:0;
+  background:radial-gradient(ellipse 46% 40% at 50% 46%, rgba(251,248,240,.62) 0%, rgba(251,248,240,0) 78%); }
+
+/* ---- 共通パーツ ---- */
+.frame { position:absolute; border:3px solid var(--panel-line); background:var(--panel);
+  box-shadow:0 10px 28px rgba(60,50,30,.18); }
+.frame > .head { border-bottom:2px solid var(--panel-line);
+  padding:9px 18px; font-size:21px; letter-spacing:.18em; display:flex; align-items:center; gap:12px; }
+.frame > .head .en { font-size:15px; letter-spacing:.12em; color:var(--note); }
+
+/* 図郭（地図の枠）風の飾り */
+.neatline { position:absolute; inset:20px; border:3px solid var(--panel-line); pointer-events:none; }
+.neatline::before { content:""; position:absolute; inset:7px; border:1px solid var(--panel-line); opacity:.55; }
+.tick { position:absolute; background:var(--panel-line); }
+
+/* 見出しの札（地名の注記風） */
+.place { font-family:var(--map-font); letter-spacing:.34em; }
+.place-en { font-family:var(--ui-font); letter-spacing:.2em; color:var(--note); }
+
+/* 凡例パネル */
+.legend { font-size:19px; line-height:1.85; }
+.legend .row { display:flex; align-items:center; gap:12px; }
+.legend .sw { width:44px; height:0; border-top:3px solid var(--contour-bold); }
+.legend .sw.thin { border-top-width:1.5px; border-color:var(--contour); }
+.legend .sw.road { border-top:7px solid var(--road-main); box-shadow:0 0 0 1.5px #6b6b6b; }
+.legend .sw.trail { border-top:3px dashed #5f5f5f; }
+
+/* スケールバー */
+.scalebar { display:flex; align-items:flex-end; gap:0; font-size:15px; }
+.scalebar i { display:block; width:56px; height:11px; border:2px solid var(--panel-line); }
+.scalebar i:nth-child(odd) { background:var(--panel-line); }
+
+/* 方位記号 */
+.north { font-family:var(--map-font); font-size:22px; text-align:center; }

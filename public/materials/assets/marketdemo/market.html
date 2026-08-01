@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>マーケット監視 | nanja素材</title>
+<link rel="stylesheet" href="_common.css">
+</head>
+<body data-pagefind-ignore>
+<div class="bg"></div>
+
+<!-- 上部バー -->
+<div class="topbar">
+  <div style="display:flex;align-items:center;gap:26px;padding-left:28px;width:100%">
+    <span class="live">ON AIR</span>
+    <span class="tag"><b id="title">マーケット監視</b></span>
+    <span class="num" id="clock" style="margin-left:auto;padding-right:28px;font-size:24px;color:var(--muted)"></span>
+  </div>
+</div>
+
+<!-- 左: ゲーム窓（チャート画面のキャプチャを重ねる） -->
+<div class="panel" id="screen" style="left:24px;top:80px;width:1330px;height:790px">
+  <div class="head">CHART / SCREEN — この枠にチャート画面のキャプチャを重ねてください</div>
+</div>
+
+<!-- 右上: ヒートマップ -->
+<div class="panel" style="right:24px;top:80px;width:542px;height:392px">
+  <div class="head">HEATMAP</div>
+  <div class="heat" id="heat" style="grid-template-columns:repeat(6,1fr);grid-auto-rows:1fr;height:calc(100% - 47px);padding:4px"></div>
+</div>
+
+<!-- 右下: 注目銘柄リスト -->
+<div class="panel" style="right:24px;top:494px;width:542px;height:376px">
+  <div class="head">WATCH LIST</div>
+  <div id="watch" style="padding:6px 14px"></div>
+</div>
+
+<!-- 下部: サマリー＋ティッカー -->
+<div class="panel" style="left:24px;top:886px;width:1330px;height:104px;display:flex;align-items:center;gap:34px;padding:0 26px">
+  <div id="idx" style="display:flex;gap:34px;align-items:center;flex:1"></div>
+</div>
+<div class="ticker" id="ticker"></div>
+
+<script src="_common.js"></script>
+<script>
+/* ============ ここを編集して自分好みにできます ============ */
+var TITLE = "マーケット監視";               // 上部の見出し
+var TICKER_ITEMS = [                        // 流れるティッカー（ダミー）
+  {sym:"NIKKEI", price:"38,420", chg:+0.82},
+  {sym:"TOPIX",  price:"2,714",  chg:+0.55},
+  {sym:"S&P500", price:"5,388",  chg:-0.34},
+  {sym:"NASDAQ", price:"17,204", chg:-0.61},
+  {sym:"USDJPY", price:"152.38", chg:+0.21},
+  {sym:"GOLD",   price:"2,338",  chg:+1.12},
+  {sym:"WTI",    price:"78.42",  chg:-1.04},
+  {sym:"BTC",    price:"64,120", chg:+2.35}
+];
+var HEAT = [                                 // ヒートマップ（symと変化率）
+  {sym:"AAA", chg:+2.4, w:2, h:2, fs:34}, {sym:"BBB", chg:+0.9, w:2, fs:26},
+  {sym:"CCC", chg:-1.8, w:2, fs:26}, {sym:"DDD", chg:+1.2, fs:20}, {sym:"EEE", chg:-0.4, fs:20},
+  {sym:"FFF", chg:+3.1, w:2, fs:24}, {sym:"GGG", chg:-2.6, fs:20}, {sym:"HHH", chg:+0.2, fs:20},
+  {sym:"III", chg:+1.7, w:2, fs:22}, {sym:"JJJ", chg:-0.9, w:2, fs:22}, {sym:"KKK", chg:+0.6, fs:18},
+  {sym:"LLL", chg:-3.4, fs:18}, {sym:"MMM", chg:+2.0, fs:18}, {sym:"NNN", chg:-0.2, fs:18}
+];
+var WATCH = [                                // 注目銘柄リスト
+  {sym:"7203", name:"サンプル自動車", price:"3,412", chg:+1.24},
+  {sym:"6758", name:"サンプル電機",   price:"14,280", chg:+0.86},
+  {sym:"9984", name:"サンプルG",     price:"8,904",  chg:-2.11},
+  {sym:"8306", name:"サンプル銀行",   price:"1,562",  chg:+0.45},
+  {sym:"6501", name:"サンプル重工",   price:"3,988",  chg:-0.32},
+  {sym:"4063", name:"サンプル化学",   price:"5,210",  chg:+1.98}
+];
+var INDEX = [                                // 下部サマリー
+  {label:"日経平均", value:"38,420.15", chg:+0.82},
+  {label:"TOPIX",   value:"2,714.02",  chg:+0.55},
+  {label:"USD/JPY", value:"152.38",    chg:+0.21}
+];
+/* ======================================================== */
+
+document.getElementById("title").textContent = TITLE;
+startClock(document.getElementById("clock"));
+buildTicker(document.getElementById("ticker"), TICKER_ITEMS);
+buildHeatmap(document.getElementById("heat"), HEAT);
+
+// ウォッチリスト
+(function () {
+  var el = document.getElementById("watch");
+  WATCH.forEach(function (w) {
+    var up = w.chg >= 0;
+    var row = document.createElement("div");
+    row.style.cssText = "display:flex;align-items:center;gap:14px;padding:9px 4px;border-bottom:1px solid var(--line);font-size:22px";
+    row.innerHTML = '<span class="num" style="color:var(--muted);width:70px">' + w.sym + '</span>' +
+      '<span style="flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">' + w.name + '</span>' +
+      '<span class="num">' + w.price + '</span>' +
+      '<span class="num" style="width:96px;text-align:right;color:' + (up ? "var(--up-2)" : "var(--down-2)") + '">' +
+      (up ? "+" : "") + w.chg.toFixed(2) + '%</span>';
+    el.appendChild(row);
+  });
+})();
+
+// 下部サマリー
+(function () {
+  var el = document.getElementById("idx");
+  INDEX.forEach(function (i) {
+    var up = i.chg >= 0;
+    var d = document.createElement("div");
+    d.style.cssText = "display:flex;flex-direction:column;gap:2px";
+    d.innerHTML = '<span style="font-size:18px;letter-spacing:.16em;color:var(--muted)">' + i.label + '</span>' +
+      '<span><span class="num" style="font-size:32px">' + i.value + '</span>' +
+      '<span class="num" style="font-size:24px;margin-left:12px;color:' + (up ? "var(--up-2)" : "var(--down-2)") + '">' +
+      (up ? "▲ +" : "▼ ") + i.chg.toFixed(2) + '%</span></span>';
+    el.appendChild(d);
+  });
+})();
+</script>
+
+<div id="wm">SAMPLE</div>
+<style>
+  #wm { position:absolute; inset:0; z-index:99; pointer-events:none;
+    display:flex; align-items:center; justify-content:center;
+    font:700 90px/1 "Segoe UI",sans-serif; letter-spacing:.4em;
+    color:rgba(255,255,255,.10); transform:rotate(-14deg); }
+</style>
+</body>
+</html>

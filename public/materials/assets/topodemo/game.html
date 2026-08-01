@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>メイン画面 | 地形図テーマ</title>
+<link rel="stylesheet" href="_map.css">
+<style>
+  /* ゲーム／画面キャプチャの窓（地図の図郭に見立てた枠） */
+  #screen { left:34px; top:96px; width:1330px; height:790px; }
+  #screen .head { justify-content:space-between; }
+  #screen .inner { position:absolute; inset:47px 0 0 0;
+    display:flex; align-items:center; justify-content:center;
+    color:#8a8a8a; font-size:20px; letter-spacing:.2em; }
+
+  /* コメント欄（凡例パネル風） */
+  #chat { right:34px; top:96px; width:518px; height:578px; display:flex; flex-direction:column; }
+  #chat .list { flex:1; overflow:hidden; display:flex; flex-direction:column;
+    justify-content:flex-end; padding:14px 20px; gap:12px; }
+  #chat .item { font-size:22px; line-height:1.5; padding-bottom:10px;
+    border-bottom:1px dashed rgba(58,58,58,.32); }
+  #chat .item b { color:var(--note); }
+
+  /* 凡例 */
+  #legend { right:34px; top:690px; width:518px; height:196px; }
+  #legend .body { padding:12px 20px; }
+
+  /* 上の帯（タイトル） */
+  #title { position:absolute; left:34px; top:24px; display:flex; align-items:center; gap:18px; }
+  #title .badge { background:var(--panel); border:3px solid var(--panel-line);
+    padding:6px 22px; font-family:var(--map-font); font-size:30px; letter-spacing:.3em; }
+  #title .en { color:var(--note); font-size:18px; letter-spacing:.24em; }
+
+  /* 右上の座標・時刻 */
+  #meta { position:absolute; right:34px; top:30px; font-family:var(--map-font);
+    font-size:20px; letter-spacing:.1em; color:#4a4a4a; }
+
+  /* 下の帯 */
+  #foot { position:absolute; left:34px; right:34px; bottom:26px;
+    display:flex; align-items:flex-end; justify-content:space-between; }
+  #foot .note { font-size:19px; letter-spacing:.14em; color:#4a4a4a; }
+</style>
+</head>
+<body data-pagefind-ignore>
+<div id="map" class="drift"></div>
+<div class="haze"></div>
+
+<div id="title">
+  <span class="badge place" id="titleText"></span>
+  <span class="en" id="titleEn"></span>
+</div>
+<div id="meta"><span id="coord"></span> ／ <span id="clock"></span></div>
+
+<div class="frame" id="screen">
+  <div class="head"><span>ゲーム画面 <span class="en">MAP AREA</span></span><span class="en" id="scale">1 : 25,000</span></div>
+  <div class="inner">この枠にゲーム画面・キャプチャを重ねてください</div>
+</div>
+
+<div class="frame" id="chat">
+  <div class="head">コメント <span class="en">COMMENTS</span></div>
+  <div class="list" id="chatList"></div>
+</div>
+
+<div class="frame" id="legend">
+  <div class="head">凡例 <span class="en">LEGEND</span></div>
+  <div class="body legend">
+    <div class="row"><span class="sw"></span>計曲線（50m）</div>
+    <div class="row"><span class="sw thin"></span>主曲線（10m）</div>
+    <div class="row"><span class="sw road"></span>おもな道路　<span class="sw trail"></span>徒歩道</div>
+  </div>
+</div>
+
+<div id="foot">
+  <div class="scalebar"><i></i><i></i><i></i><i></i><span style="margin-left:10px">500m</span></div>
+  <div class="note" id="footNote"></div>
+  <div class="north">N<br><svg width="24" height="38" viewBox="0 0 26 42"><path d="M13,2 L21,38 L13,30 L5,38 Z" fill="var(--ink)"/></svg></div>
+</div>
+
+<script src="_map.js"></script>
+<script>
+/* ============ ここを編集して自分好みにできます ============ */
+var TITLE    = "本日の行程";           // 左上の見出し
+var TITLE_EN = "TODAY'S ROUTE";
+var COORD    = "N 34°54′ E 139°05′";  // 右上の座標風の文字
+var FOOT     = "配信中 ／ ON AIR";      // 下の帯の文字
+var MAP_SEED = 19;                     // 地形の形（数字を変えると地形が変わります）
+var SHOW_CLOCK = true;                 // 右上に時計を出す
+/* ======================================================== */
+
+document.getElementById("titleText").textContent = TITLE;
+document.getElementById("titleEn").textContent = TITLE_EN;
+document.getElementById("coord").textContent = COORD;
+document.getElementById("footNote").textContent = FOOT;
+
+var NS = "http://www.w3.org/2000/svg";
+var svg = document.createElementNS(NS, "svg");
+svg.setAttribute("viewBox", "0 0 1920 1080");
+svg.setAttribute("width", 1920); svg.setAttribute("height", 1080);
+document.getElementById("map").appendChild(svg);
+drawTopoMap(svg, 1920, 1080, {seed: MAP_SEED, hills: 13, peakX: 0.24, peakY: 0.62});
+
+/* 時計 */
+(function () {
+  var el = document.getElementById("clock");
+  if (!SHOW_CLOCK) { el.parentNode.textContent = COORD; return; }
+  var f = function () {
+    var d = new Date(), p = function (v) { return ("0" + v).slice(-2); };
+    el.textContent = p(d.getHours()) + ":" + p(d.getMinutes());
+  };
+  f(); setInterval(f, 5000);
+})();
+
+/* コメント欄のサンプル表示（実際のコメントはチャットのブラウザソースを重ねてください） */
+(function () {
+  var list = document.getElementById("chatList");
+  var demo = [
+    ["みかん", "こんばんは〜"], ["こけし", "この地形すき"], ["yama", "初見です"],
+    ["ぷに", "尾根づたいに行けそう"], ["hato", "88888"], ["まめ", "地図きれい"],
+    ["ながぐつ", "ナイス！"], ["shio", "つぎどこ行く？"]
+  ];
+  var i = 0;
+  var push = function () {
+    var c = demo[i++ % demo.length];
+    var d = document.createElement("div");
+    d.className = "item";
+    var b = document.createElement("b"); b.textContent = c[0] + " ";
+    d.appendChild(b); d.appendChild(document.createTextNode(c[1]));
+    list.appendChild(d);
+    while (list.children.length > 9) list.removeChild(list.firstChild);
+  };
+  for (var k = 0; k < 5; k++) push();
+  setInterval(push, 2600);
+})();
+</script>
+
+<div id="wm">SAMPLE</div>
+<style>
+  #wm { position:absolute; inset:0; z-index:99; pointer-events:none;
+    display:flex; align-items:center; justify-content:center; flex-wrap:wrap;
+    font:700 84px/2.6 "Segoe UI",sans-serif; letter-spacing:.4em;
+    color:rgba(90,75,45,.13); transform:rotate(-16deg) scale(1.5); word-spacing:2em; }
+</style>
+</body>
+</html>

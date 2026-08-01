@@ -1,0 +1,190 @@
+---
+// このページは obs-materials/site/ が編集元です（scripts/deploy-to-geopinning.md 参照）
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ナンバープレート風 時計 | nanja素材</title>
+<meta name="description" content="欧州のナンバープレート風デザインのOBS用時計素材（無料配布）。デザイン4種から選ぶだけ・フォント不要・透過背景。このページで実際に動いている時計をそのまま確認できます。">
+<!-- 外部リクエストなし: フォントはシステムフォントのみ、解析タグなし -->
+<link rel="stylesheet" href="/materials/assets/site.css">
+<style is:global>
+  /* この商品ページ専用: 時計デモの並べ方 */
+  .clock-stage { background:#5a5f52; background-image:
+      linear-gradient(45deg, rgba(255,255,255,.05) 25%, transparent 25%, transparent 75%, rgba(255,255,255,.05) 75%),
+      linear-gradient(45deg, rgba(255,255,255,.05) 25%, transparent 25%, transparent 75%, rgba(255,255,255,.05) 75%);
+      background-size:48px 48px; background-position:0 0, 24px 24px;
+      border:2px solid var(--ink); box-shadow:5px 6px 0 rgba(74,63,51,.15);
+      padding:26px; margin-top:30px; }
+  .clock-stage p.cap { color:#fff; font-size:.9rem; margin-bottom:14px; opacity:.9; }
+  .clock-row { display:flex; flex-wrap:wrap; gap:22px; justify-content:center; }
+  .clock-item { width:406px; text-align:center; }
+  .clock-item .fr { width:406px; height:86px; overflow:hidden; }
+  .clock-row iframe { border:0; width:780px; height:165px; display:block;
+    transform:scale(.52); transform-origin:0 0; }
+  .clock-item span { display:block; color:#fff; font-size:.85rem; margin-top:12px; opacity:.92; }
+  .clock-item code { font-family:Consolas,Monaco,monospace; font-size:.8rem;
+    background:rgba(255,255,255,.14); padding:2px 8px; }
+  .opts { width:100%; border-collapse:collapse; margin-top:26px; background:#fffdf6;
+    border:2px solid var(--ink); box-shadow:4px 5px 0 rgba(74,63,51,.14); }
+  .opts th, .opts td { border-bottom:1px solid rgba(74,63,51,.2); padding:11px 16px;
+    text-align:left; font-size:.95rem; vertical-align:top; }
+  .opts th { background:var(--paper-dark); letter-spacing:.1em; }
+  .opts code { font-family:Consolas,Monaco,monospace; background:var(--paper-dark);
+    padding:1px 7px; border:1px solid rgba(74,63,51,.25); font-size:.88rem; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="brand"><a href="/materials/">nanja<span>素材</span></a></div>
+    <nav>
+      <a href="https://geopinning.space/" class="back">← GeoGuessrの攻略めも</a>
+            <a href="/materials/#catalog">素材一覧</a>
+      <a href="/materials/#shops">ショップ</a>
+      <a href="/materials/#faq">FAQ</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <p class="crumb"><a href="/materials/">nanja素材</a> ＞ ナンバープレート風 時計</p>
+  </div>
+
+  <section id="demo">
+    <div class="wrap">
+      <span class="tape-title">ナンバープレート風 時計</span>
+      <p class="lead">ヨーロッパのナンバープレートをモチーフにした、配信画面に置ける時計を<strong>無料配布</strong>しています。<strong>デザインごとにHTMLファイルが分かれている</strong>ので、好きな1つをOBSのブラウザソースで読み込むだけで使えます（設定の入力は不要）。下の時計は実際に今動いています。</p>
+
+      <div class="clock-stage">
+        <p class="cap">※ 市松模様の部分は透過です。デモにはSAMPLEの透かしが入っています</p>
+        <div class="clock-row">
+          <div class="clock-item">
+            <div class="fr"><iframe src="/materials/assets/clockdemo/demo1.html" title="白地・時刻と日付" loading="lazy" scrolling="no"></iframe></div>
+            <span><code>1_白地・時刻と日付.html</code></span>
+          </div>
+          <div class="clock-item">
+            <div class="fr"><iframe src="/materials/assets/clockdemo/demo2.html" title="黄地・時刻のみ" loading="lazy" scrolling="no"></iframe></div>
+            <span><code>2_黄地・時刻のみ.html</code></span>
+          </div>
+          <div class="clock-item">
+            <div class="fr"><iframe src="/materials/assets/clockdemo/demo3.html" title="白地・秒つき" loading="lazy" scrolling="no"></iframe></div>
+            <span><code>3_白地・秒つき.html</code></span>
+          </div>
+          <div class="clock-item">
+            <div class="fr"><iframe src="/materials/assets/clockdemo/demo4.html" title="黒地・ON AIR" loading="lazy" scrolling="no"></iframe></div>
+            <span><code>4_黒地・ONAIR.html</code></span>
+          </div>
+        </div>
+      </div>
+      <p class="note">※ 配布版は透かしなしです。表示サイズは自由に拡大でき、拡大しても文字がぼやけません（SVGで描いているため）。</p>
+    </div>
+  </section>
+
+  <section id="contents">
+    <div class="wrap">
+      <span class="tape-title">この素材の特長</span>
+      <ul class="contents">
+        <li><b>選んで読み込むだけ</b><small>デザインごとにファイルが分かれています。設定を打ち込む必要はありません</small></li>
+        <li><b>フォントのインストール不要</b><small>書体はすべて自作のSVGで描画。どのPCでも同じ見た目になります</small></li>
+        <li><b>拡大してもぼやけない</b><small>ベクターなので、画面の端に小さく置いても大きく見せてもきれい</small></li>
+        <li><b>3つの地色</b><small>白地・黄地・黒地。青帯の国コードは自由に変更できます</small></li>
+        <li><b>区切りを選べる</b><small>12:34 / 12·34 / 12-34 の3種類。秒の表示も切替可能</small></li>
+        <li><b>右の小窓が使える</b><small>月・年の表示か、「ON AIR」など好きな2行の文字を入れられます</small></li>
+        <li><b>透過背景</b><small>ブラウザソースに入れるだけ。プレート部分だけが表示されます</small></li>
+        <li><b>外部通信なし</b><small>時刻はPCのローカル時刻。ネットに何も送信しません</small></li>
+        <li><b>色のカスタマイズ対応</b><small>HTML内の色コードを書き換えれば、地色や文字色を自由に変更できます</small></li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="options">
+    <div class="wrap">
+      <span class="tape-title">同梱ファイル</span>
+      <p class="lead">この4つから使いたいものを選んでOBSに読み込むだけです。あとから別のデザインに変えるのも、ブラウザソースで選び直すだけ。</p>
+      <table class="opts">
+        <tr><th style="width:280px">ファイル名</th><th>デザイン</th></tr>
+        <tr><td><code>1_白地・時刻と日付.html</code></td><td>白地／国コード「D」／右の小窓に月・年</td></tr>
+        <tr><td><code>2_黄地・時刻のみ.html</code></td><td>黄地／国コード「L」／中黒区切り（12·34）</td></tr>
+        <tr><td><code>3_白地・秒つき.html</code></td><td>白地／国コード「F」／秒まで表示（12:34:56）</td></tr>
+        <tr><td><code>4_黒地・ONAIR.html</code></td><td>黒地／青帯なし／右の小窓に「ON AIR」</td></tr>
+      </table>
+
+      <h3 style="margin-top:40px;font-size:1.15rem">自分好みに変えることもできます（任意）</h3>
+      <p class="lead" style="margin-top:10px">各HTMLをメモ帳で開くと、下のほうに設定のブロックがあります。ここを書き換えれば、地の色・国コード・区切り記号・秒の表示・右の小窓の中身を変えられます。<strong>書き換えなくてもそのまま使えます。</strong></p>
+      <table class="opts">
+        <tr><th style="width:130px">項目</th><th style="width:280px">指定できる値</th><th>説明</th></tr>
+        <tr><td><code>theme</code></td><td><code>"white"</code> / <code>"yellow"</code> / <code>"black"</code></td><td>地の色</td></tr>
+        <tr><td><code>country</code></td><td><code>"D"</code> <code>"F"</code> <code>"L"</code> <code>"NL"</code> など／<code>"EU"</code>／<code>"none"</code></td><td>左の青帯に出す文字</td></tr>
+        <tr><td><code>sep</code></td><td><code>"colon"</code> / <code>"dot"</code> / <code>"dash"</code></td><td>時と分の区切り記号</td></tr>
+        <tr><td><code>sec</code></td><td><code>true</code> / <code>false</code></td><td>秒まで表示するか</td></tr>
+        <tr><td><code>sub</code></td><td><code>"date"</code> / <code>"text"</code> / <code>"none"</code></td><td>右端の小窓の内容</td></tr>
+        <tr><td><code>subtext</code></td><td>例 <code>"ON,AIR"</code></td><td>小窓に出す文字（カンマで2行）</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <section id="get">
+    <div class="wrap">
+      <span class="tape-title">ダウンロード（無料）</span>
+      <div class="shops">
+        <div class="shop">
+          <div class="ribbon">無料</div>
+          <h3>FANBOX</h3>
+          <p>無料公開の投稿からダウンロードできます（フォロー不要）。新素材のお知らせも届きます。</p>
+          <!-- TODO: FANBOXの無料公開投稿を作成後、URLを差し替える -->
+          <a class="cta" href="https://nanjakorewa.fanbox.cc/" target="_blank" rel="noopener">FANBOXで受け取る</a>
+        </div>
+        <div class="shop booth">
+          <div class="ribbon">無料</div>
+          <h3>BOOTH</h3>
+          <p>0円のDL商品としても配布します。BOOTHのライブラリに入れておきたい方はこちら。</p>
+          <!-- TODO: BOOTHの0円商品ページを作成後、URLを差し替える -->
+          <a class="cta sub" href="https://nanjakorewa.booth.pm/" target="_blank" rel="noopener">BOOTHで受け取る</a>
+        </div>
+      </div>
+      <p class="note">※ 無料・収益化配信OK・クレジット表記不要。素材ファイルそのものの再配布・再販売のみ禁止です。</p>
+    </div>
+  </section>
+
+  <section id="setup">
+    <div class="wrap">
+      <span class="tape-title">ダウンロード後のセットアップ手順</span>
+
+      <ol class="howto">
+        <li>
+          <b class="t">zipを解凍して置き場所を決める</b>
+          <p>解凍して出てきたフォルダを <span class="path">C:\OBS素材\nanja-plate-clock01</span> に置きます。フォルダを移動すると表示されなくなるので、先に場所を決めてください。</p>
+        </li>
+        <li>
+          <b class="t">OBSにブラウザソースとして追加する</b>
+          <p>「ソース」→「＋」→<strong>ブラウザ</strong>を追加し、「ローカルファイル」にチェックを入れて、<span class="path">clock</span> フォルダの中から<strong>使いたいデザインのHTMLを1つ選びます</strong>。</p>
+        </li>
+        <li>
+          <b class="t">サイズを合わせる</b>
+          <p>幅 <span class="path">780</span> / 高さ <span class="path">165</span> に設定すると、実物のプレートと同じ比率になります。あとは好きな位置にドラッグしてください。</p>
+        </li>
+        <li>
+          <b class="t">別のデザインに変えたいとき</b>
+          <p>ブラウザソースのプロパティを開き、別のHTMLファイルを選び直すだけです。細かく調整したい場合は、HTMLをメモ帳で開いて上の表のとおり設定を書き換え、ソースを右クリック →「更新」で反映されます。</p>
+        </li>
+      </ol>
+      <p class="note">※ 本素材は「ナンバープレート風のデザイン」であり、実在の車両登録番号ではありません。特定の国・機関の公式な書体データは使用しておらず、書体は独自に描き起こしたものです。</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>nanja素材 — すべて自作のOBS配信デザインを配布・販売しています。</p>
+    <p>このサイトは静的ページです。Cookie・解析タグ・外部フォントを使用していません。</p>
+  </div>
+</footer>
+
+</body>
+</html>

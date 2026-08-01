@@ -1,0 +1,270 @@
+---
+// このページは obs-materials/site/ が編集元です（scripts/deploy-to-geopinning.md 参照）
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>地形図配信セット | nanja素材</title>
+<meta name="description" content="地図・等高線をモチーフにしたOBS配信画面セット。等高線はプログラムで描画され、数字ひとつで地形が変わります。トランジションもこのページで動かして試せます。">
+<!-- 外部リクエストなし: フォントはシステムフォントのみ、解析タグなし -->
+<link rel="stylesheet" href="/materials/assets/site.css">
+<style is:global>
+  .shots { display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:24px; margin-top:30px; }
+  .shot { border:2px solid var(--ink); background:#fbf8f0; box-shadow:4px 5px 0 rgba(74,63,51,.15); }
+  .shot img { width:100%; display:block; }
+  .shot p { border-top:var(--stitch); padding:10px 14px; font-size:.95rem; }
+  .shot p b { display:block; }
+  .shot p span { font-size:.82rem; opacity:.75; }
+
+  /* 配信画面シミュレーター（実物と同じHTMLの簡略版を動かしています） */
+  .stage { background:#fbf8f0; }
+  .stage .zoom { position:absolute; left:0; top:0; width:1920px; height:1080px;
+    transform-origin:0 0; }
+  .stage .zoom iframe { position:absolute; left:0; top:0; width:1920px; height:1080px;
+    border:0; opacity:0; transition:none; }
+  .stage .zoom iframe.on { opacity:1; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="brand"><a href="/materials/">nanja<span>素材</span></a></div>
+    <nav>
+      <a href="https://geopinning.space/" class="back">← GeoGuessrの攻略めも</a>
+            <a href="/materials/#catalog">素材一覧</a>
+      <a href="/materials/#shops">ショップ</a>
+      <a href="/materials/#faq">FAQ</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <p class="crumb"><a href="/materials/">nanja素材</a> ＞ 地形図配信セット</p>
+  </div>
+
+  <section id="demo">
+    <div class="wrap">
+      <span class="tape-title">ライブデモ：配信画面シミュレーター</span>
+      <p class="lead">シーンボタンを押すと、実物のトランジションが再生されて画面が切り替わります。<strong>下の画面は実物と同じHTMLがそのまま動いています</strong>（背景の地図がゆっくり流れ、時計とコメントも動きます）。</p>
+
+      <div class="sim-panel">
+        <div class="sim-controls">
+          <div class="ctrl-group">
+            <b>シーン切替</b>
+            <button data-scene="0" class="on">待機</button>
+            <button data-scene="1">メイン画面</button>
+            <button data-scene="2">休憩</button>
+            <button data-scene="3">終了</button>
+          </div>
+        </div>
+
+        <div class="stage-outer">
+          <div class="stage" id="stage">
+            <div class="zoom" id="zoom">
+              <iframe class="on" data-i="0" src="/materials/assets/topodemo/info.html?mode=start" title="待機画面" loading="lazy" scrolling="no"></iframe>
+              <iframe data-i="1" src="/materials/assets/topodemo/game.html" title="メイン画面" loading="lazy" scrolling="no"></iframe>
+              <iframe data-i="2" src="/materials/assets/topodemo/info.html?mode=break" title="休憩" loading="lazy" scrolling="no"></iframe>
+              <iframe data-i="3" src="/materials/assets/topodemo/info.html?mode=end" title="終了" loading="lazy" scrolling="no"></iframe>
+            </div>
+            <video id="transitionVideo" muted playsinline preload="auto"></video>
+          </div>
+        </div>
+        <p class="note">※ デモはSAMPLE透かし入り・等高線を粗く描いた軽量版です。販売版はフルHD・透かしなしで、線もより細かく描かれます。</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="preview">
+    <div class="wrap">
+      <span class="tape-title">各シーンの見た目</span>
+      <p class="lead">地図と等高線をモチーフにした、落ち着いた配信画面一式です。<strong>等高線は画像ではなくプログラムで描いている</strong>ため、設定の数字をひとつ変えるだけで山や谷の形がまるごと変わります。</p>
+      <div class="shots">
+        <div class="shot">
+          <img src="/materials/assets/img/topo_game.jpg" alt="メイン画面">
+          <p><b>メイン画面</b><span>画面キャプチャの枠＋コメント欄＋凡例パネル＋時計</span></p>
+        </div>
+        <div class="shot">
+          <img src="/materials/assets/img/topo_start.jpg" alt="待機画面">
+          <p><b>待機画面</b><span>「まもなく出発」。図郭・方位・スケールバー付き</span></p>
+        </div>
+        <div class="shot">
+          <img src="/materials/assets/img/topo_break.jpg" alt="休憩画面">
+          <p><b>休憩</b><span>「小休止」。地形の形も画面ごとに変えられます</span></p>
+        </div>
+        <div class="shot">
+          <img src="/materials/assets/img/topo_end.jpg" alt="終了画面">
+          <p><b>終了</b><span>「下山しました」</span></p>
+        </div>
+      </div>
+      <p class="note">※ プレビューは透かし入りの縮小版です。販売版はフルHD・透かしなしで、地図がゆっくり流れ、時計も動きます。</p>
+    </div>
+  </section>
+
+  <section id="transitions">
+    <div class="wrap">
+      <span class="tape-title">同梱トランジション</span>
+      <p class="lead">マウスを乗せると再生されます。等高線の輪が中心から広がり、地図の紙面が画面を覆います。</p>
+      <div class="t-grid" id="tGrid">
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/topo_contour.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>等高線トランジション</b><span class="hint">輪が広がって覆う。マウスを乗せると再生（1.5秒）</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contents">
+    <div class="wrap">
+      <span class="tape-title">セット内容</span>
+      <ul class="contents">
+        <li><b>オーバーレイ 4シーン（HTML）</b><small>待機・メイン画面・休憩・終了</small></li>
+        <li><b>スティンガートランジション</b><small>等高線が広がる透過webm（1.5秒）</small></li>
+        <li><b>OBSシーンコレクション</b><small>インポートするだけで全シーン・トランジション設定済み</small></li>
+        <li><b>等高線の自動生成</b><small>数字を変えるだけで地形が変わります。同じ数字なら毎回同じ地形</small></li>
+        <li><b>ゆっくり流れる背景</b><small>止めることもできます（クラス名をひとつ消すだけ）</small></li>
+        <li><b>地図らしい飾り</b><small>三角点・標高点・方位記号・スケールバー・凡例パネル・図郭</small></li>
+        <li><b>カラーテーマ変更対応</b><small>CSSの先頭で等高線・紙・道路の色をまとめて変更できます</small></li>
+        <li><b>セットアップ手順書</b><small>インポート＋キャプチャ選択だけの簡単導入</small></li>
+      </ul>
+      <p class="note">※ 表示される等高線・地名・座標はすべて架空のもので、実在の場所の地図ではありません。実際の地図データは一切使用していません。</p>
+    </div>
+  </section>
+
+  <section id="get">
+    <div class="wrap">
+      <span class="tape-title">入手方法</span>
+      <div class="shops">
+        <div class="shop">
+          <div class="ribbon">サブスク</div>
+          <h3>FANBOX</h3>
+          <p>月額プランに加入すると、このセットを含む全セットをダウンロードできます。</p>
+          <!-- TODO: FANBOXの配布投稿を作成後、URLを差し替える -->
+          <a class="cta" href="https://nanjakorewa.fanbox.cc/" target="_blank" rel="noopener">FANBOXで受け取る</a>
+        </div>
+        <div class="shop booth">
+          <div class="ribbon">単品購入</div>
+          <h3>BOOTH</h3>
+          <p>このセットを買い切りで購入できます。アップデートは無料で再ダウンロードできます。</p>
+          <!-- TODO: BOOTH商品ページを作成後、URLを差し替える -->
+          <a class="cta sub" href="https://nanjakorewa.booth.pm/" target="_blank" rel="noopener">BOOTHで購入する</a>
+        </div>
+      </div>
+      <p class="note">※ 決済はFANBOX / BOOTH上で行われます。このサイトが個人情報を収集することはありません。</p>
+    </div>
+  </section>
+
+  <section id="setup">
+    <div class="wrap">
+      <span class="tape-title">ダウンロード後のセットアップ手順</span>
+
+      <ol class="howto">
+        <li>
+          <b class="t">zipを解凍して置き場所を決める</b>
+          <p>解凍して出てきたフォルダを <span class="path">C:\OBS素材\nanja-obs-topo-theme01</span> に置くと、設定済みのパスがそのまま使えます。</p>
+        </li>
+        <li>
+          <b class="t">OBSにシーンコレクションを取り込む</b>
+          <p>「シーンコレクション」→「インポート」で <span class="path">nanja-obs-topo-theme01.json</span> を選び、「地形図配信セット」に切り替えます。</p>
+        </li>
+        <li>
+          <b class="t">映したい画面をつなぐ</b>
+          <p>「メイン画面」シーンの<strong>画面キャプチャ</strong>をダブルクリックして、映したい画面やゲームを選択します。</p>
+        </li>
+        <li>
+          <b class="t">地形の形を変える（任意）</b>
+          <p><span class="path">overlays</span> のHTMLを開き、<span class="path">MAP_SEED</span> の数字を変えると、山や谷の形がまるごと変わります。文言や座標もここで編集できます。</p>
+        </li>
+        <li>
+          <b class="t">色を変える（任意）</b>
+          <p><span class="path">overlays/_map.css</span> の先頭 <span class="path">:root</span> で、等高線・紙の色・道路の色をまとめて変更できます。</p>
+        </li>
+      </ol>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>nanja素材 — すべて自作のOBS配信デザインを配布・販売しています。</p>
+    <p>このサイトは静的ページです。Cookie・解析タグ・外部フォントを使用していません。</p>
+  </div>
+</footer>
+
+<script is:inline>
+(function () {
+  "use strict";
+
+  /* ---- 配信画面シミュレーター ---- */
+  var stage = document.getElementById("stage");
+  var zoom = document.getElementById("zoom");
+  var tVideo = document.getElementById("transitionVideo");
+  var frames = zoom ? zoom.querySelectorAll("iframe") : [];
+  var cur = 0, playing = false;
+
+  // ステージの幅に合わせて 1920x1080 を縮小表示する
+  function fit() {
+    if (!stage) return;
+    zoom.style.transform = "scale(" + (stage.clientWidth / 1920) + ")";
+  }
+  fit();
+  window.addEventListener("resize", fit);
+
+  function show(i) {
+    frames.forEach(function (f) { f.classList.toggle("on", +f.dataset.i === i); });
+    cur = i;
+  }
+
+  document.querySelectorAll("[data-scene]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var i = +btn.dataset.scene;
+      if (playing || i === cur) return;
+      document.querySelectorAll("[data-scene]").forEach(function (b) { b.classList.remove("on"); });
+      btn.classList.add("on");
+      playing = true;
+      tVideo.src = "/materials/assets/demo/topo_contour.webm";
+      tVideo.style.display = "block";
+      var swapped = false;
+      var onTime = function () {
+        if (!swapped && tVideo.currentTime >= 0.7) { swapped = true; show(i); }
+      };
+      tVideo.addEventListener("timeupdate", onTime);
+      tVideo.onended = function () {
+        tVideo.removeEventListener("timeupdate", onTime);
+        if (!swapped) show(i);
+        tVideo.style.display = "none";
+        playing = false;
+      };
+      tVideo.play().catch(function () {
+        tVideo.removeEventListener("timeupdate", onTime);
+        tVideo.style.display = "none";
+        playing = false;
+        show(i);
+      });
+    });
+  });
+
+  /* ---- トランジション単体プレビュー ---- */
+  document.querySelectorAll(".checker").forEach(function (box) {
+    var v = box.querySelector("video");
+    var play = function () {
+      if (!v.src) v.src = box.dataset.src;
+      v.currentTime = 0;
+      v.play();
+    };
+    box.addEventListener("mouseenter", play);
+    box.addEventListener("click", play);
+  });
+
+  ["tGrid", "preview", "demo"].forEach(function (id) {
+    var g = document.getElementById(id);
+    if (g) g.addEventListener("contextmenu", function (e) { e.preventDefault(); });
+  });
+})();
+</script>
+</body>
+</html>

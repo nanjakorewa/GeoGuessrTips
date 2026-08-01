@@ -6,6 +6,7 @@ import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
+import MaterialsBanner from "@components/MaterialsBanner.astro";
 import HeroSlideshow from "@components/HeroSlideshow.astro";
 import type { Language } from "@lib/i18n-utils";
 
@@ -200,6 +201,8 @@ if (japanEntry) {
             <p class="mb-0">{t("homepage_booth_caption", lang)}</p>
           </a>
         </div>
+
+        <MaterialsBanner lang={lang} />
       </div>
     </div>
   </section>

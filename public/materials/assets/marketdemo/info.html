@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>待機・休憩・終了 | nanja素材</title>
+<link rel="stylesheet" href="_common.css">
+<style>
+  /* 背景のローソク足（薄く流れる） */
+  #bgchart { position:absolute; left:0; bottom:0; width:100%; height:62%; opacity:.22; }
+  .center { position:absolute; inset:0; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; gap:26px; z-index:3; }
+  .board { background:var(--panel); border:2px solid var(--line); padding:52px 92px; text-align:center;
+    box-shadow:0 20px 60px rgba(0,0,0,.55); position:relative; }
+  .board::before { content:""; position:absolute; left:0; right:0; top:0; height:6px; background:var(--up); }
+  .board.red::before { background:var(--down); }
+  .board.gold::before { background:var(--accent); }
+  .eyebrow { font-size:24px; letter-spacing:.38em; color:var(--muted); margin-bottom:18px; }
+  .headline { font-size:78px; font-weight:700; letter-spacing:.06em; }
+  .sub { font-size:26px; color:var(--muted); margin-top:18px; letter-spacing:.1em; }
+  /* 予定表 */
+  .sched { margin-top:34px; display:flex; gap:0; flex-direction:column; min-width:760px; }
+  .sched .row { display:flex; align-items:center; gap:22px; padding:12px 8px;
+    border-bottom:1px solid var(--line); font-size:26px; }
+  .sched .row .t { color:var(--accent); width:120px; }
+  .sched .row .d { color:var(--text); }
+</style>
+</head>
+<body data-pagefind-ignore>
+<div class="bg"></div>
+<canvas id="bgchart" width="1920" height="670"></canvas>
+
+<div class="topbar">
+  <div style="display:flex;align-items:center;gap:26px;padding-left:28px;width:100%">
+    <span class="tag" id="tagEl"><b id="tagText">STANDBY</b></span>
+    <span class="num" id="clock" style="margin-left:auto;padding-right:28px;font-size:24px;color:var(--muted)"></span>
+  </div>
+</div>
+
+<div class="center">
+  <div class="board" id="board">
+    <div class="eyebrow" id="eyebrow"></div>
+    <div class="headline" id="headline"></div>
+    <div class="sub" id="sub"></div>
+  </div>
+  <div class="sched" id="sched"></div>
+</div>
+
+<div class="ticker" id="ticker"></div>
+
+<script src="_common.js"></script>
+<script>
+/* ============ ここを編集して自分好みにできます ============
+   URLの ?mode= で表示を切り替えます
+     ?mode=start … 待機画面 / ?mode=break … 休憩 / ?mode=end … 終了
+   ======================================================== */
+var MODES = {
+  start: {
+    tag:"STANDBY", eyebrow:"MARKET STREAM", headline:"まもなく配信を開始します",
+    sub:"チャートを見ながらのんびり話します", accent:"",
+    sched:[ {t:"09:00", d:"寄り付きの確認"}, {t:"09:30", d:"注目銘柄をチェック"},
+            {t:"10:30", d:"質問コーナー"},   {t:"11:30", d:"前場のまとめ"} ]
+  },
+  break: {
+    tag:"BREAK", eyebrow:"INTERMISSION", headline:"少し休憩します",
+    sub:"5分ほどで戻ります", accent:"gold", sched:[]
+  },
+  end: {
+    tag:"CLOSED", eyebrow:"MARKET CLOSED", headline:"本日もおつかれさまでした",
+    sub:"チャンネル登録・フォローしてもらえるとうれしいです", accent:"red", sched:[]
+  }
+};
+var TICKER_ITEMS = [
+  {sym:"NIKKEI", price:"38,420", chg:+0.82}, {sym:"TOPIX", price:"2,714", chg:+0.55},
+  {sym:"S&P500", price:"5,388", chg:-0.34},  {sym:"NASDAQ", price:"17,204", chg:-0.61},
+  {sym:"USDJPY", price:"152.38", chg:+0.21}, {sym:"GOLD", price:"2,338", chg:+1.12},
+  {sym:"BTC", price:"64,120", chg:+2.35}
+];
+/* ======================================================== */
+
+var mode = (location.search.match(/mode=(\w+)/) || [])[1] || "start";
+var M = MODES[mode] || MODES.start;
+document.getElementById("tagText").textContent = M.tag;
+document.getElementById("eyebrow").textContent = M.eyebrow;
+document.getElementById("headline").textContent = M.headline;
+document.getElementById("sub").textContent = M.sub;
+if (M.accent) {
+  document.getElementById("board").classList.add(M.accent);
+  document.getElementById("tagEl").classList.add(M.accent);
+}
+(function () {
+  var s = document.getElementById("sched");
+  M.sched.forEach(function (r) {
+    var d = document.createElement("div");
+    d.className = "row";
+    d.innerHTML = '<span class="t num">' + r.t + '</span><span class="d">' + r.d + '</span>';
+    s.appendChild(d);
+  });
+})();
+startClock(document.getElementById("clock"));
+buildTicker(document.getElementById("ticker"), TICKER_ITEMS);
+drawCandles(document.getElementById("bgchart"), {count:90, seed:mode === "end" ? 41 : 11, drift:mode === "end" ? -0.05 : 0.1});
+</script>
+
+<div id="wm">SAMPLE</div>
+<style>
+  #wm { position:absolute; inset:0; z-index:99; pointer-events:none;
+    display:flex; align-items:center; justify-content:center;
+    font:700 90px/1 "Segoe UI",sans-serif; letter-spacing:.4em;
+    color:rgba(255,255,255,.10); transform:rotate(-14deg); }
+</style>
+</body>
+</html>

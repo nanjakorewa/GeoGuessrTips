@@ -1,0 +1,325 @@
+---
+// このページは obs-materials/site/ が編集元です（scripts/deploy-to-geopinning.md 参照）
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>シンプルOBSデザインその１ | nanja素材</title>
+<meta name="description" content="OBS配信セット「シンプルOBSデザインその１」。トランジションもオーバーレイも、このページでそのまま動かして確認できます。">
+<!-- 外部リクエストなし: フォントはシステムフォントのみ、解析タグなし -->
+<link rel="stylesheet" href="/materials/assets/site.css">
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="brand"><a href="/materials/">nanja<span>素材</span></a></div>
+    <nav>
+      <a href="https://geopinning.space/" class="back">← GeoGuessrの攻略めも</a>
+            <a href="/materials/#catalog">素材一覧</a>
+      <a href="/materials/#shops">ショップ</a>
+      <a href="/materials/#faq">FAQ</a>
+      <a href="/materials/en/products/nanja-obs-simple-theme01/">EN</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <p class="crumb"><a href="/materials/">nanja素材</a> ＞ シンプルOBSデザインその１</p>
+  </div>
+
+  <section id="demo">
+    <div class="wrap">
+      <span class="tape-title">シンプルOBSデザインその１：ライブデモ</span>
+      <p class="lead">シーンボタンを押すと、実物のスティンガートランジションが再生されて画面が切り替わります。トランジションの種類や、縦型（ショート配信用）への切り替えも試せます。</p>
+
+      <div class="sim-panel">
+        <div class="sim-controls">
+          <div class="ctrl-group">
+            <b>シーン切替</b>
+            <button data-scene="start" class="on">待機</button>
+            <button data-scene="game">ゲーム</button>
+            <button data-scene="break">休憩</button>
+            <button data-scene="end">終了</button>
+          </div>
+          <div class="ctrl-group">
+            <b>トランジション</b>
+            <button data-t="wipe" class="on">ワイプ</button>
+            <button data-t="diamond">ダイヤ</button>
+            <button data-t="zigzag">ジグザグ</button>
+          </div>
+          <div class="ctrl-group">
+            <b>画面の向き</b>
+            <button data-o="h" class="on">横型 16:9</button>
+            <button data-o="v">縦型 9:16</button>
+          </div>
+        </div>
+
+        <div class="stage-outer">
+          <div class="stage" id="stage">
+            <!-- 待機 -->
+            <div class="scene active" data-name="start">
+              <div class="paper-bg"></div>
+              <div class="deco-strip top"></div><div class="deco-strip bottom"></div>
+              <div class="big-msg">まもなくはじまるよ</div>
+              <div class="sub-msg">STARTING SOON</div>
+            </div>
+            <!-- ゲーム -->
+            <div class="scene" data-name="game">
+              <div class="paper-bg"></div>
+              <div class="title-tag">マリオカートやってます</div>
+              <div class="game-frame"><div class="fake-game"></div></div>
+              <div class="chat-panel">
+                <div class="chat-head">コメント</div>
+                <div class="chat-list" id="chatList"></div>
+              </div>
+            </div>
+            <!-- 休憩 -->
+            <div class="scene" data-name="break">
+              <div class="paper-bg"></div>
+              <div class="deco-strip top"></div><div class="deco-strip bottom"></div>
+              <div class="big-msg">きゅうけいちゅう ☕</div>
+              <div class="sub-msg">BE RIGHT BACK</div>
+            </div>
+            <!-- 終了 -->
+            <div class="scene" data-name="end">
+              <div class="paper-bg"></div>
+              <div class="deco-strip top"></div><div class="deco-strip bottom"></div>
+              <div class="big-msg">おつかれさまでした！</div>
+              <div class="sub-msg">THANKS FOR WATCHING</div>
+            </div>
+
+            <div class="watermark" aria-hidden="true">SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE SAMPLE</div>
+            <video id="transitionVideo" muted playsinline preload="auto"></video>
+          </div>
+        </div>
+        <p class="note">※ デモは低解像度・SAMPLE透かし入りの簡略版です。販売版はフルHD（横1920x1080／縦1080x1920）・透かしなし。オーバーレイ本体はさらに細かいアニメーションが入ります。</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="transitions">
+    <div class="wrap">
+      <span class="tape-title">トランジション単体プレビュー</span>
+      <p class="lead">マウスを乗せると再生されます。市松模様の部分は透過（アルファ付きwebm）で、配信画面にそのまま重なります。</p>
+      <div class="t-grid" id="tGrid">
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/transition_wipe.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>暖色ストライプの斜めワイプ</b><span class="hint">マウスを乗せると再生（1.5秒）</span></div>
+        </div>
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/transition_diamond.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>パッチワークふうダイヤ</b><span class="hint">マウスを乗せると再生（1.5秒）</span></div>
+        </div>
+        <div class="t-item">
+          <div class="checker" data-src="/materials/assets/demo/transition_zigzag.webm"><video muted playsinline preload="none"></video></div>
+          <div class="label"><b>ジグザグのカーテン</b><span class="hint">マウスを乗せると再生（1.5秒）</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contents">
+    <div class="wrap">
+      <span class="tape-title">セット内容</span>
+      <ul class="contents">
+        <li><b>オーバーレイ 8種（HTML）</b><small>待機・ゲーム3種・休憩・終了＋縦型2種。OBSのブラウザソースに入れるだけ</small></li>
+        <li><b>スティンガートランジション 6種</b><small>横型3種＋縦型3種（透過webm・各1.5秒）</small></li>
+        <li><b>OBSシーンコレクション（横・縦）</b><small>インポートするだけで全シーン・トランジション設定済み</small></li>
+        <li><b>Twitch / YouTube チャット用CSS</b><small>コメント欄をおそろいのデザインに</small></li>
+        <li><b>コメント読み上げソース</b><small>ローカルVOICEVOX連携のHTML（外部送信なし）</small></li>
+        <li><b>縦配信用プロファイル</b><small>1080x1920設定済み。ショート配信がすぐ始められる</small></li>
+        <li><b>セットアップ手順書</b><small>インポート2回＋機材選択だけの簡単導入</small></li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="get">
+    <div class="wrap">
+      <span class="tape-title">入手方法</span>
+      <div class="shops">
+        <div class="shop">
+          <div class="ribbon">サブスク</div>
+          <h3>FANBOX</h3>
+          <p>月額プランに加入すると、このセットを含む全セットをダウンロードできます。このセットの配布投稿はこちらから。</p>
+          <a class="cta" href="https://nanjakorewa.fanbox.cc/posts/12348889" target="_blank" rel="noopener">FANBOXで受け取る</a>
+        </div>
+        <div class="shop booth">
+          <div class="ribbon">単品購入</div>
+          <h3>BOOTH</h3>
+          <p>このセットを買い切りで購入できます。アップデートは無料で再ダウンロードできます。</p>
+          <a class="cta sub" href="https://nanjakorewa.booth.pm/items/8671917" target="_blank" rel="noopener">BOOTHで購入する</a>
+        </div>
+      </div>
+      <p class="note">※ 決済はFANBOX / BOOTH上で行われます。このサイトが個人情報を収集することはありません。</p>
+    </div>
+  </section>
+
+  <section id="setup">
+    <div class="wrap">
+      <span class="tape-title">ダウンロード後のセットアップ手順</span>
+      <p class="lead">zipファイルを入手したあとの流れです。OBS Studio（無料）がインストールされていれば、5分ほどで配信画面が完成します。</p>
+
+      <ol class="howto">
+        <li>
+          <b class="t">zipを解凍して、置き場所を決める</b>
+          <p>zipファイルを右クリック→「すべて展開」（Macはダブルクリック）で解凍し、出てきたフォルダを <span class="path">C:\OBS素材\nanja-obs-simple-theme01</span> に置くと、設定済みのパスがそのまま使えるのでおすすめです。<strong>あとでフォルダを移動・リネームすると画面が表示されなくなる</strong>ので、先に置き場所を決めてから次に進んでください。</p>
+        </li>
+        <li>
+          <b class="t">OBSにシーンコレクションを取り込む</b>
+          <p>OBSを起動し、上部メニューの「シーンコレクション」→「インポート」を開きます。解凍したフォルダの中の <span class="path">nanja-obs-simple-theme01.json</span> を選んで「インポート」を押します。</p>
+        </li>
+        <li>
+          <b class="t">シーンコレクションを切り替える</b>
+          <p>もう一度「シーンコレクション」メニューを開き、「シンプルOBSデザインその１」を選びます。画面左下のシーン一覧に「待機」「ゲーム」「休憩」「終了」などが並んだら成功です。トランジションもすでに設定されています。</p>
+        </li>
+        <li>
+          <b class="t">ゲーム映像をつなぐ（機材の選択だけ手動）</b>
+          <p>ゲームシーンの「Switchキャプチャ」ソースをダブルクリックし、「デバイス」でお使いのキャプチャーボードを選びます。GeoGuessrなどPCゲームのシーンは「PC画面キャプチャ」でキャプチャ方法と画面を選択してください。</p>
+        </li>
+        <li>
+          <b class="t">コメント欄を配信サイトに合わせる</b>
+          <p>Twitchの方はそのままで動きます。YouTubeで配信する時は「コメント：YouTube」ソースのプロパティを開き、URL内の動画IDを配信ごとに入れ替えて、Twitchチャットと表示を切り替えてください。</p>
+        </li>
+        <li>
+          <b class="t">映像設定を確認して完成</b>
+          <p>「設定」→「映像」の基本（キャンバス）解像度が <span class="path">1920x1080</span> になっているか確認します。配置やトランジションは設定済みなので、これで配信を開始できます。</p>
+        </li>
+      </ol>
+
+      <div class="howto-sub">
+        <b>縦型（ショート配信）を使うとき</b>
+        「プロファイル」→「インポート」で <span class="path">profiles/vertical-short</span> フォルダを選ぶとキャンバスが1080x1920になります。そのあと「シーンコレクション」→「インポート」で <span class="path">nanja-obs-simple-theme01-vertical.json</span> を取り込めば、縦型も同じ手順で使えます（配信のストリームキーは新しいプロファイル側で設定し直してください）。
+      </div>
+
+      <div class="howto-sub">
+        <b>画面が真っ白・真っ黒になるとき</b>
+        素材フォルダを移動・リネームした可能性が高いです。ブラウザソースのプロパティを開き、「ローカルファイル」のパスを今のフォルダの場所に指定し直してください。それでも解決しない場合は、同梱のREADMEのトラブルシューティングをご覧ください。
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>nanja素材 — すべて自作のOBS配信デザインを配布・販売しています。</p>
+    <p>このサイトは静的ページです。Cookie・解析タグ・外部フォントを使用していません。</p>
+  </div>
+</footer>
+
+<script is:inline>
+(function () {
+  "use strict";
+  var stage = document.getElementById("stage");
+  var tVideo = document.getElementById("transitionVideo");
+  var scenes = stage.querySelectorAll(".scene");
+  var state = { scene: "start", transition: "wipe", orientation: "h", playing: false };
+
+  function srcFor(t, o) {
+    return "/materials/assets/demo/" + (o === "v" ? "vertical_" : "transition_") + t + ".webm";
+  }
+
+  function setActive(groupSel, btn) {
+    document.querySelectorAll(groupSel).forEach(function (b) { b.classList.remove("on"); });
+    btn.classList.add("on");
+  }
+
+  function showScene(name) {
+    scenes.forEach(function (s) { s.classList.toggle("active", s.dataset.name === name); });
+    state.scene = name;
+  }
+
+  function playTransition(then) {
+    if (state.playing) return;
+    state.playing = true;
+    tVideo.src = srcFor(state.transition, state.orientation);
+    tVideo.style.display = "block";
+    var swapped = false;
+    var onTime = function () {
+      if (!swapped && tVideo.currentTime >= 0.7) { swapped = true; then(); }
+    };
+    tVideo.addEventListener("timeupdate", onTime);
+    tVideo.onended = function () {
+      tVideo.removeEventListener("timeupdate", onTime);
+      if (!swapped) then();
+      tVideo.style.display = "none";
+      state.playing = false;
+    };
+    tVideo.play().catch(function () {
+      // 自動再生できない環境ではそのまま切替
+      tVideo.removeEventListener("timeupdate", onTime);
+      tVideo.style.display = "none";
+      state.playing = false;
+      then();
+    });
+  }
+
+  // シーンボタン
+  document.querySelectorAll("[data-scene]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      if (state.playing || btn.dataset.scene === state.scene) return;
+      setActive("[data-scene]", btn);
+      playTransition(function () { showScene(btn.dataset.scene); });
+    });
+  });
+  // トランジション選択
+  document.querySelectorAll("[data-t]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      state.transition = btn.dataset.t;
+      setActive("[data-t]", btn);
+    });
+  });
+  // 向き切替
+  document.querySelectorAll("[data-o]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      state.orientation = btn.dataset.o;
+      setActive("[data-o]", btn);
+      stage.classList.toggle("vertical", state.orientation === "v");
+    });
+  });
+
+  // 偽コメントを流す
+  var chatList = document.getElementById("chatList");
+  var fakeComments = [
+    ["みかん", "こんばんは〜"], ["こけし", "画面かわいい！"], ["yama", "初見です"],
+    ["ぷに", "その角むずかしいよね"], ["hato", "888888"], ["まめ", "BGMすき"],
+    ["ながぐつ", "うまい！"], ["shio", "つぎのコースなに？"], ["くるみ", "wwww"]
+  ];
+  var ci = 0;
+  setInterval(function () {
+    if (!chatList) return;
+    var c = fakeComments[ci++ % fakeComments.length];
+    var div = document.createElement("div");
+    div.className = "chat-item";
+    var b = document.createElement("b");
+    b.textContent = c[0] + " ";
+    div.appendChild(b);
+    div.appendChild(document.createTextNode(c[1]));
+    chatList.appendChild(div);
+    while (chatList.children.length > 8) chatList.removeChild(chatList.firstChild);
+  }, 2200);
+
+  // トランジションギャラリー
+  document.querySelectorAll(".checker").forEach(function (box) {
+    var v = box.querySelector("video");
+    var play = function () {
+      if (!v.src) v.src = box.dataset.src;
+      v.currentTime = 0;
+      v.play();
+    };
+    box.addEventListener("mouseenter", play); // オンマウスで再生
+    box.addEventListener("click", play);      // タッチ端末用
+  });
+
+  // サンプル表示エリアの右クリック禁止（トランジションギャラリー＋シミュレーター画面）
+  [document.getElementById("tGrid"), stage].forEach(function (el) {
+    if (el) el.addEventListener("contextmenu", function (e) { e.preventDefault(); });
+  });
+})();
+</script>
+</body>
+</html>
