@@ -111,6 +111,8 @@ section + section { border-top: var(--stitch); }
 
 /* ショップリンク */
 .shops { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; margin-top: 34px; }
+/* ショップが1つだけのとき（横に間延びさせない） */
+.shops--single { grid-template-columns: minmax(280px, 520px); justify-content: center; }
 .shop {
   background: #fffdf6; border: 3px solid var(--ink); padding: 28px 26px; text-align: center;
   box-shadow: 6px 7px 0 rgba(74,63,51,.18); position: relative;
