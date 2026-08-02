@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ja" data-pagefind-ignore>
+<head>
+<meta charset="UTF-8">
+<!-- 検索エンジンに載せないページです（サイト内検索・sitemapからも除外） -->
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
+<meta name="googlebot" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<title>市区町村ランダム待機画面・背景透過版 | nanja素材</title>
+<link rel="stylesheet" href="_standby.css">
+<style>html, body { margin: 0; overflow: hidden; }</style>
+</head>
+<body>
+
+<div id="head">
+  <span class="badge" id="headText"></span>
+  <span class="en" id="headEn"></span>
+</div>
+<div id="meta"></div>
+
+<div class="card">
+  <div class="mapbox">
+    <div id="mapWrap" class="fade" style="width:100%;height:100%"></div>
+  </div>
+  <div class="rule"></div>
+  <div class="textbox">
+    <span class="pref fade" id="prefName"></span>
+    <span class="name fade" id="muniName"></span>
+  </div>
+</div>
+
+<div id="foot">
+  <div class="note" id="footNote"></div>
+  <div class="north">N<br><svg width="22" height="34" viewBox="0 0 26 42"><path d="M13,2 L21,38 L13,30 L5,38 Z" fill="currentColor"/></svg></div>
+</div>
+<div id="bar"><i id="barFill"></i></div>
+
+<script src="../yjyhy7piy9/_muni-data.js"></script>
+<script src="_standby.js"></script>
+<script>
+/* ===========================================================
+   OBSのブラウザソースに入れたURLの「?」以降で見た目を変えられます。
+   同梱の「URL作成ツール（透過版）」で作るのがいちばん簡単です。
+   外部への送信は一切ありません。受け取った値を表示に使うだけです。
+   =========================================================== */
+(function () {
+  "use strict";
+  var q = new URLSearchParams(window.location.search);
+  var root = document.documentElement, body = document.body;
+
+  function text(key, def, max) {
+    if (!q.has(key)) return def;
+    return String(q.get(key)).slice(0, max);
+  }
+  function num(key, def, min, max) {
+    var v = parseFloat(q.get(key));
+    if (!isFinite(v)) return def;
+    return Math.min(max, Math.max(min, v));
+  }
+  function on(key, def) {              // 表示する＝true
+    if (!q.has(key)) return def;
+    var v = q.get(key);
+    return !(v === "0" || v === "false" || v === "no");
+  }
+  // 色は「6桁または3桁の16進数」だけを受け取ります（それ以外は無視）
+  function color(key, def) {
+    var v = (q.get(key) || "").replace(/^#/, "");
+    return /^([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$/.test(v) ? "#" + v : def;
+  }
+  // フォントはあらかじめ用意した組み合わせから選びます（URLの文字列はそのまま使いません）
+  var FONTS = {
+    mincho: '"Yu Mincho","YuMincho","Hiragino Mincho ProN","BIZ UDPMincho","MS Mincho",serif',
+    gothic: '"Yu Gothic UI","Yu Gothic","Hiragino Sans","Meiryo",sans-serif',
+    ud:     '"BIZ UDPGothic","BIZ UDGothic","Yu Gothic UI","Hiragino Sans",sans-serif',
+    maru:   '"Hiragino Maru Gothic ProN","HGMaruGothicMPRO","Rounded Mplus 1c","Yu Gothic UI",sans-serif',
+    mono:   '"BIZ UDGothic","MS Gothic","Osaka-Mono",monospace'
+  };
+  function font(key, def) {
+    var v = q.get(key);
+    return FONTS[v] || FONTS[def];
+  }
+
+  /* ---------- 文字まわり ---------- */
+  root.style.setProperty("--map-font", font("font", "mincho"));
+  root.style.setProperty("--ui-font", font("uifont", "gothic"));
+  root.style.setProperty("--name-scale", num("size", 1, 0.5, 1.8));
+  var sw = num("stroke", 11, 0, 24);
+  root.style.setProperty("--stroke-w", sw + "px");
+  root.style.setProperty("--stroke-c", color("strokec", "#ffffff"));
+  if (sw <= 0) body.classList.add("no-stroke");
+
+  /* ---------- 色 ---------- */
+  root.style.setProperty("--ink", color("ink", "#1b1b1b"));
+  root.style.setProperty("--note", color("note", "#2f6b3f"));
+  root.style.setProperty("--muni-fill", color("fill", "#c2762a"));
+  root.style.setProperty("--muni-other", color("other", "#f1ead9"));
+  root.style.setProperty("--muni-line", color("line", "#9a8a6a"));
+  root.style.setProperty("--contour-bold", color("accent", "#8a6520"));
+  root.style.setProperty("--panel",
+    q.get("panel") === "none" ? "transparent" : color("panel", "rgba(255,253,246,.95)"));
+  root.style.setProperty("--panel-line",
+    q.get("panelline") === "none" ? "transparent" : color("panelline", "#3a3a3a"));
+  root.style.setProperty("--page-bg", q.has("bg") ? color("bg", "transparent") : "transparent");
+
+  /* ---------- 表示する要素 ---------- */
+  if (!on("head", true))  body.classList.add("no-head");
+  if (!on("en", true))    body.classList.add("no-en");
+  if (!on("meta", true))  body.classList.add("no-meta");
+  if (!on("map", true))   body.classList.add("no-map");
+  if (!on("pref", true))  body.classList.add("no-pref");
+  if (!on("foot", true))  body.classList.add("no-foot");
+  if (!on("north", true)) body.classList.add("no-north");
+  if (!on("ring", true))  body.classList.add("no-ring");
+  if (on("flip", false))  body.classList.add("flip");
+  if (!on("badge", true)) body.classList.add("plain-badge");
+
+  buildStandby({
+    heading:   text("h",  "まもなく開始", 24),
+    headingEn: text("he", "STARTING SOON", 32),
+    foot:      text("f",  "配信の準備をしています", 60),
+    interval:  num("i", 12, 3, 600),
+    bar:       on("bar", true),
+    menu:      on("menu", true)
+  });
+})();
+</script>
+</body>
+</html>

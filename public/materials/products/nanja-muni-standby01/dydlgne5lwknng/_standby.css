@@ -1,0 +1,136 @@
+/* ===========================================================
+   nanja素材 市区町村ランダム待機画面（背景透過版）— スタイル
+   色を変えたいときは :root の値をいじってください
+   =========================================================== */
+:root {
+  --contour:      #a9843b;   /* 等高線（主曲線） */
+  --contour-bold: #8a6520;   /* 等高線（計曲線・太い線） */
+  --road-main:    #f3e04c;   /* 主要道（黄色） */
+  --symbol:       #7a6a4a;   /* 樹木などの記号 */
+  --ink:          #1b1b1b;   /* 見出しの黒 */
+  --note:         #2f6b3f;   /* 注記の緑 */
+  --muni-fill:    #c2762a;   /* 選ばれた市区町村の塗り */
+  --muni-other:   #f1ead9;   /* まわりの市区町村の塗り */
+  --muni-line:    #9a8a6a;   /* 市区町村の境界線 */
+  --panel:        rgba(255,253,246,.95);
+  --panel-line:   #3a3a3a;
+  --map-font:     "Yu Mincho","Hiragino Mincho ProN","Noto Serif CJK JP","MS Mincho",serif;
+  --ui-font:      "Yu Gothic UI","Hiragino Sans","Noto Sans CJK JP","Meiryo",sans-serif;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html, body { width:1920px; height:1080px; overflow:hidden;
+  font-family:var(--ui-font); color:var(--ink); }
+html { background:transparent; }
+body { background:transparent; }   /* 背景は完全に透明 */
+
+/* ---- 上の帯 ---- */
+#head { position:absolute; left:60px; top:56px; display:flex; align-items:center; gap:20px; }
+#head .badge { background:var(--panel); border:3px solid var(--panel-line);
+  padding:7px 26px; font-family:var(--map-font); font-size:32px; letter-spacing:.3em; }
+#head .en { color:var(--note); font-size:19px; letter-spacing:.26em; }
+#meta { position:absolute; right:60px; top:64px; font-family:var(--map-font);
+  font-size:21px; letter-spacing:.12em; color:#4a4a4a; }
+
+/* 背景が何色でも読めるように、文字には白いふちを付ける */
+#head .en, #meta, #foot .note, .north {
+  paint-order:stroke; -webkit-text-stroke:5px rgba(255,255,255,.9);
+  text-shadow:0 1px 3px rgba(255,255,255,.9); }
+.north svg path { stroke:#fff; stroke-width:6px; paint-order:stroke; }
+
+/* ---- 中央の枠（地色もわくも無し。地図と文字だけが浮かびます） ---- */
+.card { position:absolute; left:50%; top:52%; transform:translate(-50%,-50%);
+  width:1420px; height:640px; display:flex; align-items:stretch; }
+
+/* 左：県の地図 */
+.mapbox { width:560px; flex:none; position:relative; display:flex;
+  align-items:center; justify-content:center; padding:28px 14px 28px 30px; }
+.mapbox svg { width:100%; height:100%; display:block; }
+
+/* 右：市区町村名 */
+.textbox { flex:1; display:flex; flex-direction:column; justify-content:center;
+  align-items:center; text-align:center; padding:40px 56px; }
+.textbox .pref { font-size:30px; letter-spacing:.24em; color:var(--note); }
+.textbox .name { font-family:var(--map-font); font-weight:600;
+  font-size:132px; line-height:1.22; letter-spacing:.12em; margin-top:14px;
+  word-break:keep-all; }
+.textbox .name.long  { font-size:106px; }
+.textbox .name.long2 { font-size:82px; }
+.textbox .name { paint-order:stroke; -webkit-text-stroke:11px rgba(255,255,255,.92); }
+.textbox .pref { paint-order:stroke; -webkit-text-stroke:5px  rgba(255,255,255,.92); }
+
+/* 切り替えのフェード */
+.fade { transition: opacity .45s ease; }
+.fade.out { opacity:0; }
+
+/* ---- 下の帯 ---- */
+#foot { position:absolute; left:60px; right:60px; bottom:52px;
+  display:flex; align-items:flex-end; justify-content:space-between; }
+#foot .note { font-size:20px; letter-spacing:.14em; color:#4a4a4a; }
+.north { font-family:var(--map-font); font-size:20px; text-align:center; line-height:1.1; }
+
+/* 次の切り替えまでのバー（ロード画面のような進み具合） */
+#bar { position:absolute; left:60px; right:60px; bottom:34px; height:5px;
+  background:rgba(255,255,255,.55); box-shadow:0 0 0 1px rgba(58,58,58,.3); }
+#bar i { display:block; height:100%; width:0; background:var(--contour-bold); }
+
+
+/* ===========================================================
+   秒数を変えるメニュー
+   OBSの「対話」ウィンドウで見出しにマウスを乗せたときだけ出ます。
+   配信画面にはマウス入力が届かないので本番では表示されません。
+   =========================================================== */
+#head .tappable { cursor:pointer; }
+.imenu { position:absolute; left:0; top:100%; margin-top:10px;
+  display:none; align-items:center; gap:8px; white-space:nowrap;
+  background:rgba(255,253,246,.97); border:3px solid var(--panel-line);
+  box-shadow:0 10px 26px rgba(60,50,30,.3); padding:10px 14px; z-index:120; }
+.imenu.on { display:flex; }
+.imenu__label { font-size:19px; letter-spacing:.14em; color:#4a4a4a; margin-right:4px; }
+.imenu button { font:inherit; font-size:19px; letter-spacing:.06em; cursor:pointer;
+  border:2px solid var(--panel-line); background:#fffdf6; color:var(--ink);
+  padding:5px 14px; }
+.imenu button[aria-pressed="true"] { background:var(--panel-line); color:#fffdf6; }
+
+
+/* ===========================================================
+   URLの設定で切り替わる部分（有料版のみ）
+   すべて index.html がクエリを読み取って値を入れます。
+   =========================================================== */
+:root {
+  --name-scale: 1;                        /* 市区町村名の大きさの倍率 */
+  --stroke-w: 11px;                       /* 文字のふちの太さ */
+  --stroke-c: rgba(255,255,255,.92);      /* 文字のふちの色 */
+  --page-bg: transparent;                 /* 背景（既定は完全透過） */
+}
+body { background: var(--page-bg); }
+
+/* 文字の大きさとふち */
+.textbox .name        { font-size: calc(132px * var(--name-scale));
+                        -webkit-text-stroke: var(--stroke-w) var(--stroke-c); }
+.textbox .name.long   { font-size: calc(106px * var(--name-scale)); }
+.textbox .name.long2  { font-size: calc(82px  * var(--name-scale)); }
+.textbox .pref        { -webkit-text-stroke: calc(var(--stroke-w) * 0.45) var(--stroke-c); }
+#head .en, #meta, #foot .note, .north { -webkit-text-stroke: calc(var(--stroke-w) * 0.45) var(--stroke-c); }
+.north svg path { stroke: var(--stroke-c); }
+body.no-stroke .textbox .name, body.no-stroke .textbox .pref,
+body.no-stroke #head .en, body.no-stroke #meta,
+body.no-stroke #foot .note, body.no-stroke .north { -webkit-text-stroke: 0; text-shadow: none; }
+body.no-stroke .north svg path { stroke: none; }
+
+/* 表示する要素の切り替え */
+body.no-head  #head        { display: none; }
+body.no-en    #head .en    { display: none; }
+body.no-meta  #meta        { display: none; }
+body.no-map   .mapbox      { display: none; }
+body.no-map   .textbox     { padding-left: 0; }
+body.no-pref  .textbox .pref { display: none; }
+body.no-foot  #foot        { display: none; }
+body.no-north .north       { display: none; }
+body.no-ring  #mapWrap circle { display: none; }
+
+/* 地図と文字の並び順 */
+body.flip .card { flex-direction: row-reverse; }
+body.flip .mapbox { padding: 28px 30px 28px 14px; }
+
+/* 見出しの札を線だけにする／完全に外す */
+body.plain-badge #head .badge { background: transparent; border: 0; padding: 0; }
