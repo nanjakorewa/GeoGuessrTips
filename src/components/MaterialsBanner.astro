@@ -16,33 +16,48 @@ const { lang } = Astro.props;
       <span class="materials-banner__cta">{t("materials_banner_cta", lang)} <i class="fas fa-arrow-right"></i></span>
     </div>
     <div class="materials-banner__shots" aria-hidden="true">
-      <img src="/materials/assets/img/topo_start.jpg" alt="" loading="lazy" width="320" height="180" />
-      <img src="/materials/assets/img/clock.jpg" alt="" loading="lazy" width="320" height="180" />
-      <img src="/materials/assets/img/topo_game.jpg" alt="" loading="lazy" width="320" height="180" />
+      {/* シェブロン風トランジション / ナンバープレート風 時計 / 地理系ゲーム配信向けフリートランジション */}
+      <span class="materials-banner__shot">
+        <video
+          src="/materials/assets/demo/sign_diamond_amber.webm"
+          poster="/materials/assets/img/banner_sign.jpg"
+          muted playsinline autoplay loop></video>
+      </span>
+      <span class="materials-banner__shot">
+        <iframe
+          src="/materials/assets/clockdemo/demo1.html"
+          title="" tabindex="-1" scrolling="no" loading="lazy"></iframe>
+      </span>
+      <span class="materials-banner__shot">
+        <video
+          src="/materials/assets/demo/geo_pinzoom.webm"
+          poster="/materials/assets/img/banner_geo.jpg"
+          muted playsinline autoplay loop></video>
+      </span>
     </div>
   </a>
 </div>
 
 <style>
+  /* 配色はサイト全体のテーマ変数に合わせています（ライト／ダーク両対応） */
   .materials-banner {
     display: flex;
     align-items: stretch;
     gap: 0;
     overflow: hidden;
     text-decoration: none;
-    color: #4a3f33;
-    background: #f7f0e1;
-    background-image: radial-gradient(rgba(74, 63, 51, 0.06) 1px, transparent 1px);
-    background-size: 22px 22px;
-    border: 3px solid #4a3f33;
-    box-shadow: 6px 7px 0 rgba(74, 63, 51, 0.22);
+    color: var(--text-color);
+    background: var(--surface-color);
+    border: 1px solid var(--border-soft);
+    border-radius: 2px;
+    box-shadow: var(--shadow-soft);
     margin-bottom: 1rem;
     transition: transform 0.15s ease, box-shadow 0.15s ease;
   }
   .materials-banner:hover {
-    transform: translateY(-3px);
-    box-shadow: 6px 10px 0 rgba(74, 63, 51, 0.26);
-    color: #4a3f33;
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-accent);
+    color: var(--text-color);
     text-decoration: none;
   }
 
@@ -63,16 +78,17 @@ const { lang } = Astro.props;
   .materials-banner__cta {
     margin-top: 8px;
     align-self: flex-start;
-    background: #d96c47;
+    background: var(--primary-color);
     color: #fff;
     font-weight: 700;
     font-size: 0.95rem;
     letter-spacing: 0.06em;
     padding: 9px 26px;
-    box-shadow: 3px 4px 0 rgba(74, 63, 51, 0.25);
+    border-radius: 2px;
+    transition: background 0.15s ease;
   }
   .materials-banner:hover .materials-banner__cta {
-    background: #c25b38;
+    background: var(--primary-hover);
   }
 
   .materials-banner__shots {
@@ -82,20 +98,44 @@ const { lang } = Astro.props;
     gap: 10px;
     padding: 18px 22px 18px 0;
   }
-  .materials-banner__shots img {
+  /* 3つの枠。中身は実際に動いている素材（トランジション2つと時計） */
+  .materials-banner__shot {
+    display: block;
+    position: relative;
     width: 176px;
-    height: 99px;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    flex: 0 0 auto;
+    border: 1px solid var(--border-soft);
+    border-radius: 2px;
+    box-shadow: var(--shadow-soft);
+    /* 透過素材の下に敷く、配信画面をイメージした地色 */
+    background-color: #1e2226;
+    background-image: repeating-linear-gradient(
+      -45deg,
+      rgba(255, 255, 255, 0.035) 0 12px,
+      transparent 12px 24px
+    );
+  }
+  .materials-banner__shot video {
+    width: 100%;
+    height: 100%;
     object-fit: cover;
-    border: 2px solid #4a3f33;
-    box-shadow: 3px 4px 0 rgba(74, 63, 51, 0.18);
     display: block;
   }
-  .materials-banner__shots img:nth-child(1) { transform: rotate(-1.6deg); }
-  .materials-banner__shots img:nth-child(2) { transform: rotate(1.2deg); }
-  .materials-banner__shots img:nth-child(3) { transform: rotate(-0.8deg); }
+  .materials-banner__shot iframe {
+    border: 0;
+    width: 780px;
+    height: 165px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform-origin: 0 0;
+    pointer-events: none;
+  }
 
   @media (max-width: 991px) {
-    .materials-banner__shots img:nth-child(3) { display: none; }
+    .materials-banner__shot:nth-child(3) { display: none; }
   }
   @media (max-width: 767px) {
     .materials-banner { flex-direction: column; }
@@ -103,7 +143,28 @@ const { lang } = Astro.props;
       padding: 0 18px 18px;
       justify-content: center;
     }
-    .materials-banner__shots img { width: 46%; height: auto; aspect-ratio: 16 / 9; }
-    .materials-banner__shots img:nth-child(3) { display: none; }
+    .materials-banner__shot { width: 46%; }
+    .materials-banner__shot:nth-child(3) { display: none; }
   }
 </style>
+
+<script is:inline>
+  // 時計のデモ（780x165）を枠の大きさに合わせて縮める
+  (function () {
+    "use strict";
+    function fit() {
+      document.querySelectorAll(".materials-banner__shot iframe").forEach(function (f) {
+        var box = f.parentElement;
+        if (!box || !box.clientWidth) return;
+        var s = box.clientWidth / 780;
+        f.style.transform = "scale(" + s + ")";
+        f.style.top = ((box.clientHeight - 165 * s) / 2) + "px";
+      });
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", fit);
+    } else { fit(); }
+    window.addEventListener("resize", fit);
+    window.addEventListener("load", fit);
+  })();
+</script>
