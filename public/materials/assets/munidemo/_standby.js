@@ -1,5 +1,5 @@
 /* ===========================================================
-   nanja素材 市区町村ランダム待機画面 — 動きの部分
+   nanja素材 市区町村ランダム待機画面 — 動きの部分（サイトのデモ用）
    このファイルは編集しなくて大丈夫です。
    （見出しや切り替え間隔は各HTMLの下のほうで変えられます）
    外部への通信は一切ありません。全部このフォルダの中だけで動きます。
@@ -27,16 +27,28 @@ function buildStandby(CFG) {
     drawTopoMap(bg, W, H, {seed: CFG.seed || 21, hills: 15, peakX: 0.22, peakY: 0.6});
   }
 
-  /* ---------- 全市区町村を1本のリストにする ---------- */
+  /* ---------- 表示する市区町村のリスト ----------
+     サイトのデモでは MUNI_DEMO_PICKS に書いた数件だけを出します。
+     配布版は全国 1,738 市区町村が対象です。 */
   var LIST = [];
-  for (var slug in MUNI_DATA) {
-    var pref = MUNI_DATA[slug];
-    for (var i = 0; i < pref.m.length; i++) {
-      LIST.push({slug: slug, pref: pref.p, vb: pref.vb, muni: pref.m[i]});
+  if (typeof MUNI_DEMO_PICKS !== "undefined") {
+    for (var k = 0; k < MUNI_DEMO_PICKS.length; k++) {
+      var sl = MUNI_DEMO_PICKS[k][0], code = MUNI_DEMO_PICKS[k][1], pr = MUNI_DATA[sl];
+      for (var j = 0; j < pr.m.length; j++) {
+        if (pr.m[j].c === code) LIST.push({slug: sl, pref: pr.p, vb: pr.vb, muni: pr.m[j]});
+      }
+    }
+  } else {
+    for (var slug in MUNI_DATA) {
+      var pref = MUNI_DATA[slug];
+      for (var i = 0; i < pref.m.length; i++) {
+        LIST.push({slug: slug, pref: pref.p, vb: pref.vb, muni: pref.m[i]});
+      }
     }
   }
   document.getElementById("meta").textContent =
-    "日本全国 " + LIST.length.toLocaleString("en-US") + " 市区町村";
+    (typeof MUNI_DEMO_TOTAL !== "undefined") ? MUNI_DEMO_TOTAL
+      : "日本全国 " + LIST.length.toLocaleString("en-US") + " 市区町村";
 
   /* ---------- 順番をシャッフルして、ひと巡りするまで同じ所を出さない ---------- */
   var bag = [], bagPos = 0;

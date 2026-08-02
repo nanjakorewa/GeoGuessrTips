@@ -8,7 +8,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>市区町村ランダム待機画面 | nanja素材</title>
-<meta name="description" content="日本全国1,738市区町村をランダムに紹介しつづけるOBS用の待機画面（無料配布）。市区町村名と、その場所を塗り分けた都道府県の地図が一定時間ごとに切り替わります。このページで実際に動いているところを確認できます。">
+<meta name="description" content="日本全国1,738市区町村をランダムに紹介しつづけるOBS用の待機画面（無料配布・背景透過版は300円）。市区町村名と、その場所を塗り分けた都道府県の地図が一定時間ごとに切り替わります。このページで実際に動いているところを確認できます。">
 <!-- 外部リクエストなし: フォントはシステムフォントのみ、解析タグなし -->
 <link rel="stylesheet" href="/materials/assets/site.css">
 <style is:global>
@@ -56,16 +56,16 @@
       <p class="lead">配信を待っているあいだ、日本全国の市区町村を<strong>1,738か所ぶん</strong>ランダムに紹介しつづける待機画面です。ゲームのロード画面でTipsが入れ替わるように、市区町村名と、その場所を塗り分けた都道府県の地図が一定時間ごとに切り替わります。</p>
 
       <div class="standby-stage">
-        <p class="cap">※ 下の画面は実際に動いています。デモでは6秒ごとに切り替わります（配布版の初期値は12秒）</p>
+        <p class="cap">※ 下の画面は実際に動いています。<strong>このデモは5市町村だけ・SAMPLEの透かし入り</strong>です。配布版は全国1,738市区町村・透かしなしで、切り替え間隔の初期値は12秒です</p>
         <div class="standby-frame" id="frame" data-pagefind-ignore>
           <iframe id="demo" src="/materials/assets/munidemo/demo.html" title="市区町村ランダム待機画面のデモ" loading="lazy" scrolling="no"></iframe>
         </div>
       </div>
 
-      <h3 class="sub-title">背景を完全に透過したバージョン</h3>
-      <p class="lead">配信画面やゲーム画面の上にそのまま重ねられる、<strong>背景が透明なバージョン</strong>も入っています。地形図の背景・外わく・中央のカードの地色をすべて消し、<strong>都道府県の地図と文字だけ</strong>が残ります。暗い画面に重ねても読めるよう、文字には白いふちを付けてあります。</p>
+      <h3 class="sub-title">背景を完全に透過したバージョン（別売り・300円）</h3>
+      <p class="lead">ゲーム画面やカメラ映像の上にそのまま重ねられる、<strong>背景が完全に透明なバージョン</strong>を別途ご用意しています（300円）。地形図の背景・外わく・カードの地色をすべて消し、<strong>都道府県の地図と文字だけ</strong>が残ります。暗い画面に重ねても読めるよう、文字には白いふちを付けてあります。</p>
       <div class="standby-stage checker">
-        <p class="cap">※ 市松模様の部分が透過です。実際の配信では下のシーンが透けて見えます</p>
+        <p class="cap">※ 市松模様の部分が透過です。実際の配信では下のシーンが透けて見えます。<strong>このデモも5市町村だけ・SAMPLEの透かし入り</strong>です</p>
         <div class="standby-frame" id="frame2" data-pagefind-ignore>
           <iframe id="demo2" src="/materials/assets/munidemo/demo-transparent.html" title="背景透過バージョンのデモ" loading="lazy" scrolling="no"></iframe>
         </div>
@@ -83,7 +83,7 @@
         <li><b>切り替え間隔を変えられる</b><small>初期値は12秒。テンポよくしたいときは短く、読ませたいときは長くできます</small></li>
         <li><b>文言を自由に変更</b><small>「まもなく開始」「休憩中」など、見出しと下の一文をテキストエディタで書き換えられます</small></li>
         <li><b>色のカスタマイズ対応</b><small>CSSの先頭に色がまとまっているので、紙の色も塗りの色も変えられます</small></li>
-        <li><b>背景透過バージョン入り</b><small>地図と文字だけが浮かぶ、背景が完全に透明なHTMLも同梱。配信画面やゲーム画面の上に重ねられます</small></li>
+        <li><b>背景透過版もあります</b><small>地図と文字だけが浮かぶ、背景が完全に透明なバージョンを別売りでご用意しています（300円）</small></li>
       </ul>
     </div>
   </section>
@@ -91,13 +91,13 @@
   <section id="options">
     <div class="wrap">
       <span class="tape-title">書き換えられるところ</span>
-      <p class="lead">各HTML（<code>1_待機画面.html</code> / <code>2_待機画面・背景透過.html</code>）をメモ帳で開くと、下のほうに設定のブロックがあります。<strong>書き換えなくてもそのまま使えます。</strong></p>
+      <p class="lead"><code>待機画面.html</code> をメモ帳で開くと、下のほうに設定のブロックがあります。<strong>書き換えなくてもそのまま使えます。</strong></p>
       <table class="facts">
         <tr><th>項目</th><th>説明</th></tr>
         <tr><td><code>HEADING</code> / <code>HEADING_EN</code></td><td>左上の見出しと英字。「休憩中」「BE RIGHT BACK」など自由に。空文字にすると消えます</td></tr>
         <tr><td><code>FOOT_TEXT</code></td><td>左下の小さな文字。空文字で消えます</td></tr>
         <tr><td><code>INTERVAL</code></td><td>市区町村を切り替える間隔（秒）。初期値12・最短3</td></tr>
-        <tr><td><code>MAP_SEED</code></td><td>背景の地形の形。数字を変えると山と谷が変わります（背景つきのみ）</td></tr>
+        <tr><td><code>MAP_SEED</code></td><td>背景の地形の形。数字を変えると山と谷が変わります</td></tr>
         <tr><td><code>SHOW_BAR</code></td><td><code>false</code> で、次の切り替えまでのバーを消せます</td></tr>
       </table>
     </div>
@@ -114,7 +114,7 @@
         </li>
         <li>
           <b class="t">ブラウザソースを追加する</b>
-          <p>OBSで「ソース」→「＋」→「ブラウザ」を追加し、「ローカルファイル」にチェックを入れて <span class="path">standby/1_待機画面.html</span> を選びます。背景を透過させたい場合は <span class="path">standby/2_待機画面・背景透過.html</span> を選んでください。</p>
+          <p>OBSで「ソース」→「＋」→「ブラウザ」を追加し、「ローカルファイル」にチェックを入れて <span class="path">standby/待機画面.html</span> を選びます。</p>
         </li>
         <li>
           <b class="t">サイズを 1920 x 1080 にする</b>
@@ -126,17 +126,24 @@
 
   <section id="get">
     <div class="wrap">
-      <span class="tape-title">ダウンロード（無料）</span>
-      <div class="shops shops--single">
-        <div class="shop booth">
+      <span class="tape-title">ダウンロード</span>
+      <div class="shops">
+        <div class="shop">
           <div class="ribbon">無料</div>
-          <h3>BOOTH</h3>
-          <p>0円のDL商品として配布しています。BOOTHのライブラリに入れておけば、いつでも再ダウンロードできます。</p>
+          <h3>背景つき版</h3>
+          <p>地形図の背景つき。これ1枚で待機画面になります。0円のDL商品として配布しています。</p>
           <!-- TODO: BOOTHの0円商品ページを作成後、URLを差し替える -->
-          <a class="cta sub" href="https://nanjakorewa.booth.pm/" target="_blank" rel="noopener">BOOTHで受け取る</a>
+          <a class="cta" href="https://nanjakorewa.booth.pm/items/8677259" target="_blank" rel="noopener">無料で受け取る</a>
+        </div>
+        <div class="shop booth">
+          <div class="ribbon">300円</div>
+          <h3>背景透過版</h3>
+          <p>背景が完全に透明。ゲーム画面やカメラ映像の上にそのまま重ねられます。</p>
+          <!-- TODO: BOOTHの300円商品ページを作成後、URLを差し替える -->
+          <a class="cta sub" href="https://nanjakorewa.booth.pm/items/8677259" target="_blank" rel="noopener">BOOTHで購入する</a>
         </div>
       </div>
-      <p class="note">※ 収益化配信OK・クレジット表記不要。素材ファイルそのものの再配布・再販売のみ禁止です。</p>
+      <p class="note">※ どちらも収益化配信OK・クレジット表記不要。素材ファイルそのものの再配布・再販売のみ禁止です。</p>
       <p class="note">※ 背景の等高線・道路はSVGで描いた架空の地形で、実在の場所の地図ではありません。市区町村の境界図は形状を簡略化しています。</p>
       <p class="note">※ 東京都の島しょ部（大島町・八丈町・小笠原村など9町村）は収録していません。地図に含めると東京都が南北に極端に長くなり、23区や多摩地域が点のようになってしまうためです。北海道は北方領土の6村を含みます。</p>
     </div>

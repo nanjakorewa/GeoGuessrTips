@@ -118,3 +118,19 @@ body.transparent .textbox .name {
   paint-order:stroke; -webkit-text-stroke:11px rgba(255,255,255,.92); }
 body.transparent .textbox .pref {
   paint-order:stroke; -webkit-text-stroke:5px rgba(255,255,255,.92); }
+
+/* ===========================================================
+   サイトのデモ用の透かし（配布版には入っていません）
+   =========================================================== */
+.sample-wm { position:absolute; inset:0; z-index:99; pointer-events:none;
+  background-repeat:repeat; background-size:460px 300px;
+  background-image:url("data:image/svg+xml;utf8,\
+<svg xmlns='http://www.w3.org/2000/svg' width='460' height='300'>\
+<text x='24' y='112' transform='rotate(-24 24 112)' font-family='Helvetica,Arial,sans-serif' \
+font-size='58' font-weight='bold' fill='rgba(58,58,58,0.16)' letter-spacing='10'>SAMPLE</text>\
+<text x='158' y='268' transform='rotate(-24 158 268)' font-family='Helvetica,Arial,sans-serif' \
+font-size='58' font-weight='bold' fill='rgba(58,58,58,0.16)' letter-spacing='10'>SAMPLE</text>\
+</svg>"); }
+.sample-note { position:absolute; left:50%; bottom:96px; transform:translateX(-50%);
+  z-index:100; background:rgba(27,27,27,.82); color:#fff; font-size:24px;
+  letter-spacing:.1em; padding:10px 30px; }
