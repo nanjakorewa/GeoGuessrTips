@@ -81,9 +81,10 @@
         <li><b>同じ場所が続かない</b><small>ひと巡りするまで同じ市区町村は出ません。全部出きったら順番をシャッフルし直します</small></li>
         <li><b>小さな町村でも分かる</b><small>選ばれた市区町村には破線の丸がつくので、地図上のどこかがすぐ分かります</small></li>
         <li><b>切り替え間隔を変えられる</b><small>初期値は12秒。テンポよくしたいときは短く、読ませたいときは長くできます</small></li>
-        <li><b>文言を自由に変更</b><small>「まもなく開始」「休憩中」など、見出しと下の一文をテキストエディタで書き換えられます</small></li>
-        <li><b>色のカスタマイズ対応</b><small>CSSの先頭に色がまとまっているので、紙の色も塗りの色も変えられます</small></li>
-        <li><b>背景透過版もあります</b><small>地図と文字だけが浮かぶ、背景が完全に透明なバージョンを別売りでご用意しています（300円）</small></li>
+        <li><b>文言を自由に変更</b><small>「まもなく開始」「休憩中」など、見出しと下の一文を変えられます。無料版は同梱の「URL作成ツール」で、透過版はHTMLを開いて書き換えます</small></li>
+        <li><b>色のカスタマイズ対応（透過版）</b><small>透過版はCSSの先頭に色がまとまっているので、文字色も塗りの色も変えられます</small></li>
+        <li><b>無料版はURLを貼るだけ</b><small>OBSのブラウザソースに配布されたURLを貼るだけで表示されます。ダウンロードするファイルは7KBほど。表示にはインターネット接続が必要です</small></li>
+        <li><b>背景透過版もあります</b><small>地図と文字だけが浮かぶ、背景が完全に透明なバージョンを別売りでご用意しています（300円）。こちらは全データ同梱でオフラインでも動きます</small></li>
         <li><b>配信中に秒数を変えられます（透過版のみ）</b><small>OBSの「対話」を開いて左上の見出しにマウスを乗せると、切り替え間隔を選べるメニューが出ます。配信画面には映りません</small></li>
       </ul>
     </div>
@@ -92,36 +93,38 @@
   <section id="options">
     <div class="wrap">
       <span class="tape-title">書き換えられるところ</span>
-      <p class="lead"><code>待機画面.html</code> をメモ帳で開くと、下のほうに設定のブロックがあります。<strong>書き換えなくてもそのまま使えます。</strong></p>
+      <p class="lead"><strong>どちらの版も、書き換えなくてもそのまま使えます。</strong>無料版は同梱の「URL作成ツール」で項目を入力するとURLができあがるので、それをOBSに貼り直すだけです。透過版は <code>待機画面・背景透過.html</code> をメモ帳で開くと、下のほうに設定のブロックがあります。</p>
       <table class="facts">
         <tr><th>項目</th><th>説明</th></tr>
-        <tr><td><code>HEADING</code> / <code>HEADING_EN</code></td><td>左上の見出しと英字。「休憩中」「BE RIGHT BACK」など自由に。空文字にすると消えます</td></tr>
-        <tr><td><code>FOOT_TEXT</code></td><td>左下の小さな文字。空文字で消えます</td></tr>
-        <tr><td><code>INTERVAL</code></td><td>市区町村を切り替える間隔（秒）。初期値12・最短3</td></tr>
-        <tr><td><code>MAP_SEED</code></td><td>背景の地形の形。数字を変えると山と谷が変わります</td></tr>
-        <tr><td><code>SHOW_BAR</code></td><td><code>false</code> で、次の切り替えまでのバーを消せます</td></tr>
+        <tr><td>見出しと英字</td><td>左上の表示。「休憩中」「BE RIGHT BACK」など自由に。空にすると消えます</td></tr>
+        <tr><td>左下の小さな文字</td><td>空にすると消えます</td></tr>
+        <tr><td>切り替え間隔</td><td>市区町村を切り替える間隔（秒）。初期値12・最短3</td></tr>
+        <tr><td>背景の地形の形</td><td>数字を変えると山と谷が変わります（透過版には背景がないため無効）</td></tr>
+        <tr><td>進み具合バー</td><td>次の切り替えまでのバーを消せます</td></tr>
       </table>
     </div>
   </section>
 
   <section id="setup">
     <div class="wrap">
-      <span class="tape-title">OBSでの使い方</span>
+      <span class="tape-title">OBSでの使い方（無料版）</span>
 
       <ol class="howto">
         <li>
-          <b class="t">フォルダを置く</b>
-          <p>zipを解凍して、フォルダを <span class="path">C:\OBS素材\nanja-muni-standby01</span> に置きます。</p>
+          <b class="t">URLを受け取る</b>
+          <p>ダウンロードしたzipの中の <span class="path">README.md</span> に、表示用のURLが1行書いてあります。同梱の <span class="path">URL作成ツール.html</span> を開けば、見出しや秒数を変えたURLも作れます。</p>
         </li>
         <li>
-          <b class="t">ブラウザソースを追加する</b>
-          <p>OBSで「ソース」→「＋」→「ブラウザ」を追加し、「ローカルファイル」にチェックを入れて <span class="path">standby/待機画面.html</span> を選びます。</p>
+          <b class="t">ブラウザソースにURLを貼る</b>
+          <p>OBSで「ソース」→「＋」→「ブラウザ」を追加し、「ローカルファイル」のチェックは<strong>外したまま</strong>、URL欄に貼り付けます。</p>
         </li>
         <li>
           <b class="t">サイズを 1920 x 1080 にする</b>
           <p>幅1920・高さ1080に設定して、待機シーンのいちばん下（背景）に置けば完成です。</p>
         </li>
       </ol>
+      <p class="note">※ 無料版はインターネット経由で表示するため、<strong>配信中は接続が必要です</strong>。データを受け取るだけで、こちらから何かを送信することはありません（解析タグ・広告・外部フォントもありません）。</p>
+      <p class="note">※ 背景透過版（300円）は全データがzipに入っているので、フォルダを置いて <span class="path">standby/待機画面・背景透過.html</span> を「ローカルファイル」で読み込みます。<strong>ネット接続なしで動きます。</strong></p>
     </div>
   </section>
 
@@ -132,14 +135,14 @@
         <div class="shop">
           <div class="ribbon">無料</div>
           <h3>背景つき版</h3>
-          <p>地形図の背景つき。これ1枚で待機画面になります。0円のDL商品として配布しています。</p>
+          <p>地形図の背景つき。これ1枚で待機画面になります。<strong>URLを貼るだけ</strong>で使えて、ダウンロードは7KBほど。表示にはネット接続が必要です。</p>
           <!-- TODO: BOOTHの0円商品ページを作成後、URLを差し替える -->
           <a class="cta" href="https://nanjakorewa.booth.pm/items/8677259" target="_blank" rel="noopener">無料で受け取る</a>
         </div>
         <div class="shop booth">
           <div class="ribbon">300円</div>
           <h3>背景透過版</h3>
-          <p>背景が完全に透明。ゲーム画面やカメラ映像の上にそのまま重ねられます。OBSの「対話」から切り替え間隔を変えられます。</p>
+          <p>背景が完全に透明。ゲーム画面やカメラ映像の上にそのまま重ねられます。<strong>全データ同梱でオフラインでも動作</strong>し、OBSの「対話」から切り替え間隔を変えられます。</p>
           <!-- TODO: BOOTHの300円商品ページを作成後、URLを差し替える -->
           <a class="cta sub" href="https://nanjakorewa.booth.pm/items/8677259" target="_blank" rel="noopener">BOOTHで購入する</a>
         </div>
