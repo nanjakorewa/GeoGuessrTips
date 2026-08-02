@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>市区町村ランダム待機画面（背景透過・デモ） | nanja素材</title>
+<link rel="stylesheet" href="_standby.css">
+</head>
+<body>
+
+<div id="topo"></div>
+<div class="haze"></div>
+<div class="neatline"></div>
+
+<div id="head">
+  <span class="badge" id="headText"></span>
+  <span class="en" id="headEn"></span>
+</div>
+<div id="meta"></div>
+
+<div class="card">
+  <div class="mapbox">
+    <div id="mapWrap" class="fade" style="width:100%;height:100%"></div>
+  </div>
+  <div class="rule"></div>
+  <div class="textbox">
+    <span class="pref fade" id="prefName"></span>
+    <span class="name fade" id="muniName"></span>
+  </div>
+</div>
+
+<div id="foot">
+  <div class="note" id="footNote"></div>
+  <div class="north">N<br><svg width="22" height="34" viewBox="0 0 26 42"><path d="M13,2 L21,38 L13,30 L5,38 Z" fill="#1b1b1b"/></svg></div>
+</div>
+<div id="bar"><i id="barFill"></i></div>
+
+<script src="_topo.js"></script>
+<script src="_muni-data.js"></script>
+<script src="_standby.js"></script>
+<script>
+/* ============ ここを編集して自分好みにできます ============
+   このファイルは背景を透過したバージョンです。
+   配信画面やゲーム画面の上に重ねて使えます。
+   ======================================================== */
+var HEADING   = "まもなく開始";        // 左上の見出し
+var HEADING_EN = "STARTING SOON";      // その右の英字
+var FOOT_TEXT = "配信の準備をしています";  // 左下の文字
+var INTERVAL  = 6;                    // 市区町村を切り替える間隔（秒）
+var SHOW_BAR  = true;                  // 下の進み具合バーを出す
+/* ======================================================== */
+
+buildStandby({
+  heading: HEADING, headingEn: HEADING_EN, foot: FOOT_TEXT,
+  interval: INTERVAL, bar: SHOW_BAR, transparent: true
+});
+</script>
+</body>
+</html>

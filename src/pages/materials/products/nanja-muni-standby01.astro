@@ -1,0 +1,167 @@
+---
+// nanja素材：市区町村ランダム待機画面
+---
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>市区町村ランダム待機画面 | nanja素材</title>
+<meta name="description" content="日本全国1,738市区町村をランダムに紹介しつづけるOBS用の待機画面（無料配布）。市区町村名と、その場所を塗り分けた都道府県の地図が一定時間ごとに切り替わります。このページで実際に動いているところを確認できます。">
+<!-- 外部リクエストなし: フォントはシステムフォントのみ、解析タグなし -->
+<link rel="stylesheet" href="/materials/assets/site.css">
+<style is:global>
+  .standby-stage { background:#4b5145; border:2px solid var(--ink);
+    box-shadow:5px 6px 0 rgba(74,63,51,.15); padding:22px; margin-top:30px; }
+  .standby-stage p.cap { color:#fff; font-size:.9rem; margin-bottom:14px; opacity:.9; }
+  .standby-frame { width:100%; aspect-ratio:16/9; overflow:hidden; position:relative; }
+  .standby-frame iframe { border:0; width:1920px; height:1080px; display:block;
+    position:absolute; left:0; top:0; transform-origin:0 0; }
+  /* 透過版のデモは市松模様の上に重ねて見せる */
+  .standby-stage.checker { background:
+      repeating-conic-gradient(#cfc6b2 0% 25%, #b8ae97 0% 50%) 0 0 / 48px 48px; }
+  .standby-stage.checker p.cap { color:#2b2b2b; }
+  .facts { width:100%; border-collapse:collapse; margin-top:26px; background:#fffdf6;
+    border:2px solid var(--ink); box-shadow:4px 5px 0 rgba(74,63,51,.14); }
+  .facts th, .facts td { border-bottom:1px solid rgba(74,63,51,.2); padding:11px 16px;
+    text-align:left; font-size:.95rem; vertical-align:top; }
+  .facts th { background:var(--paper-dark); letter-spacing:.1em; width:230px; }
+  .facts code { font-family:Consolas,Monaco,monospace; background:var(--paper-dark);
+    padding:1px 7px; border:1px solid rgba(74,63,51,.25); font-size:.88rem; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="brand"><a href="/materials/">nanja<span>素材</span></a></div>
+    <nav>
+      <a href="https://geopinning.space/" class="back">← GeoGuessrの攻略めも</a>
+      <a href="/materials/#catalog">素材一覧</a>
+      <a href="/materials/#shops">ショップ</a>
+      <a href="/materials/#faq">FAQ</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <p class="crumb"><a href="/materials/">nanja素材</a> ＞ 市区町村ランダム待機画面</p>
+  </div>
+
+  <section id="preview">
+    <div class="wrap">
+      <span class="tape-title">市区町村ランダム待機画面</span>
+      <p class="lead">配信を待っているあいだ、日本全国の市区町村を<strong>1,738か所ぶん</strong>ランダムに紹介しつづける待機画面です。ゲームのロード画面でTipsが入れ替わるように、市区町村名と、その場所を塗り分けた都道府県の地図が一定時間ごとに切り替わります。</p>
+
+      <div class="standby-stage">
+        <p class="cap">※ 下の画面は実際に動いています。デモでは6秒ごとに切り替わります（配布版の初期値は12秒）</p>
+        <div class="standby-frame" id="frame" data-pagefind-ignore>
+          <iframe id="demo" src="/materials/assets/munidemo/demo.html" title="市区町村ランダム待機画面のデモ" loading="lazy" scrolling="no"></iframe>
+        </div>
+      </div>
+
+      <h3 class="sub-title">背景を完全に透過したバージョン</h3>
+      <p class="lead">配信画面やゲーム画面の上にそのまま重ねられる、<strong>背景が透明なバージョン</strong>も入っています。地形図の背景・外わく・中央のカードの地色をすべて消し、<strong>都道府県の地図と文字だけ</strong>が残ります。暗い画面に重ねても読めるよう、文字には白いふちを付けてあります。</p>
+      <div class="standby-stage checker">
+        <p class="cap">※ 市松模様の部分が透過です。実際の配信では下のシーンが透けて見えます</p>
+        <div class="standby-frame" id="frame2" data-pagefind-ignore>
+          <iframe id="demo2" src="/materials/assets/munidemo/demo-transparent.html" title="背景透過バージョンのデモ" loading="lazy" scrolling="no"></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contents">
+    <div class="wrap">
+      <span class="tape-title">この素材の特長</span>
+      <ul class="contents">
+        <li><b>全国 1,738 市区町村</b><small>政令指定都市は市全体で1件、東京23区は区ごとに1件。東京の島しょ部9町村は収録していません（下の注記をご覧ください）</small></li>
+        <li><b>同じ場所が続かない</b><small>ひと巡りするまで同じ市区町村は出ません。全部出きったら順番をシャッフルし直します</small></li>
+        <li><b>小さな町村でも分かる</b><small>選ばれた市区町村には破線の丸がつくので、地図上のどこかがすぐ分かります</small></li>
+        <li><b>切り替え間隔を変えられる</b><small>初期値は12秒。テンポよくしたいときは短く、読ませたいときは長くできます</small></li>
+        <li><b>文言を自由に変更</b><small>「まもなく開始」「休憩中」など、見出しと下の一文をテキストエディタで書き換えられます</small></li>
+        <li><b>色のカスタマイズ対応</b><small>CSSの先頭に色がまとまっているので、紙の色も塗りの色も変えられます</small></li>
+        <li><b>背景透過バージョン入り</b><small>地図と文字だけが浮かぶ、背景が完全に透明なHTMLも同梱。配信画面やゲーム画面の上に重ねられます</small></li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="options">
+    <div class="wrap">
+      <span class="tape-title">書き換えられるところ</span>
+      <p class="lead">各HTML（<code>1_待機画面.html</code> / <code>2_待機画面・背景透過.html</code>）をメモ帳で開くと、下のほうに設定のブロックがあります。<strong>書き換えなくてもそのまま使えます。</strong></p>
+      <table class="facts">
+        <tr><th>項目</th><th>説明</th></tr>
+        <tr><td><code>HEADING</code> / <code>HEADING_EN</code></td><td>左上の見出しと英字。「休憩中」「BE RIGHT BACK」など自由に。空文字にすると消えます</td></tr>
+        <tr><td><code>FOOT_TEXT</code></td><td>左下の小さな文字。空文字で消えます</td></tr>
+        <tr><td><code>INTERVAL</code></td><td>市区町村を切り替える間隔（秒）。初期値12・最短3</td></tr>
+        <tr><td><code>MAP_SEED</code></td><td>背景の地形の形。数字を変えると山と谷が変わります（背景つきのみ）</td></tr>
+        <tr><td><code>SHOW_BAR</code></td><td><code>false</code> で、次の切り替えまでのバーを消せます</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <section id="setup">
+    <div class="wrap">
+      <span class="tape-title">OBSでの使い方</span>
+
+      <ol class="howto">
+        <li>
+          <b class="t">フォルダを置く</b>
+          <p>zipを解凍して、フォルダを <span class="path">C:\OBS素材\nanja-muni-standby01</span> に置きます。</p>
+        </li>
+        <li>
+          <b class="t">ブラウザソースを追加する</b>
+          <p>OBSで「ソース」→「＋」→「ブラウザ」を追加し、「ローカルファイル」にチェックを入れて <span class="path">standby/1_待機画面.html</span> を選びます。背景を透過させたい場合は <span class="path">standby/2_待機画面・背景透過.html</span> を選んでください。</p>
+        </li>
+        <li>
+          <b class="t">サイズを 1920 x 1080 にする</b>
+          <p>幅1920・高さ1080に設定して、待機シーンのいちばん下（背景）に置けば完成です。</p>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="get">
+    <div class="wrap">
+      <span class="tape-title">ダウンロード（無料）</span>
+      <div class="shops shops--single">
+        <div class="shop booth">
+          <div class="ribbon">無料</div>
+          <h3>BOOTH</h3>
+          <p>0円のDL商品として配布しています。BOOTHのライブラリに入れておけば、いつでも再ダウンロードできます。</p>
+          <!-- TODO: BOOTHの0円商品ページを作成後、URLを差し替える -->
+          <a class="cta sub" href="https://nanjakorewa.booth.pm/" target="_blank" rel="noopener">BOOTHで受け取る</a>
+        </div>
+      </div>
+      <p class="note">※ 収益化配信OK・クレジット表記不要。素材ファイルそのものの再配布・再販売のみ禁止です。</p>
+      <p class="note">※ 背景の等高線・道路はSVGで描いた架空の地形で、実在の場所の地図ではありません。市区町村の境界図は形状を簡略化しています。</p>
+      <p class="note">※ 東京都の島しょ部（大島町・八丈町・小笠原村など9町村）は収録していません。地図に含めると東京都が南北に極端に長くなり、23区や多摩地域が点のようになってしまうためです。北海道は北方領土の6村を含みます。</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>nanja素材 — すべて自作のOBS配信デザインを配布・販売しています。</p>
+  </div>
+</footer>
+
+<script is:inline>
+(function () {
+  "use strict";
+  // 1920x1080 のデモを枠の幅に合わせて縮める
+  function fit() {
+    [["frame", "demo"], ["frame2", "demo2"]].forEach(function (pair) {
+      var f = document.getElementById(pair[0]), d = document.getElementById(pair[1]);
+      if (f && d) d.style.transform = "scale(" + (f.clientWidth / 1920) + ")";
+    });
+  }
+  fit();
+  window.addEventListener("resize", fit);
+})();
+</script>
+</body>
+</html>

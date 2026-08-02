@@ -1,0 +1,120 @@
+/* ===========================================================
+   nanja素材 市区町村ランダム待機画面 — スタイル
+   色を変えたいときは :root の値をいじってください
+   =========================================================== */
+:root {
+  --paper:        #fbf8f0;   /* 地図の紙色 */
+  --contour:      #a9843b;   /* 等高線（主曲線） */
+  --contour-bold: #8a6520;   /* 等高線（計曲線・太い線） */
+  --road-main:    #f3e04c;   /* 主要道（黄色） */
+  --symbol:       #7a6a4a;   /* 樹木などの記号 */
+  --ink:          #1b1b1b;   /* 見出しの黒 */
+  --note:         #2f6b3f;   /* 注記の緑 */
+  --muni-fill:    #c2762a;   /* 選ばれた市区町村の塗り */
+  --muni-other:   #f1ead9;   /* まわりの市区町村の塗り */
+  --muni-line:    #9a8a6a;   /* 市区町村の境界線 */
+  --panel:        rgba(255,253,246,.95);
+  --panel-line:   #3a3a3a;
+  --map-font:     "Yu Mincho","Hiragino Mincho ProN","Noto Serif CJK JP","MS Mincho",serif;
+  --ui-font:      "Yu Gothic UI","Hiragino Sans","Noto Sans CJK JP","Meiryo",sans-serif;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html, body { width:1920px; height:1080px; overflow:hidden;
+  font-family:var(--ui-font); color:var(--ink); }
+html { background:transparent; }
+body { background:var(--paper); }
+
+/* ---- 背景の地形図 ---- */
+#topo { position:absolute; inset:0; }
+#topo svg { display:block; }
+.drift { animation: drift 120s linear infinite alternate; }
+@keyframes drift {
+  from { transform: translate(0,0) scale(1.06); }
+  to   { transform: translate(-70px,-46px) scale(1.06); }
+}
+/* 文字を読みやすくするための紙のかすみ */
+.haze { position:absolute; inset:0;
+  background:radial-gradient(ellipse 62% 56% at 50% 50%, rgba(251,248,240,.86) 0%, rgba(251,248,240,0) 80%); }
+
+/* ---- 図郭（地図のわく） ---- */
+.neatline { position:absolute; inset:26px; border:3px solid var(--panel-line); }
+.neatline::before { content:""; position:absolute; inset:8px;
+  border:1px solid var(--panel-line); opacity:.5; }
+
+/* ---- 上の帯 ---- */
+#head { position:absolute; left:60px; top:56px; display:flex; align-items:center; gap:20px; }
+#head .badge { background:var(--panel); border:3px solid var(--panel-line);
+  padding:7px 26px; font-family:var(--map-font); font-size:32px; letter-spacing:.3em; }
+#head .en { color:var(--note); font-size:19px; letter-spacing:.26em; }
+#meta { position:absolute; right:60px; top:64px; font-family:var(--map-font);
+  font-size:21px; letter-spacing:.12em; color:#4a4a4a; }
+
+/* ---- 中央のカード ---- */
+.card { position:absolute; left:50%; top:52%; transform:translate(-50%,-50%);
+  width:1420px; height:640px; background:var(--panel);
+  border:3px solid var(--panel-line); box-shadow:0 18px 44px rgba(60,50,30,.22);
+  display:flex; align-items:stretch; }
+.card::after { content:""; position:absolute; inset:9px;
+  border:1px solid var(--panel-line); opacity:.45; pointer-events:none; }
+
+/* 左：県の地図 */
+.mapbox { width:560px; flex:none; position:relative; display:flex;
+  align-items:center; justify-content:center; padding:28px 14px 28px 30px; }
+.mapbox svg { width:100%; height:100%; display:block; }
+/* 仕切り */
+.rule { width:0; flex:none; border-left:2px dashed rgba(58,58,58,.3); margin:44px 0; }
+
+/* 右：市区町村名 */
+.textbox { flex:1; display:flex; flex-direction:column; justify-content:center;
+  align-items:center; text-align:center; padding:40px 56px; }
+.textbox .pref { font-size:30px; letter-spacing:.24em; color:var(--note); }
+.textbox .name { font-family:var(--map-font); font-weight:600;
+  font-size:132px; line-height:1.22; letter-spacing:.12em; margin-top:14px;
+  word-break:keep-all; }
+.textbox .name.long  { font-size:106px; }
+.textbox .name.long2 { font-size:82px; }
+
+/* 切り替えのフェード */
+.fade { transition: opacity .45s ease; }
+.fade.out { opacity:0; }
+
+/* ---- 下の帯 ---- */
+#foot { position:absolute; left:60px; right:60px; bottom:52px;
+  display:flex; align-items:flex-end; justify-content:space-between; }
+#foot .note { font-size:20px; letter-spacing:.14em; color:#4a4a4a; }
+.north { font-family:var(--map-font); font-size:20px; text-align:center; line-height:1.1; }
+
+/* 次の切り替えまでのバー（ロード画面のような進み具合） */
+#bar { position:absolute; left:60px; right:60px; bottom:34px; height:5px;
+  background:rgba(58,58,58,.16); }
+#bar i { display:block; height:100%; width:0; background:var(--contour-bold); }
+
+/* ===========================================================
+   背景透過バージョン（2_待機画面・背景透過.html 用）
+   地形図の背景と図郭を消し、中央のカードと文字だけを残します。
+   配信画面やゲーム画面の上に重ねて使えます。
+   =========================================================== */
+body.transparent { background:transparent; }
+body.transparent #topo,
+body.transparent .haze,
+body.transparent .neatline { display:none; }
+/* 背景が何色でも読めるように、素の文字には白いふちを付ける */
+body.transparent #head .en,
+body.transparent #meta,
+body.transparent #foot .note,
+body.transparent .north {
+  paint-order:stroke; -webkit-text-stroke:5px rgba(255,255,255,.9);
+  text-shadow:0 1px 3px rgba(255,255,255,.9); }
+body.transparent .north svg path { stroke:#fff; stroke-width:6px; paint-order:stroke; }
+body.transparent #bar { background:rgba(255,255,255,.55);
+  box-shadow:0 0 0 1px rgba(58,58,58,.3); }
+/* 中央のカードも透過（わく・仕切りも消して、地図と文字だけを残す） */
+body.transparent .card { background:transparent; border:none; box-shadow:none; }
+body.transparent .card::after { display:none; }
+body.transparent .rule { display:none; }
+/* 地図はそのまま（塗りがあるので背景が透けても読めます） */
+/* 市区町村名・都道府県名にも白いふちを付ける */
+body.transparent .textbox .name {
+  paint-order:stroke; -webkit-text-stroke:11px rgba(255,255,255,.92); }
+body.transparent .textbox .pref {
+  paint-order:stroke; -webkit-text-stroke:5px rgba(255,255,255,.92); }
