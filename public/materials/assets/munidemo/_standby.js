@@ -151,12 +151,81 @@ function buildStandby(CFG) {
     requestAnimationFrame(tick);
   }
 
+  /* ---------- 切り替えのタイマー ---------- */
+  var timer = null;
+  function schedule() {
+    if (timer) clearInterval(timer);
+    timer = setInterval(function () {
+      show(next());
+      startedAt = Date.now();
+    }, INTERVAL);
+  }
+  function changeInterval(sec) {
+    INTERVAL = Math.max(3, sec) * 1000;
+    startedAt = Date.now();
+    schedule();
+    try { localStorage.setItem("nanjaMuniInterval", String(sec)); } catch (e) {}
+  }
+
+  /* ---------- 秒数を変えるメニュー ----------
+     OBSの「対話」ウィンドウで、左上の見出しにマウスを乗せると出ます。
+     配信画面にはマウスの入力が届かないので、本番では表示されません。 */
+  function buildMenu() {
+    var head = document.getElementById("head");
+    var badge = document.getElementById("headText");
+    if (!head || !badge) return;
+    badge.classList.add("tappable");
+
+    var menu = document.createElement("div");
+    menu.className = "imenu";
+    var label = document.createElement("span");
+    label.className = "imenu__label";
+    label.textContent = "切り替え間隔";
+    menu.appendChild(label);
+
+    var STEPS = [5, 8, 12, 20, 30, 60];
+    var btns = [];
+    STEPS.forEach(function (sec) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.textContent = sec + "秒";
+      b.addEventListener("click", function () {
+        changeInterval(sec);
+        mark(sec);
+      });
+      menu.appendChild(b);
+      btns.push({sec: sec, el: b});
+    });
+    function mark(sec) {
+      btns.forEach(function (x) {
+        x.el.setAttribute("aria-pressed", x.sec === sec ? "true" : "false");
+      });
+    }
+    mark(Math.round(INTERVAL / 1000));
+    head.appendChild(menu);
+
+    // マウスが乗っているあいだだけ出す（少し遅らせて閉じる）
+    var hideTimer = null;
+    function open()  { if (hideTimer) clearTimeout(hideTimer); menu.classList.add("on"); }
+    function close() { hideTimer = setTimeout(function () { menu.classList.remove("on"); }, 260); }
+    badge.addEventListener("mouseenter", open);
+    badge.addEventListener("mouseleave", close);
+    menu.addEventListener("mouseenter", open);
+    menu.addEventListener("mouseleave", close);
+    // 念のため右クリックでも開くようにしておく
+    badge.addEventListener("contextmenu", function (e) { e.preventDefault(); open(); });
+  }
+
   /* ---------- 開始 ---------- */
+  // 前回えらんだ秒数があれば引き継ぐ
+  try {
+    var saved = parseInt(localStorage.getItem("nanjaMuniInterval"), 10);
+    if (saved >= 3 && saved <= 600) INTERVAL = saved * 1000;
+  } catch (e) {}
+
   apply(next());
   startedAt = Date.now();
   tick();
-  setInterval(function () {
-    show(next());
-    startedAt = Date.now();
-  }, INTERVAL);
+  schedule();
+  if (CFG.menu !== false) buildMenu();
 }

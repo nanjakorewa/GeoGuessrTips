@@ -134,3 +134,20 @@ font-size='58' font-weight='bold' fill='rgba(58,58,58,0.16)' letter-spacing='10'
 .sample-note { position:absolute; left:50%; bottom:96px; transform:translateX(-50%);
   z-index:100; background:rgba(27,27,27,.82); color:#fff; font-size:24px;
   letter-spacing:.1em; padding:10px 30px; }
+
+/* ===========================================================
+   秒数を変えるメニュー
+   OBSの「対話」ウィンドウで見出しにマウスを乗せたときだけ出ます。
+   配信画面にはマウス入力が届かないので本番では表示されません。
+   =========================================================== */
+#head .tappable { cursor:pointer; }
+.imenu { position:absolute; left:0; top:100%; margin-top:10px;
+  display:none; align-items:center; gap:8px; white-space:nowrap;
+  background:rgba(255,253,246,.97); border:3px solid var(--panel-line);
+  box-shadow:0 10px 26px rgba(60,50,30,.3); padding:10px 14px; z-index:120; }
+.imenu.on { display:flex; }
+.imenu__label { font-size:19px; letter-spacing:.14em; color:#4a4a4a; margin-right:4px; }
+.imenu button { font:inherit; font-size:19px; letter-spacing:.06em; cursor:pointer;
+  border:2px solid var(--panel-line); background:#fffdf6; color:var(--ink);
+  padding:5px 14px; }
+.imenu button[aria-pressed="true"] { background:var(--panel-line); color:#fffdf6; }
