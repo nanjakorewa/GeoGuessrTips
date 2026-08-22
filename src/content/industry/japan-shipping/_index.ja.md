@@ -22,14 +22,11 @@ mapPins:
 
 ## [日本](/rule/asia/japan/)の海運業の概要
 
-<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ship_leaves_Yokohama_Harbor_carrying_the_Experiment_Logistics_Module_Pressurized_Section_(JSC2003-E-34750).jpg?width=420" alt="横浜港を出航するコンテナ船" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
-  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">横浜港を出航するコンテナ船。日本の貿易量の99.6%は海上輸送によって運ばれており、外航海運は日本経済の基盤を支えています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Ship_leaves_Yokohama_Harbor_carrying_the_Experiment_Logistics_Module_Pressurized_Section_(JSC2003-E-34750).jpg" target="_blank" rel="noopener noreferrer">NASA / Wikimedia Commons (Public domain)</a></figcaption>
-</figure>
+<div class="ind-intro">
+<div class="ind-intro__body">
 
-資源の多くを輸入に依存する[日本](/rule/asia/japan/)にとって、海運は経済と国民生活を支える基幹インフラです。[日本](/rule/asia/japan/)の貿易量（重量ベース）の99.6%は海上輸送によって運ばれており{{% cite "mlit_maritime_report" %}}、原油・LNG・鉄鉱石・石炭といった一次資源から自動車・機械製品の輸出に至るまで、外航海運なしには一日たりとも経済は回りません。さらに国内物流においては、内航海運が国内貨物輸送のおよそ4割（トンキロベース）を担い、鉄鋼・石油製品・セメント・自動車などの産業基礎物資の長距離輸送を支えています{{% cite "mlit_naiko" %}}。
-
-海運は大きく外航海運（国境を越えて物資を運ぶ）と内航海運（国内の港と港の間を結ぶ）に分けられ、それぞれ担い手・規制・経済的役割が大きく異なります。外航海運の中心は日本郵船・商船三井・川崎汽船の大手3社で、世界有数のオペレーター・船主国家として[日本](/rule/asia/japan/)商船隊は世界の海運市場で大きな存在感を維持しています{{% cite "jsa_allpage2025" %}}。一方、内航海運は中小事業者が多数を占め、船員の高齢化とドライバー不足を背景にモーダルシフトの受け皿として役割が再評価されています{{% cite "mlit_shipping_transport" %}}。
+<p>資源の多くを輸入に依存する<a href="/rule/asia/japan/">日本</a>にとって、海運は経済と国民生活を支える基幹インフラです。<a href="/rule/asia/japan/">日本</a>の貿易量（重量ベース）の99.6%は海上輸送によって運ばれており{{% cite "mlit_maritime_report" %}}、原油・LNG・鉄鉱石・石炭といった一次資源から自動車・機械製品の輸出に至るまで、外航海運なしには一日たりとも経済は回りません。さらに国内物流においては、内航海運が国内貨物輸送のおよそ4割（トンキロベース）を担い、鉄鋼・石油製品・セメント・自動車などの産業基礎物資の長距離輸送を支えています{{% cite "mlit_naiko" %}}。</p>
+<p>海運は大きく外航海運（国境を越えて物資を運ぶ）と内航海運（国内の港と港の間を結ぶ）に分けられ、それぞれ担い手・規制・経済的役割が大きく異なります。外航海運の中心は日本郵船・商船三井・川崎汽船の大手3社で、世界有数のオペレーター・船主国家として<a href="/rule/asia/japan/">日本</a>商船隊は世界の海運市場で大きな存在感を維持しています{{% cite "jsa_allpage2025" %}}。一方、内航海運は中小事業者が多数を占め、船員の高齢化とドライバー不足を背景にモーダルシフトの受け皿として役割が再評価されています{{% cite "mlit_shipping_transport" %}}。</p>
 
 <div class="stat-grid">
   <div class="stat-card"><div class="stat-num">99.6%<span class="stat-sub">（重量ベース）</span>{{% cite "mlit_maritime_report" %}}</div><div class="stat-label">貿易量の海上輸送比率</div></div>
@@ -38,6 +35,18 @@ mapPins:
   <div class="stat-card"><div class="stat-num">約40%<span class="stat-sub">（トンキロベース）</span>{{% cite "meti2024_ship" %}}</div><div class="stat-label">内航輸送シェア（国内物流）</div></div>
   <div class="stat-card"><div class="stat-num">約2.8万人<span class="stat-sub">（50歳以上が約半数）</span>{{% cite "mlit_naiko" %}}</div><div class="stat-label">内航船員数</div></div>
 </div>
+
+</div>
+<figure class="ind-intro__video">
+{{% yshort "https://www.youtube.com/shorts/K_o6xzcEc5c" %}}
+<figcaption>海運三社（日本郵船・商船三井・川崎汽船）で利益が最大なのはどこ？ 詳しい比較は<a href="#大手3社の徹底比較--売上船隊事業構造">大手3社の徹底比較</a>を参照。</figcaption>
+</figure>
+</div>
+
+<figure style="margin:1.5rem auto;max-width:640px;">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ship_leaves_Yokohama_Harbor_carrying_the_Experiment_Logistics_Module_Pressurized_Section_(JSC2003-E-34750).jpg?width=640" alt="横浜港を出航するコンテナ船" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">横浜港を出航するコンテナ船。日本の貿易量の99.6%は海上輸送によって運ばれており、外航海運は日本経済の基盤を支えています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Ship_leaves_Yokohama_Harbor_carrying_the_Experiment_Logistics_Module_Pressurized_Section_(JSC2003-E-34750).jpg" target="_blank" rel="noopener noreferrer">NASA / Wikimedia Commons (Public domain)</a></figcaption>
+</figure>
 
 ## 外航海運と内航海運 — 二つの世界
 
