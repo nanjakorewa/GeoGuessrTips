@@ -20,20 +20,29 @@ mapPins:
 
 ## [日本](/rule/asia/japan/)の産業用ロボット産業の概観
 
-<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Staeubli_Robots_line.jpg?width=420" alt="産業用ロボット" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
-  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">複数の産業用ロボット（スターブリ・ロボティクス製）がラインで作動しています。日本企業（FANUC・安川電機・川崎重工など）は世界の産業用ロボット市場で約45～46%のシェアを占めています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Staeubli_Robots_line.jpg" target="_blank" rel="noopener noreferrer">Clemenspool / Wikimedia Commons (CC0 1.0 / Public Domain)</a></figcaption>
-</figure>
+<div class="ind-intro">
+<div class="ind-intro__body">
 
-産業用ロボット（Industrial Robot）は、自動車・電子機器・食品・機械加工などの製造業で多関節アーム、直列リンク機構、平行リンク機構などの形態をした自動化機械です。世界の産業用ロボット市場は、2024年に<span style="font-weight:700">542,000台が稼働</span>{{% cite "ifr_2025_report" %}}され、年間出荷台数の歴史としては<span style="font-weight:700">2位の水準</span>{{% cite "ifr_2025_report" %}}にあります。[日本](/rule/asia/japan/)は世界最大のロボット製造国で、<span style="font-weight:700">全球供給の約45～46%を占める</span>{{% cite "ifr_japan_leader" %}}工業用ロボットスーパーパワーです。
-
-2024年に[日本](/rule/asia/japan/)国内では<span style="font-weight:700">44,500台のロボットが導入</span>{{% cite "ifr_japan_2024" %}}され、稼働中のロボット数は450,500台に達しています。一方、[日本](/rule/asia/japan/)ロボット工業会（JARA）統計では、2024年の受注額が前年比1.3%減の832.1億円、生産額が12.4%減の781.1億円、出荷額が10.6%減の825.2億円を記録しています{{% cite "jara_2024" %}}。
+<p>産業用ロボット（Industrial Robot）は、自動車・電子機器・食品・機械加工などの製造業で多関節アーム、直列リンク機構、平行リンク機構などの形態をした自動化機械です。世界の産業用ロボット市場は、2024年に<span style="font-weight:700">542,000台が稼働</span>{{% cite "ifr_2025_report" %}}され、年間出荷台数の歴史としては<span style="font-weight:700">2位の水準</span>{{% cite "ifr_2025_report" %}}にあります。<a href="/rule/asia/japan/">日本</a>は世界最大のロボット製造国で、<span style="font-weight:700">全球供給の約45～46%を占める</span>{{% cite "ifr_japan_leader" %}}工業用ロボットスーパーパワーです。</p>
+<p>2024年に<a href="/rule/asia/japan/">日本</a>国内では<span style="font-weight:700">44,500台のロボットが導入</span>{{% cite "ifr_japan_2024" %}}され、稼働中のロボット数は450,500台に達しています。一方、<a href="/rule/asia/japan/">日本</a>ロボット工業会（JARA）統計では、2024年の受注額が前年比1.3%減の832.1億円、生産額が12.4%減の781.1億円、出荷額が10.6%減の825.2億円を記録しています{{% cite "jara_2024" %}}。</p>
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">45～46%</div><div class="stat-label"><a href="/rule/asia/japan/">日本</a>の全球産業用ロボット製造シェア</div></div>
 <div class="stat-card"><div class="stat-num">542,000台</div><div class="stat-label">2024年の全球ロボット稼働数</div></div>
 <div class="stat-card"><div class="stat-num">44,500台</div><div class="stat-label">2024年の<a href="/rule/asia/japan/">日本</a>国内導入台数</div></div>
 </div>
+
+</div>
+<figure class="ind-intro__video">
+{{% yshort "https://www.youtube.com/shorts/DVOzGOLpw8U" %}}
+<figcaption>産業用ロボットメーカーを解説した動画。世界シェアの構図は<a href="#世界トップ4とそれ以降のグローバル競争構図">世界トップ4とそれ以降のグローバル競争構図</a>を参照。</figcaption>
+</figure>
+</div>
+
+<figure style="margin:1.5rem auto;max-width:640px;">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Staeubli_Robots_line.jpg?width=640" alt="産業用ロボット" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">複数の産業用ロボット（スターブリ・ロボティクス製）がラインで作動しています。日本企業（FANUC・安川電機・川崎重工など）は世界の産業用ロボット市場で約45～46%のシェアを占めています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Staeubli_Robots_line.jpg" target="_blank" rel="noopener noreferrer">Clemenspool / Wikimedia Commons (CC0 1.0 / Public Domain)</a></figcaption>
+</figure>
 
 ## 世界トップ4とそれ以降のグローバル競争構図
 

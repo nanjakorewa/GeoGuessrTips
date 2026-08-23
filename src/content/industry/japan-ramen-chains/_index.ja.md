@@ -27,15 +27,11 @@ mapPins:
 
 ## [日本](/rule/asia/japan/)のご当地ラーメンチェーンとは
 
-<figure style="float:right;clear:right;margin:0 0 14px 22px;max-width:min(420px,45%);">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gifu_Tanmen_%28%EF%BC%8BAjitama%29_20210317.jpg?width=420" alt="岐阜タンメン" loading="lazy" style="width:100%;height:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
-  <div style="display:none;background:#f3f4f6;padding:40px 20px;text-align:center;color:#9ca3af;border-radius:0;">📷 画像未設定</div>
-  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">愛知県稲沢市の屋台「タンメン専門店 板谷」（2009年）を起源とし、2010年に岐阜市に店舗型を出店した「岐阜タンメン」。東海地方のチェーンとして急成長し、東海・関東等にも展開。ご当地ラーメンが新たに生まれ全国に広がる代表例。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Gifu_Tanmen_(%EF%BC%8BAjitama)_20210317.jpg" target="_blank" rel="noopener noreferrer">先従隗始 / Wikimedia Commons (CC0)</a></figcaption>
-</figure>
+<div class="ind-intro">
+<div class="ind-intro__body">
 
-[日本](/rule/asia/japan/)のラーメン業界は<span style="font-weight:700">店舗数約3万店、市場規模約6,700億円</span>{{% cite "yano_ramen" %}}と推計される巨大市場ですが、特徴的なのは「<span style="font-weight:700">地域ごとに全く異なるご当地ラーメン文化</span>」がベースにある点です。札幌の味噌、博多の豚骨、横浜の家系、京都の背脂、和歌山の中華そば、徳島ラーメン、喜多方ラーメン、熊本ラーメン等々、47都道府県それぞれに固有の麺文化が存在し、それぞれの地域に根付いた老舗・地域チェーンが多数あります。
-
-近年は<span style="font-weight:700">一風堂・一蘭（博多豚骨）、町田商店（家系）、来来亭（京都風）</span>等、地域発祥のチェーンが全国・海外展開する動きが加速。ご当地ラーメンが「地域ブランド」として全国に商品化される時代になっています{{% cite "wina_demand" %}}。
+<p><a href="/rule/asia/japan/">日本</a>のラーメン業界は<span style="font-weight:700">店舗数約3万店、市場規模約6,700億円</span>{{% cite "yano_ramen" %}}と推計される巨大市場ですが、特徴的なのは「<span style="font-weight:700">地域ごとに全く異なるご当地ラーメン文化</span>」がベースにある点です。札幌の味噌、博多の豚骨、横浜の家系、京都の背脂、和歌山の中華そば、徳島ラーメン、喜多方ラーメン、熊本ラーメン等々、47都道府県それぞれに固有の麺文化が存在し、それぞれの地域に根付いた老舗・地域チェーンが多数あります。</p>
+<p>近年は<span style="font-weight:700">一風堂・一蘭（博多豚骨）、町田商店（家系）、来来亭（京都風）</span>等、地域発祥のチェーンが全国・海外展開する動きが加速。ご当地ラーメンが「地域ブランド」として全国に商品化される時代になっています{{% cite "wina_demand" %}}。</p>
 
 <div class="stat-grid">
 <div class="stat-card"><div class="stat-num">約3万店</div><div class="stat-label">国内のラーメン店舗数（中華そば店含む推計）</div></div>
@@ -43,6 +39,19 @@ mapPins:
 <div class="stat-card"><div class="stat-num">9〜10%</div><div class="stat-label">大手チェーン売上が全市場に占めるシェア（個人店が圧倒）</div></div>
 <div class="stat-card"><div class="stat-num">50以上</div><div class="stat-label">日本で広く認知される「ご当地ラーメン」の種類</div></div>
 </div>
+
+</div>
+<figure class="ind-intro__video">
+{{% yshort "https://www.youtube.com/shorts/WG3DV8yeZLY" %}}
+<figcaption>全国区になったご当地ラーメンチェーンを解説した動画。主要チェーンの一覧は<a href="#全国展開する主要ご当地ラーメンチェーン">全国展開する主要ご当地ラーメンチェーン</a>を参照。</figcaption>
+</figure>
+</div>
+
+<figure style="margin:1.5rem auto;max-width:640px;">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gifu_Tanmen_%28%EF%BC%8BAjitama%29_20210317.jpg?width=640" alt="岐阜タンメン" loading="lazy" style="width:100%;height:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
+  <div style="display:none;background:#f3f4f6;padding:40px 20px;text-align:center;color:#9ca3af;border-radius:0;">📷 画像未設定</div>
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">愛知県稲沢市の屋台「タンメン専門店 板谷」（2009年）を起源とし、2010年に岐阜市に店舗型を出店した「岐阜タンメン」。東海地方のチェーンとして急成長し、東海・関東等にも展開。ご当地ラーメンが新たに生まれ全国に広がる代表例。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Gifu_Tanmen_(%EF%BC%8BAjitama)_20210317.jpg" target="_blank" rel="noopener noreferrer">先従隗始 / Wikimedia Commons (CC0)</a></figcaption>
+</figure>
 
 ## 地域ごとに違う麺文化
 
