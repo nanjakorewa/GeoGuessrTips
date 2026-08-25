@@ -15,6 +15,7 @@ import SearchModal from "@components/search/SearchModal.astro";
 import TableOfContents from "@components/TableOfContents.astro";
 import IndustryOSMMap from "@components/IndustryOSMMap.astro";
 import NoticeBar from "@components/NoticeBar.astro";
+import VideoPanel from "@components/VideoPanel.astro";
 
 interface Props {
   entry: any;
@@ -155,6 +156,7 @@ if (lang !== "ja") {
       municipalities: data.municipalities ?? jaData.municipalities,
       heroGallery: data.heroGallery ?? jaData.heroGallery,
       prefSymbols: data.prefSymbols ?? jaData.prefSymbols,
+      videoPanel: data.videoPanel ?? jaData.videoPanel,
     };
   }
 }
@@ -458,13 +460,6 @@ const useHeroLayout = useOSMHero || useWorldJSMapHero;
 
 // --- Flag path ---
 const flagPath = data.flag ? `/flags/${data.flag}` : "";
-
-// --- Share URL ---
-const shareText = encodeURIComponent(`${data.title} | ${siteTitle}`);
-const shareURL = `https://twitter.com/intent/tweet?url=${encodeURIComponent(canonical)}&text=${shareText}`;
-const chatGptPrompt = encodeURIComponent(
-  `${canonical}のURLに載っている情報のほかに、${data.title}をGeoGuessrで当てるうえでヒントになる情報があれば教えてください。`
-);
 
 // --- Last modified display ---
 const lastmodDisplay = modifiedTime
@@ -1547,82 +1542,6 @@ const lastmodDisplay = modifiedTime
     </div>
   </section>
 
-  {/* Floating share buttons */}
-  <div class="floating-share-group">
-    <button
-      class="floating-action floating-copy-url"
-      type="button"
-      data-tooltip={t("floating_copy_tooltip", lang)}
-      data-success-tooltip={t("floating_copy_success", lang)}
-      aria-label={t("floating_copy_aria", lang)}
-    >
-      <i class="fas fa-link"></i>
-    </button>
-
-    <a
-      class="floating-action floating-share-x"
-      href={shareURL}
-      target="_blank"
-      rel="noopener"
-      aria-label={t("floating_share_aria", lang)}
-      data-tooltip={t("floating_share_tooltip", lang)}
-    >
-      <i class="fab fa-twitter"></i>
-    </a>
-
-    <a
-      class="floating-action floating-chatgpt"
-      href={`https://chat.openai.com/?q=${chatGptPrompt}`}
-      target="_blank"
-      rel="noopener"
-      aria-label={t("floating_ask_gpt", lang)}
-      data-tooltip={t("floating_ask_gpt", lang)}
-    >
-      <i class="fas fa-comments"></i>
-    </a>
-  </div>
-
-  <script is:inline>
-    (() => {
-      const copyBtn = document.querySelector(".floating-copy-url");
-      if (!copyBtn) return;
-      const tooltipAttr = "data-tooltip";
-      const successAttr = "data-success-tooltip";
-      const defaultMessage = copyBtn.getAttribute(tooltipAttr) || "";
-      const successMessage = copyBtn.getAttribute(successAttr) || defaultMessage;
-      let resetTimer = null;
-      const resetTooltip = () => {
-        copyBtn.setAttribute(tooltipAttr, defaultMessage);
-        copyBtn.classList.remove("is-success");
-      };
-      const showSuccess = () => {
-        copyBtn.setAttribute(tooltipAttr, successMessage);
-        copyBtn.classList.add("is-success");
-        if (resetTimer) clearTimeout(resetTimer);
-        resetTimer = setTimeout(resetTooltip, 2000);
-      };
-      copyBtn.addEventListener("click", async () => {
-        try {
-          if (navigator.clipboard?.writeText) {
-            await navigator.clipboard.writeText(window.location.href);
-          } else {
-            const ta = document.createElement("textarea");
-            ta.value = window.location.href;
-            ta.style.position = "fixed";
-            ta.style.opacity = "0";
-            document.body.appendChild(ta);
-            ta.select();
-            document.execCommand("copy");
-            document.body.removeChild(ta);
-          }
-          showSuccess();
-        } catch (err) {
-          console.error("Failed to copy URL", err);
-        }
-      });
-    })();
-  </script>
-
   <Footer lang={lang} title={data.title} permalink={canonical} flag={data.flag} translations={translationUrls} />
   <SearchModal lang={lang} />
   {data.noticeBar && (
@@ -1630,6 +1549,9 @@ const lastmodDisplay = modifiedTime
       notice={data.noticeBar}
       closeLabel={NOTICE_BAR_CLOSE_LABEL[lang] ?? NOTICE_BAR_CLOSE_LABEL.en}
     />
+  )}
+  {data.videoPanel?.items?.length > 0 && (
+    <VideoPanel videos={data.videoPanel} lang={lang} isPref={!!data.is_pref} />
   )}
 </body>
 </html>

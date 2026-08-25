@@ -229,19 +229,6 @@ html[lang="ja"] body {
   border-color: var(--border-soft) !important;
 }
 
-/* Dark mode: floating action buttons */
-[data-theme="dark"] .floating-action {
-  background: var(--surface-color) !important;
-  border-color: var(--border-soft) !important;
-}
-[data-theme="dark"] .floating-copy-url {
-  background: var(--surface-color) !important;
-}
-[data-theme="dark"] .floating-copy-url:hover,
-[data-theme="dark"] .floating-copy-url:focus {
-  background: var(--accent-soft) !important;
-}
-
 /* Dark mode: reduce image brightness in content */
 [data-theme="dark"] .content img,
 [data-theme="dark"] article img {
@@ -4288,24 +4275,6 @@ section.section-updates {
 @media (max-width: 640px) {
   .corp-grid {
     grid-template-columns: 1fr;
-  }
-}
-
-/* 10. Floating share buttons: reduce size on very small screens */
-@media (max-width: 400px) {
-  .floating-share-group {
-    right: 12px;
-    bottom: 16px;
-    gap: 8px;
-  }
-
-  .floating-action {
-    width: 44px;
-    height: 44px;
-  }
-
-  .floating-action i {
-    font-size: 1rem;
   }
 }
 

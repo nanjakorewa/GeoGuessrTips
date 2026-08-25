@@ -95,6 +95,11 @@ references:
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
   - key: gsi_mencho_2024
     text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
+videoPanel:
+  items:
+    - type: instagram
+      url: "https://www.instagram.com/reel/DccFhUzH30n/"
+      title: "山口県の風景"
 ---
 
 <div class="main-desciption country-description">

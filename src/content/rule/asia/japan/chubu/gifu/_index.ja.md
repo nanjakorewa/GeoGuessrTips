@@ -172,6 +172,11 @@ prefInfo:
     - url: '/industry/japan-ramen-chains/'
       title: '日本のご当地ラーメンチェーン'
       note: '岐阜タンメン（2009年稲沢市の屋台発祥）'
+videoPanel:
+  items:
+    - type: instagram
+      url: "https://www.instagram.com/reel/DcZjNsVn1SV/"
+      title: "岐阜県の風景"
 ---
 
 <div class="main-desciption country-description">

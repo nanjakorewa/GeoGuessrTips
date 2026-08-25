@@ -178,6 +178,30 @@ const ruleCollection = defineCollection({
       )
       .optional(),
 
+    // Related short-form videos / social posts for this page (prefecture or
+    // country). Rendered by components/VideoPanel.astro as a floating button
+    // in the bottom-right corner that slides a navy panel up from the bottom.
+    // Nothing is rendered when the field is absent.
+    videoPanel: z.object({
+      /** Overrides the panel heading. Defaults to a translated label. */
+      title: z.string().optional(),
+      items: z.array(z.object({
+        /** "youtube" takes `id`; "instagram" takes `url` (post/reel permalink) */
+        type: z.enum(["youtube", "instagram"]),
+        /** YouTube video ID (the part after /embed/ or ?v=) */
+        id: z.string().optional(),
+        /** Instagram permalink, e.g. https://www.instagram.com/reel/XXXX/ */
+        url: z.string().optional(),
+        /** Caption shown under the embed */
+        title: z.string().optional(),
+        /**
+         * Frame shape. Shorts / reels are portrait (default); set "landscape"
+         * for ordinary 16:9 YouTube uploads.
+         */
+        orientation: z.enum(["portrait", "landscape"]).optional(),
+      })).min(1),
+    }).optional(),
+
     // Fixed notice bar pinned to the bottom of the viewport. Intended for
     // time-limited announcements tied to a specific page (disaster relief
     // donation drives, temporary notices, etc.). Rendered only when present.

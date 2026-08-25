@@ -55,10 +55,6 @@ if (currentSlug) {
 const publishedTime = data.date ? new Date(data.date) : undefined;
 const modifiedTime = data.lastmod ? new Date(data.lastmod) : publishedTime;
 
-// --- Share ---
-const shareText = encodeURIComponent(`${data.title} | ${siteTitle}`);
-const shareURL = `https://twitter.com/intent/tweet?url=${encodeURIComponent(canonical)}&text=${shareText}`;
-
 // --- Quiz Data ---
 const options = data.quiz_options || [];
 const correctAnswer = data.quiz_answer || 1;

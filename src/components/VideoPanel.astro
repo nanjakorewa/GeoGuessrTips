@@ -1,0 +1,472 @@
+---
+/**
+ * VideoPanel — floating "watch videos" button plus a navy panel that slides
+ * up from the bottom of the viewport with YouTube / Instagram embeds.
+ *
+ * Driven entirely by the page's `videos` frontmatter (see content/config.ts),
+ * so any prefecture or country page can opt in by adding the block to its
+ * markdown. Nothing is rendered on pages without the field.
+ *
+ * Embeds are deliberately NOT loaded on page load:
+ * - YouTube iframes carry their URL in `data-src` and only get a real `src`
+ *   the first time the panel is opened.
+ * - Instagram's embed.js (~100KB, third-party) is injected on first open too.
+ * This keeps the cost of the feature at zero for visitors who never open it.
+ */
+import type { Language } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+
+interface VideoItem {
+  type: "youtube" | "instagram";
+  id?: string;
+  url?: string;
+  title?: string;
+  orientation?: "portrait" | "landscape";
+}
+
+interface Props {
+  videos: { title?: string; items: VideoItem[] };
+  lang: Language;
+  /** Prefecture pages say "この県の…", everything else "この地域の…" */
+  isPref?: boolean;
+}
+
+const { videos, lang, isPref = false } = Astro.props;
+
+const openLabel = t(isPref ? "video_panel_open_pref" : "video_panel_open_area", lang);
+const panelTitle = videos.title ?? t("video_panel_title", lang);
+const closeLabel = t("video_panel_close", lang);
+const instaLabel = t("video_panel_open_post", lang);
+
+// Drop malformed entries at build time rather than emitting a broken embed.
+const items = videos.items.filter(
+  (v) => (v.type === "youtube" && v.id) || (v.type === "instagram" && v.url)
+);
+
+/** Normalise an Instagram permalink to the form embed.js expects. */
+function instaPermalink(url: string): string {
+  const base = url.split("?")[0].replace(/\/+$/, "");
+  return `${base}/?utm_source=ig_embed&utm_campaign=loading`;
+}
+---
+
+{items.length > 0 && (
+  <Fragment>
+    <button
+      class="video-panel-fab"
+      type="button"
+      id="video-panel-fab"
+      aria-controls="video-panel"
+      aria-expanded="false"
+    >
+      <span class="video-panel-fab__icon" aria-hidden="true">
+        <i class="fas fa-play"></i>
+      </span>
+      <span class="video-panel-fab__label">{openLabel}</span>
+    </button>
+
+    <div class="video-panel-backdrop" id="video-panel-backdrop" hidden></div>
+
+    <section
+      class="video-panel"
+      id="video-panel"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="video-panel-title"
+      hidden
+    >
+      <div class="video-panel__head">
+        <h2 class="video-panel__title" id="video-panel-title">{panelTitle}</h2>
+        <button
+          class="video-panel__close"
+          type="button"
+          id="video-panel-close"
+          aria-label={closeLabel}
+          title={closeLabel}
+        >×</button>
+      </div>
+
+      <div class="video-panel__body">
+        <ul class="video-panel__list">
+          {items.map((v) => (
+            <li class={`video-card video-card--${v.type} video-card--${v.orientation ?? "portrait"}`}>
+              <div class="video-card__frame">
+                {v.type === "youtube" ? (
+                  <iframe
+                    class="video-card__iframe"
+                    data-src={`https://www.youtube.com/embed/${v.id}`}
+                    title={v.title ?? "YouTube"}
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen
+                    loading="lazy"
+                  ></iframe>
+                ) : (
+                  <blockquote
+                    class="instagram-media video-card__insta"
+                    data-instgrm-captioned
+                    data-instgrm-permalink={instaPermalink(v.url!)}
+                    data-instgrm-version="14"
+                  >
+                    <a
+                      class="video-card__insta-fallback"
+                      href={v.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >{instaLabel}</a>
+                  </blockquote>
+                )}
+              </div>
+              {v.title && <p class="video-card__caption">{v.title}</p>}
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+
+    <script is:inline>
+      (function () {
+        var fab = document.getElementById("video-panel-fab");
+        var panel = document.getElementById("video-panel");
+        var backdrop = document.getElementById("video-panel-backdrop");
+        var closeBtn = document.getElementById("video-panel-close");
+        if (!fab || !panel || !backdrop) return;
+
+        var hydrated = false;
+
+        /* First open: give the YouTube iframes their real src and pull in
+           Instagram's embed script. Both are one-shot. */
+        function hydrate() {
+          if (hydrated) return;
+          hydrated = true;
+
+          var frames = panel.querySelectorAll("iframe[data-src]");
+          for (var i = 0; i < frames.length; i++) {
+            frames[i].src = frames[i].getAttribute("data-src");
+            frames[i].removeAttribute("data-src");
+          }
+
+          if (!panel.querySelector(".instagram-media")) return;
+          if (window.instgrm && window.instgrm.Embeds) {
+            window.instgrm.Embeds.process();
+          } else if (!document.getElementById("instagram-embed-js")) {
+            var s = document.createElement("script");
+            s.id = "instagram-embed-js";
+            s.async = true;
+            s.src = "https://www.instagram.com/embed.js";
+            document.body.appendChild(s);
+          }
+        }
+
+        function open() {
+          hydrate();
+          backdrop.hidden = false;
+          panel.hidden = false;
+          /* Let the browser paint the hidden->shown swap before animating in,
+             otherwise the transform transition is skipped. */
+          requestAnimationFrame(function () {
+            backdrop.classList.add("is-open");
+            panel.classList.add("is-open");
+          });
+          fab.setAttribute("aria-expanded", "true");
+          fab.classList.add("is-hidden");
+          document.body.classList.add("has-video-panel-open");
+          if (closeBtn) closeBtn.focus();
+        }
+
+        function close() {
+          backdrop.classList.remove("is-open");
+          panel.classList.remove("is-open");
+          fab.setAttribute("aria-expanded", "false");
+          fab.classList.remove("is-hidden");
+          document.body.classList.remove("has-video-panel-open");
+          /* Stop any playing video by reloading the iframe's own src. */
+          var frames = panel.querySelectorAll("iframe[src]");
+          for (var i = 0; i < frames.length; i++) {
+            frames[i].src = frames[i].src;
+          }
+          window.setTimeout(function () {
+            if (!panel.classList.contains("is-open")) {
+              panel.hidden = true;
+              backdrop.hidden = true;
+            }
+          }, 320);
+          fab.focus();
+        }
+
+        fab.addEventListener("click", open);
+        backdrop.addEventListener("click", close);
+        if (closeBtn) closeBtn.addEventListener("click", close);
+        document.addEventListener("keydown", function (e) {
+          if (e.key === "Escape" && !panel.hidden) close();
+        });
+      })();
+    </script>
+
+    <style is:global>
+      /* --- Floating trigger ------------------------------------------- */
+      /* Square-cornered to match the site's hero/symbol-strip design. */
+      .video-panel-fab {
+        position: fixed;
+        right: 24px;
+        bottom: 24px;
+        z-index: 1250;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.75rem;
+        padding: 1.1rem 1.85rem;
+        background: #1a2535;
+        color: #fff;
+        border: 2px solid #fff;
+        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.32);
+        font-size: 1.08rem;
+        font-weight: 700;
+        line-height: 1;
+        cursor: pointer;
+        transition: transform 0.2s ease, background-color 0.2s ease, opacity 0.2s ease;
+      }
+
+      .video-panel-fab:hover,
+      .video-panel-fab:focus {
+        background: #0f1722;
+        transform: translateY(-2px);
+      }
+
+      .video-panel-fab.is-hidden {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      .video-panel-fab__icon {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 1.9rem;
+        height: 1.9rem;
+        background: #fff;
+        color: #1a2535;
+        flex: 0 0 auto;
+      }
+
+      .video-panel-fab__icon i {
+        font-size: 0.85rem;
+        /* Nudge the play triangle so it reads as optically centred */
+        margin-left: 2px;
+      }
+
+      /* Keep the trigger clear of the fixed notice bar when both are present */
+      body.has-notice-bar .video-panel-fab {
+        bottom: 5.5rem;
+      }
+
+      /* --- Backdrop ---------------------------------------------------- */
+      .video-panel-backdrop {
+        position: fixed;
+        inset: 0;
+        z-index: 1290;
+        background: rgba(10, 15, 23, 0.6);
+        opacity: 0;
+        transition: opacity 0.3s ease;
+      }
+
+      .video-panel-backdrop.is-open {
+        opacity: 1;
+      }
+
+      .video-panel-backdrop[hidden],
+      .video-panel[hidden] {
+        display: none;
+      }
+
+      /* --- Sliding panel ----------------------------------------------- */
+      .video-panel {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 1300;
+        max-height: 88vh;
+        display: flex;
+        flex-direction: column;
+        background: #1a2535;
+        color: #fff;
+        border-top: 3px solid #fff;
+        box-shadow: 0 -6px 28px rgba(0, 0, 0, 0.4);
+        transform: translateY(100%);
+        transition: transform 0.32s cubic-bezier(0.22, 0.61, 0.36, 1);
+      }
+
+      .video-panel.is-open {
+        transform: translateY(0);
+      }
+
+      .video-panel__head {
+        flex: 0 0 auto;
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        max-width: 1400px;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0.9rem 1.5rem;
+      }
+
+      .video-panel__title {
+        margin: 0;
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: #fff;
+        flex: 1 1 auto;
+      }
+
+      .video-panel__close {
+        flex: 0 0 auto;
+        width: 2.25rem;
+        height: 2.25rem;
+        padding: 0;
+        background: transparent;
+        border: none;
+        color: #fff;
+        font-size: 1.6rem;
+        line-height: 1;
+        cursor: pointer;
+      }
+
+      .video-panel__close:hover,
+      .video-panel__close:focus {
+        background: rgba(255, 255, 255, 0.15);
+      }
+
+      .video-panel__body {
+        flex: 1 1 auto;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .video-panel__list {
+        display: flex;
+        gap: 1.5rem;
+        align-items: flex-start;
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 0 1.5rem 1.5rem;
+        list-style: none;
+        overflow-x: auto;
+      }
+
+      /* The global `.content ul li::before` bullet would show through here */
+      .video-panel__list li::before {
+        display: none;
+      }
+
+      .video-card {
+        flex: 0 0 auto;
+        width: 320px;
+        margin: 0;
+        padding: 0;
+      }
+
+      .video-card--landscape {
+        width: 480px;
+      }
+
+      .video-card__frame {
+        position: relative;
+        width: 100%;
+        background: #0f1722;
+      }
+
+      /* Shorts / Reels are 9:16; ordinary uploads 16:9 */
+      .video-card--portrait .video-card__frame {
+        aspect-ratio: 9 / 16;
+      }
+
+      .video-card--landscape .video-card__frame {
+        aspect-ratio: 16 / 9;
+      }
+
+      .video-card__iframe {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+
+      /* Instagram's embed.js swaps the blockquote for an iframe of its own and
+         sets an explicit height, so this card cannot use a fixed aspect box. */
+      .video-card--instagram .video-card__frame {
+        aspect-ratio: auto;
+        background: transparent;
+      }
+
+      .video-card__insta {
+        background: #fff;
+        border: 0;
+        margin: 0 !important;
+        max-width: 100%;
+        min-width: 0 !important;
+        width: 100% !important;
+        padding: 0;
+      }
+
+      .video-card__insta-fallback {
+        display: block;
+        padding: 1.25rem;
+        color: #1a2535;
+        font-weight: 700;
+        text-align: center;
+        text-decoration: none;
+      }
+
+      .video-card__caption {
+        margin: 0.6rem 0 0;
+        font-size: 0.82rem;
+        line-height: 1.5;
+        color: rgba(255, 255, 255, 0.82);
+      }
+
+      @media (max-width: 768px) {
+        .video-panel-fab {
+          right: 12px;
+          bottom: 12px;
+          padding: 0.9rem 1.3rem;
+          font-size: 0.95rem;
+        }
+
+        .video-panel-fab__icon {
+          width: 1.7rem;
+          height: 1.7rem;
+        }
+
+        .video-panel {
+          max-height: 82vh;
+        }
+
+        .video-panel__head {
+          padding: 0.75rem 1rem;
+        }
+
+        .video-panel__title {
+          font-size: 0.95rem;
+        }
+
+        .video-panel__list {
+          padding: 0 1rem 1rem;
+          gap: 1rem;
+        }
+
+        .video-card {
+          width: 78vw;
+          max-width: 320px;
+        }
+
+        .video-card--landscape {
+          width: 88vw;
+          max-width: 480px;
+        }
+      }
+    </style>
+  </Fragment>
+)}
