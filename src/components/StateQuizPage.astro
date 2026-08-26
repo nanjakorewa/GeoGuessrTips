@@ -11,6 +11,7 @@ import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
+import VideoPanel from "@components/VideoPanel.astro";
 import type { Language } from "@lib/i18n-utils";
 import { getQuizI18n } from "../data/quiz-states-i18n";
 
@@ -47,6 +48,9 @@ interface Props {
   /** Optional cross-links shown above the SEO content area (e.g. rule page,
    * city quiz). Rendered only when at least one link is provided. */
   relatedLinks?: RelatedLink[];
+  /** Related videos for this prefecture, carried over from its guide page.
+   * Rendered as a bottom-left trigger (see components/VideoPanel.astro). */
+  videoPanel?: { title?: string; items: any[] };
 }
 
 const {
@@ -61,6 +65,7 @@ const {
   quizStates,
   inlinedSvg,
   relatedLinks = [],
+  videoPanel,
 } = Astro.props as Props;
 
 const t = getQuizI18n(lang);
@@ -582,6 +587,9 @@ const seoNames = quizStates
 
   <Footer lang={lang} title={pageH1} permalink={canonical} />
   <SearchModal lang={lang} />
+  {videoPanel?.items?.length > 0 && (
+    <VideoPanel videos={videoPanel} lang={lang} isPref placement="left" />
+  )}
 
   <script is:inline define:vars={{ quizStates, storageKey, jsLabels }}>
     (function () {

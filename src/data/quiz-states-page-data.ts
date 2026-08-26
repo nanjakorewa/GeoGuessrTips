@@ -143,6 +143,12 @@ export function buildPrefectureQuizProps(
     allRules.find((e) => e.id === `${ruleIdBase}/_index.ja`);
   const titleRaw = localeEntry?.data?.title ?? prefDir;
 
+  // `videoPanel` is authored on the JA guide page only, so read it from there
+  // regardless of the current locale (same fallback the rule layout applies).
+  const jaEntry = allRules.find((e) => e.id === `${ruleIdBase}/_index.ja`);
+  const videoPanel =
+    localeEntry?.data?.videoPanel ?? jaEntry?.data?.videoPanel;
+
   // For JA, suffix prefecture-style ending if missing
   let prefDisplay = titleRaw;
   if (lang === "ja") {
@@ -196,6 +202,7 @@ export function buildPrefectureQuizProps(
     quizStates,
     inlinedSvg,
     relatedLinks,
+    videoPanel,
   };
 }
 

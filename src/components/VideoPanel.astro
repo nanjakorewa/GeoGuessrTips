@@ -29,9 +29,15 @@ interface Props {
   lang: Language;
   /** Prefecture pages say "この県の…", everything else "この地域の…" */
   isPref?: boolean;
+  /**
+   * Which corner the trigger sits in. Quiz pages put it bottom-left so it
+   * stays clear of the map controls; "left" also hides the trigger on narrow
+   * viewports, where the quiz layout collapses and no left gutter remains.
+   */
+  placement?: "right" | "left";
 }
 
-const { videos, lang, isPref = false } = Astro.props;
+const { videos, lang, isPref = false, placement = "right" } = Astro.props;
 
 const openLabel = t(isPref ? "video_panel_open_pref" : "video_panel_open_area", lang);
 const panelTitle = videos.title ?? t("video_panel_title", lang);
@@ -53,7 +59,7 @@ function instaPermalink(url: string): string {
 {items.length > 0 && (
   <Fragment>
     <button
-      class="video-panel-fab"
+      class={`video-panel-fab video-panel-fab--${placement}`}
       type="button"
       id="video-panel-fab"
       aria-controls="video-panel"
@@ -209,7 +215,6 @@ function instaPermalink(url: string): string {
       /* Square-cornered to match the site's hero/symbol-strip design. */
       .video-panel-fab {
         position: fixed;
-        right: 24px;
         bottom: 24px;
         z-index: 1250;
         display: inline-flex;
@@ -225,6 +230,23 @@ function instaPermalink(url: string): string {
         line-height: 1;
         cursor: pointer;
         transition: transform 0.2s ease, background-color 0.2s ease, opacity 0.2s ease;
+      }
+
+      .video-panel-fab--right {
+        right: 24px;
+      }
+
+      .video-panel-fab--left {
+        left: 24px;
+      }
+
+      /* The quiz layout drops its 200px left rail below 980px, leaving no room
+         beside the map. Rather than float the trigger over the quiz itself,
+         hide it — the videos stay reachable from the prefecture guide page. */
+      @media (max-width: 1099px) {
+        .video-panel-fab--left {
+          display: none;
+        }
       }
 
       .video-panel-fab:hover,
@@ -429,10 +451,17 @@ function instaPermalink(url: string): string {
 
       @media (max-width: 768px) {
         .video-panel-fab {
-          right: 12px;
           bottom: 12px;
           padding: 0.9rem 1.3rem;
           font-size: 0.95rem;
+        }
+
+        .video-panel-fab--right {
+          right: 12px;
+        }
+
+        .video-panel-fab--left {
+          left: 12px;
         }
 
         .video-panel-fab__icon {
