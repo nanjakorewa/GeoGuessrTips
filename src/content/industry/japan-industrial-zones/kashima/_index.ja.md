@@ -7,6 +7,7 @@ description: "茨城県鹿嶋・神栖の鹿島臨海工業地域を解説。掘
 weight: 10
 galleryDir: "kashima"
 mapProvider: "osm"
+heroMapArea: "kashima"
 mapPins:
   - { lat: 35.945, lng: 140.730, label: "鹿島港", type: "port", note: "日本最大の掘込港湾。1969年完成。掘込水路長約7km" }
   - { lat: 35.9344, lng: 140.6795, label: "日本製鉄 鹿島製鉄所", type: "steel", note: "高炉容積5,370m³（世界最大級）。粗鋼能力約400〜500万t/年", link: "/industry/japan-combinat/kashima/" }

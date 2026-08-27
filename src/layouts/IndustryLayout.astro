@@ -4,7 +4,8 @@ import { buildUrl, extractLangFromId, extractSlugFromId, DEFAULT_LANG } from "@l
 import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Footer from "@components/footer/Footer.astro";
-import IndustryOSMMap from "@components/IndustryOSMMap.astro";
+import StaticGeoMap from "@components/StaticGeoMap.astro";
+import { resolveHeroMap } from "../data/hero-map";
 import { getCollection } from "astro:content";
 
 interface Props {
@@ -25,8 +26,9 @@ const ogImage = data.og_image || `${site}/images/icon-512x512.png`;
 const currentSlug = extractSlugFromId(entry.id);
 const canonical = `${site}${buildUrl(collection, currentSlug, lang)}`;
 
-// Map provider: "osm" を指定した場合は Leaflet/OSM 経路。未指定（既定）は JSMaps。
+// Map provider: "osm" は歴史的経緯の値。現在は外部タイルなしの静的SVG地図を指す。
 const useOSM = data.mapProvider === "osm";
+const heroMapDef = useOSM ? resolveHeroMap("industry", currentSlug, data) : null;
 
 // JSMaps（OSM を使う場合は読み込み不要）
 const needsJSMaps = !useOSM && (!!data.mapName || !!data.map_index);
@@ -329,11 +331,29 @@ if (data.galleryDir) {
     .ind-map-wrapper.ind-map-wrapper--world {
       max-width: 960px;
     }
-    /* OSM map (Leaflet) — fill width responsively, no inner padding to maximize map area */
+    /* 静的SVGヒーロー地図 — fill width responsively, no inner padding to maximize map area */
     .ind-map-wrapper.ind-map-wrapper--osm {
       max-width: min(1200px, 100%);
       padding: 0;
     }
+    /* 地図アセットがないページ向けのスポット一覧 */
+    .ind-map-spots {
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      padding: 14px 18px;
+      color: #e7ecf2;
+      font-size: 13px;
+      line-height: 1.7;
+    }
+    .ind-map-spots ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 4px 18px;
+    }
+    .ind-map-spots a { color: #9cc4ea; }
     .ind-map-wrapper #world-map {
       width: 100%;
       background: transparent;
@@ -1518,12 +1538,24 @@ if (data.galleryDir) {
         <div class="ind-map-clamp" id="ind-map-clamp">
           {useOSM ? (
             <div class="ind-map-wrapper ind-map-wrapper--osm">
-              <IndustryOSMMap
-                pins={data.mapPins || []}
-                center={data.mapCenter}
-                zoom={data.mapZoom}
-                regions={data.mapRegions}
-              />
+              {heroMapDef ? (
+                <StaticGeoMap
+                  def={heroMapDef}
+                  pins={data.mapPins || []}
+                  regions={data.mapRegions}
+                />
+              ) : (
+                <div class="ind-map-spots">
+                  <ul>
+                    {(data.mapPins || []).map((p: { label: string; note?: string; link?: string }) => (
+                      <li>
+                        <strong>{p.link ? <a href={p.link}>{p.label}</a> : p.label}</strong>
+                        {p.note && <span> — {p.note}</span>}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
             </div>
           ) : (
             <div class={`ind-map-wrapper${data.mapName === "world" ? " ind-map-wrapper--world" : ""}`}>

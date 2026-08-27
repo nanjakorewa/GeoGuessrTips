@@ -22,6 +22,29 @@
 - [香港の標識：content/rule/asia/hongkong/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/asia/hongkong/r)
 - [カナダの標識：content/rule/n_america/canada/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/n_america/canada/r)
 
+## ヒーロー地図（静的SVG・外部タイル不使用）
+
+かつてヒーロー地図は Leaflet + CARTO/OSM タイルで描画していたが、外部タイルサーバーの
+レート制限を受けるため全面的に廃止した。現在はリポジトリ内で生成済みの境界 SVG に
+等距円筒図法の投影パラメータで緯度経度ピンを重ねており、ランタイムの外部リクエストはゼロ。
+
+- 表示コンポーネント: `src/components/StaticGeoMap.astro`（ビルド時に SVG をインライン展開）
+- 地図の解決ロジック: `src/data/hero-map.ts`（都道府県 / 日本全図 / 国 / 局所エリア / world を自動選択。
+  該当する SVG がない国は「主要スポット一覧」パネルにフォールバック）
+- 投影パラメータ:
+  - 都道府県: `src/data/pref-projections.json` ← `scripts/compute-pref-projections.cjs`
+    （`c:/tmp/jp_muni` の N03 キャッシュから再計算し、既存 SVG と突き合わせ検証）
+  - 国: `src/data/quiz-cities/{country}.ts` の `{COUNTRY}_PROJECTION`
+  - 局所エリア（コンビナート等）: `src/data/area-projections.json` ← `scripts/generate-area-maps.cjs`
+- インドネシア kabupaten クイズ（`PinQuizPage.astro`）も Leaflet を廃止し、
+  `public/maps/indonesia-adm2.svg`（`scripts/generate-indonesia-adm2-svg.cjs` で生成）を
+  背景に自前のパン/ズームで動く
+- ピン位置の検証: `node scripts/verify-pref-pins.cjs`
+  （県庁所在地ピンが県庁所在地の自治体ポリゴンに入るかをレイキャスティングで確認）
+
+frontmatter の `mapProvider: "osm"` は歴史的経緯の値で、「ヒーロー地図を表示する」の意味。
+`heroMapArea: "<slug>"` を指定すると `public/maps/areas/<slug>.svg` の局所エリア地図を使う。
+
 ## コミット時の注意点
 
 - 標識の画像はパブリックドメイン・CC0・国ごとのライセンス的にokなものに限定する

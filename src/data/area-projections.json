@@ -1,0 +1,58 @@
+{
+  "kashima": {
+    "svgPath": "/maps/areas/kashima.svg",
+    "label": "鹿島臨海工業地帯",
+    "projection": {
+      "minLon": 140.5,
+      "minLat": 35.79,
+      "maxLon": 140.79,
+      "maxLat": 36.05,
+      "cosLat": 0.80983690853404,
+      "scale": 2384.4732963013703,
+      "offX": 0,
+      "offY": 0
+    }
+  },
+  "keiyo": {
+    "svgPath": "/maps/areas/keiyo.svg",
+    "label": "京葉工業地域",
+    "projection": {
+      "minLon": 139.72,
+      "minLat": 35.42,
+      "maxLon": 140.2,
+      "maxLat": 35.78,
+      "cosLat": 0.8131007610470277,
+      "scale": 1434.8365203402072,
+      "offX": 0,
+      "offY": 0
+    }
+  },
+  "mizushima": {
+    "svgPath": "/maps/areas/mizushima.svg",
+    "label": "水島コンビナート",
+    "projection": {
+      "minLon": 133.58,
+      "minLat": 34.36,
+      "maxLon": 133.94,
+      "maxLat": 34.64,
+      "cosLat": 0.8241261886220157,
+      "scale": 1887.5210823679733,
+      "offX": 0,
+      "offY": 0
+    }
+  },
+  "setouchi": {
+    "svgPath": "/maps/areas/setouchi.svg",
+    "label": "瀬戸内工業地域",
+    "projection": {
+      "minLon": 130.7,
+      "minLat": 33.4,
+      "maxLon": 135.1,
+      "maxLat": 34.95,
+      "cosLat": 0.8273257506749028,
+      "scale": 153.8362938285223,
+      "offX": 0,
+      "offY": 0
+    }
+  }
+}

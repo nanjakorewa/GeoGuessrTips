@@ -7,6 +7,7 @@ description: "千葉県東京湾岸に広がる京葉コンビナートの詳細
 weight: 10
 galleryDir: "japan-combinat-keiyo"
 mapProvider: "osm"
+heroMapArea: "keiyo"
 mapPins:
   - { lat: 35.605, lng: 140.095, label: "千葉港", type: "port", note: "国内最大級の取扱量。コンビナート輸出入の中核" }
   - { lat: 35.5789, lng: 140.0967, label: "JFEスチール 東日本製鉄所（千葉）", type: "steel", note: "国内有数の一貫製鉄所。粗鋼能力約700万t/年級" }

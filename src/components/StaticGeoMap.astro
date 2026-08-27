@@ -1,0 +1,480 @@
+---
+/**
+ * 静的ヒーロー地図。外部タイルサービス（OSM/CARTO）への依存を廃止し、
+ * リポジトリ内で生成済みの境界 SVG をビルド時にインライン展開して、
+ * 緯度経度ピンを投影で重ねる。ランタイムの外部リクエストはゼロ。
+ *
+ * - 都道府県ページ: public/maps/prefectures/{pref}.svg（国土数値情報 N03 由来）
+ * - 国ページ:       public/maps/countries/{slug}.svg（Natural Earth 由来）
+ * - 産業ページ:     日本全図 / 単一国 / world.svg を自動選択（hero-map.ts）
+ * - mapRegions:     コロプレス（地域色分け）をビルド時に SVG へ直接着色
+ *
+ * ピンは SVG ではなく HTML オーバーレイ（% 配置）で重ねる。表示スケールに
+ * 依存せずラベル文字がくっきり描画され、クリックでポップアップを開ける。
+ */
+import fs from "node:fs";
+import path from "node:path";
+import type { HeroMapDef } from "../data/hero-map";
+import { projectHero } from "../data/hero-map";
+
+interface Pin {
+  lat: number;
+  lng: number;
+  label: string;
+  note?: string;
+  type?: string;
+  link?: string;
+}
+
+interface RegionGroup {
+  name: string;
+  color: string;
+  regions: string[];
+  note?: string;
+}
+
+interface MapRegions {
+  source: string;
+  topojsonObject?: string;
+  property: string;
+  groups: RegionGroup[];
+  legendTitle?: string;
+}
+
+interface Props {
+  def: HeroMapDef;
+  pins: Pin[];
+  regions?: MapRegions;
+  /** 地図の最大表示高さ(px) */
+  maxHeight?: number;
+}
+
+const { def, pins, regions, maxHeight = 480 } = Astro.props;
+
+// ---------- SVG 読み込み ----------
+const svgFile = path.join(process.cwd(), "public", def.svgPath.replace(/^\/+/, ""));
+let svgRaw = "";
+try {
+  svgRaw = fs.readFileSync(svgFile, "utf8");
+} catch {
+  svgRaw = "";
+}
+
+// ルート <svg> タグを剥がして中身と viewBox を取り出す
+let fullVB = { x: 0, y: 0, w: 560, h: 640 };
+let svgInner = "";
+{
+  const m = svgRaw.match(/<svg[^>]*>/i);
+  if (m) {
+    const vb = m[0].match(/viewbox="([\d.\s-]+)"/i);
+    if (vb) {
+      const [x, y, w, h] = vb[1].trim().split(/\s+/).map(Number);
+      fullVB = { x, y, w, h };
+    }
+    svgInner = svgRaw
+      .slice(svgRaw.indexOf(m[0]) + m[0].length)
+      .replace(/<\/svg>\s*$/i, "");
+  }
+}
+
+// ---------- コロプレス（ビルド時着色） ----------
+// path の data-name / data-code を groups.regions と正規化比較して着色する。
+// 正規化: 小文字化・空白/ハイフン除去。さらに末尾の ken/to/fu/do を落とした
+// 候補も試す（"Gifu Ken" → "gifu"、"Hokkai Do" → "hokkaido" の両対応）。
+function normName(s: string): string {
+  return s
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "") // マクロン等のダイアクリティカルを除去（Ōsaka → Osaka）
+    .toLowerCase()
+    .replace(/[\s_-]/g, "");
+}
+function regionCandidates(s: string): string[] {
+  const n = normName(s);
+  const stripped = n.replace(/(ken|to|fu|do)$/, "");
+  return stripped && stripped !== n ? [n, stripped] : [n];
+}
+if (regions && svgInner) {
+  const lookup = new Map<string, RegionGroup>();
+  for (const g of regions.groups) {
+    for (const r of g.regions) {
+      for (const cand of regionCandidates(r)) lookup.set(cand, g);
+    }
+  }
+  svgInner = svgInner.replace(/<path\b[^>]*>/g, (tag) => {
+    const nameM = tag.match(/data-name="([^"]*)"/);
+    const codeM = tag.match(/data-code="([^"]*)"/);
+    let group: RegionGroup | undefined;
+    if (nameM) group = lookup.get(normName(nameM[1]));
+    if (!group && codeM) group = lookup.get(normName(codeM[1]));
+    if (!group) return tag;
+    return tag.replace(
+      /<path\b/,
+      `<path style="fill:${group.color};fill-opacity:0.55" data-region-group="${group.name.replace(/"/g, "&quot;")}"`,
+    );
+  });
+}
+
+// ---------- 表示 viewBox ----------
+// fit=full: 投影パラメータから描画内容のバウンディングボックスへクロップ
+// fit=pins: ピンの範囲＋マージンへクロップ（world.svg の大陸表示など）
+const projected = pins.map((p) => ({ ...p, ...projectHero(def, p.lat, p.lng) }));
+
+let vb = { ...fullVB };
+if (def.kind === "linear" && def.projection) {
+  const p = def.projection;
+  const contentW = (p.maxLon - p.minLon) * p.cosLat * p.scale;
+  const contentH = (p.maxLat - p.minLat) * p.scale;
+  const m = 12;
+  vb = {
+    x: p.offX - m,
+    y: p.offY - m,
+    w: contentW + m * 2,
+    h: contentH + m * 2,
+  };
+}
+if (def.fit === "pins" && projected.length) {
+  const xs = projected.map((p) => p.x);
+  const ys = projected.map((p) => p.y);
+  let x0 = Math.min(...xs);
+  let x1 = Math.max(...xs);
+  let y0 = Math.min(...ys);
+  let y1 = Math.max(...ys);
+  const mx = Math.max((x1 - x0) * 0.22, 30);
+  const my = Math.max((y1 - y0) * 0.22, 30);
+  x0 -= mx; x1 += mx; y0 -= my; y1 += my;
+  // 元の SVG 範囲へクランプ
+  x0 = Math.max(x0, fullVB.x); y0 = Math.max(y0, fullVB.y);
+  x1 = Math.min(x1, fullVB.x + fullVB.w); y1 = Math.min(y1, fullVB.y + fullVB.h);
+  // 極端な縦長・横長を防ぐ（最小アスペクト 4:3 側へ広げる）
+  let w = x1 - x0;
+  let h = y1 - y0;
+  if (w / h > 2.2) { const nh = w / 2.2; y0 -= (nh - h) / 2; h = nh; }
+  if (h / w > 1.6) { const nw = h / 1.6; x0 -= (nw - w) / 2; w = nw; }
+  vb = { x: x0, y: y0, w, h };
+}
+
+const ratio = vb.w / vb.h;
+const stageMaxW = Math.round(maxHeight * ratio);
+
+// ピンの % 位置（クロップ後 viewBox 基準）。
+// 表示範囲から大きく外れるピン（例: 東京の伊豆諸島 — SVG 自体が本土のみ）は
+// 描画しても見えない位置に落ちるため除外する。
+const pinPos = projected
+  .map((p) => ({
+    ...p,
+    leftPct: ((p.x - vb.x) / vb.w) * 100,
+    topPct: ((p.y - vb.y) / vb.h) * 100,
+  }))
+  .filter(
+    (p) => p.leftPct >= -2 && p.leftPct <= 102 && p.topPct >= -2 && p.topPct <= 102,
+  );
+
+// pick モード（ピン座標調整用）向けの逆投影パラメータ
+const pickParams =
+  def.kind === "linear" && def.projection
+    ? {
+        minLon: def.projection.minLon,
+        maxLat: def.projection.maxLat,
+        cosLat: def.projection.cosLat,
+        scale: def.projection.scale,
+        offX: def.projection.offX,
+        offY: def.projection.offY,
+        vb,
+      }
+    : null;
+
+// 出典表記
+const credit =
+  def.svgPath.startsWith("/maps/prefectures/")
+    ? "国土数値情報（国土交通省）N03 を加工"
+    : def.svgPath.startsWith("/maps/countries/")
+      ? "Natural Earth を加工"
+      : "";
+---
+
+<div class="geo-hero-map" data-map-kind={def.kind}>
+  <div class="geo-hero-map__stage" style={`width:min(100%, ${stageMaxW}px)`}>
+    <svg
+      class="geo-hero-map__svg"
+      viewBox={`${vb.x.toFixed(2)} ${vb.y.toFixed(2)} ${vb.w.toFixed(2)} ${vb.h.toFixed(2)}`}
+      xmlns="http://www.w3.org/2000/svg"
+      role="img"
+      aria-label="地図"
+      data-pick={pickParams ? JSON.stringify(pickParams) : null}
+      set:html={svgInner}
+    />
+    {pinPos.map((p) => (
+      <div
+        class="geo-pin"
+        style={`left:${p.leftPct.toFixed(3)}%;top:${p.topPct.toFixed(3)}%`}
+      >
+        <button
+          type="button"
+          class="geo-pin__dot"
+          aria-label={p.label}
+          aria-expanded="false"
+        ></button>
+        <div class="geo-pin__label">{p.label}</div>
+        {(p.note || p.link) && (
+          <div class="geo-pin__popup" hidden>
+            <div class="geo-pin__popup-title">{p.label}</div>
+            {p.note && <div class="geo-pin__popup-note">{p.note}</div>}
+            {p.link && <a class="geo-pin__popup-link" href={p.link}>詳細を見る →</a>}
+          </div>
+        )}
+      </div>
+    ))}
+    {regions && (
+      <div class="geo-hero-legend">
+        {regions.legendTitle && (
+          <div class="geo-hero-legend__title">{regions.legendTitle}</div>
+        )}
+        {regions.groups.map((g) => (
+          <div class="geo-hero-legend__item" title={g.note || ""}>
+            <span class="geo-hero-legend__swatch" style={`background:${g.color}`}></span>
+            <span>{g.name}</span>
+          </div>
+        ))}
+      </div>
+    )}
+  </div>
+  {credit && <div class="geo-hero-map__credit">{credit}</div>}
+</div>
+
+<style is:global>
+  .geo-hero-map {
+    width: 100%;
+    max-height: 520px;
+    background: #dfe7ee;
+    position: relative;
+    z-index: 0;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 0 18px;
+    box-sizing: border-box;
+  }
+  [data-theme="dark"] .geo-hero-map {
+    background: #20272e;
+  }
+  .geo-hero-map__stage {
+    position: relative;
+    margin: 0 auto;
+  }
+  .geo-hero-map__svg {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  /* 境界ポリゴンの色（SVG 側のプレゼンテーション属性を CSS で上書き） */
+  .geo-hero-map__svg .pref-muni-svg__paths {
+    fill: #f6f8f4;
+    stroke: #8aa3bd;
+  }
+  [data-theme="dark"] .geo-hero-map__svg .pref-muni-svg__paths {
+    fill: #39434d;
+    stroke: #5d707f;
+  }
+  .geo-hero-map__svg path:hover {
+    fill: #ffe9c9;
+  }
+  [data-theme="dark"] .geo-hero-map__svg path:hover {
+    fill: #4c5a66;
+  }
+  /* コロプレス着色済み path は hover でも色を維持（不透明度だけ上げる） */
+  .geo-hero-map__svg path[data-region-group] {
+    transition: fill-opacity 0.15s ease;
+  }
+  .geo-hero-map__svg path[data-region-group]:hover {
+    fill-opacity: 0.85 !important;
+  }
+  /* world.svg（simplemaps）用の基本色 */
+  .geo-hero-map[data-map-kind="world"] .geo-hero-map__svg path {
+    fill: #f6f8f4;
+    stroke: #8aa3bd;
+    stroke-width: 0.5;
+  }
+  [data-theme="dark"] .geo-hero-map[data-map-kind="world"] .geo-hero-map__svg path {
+    fill: #39434d;
+    stroke: #5d707f;
+  }
+  .geo-hero-map__credit {
+    position: absolute;
+    right: 6px;
+    bottom: 3px;
+    font-size: 10px;
+    color: #64748b;
+    pointer-events: none;
+  }
+  [data-theme="dark"] .geo-hero-map__credit {
+    color: #8b98a5;
+  }
+
+  /* ---- ピン ---- */
+  .geo-pin {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    width: 0;
+    height: 0;
+    overflow: visible;
+  }
+  .geo-pin__dot {
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(-50%, -50%);
+    width: 12px;
+    height: 12px;
+    padding: 0;
+    border-radius: 50%;
+    background: #e07b20;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 3px rgba(224, 123, 32, 0.25), 0 1px 3px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+  }
+  .geo-pin__label {
+    position: absolute;
+    left: 0;
+    top: 9px;
+    transform: translateX(-50%);
+    background: rgba(30, 58, 95, 0.92);
+    color: #fff;
+    padding: 2px 6px;
+    font-size: 11px;
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", system-ui, sans-serif;
+    white-space: nowrap;
+    pointer-events: none;
+    line-height: 1.3;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  }
+  .geo-pin__popup {
+    position: absolute;
+    left: 0;
+    bottom: 12px;
+    transform: translateX(-50%);
+    background: #fff;
+    color: #334155;
+    min-width: 160px;
+    max-width: 240px;
+    padding: 10px 14px;
+    font-size: 13px;
+    line-height: 1.5;
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", system-ui, sans-serif;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+    z-index: 5;
+  }
+  .geo-pin__popup-title {
+    font-weight: 700;
+    margin-bottom: 4px;
+    color: #1e3a5f;
+  }
+  .geo-pin__popup-link {
+    display: inline-block;
+    margin-top: 6px;
+    font-size: 12px;
+    color: #1e3a5f;
+  }
+  [data-theme="dark"] .geo-pin__popup {
+    background: #22262a;
+    color: #d8d5d0;
+  }
+  [data-theme="dark"] .geo-pin__popup-title,
+  [data-theme="dark"] .geo-pin__popup-link {
+    color: #5b9bd5;
+  }
+
+  /* ---- 凡例 ---- */
+  .geo-hero-legend {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 8px 10px;
+    font-size: 11px;
+    line-height: 1.5;
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", system-ui, sans-serif;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+    max-width: 220px;
+    z-index: 4;
+  }
+  .geo-hero-legend__title {
+    font-weight: 700;
+    font-size: 12px;
+    margin-bottom: 4px;
+    color: #1e3a5f;
+  }
+  .geo-hero-legend__item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 2px 0;
+  }
+  .geo-hero-legend__swatch {
+    width: 14px;
+    height: 14px;
+    flex-shrink: 0;
+  }
+  [data-theme="dark"] .geo-hero-legend {
+    background: rgba(34, 38, 42, 0.95);
+    color: #d8d5d0;
+  }
+  [data-theme="dark"] .geo-hero-legend__title {
+    color: #5b9bd5;
+  }
+</style>
+
+<script is:inline>
+  (function () {
+    function init() {
+      // ピンのポップアップ開閉（クリックでトグル、外側クリックで閉じる）
+      document.querySelectorAll(".geo-pin__dot").forEach(function (dot) {
+        dot.addEventListener("click", function (ev) {
+          ev.stopPropagation();
+          var pin = dot.closest(".geo-pin");
+          var popup = pin && pin.querySelector(".geo-pin__popup");
+          if (!popup) return;
+          var open = !popup.hidden;
+          document.querySelectorAll(".geo-pin__popup").forEach(function (p) {
+            p.hidden = true;
+          });
+          document.querySelectorAll(".geo-pin__dot").forEach(function (d) {
+            d.setAttribute("aria-expanded", "false");
+          });
+          popup.hidden = open;
+          dot.setAttribute("aria-expanded", open ? "false" : "true");
+        });
+      });
+      document.addEventListener("click", function () {
+        document.querySelectorAll(".geo-pin__popup").forEach(function (p) {
+          p.hidden = true;
+        });
+      });
+
+      // ピン座標調整モード: URL に ?pick を付けると、クリック地点の
+      // lat/lng を YAML 形式でクリップボードにコピーできる。
+      if (!/[?&]pick(=|&|$)/.test(location.search)) return;
+      var svg = document.querySelector(".geo-hero-map__svg[data-pick]");
+      if (!svg || !svg.getAttribute("data-pick")) return;
+      var P;
+      try { P = JSON.parse(svg.getAttribute("data-pick")); } catch (e) { return; }
+      svg.style.cursor = "crosshair";
+      svg.addEventListener("click", function (ev) {
+        var rect = svg.getBoundingClientRect();
+        var sx = P.vb.x + ((ev.clientX - rect.left) / rect.width) * P.vb.w;
+        var sy = P.vb.y + ((ev.clientY - rect.top) / rect.height) * P.vb.h;
+        var lng = P.minLon + (sx - P.offX) / (P.cosLat * P.scale);
+        var lat = P.maxLat - (sy - P.offY) / P.scale;
+        var yaml = '{ lat: ' + lat.toFixed(4) + ', lng: ' + lng.toFixed(4) + ', label: "" }';
+        if (navigator.clipboard) navigator.clipboard.writeText(yaml);
+        console.log("[pick]", yaml);
+      });
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", init);
+    } else {
+      init();
+    }
+  })();
+</script>

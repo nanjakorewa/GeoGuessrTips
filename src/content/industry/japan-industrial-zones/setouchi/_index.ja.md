@@ -7,6 +7,7 @@ description: "瀬戸内工業地域を解説。水島・周南・徳山・今治
 weight: 20
 galleryDir: "setouchi"
 mapProvider: "osm"
+heroMapArea: "setouchi"
 mapPins:
   - { lat: 34.680, lng: 135.190, label: "神戸", type: "ship-steel", note: "神戸製鋼所・川崎重工。鉄鋼・造船・防衛" }
   - { lat: 34.792, lng: 134.620, label: "姫路", type: "steel", note: "神戸製鋼所姫路・山陽特殊製鋼" }

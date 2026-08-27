@@ -1,6 +1,6 @@
 ---
 /**
- * Pin-based map quiz page (Leaflet/OSM).
+ * Pin-based map quiz page（静的SVG背景 + 自前パン/ズーム。外部タイル不使用）.
  *
  * Used by /quiz/states/asia/indonesia-kabupaten/[province]/ to render a
  * pin-on-map quiz where the question is a kabupaten name and the answer is
@@ -13,6 +13,7 @@ import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
 import type { Language } from "@lib/i18n-utils";
 import { getQuizI18n } from "../data/quiz-states-i18n";
+import ADM2_PROJ from "../data/indonesia-adm2-projection.json";
 
 interface Pin {
   /** Unique id within this quiz (we use shortName) */
@@ -93,12 +94,6 @@ const jsLabels = {
     breadcrumbs={breadcrumbs}
     collection="quiz"
   />
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-    crossorigin=""
-  />
   <style is:global>
     html, body { min-height: 100vh; }
     body { overflow-x: hidden; display: flex; flex-direction: column; }
@@ -148,8 +143,20 @@ const jsLabels = {
     .pq-feedback strong { font-weight: 800; color: #b13427; }
 
     .pq-map-wrap { position: relative; background: #f6f9fd; border: 1px solid #e1e6ec; padding: 0; height: min(70vh, 640px); overflow: hidden; }
-    #pq-map { width: 100%; height: 100%; }
-    #pq-map .leaflet-container { background: #eaf2fb; }
+    #pq-map { position: relative; width: 100%; height: 100%; overflow: hidden; background: #dbe7f3; cursor: grab; touch-action: none; }
+    #pq-map.is-dragging { cursor: grabbing; }
+    .pq-stage { position: absolute; left: 0; top: 0; transform-origin: 0 0; will-change: transform; }
+    .pq-basemap { display: block; user-select: none; pointer-events: none; }
+    .pq-pin-layer { position: absolute; inset: 0; overflow: visible; pointer-events: none; }
+    .pq-pin-layer .pq-pin { position: absolute; left: 0; top: 0; width: 0; height: 0; overflow: visible; pointer-events: auto; will-change: transform; }
+    .pq-zoom-controls { position: absolute; left: 10px; top: 10px; display: flex; flex-direction: column; z-index: 20; }
+    .pq-zoom-controls button {
+      width: 32px; height: 32px; font-size: 18px; font-weight: 700; line-height: 1;
+      background: #fff; color: #1f3a5c; border: 1px solid #d6deea; cursor: pointer;
+    }
+    .pq-zoom-controls button + button { border-top: 0; }
+    .pq-zoom-controls button:hover { background: #eef3f9; }
+    .pq-map-credit { position: absolute; right: 4px; bottom: 2px; font-size: 10px; color: #64748b; z-index: 20; pointer-events: none; }
     /* Custom pin markers */
     .pq-pin { background: transparent; border: 0; }
     .pq-pin__dot {
@@ -356,7 +363,25 @@ const jsLabels = {
             <div id="pq-map"
               data-pins={JSON.stringify(pins)}
               data-bbox={JSON.stringify(bbox)}
-            ></div>
+            >
+              <div class="pq-stage" id="pq-stage">
+                <img
+                  class="pq-basemap"
+                  src="/maps/indonesia-adm2.svg"
+                  width={ADM2_PROJ.width}
+                  height={ADM2_PROJ.height}
+                  alt=""
+                  draggable="false"
+                  decoding="async"
+                />
+              </div>
+              <div class="pq-pin-layer" id="pq-pin-layer"></div>
+              <div class="pq-zoom-controls">
+                <button type="button" id="pq-zoom-in" aria-label="Zoom in">+</button>
+                <button type="button" id="pq-zoom-out" aria-label="Zoom out">−</button>
+              </div>
+              <div class="pq-map-credit">地図データ: GADM</div>
+            </div>
           </div>
 
           <div class="pq-actions">
@@ -397,9 +422,7 @@ const jsLabels = {
   <Footer lang={lang} title={pageH1} permalink={canonical} />
   <SearchModal lang={lang} />
 
-  <script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-
-  <script is:inline define:vars={{ storageKey, prompt: prompt, jsLabels }}>
+  <script is:inline define:vars={{ storageKey, prompt: prompt, jsLabels, proj: ADM2_PROJ }}>
     (function () {
       const STORAGE_KEY = storageKey;
       const ADVANCE_OK = 600;
@@ -410,7 +433,6 @@ const jsLabels = {
       function $(id) { return document.getElementById(id); }
 
       function start() {
-        if (typeof L === 'undefined') { setTimeout(start, 80); return; }
         const mapEl = $('pq-map');
         if (!mapEl) return;
 
@@ -419,22 +441,55 @@ const jsLabels = {
         let bbox = [95, -11, 141, 6];
         try { bbox = JSON.parse(mapEl.getAttribute('data-bbox') || '[95,-11,141,6]'); } catch (_) {}
 
-        const map = L.map(mapEl, { zoomControl: true, scrollWheelZoom: true });
-        // light_nolabels = Carto Positron without place-name labels. Labels
-        // would spoil the quiz by revealing the kabupaten/kota names on the
-        // tile itself, so we use the labels-free variant here.
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
-          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-          subdomains: 'abcd',
-          maxZoom: 19,
-        }).addTo(map);
+        // ============ 自前のパン/ズーム地図（Leaflet/外部タイル廃止） ============
+        // 背景は /maps/indonesia-adm2.svg（GADM 由来、ビルド時生成）。
+        // ピンは投影パラメータ proj で SVG ピクセル座標へ変換して重ねる。
+        const stage = $('pq-stage');
+        const pinLayer = $('pq-pin-layer');
+        const P = proj;
+        function projX(lng) { return (lng - P.minLon) * P.cosLat * P.scale; }
+        function projY(lat) { return (P.maxLat - lat) * P.scale; }
 
-        // Set initial view from bbox
-        const sw = L.latLng(bbox[1], bbox[0]);
-        const ne = L.latLng(bbox[3], bbox[2]);
-        map.fitBounds(L.latLngBounds(sw, ne).pad(0.08));
+        let vz = 1, vtx = 0, vty = 0, zMin = 0.05, zMax = 30;
+        function applyView() {
+          stage.style.transform = 'translate(' + vtx + 'px,' + vty + 'px) scale(' + vz + ')';
+          for (const m of markers) {
+            m.style.transform =
+              'translate(' + (m.pq_x * vz + vtx) + 'px,' + (m.pq_y * vz + vty) + 'px)';
+          }
+        }
+        function clampView() {
+          vz = Math.max(zMin, Math.min(zMax, vz));
+          // 地図が完全に画面外へ出ないよう緩くクランプ
+          const w = mapEl.clientWidth, h = mapEl.clientHeight;
+          const mw = P.width * vz, mh = P.height * vz;
+          vtx = Math.max(Math.min(vtx, w - 40), 40 - mw);
+          vty = Math.max(Math.min(vty, h - 40), 40 - mh);
+        }
+        function fitBBox() {
+          const w = mapEl.clientWidth, h = mapEl.clientHeight;
+          if (!w || !h) return;
+          const x0 = projX(bbox[0]), x1 = projX(bbox[2]);
+          const y0 = projY(bbox[3]), y1 = projY(bbox[1]);
+          const bw = Math.max(x1 - x0, 1), bh = Math.max(y1 - y0, 1);
+          vz = Math.min(w / bw, h / bh) * 0.92;
+          zMin = vz * 0.5;
+          zMax = vz * 14;
+          vtx = (w - bw * vz) / 2 - x0 * vz;
+          vty = (h - bh * vz) / 2 - y0 * vz;
+          applyView();
+        }
+        function zoomAt(cx, cy, factor) {
+          const nz = Math.max(zMin, Math.min(zMax, vz * factor));
+          if (nz === vz) return;
+          vtx = cx - ((cx - vtx) * nz) / vz;
+          vty = cy - ((cy - vty) * nz) / vz;
+          vz = nz;
+          clampView();
+          applyView();
+        }
 
-        // Build markers
+        // Build markers（HTML オーバーレイ。クラス名は従来の Leaflet 実装と同じ）
         const markerByCode = Object.create(null);
         const codeToName = Object.create(null);
         const codeToShort = Object.create(null);
@@ -442,24 +497,96 @@ const jsLabels = {
         pins.forEach(function (p) {
           codeToName[p.code] = p.name;
           codeToShort[p.code] = p.shortName;
-          const html =
-            '<div class="pq-pin__dot" data-code="' + p.code.replace(/"/g, '&quot;') + '"></div>' +
-            '<div class="pq-pin__label">' + (p.shortName || p.name) + '</div>';
           const typeClass = p.type === 'kota' ? ' pq-pin--kota'
             : p.type === 'kabupaten' ? ' pq-pin--kabupaten'
             : '';
-          const icon = L.divIcon({
-            className: 'pq-pin' + typeClass,
-            html: html,
-            iconSize: [0, 0],
-            iconAnchor: [0, 0],
-          });
-          const m = L.marker([p.lat, p.lng], { icon: icon, keyboard: false, riseOnHover: true });
+          const m = document.createElement('div');
+          m.className = 'pq-pin' + typeClass;
+          m.innerHTML =
+            '<div class="pq-pin__dot" data-code="' + p.code.replace(/"/g, '&quot;') + '"></div>' +
+            '<div class="pq-pin__label">' + (p.shortName || p.name) + '</div>';
           m.pq_code = p.code;
-          m.addTo(map);
+          m.pq_x = projX(p.lng);
+          m.pq_y = projY(p.lat);
+          pinLayer.appendChild(m);
           markerByCode[p.code] = m;
           markers.push(m);
         });
+
+        fitBBox();
+        window.addEventListener('resize', fitBBox);
+
+        // ---- 操作: ドラッグでパン、ホイール/ピンチ/ボタンでズーム ----
+        const pointers = new Map();
+        let dragMoved = false;
+        let lastPinch = 0;
+        mapEl.addEventListener('pointerdown', function (e) {
+          pointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
+          if (pointers.size === 1) dragMoved = false;
+          if (pointers.size === 2) {
+            const pts = Array.from(pointers.values());
+            lastPinch = Math.hypot(pts[0].x - pts[1].x, pts[0].y - pts[1].y);
+          }
+          mapEl.classList.add('is-dragging');
+        });
+        mapEl.addEventListener('pointermove', function (e) {
+          const prev = pointers.get(e.pointerId);
+          if (!prev) return;
+          const cur = { x: e.clientX, y: e.clientY };
+          if (pointers.size === 1) {
+            const dx = cur.x - prev.x, dy = cur.y - prev.y;
+            if (dx !== 0 || dy !== 0) {
+              vtx += dx; vty += dy;
+              if (!dragMoved && Math.hypot(dx, dy) > 2) {
+                dragMoved = true;
+                // ドラッグ確定後にポインタキャプチャ（ピンの click を殺さないよう
+                // pointerdown 時点ではキャプチャしない）
+                try { mapEl.setPointerCapture(e.pointerId); } catch (_) {}
+              }
+              clampView();
+              applyView();
+            }
+          } else if (pointers.size === 2) {
+            pointers.set(e.pointerId, cur);
+            const pts = Array.from(pointers.values());
+            const dist = Math.hypot(pts[0].x - pts[1].x, pts[0].y - pts[1].y);
+            if (lastPinch > 0) {
+              const rect = mapEl.getBoundingClientRect();
+              const cx = (pts[0].x + pts[1].x) / 2 - rect.left;
+              const cy = (pts[0].y + pts[1].y) / 2 - rect.top;
+              zoomAt(cx, cy, dist / lastPinch);
+            }
+            lastPinch = dist;
+            dragMoved = true;
+            return;
+          }
+          pointers.set(e.pointerId, cur);
+        });
+        function endPointer(e) {
+          pointers.delete(e.pointerId);
+          if (pointers.size < 2) lastPinch = 0;
+          if (pointers.size === 0) mapEl.classList.remove('is-dragging');
+        }
+        mapEl.addEventListener('pointerup', endPointer);
+        mapEl.addEventListener('pointercancel', endPointer);
+        mapEl.addEventListener('wheel', function (e) {
+          e.preventDefault();
+          const rect = mapEl.getBoundingClientRect();
+          zoomAt(e.clientX - rect.left, e.clientY - rect.top, e.deltaY < 0 ? 1.25 : 0.8);
+        }, { passive: false });
+        mapEl.addEventListener('dblclick', function (e) {
+          const rect = mapEl.getBoundingClientRect();
+          zoomAt(e.clientX - rect.left, e.clientY - rect.top, 1.6);
+        });
+        $('pq-zoom-in').addEventListener('click', function (e) {
+          e.stopPropagation();
+          zoomAt(mapEl.clientWidth / 2, mapEl.clientHeight / 2, 1.4);
+        });
+        $('pq-zoom-out').addEventListener('click', function (e) {
+          e.stopPropagation();
+          zoomAt(mapEl.clientWidth / 2, mapEl.clientHeight / 2, 0.72);
+        });
+        function wasDragged() { return dragMoved; }
 
         // ============ Quiz state ============
         function shuffle(arr) {
@@ -511,8 +638,7 @@ const jsLabels = {
 
         function clearPinClasses() {
           for (const m of markers) {
-            const el = m.getElement();
-            if (el) el.classList.remove('is-correct', 'is-wrong', 'is-reveal');
+            m.classList.remove('is-correct', 'is-wrong', 'is-reveal');
           }
         }
         function clearFeedback() {
@@ -522,8 +648,7 @@ const jsLabels = {
         function markPin(code, klass) {
           const m = markerByCode[code];
           if (!m) return;
-          const el = m.getElement();
-          if (el) el.classList.add(klass);
+          m.classList.add(klass);
         }
         function showWrongFeedback(clickedCode) {
           const name = codeToName[clickedCode] || clickedCode;
@@ -640,25 +765,20 @@ const jsLabels = {
           }
         }
 
-        function bindPinEvents(m, el) {
-          if (el._pqBound) return;
-          el._pqBound = true;
-          el.addEventListener('click', function (e) {
+        function bindPinEvents(m) {
+          if (m._pqBound) return;
+          m._pqBound = true;
+          m.addEventListener('click', function (e) {
             e.stopPropagation();
+            // ドラッグ操作の終端で発火した click は無視する
+            if (wasDragged()) return;
             handlePinClick(m.pq_code);
           });
-          el.addEventListener('mouseenter', function () {
+          m.addEventListener('mouseenter', function () {
             if (memorizeMode) showHoveredName(m.pq_code);
           });
         }
-        for (const m of markers) {
-          const el0 = m.getElement();
-          if (el0) bindPinEvents(m, el0);
-          else m.on('add', function () {
-            const el = m.getElement();
-            if (el) bindPinEvents(m, el);
-          });
-        }
+        for (const m of markers) bindPinEvents(m);
 
         // ============ Memorize / study mode ============
         function setMemorize(on) {

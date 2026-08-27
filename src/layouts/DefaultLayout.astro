@@ -13,7 +13,8 @@ import Sidebar from "@components/navigation/Sidebar.astro";
 import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
 import TableOfContents from "@components/TableOfContents.astro";
-import IndustryOSMMap from "@components/IndustryOSMMap.astro";
+import StaticGeoMap from "@components/StaticGeoMap.astro";
+import { resolveHeroMap } from "../data/hero-map";
 import NoticeBar from "@components/NoticeBar.astro";
 import VideoPanel from "@components/VideoPanel.astro";
 
@@ -428,6 +429,10 @@ const aiSourceComment = `<!--
 // --- Conditional features ---
 const needsJQuery36 = !!data.import_jquery_36;
 const useOSMHero = data.mapProvider === "osm";
+// 静的ヒーロー地図の定義（null の場合は主要スポット一覧のパネルを表示）
+const heroMapDef = useOSMHero
+  ? resolveHeroMap(collection, currentSlug, data)
+  : null;
 const needsJSMaps = !useOSMHero && (!!data.mapName || !!data.map_index);
 const isQuizPage = data.pagetype === "quiz";
 
@@ -597,6 +602,52 @@ const lastmodDisplay = modifiedTime
     /* 地図領域に重ねる拡大オーバーレイ。シンボルへのオンマウスで
        フェードイン／アウトする（直角・角丸なし）。 */
     .rule-hero-map { position: relative; }
+
+    /* 地図アセットがないページ向け: 主要スポット一覧パネル */
+    .rule-hero-spots {
+      width: 100%;
+      max-height: 480px;
+      overflow-y: auto;
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      padding: 16px 20px;
+      box-sizing: border-box;
+      color: #e7ecf2;
+    }
+    .rule-hero-spots__title {
+      font-weight: 700;
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+    .rule-hero-spots__title i {
+      margin-right: 6px;
+      color: #e07b20;
+    }
+    .rule-hero-spots__list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 6px 18px;
+    }
+    .rule-hero-spots__list li {
+      font-size: 13px;
+      line-height: 1.5;
+      border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
+      padding: 4px 0;
+    }
+    .rule-hero-spots__label {
+      font-weight: 600;
+      margin-right: 8px;
+    }
+    .rule-hero-spots__label a {
+      color: #9cc4ea;
+    }
+    .rule-hero-spots__note {
+      color: rgba(255, 255, 255, 0.65);
+      font-size: 12px;
+    }
     .rule-hero-symbol-overlay {
       position: absolute;
       inset: 0;
@@ -1092,12 +1143,30 @@ const lastmodDisplay = modifiedTime
           )}
         </div>
         <div class="rule-hero-map">
-          <IndustryOSMMap
-            pins={data.mapPins || []}
-            center={data.mapCenter}
-            zoom={data.mapZoom}
-            regions={data.mapRegions}
-          />
+          {heroMapDef ? (
+            <StaticGeoMap
+              def={heroMapDef}
+              pins={data.mapPins || []}
+              regions={data.mapRegions}
+            />
+          ) : (
+            <div class="rule-hero-spots">
+              <div class="rule-hero-spots__title">
+                <i class="fas fa-map-marker-alt"></i>
+                {lang === "ja" ? "主要スポット" : "Key locations"}
+              </div>
+              <ul class="rule-hero-spots__list">
+                {(data.mapPins || []).map((p: { label: string; note?: string; link?: string }) => (
+                  <li>
+                    <span class="rule-hero-spots__label">
+                      {p.link ? <a href={p.link}>{p.label}</a> : p.label}
+                    </span>
+                    {p.note && <span class="rule-hero-spots__note">{p.note}</span>}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
           {/* シンボルにオンマウスした際、地図領域へ拡大表示するオーバーレイ。
               中身は JS で hover 中のシンボル SVG を複製して差し込む。 */}
           {data.prefSymbols && data.prefSymbols.length > 0 && (

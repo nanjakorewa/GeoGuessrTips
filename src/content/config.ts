@@ -88,6 +88,8 @@ const ruleCollection = defineCollection({
     // OSM hero map（産業ページと同じ仕組み）— 国別ページ上部に
     // 「タイトル＋国旗 / OSM 地図」を 2 カラム表示するためのフィールド
     mapProvider: z.enum(["osm"]).optional(),
+    /** 静的ヒーロー地図で使う局所エリアSVGのスラッグ（public/maps/areas/{slug}.svg） */
+    heroMapArea: z.string().optional(),
     mapCenter: z.tuple([z.number(), z.number()]).optional(),
     mapZoom: z.number().optional(),
     mapPins: z.array(z.object({
@@ -393,8 +395,10 @@ const industryCollection = defineCollection({
     mapName: z.string().optional(),
     /** mapName があっても地図表示を抑止するフラグ（ピンが1つも載らないページ用） */
     showMap: z.boolean().optional(),
-    /** "osm" を指定すると Leaflet + OpenStreetMap タイルで描画する */
+    /** "osm" は歴史的経緯の値。現在は外部タイルなしの静的SVGヒーロー地図を指す */
     mapProvider: z.enum(["osm"]).optional(),
+    /** 静的ヒーロー地図で使う局所エリアSVGのスラッグ（public/maps/areas/{slug}.svg） */
+    heroMapArea: z.string().optional(),
     /** OSM 地図の初期中心 [lat, lng]（省略時はピンに合わせて自動フィット） */
     mapCenter: z.tuple([z.number(), z.number()]).optional(),
     /** OSM 地図の初期ズーム（省略時はピンに合わせて自動フィット） */

@@ -7,6 +7,7 @@ description: "岡山県倉敷市の水島コンビナートを詳解。旭化成
 weight: 30
 galleryDir: "japan-combinat-mizushima"
 mapProvider: "osm"
+heroMapArea: "mizushima"
 mapPins:
   - { lat: 34.500, lng: 133.720, label: "水島港", type: "port", note: "貨物取扱量約5,700万t/年（2022年）。コンビナート輸出入の中核" }
   - { lat: 34.5179, lng: 133.7130, label: "JFEスチール 西日本製鉄所（倉敷）", type: "steel", note: "粗鋼能力約530万t/年。第4高炉＋電気炉転換中。国内2位クラス" }
