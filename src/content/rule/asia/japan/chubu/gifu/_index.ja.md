@@ -177,6 +177,9 @@ videoPanel:
     - type: instagram
       url: "https://www.instagram.com/reel/DcZjNsVn1SV/"
       title: "岐阜県の風景"
+    - type: instagram
+      url: "https://www.instagram.com/nanjakorewa0/reel/DcerL3_H3aW/"
+      title: "大垣市の有名企業"
 ---
 
 <div class="main-desciption country-description">

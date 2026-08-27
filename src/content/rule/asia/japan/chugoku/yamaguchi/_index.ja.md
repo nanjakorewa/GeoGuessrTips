@@ -99,7 +99,7 @@ videoPanel:
   items:
     - type: instagram
       url: "https://www.instagram.com/reel/DccFhUzH30n/"
-      title: "山口県の風景"
+      title: "山口県の日本一の私道"
 ---
 
 <div class="main-desciption country-description">
