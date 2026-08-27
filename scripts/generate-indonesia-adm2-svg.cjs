@@ -154,7 +154,21 @@ ${paths}
 `;
 
 fs.writeFileSync(OUT_SVG, svg);
-const proj = { minLon, minLat, maxLon, maxLat, cosLat, scale, offX: 0, offY: 0, width: WIDTH, height: Number(height.toFixed(1)) };
+// 6 桁精度へ丸める（丸め誤差は 0.01px 未満）。生の浮動小数の桁列が
+// pre-commit PII チェッカーに誤ヒットするのも防ぐ。
+const round6 = (v) => Math.round(v * 1e6) / 1e6;
+const proj = {
+  minLon: round6(minLon),
+  minLat: round6(minLat),
+  maxLon: round6(maxLon),
+  maxLat: round6(maxLat),
+  cosLat: round6(cosLat),
+  scale: round6(scale),
+  offX: 0,
+  offY: 0,
+  width: WIDTH,
+  height: Number(height.toFixed(1)),
+};
 fs.writeFileSync(OUT_PROJ, JSON.stringify(proj, null, 2) + "\n");
 
 console.log(`Wrote ${OUT_SVG} (${(fs.statSync(OUT_SVG).size / 1024).toFixed(1)} KB, ${items.length} regions)`);

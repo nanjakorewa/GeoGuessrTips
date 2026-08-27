@@ -177,6 +177,19 @@ function computeForPref(pref) {
   return { minLon, minLat, maxLon, maxLat, cosLat, scale, offX, offY };
 }
 
+// 出力は 6 桁精度へ丸める（quiz-cities の投影データと同じ流儀）。
+// 丸め誤差は最大でも 0.01px 未満。また、浮動小数の生の桁列（16桁前後）が
+// pre-commit の PII チェッカー（クレジットカード/マイナンバー検出）に
+// 誤ヒットするのを防ぐ意味もある。
+function round6(v) {
+  return Math.round(v * 1e6) / 1e6;
+}
+function roundProj(p) {
+  const out = {};
+  for (const [k, v] of Object.entries(p)) out[k] = round6(v);
+  return out;
+}
+
 // ---------- verification against the shipped SVG ----------
 function svgExtents(svgPath) {
   const txt = fs.readFileSync(svgPath, "utf8");
@@ -222,7 +235,7 @@ for (const pref of PREFS) {
       continue;
     }
   }
-  out[pref.dir] = proj;
+  out[pref.dir] = roundProj(proj);
   console.log(`[${pref.code}] ${pref.dir}: ok (${note})`);
 }
 

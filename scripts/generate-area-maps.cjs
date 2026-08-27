@@ -225,16 +225,19 @@ ${paths.join("\n")}
   const sizeKB = (fs.statSync(outFile).size / 1024).toFixed(1);
   console.log(`[${area.slug}] wrote ${outFile} (${sizeKB} KB, ${paths.length} municipalities)`);
 
+  // 6 桁精度へ丸める（quiz-cities と同じ流儀。丸め誤差は 0.01px 未満）。
+  // 生の浮動小数の桁列が pre-commit PII チェッカーに誤ヒットするのも防ぐ。
+  const round6 = (v) => Math.round(v * 1e6) / 1e6;
   return {
     svgPath: `/maps/areas/${area.slug}.svg`,
     label: area.label,
     projection: {
-      minLon,
-      minLat,
-      maxLon,
-      maxLat,
-      cosLat,
-      scale,
+      minLon: round6(minLon),
+      minLat: round6(minLat),
+      maxLon: round6(maxLon),
+      maxLat: round6(maxLat),
+      cosLat: round6(cosLat),
+      scale: round6(scale),
       offX: 0,
       offY: 0,
     },
