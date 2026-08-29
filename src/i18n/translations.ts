@@ -633,6 +633,22 @@ export const translations: Record<string, Record<Language, string>> = {
     es: "Ver en Instagram",
     pt: "Ver no Instagram",
   },
+  /* Wording of Instagram's own embed placeholder, kept per their embed code. */
+  video_panel_insta_view_post: {
+    ja: "この投稿をInstagramで見る",
+    en: "View this post on Instagram",
+    id: "Lihat postingan ini di Instagram",
+    es: "Ver esta publicación en Instagram",
+    pt: "Ver esta publicação no Instagram",
+  },
+  /** `{author}` is replaced with "表示名(@handle)". */
+  video_panel_insta_shared_by: {
+    ja: "{author}がシェアした投稿",
+    en: "A post shared by {author}",
+    id: "Sebuah kiriman dibagikan oleh {author}",
+    es: "Una publicación compartida de {author}",
+    pt: "Uma publicação compartilhada por {author}",
+  },
   quiz_hub_kabupaten_unit: {
     ja: "島",
     en: " islands",

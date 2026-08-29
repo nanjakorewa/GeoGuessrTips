@@ -194,6 +194,14 @@ const ruleCollection = defineCollection({
         id: z.string().optional(),
         /** Instagram permalink, e.g. https://www.instagram.com/reel/XXXX/ */
         url: z.string().optional(),
+        /**
+         * Instagram only. Attribution shown in the embed placeholder, matching
+         * the credit line in Instagram's own embed code. Optional; a generic
+         * "View on Instagram" link is used when omitted.
+         */
+        author: z.string().optional(),
+        /** Instagram account handle without the "@" */
+        handle: z.string().optional(),
         /** Caption shown under the embed */
         title: z.string().optional(),
         /**

@@ -105,9 +105,9 @@ references:
     text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
 videoPanel:
   items:
-    - type: instagram
-      url: "https://www.instagram.com/p/DceqecUn3_0/"
-      title: "新潟県長岡市の地下にあるものは？"
+    - type: youtube
+      id: "q1ZOkGcpDmc"
+      title: "あまりに知名度が低すぎる日本産石油のありかとは？（長岡市・越路原・出雲崎町）"
 ---
 
 <div class="main-desciption country-description">
