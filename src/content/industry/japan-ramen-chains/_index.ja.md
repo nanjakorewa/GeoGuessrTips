@@ -40,18 +40,18 @@ mapPins:
 <div class="stat-card"><div class="stat-num">50以上</div><div class="stat-label">日本で広く認知される「ご当地ラーメン」の種類</div></div>
 </div>
 
+<figure class="ind-intro__figure">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gifu_Tanmen_%28%EF%BC%8BAjitama%29_20210317.jpg?width=640" alt="岐阜タンメン" loading="lazy" style="width:100%;height:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
+  <div style="display:none;background:#f3f4f6;padding:40px 20px;text-align:center;color:#9ca3af;border-radius:0;">📷 画像未設定</div>
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">愛知県稲沢市の屋台「タンメン専門店 板谷」（2009年）を起源とし、2010年に岐阜市に店舗型を出店した「岐阜タンメン」。東海地方のチェーンとして急成長し、東海・関東等にも展開。ご当地ラーメンが新たに生まれ全国に広がる代表例。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Gifu_Tanmen_(%EF%BC%8BAjitama)_20210317.jpg" target="_blank" rel="noopener noreferrer">先従隗始 / Wikimedia Commons (CC0)</a></figcaption>
+</figure>
+
 </div>
 <figure class="ind-intro__video">
 {{% yshort "https://www.youtube.com/shorts/WG3DV8yeZLY" %}}
 <figcaption>全国区になったご当地ラーメンチェーンを解説した動画。主要チェーンの一覧は<a href="#全国展開する主要ご当地ラーメンチェーン">全国展開する主要ご当地ラーメンチェーン</a>を参照。</figcaption>
 </figure>
 </div>
-
-<figure style="margin:1.5rem auto;max-width:640px;">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gifu_Tanmen_%28%EF%BC%8BAjitama%29_20210317.jpg?width=640" alt="岐阜タンメン" loading="lazy" style="width:100%;height:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='block'" />
-  <div style="display:none;background:#f3f4f6;padding:40px 20px;text-align:center;color:#9ca3af;border-radius:0;">📷 画像未設定</div>
-  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">愛知県稲沢市の屋台「タンメン専門店 板谷」（2009年）を起源とし、2010年に岐阜市に店舗型を出店した「岐阜タンメン」。東海地方のチェーンとして急成長し、東海・関東等にも展開。ご当地ラーメンが新たに生まれ全国に広がる代表例。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Gifu_Tanmen_(%EF%BC%8BAjitama)_20210317.jpg" target="_blank" rel="noopener noreferrer">先従隗始 / Wikimedia Commons (CC0)</a></figcaption>
-</figure>
 
 ## 地域ごとに違う麺文化
 

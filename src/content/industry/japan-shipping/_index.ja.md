@@ -36,17 +36,17 @@ mapPins:
   <div class="stat-card"><div class="stat-num">約2.8万人<span class="stat-sub">（50歳以上が約半数）</span>{{% cite "mlit_naiko" %}}</div><div class="stat-label">内航船員数</div></div>
 </div>
 
+<figure class="ind-intro__figure">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ship_leaves_Yokohama_Harbor_carrying_the_Experiment_Logistics_Module_Pressurized_Section_(JSC2003-E-34750).jpg?width=640" alt="横浜港を出航するコンテナ船" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">横浜港を出航するコンテナ船。日本の貿易量の99.6%は海上輸送によって運ばれており、外航海運は日本経済の基盤を支えています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Ship_leaves_Yokohama_Harbor_carrying_the_Experiment_Logistics_Module_Pressurized_Section_(JSC2003-E-34750).jpg" target="_blank" rel="noopener noreferrer">NASA / Wikimedia Commons (Public domain)</a></figcaption>
+</figure>
+
 </div>
 <figure class="ind-intro__video">
 {{% yshort "https://www.youtube.com/shorts/K_o6xzcEc5c" %}}
 <figcaption>海運三社（日本郵船・商船三井・川崎汽船）で利益が最大なのはどこ？ 詳しい比較は<a href="#大手3社の徹底比較--売上船隊事業構造">大手3社の徹底比較</a>を参照。</figcaption>
 </figure>
 </div>
-
-<figure style="margin:1.5rem auto;max-width:640px;">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ship_leaves_Yokohama_Harbor_carrying_the_Experiment_Logistics_Module_Pressurized_Section_(JSC2003-E-34750).jpg?width=640" alt="横浜港を出航するコンテナ船" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
-  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">横浜港を出航するコンテナ船。日本の貿易量の99.6%は海上輸送によって運ばれており、外航海運は日本経済の基盤を支えています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Ship_leaves_Yokohama_Harbor_carrying_the_Experiment_Logistics_Module_Pressurized_Section_(JSC2003-E-34750).jpg" target="_blank" rel="noopener noreferrer">NASA / Wikimedia Commons (Public domain)</a></figcaption>
-</figure>
 
 ## 外航海運と内航海運 — 二つの世界
 

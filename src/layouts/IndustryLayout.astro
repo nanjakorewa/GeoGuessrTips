@@ -961,7 +961,8 @@ if (data.galleryDir) {
 
     /* ---- Intro paired with a vertical (Shorts) video ----
        Opt-in per page: wrap the lead paragraphs (and usually the .stat-grid)
-       in .ind-intro__body and the embed in .ind-intro__video. Pages without
+       in .ind-intro__body (a lead image goes there too, as .ind-intro__figure)
+       and the embed in .ind-intro__video. Pages without
        a video are unaffected. The video column is 315px because that is the
        native width of the iframe the yshort shortcode emits. */
     .ind-intro {
@@ -978,6 +979,18 @@ if (data.galleryDir) {
     .ind-intro__body > p:first-child { margin-top: 0; }
     .ind-intro__body .stat-grid {
       margin-bottom: 0;
+    }
+    /* Lead image, placed inside the text column so it fills the height the
+       vertical video occupies instead of leaving the column short. */
+    .ind-intro__figure {
+      margin: 1.25rem 0 0;
+      max-width: 100%;
+    }
+    .ind-intro__figure img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: var(--ind-radius);
     }
     .ind-intro__video {
       flex: 0 0 315px;

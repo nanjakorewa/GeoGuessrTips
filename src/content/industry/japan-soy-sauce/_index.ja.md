@@ -37,17 +37,17 @@ mapPins:
 <div class="stat-card"><div class="stat-num">大半が非上場</div><div class="stat-label">醤油・ソースメーカーは地場の同族企業が中心</div></div>
 </div>
 
+<figure class="ind-intro__figure">
+  <img src="/images/industry/japan-soy-sauce/soy_sauce_in_supermarket.jpg" alt="スーパーの棚に並ぶ多数の醤油のボトル" loading="lazy" style="width:100%;height:auto;display:block;border-radius:6px;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">醤油は地域で味が大きく変わる調味料。関東の濃口、関西の淡口、九州の甘口、中京のたまり——食卓の醤油やソースの銘柄は、その土地の食文化を映す手がかりになります。<br/>画像: スーパーの醤油売り場（CC0）</figcaption>
+</figure>
+
 </div>
 <figure class="ind-intro__video">
 {{% yshort "https://www.youtube.com/shorts/1c5KBfJDllM" %}}
 <figcaption>調味料メーカーを解説した動画。地域別の銘柄は<a href="#醤油メーカー--地域別">醤油メーカー — 地域別</a>を参照。</figcaption>
 </figure>
 </div>
-
-<figure style="margin:1.5rem auto;max-width:640px;">
-  <img src="/images/industry/japan-soy-sauce/soy_sauce_in_supermarket.jpg" alt="スーパーの棚に並ぶ多数の醤油のボトル" loading="lazy" style="width:100%;height:auto;display:block;border-radius:6px;" />
-  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">醤油は地域で味が大きく変わる調味料。関東の濃口、関西の淡口、九州の甘口、中京のたまり——食卓の醤油やソースの銘柄は、その土地の食文化を映す手がかりになります。<br/>画像: スーパーの醤油売り場（CC0）</figcaption>
-</figure>
 
 ## 醤油の地域性マップ
 

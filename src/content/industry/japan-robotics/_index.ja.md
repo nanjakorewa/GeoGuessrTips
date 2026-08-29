@@ -32,17 +32,17 @@ mapPins:
 <div class="stat-card"><div class="stat-num">44,500台</div><div class="stat-label">2024年の<a href="/rule/asia/japan/">日本</a>国内導入台数</div></div>
 </div>
 
+<figure class="ind-intro__figure">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Staeubli_Robots_line.jpg?width=640" alt="産業用ロボット" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
+  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">複数の産業用ロボット（スターブリ・ロボティクス製）がラインで作動しています。日本企業（FANUC・安川電機・川崎重工など）は世界の産業用ロボット市場で約45～46%のシェアを占めています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Staeubli_Robots_line.jpg" target="_blank" rel="noopener noreferrer">Clemenspool / Wikimedia Commons (CC0 1.0 / Public Domain)</a></figcaption>
+</figure>
+
 </div>
 <figure class="ind-intro__video">
 {{% yshort "https://www.youtube.com/shorts/DVOzGOLpw8U" %}}
 <figcaption>産業用ロボットメーカーを解説した動画。世界シェアの構図は<a href="#世界トップ4とそれ以降のグローバル競争構図">世界トップ4とそれ以降のグローバル競争構図</a>を参照。</figcaption>
 </figure>
 </div>
-
-<figure style="margin:1.5rem auto;max-width:640px;">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Staeubli_Robots_line.jpg?width=640" alt="産業用ロボット" loading="lazy" style="width:100%;height:auto;border-radius:6px;display:block;" />
-  <figcaption style="font-size:0.85em;color:#555;margin-top:6px;text-align:center;line-height:1.45;">複数の産業用ロボット（スターブリ・ロボティクス製）がラインで作動しています。日本企業（FANUC・安川電機・川崎重工など）は世界の産業用ロボット市場で約45～46%のシェアを占めています。<br/>画像: <a href="https://commons.wikimedia.org/wiki/File:Staeubli_Robots_line.jpg" target="_blank" rel="noopener noreferrer">Clemenspool / Wikimedia Commons (CC0 1.0 / Public Domain)</a></figcaption>
-</figure>
 
 ## 世界トップ4とそれ以降のグローバル競争構図
 
