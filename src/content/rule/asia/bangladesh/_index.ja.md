@@ -77,6 +77,11 @@ related_quizzes: [
     ["/quiz/states/asia/bangladesh/", "州当てクイズ"],
     ["/quiz/cities/asia/bangladesh/", "都市当てクイズ"],
     ]
+videoPanel:
+  items:
+    - type: youtube
+      id: "QPDOPwJctJM"
+      title: "チッタゴンの海沿いにあるものは？"
 ---
 
 <div class="main-desciption country-description">

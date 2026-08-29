@@ -84,6 +84,11 @@ related_quizzes: [
     ["/quiz/states/asia/cambodia/", "州当てクイズ"],
     ["/quiz/cities/asia/cambodia/", "都市当てクイズ"],
     ]
+videoPanel:
+  items:
+    - type: youtube
+      id: "f2Eb2JmyIak"
+      title: "アジア一番のビール消費国は？"
 ---
 
 <div class="main-desciption country-description">

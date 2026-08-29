@@ -127,6 +127,11 @@ related_quizzes: [
     ["/quiz/states/cs_america/chile/", "州当てクイズ"],
     ["/quiz/cities/cs_america/chile/", "都市当てクイズ"],
     ]
+videoPanel:
+  items:
+    - type: youtube
+      id: "7R2-9mik5xo"
+      title: "チリ vs 千葉"
 ---
 
 <div class="main-desciption country-description">

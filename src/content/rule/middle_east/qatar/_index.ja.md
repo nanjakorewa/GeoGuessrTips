@@ -35,6 +35,11 @@ related_quizzes_title: "関連クイズ"
 related_quizzes: [
     ["/quiz/cities/middle_east/qatar/", "都市当てクイズ"],
     ]
+videoPanel:
+  items:
+    - type: youtube
+      id: "-Ea621Y--JQ"
+      title: "カタールを支える日本の企業とは？"
 ---
 
 <div class="main-desciption country-description">
@@ -89,13 +94,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Nima_Farid" class="mw-redirect" ti
 <p><a href="https://commons.wikimedia.org/wiki/File:Service_road_near_Dukhan_Highway.jpg#/media/File:Service_road_near_Dukhan_Highway.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Service_road_near_Dukhan_Highway.jpg" alt="Wikimedia Commons photo showing Service Road Near Dukhan Highway" width="95%"></a></p><p>By Alex Sergeev - <a rel="nofollow" class="external free" href="http://www.asergeev.com/pictures/archives/compress/2015/1692/01.htm">www.asergeev.com, Service road near Dukhan Highway</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=70134445">Link</a></p>
 </div>
 
-
-{{% /tab %}}
-{{% tab "関連動画" %}}
-
-<div class="googlemap-if no-margin">
-{{% yshort "https://www.youtube.com/shorts/-Ea621Y--JQ" %}}
-</div>
 
 {{% /tab %}}
 {{% /tabs  %}}

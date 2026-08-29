@@ -37,6 +37,15 @@ mapPins:
   - { lat: 51.483, lng: -3.181, label: "カーディフ", type: "city", note: "ウェールズの首都" }
   - { lat: 51.179, lng: -1.826, label: "ストーンヘンジ", type: "landmark", note: "新石器時代の環状列石" }
   - { lat: 54.598, lng: -5.930, label: "ベルファスト", type: "city", note: "北アイルランドの首都" }
+videoPanel:
+  items:
+    - type: youtube
+      id: "5_4dMte3RbY"
+      title: "自転車の敵？"
+  items:
+    - type: youtube
+      id: "ttwZLIQExSw"
+      title: "イギリスのヒント集"
 ---
 
 <div class="main-desciption country-description">
