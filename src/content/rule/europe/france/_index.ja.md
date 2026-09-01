@@ -111,6 +111,11 @@ related_quizzes: [
     ["/quiz/states/europe/france/", "州当てクイズ"],
     ["/quiz/cities/europe/france/", "都市当てクイズ"],
     ]
+videoPanel:
+  items:
+    - type: youtube
+      id: "WbHKv5uDyp4"
+      title: "フランスのボラードについてのミニ知識"
 ---
 
 <div class="main-desciption country-description">

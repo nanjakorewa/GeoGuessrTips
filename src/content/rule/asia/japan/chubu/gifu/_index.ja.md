@@ -174,15 +174,15 @@ prefInfo:
       note: '岐阜タンメン（2009年稲沢市の屋台発祥）'
 videoPanel:
   items:
+    - type: youtube
+      id: "oBRQth_7Zs0"
+      title: "岐阜県本巣市の隠れた日本一"
     - type: instagram
       url: "https://www.instagram.com/reel/DcZjNsVn1SV/"
       title: "大垣市はなぜこの形？"
     - type: instagram
       url: "https://www.instagram.com/reel/DcerL3_H3aW/"
       title: "大垣市の日本一企業とは？"
-    - type: instagram
-      url: "https://www.instagram.com/reel/DclACEinx-N/"
-      title: "『次止まります』ボタンの産地とは？"
 ---
 
 <div class="main-desciption country-description">

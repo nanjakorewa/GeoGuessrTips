@@ -42,7 +42,6 @@ videoPanel:
     - type: youtube
       id: "5_4dMte3RbY"
       title: "自転車の敵？"
-  items:
     - type: youtube
       id: "ttwZLIQExSw"
       title: "イギリスのヒント集"

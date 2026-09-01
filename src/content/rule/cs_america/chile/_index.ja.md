@@ -132,6 +132,9 @@ videoPanel:
     - type: youtube
       id: "7R2-9mik5xo"
       title: "チリ vs 千葉"
+    - type: youtube
+      id: "07uKpwNDMQ4"
+      title: "チリ神経衰弱"
 ---
 
 <div class="main-desciption country-description">
