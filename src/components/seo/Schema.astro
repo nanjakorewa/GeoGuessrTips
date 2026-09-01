@@ -238,6 +238,23 @@ if (flag) {
   if (ogImage) howtoSchema.image = ogImage;
 }
 
+/**
+ * Normalise a date for schema.org date-time properties.
+ *
+ * Search Console warns "uploadDate has no time zone" for a bare "YYYY-MM-DD",
+ * so a date-only value is widened to midnight JST and a date-time without an
+ * offset gets the same suffix. Anything that already carries an offset (or a
+ * trailing Z) is passed through untouched, which is the normal case: the
+ * videoPanel entries record the exact timestamp the platform reports.
+ */
+function withTimeZone(value: string): string {
+  const v = String(value).trim();
+  if (/(?:Z|[+-]\d{2}:?\d{2})$/.test(v)) return v;
+  if (/^\d{4}-\d{2}-\d{2}$/.test(v)) return `${v}T00:00:00+09:00`;
+  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(?::\d{2}(?:\.\d+)?)?$/.test(v)) return `${v}+09:00`;
+  return v;
+}
+
 // --- VideoObject Schema from frontmatter ---
 let videoSchemas: Record<string, any>[] = [];
 if (pageData.videos && Array.isArray(pageData.videos)) {
@@ -255,7 +272,7 @@ if (pageData.videos && Array.isArray(pageData.videos)) {
         name: v.title,
         description: v.description,
         thumbnailUrl: [thumbnailUrl],
-        uploadDate: v.uploadDate,
+        uploadDate: withTimeZone(v.uploadDate),
         embedUrl,
         contentUrl,
       });
@@ -289,7 +306,7 @@ for (const v of panelItems) {
     "@type": "VideoObject",
     name: v.title,
     description: v.description || v.title,
-    uploadDate: v.uploadDate,
+    uploadDate: withTimeZone(v.uploadDate),
   };
 
   if (v.type === "youtube" && v.id) {
@@ -316,10 +333,12 @@ for (const v of panelItems) {
 
 // Auto-generate VideoObject from extracted YouTube IDs (if no manual videos defined)
 if (!hasManualVideos && autoVideoIds.length > 0) {
+  // Full ISO string, not just the date part: a bare "YYYY-MM-DD" trips Search
+  // Console's "uploadDate has no time zone" warning.
   const uploadDate = publishedTime
-    ? publishedTime.toISOString().split("T")[0]
+    ? publishedTime.toISOString()
     : modifiedTime
-      ? modifiedTime.toISOString().split("T")[0]
+      ? modifiedTime.toISOString()
       : "";
   if (uploadDate) {
     for (const vid of autoVideoIds) {

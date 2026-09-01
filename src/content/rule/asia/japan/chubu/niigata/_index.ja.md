@@ -109,7 +109,7 @@ videoPanel:
       id: "q1ZOkGcpDmc"
       title: "あまりに知名度が低すぎる日本産石油のありかとは？（長岡市・越路原・出雲崎町）"
       description: "あまりに知名度が低すぎる日本産石油のありかとは?"
-      uploadDate: "2026-08-28"
+      uploadDate: "2026-08-28T02:00:20-07:00"
       duration: "PT45S"
 ---
 

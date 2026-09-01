@@ -138,7 +138,7 @@ videoPanel:
       id: "7R2-9mik5xo"
       title: "チリ vs 千葉"
       description: "日本が20％の世界シェアを持つ鉱物資源とは？"
-      uploadDate: "2026-01-01"
+      uploadDate: "2026-01-01T02:00:12-08:00"
       duration: "PT31S"
 ---
 

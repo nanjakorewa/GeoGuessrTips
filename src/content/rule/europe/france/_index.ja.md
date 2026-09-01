@@ -117,7 +117,7 @@ videoPanel:
       id: "WbHKv5uDyp4"
       title: "フランスのボラードについてのミニ知識"
       description: "少し役割が違う２つのボラード"
-      uploadDate: "2024-04-07"
+      uploadDate: "2024-04-07T02:42:58-07:00"
       duration: "PT24S"
 ---
 

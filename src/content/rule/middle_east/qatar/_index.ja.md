@@ -41,7 +41,7 @@ videoPanel:
       id: "-Ea621Y--JQ"
       title: "カタールを支える日本の企業とは？"
       description: "カタールのインフラを支える日本企業とは？"
-      uploadDate: "2025-12-30"
+      uploadDate: "2025-12-30T02:00:01-08:00"
       duration: "PT29S"
 ---
 
