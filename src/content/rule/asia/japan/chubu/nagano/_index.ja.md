@@ -159,6 +159,9 @@ videoPanel:
     - type: youtube
       id: "JRsyA_wFPCo"
       title: "パンにぬるクリームのおいしいのが売っているローカルスーパー"
+      description: "長野県で売り上げを伸ばし続けるローカルチェーン"
+      uploadDate: "2026-01-04"
+      duration: "PT45S"
 ---
 
 <div class="main-desciption country-description">

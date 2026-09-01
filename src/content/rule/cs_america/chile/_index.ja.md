@@ -132,9 +132,15 @@ videoPanel:
     - type: youtube
       id: "7R2-9mik5xo"
       title: "チリ vs 千葉"
+      description: "日本が20％の世界シェアを持つ鉱物資源とは？"
+      uploadDate: "2026-01-01"
+      duration: "PT31S"
     - type: youtube
       id: "07uKpwNDMQ4"
       title: "チリ神経衰弱"
+      description: "日本でもなじみある、チリの砂漠で育てている農作物とは？"
+      uploadDate: "2025-05-30"
+      duration: "PT48S"
 ---
 
 <div class="main-desciption country-description">

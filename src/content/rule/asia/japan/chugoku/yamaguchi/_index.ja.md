@@ -99,6 +99,8 @@ videoPanel:
   items:
     - type: instagram
       url: "https://www.instagram.com/reel/DccFhUzH30n/"
+      uploadDate: "2026-08-24"  # ショートコードから復元。差し替え時は要確認
+      thumbnail: "/rule/asia/japan/chugoku/yamaguchi/ig-DccFhUzH30n.jpg"
       title: "山口県の日本一の私道"
 ---
 

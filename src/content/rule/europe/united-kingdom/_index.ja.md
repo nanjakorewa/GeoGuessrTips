@@ -42,9 +42,15 @@ videoPanel:
     - type: youtube
       id: "5_4dMte3RbY"
       title: "自転車の敵？"
+      description: "自転車の敵"
+      uploadDate: "2025-12-24"
+      duration: "PT43S"
     - type: youtube
       id: "ttwZLIQExSw"
       title: "イギリスのヒント集"
+      description: "移動せずに国を当てられる？パート2"
+      uploadDate: "2023-11-07"
+      duration: "PT19S"
 ---
 
 <div class="main-desciption country-description">

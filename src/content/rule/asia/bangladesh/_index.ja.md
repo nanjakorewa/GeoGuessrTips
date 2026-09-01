@@ -82,6 +82,9 @@ videoPanel:
     - type: youtube
       id: "QPDOPwJctJM"
       title: "チッタゴンの海沿いにあるものは？"
+      description: "バングラディシュの海ではなぜ巨大なタンカーがたくさん見えるのか？"
+      uploadDate: "2026-01-02"
+      duration: "PT42S"
 ---
 
 <div class="main-desciption country-description">

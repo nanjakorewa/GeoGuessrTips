@@ -89,6 +89,9 @@ videoPanel:
     - type: youtube
       id: "f2Eb2JmyIak"
       title: "アジア一番のビール消費国は？"
+      description: "アジアで最もビールを消費する国とは？"
+      uploadDate: "2025-12-31"
+      duration: "PT33S"
 ---
 
 <div class="main-desciption country-description">

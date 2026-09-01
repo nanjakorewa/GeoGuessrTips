@@ -209,6 +209,29 @@ const ruleCollection = defineCollection({
          * for ordinary 16:9 YouTube uploads.
          */
         orientation: z.enum(["portrait", "landscape"]).optional(),
+
+        // --- SEO ---
+        // The panel keeps its embeds behind a button and holds their URL in
+        // `data-src`, so nothing in the rendered HTML tells a crawler these
+        // videos exist. The fields below feed the VideoObject JSON-LD emitted
+        // by components/seo/Schema.astro, which is the only signal search
+        // engines get. An item is marked up only once it carries the data
+        // Google requires (name, thumbnailUrl, uploadDate) — a video without
+        // `uploadDate` is skipped rather than given a guessed date.
+
+        /** Real publication date of the clip: "YYYY-MM-DD" or a full ISO 8601 timestamp. */
+        uploadDate: z.string().optional(),
+        /** VideoObject.description. Falls back to `title` when omitted. */
+        description: z.string().optional(),
+        /** ISO 8601 duration, e.g. "PT1M20S". */
+        duration: z.string().optional(),
+        /**
+         * Thumbnail for the structured data. YouTube items derive one from the
+         * video ID and only need this to override it. Instagram serves signed,
+         * expiring thumbnail URLs, so reels need a self-hosted image here
+         * (site-absolute path under public/, or a full URL) to be marked up.
+         */
+        thumbnail: z.string().optional(),
       })).min(1),
     }).optional(),
 

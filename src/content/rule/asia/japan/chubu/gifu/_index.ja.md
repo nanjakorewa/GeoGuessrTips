@@ -177,11 +177,18 @@ videoPanel:
     - type: youtube
       id: "oBRQth_7Zs0"
       title: "岐阜県本巣市の隠れた日本一"
+      description: "『つぎ止まります』ボタン、実は岐阜県の特産品だった件"
+      uploadDate: "2026-08-31"
+      duration: "PT1M20S"
     - type: instagram
       url: "https://www.instagram.com/reel/DcZjNsVn1SV/"
+      uploadDate: "2026-08-23"  # ショートコードから復元。差し替え時は要確認
+      thumbnail: "/rule/asia/japan/chubu/gifu/ig-DcZjNsVn1SV.jpg"
       title: "大垣市はなぜこの形？"
     - type: instagram
       url: "https://www.instagram.com/reel/DcerL3_H3aW/"
+      uploadDate: "2026-08-25"  # ショートコードから復元。差し替え時は要確認
+      thumbnail: "/rule/asia/japan/chubu/gifu/ig-DcerL3_H3aW.jpg"
       title: "大垣市の日本一企業とは？"
 ---
 

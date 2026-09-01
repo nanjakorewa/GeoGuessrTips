@@ -40,6 +40,9 @@ videoPanel:
     - type: youtube
       id: "-Ea621Y--JQ"
       title: "カタールを支える日本の企業とは？"
+      description: "カタールのインフラを支える日本企業とは？"
+      uploadDate: "2025-12-30"
+      duration: "PT29S"
 ---
 
 <div class="main-desciption country-description">

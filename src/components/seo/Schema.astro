@@ -263,8 +263,59 @@ if (pageData.videos && Array.isArray(pageData.videos)) {
   }
 }
 
+// Whether the manual `videos:` field produced anything, captured before the
+// panel entries are appended — it alone gates the page-derived fallback below.
+const hasManualVideos = videoSchemas.length > 0;
+
+// --- VideoObject Schema from the videoPanel frontmatter ---
+// VideoPanel.astro hides its embeds behind a button and keeps their URL in
+// `data-src`, so the rendered HTML carries no trace of these videos. This block
+// is the only thing that tells a crawler they are here.
+//
+// Entries are marked up only when they carry the properties Google requires
+// (name, thumbnailUrl, uploadDate). Anything short of that is skipped: an
+// invented upload date is worse than no markup at all.
+const panelItems: any[] = Array.isArray(pageData.videoPanel?.items)
+  ? pageData.videoPanel.items
+  : [];
+// YouTube IDs already described accurately here, so the autoVideoIds fallback
+// below does not emit a second, page-derived VideoObject for the same clip.
+const panelVideoIds = new Set<string>();
+
+for (const v of panelItems) {
+  if (!v.title || !v.uploadDate) continue;
+
+  const video: Record<string, any> = {
+    "@type": "VideoObject",
+    name: v.title,
+    description: v.description || v.title,
+    uploadDate: v.uploadDate,
+  };
+
+  if (v.type === "youtube" && v.id) {
+    video.thumbnailUrl = [v.thumbnail || `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`];
+    video.embedUrl = `https://www.youtube.com/embed/${v.id}`;
+    video.contentUrl = `https://www.youtube.com/watch?v=${v.id}`;
+    panelVideoIds.add(v.id);
+  } else if (v.type === "instagram" && v.url && v.thumbnail) {
+    // Instagram's own thumbnails are signed URLs that expire, so `thumbnail`
+    // must point at a self-hosted image; without one the post is skipped.
+    const permalink = `${v.url.split("?")[0].replace(/\/+$/, "")}/`;
+    video.thumbnailUrl = [
+      v.thumbnail.startsWith("http") ? v.thumbnail : `${site}${v.thumbnail}`,
+    ];
+    video.embedUrl = `${permalink}embed/`;
+    video.url = permalink;
+  } else {
+    continue;
+  }
+
+  if (v.duration) video.duration = v.duration;
+  videoSchemas.push(video);
+}
+
 // Auto-generate VideoObject from extracted YouTube IDs (if no manual videos defined)
-if (videoSchemas.length === 0 && autoVideoIds.length > 0) {
+if (!hasManualVideos && autoVideoIds.length > 0) {
   const uploadDate = publishedTime
     ? publishedTime.toISOString().split("T")[0]
     : modifiedTime
@@ -272,6 +323,7 @@ if (videoSchemas.length === 0 && autoVideoIds.length > 0) {
       : "";
   if (uploadDate) {
     for (const vid of autoVideoIds) {
+      if (panelVideoIds.has(vid)) continue;
       videoSchemas.push({
         "@type": "VideoObject",
         name: title,
