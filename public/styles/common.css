@@ -66,8 +66,8 @@ html[lang="ja"] body {
 }
 
 .navbar-social-link svg {
-  width: 18px;
-  height: 18px;
+  width: 20px;
+  height: 20px;
   fill: currentColor;
   display: block;
 }
@@ -93,12 +93,12 @@ html[lang="ja"] body {
     margin: 0 0.1rem;
   }
   .navbar-social-link {
-    width: 30px;
-    height: 30px;
+    width: 32px;
+    height: 32px;
   }
   .navbar-social-link svg {
-    width: 17px;
-    height: 17px;
+    width: 19px;
+    height: 19px;
   }
 }
 
