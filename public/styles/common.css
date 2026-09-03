@@ -43,7 +43,66 @@ html[lang="ja"] body {
   border-color: var(--primary-color);
   color: rgba(180, 195, 205, 0.7);
 }
-[data-theme="dark"] .navbar-kbd {
+/* Social links in navbar */
+.navbar-social {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  margin: 0 0.25rem;
+  flex-shrink: 0;
+}
+
+.navbar-social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  line-height: 0;
+  text-decoration: none;
+  opacity: 0.85;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  flex-shrink: 0;
+}
+
+.navbar-social-link svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+  display: block;
+}
+
+.navbar-social-link:hover {
+  opacity: 1;
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+/* Brand colors */
+.navbar-social-link--x { color: #0f1419; }
+.navbar-social-link--youtube { color: #ff0000; }
+.navbar-social-link--instagram { color: #d6249f; } /* fallback; actual fill is an inline SVG gradient */
+
+[data-theme="dark"] .navbar-social-link--x { color: #e7e9ea; }
+[data-theme="dark"] .navbar-social-link--youtube { color: #ff4e45; }
+[data-theme="dark"] .navbar-social-link--instagram { color: #e05c9d; }
+
+@media (max-width: 575.98px) {
+  .navbar-social {
+    gap: 0.1rem;
+    margin: 0 0.1rem;
+  }
+  .navbar-social-link {
+    width: 30px;
+    height: 30px;
+  }
+  .navbar-social-link svg {
+    width: 17px;
+    height: 17px;
+  }
+}
+
+.navbar-kbd {
   background: var(--accent-soft);
   border-color: rgba(255, 255, 255, 0.1);
   color: rgba(180, 195, 205, 0.45);

@@ -26,7 +26,6 @@ interface Props {
   breadcrumbs?: BreadcrumbItem[];
   collection?: string;
   sectionChildren?: SectionChild[];
-  autoVideoIds?: string[];
   ruleListItems?: string[];
 }
 
@@ -44,7 +43,6 @@ const {
   breadcrumbs = [],
   collection = "",
   sectionChildren = [],
-  autoVideoIds = [],
   ruleListItems = [],
 } = Astro.props;
 
@@ -280,10 +278,6 @@ if (pageData.videos && Array.isArray(pageData.videos)) {
   }
 }
 
-// Whether the manual `videos:` field produced anything, captured before the
-// panel entries are appended — it alone gates the page-derived fallback below.
-const hasManualVideos = videoSchemas.length > 0;
-
 // --- VideoObject Schema from the videoPanel frontmatter ---
 // VideoPanel.astro hides its embeds behind a button and keeps their URL in
 // `data-src`, so the rendered HTML carries no trace of these videos. This block
@@ -295,10 +289,6 @@ const hasManualVideos = videoSchemas.length > 0;
 const panelItems: any[] = Array.isArray(pageData.videoPanel?.items)
   ? pageData.videoPanel.items
   : [];
-// YouTube IDs already described accurately here, so the autoVideoIds fallback
-// below does not emit a second, page-derived VideoObject for the same clip.
-const panelVideoIds = new Set<string>();
-
 for (const v of panelItems) {
   if (!v.title || !v.uploadDate) continue;
 
@@ -313,7 +303,6 @@ for (const v of panelItems) {
     video.thumbnailUrl = [v.thumbnail || `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`];
     video.embedUrl = `https://www.youtube.com/embed/${v.id}`;
     video.contentUrl = `https://www.youtube.com/watch?v=${v.id}`;
-    panelVideoIds.add(v.id);
   } else if (v.type === "instagram" && v.url && v.thumbnail) {
     // Instagram's own thumbnails are signed URLs that expire, so `thumbnail`
     // must point at a self-hosted image; without one the post is skipped.
@@ -331,30 +320,14 @@ for (const v of panelItems) {
   videoSchemas.push(video);
 }
 
-// Auto-generate VideoObject from extracted YouTube IDs (if no manual videos defined)
-if (!hasManualVideos && autoVideoIds.length > 0) {
-  // Full ISO string, not just the date part: a bare "YYYY-MM-DD" trips Search
-  // Console's "uploadDate has no time zone" warning.
-  const uploadDate = publishedTime
-    ? publishedTime.toISOString()
-    : modifiedTime
-      ? modifiedTime.toISOString()
-      : "";
-  if (uploadDate) {
-    for (const vid of autoVideoIds) {
-      if (panelVideoIds.has(vid)) continue;
-      videoSchemas.push({
-        "@type": "VideoObject",
-        name: title,
-        description,
-        thumbnailUrl: [`https://i.ytimg.com/vi/${vid}/hqdefault.jpg`],
-        uploadDate,
-        embedUrl: `https://www.youtube.com/embed/${vid}`,
-        contentUrl: `https://www.youtube.com/watch?v=${vid}`,
-      });
-    }
-  }
-}
+// There is deliberately no fallback that scrapes video IDs out of the page body.
+// It used to describe every embed it found with the page's own title, meta
+// description and publish date, which put demonstrably wrong data in the markup
+// (e.g. four different BGM videos on /web/music/ sharing one name and date) and
+// claimed videos that sit inside collapsed `{{% tabs %}}` panes, where they are
+// display:none and Search Console reports "no video found on the video watch
+// page". A video is described here only when an author supplied its real
+// metadata via `videos:` or `videoPanel:`.
 
 // --- ItemList Schema for section/index pages (country listings) ---
 let itemListSchema: Record<string, any> | null = null;

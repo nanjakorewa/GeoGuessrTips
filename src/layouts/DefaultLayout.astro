@@ -17,6 +17,7 @@ import StaticGeoMap from "@components/StaticGeoMap.astro";
 import { resolveHeroMap } from "../data/hero-map";
 import NoticeBar from "@components/NoticeBar.astro";
 import VideoPanel from "@components/VideoPanel.astro";
+import VideoSection from "@components/VideoSection.astro";
 
 interface Props {
   entry: any;
@@ -369,26 +370,7 @@ for (let i = 0; i < pathSegments.length; i++) {
 // the bottom of these (long) pages.
 const parentCrumb = crumbs.length >= 2 ? crumbs[crumbs.length - 2] : null;
 
-// --- Auto-extract YouTube video IDs from raw markdown ---
 const rawBody = entry.body ?? "";
-const autoVideoIds: string[] = [];
-// Match {{% youtube "ID" %}} and {{% youtube-desc "ID" %}} shortcodes
-const ytShortcodeRegex = /\{\{%\s*(?:youtube|youtube-desc)\s+"([^"]+)"\s*%\}\}/g;
-// Match {{% yshort "ID or URL" %}} shortcodes
-const ysShortcodeRegex = /\{\{%\s*yshort\s+"([^"]+)"\s*%\}\}/g;
-// Match raw <iframe src="https://www.youtube.com/embed/VIDEO_ID...">
-const iframeEmbedRegex = /youtube\.com\/embed\/([a-zA-Z0-9_-]+)/g;
-let _m: RegExpExecArray | null;
-while ((_m = ytShortcodeRegex.exec(rawBody)) !== null) autoVideoIds.push(_m[1]);
-while ((_m = ysShortcodeRegex.exec(rawBody)) !== null) {
-  let id = _m[1];
-  const shortMatch = id.match(/shorts\/([^?/]+)/);
-  if (shortMatch) id = shortMatch[1];
-  autoVideoIds.push(id);
-}
-while ((_m = iframeEmbedRegex.exec(rawBody)) !== null) autoVideoIds.push(_m[1]);
-// Deduplicate
-const uniqueVideoIds = [...new Set(autoVideoIds)];
 
 // --- Auto-extract rule-list items for FAQ answer ---
 const ruleListMatch = rawBody.match(/<ul\s+class="rule-list">([\s\S]*?)<\/ul>/);
@@ -491,7 +473,6 @@ const lastmodDisplay = modifiedTime
     breadcrumbs={crumbs}
     collection={collection}
     sectionChildren={sectionChildrenForSchema}
-    autoVideoIds={uniqueVideoIds}
     ruleListItems={ruleListItems}
     usePolishFont={!!data.use_polish_font}
     needsJQuery36={needsJQuery36}
@@ -1508,6 +1489,14 @@ const lastmodDisplay = modifiedTime
                 <span data-pagefind-ignore aria-hidden="true" set:html={watermark} />
                 <slot />
                 <span data-pagefind-ignore aria-hidden="true" set:html={watermark} />
+
+                {/* Crawlable rendering of `videoPanel`. The slide-up panel at the
+                    end of <body> keeps the same entries behind a button, where
+                    a crawler cannot see them; this is what the page's
+                    VideoObject markup actually points at. */}
+                {data.videoPanel?.items?.length > 0 && (
+                  <VideoSection videos={data.videoPanel} lang={lang} />
+                )}
 
                 {/* Related industry pages */}
                 {relatedIndustryLinks.length > 0 && (
