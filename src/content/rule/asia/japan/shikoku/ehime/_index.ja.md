@@ -108,6 +108,14 @@ references:
     text: 総務省統計局「人口推計（2024年10月1日現在）」 https://www.stat.go.jp/data/jinsui/
   - key: gsi_mencho_2024
     text: 国土地理院「全国都道府県市区町村別面積調」 https://www.gsi.go.jp/KOKUJYOHO/MENCHO.html
+videoPanel:
+  items:
+    - type: youtube
+      id: "DZI4d6j-QpA"
+      title: "愛媛にある菊間国家石油備蓄基地"
+      description: "菊間国家石油備蓄基地とは？"
+      uploadDate: "2026-08-31T02:01:06-08:00"
+      duration: "PT33S"
 ---
 
 <div class="main-desciption country-description">

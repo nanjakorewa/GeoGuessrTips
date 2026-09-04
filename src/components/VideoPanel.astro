@@ -19,6 +19,13 @@
  * attributes, same inline styling (incl. the 326px min / 540px max width) and
  * same placeholder markup, with the permalink and credit line intact. Nothing
  * here overrides those styles — the card is sized to fit the embed instead.
+ *
+ * `data-instgrm-captioned` is deliberately NOT among those attributes, and is
+ * not in the code Instagram's share sheet hands out either. It makes embed.js
+ * render the tall variant carrying the post's whole caption, so every card ends
+ * up as tall as its own hashtag list and the row goes ragged, with the card
+ * captions landing at a different height under each video. Without it the reels
+ * all render at the same height.
  */
 import type { Language } from "@lib/i18n-utils";
 import { t } from "@i18n/translations";
@@ -137,7 +144,6 @@ const cards = items.map((v) => ({
                 ) : (
                   <blockquote
                     class="instagram-media"
-                    data-instgrm-captioned
                     data-instgrm-permalink={v.permalink}
                     data-instgrm-version="14"
                     style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"

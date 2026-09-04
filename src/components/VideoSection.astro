@@ -20,6 +20,13 @@
  * blockquote + embed.js dance the modal uses: embed.js only runs after the
  * modal opens, and an iframe is what needs to be in the markup here anyway.
  *
+ * That endpoint serves a whole card - avatar row, media, action bar, caption -
+ * not a bare player, so unlike a YouTube iframe it has an intrinsic height that
+ * no fixed aspect box fits; a 9/16 frame simply clips its bottom off. Instagram
+ * embeds therefore get their own height, and the embed reports its real height
+ * back through the `MEASURE` postMessage that Instagram's own embed.js listens
+ * for (see the script below) - the same mechanism, without the 100KB script.
+ *
  * Rendered inside the article flow (never inside a `{{% tabs %}}` block, whose
  * panes are display:none until clicked). The modal is left in place: it only
  * covers the page once opened, so nothing is duplicated on screen.
@@ -65,13 +72,15 @@ const cards = items.map((v) => ({
     </h2>
     <ul class="video-section__list">
       {cards.map((v) => (
-        <li class={`video-section__item video-section__item--${v.orientation ?? "portrait"}`}>
+        <li class={`video-section__item video-section__item--${v.orientation ?? "portrait"} video-section__item--${v.type}`}>
           <div class="video-section__frame">
             <iframe
               src={v.src}
               title={v.title ?? (v.type === "youtube" ? "YouTube" : "Instagram")}
               loading="lazy"
               frameborder="0"
+              scrolling={v.type === "instagram" ? "no" : undefined}
+              data-ig-embed={v.type === "instagram" ? "" : undefined}
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerpolicy="strict-origin-when-cross-origin"
               allowfullscreen
@@ -83,6 +92,40 @@ const cards = items.map((v) => ({
     </ul>
   </section>
 )}
+
+<script is:inline>
+  /* Instagram's embed page posts its rendered height to the parent as a
+     `MEASURE` message; this is the one thing embed.js does that matters here.
+     The frame is matched by comparing `event.source` with each iframe's
+     contentWindow — the embed does not tell us which of them it is. */
+  (function () {
+    var frames = document.querySelectorAll("iframe[data-ig-embed]");
+    if (!frames.length) return;
+
+    window.addEventListener("message", function (e) {
+      if (typeof e.data !== "string") return;
+      if (e.origin.indexOf("//www.instagram.com") === -1) return;
+
+      var data;
+      try {
+        data = JSON.parse(e.data);
+      } catch (err) {
+        return;
+      }
+      if (!data || data.type !== "MEASURE" || !data.details) return;
+
+      var height = parseInt(data.details.height, 10);
+      if (!height) return;
+
+      for (var i = 0; i < frames.length; i++) {
+        if (frames[i].contentWindow === e.source) {
+          frames[i].style.height = height + "px";
+          return;
+        }
+      }
+    });
+  })();
+</script>
 
 <style>
   .video-section {
@@ -136,6 +179,33 @@ const cards = items.map((v) => ({
     width: 100%;
     height: 100%;
     border: 0;
+  }
+
+  /* Instagram: no aspect box (see the note at the top of this file). The card
+     is laid out by the embed itself, so the frame just wraps it and the iframe
+     carries the height — a generous fallback here, the measured value once the
+     embed reports it. 326px is the minimum width Instagram's embed renders at,
+     so the frame is never narrowed past it on purpose. */
+  .video-section__item--instagram .video-section__frame {
+    width: min(340px, 100%);
+    aspect-ratio: auto;
+    overflow: visible;
+    background: transparent;
+  }
+
+  .video-section__item--instagram .video-section__frame iframe {
+    position: static;
+    display: block;
+    width: 100%;
+    /* Close to what a reel embed measures at this width (~548px), so the
+       correction below is invisible; the exact value arrives by postMessage. */
+    height: 560px;
+    border-radius: 8px;
+    background: #fff;
+  }
+
+  .video-section__item--instagram .video-section__caption {
+    max-width: 340px;
   }
 
   .video-section__caption {
