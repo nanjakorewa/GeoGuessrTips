@@ -3,6 +3,7 @@ import type { Language } from "@lib/i18n-utils";
 import { t } from "@i18n/translations";
 import { getLocale, buildUrl, extractLangFromId, extractSlugFromId, LANGUAGES, DEFAULT_LANG } from "@lib/i18n-utils";
 import { buildContentTree, getSiblingCountries } from "@lib/content-tree";
+import { buildRuleAreaLinks } from "@lib/map-area-links";
 import { generateDescription } from "@lib/seo-utils";
 import { encodeWatermark } from "@lib/watermark";
 import { getCollection } from "astro:content";
@@ -415,6 +416,18 @@ const useOSMHero = data.mapProvider === "osm";
 const heroMapDef = useOSMHero
   ? resolveHeroMap(collection, currentSlug, data)
   : null;
+// ヒーロー地図の領域を記事ページへのリンクにする。
+//  - 大陸ハブ（/rule/europe/ など）の world.svg → 国ページ
+//  - 日本トップ / 地方ハブの japan.svg        → 都道府県ページ
+// それ以外（単一国の SVG など）は対応するページがないためリンクしない。
+const heroMapAreaLinks =
+  heroMapDef && collection === "rule"
+    ? heroMapDef.kind === "world"
+      ? buildRuleAreaLinks(sectionEntries, lang, "country")
+      : heroMapDef.svgPath === "/maps/countries/japan.svg"
+        ? buildRuleAreaLinks(sectionEntries, lang, "prefecture")
+        : null
+    : null;
 const needsJSMaps = !useOSMHero && (!!data.mapName || !!data.map_index);
 const isQuizPage = data.pagetype === "quiz";
 
@@ -437,13 +450,9 @@ const heroBonus =
 // Japanese character is one unit).
 const contentScore = bodyChars + heroBonus;
 const sidebarAdCount = contentScore >= 4000 ? 3 : contentScore >= 1200 ? 2 : 1;
-// /rule/ ルートのワールドマップは OSM ではないが、OSM ヒーローと同等の見た目
-// (タイトル左 / マップ右 / 紺色フルブリード / パンくずを下部に) にしたい。
-// 影響範囲を最小化するため、コレクションのルート (currentSlug が空) で
-// map_index のみ指定されているケースに限定する。
-const useWorldJSMapHero =
-  !useOSMHero && !!data.map_index && !data.mapName && currentSlug === "";
-const useHeroLayout = useOSMHero || useWorldJSMapHero;
+// /rule/ ルートのワールドマップも含め、ヒーロー地図は StaticGeoMap に統一した
+// (タイトル左 / マップ右 / 紺色フルブリード / パンくずを下部に)。
+const useHeroLayout = useOSMHero;
 
 // --- Flag path ---
 const flagPath = data.flag ? `/flags/${data.flag}` : "";
@@ -1129,6 +1138,7 @@ const lastmodDisplay = modifiedTime
               def={heroMapDef}
               pins={data.mapPins || []}
               regions={data.mapRegions}
+              areaLinks={heroMapAreaLinks}
             />
           ) : (
             <div class="rule-hero-spots">
@@ -1250,26 +1260,6 @@ const lastmodDisplay = modifiedTime
       })();
     </script>
     </Fragment>
-  )}
-
-  {/* JSMap ヒーロー（map_index のセクションインデックス: /rule/ ワールドマップ等） */}
-  {useWorldJSMapHero && (
-    <section class="rule-hero-section rule-hero-section--jsmap">
-      <div class="rule-hero-section__inner rule-hero-section__inner--jsmap">
-        <div class="rule-hero-title">
-          <h1 class="rule-hero-title__h1">
-            {data.title_prefix && <span class="rule-hero-title__prefix">{data.title_prefix}</span>}
-            <span class="rule-hero-title__main">{data.title}</span>
-            {data.title_suffix && <span class="rule-hero-title__suffix">{data.title_suffix}</span>}
-          </h1>
-        </div>
-        <div class="rule-hero-map">
-          <div class={`areamap-container areamap-container--hero ${data.additional_map_class || ""}`}>
-            <div class="jsmaps-wrapper" id="world-map"></div>
-          </div>
-        </div>
-      </div>
-    </section>
   )}
 
   {/* ヒーロー下のスライドショー（heroGallery 指定時のみ） */}

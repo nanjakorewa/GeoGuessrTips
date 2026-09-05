@@ -125,6 +125,10 @@ export function resolveHeroMap(
         fit: "full",
       };
     }
+    // /rule/ のトップは世界全図（クロップなし）。国のエリアから各ページへ飛べる。
+    if (!slug) {
+      return { kind: "world", svgPath: "/mp/maps/world.svg", fit: "full" };
+    }
     const dir = lastSegment(slug);
     if (WORLD_CROP_SLUGS.has(dir)) {
       return { kind: "world", svgPath: "/mp/maps/world.svg", fit: "pins" };

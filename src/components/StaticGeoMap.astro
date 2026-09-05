@@ -16,6 +16,8 @@ import fs from "node:fs";
 import path from "node:path";
 import type { HeroMapDef } from "../data/hero-map";
 import { projectHero } from "../data/hero-map";
+import type { MapAreaLinks } from "@lib/map-area-links";
+import { areaCodeKey, areaNameKey } from "@lib/map-area-links";
 
 interface Pin {
   lat: number;
@@ -47,9 +49,14 @@ interface Props {
   regions?: MapRegions;
   /** 地図の最大表示高さ(px) */
   maxHeight?: number;
+  /**
+   * 領域 → 記事ページのリンク表（lib/map-area-links.ts）。
+   * 渡すと、該当する <path> がビルド時に <a href> で包まれてクリック可能になる。
+   */
+  areaLinks?: MapAreaLinks | null;
 }
 
-const { def, pins, regions, maxHeight = 480 } = Astro.props;
+const { def, pins, regions, maxHeight = 480, areaLinks = null } = Astro.props;
 
 // ---------- SVG 読み込み ----------
 const svgFile = path.join(process.cwd(), "public", def.svgPath.replace(/^\/+/, ""));
@@ -112,6 +119,57 @@ if (regions && svgInner) {
       `<path style="fill:${group.color};fill-opacity:0.55" data-region-group="${group.name.replace(/"/g, "&quot;")}"`,
     );
   });
+}
+
+// ---------- 領域リンクとホバー名（ビルド時に <a> で包む） ----------
+// 国（world.svg の id/name/class）や都道府県（japan.svg の data-name/data-code）を
+// リンク表と突き合わせ、ページがある領域だけを SVG のハイパーリンクにする。
+// ランタイム JS を使わないので、中クリック・リンク先のプレビューもそのまま効く。
+// あわせて data-area-label を振り、ホバー時の名前表示（下のスクリプト）に使う。
+function escAttr(s: string): string {
+  return s
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+let linkedAreas = 0;
+let labeledAreas = 0;
+if (areaLinks && svgInner) {
+  svgInner = svgInner.replace(
+    /<path\b([^>]*)>([\s\S]*?)<\/path>/g,
+    (full, attrs: string, inner: string) => {
+      // 属性名の前は行頭か空白（"name" が "data-name" に誤マッチしないように）
+      const attr = (name: string) =>
+        attrs.match(new RegExp(`(?:^|\\s)${name}="([^"]*)"`))?.[1];
+      // class を国名として使うのは world.svg だけ（複数ポリゴンの国は id を持たず
+      // class="France" のように国名が入る）。他の SVG では単なる CSS クラス。
+      const className = def.kind === "world" ? attr("class") : undefined;
+      const svgName = attr("data-name") ?? attr("name") ?? className;
+      const keys: string[] = [];
+      if (svgName) keys.push(areaNameKey(svgName));
+      for (const c of [attr("id"), attr("data-code")]) {
+        if (c) keys.push(areaCodeKey(c));
+      }
+      const key = keys.find((k) => areaLinks[k]);
+      const link = key ? areaLinks[key] : null;
+      // ホバー時に出す名前。ページがあればその言語のタイトル、なければ SVG 側の
+      // 英語名（ページのない国や属領）。名前が取れない小島などは対象外。
+      const label = link?.title ?? svgName;
+      if (!label) return full;
+      labeledAreas++;
+      const labeled = `<path${attrs} data-area-label="${escAttr(label)}">${inner}</path>`;
+      if (!link) return labeled;
+      linkedAreas++;
+      // <svg role="img"> の中身は支援技術から 1 枚の画像として扱われるため、
+      // ここのリンクはキーボード操作の対象にしない（tabindex="-1"）。
+      // 同じページへはサイドバーのツリーからたどれる。
+      return (
+        `<a class="geo-area-link" href="${escAttr(link.url)}" tabindex="-1" aria-hidden="true">` +
+        `${labeled}</a>`
+      );
+    },
+  );
 }
 
 // ---------- 表示 viewBox ----------
@@ -192,7 +250,11 @@ const credit =
       : "";
 ---
 
-<div class="geo-hero-map" data-map-kind={def.kind}>
+<div
+  class="geo-hero-map"
+  data-map-kind={def.kind}
+  data-has-links={linkedAreas > 0 ? "" : null}
+>
   <div class="geo-hero-map__stage" style={`width:min(100%, ${stageMaxW}px)`}>
     <svg
       class="geo-hero-map__svg"
@@ -237,6 +299,7 @@ const credit =
         ))}
       </div>
     )}
+    {labeledAreas > 0 && <div class="geo-area-tip" hidden></div>}
   </div>
   {credit && <div class="geo-hero-map__credit">{credit}</div>}
 </div>
@@ -300,6 +363,55 @@ const credit =
     fill: #39434d;
     stroke: #5d707f;
   }
+  /* ---- クリックで記事へ飛べる領域 ---- */
+  /* リンク表を渡した地図では、ページのない領域を hover で光らせない
+     （クリックできるのはどこかを見た目で区別する）。*/
+  .geo-hero-map[data-has-links] .geo-hero-map__svg path:hover {
+    fill: #f6f8f4;
+  }
+  [data-theme="dark"] .geo-hero-map[data-has-links] .geo-hero-map__svg path:hover {
+    fill: #39434d;
+  }
+  .geo-hero-map[data-has-links] .geo-hero-map__svg .geo-area-link {
+    cursor: pointer;
+  }
+  .geo-hero-map[data-has-links] .geo-hero-map__svg .geo-area-link > path {
+    transition: fill 0.15s ease;
+  }
+  .geo-hero-map[data-has-links] .geo-hero-map__svg .geo-area-link:hover > path {
+    fill: #ffc477;
+    stroke: #e07b20;
+    stroke-width: 1;
+  }
+  [data-theme="dark"]
+    .geo-hero-map[data-has-links]
+    .geo-hero-map__svg
+    .geo-area-link:hover
+    > path {
+    fill: #c98a3c;
+    stroke: #e07b20;
+  }
+  /* コロプレス着色済みの path は inline style を持つため、上のリンク色より優先される
+     （塗り分けが主役の地図では色を変えない）。 */
+
+  /* ---- ホバー中の領域名 ---- */
+  .geo-area-tip {
+    position: absolute;
+    z-index: 6;
+    background: rgba(30, 58, 95, 0.94);
+    color: #fff;
+    padding: 3px 8px;
+    font-size: 12px;
+    line-height: 1.4;
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", system-ui, sans-serif;
+    white-space: nowrap;
+    pointer-events: none;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  }
+  [data-theme="dark"] .geo-area-tip {
+    background: rgba(12, 16, 20, 0.94);
+  }
+
   .geo-hero-map__credit {
     position: absolute;
     right: 6px;
@@ -428,6 +540,40 @@ const credit =
 <script is:inline>
   (function () {
     function init() {
+      // 領域名のツールチップ（data-area-label を持つ path にオンマウスしたとき）
+      document.querySelectorAll(".geo-hero-map").forEach(function (map) {
+        var stage = map.querySelector(".geo-hero-map__stage");
+        var svg = map.querySelector(".geo-hero-map__svg");
+        var tip = map.querySelector(".geo-area-tip");
+        if (!stage || !svg || !tip) return;
+        function hide() {
+          tip.hidden = true;
+        }
+        svg.addEventListener("mousemove", function (ev) {
+          var target = ev.target;
+          var label =
+            target && target.getAttribute
+              ? target.getAttribute("data-area-label")
+              : null;
+          if (!label) return hide();
+          if (tip.textContent !== label) tip.textContent = label;
+          tip.hidden = false;
+          // カーソルの右下に出し、ステージからはみ出す側では反転させる
+          var rect = stage.getBoundingClientRect();
+          var x = ev.clientX - rect.left;
+          var y = ev.clientY - rect.top;
+          var w = tip.offsetWidth;
+          var h = tip.offsetHeight;
+          var left = x + 12;
+          if (left + w > rect.width - 4) left = x - 12 - w;
+          var top = y + 14;
+          if (top + h > rect.height - 4) top = y - 14 - h;
+          tip.style.left = Math.max(4, left) + "px";
+          tip.style.top = Math.max(4, top) + "px";
+        });
+        svg.addEventListener("mouseleave", hide);
+      });
+
       // ピンのポップアップ開閉（クリックでトグル、外側クリックで閉じる）
       document.querySelectorAll(".geo-pin__dot").forEach(function (dot) {
         dot.addEventListener("click", function (ev) {
