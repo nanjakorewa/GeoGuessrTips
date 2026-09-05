@@ -1490,14 +1490,6 @@ const lastmodDisplay = modifiedTime
                 <slot />
                 <span data-pagefind-ignore aria-hidden="true" set:html={watermark} />
 
-                {/* Crawlable rendering of `videoPanel`. The slide-up panel at the
-                    end of <body> keeps the same entries behind a button, where
-                    a crawler cannot see them; this is what the page's
-                    VideoObject markup actually points at. */}
-                {data.videoPanel?.items?.length > 0 && (
-                  <VideoSection videos={data.videoPanel} lang={lang} />
-                )}
-
                 {/* Related industry pages */}
                 {relatedIndustryLinks.length > 0 && (
                   <div class="main-information">
@@ -1572,6 +1564,16 @@ const lastmodDisplay = modifiedTime
                   </div>
                 )}
               </div>
+            )}
+
+            {/* Crawlable rendering of `videoPanel`. The slide-up panel at the
+                end of <body> keeps the same entries behind a button, where a
+                crawler cannot see them; this is what the page's VideoObject
+                markup actually points at. Sits just above the "Updated on"
+                line, below the reference / sibling-country cards it is styled
+                to match. */}
+            {data.videoPanel?.items?.length > 0 && (
+              <VideoSection videos={data.videoPanel} lang={lang} />
             )}
 
             {/* Last modified */}

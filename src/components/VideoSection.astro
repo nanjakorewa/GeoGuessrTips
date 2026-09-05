@@ -27,9 +27,17 @@
  * back through the `MEASURE` postMessage that Instagram's own embed.js listens
  * for (see the script below) - the same mechanism, without the 100KB script.
  *
- * Rendered inside the article flow (never inside a `{{% tabs %}}` block, whose
- * panes are display:none until clicked). The modal is left in place: it only
- * covers the page once opened, so nothing is duplicated on screen.
+ * Rendered at the foot of the article, directly above the "Updated on ..."
+ * line and below the reference / sibling-country cards (never inside a
+ * `{{% tabs %}}` block, whose panes are display:none until clicked). It reuses
+ * their `.main-information` shell so the three read as one family of cards.
+ * The modal is left in place: it only covers the page once opened, so nothing
+ * is duplicated on screen.
+ *
+ * The list is a single horizontal row rather than a wrapping grid: pages are
+ * expected to accumulate videos over time, and a wrapping grid would push the
+ * page footer further down with every one added. Overflow scrolls sideways,
+ * with arrow buttons that appear only while there is somewhere to scroll to.
  */
 import type { Language } from "@lib/i18n-utils";
 import { t } from "@i18n/translations";
@@ -56,6 +64,17 @@ const items = videos.items.filter(
   (v) => (v.type === "youtube" && v.id) || (v.type === "instagram" && v.url)
 );
 
+// Arrow-button labels. Kept local rather than added to the shared dictionary:
+// they are read only by screen readers, and nothing else needs them.
+const NAV_LABELS: Record<Language, { prev: string; next: string }> = {
+  ja: { prev: "前の動画へ", next: "次の動画へ" },
+  en: { prev: "Previous videos", next: "More videos" },
+  id: { prev: "Video sebelumnya", next: "Video berikutnya" },
+  es: { prev: "Vídeos anteriores", next: "Más vídeos" },
+  pt: { prev: "Vídeos anteriores", next: "Mais vídeos" },
+};
+const { prev: prevLabel, next: nextLabel } = NAV_LABELS[lang] ?? NAV_LABELS.en;
+
 const cards = items.map((v) => ({
   ...v,
   src:
@@ -66,31 +85,49 @@ const cards = items.map((v) => ({
 ---
 
 {cards.length > 0 && (
-  <section class="video-section" aria-labelledby="video-section-title">
-    <h2 class="section-title" id="video-section-title">
-      <i class="fas fa-play-circle"></i> {heading}
-    </h2>
-    <ul class="video-section__list">
-      {cards.map((v) => (
-        <li class={`video-section__item video-section__item--${v.orientation ?? "portrait"} video-section__item--${v.type}`}>
-          <div class="video-section__frame">
-            <iframe
-              src={v.src}
-              title={v.title ?? (v.type === "youtube" ? "YouTube" : "Instagram")}
-              loading="lazy"
-              frameborder="0"
-              scrolling={v.type === "instagram" ? "no" : undefined}
-              data-ig-embed={v.type === "instagram" ? "" : undefined}
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allowfullscreen
-            ></iframe>
-          </div>
-          {v.title && <p class="video-section__caption">{v.title}</p>}
-        </li>
-      ))}
-    </ul>
-  </section>
+  <div class="main-information video-section" aria-labelledby="video-section-title">
+    <h4 class="section-title" id="video-section-title">
+      <i class="fas fa-play-circle"></i>{" "}{heading}
+    </h4>
+    <div class="video-section__scroller" data-video-scroller>
+      <ul class="video-section__list" id="video-section-track" data-video-track>
+        {cards.map((v) => (
+          <li class={`video-section__item video-section__item--${v.orientation ?? "portrait"} video-section__item--${v.type}`}>
+            <div class="video-section__frame">
+              <iframe
+                src={v.src}
+                title={v.title ?? (v.type === "youtube" ? "YouTube" : "Instagram")}
+                loading="lazy"
+                frameborder="0"
+                scrolling={v.type === "instagram" ? "no" : undefined}
+                data-ig-embed={v.type === "instagram" ? "" : undefined}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen
+              ></iframe>
+            </div>
+            {v.title && <p class="video-section__caption">{v.title}</p>}
+          </li>
+        ))}
+      </ul>
+      <button
+        type="button"
+        class="video-section__nav video-section__nav--prev"
+        data-video-nav="-1"
+        aria-label={prevLabel}
+        aria-controls="video-section-track"
+        hidden
+      ><i class="fas fa-chevron-left" aria-hidden="true"></i></button>
+      <button
+        type="button"
+        class="video-section__nav video-section__nav--next"
+        data-video-nav="1"
+        aria-label={nextLabel}
+        aria-controls="video-section-track"
+        hidden
+      ><i class="fas fa-chevron-right" aria-hidden="true"></i></button>
+    </div>
+  </div>
 )}
 
 <script is:inline>
@@ -127,18 +164,97 @@ const cards = items.map((v) => ({
   })();
 </script>
 
+<script is:inline>
+  /* Horizontal scroller. The arrows are `hidden` in the markup and stay that
+     way unless the track actually overflows, so a page with one or two videos
+     shows no chrome at all. `hidden` is toggled rather than a class so the
+     buttons leave the tab order too when there is nothing to scroll. */
+  (function () {
+    var scrollers = document.querySelectorAll("[data-video-scroller]");
+    if (!scrollers.length) return;
+
+    for (var i = 0; i < scrollers.length; i++) {
+      (function (root) {
+        var track = root.querySelector("[data-video-track]");
+        var navs = root.querySelectorAll("[data-video-nav]");
+        if (!track || !navs.length) return;
+
+        function sync() {
+          // 1px of slack: sub-pixel layout leaves scrollWidth a hair over
+          // clientWidth on tracks that visibly fit.
+          var max = track.scrollWidth - track.clientWidth;
+          var overflowing = max > 1;
+          root.classList.toggle("is-scrollable", overflowing);
+          for (var j = 0; j < navs.length; j++) {
+            var dir = Number(navs[j].getAttribute("data-video-nav"));
+            var atEnd = dir < 0
+              ? track.scrollLeft <= 1
+              : track.scrollLeft >= max - 1;
+            navs[j].hidden = !overflowing || atEnd;
+          }
+        }
+
+        for (var k = 0; k < navs.length; k++) {
+          navs[k].addEventListener("click", function () {
+            var dir = Number(this.getAttribute("data-video-nav"));
+            track.scrollBy({ left: dir * track.clientWidth * 0.85, behavior: "smooth" });
+          });
+        }
+
+        track.addEventListener("scroll", sync, { passive: true });
+        window.addEventListener("resize", sync);
+        // Instagram embeds resize themselves after the MEASURE message lands,
+        // and lazy iframes settle late; ResizeObserver catches both.
+        if (window.ResizeObserver) new ResizeObserver(sync).observe(track);
+        sync();
+      })(scrollers[i]);
+    }
+  })();
+</script>
+
 <style>
-  .video-section {
-    margin: 2.5rem 0;
+  /* Shell, padding and border come from `.main-information` (see
+     styles/common.css) so this card matches the reference / sibling-country
+     cards above it. `div.main-information` leaves the right side unpadded;
+     that suits a scroller, whose row should run to the card's edge. */
+  .video-section .section-title {
+    margin-right: 1em;
+  }
+
+  .video-section__scroller {
+    position: relative;
   }
 
   .video-section__list {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    align-items: flex-start;
     gap: 20px;
-    padding-left: 0;
+    /* Right padding gives the last card the same breathing room the card's own
+       left padding gives the first; bottom padding clears the scrollbar. */
+    padding: 0 1em 0.85rem 0;
     margin: 0;
     list-style: none;
+    overflow-x: auto;
+    overflow-y: hidden;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    scrollbar-color: var(--primary-color) transparent;
+  }
+
+  .video-section__list::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .video-section__list::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, var(--secondary-color), var(--primary-color));
+    border-radius: 6px;
+  }
+
+  .video-section__list::-webkit-scrollbar-track {
+    background: transparent;
   }
 
   .video-section__list > li::before {
@@ -149,20 +265,25 @@ const cards = items.map((v) => ({
   .video-section__item {
     padding-left: 0;
     margin-bottom: 0;
-    flex: 0 1 auto;
+    /* Never shrink: a squeezed embed is worse than one the reader scrolls to. */
+    flex: 0 0 auto;
+    scroll-snap-align: start;
   }
 
   /* Shorts / reels are portrait; ordinary uploads opt into 16:9 via
      `orientation: landscape` in the frontmatter. Google skips videos it
      considers too small, so these are sized generously rather than as
-     thumbnails. */
+     thumbnails. The viewport-relative cap keeps a card narrower than a phone
+     screen — so the next one peeks in and the row reads as scrollable — and,
+     unlike a percentage, resolves without depending on the flex item's own
+     content-derived width. */
   .video-section__item--portrait .video-section__frame {
-    width: min(320px, 100%);
+    width: min(320px, 72vw);
     aspect-ratio: 9 / 16;
   }
 
   .video-section__item--landscape .video-section__frame {
-    width: min(560px, 100%);
+    width: min(560px, 86vw);
     aspect-ratio: 16 / 9;
   }
 
@@ -187,7 +308,7 @@ const cards = items.map((v) => ({
      embed reports it. 326px is the minimum width Instagram's embed renders at,
      so the frame is never narrowed past it on purpose. */
   .video-section__item--instagram .video-section__frame {
-    width: min(340px, 100%);
+    width: min(340px, 86vw);
     aspect-ratio: auto;
     overflow: visible;
     background: transparent;
@@ -217,5 +338,52 @@ const cards = items.map((v) => ({
 
   .video-section__item--landscape .video-section__caption {
     max-width: 560px;
+  }
+
+  /* Arrows. Unhidden by the script only while the track overflows in that
+     direction, so they never advertise a scroll that cannot happen. */
+  .video-section__nav {
+    position: absolute;
+    top: 40%;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border: 1px solid var(--border-soft);
+    border-radius: 50%;
+    background: var(--surface-color, #fff);
+    color: var(--primary-color);
+    box-shadow: 0 2px 8px rgba(15, 27, 37, 0.18);
+    cursor: pointer;
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+
+  .video-section__nav[hidden] {
+    display: none;
+  }
+
+  .video-section__nav:hover,
+  .video-section__nav:focus-visible {
+    background: var(--primary-color);
+    color: #fff;
+  }
+
+  .video-section__nav--prev {
+    left: 4px;
+  }
+
+  .video-section__nav--next {
+    right: 12px;
+  }
+
+  /* Touch devices scroll with a finger and hide their scrollbars; the arrows
+     would only cover an embed there. */
+  @media (hover: none) {
+    .video-section__nav {
+      display: none;
+    }
   }
 </style>
