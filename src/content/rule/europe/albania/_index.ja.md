@@ -105,6 +105,13 @@ related_quizzes: [
     ["/quiz/states/europe/albania/", "州当てクイズ"],
     ["/quiz/cities/europe/albania/", "都市当てクイズ"],
     ]
+videoPanel:
+  items:
+    - type: youtube
+      id: "nhQlOqhzmZI"
+      title: "アルバニアではなぜタンクが屋根の上にある？"
+      description: "アルバニアではなぜタンクが屋根の上にある？"
+      uploadDate: "2026-09-01T02:01:06-08:00"
 ---
 
 <div class="main-desciption country-description">
